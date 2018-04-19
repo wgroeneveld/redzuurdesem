@@ -1,0 +1,20 @@
+baseURL = "http://www.redzuurdesem.be"
+title = "Red Zuurdesem"
+publishDir = "docs"
+languageCode = "en-us"
+
+##### 
+# theme config
+# see https://learn.netlify.com/en/basics/installation/
+theme = "hugo-theme-learn"
+
+[params]
+themeVariant = "green"
+
+# For search functionnality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[blackfriday]
+  extensionsmask = ["fencedCode"]
+  fractions = false
