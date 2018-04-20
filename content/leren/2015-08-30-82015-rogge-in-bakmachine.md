@@ -26,7 +26,7 @@ Als je enkel rogge gebruikt zal je snel merken dat rogge + water gelijk staat aa
 
 Dit fenomeen is problematisch bij een broodbak machine omdat de kneedhaak bijna nooit de hele oppverlvkate van het bakblik in beslag neemt. Het kneedproces vertrouwt er op dat het deeg als één samenhangend bolletje vrolijk rondd raait in je bakblik. Nu, **dat is niet zo** bij rogge, en zeker niet bij 100% hydratatie. Je zal dus eerst even zelf moeten mixen met een spatula: dit hoeft slechts één minuut te duren &#8211; zolang het water volledig is opgeslorpt door de bloem en er geen bloem meer zichtbaar is, is dat voldoende.<figure id="attachment_930" style="width: 800px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-930" src="http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098.jpg" alt="onvoldoende gemixt door de machine" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][2]<figcaption class="wp-caption-text">onvoldoende gemixt door de machine</figcaption></figure> 
+[<img class="size-full wp-image-930" src="https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098.jpg" alt="onvoldoende gemixt door de machine" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][2]<figcaption class="wp-caption-text">onvoldoende gemixt door de machine</figcaption></figure> 
 
 ### Hoe bak ik in een voorverwarmde oven?
 
@@ -41,7 +41,7 @@ Nummer twee is een groter probleem; meestal wordt na het kneden een rijsperiode 
   
 Het resultaat is een &#8220;ingezakt&#8221; dak dat je duidelijk hier kan zien:<figure id="attachment_931" style="width: 800px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-931" src="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_1099.jpg" alt="Een ingezakt dak" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_1099.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_1099-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][3]<figcaption class="wp-caption-text">Een ingezakt dak</figcaption></figure> 
+[<img class="size-full wp-image-931" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_1099.jpg" alt="Een ingezakt dak" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_1099.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_1099-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][3]<figcaption class="wp-caption-text">Een ingezakt dak</figcaption></figure> 
 
 ### Wat moet ik dan doen om toch met rogge te bakken?
 
@@ -56,7 +56,7 @@ Je kan ook het broodbak machine gebruiken als incubatiekamer om je deeg afgedekt
   1. Mix zelf, stort uit in bakblik
   2. Programmeer je machine (**zonder kneedhaak**) , en zet het uit nadat het opgewarmd is voor de eerste rijs. Laat dit zo afgedekt staan, de temperatuur zal zeer traag dalen, maar veel stabieler dan het cakeblik in op het aanrecht van je keuken.<figure id="attachment_932" style="width: 800px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-932" src="http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095.jpg" alt="Gerezen rogge deeg in bbm" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][4]<figcaption class="wp-caption-text">Gerezen rogge deeg in bbm</figcaption></figure> 
+[<img class="size-full wp-image-932" src="https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095.jpg" alt="Gerezen rogge deeg in bbm" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][4]<figcaption class="wp-caption-text">Gerezen rogge deeg in bbm</figcaption></figure> 
 
 Hier zijn alvast nog enkele nuttige links om te leren werken met desem en je broodbak machine:
 
@@ -65,9 +65,9 @@ Hier zijn alvast nog enkele nuttige links om te leren werken met desem en je bro
 
 Succes!
 
- [1]: http://www.redzuurdesem.be/82015-volkoren-rogge/
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098.jpg
- [3]: http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_1099.jpg
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095.jpg
+ [1]: https://redzuurdesem.be/82015-volkoren-rogge/
+ [2]: https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098.jpg
+ [3]: https://redzuurdesem.be/wp-content/uploads/2015/08/MG_1099.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095.jpg
  [5]: http://desemdoos.be/recept/12015-rogge-zaden-met-broodbakmachine/
- [6]: http://www.redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/
+ [6]: https://redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/

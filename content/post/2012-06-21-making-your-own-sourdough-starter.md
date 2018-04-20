@@ -9,7 +9,7 @@ categories:
   - recipes
 
 ---
-[<img class="aligncenter size-full wp-image-110" title="starter_maken" src="http://localhost/savesourdough/wp-content/uploads/2012/06/starter_maken.jpg" alt="" width="1024" height="683" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/starter_maken.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+[<img class="aligncenter size-full wp-image-110" title="starter_maken" src="http://localhost/savesourdough/wp-content/uploads/2012/06/starter_maken.jpg" alt="" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
 &nbsp;
 

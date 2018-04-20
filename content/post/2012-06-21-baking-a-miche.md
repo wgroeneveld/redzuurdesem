@@ -17,7 +17,7 @@ The bakery &#8220;[Poilâne][2]&#8221; in Paris, France made miche breads extrem
 
 This is for example a miche I baked using the &#8220;light rye&#8221; recipe from Mr. Hamelman&#8217;s &#8220;[BREAD][3]&#8221; book:<figure id="attachment_168" style="width: 960px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-168" title="light rye miche" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6199.jpg" alt="" width="960" height="662" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6199.jpg 1200w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6199-300x207.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6199-1024x706.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6199-700x483.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />][4]<figcaption class="wp-caption-text">light rye miche</figcaption></figure> 
+[<img class=" wp-image-168" title="light rye miche" src="https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6199.jpg" alt="" width="960" height="662" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6199.jpg 1200w, https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6199-300x207.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6199-1024x706.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6199-700x483.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />][4]<figcaption class="wp-caption-text">light rye miche</figcaption></figure> 
 
 <h1 style="text-align: left;">
   A wholewheat miche
@@ -27,7 +27,7 @@ Sifting out some bran from wholewheat flour (10% will give you 90% extraction fl
 
 As you can see, it&#8217;s quite dense and has a very low profile:<figure id="attachment_164" style="width: 960px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-164" title="_MG_6050" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6050.jpg" alt="" width="960" height="640" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6050.jpg 1200w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6050-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6050-1024x682.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6050-700x466.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />][5]<figcaption class="wp-caption-text">A low profile 100% wholewheat miche loaf (2kg!)</figcaption></figure> 
+[<img class=" wp-image-164" title="_MG_6050" src="https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6050.jpg" alt="" width="960" height="640" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6050.jpg 1200w, https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6050-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6050-1024x682.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6050-700x466.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />][5]<figcaption class="wp-caption-text">A low profile 100% wholewheat miche loaf (2kg!)</figcaption></figure> 
 
 <p style="text-align: left;">
   That doesn&#8217;t make it less tasty of course. Even better, a full wholewheat bread will give you more nutrients and fill your belly faster with less bread (meaning less sugars injected into your blood stream, making you less prone to aging problems! Wow.)
@@ -37,11 +37,11 @@ As you can see, it&#8217;s quite dense and has a very low profile:<figure id="at
   The dough was very sticky &#8211; even a bit after baking for an hour at 250°C. This kind of bread usually tastes better after a few days, and it&#8217;s even recommended to leave it wrapped in a cloth for 24 hours before cutting. I was not that patient, however. It tasted great out of the oven, but indeed even better the next day!<br /> (Amazing with fresh goat cheese, as pictured below)
 </p><figure id="attachment_166" style="width: 960px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-166" title="deboterham" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/deboterham1.jpg" alt="" width="960" height="640" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/deboterham1.jpg 1200w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/deboterham1-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/deboterham1-1024x682.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/deboterham1-700x466.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />][6]<figcaption class="wp-caption-text">The mildly sour taste pairs up well with fresh goat cheese.</figcaption></figure>
+[<img class=" wp-image-166" title="deboterham" src="https://redzuurdesem.be/wp-content/uploads/2012/06/deboterham1.jpg" alt="" width="960" height="640" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/deboterham1.jpg 1200w, https://redzuurdesem.be/wp-content/uploads/2012/06/deboterham1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/deboterham1-1024x682.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/deboterham1-700x466.jpg 700w" sizes="(max-width: 960px) 100vw, 960px" />][6]<figcaption class="wp-caption-text">The mildly sour taste pairs up well with fresh goat cheese.</figcaption></figure>
 
  [1]: http://en.wikipedia.org/wiki/Miche_(bread)
  [2]: http://www.poilane.com/index.php?
  [3]: http://www.amazon.com/Bread-Bakers-Book-Techniques-Recipes/dp/0471168572/ref=sr_1_1?ie=UTF8&qid=1341167679&sr=8-1&keywords=hamelman+bread
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6199.jpg
- [5]: http://www.redzuurdesem.be/wp-content/uploads/2012/06/MG_6050.jpg
- [6]: http://www.redzuurdesem.be/wp-content/uploads/2012/06/deboterham1.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6199.jpg
+ [5]: https://redzuurdesem.be/wp-content/uploads/2012/06/MG_6050.jpg
+ [6]: https://redzuurdesem.be/wp-content/uploads/2012/06/deboterham1.jpg

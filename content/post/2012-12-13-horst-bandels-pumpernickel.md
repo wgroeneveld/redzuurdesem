@@ -26,7 +26,7 @@ categories:
   - Uncategorized
 
 ---
-<figure id="attachment_546" style="width: 717px" class="wp-caption aligncenter">[<img class=" wp-image-546 " title="_MG_7825" src="http://www.redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg" alt="" width="717" height="510" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/12/MG_7825-300x213.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/12/MG_7825-700x498.jpg 700w" sizes="(max-width: 717px) 100vw, 717px" />][1]<figcaption class="wp-caption-text">grof volkoren roggebrood met belegen Brugse kaas</figcaption></figure> 
+<figure id="attachment_546" style="width: 717px" class="wp-caption aligncenter">[<img class=" wp-image-546 " title="_MG_7825" src="https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg" alt="" width="717" height="510" srcset="https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825-300x213.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825-700x498.jpg 700w" sizes="(max-width: 717px) 100vw, 717px" />][1]<figcaption class="wp-caption-text">grof volkoren roggebrood met belegen Brugse kaas</figcaption></figure> 
 
 Als enorm lang een broodje bakken op je verlanglijstje stond maar je tot nu toe geen recept hiervoor vond, zoek niet verder, die _moet je_ eens geprobeerd hebben. Gegeven de bereidheid tot de juiste tijd en liefde hierin te steken natuurlijk! En hiermee bedoel ik niet enkel het bakken zelf. [Pumpernickel brood][2] is een zeer zwaar zwart volkoren rogge brood gebakken in een rechthoekige vorm, of &#8220;pullman pan&#8221;, met een **gesloten deksel**. Dit geeft u die karakteristieke vierkante look bij de sneetjes van het brood.
 
@@ -113,7 +113,7 @@ Laat het brood volledig afkoelen na het uit de oven te nemen (door het uit de pa
 
 Smakelijk!
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg
  [2]: http://nl.wikipedia.org/wiki/Pumpernickel
  [3]: http://www.amazon.com/gp/product/1118132718/ref=amb_link_366932462_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=top-1&pf_rd_r=815EF7567EBD40F9BCE9&pf_rd_t=301&pf_rd_p=1438264882&pf_rd_i=bread
  [4]: http://lh4.ggpht.com/-xUCUdDNIDYA/UMjsxNFPLlI/AAAAAAAAGt0/fnLr7BzzJXQ/s1024/_MG_7709.JPG "_MG_7709.JPG"

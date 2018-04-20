@@ -25,7 +25,7 @@ categories:
   - learning
 
 ---
-[<img class="aligncenter size-medium wp-image-671" src="http://www.redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001-300x200.jpg" alt="_MG_7081-001" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="aligncenter size-medium wp-image-671" src="https://redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001-300x200.jpg" alt="_MG_7081-001" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Bakken met (volkoren) rogge bloem is altijd een beetje een uitdaging geweest voor mij. Ik hou van de intense smaak van een donker stukje rogge desem brood, en na het eten van twee stukken heb je meestal meer dan voldoende op. Het is heel spijtig dat er in België bijna nergens meer intensief met rogge gebakken wordt &#8211; een goed roggebrood vinden vereist een bezoekje naar Duitsland. Zelfs als amateur bakker is het moeilijk om roggebloem vast te krijgen. Volkoren roggemeel is niet zo moeilijk, maar roggebloem (volledig gezeefd zoals witte tarwebloem) is een heel ander paar mouwen. De kortst bijzijnde molen voor ons ligt in Mechelen (NL).
 
@@ -42,4 +42,4 @@ Hier zijn enkele tips & tricks die ik handig vond bij het bakken van brood met v
 
 &nbsp;
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/11/MG_7081-001.jpg

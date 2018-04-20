@@ -52,7 +52,7 @@ Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkoren rogge en volkoren t
   * 15gr zout
 
 <div>
-  Ik heb <a title="Baking your daily bread" href="http://www.redzuurdesem.be/nl/baking-your-daily-bread/">mijn alledaags recept</a> voor het fermenteren en rijzen gebruikt &#8211; dit betekent een eerste rijs van rond de 3-4h (het is winter en slechts 19°C in onze keuken, dus je mag het zelfs langer laten rijzen dan!). Tweede rijs werd zoals ik meestal doe in een rijsmand in de frigo gedaan gedurende de nacht. Ze werden gebakken zodra ze uit de frigo kwamen (nog altijd niet in het bezit van een baksteen&#8230;)
+  Ik heb <a title="Baking your daily bread" href="https://redzuurdesem.be/nl/baking-your-daily-bread/">mijn alledaags recept</a> voor het fermenteren en rijzen gebruikt &#8211; dit betekent een eerste rijs van rond de 3-4h (het is winter en slechts 19°C in onze keuken, dus je mag het zelfs langer laten rijzen dan!). Tweede rijs werd zoals ik meestal doe in een rijsmand in de frigo gedaan gedurende de nacht. Ze werden gebakken zodra ze uit de frigo kwamen (nog altijd niet in het bezit van een baksteen&#8230;)
 </div>
 
 <div>
@@ -72,4 +72,4 @@ Het is milder dan 50% volkoren rogge brood dankzij de toevoeging van tarwe.
 
  [1]: http://lh4.ggpht.com/-d3ELXzzT7XQ/UMJemN61jlI/AAAAAAAAGtU/DpriVx2f0x0/s1024/_MG_7598.JPG "_MG_7598.JPG"
  [2]: http://lh4.ggpht.com/-WDLPW5-ErOg/UMJekh3H4fI/AAAAAAAAGtM/ilK6t4FnLPI/s1024/_MG_7597.JPG "_MG_7597.JPG"
- [3]: http://www.redzuurdesem.be/nl/vermont-style-sourdough/ "Vermont Style Sourdough"
+ [3]: https://redzuurdesem.be/nl/vermont-style-sourdough/ "Vermont Style Sourdough"

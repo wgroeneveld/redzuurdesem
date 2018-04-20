@@ -15,7 +15,7 @@ categories:
   - learning
 
 ---
-<figure id="attachment_483" style="width: 800px" class="wp-caption aligncenter">[<img class=" wp-image-483" title="_MG_7519" src="http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7519.jpg" alt="thuisbak broden" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7519.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7519-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7519-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" />][1]<figcaption class="wp-caption-text">De gebakken broden voor de wedstrijd</figcaption></figure> 
+<figure id="attachment_483" style="width: 800px" class="wp-caption aligncenter">[<img class=" wp-image-483" title="_MG_7519" src="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7519.jpg" alt="thuisbak broden" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7519.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7519-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7519-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" />][1]<figcaption class="wp-caption-text">De gebakken broden voor de wedstrijd</figcaption></figure> 
 
 <p style="text-align: left;">
   Een <a href="http://www.uitinhasselt.be/nl/events/45282/de-grote-thuisbak-week-van-de-smaak.html">lokaal bakevenement</a> was georganiseerd door de stad Hasselt, waarin deelnemers *eender wat* konden bakken dat gemaakt was met lokale ingrediënten. Voor mij betekende dat natuurlijk zuurdesem broden bakken. Er waren 12 deelnemers in totaal, waarvan iedereen behalve mij zoetigheden gebakken hadden &#8211; van cakes tot muffins, enorm groot en lekker uitziende taarten en zo verder. De winnaar kreeg een kookworkshop voor twee personen gegeven door een bekende chef. Het was heel plezant om mee de doen maar natuurlijk wint zoet gebak altijd over iets klassieker als brood.
@@ -42,9 +42,9 @@ Proficiat! Aan de slag ermee! Hier zijn enkele interessante artikels die je bege
   1. [Een kort overzicht rond zuurdesem brood bakken][5]
   2. [Mijn dagelijks brood bakken: een gedetailleerd verslag][6]
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7519.jpg
- [2]: http://www.redzuurdesem.be/nl/vermont-style-sourdough/ "Vermont Style Sourdough"
- [3]: http://www.redzuurdesem.be/nl/80-wholerye-with-soaker/ "80% wholerye with soaker"
- [4]: http://www.redzuurdesem.be/nl/pain-au-levain/ "The French classic: pain au levain"
- [5]: http://www.redzuurdesem.be/nl/a-quick-primer-on-sourdough-baking/ "A quick primer on sourdough baking"
- [6]: http://www.redzuurdesem.be/nl/baking-your-daily-bread/ "Baking your daily bread"
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7519.jpg
+ [2]: https://redzuurdesem.be/nl/vermont-style-sourdough/ "Vermont Style Sourdough"
+ [3]: https://redzuurdesem.be/nl/80-wholerye-with-soaker/ "80% wholerye with soaker"
+ [4]: https://redzuurdesem.be/nl/pain-au-levain/ "The French classic: pain au levain"
+ [5]: https://redzuurdesem.be/nl/a-quick-primer-on-sourdough-baking/ "A quick primer on sourdough baking"
+ [6]: https://redzuurdesem.be/nl/baking-your-daily-bread/ "Baking your daily bread"

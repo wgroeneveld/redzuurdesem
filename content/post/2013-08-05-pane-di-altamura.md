@@ -27,7 +27,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_660" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-660" title="helder en zonnig met durum tarwe" alt="helder en zonnig met durum tarwe" src="http://www.redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg" width="300" height="220" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-700x515.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/08/MG_9126.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">helder en zonnig met durum tarwe</figcaption></figure> 
+<figure id="attachment_660" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-660" title="helder en zonnig met durum tarwe" alt="helder en zonnig met durum tarwe" src="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg" width="300" height="220" srcset="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-700x515.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">helder en zonnig met durum tarwe</figcaption></figure> 
 
 # Italiaanse zonneschijn: durm tarwe gebruiken
 
@@ -87,7 +87,7 @@ Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een 
 Het brood had een eerste rijs van 3 uur gekregen @ 27°C (Jup het was hier verschrikkelijk warm in de keuken, toffe zomer om te bakken&#8230;) en daarna heb ik het nog eens 24h rust gegeven in de frigo. Het kwam er super goed uit en ontpopte mooi in de oven, al had ik grotere gaatjes verwacht in de kruim.
 </p>
     
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/08/MG_9126.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126.jpg
  [2]: http://it.wikipedia.org/wiki/Pane_di_Altamura
  [3]: http://en.wikipedia.org/wiki/Turkish_language "Turkish language"
  [4]: http://en.wikipedia.org/wiki/Durum "Durum"

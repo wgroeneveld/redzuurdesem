@@ -11,7 +11,7 @@ categories:
 ---
 I needed a recipe to try my round cane **banneton** on and this month&#8217;s [Mellow Bakers][1] challenge introduced a nice sourdough recipe: **40% rye sourdough** with **caraway** seeds. According to Mr. Hamelman, the bread &#8220;contains just enough rye to be a serious rye sourdoubh bread&#8221;.<figure id="attachment_378" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="size-medium wp-image-378" title="_MG_6726" src="http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6726-300x200.jpg" alt="" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6726-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6726-700x467.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6726.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption class="wp-caption-text">40% sourdough rye with caraway seeds</figcaption></figure> 
+[<img class="size-medium wp-image-378" title="_MG_6726" src="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6726-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6726-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6726-700x467.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6726.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption class="wp-caption-text">40% sourdough rye with caraway seeds</figcaption></figure> 
 
 The caraway seeds are something new for me, the recipe calls for 2 tablespoons but as they smelled quite strong, I used teaspoons instead. The end result is a stellar looking and tasting bread with a still very strong caraway flavor. It reminds me of anise seeds. It&#8217;s a bit too much for my liking, I might bake it again next time but without the seeds.
   
@@ -30,6 +30,6 @@ I **did not add yeast** in the final dough. I don&#8217;t know why almost all r
   * The cane banneton needs to be **floured very well** &#8211; even between the edges. It will eventually release the dough but you have to be careful!
 
  [1]: http://mellowbakers.com/HB/index.php
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6726.jpg
+ [2]: https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6726.jpg
  [3]: http://lh4.ggpht.com/-ycDseCNLe2s/UCgaOIxjjZI/AAAAAAAAGcQ/xxO6Twt99O8/s1024/_MG_6731.JPG "_MG_6731.JPG"
  [4]: http://lh4.ggpht.com/-culzWekWCBw/UCgaO70ES2I/AAAAAAAAGcY/R9YIJ928gUM/s1024/_MG_6730.JPG "_MG_6730.JPG"

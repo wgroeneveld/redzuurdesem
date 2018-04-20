@@ -25,7 +25,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_558" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-558" title="_MG_7175" src="http://www.redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-300x200.jpg" alt="" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/01/MG_7175.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Vers gebakken, goed vettig, jummy!</figcaption></figure> 
+<figure id="attachment_558" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-558" title="_MG_7175" src="https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Vers gebakken, goed vettig, jummy!</figcaption></figure> 
 
 Wat is er lekkerder dan een croissant met wat aardbeien confituur op een late zondar voormiddag? Ik moet het nog ontdekken. Natuurlijk moeten deze lekkerheden zelf worden gemaakt (en hiermee bedoelen we niet een croissant afbakken!). Aangezien we bij Save **Sourdough** het altijd over zuurdesem hebben, waarom proberen we dan niet eens zuurdesem bladerdeeg te maken? Het is zeker een uitdaging dus als je niet zo geduldig bent, zoek dan iemand die het bakken in uw plaats kan doen, want het is wel de moeite waard!
 
@@ -105,7 +105,7 @@ Voordat we ze in de oven steken bestrijk je de croissants nog een laatste keer m
   Ook opgestuurd via <a href="http://www.wildyeastblog.com/category/yeastspotting/">Yeast Spotting</a>.
 </p>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/01/MG_7175.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175.jpg
  [2]: http://lh4.ggpht.com/-hv3jR1oo5Is/UOVwpwlHbPI/AAAAAAAAGvs/allVFHXmeEw/s1024/_MG_7017.JPG "_MG_7017.JPG"
  [3]: http://lh5.ggpht.com/-gEEzu6l3jgk/UOVwq91UAbI/AAAAAAAAGv0/z3BYWFZhV7Y/s1024/_MG_7020.JPG "_MG_7020.JPG"
  [4]: http://www.weekendbakery.com/posts/wkb-2012-croissant-making-log/

@@ -10,7 +10,7 @@ al2fb_facebook_error:
 al2fb_facebook_error_time:
   - 2016-11-27T10:31:25+00:00
 al2fb_facebook_link_picture:
-  - post=http://www.redzuurdesem.be/?al2fb_image=1
+  - post=https://redzuurdesem.be/?al2fb_image=1
 categories:
   - learning
 

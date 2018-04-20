@@ -17,7 +17,7 @@ al2fb_facebook_text:
 al2fb_facebook_error_time:
   - 2015-03-11T19:27:52+00:00
 al2fb_facebook_link_picture:
-  - post=http://www.redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg
+  - post=https://redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg
 comment_images_toggle:
   - enable
 categories:
@@ -28,7 +28,7 @@ Bakboeken &#8211; er zijn ondertussen talloze vormen en exemplaren beschikbaar. 
   
 De vraag blijft natuurlijk: **wat is goed en wat niet**? En meer nog, sinds elke bakker zijn eigen stijl van bakken heeft, met welk bakboek kan ik mij het beste vinden, welk boek leert basisprincipes aan en welk boek is eerder voor de _die-hards_? We spreken hier natuurlijk uitsluitend over bakken met zuurdesem, al een niche onderwerp op zich.
 
-[<img class="aligncenter size-full wp-image-837" src="http://www.redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg" alt="" width="500" height="500" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg 500w, http://www.redzuurdesem.be/wp-content/uploads/2015/03/feature3-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img class="aligncenter size-full wp-image-837" src="https://redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg" alt="" width="500" height="500" srcset="https://redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg 500w, https://redzuurdesem.be/wp-content/uploads/2015/03/feature3-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
 Omdat ik vrij obsessief bezig ben met het onderwerp &#8220;zuurdesem&#8221;, staat de boekenkast hier dan ook vrij vol van gespecialiseerde bakboeken. Elk boek heeft zo&#8217;n beetje zijn eigen stijl en bij sommige boeken kan ik mij erg vinden, bij anderen minder. Het leek me een leuk idee om voor jullie een samenvatting te maken van de (in mijn ogen) beste boeken.
 
@@ -150,4 +150,4 @@ Lutz Geissler
   * Schijnbaar variërende recepten komen altijd op hetzelfde neer.
   * De verhaalstukken tussen de recepten in missen diepgang en konden me niet boeien.
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg

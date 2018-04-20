@@ -16,7 +16,7 @@ categories:
 ---
 ### Het alternatief: boekweit brood<figure id="attachment_877" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-877" src="http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg" alt="sneetjes boekweit brood" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">sneetjes boekweit brood</figcaption></figure> 
+[<img class="size-large wp-image-877" src="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg" alt="sneetjes boekweit brood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">sneetjes boekweit brood</figcaption></figure> 
 
 Het is altijd leuk om &#8220;alternatieve&#8221; _granen_ te gebruiken als toevoeging in een klassiek brooddeeg. Hiermee zet ik expres het woord _granen_ in schuine letters omdat niet alle _granen_ échte granen zijn. Bekijk het volgende lijstje eens:
 
@@ -118,7 +118,7 @@ water
  100gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
 
 <p>
-  (Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="http://www.redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
+  (Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="https://redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
 </p>
 
 <h3>
@@ -133,7 +133,7 @@ water
   Ik heb het brood gebakken met een tweede rijs in de koelkast, tot 12h, en het kwam er heel goed uit. Je kan dit nog verder rekken (of inkorten), analoog aan de methode van de 2de doos.
 </p><figure id="attachment_878" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0958.jpg"><img class="size-large wp-image-878" src="http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0958-1024x683.jpg" alt="doorsnede boekweit brood" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0958-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0958-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">doorsnede boekweit brood</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0958.jpg"><img class="size-large wp-image-878" src="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0958-1024x683.jpg" alt="doorsnede boekweit brood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0958-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0958-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">doorsnede boekweit brood</figcaption></figure> 
 
 <h3>
   Tijdstabel
@@ -233,10 +233,10 @@ water
 
 <ul>
   <li>
-    <a href="http://www.redzuurdesem.be/42015-uitgesteld-bakken/">uitgesteld bakken</a>
+    <a href="https://redzuurdesem.be/42015-uitgesteld-bakken/">uitgesteld bakken</a>
   </li>
   <li>
-    <a href="http://www.redzuurdesem.be/42015-alternatief-recept/">alternatief recept bij uitgesteld bakken</a>
+    <a href="https://redzuurdesem.be/42015-alternatief-recept/">alternatief recept bij uitgesteld bakken</a>
   </li>
 </ul>
 
@@ -266,4 +266,4 @@ water
   Veel succes!
 </p>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2015/06/MG_0956.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956.jpg

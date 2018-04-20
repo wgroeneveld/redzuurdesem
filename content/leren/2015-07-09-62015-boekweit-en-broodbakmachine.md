@@ -89,7 +89,7 @@ water
 </td>
 
 <td >
-200gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> <figure id="attachment_907" style="width: 800px" class="wp-caption aligncenter"><a href="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg"><img class="size-full wp-image-907" src="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg" alt="boekweit desem" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1038-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">boekweit desem</figcaption></figure> 
+200gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> <figure id="attachment_907" style="width: 800px" class="wp-caption aligncenter"><a href="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg"><img class="size-full wp-image-907" src="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg" alt="boekweit desem" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">boekweit desem</figcaption></figure> 
 
 <p>
   <strong>Wat is een boekweit desem?</strong>
@@ -127,17 +127,17 @@ water
 </ol>
 
 <p>
-  Je kan dus op twee manieren bakken: &#8220;<a href="http://www.redzuurdesem.be/42015-uitgesteld-bakken-met-het-broodbakmachine/">uitgesteld</a>&#8221; of via het standaard programma. De foto&#8217;s zijn gemaakt door de bakvorm na het kneden één nacht in de koelkast te plaatsen (10h op 6°C), en dan daarna het bakprogramma zelf te starten.
+  Je kan dus op twee manieren bakken: &#8220;<a href="https://redzuurdesem.be/42015-uitgesteld-bakken-met-het-broodbakmachine/">uitgesteld</a>&#8221; of via het standaard programma. De foto&#8217;s zijn gemaakt door de bakvorm na het kneden één nacht in de koelkast te plaatsen (10h op 6°C), en dan daarna het bakprogramma zelf te starten.
 </p><figure id="attachment_908" style="width: 800px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg"><img class="size-full wp-image-908" src="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg" alt="Gerezen desem in bakblik" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1040-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">Gerezen desem in bakblik</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg"><img class="size-full wp-image-908" src="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg" alt="Gerezen desem in bakblik" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">Gerezen desem in bakblik</figcaption></figure> 
 
 <p>
   We bakken één brood in zo&#8217;n machine, van <span style="text-decoration: underline;">500gr bloem</span>.<br /> Dit verschilt van broodbakmachine tot machine.
 </p>
 
 <p>
-  <a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">Ververs je desem starter op voorhand</a>!
+  <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">Ververs je desem starter op voorhand</a>!
 </p>
 
 <h3>
@@ -159,7 +159,7 @@ water
   </li>
 </ol><figure id="attachment_909" style="width: 800px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg"><img class="size-full wp-image-909" src="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg" alt="bakken na 45min - te kort!" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/07/MG_1042-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">bakken na 45min &#8211; te kort!</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg"><img class="size-full wp-image-909" src="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg" alt="bakken na 45min - te kort!" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">bakken na 45min &#8211; te kort!</figcaption></figure> 
 
 <h3>
   Werkwijze 2: alles automatisch
@@ -195,7 +195,7 @@ water
 </p>
 
 <p>
-  Het brood op de foto&#8217;s is gebakken met werkwijze 1 en heeft dus langer gerezen.<br /> Tips om beter te bakken met het broodbakmachine <a title="Zuurdesem en broodbakmachines: doenbaar?" href="http://www.redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/">kan je hier terugvinden</a>.
+  Het brood op de foto&#8217;s is gebakken met werkwijze 1 en heeft dus langer gerezen.<br /> Tips om beter te bakken met het broodbakmachine <a title="Zuurdesem en broodbakmachines: doenbaar?" href="https://redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/">kan je hier terugvinden</a>.
 </p>
 
 <p>
@@ -210,4 +210,4 @@ water
   &nbsp;
 </p>
 
- [1]: http://www.redzuurdesem.be/62015-alternatief-recept/ "4/2015 – uitgesteld bakken"
+ [1]: https://redzuurdesem.be/62015-alternatief-recept/ "4/2015 – uitgesteld bakken"

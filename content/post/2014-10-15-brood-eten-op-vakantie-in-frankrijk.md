@@ -20,7 +20,7 @@ Enkele maanden geleden zijn wij op vakantie geweest in Frankrijk. Heerlijk toch,
 
 Wie al eens in Brussel op _bakkerij hunt_ geweest is zal ongetwijfeld wel al weten dat [Boulangerie Charli][1] de beste is, en dat [PAUL][2] er chique uit ziet en ook mooie desem broden verkoopt. Ik wist echter niet dat die laatste een keten was, tot ik die overal tegen kwam: in Marseille, in Strasbourg, in Bouc-bel-air, in Parijs. Hiermee wil ik niet zeggen dat Paul slecht brood verkoopt, maar we zijn niet op zoek naar brood dat op een industriële manier gerezen en gebakken wordt &#8211; het proces zal nooit duidelijk zijn, en ze zullen het nooit prijs geven. Hetzelfde geldt voor [Banette][3]. Dat was zowat de enige bakkerij in ons dorpje Mutzig in de Elzas.<figure id="attachment_736" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="wp-image-736 size-medium" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0022-300x200.jpg" alt="_MG_0022" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0022-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0022.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][4]<figcaption class="wp-caption-text">Boulangerie Banette in Molsheim</figcaption></figure> 
+[<img class="wp-image-736 size-medium" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0022-300x200.jpg" alt="_MG_0022" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0022-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0022.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][4]<figcaption class="wp-caption-text">Boulangerie Banette in Molsheim</figcaption></figure> 
 
 Als ik brood wens te eten in Frankrijk, kan het maar beter verdomd goed brood zijn, dacht ik. Daarom probeer ik ketens automatisch te vermijden (nogmaals: waarmee ik niet wil zeggen dat ze allemaal even weinig aandacht schenken aan het bakken van een goed stuk _levain_).
 
@@ -32,7 +32,7 @@ Dus. De vraag die in mij op kwam was als volgt: **hoe herken ik een goede bakke
 
 Gebaseerd op die voorwaarden heb ik enkele pareltjes gevonden in de Provence, moest iemand er ooit komen.<figure id="attachment_737" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="wp-image-737 size-medium" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002-300x200.jpg" alt="_MG_0111-002" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][5]<figcaption class="wp-caption-text">&#8220;Farinoman fou&#8221; in Aix-en-provence</figcaption></figure> <figure id="attachment_739" style="width: 300px" class="wp-caption aligncenter">[<img class="wp-image-739 size-medium" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0123-300x200.jpg" alt="_MG_0123" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0123-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0123.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][6]<figcaption class="wp-caption-text">rogge met walnoten en een klassieke levain</figcaption></figure> 
+[<img class="wp-image-737 size-medium" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002-300x200.jpg" alt="_MG_0111-002" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][5]<figcaption class="wp-caption-text">&#8220;Farinoman fou&#8221; in Aix-en-provence</figcaption></figure> <figure id="attachment_739" style="width: 300px" class="wp-caption aligncenter">[<img class="wp-image-739 size-medium" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0123-300x200.jpg" alt="_MG_0123" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0123-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0123.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][6]<figcaption class="wp-caption-text">rogge met walnoten en een klassieke levain</figcaption></figure> 
 
 Je kan genoeg artikels vinden op Google van &#8220;[Farinoman fou][7]&#8221; in Aix-en-provence. Tot buiten aanschuiven? Check. Geur waar ik bijna van flauwval (van geluk dan hé)? Check. Enkel brood, alles met desem? Check. Ongelofelijk. Ik mocht met hun toestemming enkele foto&#8217;s maken in de bakkerij, boven een foto van hun &#8220;stock&#8221; &#8211; op een zaterdagmiddag tussen de markten in. Ik vermoed dat twee uur later alles weg zal geweest zijn.
 
@@ -40,7 +40,7 @@ Op dat moment probeer ik mijn beste Frans boven te halen om iets te kunnen ontfu
 
 En dan heb je nog &#8220;_retro bakkerijen_&#8221; &#8211; ik kan geen betere beschrijving bedenken, sorry. Dat zijn van die enorm populaire bakkerijen om &#8220;eens bezocht te hebben&#8221; die 9,8 op Foursquare krijgen waarvan ik denk &#8220;_shit, daar MOET ik geweest zijn_&#8220;. Dan begint het gebruikelijk ritueel weer dat ik mijn vriendin probeer te overtuigen om een omweg te maken voor een van de zoveelste stomme bakkerijen te kunnen bezichtigen die allemaal hetzelfde zijn (in haar ogen dan).
 
-[<img class="aligncenter size-medium wp-image-740" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0204-300x200.jpg" alt="_MG_0204" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0204-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0204.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][8] [<img class="aligncenter size-medium wp-image-741" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002-300x200.jpg" alt="_MG_0206-002" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][9]
+[<img class="aligncenter size-medium wp-image-740" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0204-300x200.jpg" alt="_MG_0204" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0204-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0204.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][8] [<img class="aligncenter size-medium wp-image-741" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002-300x200.jpg" alt="_MG_0206-002" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][9]
 
 Het &#8220;[Four des Navettes][10]&#8221; in Marseille is er daar één van. Als je de idyllische oude haven van Marseille achter je laat en enkele straten verder wandelt (en niet over de hondenstront en schooiers valt), kom je op een hoek deze extreem oude bakkerij tegen. Een van hun specialiteiten is een soort van harde biscuit met oranjebloesem, waar blijkbaar iedereen zot van is. Wij hadden het bestaan van deze bakkerij gevonden via een tourisme boekje, geleend in de bibliotheek bij ons in België, over de Provence. Het feit alleen al dat het daar in staat, had bij mij een alarmbelletje moeten laten afgaan. Maar dat deed het niet.
 
@@ -50,7 +50,7 @@ Ik vond de biscuit niet te _freten_. (Sorry, dat is persoonlijk zeker?) Omdat i
   
 Ik vraag me toch af waarom het zo moeilijk is om goed brood te maken. Het enige wat nodig is, is water, bloem en tijd&#8230;<figure id="attachment_738" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="wp-image-738 size-medium" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0114-300x200.jpg" alt="_MG_0114" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0114-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0114.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][11]<figcaption class="wp-caption-text">Op de zaterdagmarkt van Aix</figcaption></figure> 
+[<img class="wp-image-738 size-medium" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0114-300x200.jpg" alt="_MG_0114" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0114-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0114.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][11]<figcaption class="wp-caption-text">Op de zaterdagmarkt van Aix</figcaption></figure> 
 
 Vergeet niet om de lokale markten af te schuimen &#8211; de kans is groot dat je daar goed brood kan scoren &#8211; er liggen meestal (letterlijk) &#8220;_hompen_&#8221; pain de campagne opeen gestapeld, klaar om bijvoorbeeld per kwart verkocht te worden. Het nadeel hiervan is dat je geen idee hebt waar het van komt en hoe het &#8220;gemaakt&#8221; is &#8211; dit kan evengoed industrie zijn (die kans is kleiner).
 
@@ -59,11 +59,11 @@ Blijven honger lijden zal niet nodig zijn.
  [1]: http://www.charliboulangerie.com/
  [2]: http://www.paul.fr/
  [3]: http://www.banette.fr/
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0022.jpg
- [5]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002.jpg
- [6]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0123.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0022.jpg
+ [5]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0111-002.jpg
+ [6]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0123.jpg
  [7]: http://www.citylocalnews.com/actualite/2013/02/12/il-mene-les-aixois-a-la-baguette
- [8]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0204.jpg
- [9]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002.jpg
+ [8]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0204.jpg
+ [9]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0206-002.jpg
  [10]: http://www.fourdesnavettes.com/en/
- [11]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0114.jpg
+ [11]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0114.jpg

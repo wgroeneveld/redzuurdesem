@@ -47,7 +47,7 @@ Er zijn verschillende maten en vormen van rijsmandjes, van rieten tot houtvezel 
   * Bij super gehydrateerd deeg van 100% of meer, zoals het rechthoekig volkoren rogge brood. Dit deeg is eerder beslag en kan je best direct in een ijzeren bakvorm gieten.
   * Wanneer de vorm niet past, zoals lange smalle _baguettes_ &#8211; gebruik daarvoor enkele handdoeken.<figure id="attachment_851" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-851" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0760-1024x683.jpg" alt="frans boerenbrood" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0760-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0760-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0760.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">frans boerenbrood</figcaption></figure> 
+[<img class="size-large wp-image-851" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0760-1024x683.jpg" alt="frans boerenbrood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0760-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0760-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0760.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">frans boerenbrood</figcaption></figure> 
 
 ### Recept
 
@@ -133,7 +133,7 @@ water
 200gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
 
 <p>
-(Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="http://www.redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
+(Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="https://redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
 </p>
 
 <p>
@@ -166,7 +166,7 @@ Dit heb je vast al eens ergens gelezen:
 En dat klopt ook, maar dat is ter grote frustratie van beginnende bakkers enorm inaccuraat. Hoe warm? Waar moet ik het zetten? Hoe zie ik wanneer het &#8220;goed&#8221; is? Moet mijn water koud of warm zijn?<br /> Aanschouw de volgende grafiek:
 </p><figure id="attachment_845" style="width: 554px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp.png"><img class="size-full wp-image-845" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp.png" alt="activiteit vs temperatuur" width="554" height="324" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp.png 554w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp-300x175.png 300w" sizes="(max-width: 554px) 100vw, 554px" /></a><figcaption class="wp-caption-text">activiteit vs temperatuur</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp.png"><img class="size-full wp-image-845" src="https://redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp.png" alt="activiteit vs temperatuur" width="554" height="324" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp.png 554w, https://redzuurdesem.be/wp-content/uploads/2015/04/activity_vs_temp-300x175.png 300w" sizes="(max-width: 554px) 100vw, 554px" /></a><figcaption class="wp-caption-text">activiteit vs temperatuur</figcaption></figure> 
 
 <p>
 Je ziet twee lijnen: één bepaalde melkzuur bacterie (L. SF. &#8211; lactobacillus sanfranciscensis, geel) en één gistcel (Candida milleri, rood). De gele lijn zorgt voor de smaak en de rode lijn zorgt voor het rijzen van je brood. Net zoals de C. Milleri cel is het typisch bakkersgist (in gedroogde of verse vorm, <em>saccharomyces cerevisiae</em>) het actiefste om en bij de <strong>27°C</strong>. Als je dus haast hebt en je brood graag <em>snel</em> wilt laten rijzen, dan is &#8220;een warme plek&#8221; dus zo warm.
@@ -188,7 +188,7 @@ Gelukkig genoeg is zuurdesem vergevingsgezind en <span style="text-decoration: 
 Tijd en temperatuur zijn onherroepelijk met elkaar verbonden, zoals je hierboven al een beetje kon zien. Bekijk de tweede grafiek:
 </p><figure id="attachment_846" style="width: 500px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve.png"><img class="size-full wp-image-846" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve.png" alt="bacterie groei curve" width="500" height="400" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve.png 500w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve-300x240.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><figcaption class="wp-caption-text">bacterie groei curve</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve.png"><img class="size-full wp-image-846" src="https://redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve.png" alt="bacterie groei curve" width="500" height="400" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve.png 500w, https://redzuurdesem.be/wp-content/uploads/2015/04/bacterial_growth_curve-300x240.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><figcaption class="wp-caption-text">bacterie groei curve</figcaption></figure> 
 
 <p>
 Elke bacterie gaat verschillende levenscycli door (1 tot 6 op de grafiek), afhankelijk van de tijd en natuurlijk de temperatuur, niet weergegeven op dit schema. Tussen de 0 en de 6 uur ondergaan de bacteriën een grote groeifase van acceleratie naar exponentiële verdubbeling &#8211; stadium 3. In dit stadium willen we natuurlijk dat ons deeg zich zo lang mogelijk bevindt, zoals in het eerste schema (27°C of 24°C). Voor klassieke bakkersgist kan dit reeds na 20 minuten gebeuren.<br /> Vanaf dan is er een periode waarin de culturen min of meer &#8220;stabiel&#8221; zijn, tot 20 uur verder. Vanaf dan beginnen de cellen af te sterven.
@@ -240,7 +240,7 @@ Dus: tijdstabellen
     </td>
     
     <td >
-      <a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a>
+      <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a>
     </td>
   </tr>
   
@@ -349,7 +349,7 @@ actie
 </td>
 
 <td >
-<a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a>
+<a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a>
 </td>
 </tr>
 
@@ -458,7 +458,7 @@ bakken
       </td>
       
       <td >
-        <a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a>
+        <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a>
       </td>
     </tr>
     
@@ -541,10 +541,10 @@ bakken
   Stap-voor-stap
 </h3><figure id="attachment_796" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0424.jpg"><img class="size-large wp-image-796" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0424-1024x683.jpg" alt="je desem ververst" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0424.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0424-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">je desem ververst</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0424.jpg"><img class="size-large wp-image-796" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0424-1024x683.jpg" alt="je desem ververst" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0424.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0424-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">je desem ververst</figcaption></figure> 
 
 <p>
-  Ik ga er van uit dat je je desem reeds ververst hebt, klik op <a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">deze link</a> om te weten wat je hiervoor precies moet doen. Dit is voor eender welk recept met zuurdesem exact hetzelfde: je desem moet &#8220;actief&#8221; zijn.
+  Ik ga er van uit dat je je desem reeds ververst hebt, klik op <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">deze link</a> om te weten wat je hiervoor precies moet doen. Dit is voor eender welk recept met zuurdesem exact hetzelfde: je desem moet &#8220;actief&#8221; zijn.
 </p>
 
 <h4>
@@ -552,7 +552,7 @@ bakken
 </h4>
 
 <p>
-  Uitgebreide uitleg hierover: <a title="1/2015 – Rogge zaden brood" href="http://www.redzuurdesem.be/12015-rogge-zaden-brood/">zie het rogge zaden brood recept van doos #1</a>.
+  Uitgebreide uitleg hierover: <a title="1/2015 – Rogge zaden brood" href="https://redzuurdesem.be/12015-rogge-zaden-brood/">zie het rogge zaden brood recept van doos #1</a>.
 </p>
 
 <p>
@@ -563,7 +563,7 @@ bakken
   Stap 2: maak je voordeeg
 </h4><figure id="attachment_850" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0753.jpg"><img class="wp-image-850 size-large" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0753-1024x683.jpg" alt="voordeeg" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0753-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0753-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0753.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">voordeeg</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0753.jpg"><img class="wp-image-850 size-large" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0753-1024x683.jpg" alt="voordeeg" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0753-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0753-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0753.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">voordeeg</figcaption></figure> 
 
 <p>
   Het voordeeg bevat 20% van de totale bloem, dus voor 1 brood 100gr.
@@ -601,7 +601,7 @@ bakken
   Het doel is alles evenredig te verdelen. Gebruik één hand als een &#8220;kneedhaak&#8221;, en draai met de andere hand je mengkom rond. Doe dit maximum 5 minuten. Als je merkt dat de witte bloem volledig verdwenen is, kneed dan nog enkele minuten verder, en stop dan. Kijk naar het bovenstaand filmpje als deze uitleg niet duidelijk is.
 </p><figure id="attachment_853" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0754.jpg"><img class="wp-image-853 size-large" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0754-1024x683.jpg" alt="Het gemengde deeg" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0754-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0754-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0754.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">Het gemengde deeg</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0754.jpg"><img class="wp-image-853 size-large" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0754-1024x683.jpg" alt="Het gemengde deeg" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0754-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0754-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0754.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">Het gemengde deeg</figcaption></figure> 
 
 <p>
   <strong>Waarom moet ik niet langer kneden?</strong>
@@ -683,7 +683,7 @@ bakken
   Trek een plastieken zak over je rijsmandje. Dit beschermd het deeg van tocht én uitdroging (een koelkast droogt enorm uit). Wanneer je dit niet doet, ontstaat er snel een kleine korst rond je deeg dat het brood er van weerhoudt om goed te kunnen uitzetten in een gloeiend hete oven, en dan is al dat werk voor niets geweest&#8230;
 </p><figure id="attachment_855" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0757.jpg"><img class="wp-image-855 size-large" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0757-1024x683.jpg" alt="rijsmand afgeschermd tegen verkorsting" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0757-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0757-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0757.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">rijsmand afgeschermd tegen verkorsting</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0757.jpg"><img class="wp-image-855 size-large" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0757-1024x683.jpg" alt="rijsmand afgeschermd tegen verkorsting" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0757-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0757-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0757.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">rijsmand afgeschermd tegen verkorsting</figcaption></figure> 
 
 <p>
   Klaar voor de 2de rijs!
@@ -713,7 +713,7 @@ bakken
   Bak het brood <strong>onmiddelijk</strong> nadat je het hebt ingesneden. Het deeg is fragiel wanneer je het uit het rijsmandje haalt dus het is belangrijk dat het zo snel mogelijk die <em>kick</em> krijgt van de hitte van de oven om het laatste rijsproces in gang te zetten. Als je hier te lang mee wacht, zet het deeg uit aan de zijkant en wordt het te plat.<br /> De koelkast helpt hier wel mee: een koud deeg is iets vaster.<br /> Voor alle duidelijkheid: je hoeft je deeg niet te laten &#8220;opwarmen&#8221; tot kamertemperatuur als het van de koelkast komt: het mag rechtstreeks de oven in. Verwarm je oven dus éérst voor, en haal daarna pas je deeg uit de koelkast.
 </p><figure id="attachment_854" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0758.jpg"><img class="size-large wp-image-854" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0758-1024x683.jpg" alt="gerezen deeg in het mandje" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0758-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0758-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0758.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">gerezen deeg in het mandje &#8211; onderkant naar boven!</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0758.jpg"><img class="size-large wp-image-854" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0758-1024x683.jpg" alt="gerezen deeg in het mandje" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0758-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0758-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0758.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">gerezen deeg in het mandje &#8211; onderkant naar boven!</figcaption></figure> 
 
 <p>
   Omdat alle ovens verschillen, is het moeilijk om te schatten wanneer je je brood uit de oven kan halen. Enkele tips:
@@ -731,7 +731,7 @@ bakken
   </li>
 </ol><figure id="attachment_856" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0761.jpg"><img class="wp-image-856 size-large" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0761-683x1024.jpg" alt="zijprofiel van het gebakken brood" width="660" height="990" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0761-683x1024.jpg 683w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0761-200x300.jpg 200w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0761.jpg 800w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">zijprofiel van het gebakken brood</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0761.jpg"><img class="wp-image-856 size-large" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0761-683x1024.jpg" alt="zijprofiel van het gebakken brood" width="660" height="990" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0761-683x1024.jpg 683w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0761-200x300.jpg 200w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0761.jpg 800w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">zijprofiel van het gebakken brood</figcaption></figure> 
 
 <p>
   Het is belangrijk dat je je brood voldoende laat afkoelen! Snij het zeker niet de eerste 2 uur open, anders gaat het kostbare vocht verloren en wordt je brood sneller slecht.
@@ -761,4 +761,4 @@ bakken
   </li>
 </ul>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0760.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0760.jpg

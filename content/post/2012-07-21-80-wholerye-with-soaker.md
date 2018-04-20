@@ -9,7 +9,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_310" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-310" title="chew away!" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-300x167.jpg" alt="" width="300" height="167" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-300x167.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-700x393.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6545.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Chew away!</figcaption></figure> 
+<figure id="attachment_310" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-310" title="chew away!" src="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-300x167.jpg" alt="" width="300" height="167" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-300x167.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-700x393.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Chew away!</figcaption></figure> 
 
 My 70% wholerye attempt did not turn out to be very disappointing for the first try &#8211; read more about it [here][2]. Mr. Hamelman provides a second healthy and earthy rye recipe in his book, but this time with 20% high gluten flour and a soaker of boiling rye flour instead of chopped rye flakes. The previous loaf had to be baked in a tin, this one could be (barely) shaped into a loose _boule_.
 
@@ -64,8 +64,8 @@ Bulk ferment: 1 hour, final proofing: 2 hours. (Mine was 1 hour short, turned ou
 
 [<img class=" " title="_MG_6538.jpg" src="http://lh6.ggpht.com/-kKd_6YbUrJc/UAqi8TSGl6I/AAAAAAAAGZI/QHvT9_2l49E/s200-c/_MG_6538.jpg" alt="_MG_6538.jpg" width="200" height="200" />][6]<figcaption class="wp-caption-text">Starting to get hungry now&#8230;</figcaption></figure> <figure style="width: 200px" class="wp-caption alignleft"><img class=" " title="_MG_6533.jpg" src="http://lh5.ggpht.com/-Cyep-jKHy98/UAqZMw0HIkI/AAAAAAAAGYU/f5BowUeolrw/s200-c/_MG_6533.jpg" alt="_MG_6533.jpg" width="200" height="200" /><figcaption class="wp-caption-text">Finished! looking good!</figcaption></figure> <figure style="width: 200px" class="wp-caption alignleft">[<img class="alignleft" title="_MG_6542.jpg" src="http://lh6.ggpht.com/-OmI5cDqT1hg/UAqZRjkBfhI/AAAAAAAAGY8/8C623zLEFUM/s200-c/_MG_6542.jpg" alt="_MG_6542.jpg" width="200" height="200" />][7]<figcaption class="wp-caption-text">A slice of rye.</figcaption></figure>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6545.jpg
- [2]: http://www.redzuurdesem.be/70-rye-with-soaker/ "70% wholerye bread with soaker"
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545.jpg
+ [2]: https://redzuurdesem.be/70-rye-with-soaker/ "70% wholerye bread with soaker"
  [3]: http://lh6.ggpht.com/-GafdiO6VvQI/UAqZMIw7JrI/AAAAAAAAGYQ/7uB0YC8kO8A/s1024/_MG_6514.jpg "_MG_6514.jpg"
  [4]: http://lh5.ggpht.com/-XAsxV2yEFrU/UAqZOqQwC1I/AAAAAAAAGYk/mDg6X66kb1Y/s1024/_MG_6521.jpg "_MG_6521.jpg"
  [5]: http://lh3.ggpht.com/-PsnbGZWldZ0/UAqZNmXWqjI/AAAAAAAAGYc/ANlYEZRWNw0/s1024/_MG_6529.jpg "_MG_6529.jpg"

@@ -12,7 +12,7 @@ categories:
 ---
 This must be my most successful [miche][1] to date. There are so many recipes inspired by a _pain poilâne_ it&#8217;s hard to keep track of. Jeffrey Hamelman has one in his book BREAD, Peter Reinhart has one in his book Bread Baker&#8217;s Apprentice and in my most recent book I&#8217;ve seen a version from Daniel Leader in &#8220;[local breads][2]&#8220;. I wasn&#8217;t really looking for another miche style French _levain_ bread but wanted to try out different techniques I&#8217;ve found at The Fresh Loaf on **how to get moure sour** out of your sourdough.<figure id="attachment_345" style="width: 500px" class="wp-caption alignleft">
 
-[<img class=" wp-image-345 " title="A slice of miche, smells unbelievably good!" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6626-300x200.jpg" alt="" width="500" height="300" />][3]<figcaption class="wp-caption-text">A slice of miche, smells unbelievably good!</figcaption></figure> 
+[<img class=" wp-image-345 " title="A slice of miche, smells unbelievably good!" src="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6626-300x200.jpg" alt="" width="500" height="300" />][3]<figcaption class="wp-caption-text">A slice of miche, smells unbelievably good!</figcaption></figure> 
 
 So while I was at it, why not try something new? This is an _adapted_ version from Leader&#8217;s _pain au levain_ complet. I noticed I still had a bag of spelt flour unopened I wanted to try. (_épautre_ is French for spelt).
 
@@ -94,7 +94,7 @@ So while I was at it, why not try something new? This is an _adapted_ version f
   </p>
   
   <div style="clear: both;">
-    <figure id="attachment_352" style="width: 500px" class="wp-caption alignright"><a style="text-decoration: underline;" href="http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6624.jpg"><img class="wp-image-352 " style="border-width: 0px; border-style: none; padding: 0px; margin: 5px auto 0px !important; -webkit-user-drag: none; max-width: 98%; display: block; background-color: #ffffff;" title="_MG_6624" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6624-300x200.jpg" alt="" width="500" height="300" /></a><figcaption class="wp-caption-text">A closer look at the interior, look how dark and holey it is!</figcaption></figure> 
+    <figure id="attachment_352" style="width: 500px" class="wp-caption alignright"><a style="text-decoration: underline;" href="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6624.jpg"><img class="wp-image-352 " style="border-width: 0px; border-style: none; padding: 0px; margin: 5px auto 0px !important; -webkit-user-drag: none; max-width: 98%; display: block; background-color: #ffffff;" title="_MG_6624" src="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6624-300x200.jpg" alt="" width="500" height="300" /></a><figcaption class="wp-caption-text">A closer look at the interior, look how dark and holey it is!</figcaption></figure> 
     
     <p>
       <span style="font-style: normal;">A closer look at the interior, look how dark and holey it is!</span>The flour is locally milled and simply <strong>amazing</strong> &#8211; you can stretch it a lot without tearing (see the pictures!), it&#8217;s very very finely ground, it&#8217;s local and it&#8217;s cheap (and of course stone-ground, meaning no single bran left out and I did not sift anything). I did not want to use another &#8220;T85&#8221; kind of flour (85% extraction, meaning 15% bran sifted out). I simply love it this way.
@@ -115,7 +115,7 @@ So while I was at it, why not try something new? This is an _adapted_ version f
       It&#8217;s healthy: wholegrains > white bread!
     </li>
     <li>
-      It&#8217;s extremely tasty, with just the right amount of sourness. It may be a bit too much for some, but I like it that way. As you may now, I&#8217;ve been searching on how to get more sour for <a title="Baking your daily bread" href="http://www.redzuurdesem.be/baking-your-daily-bread/">my daily recipe</a> &#8211; I might have found an improved version!
+      It&#8217;s extremely tasty, with just the right amount of sourness. It may be a bit too much for some, but I like it that way. As you may now, I&#8217;ve been searching on how to get more sour for <a title="Baking your daily bread" href="https://redzuurdesem.be/baking-your-daily-bread/">my daily recipe</a> &#8211; I might have found an improved version!
     </li>
     <li>
       The &#8220;holes&#8221; in the bread are more dense but that&#8217;s exactly what we want here, no jam falling out!
@@ -127,9 +127,9 @@ So while I was at it, why not try something new? This is an _adapted_ version f
   </p>
 </div>
 
- [1]: http://www.redzuurdesem.be/baking-a-miche/ "baking a miche"
+ [1]: https://redzuurdesem.be/baking-a-miche/ "baking a miche"
  [2]: http://www.amazon.co.uk/Local-Breads-Sourdough-Recipes-Europes/dp/0393050556/ref=sr_1_1?ie=UTF8&qid=1343330492&sr=8-1
- [3]: http://www.redzuurdesem.be/wp-content/uploads/2012/07/MG_6626.jpg
+ [3]: https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6626.jpg
  [4]: http://lh5.ggpht.com/-arvEocdkjhI/UBGX2W_yMjI/AAAAAAAAGaY/oHYs069juVE/s1024/_MG_6629.JPG "_MG_6629.JPG"
  [5]: http://lh3.ggpht.com/-uq4ZJEu32sw/UBGX0TGYbHI/AAAAAAAAGaI/P0RP-DkOI8E/s1024/_MG_6614.JPG "_MG_6614.JPG"
  [6]: http://lh3.ggpht.com/-TV-7M5uiExI/UBGX3bxs3kI/AAAAAAAAGag/XYKP81A8H38/s1024/_MG_6662.JPG "_MG_6662.JPG"

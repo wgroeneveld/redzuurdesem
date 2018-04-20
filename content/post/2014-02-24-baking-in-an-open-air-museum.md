@@ -33,7 +33,7 @@ tags:
   - wood oven
 
 ---
-<figure id="attachment_683" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-683" alt="Demonstraties zuurdesem bakken!" src="http://www.redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg" width="300" height="225" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-700x525.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Demonstraties zuurdesem bakken!</figcaption></figure> 
+<figure id="attachment_683" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-683" alt="Demonstraties zuurdesem bakken!" src="https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg" width="300" height="225" srcset="https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-700x525.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Demonstraties zuurdesem bakken!</figcaption></figure> 
 
 Vorig jaar in de zomer heb ik de kans gehad om in een openluchtmuseum enkele dagen zuurdesem brood te bakken &#8211; bij <a href="http://www.bokrijk.be/" title="bokrijk" target="_blank"></a>. Het merendeel van de bouwwerken dateren van de 17e tot eind 19e eeuw, maar het bakhuis is ouder. Ik had daarvoor nog nooit met een houtoven gewerkt dus ik was erg nieuwschierig en kon niet wachten om te beginnen. Die dagen werden er in Bokrijk een hoop speciale evenementen georganiseerd, inclusief die waar ik deel van uitmaakte &#8211; een heuse demonstratie zuurdesem brood bakken. 
 
@@ -95,4 +95,4 @@ Wanneer het vuur gedoofd is, worden de assen naar achteren in de oven verplaatst
 
 </p>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54.jpg

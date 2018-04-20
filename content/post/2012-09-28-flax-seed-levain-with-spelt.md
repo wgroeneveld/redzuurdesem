@@ -9,7 +9,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_436" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-436" title="_MG_7213-001" src="http://www.redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-300x200.jpg" alt="" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-700x467.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Batards proofing on the couche.</figcaption></figure> 
+<figure id="attachment_436" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-436" title="_MG_7213-001" src="https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-700x467.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Batards proofing on the couche.</figcaption></figure> 
 
 This is a slightly altered version from Mr. Leader&#8217;s &#8220;[Local Breads][2]&#8221; recipe called &#8220;**pain au levain**&#8221; but with flax seeds. Coincidence or not, after preparing the preferment, I saw I was out of plain bread flour or high gluten flour! So I had to adapt the formula (or I could of course put the fermented piece back into the fridge but hey, what&#8217;s baking bread without a little bit of experimenting?)
 
@@ -53,7 +53,7 @@ Make the same time as you mix the preferment. The seeds will stick and absorb ev
   I did not scale the salt and should have added a bit more but apart from that, the bread tasted amazing. We wolfed down a whole bâtard with a baked egg and some salad this evening. Lovely!
 </p>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001.jpg
  [2]: http://www.amazon.com/Local-Breads-Sourdough-Whole-Grain-Recipes/dp/0393050556/ref=sr_1_1?ie=UTF8&qid=1348854339&sr=8-1&keywords=local+breads
  [3]: http://lh3.ggpht.com/-5u-Kg_igtfk/UGXhkE2l39I/AAAAAAAAGl8/sGC5JquShDw/s1024/_MG_7214.JPG "Make sure you create smaller points at the end of the bâtard"
  [4]: http://lh4.ggpht.com/-0e2UqfWxjwg/UGXhl7cjzlI/AAAAAAAAGmE/6VMHFQgXZug/s1024/_MG_7217.JPG "_MG_7217.JPG"

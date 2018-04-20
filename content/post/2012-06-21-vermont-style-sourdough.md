@@ -15,7 +15,7 @@ categories:
 
 This bread was my first sourdough bread and will be one of my favorites for quite some time, I think. It has a pleasant tangy/light sour taste and a smell which makes you extremely hungry, even if you ate (too much) five minutes before.  The 125% hydratation white wheat flour sourdough starter used contributed to the many holes in this bread. Lovely.<figure id="attachment_100" style="width: 819px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-100" title="brood1" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg" alt="" width="819" height="546" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1-700x466.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" />][1]<figcaption class="wp-caption-text">The classic &#8220;Vermont Sourdough&#8221; bread with a bit added rye flour.</figcaption></figure> 
+[<img class=" wp-image-100" title="brood1" src="https://redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg" alt="" width="819" height="546" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood1-700x466.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" />][1]<figcaption class="wp-caption-text">The classic &#8220;Vermont Sourdough&#8221; bread with a bit added rye flour.</figcaption></figure> 
 
 ### Recipe
 
@@ -69,7 +69,7 @@ This bread requires the usage of 15% preferment, and 15% of the total flour will
       I also baked it using a special flour mix which contains malted barley and walnuts. You can use a pestle to grind some extra nuts (and keep the skin on to get a darker bread). For this bread I also used more wholewheat flour which results in a denser less open structure. I still think it&#8217;s quite airy though.
     </p><figure id="attachment_106" style="width: 819px" class="wp-caption aligncenter">
     
-    <a href="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg"><img class=" wp-image-106" title="brood4" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg" alt="" width="819" height="498" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4-300x182.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4-268x164.jpg 268w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4-700x425.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" /></a><figcaption class="wp-caption-text">My modified black bread with walnuts and increased wholewheat flour.</figcaption></figure> 
+    <a href="https://redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg"><img class=" wp-image-106" title="brood4" src="https://redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg" alt="" width="819" height="498" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood4-300x182.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood4-268x164.jpg 268w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood4-700x425.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" /></a><figcaption class="wp-caption-text">My modified black bread with walnuts and increased wholewheat flour.</figcaption></figure> 
     
     <p style="text-align: left;">
       For Dutch people: the flour I&#8217;ve used is called &#8220;<em>woudmeel</em>&#8221; According to a google search, it contains the following things:
@@ -99,7 +99,7 @@ This bread requires the usage of 15% preferment, and 15% of the total flour will
       This bread was my first sourdough bread and will be one of my favorites for quite some time, I think. It has a pleasant tangy/light sour taste and a smell which makes you extremely hungry, even if you ate (too much) five minutes before.  The 125% hydratation white wheat flour sourdough starter used contributed to the many holes in this bread. Lovely.
     </p><figure id="attachment_100" style="width: 819px" class="wp-caption aligncenter">
     
-    <a href="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg"><img class=" wp-image-100" title="brood1" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg" alt="" width="819" height="546" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1-700x466.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" /></a><figcaption class="wp-caption-text">The classic &#8220;Vermont Sourdough&#8221; bread with a bit added rye flour.</figcaption></figure> 
+    <a href="https://redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg"><img class=" wp-image-100" title="brood1" src="https://redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg" alt="" width="819" height="546" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood1-700x466.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" /></a><figcaption class="wp-caption-text">The classic &#8220;Vermont Sourdough&#8221; bread with a bit added rye flour.</figcaption></figure> 
     
     <h1>
       Variations
@@ -113,7 +113,7 @@ This bread requires the usage of 15% preferment, and 15% of the total flour will
       I also baked it using a special flour mix which contains malted barley and walnuts. You can use a pestle to grind some extra nuts (and keep the skin on to get a darker bread). For this bread I also used more wholewheat flour which results in a denser less open structure. I still think it&#8217;s quite airy though.
     </p><figure id="attachment_106" style="width: 819px" class="wp-caption aligncenter">
     
-    <a href="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg"><img class=" wp-image-106" title="brood4" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg" alt="" width="819" height="498" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4-300x182.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4-268x164.jpg 268w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood4-700x425.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" /></a><figcaption class="wp-caption-text">My modified black bread with walnuts and increased wholewheat flour.</figcaption></figure> 
+    <a href="https://redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg"><img class=" wp-image-106" title="brood4" src="https://redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg" alt="" width="819" height="498" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/brood4.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood4-300x182.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood4-268x164.jpg 268w, https://redzuurdesem.be/wp-content/uploads/2012/06/brood4-700x425.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" /></a><figcaption class="wp-caption-text">My modified black bread with walnuts and increased wholewheat flour.</figcaption></figure> 
     
     <p style="text-align: left;">
       For Dutch people: the flour I&#8217;ve used is called &#8220;<em>woudmeel</em>&#8221; According to a google search, it contains the following things:
@@ -133,4 +133,4 @@ This bread requires the usage of 15% preferment, and 15% of the total flour will
       <!--:-->
     </p>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/06/brood1.jpg

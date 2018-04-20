@@ -29,4 +29,4 @@ Afbakken in het machine is niet aangeraden omdat het rijsprogramma helaas te kor
 
 Dat betekent niet dat dit onmogelijk is, maar er wordt aangeraden om **het origineel recept te volgen** en enkel je machine te gebruiken om **te kneden.**
 
- [1]: http://www.redzuurdesem.be/12016-verrijkt-deeg/
+ [1]: https://redzuurdesem.be/12016-verrijkt-deeg/

@@ -25,7 +25,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_638" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-638" title="A stack of waffles" src="http://www.redzuurdesem.be/wp-content/uploads/2013/06/MG_9020-300x200.jpg" alt="Een hoopje wafels" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/06/MG_9020-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/06/MG_9020-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/06/MG_9020.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Een hoopje wafels</figcaption></figure> 
+<figure id="attachment_638" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-638" title="A stack of waffles" src="https://redzuurdesem.be/wp-content/uploads/2013/06/MG_9020-300x200.jpg" alt="Een hoopje wafels" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/06/MG_9020-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/06/MG_9020-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/06/MG_9020.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Een hoopje wafels</figcaption></figure> 
 
 Wat je ook doet na het bakken van zuurdesem brood, **gooi geen overschotjes van je desem weg**! Het gefermenteerd deeg is van onschatbare waarde als je wat ad-hoc zoetig bakken leuk vindt. Het kan direct omgetoverd worden in pannekoeken, of je kan er met een nachtje fermenteren heerlijke wafels van maken. De luchtige textuur van een [Brusselse Wafel][2] past perfect bij de typische &#8220;gaatjes&#8221; van de wilde bacteriën van zuurdesem.
 
@@ -67,5 +67,5 @@ Ik hou persoonlijk van de amandelmelk pannekoeken, omdat die melk eigenlijk wate
 
 <p><a href="http://lh6.ggpht.com/-FAsWbNxTEc4/UbQ7nor_prI/AAAAAAAAG4k/KqfHznXkA38/s1024/_MG_8876.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5887396165002962610" title="" ><img src="http://lh6.ggpht.com/-FAsWbNxTEc4/UbQ7nor_prI/AAAAAAAAG4k/KqfHznXkA38/w400-o/_MG_8876.JPG" alt="_MG_8876.JPG" title="" class="alignleft pe2-photo"  /></a> <a href="http://lh3.ggpht.com/-JsABb0b1j0c/UbQ7pjvQkhI/AAAAAAAAG4s/piOjlyOoydo/s1024/_MG_8877.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5887396198034215442" title="" ><img src="http://lh3.ggpht.com/-JsABb0b1j0c/UbQ7pjvQkhI/AAAAAAAAG4s/piOjlyOoydo/w400-o/_MG_8877.JPG" alt="_MG_8877.JPG" title="" class="alignleft pe2-photo"  /></a></p>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/06/MG_9020.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/06/MG_9020.jpg
  [2]: http://en.wikipedia.org/wiki/Belgian_waffle

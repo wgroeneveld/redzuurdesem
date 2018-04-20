@@ -36,7 +36,7 @@ categories:
 ## Het belang van je brood insnijden<figure id="attachment_599" style="width: 300px" class="wp-caption aligncenter">
 
 <div class="single-thumb">
-      <img width="820" height="547" src="http://www.redzuurdesem.be/wp-content/uploads/2013/03/MG_8474.jpg" class="attachment-entry-thumb size-entry-thumb wp-post-image" alt="A nicely risen boule" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/03/MG_8474.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2013/03/MG_8474-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/03/MG_8474-700x466.jpg 700w" sizes="(max-width: 820px) 100vw, 820px" />    </div>  
+      <img width="820" height="547" src="https://redzuurdesem.be/wp-content/uploads/2013/03/MG_8474.jpg" class="attachment-entry-thumb size-entry-thumb wp-post-image" alt="A nicely risen boule" srcset="https://redzuurdesem.be/wp-content/uploads/2013/03/MG_8474.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2013/03/MG_8474-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/03/MG_8474-700x466.jpg 700w" sizes="(max-width: 820px) 100vw, 820px" />    </div>  
 
 Een van mijn favoriete recepten voor brood bakken vanuit een bakboek moet wel Mr. Hamelman&#8217;s &#8220;[Vermont Sourdough][2]&#8221; zijn. Ik bak regelmatig volkoren zuurdesem broden, inclusief relatief zure rogge broodjes. Er is dan altijd een tijd dat ik een drang heb naar iets zoet, iets vol met gaatjes en iets traditioneel. Dat heeft enorm veel namen tegenwoordig, van &#8220;_landelijk brood_&#8221; tot &#8220;_pain de campagne_&#8221; of &#8220;_boerenbrood_&#8220;. Het is allemaal hetzelfde: een veelal wit tarwe zuurdesem brood met een beetje rogge of volkoren tarwe. Er wordt gezegd dat boeren per ongeluk een beetje rogge mee maaien met hun tarwe velden wanneer alles geoogst werd, daarom mixt men voor dit traditioneel brood wat rogge door het deeg.
 
@@ -66,5 +66,5 @@ Als je dat hoort, en de bubbels op de korst ziet, en het diep aroma ruikt, ben j
 
 <p class="clear">
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/03/MG_8474.jpg
- [2]: http://www.redzuurdesem.be/vermont-style-sourdough/ "Vermont Style Sourdough"
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/03/MG_8474.jpg
+ [2]: https://redzuurdesem.be/vermont-style-sourdough/ "Vermont Style Sourdough"

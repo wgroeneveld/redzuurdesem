@@ -29,4 +29,4 @@ Bij het vormen van het deeg, na de eerste rijs, weeg je 60gr per deegbolletje af
 
 Bakken kan op dezelfde temperatuur als het origineel recept (220°C) maar moet veel **korter** gebakken worden: 10 minuten ongeveer, gezien de grootte van de broodjes. Je kan controleren of de sandwiches klaar zijn door op de **onderkant** te letten en alles zo ven mogelijk te bakken. Instrijkinstructies zijn ook hetzelfde als het origineel recept.
 
- [1]: http://www.redzuurdesem.be/12016-verrijkt-deeg/
+ [1]: https://redzuurdesem.be/12016-verrijkt-deeg/

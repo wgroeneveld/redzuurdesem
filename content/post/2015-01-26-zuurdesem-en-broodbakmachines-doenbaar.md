@@ -11,7 +11,7 @@ al2fb_facebook_text:
 al2fb_facebook_error_time:
   - 2015-01-26T19:09:23+00:00
 al2fb_facebook_link_picture:
-  - post=http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_5807-1024x683.jpg
+  - post=https://redzuurdesem.be/wp-content/uploads/2015/01/MG_5807-1024x683.jpg
 comment_images_toggle:
   - enable
 categories:
@@ -30,7 +30,7 @@ Alle ingrediënten worden rechtstreeks in het bakblik geplaatst (meestal eerst g
   
 Het kneedproces op zich is niet anders dan met een kneedmachine kneden, behalve een belangrijk detail: sommige machines **kneden** af en toe nog een klein beetje **tijdens de rijsfase** van het deeg. Je zal de machine dan een paar keer \*hum\* \*hum\* horen zeggen, waarbij de kneedhaak roteert, en dan terug stopt. Dit bevordert de grootte van het brood en werking van bakkersgist, maar doet afbreuk aan de broze structuur van je deeg als je met zuurdesem werkt.<figure id="attachment_792" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-792" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_5807-1024x683.jpg" alt="De typische vorm van een &quot;boterham&quot;" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_5807.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_5807-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">De typische vorm van een &#8220;boterham&#8221;</figcaption></figure> 
+[<img class="size-large wp-image-792" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_5807-1024x683.jpg" alt="De typische vorm van een &quot;boterham&quot;" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_5807.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_5807-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">De typische vorm van een &#8220;boterham&#8221;</figcaption></figure> 
 
 Vergeet niet dat de kneedhaak blijft zitten tijdens het bakken: dit creëert het typische &#8220;gat&#8221; in de boterham halverwege het brood bij het snijden, iets onmiskenbaar aan broodbakmachines. Kies daarom altijd voor een machine met slechts één kneedhaak, in plaats van twee &#8211; ook al bieden die laatste machines een hoger volume aan&#8230;
 
@@ -38,11 +38,11 @@ Vergeet niet dat de kneedhaak blijft zitten tijdens het bakken: dit creëert he
 
 Een standaard programma van begin tot een gebakken brood is meestal 4h. Sommige machines bieden ook 5h aan &#8211; waarbij ze 1h &#8220;rust&#8221; in het begin inlassen (de omgeving wordt opgewarmd, maar er wordt niet gekneed. Dit heeft niet zo veel nut&#8230;)
   
-Vier uur, minus het kneden en het bakken, geeft ons 2 tot 3 uren om het deeg voldoende te laten rijzen. Dit volstaat voor een &#8220;gewoon&#8221; gistbrood, maar is veel te weinig als je een lekker <a title="Zonnebloempit rogge desem" href="http://www.redzuurdesem.be/sunflower-seed-rye-sourdough/" target="_blank">desem roggebrood</a> wenst te maken. Daarom is het zeker geen luxe om je basisrecept aan te passen en eventueel gebruik te maken van **veel meer voordeeg** of zelfs een **hybride deeg**: een desem voordeeg met een beetje bakkersgist in het finaal deeg om de tijd wat te verkorten. Gebruik ook zeker **geen koud water** &#8211; ook al is het bakblik van een broodbakmachine een soort van incubatieruimte: opwarmen kost ook tijd.
+Vier uur, minus het kneden en het bakken, geeft ons 2 tot 3 uren om het deeg voldoende te laten rijzen. Dit volstaat voor een &#8220;gewoon&#8221; gistbrood, maar is veel te weinig als je een lekker <a title="Zonnebloempit rogge desem" href="https://redzuurdesem.be/sunflower-seed-rye-sourdough/" target="_blank">desem roggebrood</a> wenst te maken. Daarom is het zeker geen luxe om je basisrecept aan te passen en eventueel gebruik te maken van **veel meer voordeeg** of zelfs een **hybride deeg**: een desem voordeeg met een beetje bakkersgist in het finaal deeg om de tijd wat te verkorten. Gebruik ook zeker **geen koud water** &#8211; ook al is het bakblik van een broodbakmachine een soort van incubatieruimte: opwarmen kost ook tijd.
   
 **Minder zout** dan gewoonlijk (tot 2.2% voor Frans zuurdesem brood) gebruiken (1.5 tot 1.8%) is ook een optie &#8211; zout verhindert immers de werking van fermentatie.<figure id="attachment_787" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-787" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-1024x784.jpg" alt="het juist gebakken brood enkel met zuurdesem" width="660" height="505" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-300x230.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][2]<figcaption class="wp-caption-text">het juist gebakken brood enkel met zuurdesem</figcaption></figure> 
+[<img class="size-large wp-image-787" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-1024x784.jpg" alt="het juist gebakken brood enkel met zuurdesem" width="660" height="505" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-300x230.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][2]<figcaption class="wp-caption-text">het juist gebakken brood enkel met zuurdesem</figcaption></figure> 
 
 #### Bakken
 
@@ -70,5 +70,5 @@ Zelf reeds experimenten uitgevoerd met je machine?
   
 Laat hier je bevindingen achter!
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_5807.jpg
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_5807.jpg
+ [2]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg

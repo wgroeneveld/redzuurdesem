@@ -118,14 +118,14 @@ gedroogde gist
   100gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
   
   <p>
-    (Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="http://www.redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
+    (Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="https://redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
   </p>
   
   <p>
     Omdat broodbakmachines enorm variëren in baktijd en manier van kneden is het moeilijk om een generiek recept mee te leveren dat overal zal werken. De hoeveelheid water kan te veel of te weinig zijn, hou er dus rekening mee dat je tijdens het kneden misschien zal moeten ingrijpen. Dit kan je makkelijk doen door tijdens het kneden af en toe het deksel open te zetten en even te kijken, en zelfs te voelen aan je deeg.<br /> Door de verkorte rijs- en baktijd kan het ook zijn dat je meer gist nodig hebt dan in het hoofdrecept. Gebruik wat jij gewoon bent voor een brood van 500gr: als dat één theelepel gist is, gebruik dan dat. Als dat meer of minder is, gebruik dan dat. Het voordeeg zelf zal weinig verschil maken in rijzen, maar meer in smaak. Ook al kan je niet verwachten dat de smaak hetzelfde resultaat zal hebben als het hoofdrecept, waar men zelf kan bepalen hoe lang het deeg rijst en dus in smaak ontwikkelt.
   </p><figure id="attachment_865" style="width: 660px" class="wp-caption aligncenter">
   
-  <a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg"><img class="size-large wp-image-865" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg" alt="Een goed gerezen brood" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">Een goed gerezen brood, gebakken in het machine!</figcaption></figure> 
+  <a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg"><img class="size-large wp-image-865" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg" alt="Een goed gerezen brood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">Een goed gerezen brood, gebakken in het machine!</figcaption></figure> 
   
   <p>
     <strong>Kan ik ook hier mijn rijsdoek gebruiken?</strong>
@@ -140,7 +140,7 @@ gedroogde gist
   </p>
   
   <p>
-    Tips om beter te bakken met het broodbakmachine <a title="Zuurdesem en broodbakmachines: doenbaar?" href="http://www.redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/">kan je hier terugvinden</a>.
+    Tips om beter te bakken met het broodbakmachine <a title="Zuurdesem en broodbakmachines: doenbaar?" href="https://redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/">kan je hier terugvinden</a>.
   </p>
   
   <p>
@@ -148,7 +148,7 @@ gedroogde gist
   </p>
   
   <p>
-    Lees hier meer over in het artikel dat bij <a href="http://www.redzuurdesem.be/42015-uitgesteld-bakken-met-het-broodbakmachine/">Desem Doos 2 &#8211; uitgesteld bakken met broodbakmachine</a> geleverd werd.
+    Lees hier meer over in het artikel dat bij <a href="https://redzuurdesem.be/42015-uitgesteld-bakken-met-het-broodbakmachine/">Desem Doos 2 &#8211; uitgesteld bakken met broodbakmachine</a> geleverd werd.
   </p>
 
- [1]: http://www.redzuurdesem.be/102015-hybride-degen/
+ [1]: https://redzuurdesem.be/102015-hybride-degen/

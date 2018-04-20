@@ -89,4 +89,4 @@ Bak je 1 brood? Halveer alles.
   
 Voor andere hoeveelheden is het wat meer rekenen geblazen, en schrijf je best alles even op voorhand op. Dit is heel belangrijk, want fouten met gewichten en hoeveelheden worden snel gemaakt (neem dat maar van mij aan), en kunnen alles verknoeien.
 
- [1]: http://www.redzuurdesem.be/sourdough-sweets-waffles-and-pancakes/ "Zuurdesem zoetigheden: wafels en pannekoeken"
+ [1]: https://redzuurdesem.be/sourdough-sweets-waffles-and-pancakes/ "Zuurdesem zoetigheden: wafels en pannekoeken"

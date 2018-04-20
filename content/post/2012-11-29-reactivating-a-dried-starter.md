@@ -11,7 +11,7 @@ categories:
 ---
 Proficiat, je bent nu trotse eigenaar van enkele miljoenen diep slapende bacteriëren! **Hoe** kunnen we nu dit gedroogd desem terug **wakker maken**? Zuurdesem bestaat uit bloem & water dat dagen lang gefermenteerd werd. Hierdoor kwamen de gistcellen die op de granen zitten tot leven en eten ze door de koolhydraten die in het bloem zitten.<figure id="attachment_497" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-497" title="activeren_gedroogd_desem.odt" src="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg" alt="" width="640" height="427" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg 640w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][1]<figcaption class="wp-caption-text">Zuurdesem starter in poeder vorm</figcaption></figure> 
+[<img class="size-full wp-image-497" title="activeren_gedroogd_desem.odt" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][1]<figcaption class="wp-caption-text">Zuurdesem starter in poeder vorm</figcaption></figure> 
 
 ## Stap 1: voeg water toe
 
@@ -32,7 +32,7 @@ Er zijn “**stijve**” starters van 50 tot 60% hydratatie, en er zijn “**nat
 
 Het poeder is gebaseerd op **tarwemeel**. Je kan ook, indien je graag een “zuurder” karakter hebt, kiezen voor volkoren **roggemeel**. In principe fermenteert alles, zelfs rijstmeel of kikkererwtenmeel. Traditionele zuurdesem starters van Frankrijk zijn stijve tarwe starters, en die van Duitsland zijn nattere rogge starters. Dit is een kwestie van smaak, je kan experimenteren met beide.<figure id="attachment_498" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-498" title="activeren_gedroogd_desem.odt_2" src="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg" alt="" width="640" height="427" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg 640w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][2]<figcaption class="wp-caption-text">Het drogen van een natte zuurdesem starter duurt enkele dagen</figcaption></figure> 
+[<img class="size-full wp-image-498" title="activeren_gedroogd_desem.odt_2" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][2]<figcaption class="wp-caption-text">Het drogen van een natte zuurdesem starter duurt enkele dagen</figcaption></figure> 
 
 <span style="text-decoration: underline;">Voeg bijvoorbeeld 20gr water en 20gr witte tarwemeel toe aan het mengsel. Roer goed en laat 12h rusten op kamertemperatuur.</span>
 
@@ -40,7 +40,7 @@ Het poeder is gebaseerd op **tarwemeel**. Je kan ook, indien je graag een “zuu
 
 Als er na 12 uur nog weinig beweging te zien is in je starter: geen paniek. Dit hangt van de kamertemperatuur, de hydratatie en het soort bloem af. Rogge zuurdesem is meestal iets actiever. Stijve starters komen trager op gang. Natte starters zakken sneller (dit wil zeggen dat ze over hun “top” heen zijn – meestal is het de bedoeling om ze net daarvoor te “gebruiken” in het voordeeg of finaal deeg).<figure id="attachment_499" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-499" title="activeren_gedroogd_desem.odt_3" src="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg" alt="" width="640" height="427" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg 640w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][3]<figcaption class="wp-caption-text">De starter is levend.</figcaption></figure> 
+[<img class="size-full wp-image-499" title="activeren_gedroogd_desem.odt_3" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][3]<figcaption class="wp-caption-text">De starter is levend.</figcaption></figure> 
 
 Het is nu tijd om de zuurdesem starter te gebruiken om een voordeeg te maken.
 
@@ -67,11 +67,11 @@ Als je een lange tijd niet wil bakken is het raadzaam om af en toe je starter wa
 
 **Smakelijk!**<figure id="attachment_500" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-500" title="activeren_gedroogd_desem.odt_4" src="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4.jpg" alt="" width="640" height="427" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4.jpg 640w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][6]<figcaption class="wp-caption-text">Pain au levain met veel gaatjes!</figcaption></figure>
+[<img class="size-full wp-image-500" title="activeren_gedroogd_desem.odt_4" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][6]<figcaption class="wp-caption-text">Pain au levain met veel gaatjes!</figcaption></figure>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg
- [3]: http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg
- [4]: http://www.redzuurdesem.be/a-quick-primer-on-sourdough-baking/ "A quick primer on sourdough baking"
- [5]: http://www.redzuurdesem.be/baking-your-daily-bread/ "Baking your daily bread"
- [6]: http://www.redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg
+ [2]: https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg
+ [3]: https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg
+ [4]: https://redzuurdesem.be/a-quick-primer-on-sourdough-baking/ "A quick primer on sourdough baking"
+ [5]: https://redzuurdesem.be/baking-your-daily-bread/ "Baking your daily bread"
+ [6]: https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_4.jpg

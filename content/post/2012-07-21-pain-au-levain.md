@@ -9,7 +9,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_330" style="width: 584px" class="wp-caption aligncenter">[<img class=" wp-image-330" title="2012-07-21 13.24.59" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-1024x682.jpg" alt="" width="584" height="388" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-1024x682.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59.jpg 1600w" sizes="(max-width: 584px) 100vw, 584px" />][1]<figcaption class="wp-caption-text">A &#8220;bâtard en levain&#8221;, with an exceptional crust.</figcaption></figure> 
+<figure id="attachment_330" style="width: 584px" class="wp-caption aligncenter">[<img class=" wp-image-330" title="2012-07-21 13.24.59" src="https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-1024x682.jpg" alt="" width="584" height="388" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-1024x682.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59.jpg 1600w" sizes="(max-width: 584px) 100vw, 584px" />][1]<figcaption class="wp-caption-text">A &#8220;bâtard en levain&#8221;, with an exceptional crust.</figcaption></figure> 
 
 What could possibly be a better introduction than a closeup of a bâtard with a nice &#8220;_ear_&#8220;, inviting you to tear up and feast upon? French country bread is so rewarding and so easy to make, it&#8217;s a shame I did not try something like this before! Although [my daily bread][2] is inspired by _Vermont Sourdough_ and _Pain au Levain_ recipes from Mr. Hamelman, this recipe comes from Mr. Leader&#8217;s &#8220;**local breads**&#8221; book. There are slight differences noticeable but the core remains the same.
 
@@ -71,8 +71,8 @@ What did I do different this time? This: **a compressed mister** which can rele
 
 I will submit this post to [bread baking day #52][8] &#8211; I hope a lot of people will like the result and learn something from it! Also posted on [Yeast Spotting][9]
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59.jpg
- [2]: http://www.redzuurdesem.be/placemarks/baked-my-daily-bread/ "Baked my daily bread"
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59.jpg
+ [2]: https://redzuurdesem.be/placemarks/baked-my-daily-bread/ "Baked my daily bread"
  [3]: http://lh5.ggpht.com/-F7t4j9uaDgE/UAsJgE-l4PI/AAAAAAAAGZU/R8OwR5cGR8k/s1024/2012-07-21%25252008.54.20.jpg "2012-07-21 08.54.20.jpg"
  [4]: http://lh4.ggpht.com/-EAUnk6gPbvM/UAsJg-n5K_I/AAAAAAAAGZc/Y3Xrene24s8/s1024/2012-07-21%25252011.41.04.jpg "2012-07-21 11.41.04.jpg"
  [5]: http://lh5.ggpht.com/-dEyWFd4JyOo/UAsJkj8_UVI/AAAAAAAAGZs/J6W11CMncRg/s1024/2012-07-21%25252016.32.57.jpg "2012-07-21 16.32.57.jpg"

@@ -33,7 +33,7 @@ categories:
 ---
 ## Hoe ik per ongeluk brood gebakken heb met croissant deeg&#8230;
 
-[<img class="aligncenter size-medium wp-image-617" alt="_MG_8619" src="http://www.redzuurdesem.be/wp-content/uploads/2013/04/MG_8619-300x200.jpg" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/04/MG_8619-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/04/MG_8619-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/04/MG_8619.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]Het vorige [zuurdesem croissant][2] recept van Local Breads was heel lekker maar mijn recente kopie van het boek &#8220;Tartine Bread&#8221; heeft ook een interessant recept voor zuurdesem croissants met een poolish, desem en nog eens extra gedroogde gist. Het gebruikt eveneens 40% ongezoute boter om te lamineren maar bevat meer suiker in het deeg zelf dan het ander recept. Het vreemde aan dit croissant recept is dat het vraagt voor fermentatie voordat het lamineren start, buiten de frigo, zodat het extra luchtig wordt.
+[<img class="aligncenter size-medium wp-image-617" alt="_MG_8619" src="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8619-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8619-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8619-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8619.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]Het vorige [zuurdesem croissant][2] recept van Local Breads was heel lekker maar mijn recente kopie van het boek &#8220;Tartine Bread&#8221; heeft ook een interessant recept voor zuurdesem croissants met een poolish, desem en nog eens extra gedroogde gist. Het gebruikt eveneens 40% ongezoute boter om te lamineren maar bevat meer suiker in het deeg zelf dan het ander recept. Het vreemde aan dit croissant recept is dat het vraagt voor fermentatie voordat het lamineren start, buiten de frigo, zodat het extra luchtig wordt.
 
 Dit maakt het deeg extreem actief &#8211; het rijzen swingt een beetje de pan uit. Het werd altijd maar meer en moeilijk om uiteindelijk plat te rollen om het lamineerproces te beginnen. Misschien dat ik niet de juiste hoeveelheden van gedroogde gist afgewegen heb, maar goed. Wat moest ik doen met dat overschot? Brood bakken natuurlijk! Ik heb het gevormd in een bolletje en 2 uur laten rijzen in een banneton. Het verdriedubbelde bijna in grootte, ongelofelijk, dit deeg is bijna niet te houden.
 
@@ -57,5 +57,5 @@ Ik heb eerlijk gezegd geen flauw idee hoeveel deeg ik gebruikt heb en hoeveel vo
 
 <p class="clear">
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/04/MG_8619.jpg
- [2]: http://www.redzuurdesem.be/sourdough-croissants/ "zuurdesem Croissants"
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8619.jpg
+ [2]: https://redzuurdesem.be/sourdough-croissants/ "zuurdesem Croissants"

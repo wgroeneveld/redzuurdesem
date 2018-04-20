@@ -10,7 +10,7 @@ categories:
 
 ---
 <div style="display: none;">
-  <a href="http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg"><img class="aligncenter size-medium wp-image-275" title="scored" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg" alt="" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored1-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg"><img class="aligncenter size-medium wp-image-275" title="scored" src="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </div>
 
 > Brood bakken is niet moeilijk. Het vereist enkel basis ingrediënten (water, bloem, zout) en geduld. Dat laatste is het meest uitdagende aspect.
@@ -83,7 +83,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   </blockquote>
   
   <p>
-    Simpel. De meeste <strong>rustieke broden</strong> zijn heel nat (en moelijk om mee te werken, dus probeer deze te vermijden als je past begint met brood bakken!) maar de natte degen maken juist heel veel gaatjes als structuur en maken het heel lekker en zacht. Traditionele broden die je meestal bij de bakker koopt, en die gebakken zijn in een rechthoekige tinnen bakvorm, hebben meestal een <strong>50 tot 60%</strong> hydratatie niveau. De foto&#8217;s van het volkoren brood in deze post van mijn &#8220;<a title="Baking your daily bread" href="http://www.redzuurdesem.be/baking-your-daily-bread/">daily bread</a>&#8221; recept heeft <strong>71%</strong> hydratatie, daarom ziet het er zo plakkerig en nat uit!
+    Simpel. De meeste <strong>rustieke broden</strong> zijn heel nat (en moelijk om mee te werken, dus probeer deze te vermijden als je past begint met brood bakken!) maar de natte degen maken juist heel veel gaatjes als structuur en maken het heel lekker en zacht. Traditionele broden die je meestal bij de bakker koopt, en die gebakken zijn in een rechthoekige tinnen bakvorm, hebben meestal een <strong>50 tot 60%</strong> hydratatie niveau. De foto&#8217;s van het volkoren brood in deze post van mijn &#8220;<a title="Baking your daily bread" href="https://redzuurdesem.be/baking-your-daily-bread/">daily bread</a>&#8221; recept heeft <strong>71%</strong> hydratatie, daarom ziet het er zo plakkerig en nat uit!
   </p>
   
   <h1>
@@ -134,7 +134,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   <a title="_MG_6464.jpg" href="http://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s1024/_MG_6464.jpg"><img title="_MG_6464.jpg" src="http://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s150-c/_MG_6464.jpg" alt="_MG_6464.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Stretch & folded het deeg na french folden.</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a title="_MG_6446.jpg" href="http://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s1024/_MG_6446.jpg"><img title="_MG_6446.jpg" src="http://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s150-c/_MG_6446.jpg" alt="_MG_6446.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Na 5 minuten french folden ziet het deeg er mooier uit!</figcaption></figure> 
   
   <p>
-    Het meest belangrijkste aspect hier is het <strong>vouwen</strong>. Een youtube video demonstreert dit, zie het  &#8220;<a title="Baking your daily bread" href="http://www.redzuurdesem.be/baking-your-daily-bread/">my daily bread</a>&#8221; artikel. In plaats van als een zot het deeg te bewerken kan simpelweg het deeg uitrekken en over elkaar vouwen zoals een brief even zeer de gluten versterken! Dit heet &#8220;stretch & folding&#8221;.
+    Het meest belangrijkste aspect hier is het <strong>vouwen</strong>. Een youtube video demonstreert dit, zie het  &#8220;<a title="Baking your daily bread" href="https://redzuurdesem.be/baking-your-daily-bread/">my daily bread</a>&#8221; artikel. In plaats van als een zot het deeg te bewerken kan simpelweg het deeg uitrekken en over elkaar vouwen zoals een brief even zeer de gluten versterken! Dit heet &#8220;stretch & folding&#8221;.
   </p>
   
   <p>
@@ -220,7 +220,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   </p>
   
   <p style="clear: both;">
-    Het &#8220;proofen&#8221; (tweede rijs) kan bijvoorbeeld met een kamertemperatuur van 20°C 1.5 tot 2 uur lang zijn. Dit kan gereduceerd worden door het in een half voorverwarmde oven te laten staan (30-40°C bijvoorbeeld). Dit is meestal <em>geen goed idee</em> &#8211; herinner u: hoe langer het gehele proces, hoe meer smaak! Je kan ook de tweede rijs opnieuw laten doorgaan in de frigo &#8211; ik heb hier wat experimenten rond gedaan (klik hier: <a title="Baking your daily bread" href="http://www.redzuurdesem.be/baking-your-daily-bread/">experiment with them as I did</a> )
+    Het &#8220;proofen&#8221; (tweede rijs) kan bijvoorbeeld met een kamertemperatuur van 20°C 1.5 tot 2 uur lang zijn. Dit kan gereduceerd worden door het in een half voorverwarmde oven te laten staan (30-40°C bijvoorbeeld). Dit is meestal <em>geen goed idee</em> &#8211; herinner u: hoe langer het gehele proces, hoe meer smaak! Je kan ook de tweede rijs opnieuw laten doorgaan in de frigo &#8211; ik heb hier wat experimenten rond gedaan (klik hier: <a title="Baking your daily bread" href="https://redzuurdesem.be/baking-your-daily-bread/">experiment with them as I did</a> )
   </p>
   
   <h1>

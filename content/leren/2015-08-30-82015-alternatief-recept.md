@@ -56,7 +56,7 @@ Wat men oogt te bereiken is een redelijk simpel proces om zo veel mogelijk smaak
       </td>
       
       <td >
-        <a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a> (fase 1)
+        <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a> (fase 1)
       </td>
     </tr>
     
@@ -120,7 +120,7 @@ Wat men oogt te bereiken is een redelijk simpel proces om zo veel mogelijk smaak
 
 &nbsp;<figure id="attachment_927" style="width: 800px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-927" src="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg" alt="Donker aromatisch roggebrood" width="800" height="447" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6545-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][4]<figcaption class="wp-caption-text">Donker aromatisch roggebrood</figcaption></figure> 
+[<img class="size-full wp-image-927" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg" alt="Donker aromatisch roggebrood" width="800" height="447" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][4]<figcaption class="wp-caption-text">Donker aromatisch roggebrood</figcaption></figure> 
 
 Deze indeling vereist wat toelichting:
 
@@ -160,7 +160,7 @@ Voor 100gr:
   
 Voeg je 70gr ververste desem van fase 2 toe.<figure id="attachment_926" style="width: 800px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-926" src="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg" alt="Plakkerig roggedeeg" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6518-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][6]<figcaption class="wp-caption-text">Plakkerig roggedeeg</figcaption></figure> 
+[<img class="size-full wp-image-926" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg" alt="Plakkerig roggedeeg" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6518-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][6]<figcaption class="wp-caption-text">Plakkerig roggedeeg</figcaption></figure> 
 
 #### Fase 4
 
@@ -176,16 +176,16 @@ Dat zou dan op 100% hydratatie moeten uitkomen, aangezien we 130gr water van de 
 
 Na deze fase kan je na slechts een uur het natte beslag in de vorm te laten rijzen het brood reeds bakken omdat je voordeeg zo aromatisch en actief is. Meng simpelweg alle ingrediënten samen en stort dit uit in de bijgeleverde cakevorm.<figure id="attachment_925" style="width: 800px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-925" src="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg" alt="roggedeeg mengen" width="800" height="534" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg 800w, http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6514-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][7]<figcaption class="wp-caption-text">roggedeeg mengen</figcaption></figure> 
+[<img class="size-full wp-image-925" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg" alt="roggedeeg mengen" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6514-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][7]<figcaption class="wp-caption-text">roggedeeg mengen</figcaption></figure> 
 
 Bak op dezelfde manier als [het hoofdrecept][1].
 
 Veel succes!
 
- [1]: http://www.redzuurdesem.be/82015-volkoren-rogge/
+ [1]: https://redzuurdesem.be/82015-volkoren-rogge/
  [2]: http://www.thefreshloaf.com/keyword/3stage-detmolder-rye
  [3]: http://germanfood.about.com/od/germanfoodglossary/a/Detmolder-Three-Phase-Sourdough-Method.htm
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg
- [5]: http://www.redzuurdesem.be/maak-zelf-een-rijskast-of-incubatie-ruimte/
- [6]: http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg
- [7]: http://www.redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg
+ [5]: https://redzuurdesem.be/maak-zelf-een-rijskast-of-incubatie-ruimte/
+ [6]: https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg
+ [7]: https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg

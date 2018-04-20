@@ -13,7 +13,7 @@ The possibilities with bread baking are _endless_. If you&#8217;re starting with
 
 After baking for a few months and trying out different recipes from various books, I settled with my daily bread as a morphed version of Mr. Hamelman&#8217;s &#8220;_Pain au levain with wholewheat_&#8221; recipe. Why? Because it&#8217;s one of the simpler sourdough no-fail breads I&#8217;d like to master. I did obviously tweak it to my taste.<figure id="attachment_194" style="width: 1024px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-194" title="dailybread_midden_24h" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg" alt="" width="1024" height="632" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-300x185.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-332x205.jpg 332w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-268x164.jpg 268w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-700x432.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]<figcaption class="wp-caption-text">A section view of my daily bread</figcaption></figure> 
+[<img class="size-full wp-image-194" title="dailybread_midden_24h" src="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg" alt="" width="1024" height="632" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-300x185.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-332x205.jpg 332w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-268x164.jpg 268w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-700x432.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]<figcaption class="wp-caption-text">A section view of my daily bread</figcaption></figure> 
 
 # My daily bread &#8211; the recipe
 
@@ -37,7 +37,7 @@ The original recipe called for a white flour preferment, but I like the wholewhe
 
 What did I change in the original recipe? As you might have noticed, completely replaced the bread flour with wholewheat in the preferment and upped the water amount by a bit. (As you might know, wholewheat flour soaks up more water, and I like holes in the bread, which is caused by a high hydratation percentage)<figure id="attachment_196" style="width: 1024px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-196" title="dailybread_slice_24h" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg" alt="" width="1024" height="683" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][2]<figcaption class="wp-caption-text">Some slices of my 65% wholewheat daily bread</figcaption></figure> 
+[<img class=" wp-image-196" title="dailybread_slice_24h" src="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg" alt="" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][2]<figcaption class="wp-caption-text">Some slices of my 65% wholewheat daily bread</figcaption></figure> 
 
 # Method
 
@@ -83,7 +83,7 @@ The taste was not very sour at all, very mild, and the texture, as you can see, 
 
 To get a more sour taste, I&#8217;m trying out more experiments which I will post under the learning category. My first experiment was retarding longer in order to get a more pronounced flavor.<figure id="attachment_199" style="width: 1024px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-199" title="dailybread_slice_40h" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg" alt="" width="1024" height="683" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][4]<figcaption class="wp-caption-text">The bread after retarding for 40 hours in the fridge</figcaption></figure> 
+[<img class=" wp-image-199" title="dailybread_slice_40h" src="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg" alt="" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][4]<figcaption class="wp-caption-text">The bread after retarding for 40 hours in the fridge</figcaption></figure> 
 
 The experiment results are just in:
 
@@ -103,9 +103,9 @@ Time for more experiments!
 
 **Also on: **[**_The Fresh Loaf_**][6]
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg
+ [2]: https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg
  [3]: http://www.youtube.com/watch?v=nmRt5O4rd8o&feature=related
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg
  [5]: http://www.thefreshloaf.com/searchresults?cx=partner-pub-5060446827351852%3A9bvu1n-clx1&cof=FORID%3A9&ie=ISO-8859-1&cow=more+sour&sa=Search
  [6]: http://www.thefreshloaf.com/node/29337/my-daily-bread-65-ww-sourdough

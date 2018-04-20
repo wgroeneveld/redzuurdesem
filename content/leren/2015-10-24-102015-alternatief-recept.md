@@ -20,7 +20,7 @@ Gelieve **eerst [het origineel recept][1] **zeer aandachtig te bestuderen.
 
 In plaats van een combinatie van zuurdesem en bakkersgist te gebruiken, kunnen we ook een voordeeg maken met enkel gist. Deze manier van werken wordt heel veel gebruikt om _baguettes_ te maken in Frankrijk: een voordeeg geeft veel smaak maar houdt de korst toch licht en knapperig, en het kruim luchtig en fluffy. Baguettes met zuurdesem zijn minstens even smakelijk maar geven een ander mondgevoel.<figure id="attachment_103" style="width: 1024px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-103" src="http://www.redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg" alt="baguettes in rijsdoek" width="1024" height="683" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/baguettes1-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/06/baguettes1-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][2]<figcaption class="wp-caption-text">baguettes in rijsdoek</figcaption></figure> 
+[<img class="size-full wp-image-103" src="https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg" alt="baguettes in rijsdoek" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][2]<figcaption class="wp-caption-text">baguettes in rijsdoek</figcaption></figure> 
 
 Het recept wordt als volgt gewijzigd ten opzichte van het hoofdrecept:
 
@@ -108,7 +108,7 @@ water
 100gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
 
 <p>
-(Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="http://www.redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
+(Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="https://redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
 </p>
 
 <h3>
@@ -141,7 +141,7 @@ actie
 </td>
 
 <td >
-<a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</td> </tr> 
+<a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</td> </tr> 
 
 <tr>
   <td >
@@ -186,7 +186,7 @@ actie
 </tr></tbody></table></div> 
 
 <p>
-  (Zie &#8220;<a href="http://www.redzuurdesem.be/42015-uitgesteld-bakken/">hoe gebruik en lees ik een tijdstabel</a>&#8220;, van Desem Doos #2)
+  (Zie &#8220;<a href="https://redzuurdesem.be/42015-uitgesteld-bakken/">hoe gebruik en lees ik een tijdstabel</a>&#8220;, van Desem Doos #2)
 </p>
 
 <h3>
@@ -198,7 +198,7 @@ actie
 </h4>
 
 <p>
-  Uitgebreide uitleg hierover: <a title="1/2015 – Rogge zaden brood" href="http://www.redzuurdesem.be/12015-rogge-zaden-brood/">zie het rogge zaden brood recept van doos #1</a>.
+  Uitgebreide uitleg hierover: <a title="1/2015 – Rogge zaden brood" href="https://redzuurdesem.be/12015-rogge-zaden-brood/">zie het rogge zaden brood recept van doos #1</a>.
 </p>
 
 <p>
@@ -218,7 +218,7 @@ actie
 </p>
 
 <p>
-  <strong>Hoe weet ik of mijn voordeeg &#8220;klaar&#8221; is?<br /> </strong>Als er luchtbellen aan de oppervlakte verschenen zijn. Dit kan al na 4 uur zijn, en je kan het verder laten staan om tot een intensere smaak te komen. Dit is sterk afhankelijk van de temperatuur, de vochtigheid (hydratatie) en tijd &#8211; dus experimenteren is aangeraden.<br /> Lees meer hierover in <a href="http://www.redzuurdesem.be/42015-uitgesteld-bakken/" target="_blank">doos 2: uitgesteld bakken</a>.
+  <strong>Hoe weet ik of mijn voordeeg &#8220;klaar&#8221; is?<br /> </strong>Als er luchtbellen aan de oppervlakte verschenen zijn. Dit kan al na 4 uur zijn, en je kan het verder laten staan om tot een intensere smaak te komen. Dit is sterk afhankelijk van de temperatuur, de vochtigheid (hydratatie) en tijd &#8211; dus experimenteren is aangeraden.<br /> Lees meer hierover in <a href="https://redzuurdesem.be/42015-uitgesteld-bakken/" target="_blank">doos 2: uitgesteld bakken</a>.
 </p>
 
 <h4>
@@ -230,10 +230,10 @@ actie
 </p>
 
 <p>
-  Volg vanaf hier de instructies van het <a href="http://www.redzuurdesem.be/102015-hybride-degen/">hoofdrecept</a>.
+  Volg vanaf hier de instructies van het <a href="https://redzuurdesem.be/102015-hybride-degen/">hoofdrecept</a>.
 </p><figure id="attachment_272" style="width: 1024px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg"><img class="size-full wp-image-272" src="http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg" alt="Een closeup van een rijzend broodje" width="1024" height="683" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/07/scored-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-caption-text">Een closeup van een rijzend broodje</figcaption></figure>
+<a href="https://redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg"><img class="size-full wp-image-272" src="https://redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg" alt="Een closeup van een rijzend broodje" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-caption-text">Een closeup van een rijzend broodje</figcaption></figure>
 
- [1]: http://www.redzuurdesem.be/102015-hybride-degen/
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg
+ [1]: https://redzuurdesem.be/102015-hybride-degen/
+ [2]: https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg

@@ -27,7 +27,7 @@ categories:
 ---
 Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesem brood deeg. Dankzij Mr. Hamelman&#8217;s boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin.<figure id="attachment_587" style="width: 500px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-587 " title="Baked sunflower rye bread" src="http://www.redzuurdesem.be/wp-content/uploads/2013/02/MG_8191-300x200.jpg" alt="Baked sunflower rye bread" width="500" height="400" />][1]<figcaption class="wp-caption-text">Baked sunflower rye bread</figcaption></figure> 
+[<img class=" wp-image-587 " title="Baked sunflower rye bread" src="https://redzuurdesem.be/wp-content/uploads/2013/02/MG_8191-300x200.jpg" alt="Baked sunflower rye bread" width="500" height="400" />][1]<figcaption class="wp-caption-text">Baked sunflower rye bread</figcaption></figure> 
 
 Het is geen zwaar rogge brood aangezien de zonnebloem zaadjes het deeg ook meer naar beneden halen bij het rijzen. Het is ongeveer 30% volkoren rogge, de rest is witte tarwebloem. Dit kan natuurlijk ook altijd vervangen worden door spelt bloem, zolang het maar niet volkoren is. De foto&#8217;s duiden ook aan dat het brood heel goed gerezen is &#8211; ook dankzij mijn zeer actieve rogge desem starter.
 
@@ -79,7 +79,7 @@ Ook gepubliceerd op [YeastSpotting][4].
 
 <p class="clear">
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/02/MG_8191.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/02/MG_8191.jpg
  [2]: http://en.wikipedia.org/wiki/Blackstrap_molasses
- [3]: http://www.redzuurdesem.be/baking-your-daily-bread/ "Baking your daily bread"
+ [3]: https://redzuurdesem.be/baking-your-daily-bread/ "Baking your daily bread"
  [4]: http://www.wildyeastblog.com/category/yeastspotting/

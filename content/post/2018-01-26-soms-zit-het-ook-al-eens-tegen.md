@@ -17,7 +17,7 @@ Een baaldag kan toeslaan bij iedereen en op eender welk moment, ook bij bakkers.
 
 Toen ik vorige week nog wat experimentjes wou doorvoeren sloeg het noodlot echter weer toe. Ik moest ter voorbereiding van een workshop een hybride deeg samenstellen en had verse gist gekocht omdat mijn gedroogde gist weinig reactie toonde de laatste keer dat ik die gebruikte. Omdat ik lange rijstijden gewoon ben, was ik tussen de rijstijden door even gaan winkelen. Met dit als gevolg:
 
-<img class="aligncenter size-large wp-image-999" src="http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-768x1024.jpg" alt="" width="768" height="1024" srcset="http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-768x1024.jpg 768w, http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-225x300.jpg 225w, http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-820x1093.jpg 820w" sizes="(max-width: 768px) 100vw, 768px" />
+<img class="aligncenter size-large wp-image-999" src="https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-768x1024.jpg" alt="" width="768" height="1024" srcset="https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-768x1024.jpg 768w, https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-225x300.jpg 225w, https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-820x1093.jpg 820w" sizes="(max-width: 768px) 100vw, 768px" />
 
 Oeps.
 
@@ -39,6 +39,6 @@ De steenoven zet ik gewoonlijk na 10 minuten af zodat het brood mooi even bakt.
 
 Ben ik even blij dat de eerste stap &#8211; mixen &#8211; gelukt was zeg&#8230;
 
-<img class="aligncenter size-large wp-image-1000" src="http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-1024x768.jpg" alt="" width="1024" height="768" srcset="http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-1024x768.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-300x225.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-768x576.jpg 768w, http://www.redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-820x615.jpg 820w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-large wp-image-1000" src="https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-1024x768.jpg" alt="" width="1024" height="768" srcset="https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-1024x768.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-300x225.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-768x576.jpg 768w, https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.24.42-820x615.jpg 820w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Ik heb nog nooit mijn deeg zo snel de top van de rijsmandjes weten te bereiken als toen&#8230;

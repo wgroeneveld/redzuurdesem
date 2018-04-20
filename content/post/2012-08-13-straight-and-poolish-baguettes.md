@@ -12,7 +12,7 @@ categories:
 ---
 Most baguettes nowadays are made with a &#8220;_straight dough_&#8221; which indicates the dough has risen for about 4 hours in total, without an additional preferment (sourdough or not). There&#8217;s a clear difference in taste (and as you will see, also in structure) between both methods, and I wanted to bake both side by side to be able to compare them well.<figure id="attachment_382" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="size-medium wp-image-382" title="_MG_6742" src="http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6742-300x200.jpg" alt="" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6742-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6742-700x467.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6742.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Freshly baked baguettes</figcaption></figure> 
+[<img class="size-medium wp-image-382" title="_MG_6742" src="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6742-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6742-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6742-700x467.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6742.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Freshly baked baguettes</figcaption></figure> 
 
 Both recipes came from Jeffrey Hamelman&#8217;s &#8220;BREAD&#8221; book. There are slight differences in fermentation times and hydratation percentages but they are subtle. The **straight version** contains **70%** water and the **poolish version** only **68%**. But as the latter is done with a preferment of 30%, it has more structure and gluten development on it&#8217;s own, which translates in less kneading time.
 
@@ -67,7 +67,7 @@ Therefore, Mr. Hamelman suggests to only fold the poolish version once after an 
     </li>
   </ol><figure id="attachment_385" style="width: 300px" class="wp-caption aligncenter">
   
-  <a href="http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6738.jpg"><img class="size-medium wp-image-385 " title="Proofing baguettes on a floured linen" src="http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6738-300x200.jpg" alt="Proofing baguettes on a floured linen" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6738-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6738-700x467.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6738.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Proofing baguettes on a floured linen</figcaption></figure>
+  <a href="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6738.jpg"><img class="size-medium wp-image-385 " title="Proofing baguettes on a floured linen" src="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6738-300x200.jpg" alt="Proofing baguettes on a floured linen" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6738-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6738-700x467.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6738.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Proofing baguettes on a floured linen</figcaption></figure>
 </div>
 
 <h2 style="clear: both;">
@@ -81,7 +81,7 @@ Therefore, Mr. Hamelman suggests to only fold the poolish version once after an 
 
 I think I&#8217;ll skip the &#8220;French Bread&#8221; recipe next time and concentrate on getting better at the poolish version instead. They tasted much better and I felt a little bit more confident handling them.
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/08/MG_6742.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6742.jpg
  [2]: http://lh5.ggpht.com/-BA80fhDdfJY/UCgZnug-BCI/AAAAAAAAGcA/MtlDINz1AiY/s1024/_MG_6739.JPG "_MG_6739.JPG"
  [3]: http://lh4.ggpht.com/-tRkXv-0Qk5U/UCgZkXp-_JI/AAAAAAAAGbo/z5J54Q1EL10/s1024/_MG_6732.JPG "_MG_6732.JPG"
  [4]: http://lh5.ggpht.com/-0TITiYYs2Kc/UCgZlU9Hk2I/AAAAAAAAGbw/0F2qy0z9gKY/s1024/120820122018.jpg "120820122018.jpg"

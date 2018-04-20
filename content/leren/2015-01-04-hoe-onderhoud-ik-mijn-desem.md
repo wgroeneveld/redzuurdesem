@@ -55,7 +55,7 @@ Maak gebruik van wat je weet &#8211; lage temperaturen vertragen fermentatie! De
 
 Niet zeker of hij al klaar is voor gebruik? Je neus kan hierbij een goed oplossing bieden &#8211; ruikt het aangenaam zuur, zoals biergist? Klaar. Is het super zuur of onaangenaam? Best nog eens verversen. Ruikt het naar niets of gewoon bloem? Langer wachten.<figure id="attachment_757" style="width: 604px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-757" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_9870-1024x683.jpg" alt="Een desem op springen..." width="604" height="403" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_9870.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_9870-300x200.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />][1]<figcaption class="wp-caption-text">Een desem op springen&#8230;</figcaption></figure> 
+[<img class="size-large wp-image-757" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_9870-1024x683.jpg" alt="Een desem op springen..." width="604" height="403" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_9870.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_9870-300x200.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />][1]<figcaption class="wp-caption-text">Een desem op springen&#8230;</figcaption></figure> 
 
 ### Een recept vraagt voor een tarwe desem maar die van mij is rogge?
 
@@ -88,7 +88,7 @@ Hier zijn een aantal dingen tegen te doen. Om te beginnen moet je goed beseffen 
   
     Rogge is ook verantwoordelijk voor een &#8220;zuurdere&#8221; smaak dan bijvoorbeeld tarwe.<figure id="attachment_755" style="width: 604px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-755" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6609-1024x683.jpg" alt="vastere tarwe desem" width="604" height="403" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6609.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6609-300x200.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />][2]<figcaption class="wp-caption-text">vastere tarwe desem</figcaption></figure> 
+[<img class="size-large wp-image-755" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6609-1024x683.jpg" alt="vastere tarwe desem" width="604" height="403" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6609.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6609-300x200.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />][2]<figcaption class="wp-caption-text">vastere tarwe desem</figcaption></figure> 
 
 ### Mijn desem ruikt naar sterk bier, help?
 
@@ -126,7 +126,7 @@ Als dat niet het geval is, zul je vanaf nul opnieuw moeten beginnen, of een stuk
 
 Heb je je desem bij ontvangst wel direct in de koelkast geplaatst, zoals aangegeven?<figure id="attachment_902" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-902" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0800-1024x683.jpg" alt="desem die dringend nood heeft aan voedesl" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0800.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0800-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][3]<figcaption class="wp-caption-text">desem die dringend nood heeft aan voedesl</figcaption></figure> 
+[<img class="size-large wp-image-902" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0800-1024x683.jpg" alt="desem die dringend nood heeft aan voedesl" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0800.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0800-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][3]<figcaption class="wp-caption-text">desem die dringend nood heeft aan voedesl</figcaption></figure> 
 
 **Gooi nooit te vroeg weg** &#8211; ook al verkleurt je desem en ruikt hij heel onprettig, de kans is heel groot dat hij perfect oké bakt als je hem een paar dagen de tijd geeft en genoeg bloem en water bijmengt. Doe dit op regelmatigere intervallen in een warmere omgeving (om de 4h bij 28°C) om terug sneller een bakklare starter te hebben.
 
@@ -138,11 +138,11 @@ Dan is het te laat, helaas&#8230;
   
 Weggooien en opnieuw beginnen! Je kan ook de bovenste laag er proberen afschrapen en een aantal keren de rest verversen.<figure id="attachment_754" style="width: 604px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-754" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6512-1024x683.jpg" alt="Belletjes bij mixen van de desem" width="604" height="403" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6512.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6512-300x200.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />][4]<figcaption class="wp-caption-text">Belletjes bij mixen van de desem</figcaption></figure> 
+[<img class="size-large wp-image-754" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6512-1024x683.jpg" alt="Belletjes bij mixen van de desem" width="604" height="403" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6512.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6512-300x200.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />][4]<figcaption class="wp-caption-text">Belletjes bij mixen van de desem</figcaption></figure> 
 
 &nbsp;
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_9870.jpg
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6609.jpg
- [3]: http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0800.jpg
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_6512.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_9870.jpg
+ [2]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6609.jpg
+ [3]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0800.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_6512.jpg

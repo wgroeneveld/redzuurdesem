@@ -16,7 +16,7 @@ categories:
 ---
 ### Het alternatief: super licht & zoet-zuur<figure id="attachment_871" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-871" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-1024x704.jpg" alt="Doorsnede van het gebakken brood" width="660" height="454" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-1024x704.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-300x206.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0780.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">Doorsnede van het gebakken brood</figcaption></figure> 
+[<img class="size-large wp-image-871" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-1024x704.jpg" alt="Doorsnede van het gebakken brood" width="660" height="454" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-1024x704.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-300x206.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">Doorsnede van het gebakken brood</figcaption></figure> 
 
 **Zeer belangrijk**: bestudeer eerst het &#8220;[hoofdrecept artikel][2]&#8221; voor uitgesteld bakken!
 
@@ -119,11 +119,11 @@ water
  100gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
 
 <p>
-  (Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="http://www.redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
+  (Zie &#8220;<a title="Hoe gebruik en lees ik een recept?" href="https://redzuurdesem.be/hoe-gebruik-en-lees-ik-een-recept/">hoe gebruik en lees ik een recept</a>&#8221; als je niet weet wat de percentages zijn)
 </p>
 
 <p>
-  Volg de stappen van <a href="http://www.redzuurdesem.be/42015-uitgesteld-bakken/">het hoofdrecept</a>, alles is analoog.<br /> Het deeg zal <strong>anders aanvoelen</strong> gegeven de gewijzigde inhoud, dus schrik niet als het enorm plakt. Werk rustig verder, ook al lijkt het alsof het deeg nooit tot een mooi brood zal getransformeerd worden, en vertrouw op de hulp van het rijsmandje en de koelkast.
+  Volg de stappen van <a href="https://redzuurdesem.be/42015-uitgesteld-bakken/">het hoofdrecept</a>, alles is analoog.<br /> Het deeg zal <strong>anders aanvoelen</strong> gegeven de gewijzigde inhoud, dus schrik niet als het enorm plakt. Werk rustig verder, ook al lijkt het alsof het deeg nooit tot een mooi brood zal getransformeerd worden, en vertrouw op de hulp van het rijsmandje en de koelkast.
 </p>
 
 <h3>
@@ -222,5 +222,5 @@ water
   Deze tijdstabel gaf het beste resultaat voor dit type deeg.<br /> Je kan natuurlijk ook kiezen voor een ander schema, zoals in het hoofdrecept, als je meer aciditeit prefereert, of net minder. Om daar over te kunnen oordelen moet je kunnen vergelijken, dus tijd om de handen uit de mouwen te steken!
 </p>
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0780.jpg
- [2]: http://www.redzuurdesem.be/42015-uitgesteld-bakken/
+ [1]: https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780.jpg
+ [2]: https://redzuurdesem.be/42015-uitgesteld-bakken/

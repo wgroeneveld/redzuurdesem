@@ -20,7 +20,7 @@ Blijkbaar wordt gedroogde desem veel in Duitse bakkerijen gebruikt om smaak toe 
   
 Van de heren van [Puratos][1] heb ik tijdens een bezoek een zak &#8220;_O-tenic_&#8221; meegekregen, een soort van all-in-one poeder gemaakt van extracten van desem. Deze gaan we samen met de andere Duitse poedertjes uittesten.<figure id="attachment_749" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="wp-image-749 size-medium" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0394-300x200.jpg" alt="_MG_0394" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0394-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0394.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption class="wp-caption-text">Verschillende desems, zelfde recept.</figcaption></figure> 
+[<img class="wp-image-749 size-medium" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0394-300x200.jpg" alt="_MG_0394" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0394-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0394.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption class="wp-caption-text">Verschillende desems, zelfde recept.</figcaption></figure> 
 
 ### Het experiment
 
@@ -44,7 +44,7 @@ Bij de O-Tenic versie moet niets toegevoegd worden &#8211; op Puratos&#8217; aan
   * tweede rijs (19h00)
   * bakken (20h00)<figure id="attachment_748" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="wp-image-748 size-medium" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0275-300x200.jpg" alt="_MG_0275" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0275-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0275.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][4]<figcaption class="wp-caption-text">De gedroogde desems</figcaption></figure> 
+[<img class="wp-image-748 size-medium" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0275-300x200.jpg" alt="_MG_0275" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0275-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0275.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][4]<figcaption class="wp-caption-text">De gedroogde desems</figcaption></figure> 
 
 Wat wel opviel, is dat door de toevoeging van 1% gist de 2 Duitse desems zeer goed rezen op 1,5h tijd, vergeleken met de O-Tenic die wat trager op gang kwam. Ik heb dezelfde tijden aangehouden, ook voor dat deeg, om het beter te kunnen vergelijken. Dat deeg kleurde geler en had een sterkere geur (wat een indicatie is naar het eindproduct toe). Echt aangenaam kan ik die geur niet noemen, het is tenslotte ook geen echte verse desem.
   
@@ -56,7 +56,7 @@ De korst van de O-Tenic versie kleurde ook feller &#8211; zoals verwacht gezien 
 
 Langs de andere kant was het Puratos brood een totaal ander soort geworden. Het proeft veel intenser dan een gewoon gistbrood dat op 4h uit de oven gaat, maar de smaken zijn zeer chemisch in vergelijking met een écht desembrood. Het is moeilijk om nader te beschrijven, want verschillende moederdegen proeven uiteraard ook anders, en dit is een extract van &#8220;iets&#8221; &#8211; mogelijks zelfs combinaties van desems. Ik ben mijn volkoren rogge desem starter gewoon. In ieder geval, als ik de drie broden toch moet vergelijken om een winnaar te kiezen, is het de O-Tenic variant, vanwege het effectief proefbare smaakverschil.<figure id="attachment_750" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="wp-image-750 size-medium" src="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0395-300x200.jpg" alt="_MG_0395" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0395-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0395.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][7]<figcaption class="wp-caption-text">Het kruim van de drie broden. Links: O-Tenic. Boven: Arche, onder: Verival.</figcaption></figure> 
+[<img class="wp-image-750 size-medium" src="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0395-300x200.jpg" alt="_MG_0395" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0395-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0395.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][7]<figcaption class="wp-caption-text">Het kruim van de drie broden. Links: O-Tenic. Boven: Arche, onder: Verival.</figcaption></figure> 
 
 Enkele conclusies:
 
@@ -66,9 +66,9 @@ Enkele conclusies:
   4. Geen van bovenstaande broden smaakt zo goed als een natuurlijke desem!
 
  [1]: http://www.puratos.be/nl/
- [2]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0394.jpg
+ [2]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0394.jpg
  [3]: http://www.thefreshloaf.com/node/16454/german-sourdough-powder
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0275.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0275.jpg
  [5]: http://www.arche-naturkueche.de/rezepte/europaeisch/sauerteigbrot.php
  [6]: http://www.supermarktcheck.de/verival-bio/produkte/sauerteig-extrakt
- [7]: http://www.redzuurdesem.be/wp-content/uploads/2014/10/MG_0395.jpg
+ [7]: https://redzuurdesem.be/wp-content/uploads/2014/10/MG_0395.jpg

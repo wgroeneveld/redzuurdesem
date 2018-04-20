@@ -29,7 +29,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_649" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-649" title="Warm pita brood gevuld met groenten" alt="Warm pita brood gevuld met groenten" src="http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-300x200.jpg" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8816.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Warm pita brood gevuld met groenten</figcaption></figure> 
+<figure id="attachment_649" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-649" title="Warm pita brood gevuld met groenten" alt="Warm pita brood gevuld met groenten" src="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Warm pita brood gevuld met groenten</figcaption></figure> 
 
 <h2 style="text-align: left;">
   Het gemakkelijkste ooit: maak voordeeg. KLAAR.
@@ -51,15 +51,15 @@ Geïnspireerd door [http://www.weekendbakery.com/posts/favorite-flatbreads-sour
 
 Simpelweg alles mixen (niet eens veel kneden, gluten zullen vanzelf wel vormen). Doe dit 24 uur op voorhand, één dag dus. Het zou geen nat deeg moeten zijn zoals frans brood &#8211; je kan eventueel minder rogge of water gebruiken.
 
-[<img class="aligncenter size-medium wp-image-650" alt="_MG_8813" src="http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8813-300x200.jpg" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8813-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8813-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8813.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][3]
+[<img class="aligncenter size-medium wp-image-650" alt="_MG_8813" src="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8813-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8813-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8813-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8813.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][3]
 
 Verdeel het deeg tot een 16-18tal deeg balletjes, afhankelijk van hoe groot je de pita broodjes wil hebben. Druk ze plat met de palm van je hand &#8211; zorg ervoor dat ze niet té dun zijn, een halve vinger dik ongeveer. Er moet nog een beetje lucht aanwezig zijn in het deeg zodat ze goed kunnen rijzen. Laad de broden in de voorverwarmde oven (250°C+) &#8211; als je geen baksteen hebt, gooi ze dan op een voorverwarmde bakplaat. Na een paar minuten wordt de bovenkant bruin en kan je de volgende lading bakken.
 
-[<img class="aligncenter size-medium wp-image-651" alt="_MG_8814" src="http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8814-300x200.jpg" width="300" height="200" srcset="http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8814-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8814-700x466.jpg 700w, http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8814.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][4]
+[<img class="aligncenter size-medium wp-image-651" alt="_MG_8814" src="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8814-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8814-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8814-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8814.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][4]
 
 Serveer met knoflook/chilli saus en wat geroosterde groenten zoals aubergines. Heerlijk!
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8816.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816.jpg
  [2]: http://www.weekendbakery.com/posts/favorite-flatbreads-sourdough-pita/ "Weekend Bakery"
- [3]: http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8813.jpg
- [4]: http://www.redzuurdesem.be/wp-content/uploads/2013/07/MG_8814.jpg
+ [3]: https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8813.jpg
+ [4]: https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8814.jpg

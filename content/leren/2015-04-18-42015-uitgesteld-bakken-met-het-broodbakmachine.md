@@ -136,7 +136,7 @@ water
   Je kan dus de tijdstabellen aanhouden die in het hoofdrecept staan uitgeschreven. In het andere geval ben je aangewezen op niet uitgesteld bakken (tijdstabel &#8220;snel en subtiel&#8221; in het hoofdrecept)
 </p><figure id="attachment_862" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0764.jpg"><img class="size-large wp-image-862" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0764-1024x683.jpg" alt="het bakblik klaar voor de koelkast" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0764-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0764-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0764.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">het bakblik klaar voor de koelkast</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0764.jpg"><img class="size-large wp-image-862" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0764-1024x683.jpg" alt="het bakblik klaar voor de koelkast" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0764-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0764-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0764.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">het bakblik klaar voor de koelkast</figcaption></figure> 
 
 <p>
   &nbsp;
@@ -147,7 +147,7 @@ water
 </p>
 
 <p>
-  <a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">Ververs je desem starter op voorhand</a>!
+  <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">Ververs je desem starter op voorhand</a>!
 </p>
 
 <h3>
@@ -175,7 +175,7 @@ water
   </li>
 </ol><figure id="attachment_863" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0765.jpg"><img class="size-large wp-image-863" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-1024x683.jpg" alt="gerezen deeg in het bakblik" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0765.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">gerezen deeg in het bakblik</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765.jpg"><img class="size-large wp-image-863" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-1024x683.jpg" alt="gerezen deeg in het bakblik" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">gerezen deeg in het bakblik</figcaption></figure> 
 
 <h3>
   Werkwijze 2: alles automatisch (18h totaal)
@@ -190,7 +190,7 @@ water
   </li>
 </ol><figure id="attachment_864" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0766.jpg"><img class="size-large wp-image-864" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0766-1024x683.jpg" alt="het gebakken brood" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0766-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0766-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0766.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">het gebakken brood</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0766.jpg"><img class="size-large wp-image-864" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0766-1024x683.jpg" alt="het gebakken brood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0766-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0766-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0766.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">het gebakken brood</figcaption></figure> 
 
 <p>
   <strong>Wat is het grootste verschil tussen uitgesteld bakken met het broodbakmachine en handmatig?</strong>
@@ -217,10 +217,10 @@ water
 </p>
 
 <p>
-  Tips om beter te bakken met het broodbakmachine <a title="Zuurdesem en broodbakmachines: doenbaar?" href="http://www.redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/">kan je hier terugvinden</a>.
+  Tips om beter te bakken met het broodbakmachine <a title="Zuurdesem en broodbakmachines: doenbaar?" href="https://redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/">kan je hier terugvinden</a>.
 </p><figure id="attachment_865" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg"><img class="size-large wp-image-865" src="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg" alt="Een goed gerezen brood" width="660" height="440" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">Een goed gerezen brood</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg"><img class="size-large wp-image-865" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg" alt="Een goed gerezen brood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0769.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">Een goed gerezen brood</figcaption></figure> 
 
 <p>
   &nbsp;
@@ -230,4 +230,4 @@ water
   &nbsp;
 </p>
 
- [1]: http://www.redzuurdesem.be/42015-uitgesteld-bakken/ "4/2015 – uitgesteld bakken"
+ [1]: https://redzuurdesem.be/42015-uitgesteld-bakken/ "4/2015 – uitgesteld bakken"

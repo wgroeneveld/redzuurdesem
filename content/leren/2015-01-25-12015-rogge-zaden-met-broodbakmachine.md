@@ -121,14 +121,14 @@ water
   Hetzelfde argument kan hier ook gebruikt worden: tijdsnood. Het hoofdrecept laten we langer rijzen (1ste rijs, 2de rijs), dat gaat hier niet. We compenseren door meer bloem een nacht op voorhand te laten fermenteren.<br /> Merk op dat van de 40%, 30% roggemeel is (alles dus), en 10% tarwebloem.
 </p><figure id="attachment_787" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg"><img class="size-large wp-image-787" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-1024x784.jpg" alt="het juist gebakken brood" width="660" height="505" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-300x230.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">het juist gebakken brood</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg"><img class="size-large wp-image-787" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-1024x784.jpg" alt="het juist gebakken brood" width="660" height="505" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710-300x230.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">het juist gebakken brood</figcaption></figure> 
 
 <h3>
   Werkwijze
 </h3>
 
 <p>
-  <a title="Hoe onderhoud ik mijn desem" href="http://www.redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">Ververs je desem starter op voorhand</a>!
+  <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">Ververs je desem starter op voorhand</a>!
 </p>
 
 <p>
@@ -152,7 +152,7 @@ water
   </li>
 </ol><figure id="attachment_788" style="width: 660px" class="wp-caption aligncenter">
 
-<a href="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0720.jpg"><img class="size-large wp-image-788" src="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0720-1024x693.jpg" alt="een zichtbaar gat van de kneedhaak" width="660" height="447" srcset="http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0720.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2015/01/MG_0720-300x203.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">een zichtbaar gat van de kneedhaak</figcaption></figure> 
+<a href="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0720.jpg"><img class="size-large wp-image-788" src="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0720-1024x693.jpg" alt="een zichtbaar gat van de kneedhaak" width="660" height="447" srcset="https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0720.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0720-300x203.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">een zichtbaar gat van de kneedhaak</figcaption></figure> 
 
 <p>
   <strong>Dag 2, 15H</strong>: je brood is klaar! Bovenstaande foto&#8217;s geven je een voorbeeld hoe het brood er uit komt. Het is normaal dat het brood helemaal niet tot aan de deksel van het broodbakmachine gerezen is, omdat we geen bakkersgist gebruikt hebben.<br /> Verwijder de kneedhaak en laat het brood afkoelen voordat je het opsnijdt!
@@ -163,7 +163,7 @@ water
 </h3>
 
 <p>
-  Zaden desembrood bakken met het broodbakmachine gaat natuurlijk ook, maar niet met dezelfde hoeveelheden zaadjes toegevoegd zoals <a title="1/2015 – Rogge zaden brood" href="http://www.redzuurdesem.be/12015-rogge-zaden-brood/">het hoofdrecept</a>, vanwege beperkingen die reeds aan bod zijn gekomen.<br /> Ik raad de volgende percentages aan wanneer je die bij het bovenstaand recept wenst te gebruiken:
+  Zaden desembrood bakken met het broodbakmachine gaat natuurlijk ook, maar niet met dezelfde hoeveelheden zaadjes toegevoegd zoals <a title="1/2015 – Rogge zaden brood" href="https://redzuurdesem.be/12015-rogge-zaden-brood/">het hoofdrecept</a>, vanwege beperkingen die reeds aan bod zijn gekomen.<br /> Ik raad de volgende percentages aan wanneer je die bij het bovenstaand recept wenst te gebruiken:
 </p>
 
 <ol>
@@ -182,5 +182,5 @@ water
   Dus op ons brood van 500gr bloem, in totaal 45gr, waarvan 15gr elk.<br /> Pas het hydratatie niveau aan naar 65% in plaats van 63%.<br /> De zaadjes laten weken doen we hier <strong>niet</strong>, omdat ze anders té veel vocht opslorpen die het deeg te nat maken. Dat krijgt een broodbakmachine helaas niet gebakken, is gebleken uit verschillende experimenten die ik ondernomen heb.
 </p>
 
- [1]: http://www.redzuurdesem.be/12015-rogge-zaden-brood/ "1/2015 – Rogge zaden brood"
- [2]: http://www.redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/ "Zuurdesem en broodbakmachines: doenbaar?"
+ [1]: https://redzuurdesem.be/12015-rogge-zaden-brood/ "1/2015 – Rogge zaden brood"
+ [2]: https://redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/ "Zuurdesem en broodbakmachines: doenbaar?"

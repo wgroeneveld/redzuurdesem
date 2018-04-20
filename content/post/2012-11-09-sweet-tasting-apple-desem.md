@@ -9,7 +9,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_465" style="width: 1024px" class="wp-caption aligncenter">[<img class="size-full wp-image-465" title="Veel gaatjes en appel stukken" src="http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg" alt="Veel gaatjes en appel stukken" width="1024" height="683" srcset="http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg 1024w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-300x200.jpg 300w, http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]<figcaption class="wp-caption-text">Veel gaatjes en appel stukken</figcaption></figure> 
+<figure id="attachment_465" style="width: 1024px" class="wp-caption aligncenter">[<img class="size-full wp-image-465" title="Veel gaatjes en appel stukken" src="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg" alt="Veel gaatjes en appel stukken" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]<figcaption class="wp-caption-text">Veel gaatjes en appel stukken</figcaption></figure> 
 
 Doesn&#8217;t this look amazing? I&#8217;ve read great things about using &#8220;**yeast water**&#8221; at [The Fresh Loaf][2] which is basically _anything_ fermented with water. You can even use certain vegetables. Or tea. According to Wikipedia, tea combined with honey is a popular fermentation tool &#8211; something like Kefir and the like. You do know that yogurt is also made by slowly fermenting milk, right? The longer you ferment things, the more tasty they get (or the more &#8220;tang&#8221; they have, which might not appeal to everyone).
 
@@ -43,7 +43,7 @@ What surprised me the most was the sweetness of the bread, or the complete absen
 
 I now have three starters in my fridge: a stiff white one, a liquid rye one and this apple yeast container. Great!
 
- [1]: http://www.redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg
+ [1]: https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg
  [2]: http://www.thefreshloaf.com/node/30536/rose-hip-levain-made-jam
  [3]: http://lh3.ggpht.com/-JhdiB3xraZU/UJ1Z01-6hUI/AAAAAAAAGpE/FwjZmwwg4oE/s1024/_MG_7286.JPG "_MG_7290.JPG"
  [4]: http://lh5.ggpht.com/-B3lxGGZaqDM/UJ1Z22agSkI/AAAAAAAAGpU/lYk5L4o7ghM/s1024/_MG_7290.JPG "_MG_7290.JPG"
