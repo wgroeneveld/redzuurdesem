@@ -18,3 +18,10 @@ home = [ "HTML", "RSS", "JSON"]
 [blackfriday]
   extensionsmask = ["fencedCode"]
   fractions = false
+
+[[menu.shortcuts]] 
+name = "<i class='fa fa-facebook'></i> Facebook"
+identifier = "ds"
+url = "https://facebook.com/redzuurdesem"
+weight = 10
+
