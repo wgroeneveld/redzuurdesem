@@ -3,6 +3,8 @@ title = "Red Zuurdesem"
 publishDir = "docs"
 languageCode = "en-us"
 
+googleAnalytics = "UA-117973708-1"
+
 ##### 
 # theme config
 # see https://learn.netlify.com/en/basics/installation/
