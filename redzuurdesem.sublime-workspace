@@ -483,6 +483,13 @@
 	},
 	"buffers":
 	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -552,10 +559,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jefklak/Downloads/redzuurdesem/redzuurdesem"
+		"/Users/jefklak/development/redzuurdesem",
+		"/Users/jefklak/development/redzuurdesem/content",
+		"/Users/jefklak/development/redzuurdesem/layouts",
+		"/Users/jefklak/development/redzuurdesem/layouts/partials"
 	],
 	"file_history":
 	[
+		"/Users/jefklak/Dropbox/werk/doctoraat/voorstel.txt",
+		"/Users/jefklak/development/redzuurdesem/content/post/2012-06-21-vermont-style-sourdough.md",
+		"/Users/jefklak/development/redzuurdesem/config.toml",
+		"/Users/jefklak/development/redzuurdesem/layouts/partials/logo.html",
+		"/Users/jefklak/development/redzuurdesem/i18n/en.toml",
+		"/Users/jefklak/development/redzuurdesem/content/post/_index.md",
 		"/Users/jefklak/Downloads/hugo-export/posts/2015-01-04-hoe-onderhoud-ik-mijn-desem.md",
 		"/Users/jefklak/Downloads/wordpress-to-hugo-exporter-1.8.0/includes/markdownify/ConverterExtra.php",
 		"/Users/jefklak/Downloads/wordpress-to-hugo-exporter-1.8.0/includes/markdownify/Converter.php",
@@ -567,7 +583,6 @@
 		"/Users/jefklak/development/brainbaking/config.toml",
 		"/Users/jefklak/development/KUL_SoftwareOntwerp/ModelOplossingen/INFS3-les4-MVC-Kaartspel/src/infs3/les4/mvc/kaartspel/Kaart.java",
 		"/Users/jefklak/development/KUL_SoftwareOntwerp/ModelOplossingen/INFS3-les4-MVC-Kaartspel/src/infs3/les4/mvc/kaartspel/KaartspelView.java",
-		"/Users/jefklak/Dropbox/werk/doctoraat/voorstel.txt",
 		"/Users/jefklak/development/IdeaProjects/untitled/src/sample/Controller.java",
 		"/Users/jefklak/development/KUL_SoftwareOntwerp/ModelOplossingen/Wandelaar/src/wandelaar/FXMLWandelaar.fxml",
 		"/Users/jefklak/development/KUL_SoftwareOntwerp/ModelOplossingen/Wandelaar/src/wandelaar/Wandelaar.java",
@@ -678,12 +693,7 @@
 		"/Users/jefklak/development/hugotest/content/wiki/code/dev.md",
 		"/Users/jefklak/development/hugotest/content/post/memory-management-vs-java.md",
 		"/Users/jefklak/development/hugotest/content/post/vb6-unit-testing.md",
-		"/Users/jefklak/development/hugotest/content/post/builders-dsl.md",
-		"/Users/jefklak/development/hugotest/content/post/custom-webdriver-page-factories.md",
-		"/Users/jefklak/development/hugotest/content/post/faking-domain-logic.md",
-		"/Users/jefklak/development/hugotest/content/post/integration-testing-sqlite.md",
-		"/Users/jefklak/development/hugotest/content/post/metaprogramming-convention-dry.md",
-		"/Users/jefklak/development/hugotest/content/post/react-in-extjs.md"
+		"/Users/jefklak/development/hugotest/content/post/builders-dsl.md"
 	],
 	"find":
 	{
@@ -701,6 +711,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"TDD",
+			"6°"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -718,8 +730,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -771,6 +812,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"vermon",
+				"content/post/2012-06-21-vermont-style-sourdough.md"
+			],
 			[
 				"tea",
 				"content/teaching.md"
@@ -1278,10 +1323,6 @@
 			[
 				"_form",
 				"templates/bestel_form.html"
-			],
-			[
-				"bestellingte",
-				"tests/bestellingTest.php"
 			]
 		],
 		"width": 0.0
