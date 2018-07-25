@@ -2,47 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Red Zuurdesem</title>
-    <link>http://www.redzuurdesem.be/categories/</link>
+    <link>https://redzuurdesem.be/categories/</link>
     <description>Recent content in Categories on Red Zuurdesem</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>nl-BE</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     
-	<atom:link href="http://www.redzuurdesem.be/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://redzuurdesem.be/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desem Doos Recepten</title>
-      <link>http://www.redzuurdesem.be/categories/desem-doos-recepten/</link>
+      <link>https://redzuurdesem.be/categories/desem-doos-recepten/</link>
       <pubDate>Tue, 05 Jan 2016 20:36:28 +0000</pubDate>
-      
-      <guid>http://www.redzuurdesem.be/categories/desem-doos-recepten/</guid>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://redzuurdesem.be/categories/desem-doos-recepten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning</title>
-      <link>http://www.redzuurdesem.be/categories/learning/</link>
+      <link>https://redzuurdesem.be/categories/learning/</link>
       <pubDate>Fri, 26 Jan 2018 09:48:27 +0000</pubDate>
-      
-      <guid>http://www.redzuurdesem.be/categories/learning/</guid>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://redzuurdesem.be/categories/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>http://www.redzuurdesem.be/categories/recipes/</link>
+      <link>https://redzuurdesem.be/categories/recipes/</link>
       <pubDate>Mon, 05 Aug 2013 18:43:42 +0000</pubDate>
-      
-      <guid>http://www.redzuurdesem.be/categories/recipes/</guid>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://redzuurdesem.be/categories/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>http://www.redzuurdesem.be/categories/uncategorized/</link>
+      <link>https://redzuurdesem.be/categories/uncategorized/</link>
       <pubDate>Sun, 27 Jan 2013 19:12:42 +0000</pubDate>
-      
-      <guid>http://www.redzuurdesem.be/categories/uncategorized/</guid>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://redzuurdesem.be/categories/uncategorized/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
-baseURL = "http://www.redzuurdesem.be"
+baseURL = "https://redzuurdesem.be"
 title = "Red Zuurdesem"
 publishDir = "docs"
-languageCode = "en-us"
+languageCode = "nl-BE"
 
 googleAnalytics = "UA-117973708-1"
 
@@ -9,6 +9,10 @@ googleAnalytics = "UA-117973708-1"
 # theme config
 # see https://learn.netlify.com/en/basics/installation/
 theme = "hugo-theme-learn"
+
+[Author]
+  name = "Wouter Groeneveld"
+  email = "wouter.groeneveld@gmail.com"
 
 [params]
 themeVariant = "green"

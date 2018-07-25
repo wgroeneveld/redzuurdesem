@@ -484,9 +484,29 @@
 	"buffers":
 	[
 		{
+			"file": "config.toml",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 640,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layouts/partials/custom-header.html",
+			"settings":
+			{
+				"buffer_size": 1284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/leren/2015-07-09-62015-boekweit-en-broodbakmachine.md",
+			"settings":
+			{
+				"buffer_size": 9849,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -561,11 +581,20 @@
 	[
 		"/Users/jefklak/development/redzuurdesem",
 		"/Users/jefklak/development/redzuurdesem/content",
+		"/Users/jefklak/development/redzuurdesem/content/leren",
+		"/Users/jefklak/development/redzuurdesem/content/post",
 		"/Users/jefklak/development/redzuurdesem/layouts",
-		"/Users/jefklak/development/redzuurdesem/layouts/partials"
+		"/Users/jefklak/development/redzuurdesem/layouts/partials",
+		"/Users/jefklak/development/redzuurdesem/static",
+		"/Users/jefklak/development/redzuurdesem/themes",
+		"/Users/jefklak/development/redzuurdesem/themes/hugo-theme-learn",
+		"/Users/jefklak/development/redzuurdesem/themes/hugo-theme-learn/layouts",
+		"/Users/jefklak/development/redzuurdesem/themes/hugo-theme-learn/layouts/partials"
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/redzuurdesem/content/post/2016-02-14-top-restaurants-op-zoek-naar-smaak-in-brood.md",
+		"/Users/jefklak/development/redzuurdesem/content/leren/2015-10-24-102015-gist-en-desem-in-bakmachine.md",
 		"/Users/jefklak/Dropbox/werk/doctoraat/voorstel.txt",
 		"/Users/jefklak/development/redzuurdesem/content/post/2012-06-21-vermont-style-sourdough.md",
 		"/Users/jefklak/development/redzuurdesem/config.toml",
@@ -691,13 +720,11 @@
 		"/Users/jefklak/development/hugotest/themes/beautifulbaking/layouts/partials/tags.html",
 		"/Users/jefklak/development/hugotest/content/wiki/books/getting_real.md",
 		"/Users/jefklak/development/hugotest/content/wiki/code/dev.md",
-		"/Users/jefklak/development/hugotest/content/post/memory-management-vs-java.md",
-		"/Users/jefklak/development/hugotest/content/post/vb6-unit-testing.md",
-		"/Users/jefklak/development/hugotest/content/post/builders-dsl.md"
+		"/Users/jefklak/development/hugotest/content/post/memory-management-vs-java.md"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -730,29 +757,77 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "config.toml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 640,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								323,
+								323
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
+							"WordCount":
+							{
+								"changes": 12,
+								"count": 46,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "layouts/partials/custom-header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1272,
+								1272
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 27,
+								"count": 53,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -760,13 +835,52 @@
 					},
 					"stack_index": 0,
 					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/leren/2015-07-09-62015-boekweit-en-broodbakmachine.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 9849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 1052,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -803,7 +917,7 @@
 	"project": "redzuurdesem.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -812,6 +926,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"top res",
+				"content/post/2016-02-14-top-restaurants-op-zoek-naar-smaak-in-brood.md"
+			],
+			[
+				"gist en dese",
+				"content/leren/2015-10-24-102015-gist-en-desem-in-bakmachine.md"
+			],
+			[
+				"confi",
+				"config.toml"
+			],
 			[
 				"vermon",
 				"content/post/2012-06-21-vermont-style-sourdough.md"
@@ -1311,18 +1437,6 @@
 			[
 				"i",
 				"index.php"
-			],
-			[
-				"j",
-				"templates/js.html"
-			],
-			[
-				"doos.beste",
-				"js/doos.bestelling.js"
-			],
-			[
-				"_form",
-				"templates/bestel_form.html"
 			]
 		],
 		"width": 0.0
@@ -1335,7 +1449,7 @@
 		[
 			[
 				"",
-				"/Users/jefklak/development/kwispeldoos/css/kwispeldoos.sublime-project"
+				"~/development/jefklakscodex/jefklakscodex.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1357,7 +1471,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 212.0,
+	"side_bar_width": 284.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

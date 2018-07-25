@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Over Red Zuurdesem on Red Zuurdesem</title>
-    <link>http://www.redzuurdesem.be/about/</link>
+    <link>https://redzuurdesem.be/about/</link>
     <description>Recent content in Over Red Zuurdesem on Red Zuurdesem</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>nl-BE</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     <lastBuildDate>Thu, 06 Dec 2012 16:29:31 +0000</lastBuildDate>
     
-	<atom:link href="http://www.redzuurdesem.be/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://redzuurdesem.be/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
