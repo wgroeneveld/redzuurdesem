@@ -496,7 +496,7 @@
 			"file": "layouts/partials/custom-header.html",
 			"settings":
 			{
-				"buffer_size": 1284,
+				"buffer_size": 2817,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -803,23 +803,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1284,
+						"buffer_size": 2817,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1272,
-								1272
+								129,
+								129
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 27,
-								"count": 53,
+								"changes": 10,
+								"count": 75,
 								"modified": false,
 								"selection": false,
 								"status": -1,
