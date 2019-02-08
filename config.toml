@@ -5,6 +5,8 @@ languageCode = "nl-BE"
 
 googleAnalytics = "UA-117973708-1"
 
+ignorefiles = [ "content/boek/.*" ]
+
 ##### 
 # theme config
 # see https://learn.netlify.com/en/basics/installation/

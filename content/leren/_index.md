@@ -2,7 +2,7 @@
 menuTitle = "Leren Bakken met Desem"
 chapter = true
 date = 2018-04-20
-pre = "<i class='fa fa-book'></i> "
+pre = "<i class='fa fa-graduation-cap'></i> "
 +++
 
 
