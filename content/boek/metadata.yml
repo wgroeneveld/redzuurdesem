@@ -3,4 +3,5 @@ title: "Het Desem Boek"
 subtitle: "Broebelige subtitel"
 author: "Wouter Groeneveld"
 date: 2019-02-04
+bibliography: boek.bib
 ---

@@ -1,4 +1,5 @@
 .DS_Store
 
+*.sublime-workspace
 content/boek/boek.tex
 content/boek/boek.pdf
