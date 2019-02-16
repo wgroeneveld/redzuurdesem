@@ -1,0 +1,240 @@
+<html>
+
+<head>
+<script src="https://www.amcharts.com/lib/4/core.js"></script>
+<script src="https://www.amcharts.com/lib/4/charts.js"></script>
+<script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+<script src="https://unpkg.com/popper.js/dist/umd/popper.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+h1, h2, h3 {
+	margin: 20px;
+}
+
+#right {
+  width: 65%;
+  float: right;	
+}
+
+#chartdiv {
+  height: 800px;
+  margin-bottom: 40px;
+}
+
+.popimg {
+	width: 100%;
+	border: 1px solid black;
+}
+
+#main {
+	float: left;
+	width: 30%;
+	margin: 10px;
+	margin-left: 50px;
+}
+
+.datatable {
+}
+
+.bd-callout-warning {
+    border-left-color: #f0ad4e !important;
+}
+
+.bd-callout-active {
+	border-left-color: green !important;	
+	cursor: pointer;
+	background-color: #EEEEEE;
+}
+
+.bd-callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+}
+
+nav {
+	border-bottom: 1px solid lightgrey;
+}
+
+footer {
+	border-top: 1px solid lightgrey;
+	padding-bottom: 25px;
+}
+
+footer .footer-copyright {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+</style>
+
+<title>Activity VS Temperature</title>
+</head>
+
+<body>
+
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+	<a class="navbar-brand mb-0 h1" href="#">Activity VS Temperature</a>
+	<span class="navbar-text">
+		
+	</span>
+</nav>
+
+<div class="container">
+  <div id="chartdiv"></div>
+</div>
+
+<hr style="clear: both;" />
+
+<footer class="page-footer bg-light font-small pt-4">
+	<div class="container">
+		<div class="row">
+			<div class="footer-copyright text-center py-3 col-sm">
+	      		Wouter Groeneveld<br/>
+	    	</div>
+		</div>
+	</div>
+</footer>
+
+<script>
+(() => {
+
+
+am4core.useTheme(am4themes_animated);
+
+// Create chart instance
+var chart = am4core.create("chartdiv", am4charts.XYChart);
+chart.exporting.menu = new am4core.ExportMenu();
+chart.paddingRight = 20;
+
+// Add data
+chart.data = [{
+  "temp": 2,
+  "yeast": 0,
+  "lab": 0.01
+}, {
+  "temp": 4,
+  "yeast": 0.005,
+  "lab": 0.02
+}, {
+  "temp": 6,
+  "yeast": 0.01,
+  "lab": 0.03
+}, {
+  "temp": 8,
+  "yeast": 0.03,
+  "lab": 0.05
+}, {
+  "temp": 10,
+  "yeast": 0.04,
+  "lab": 0.07
+}, {
+  "temp": 12,
+  "yeast": 0.05,
+  "lab": 0.1
+}, {
+  "temp": 14,
+  "yeast": 0.07,
+  "lab": 0.12
+}, {
+  "temp": 16,
+  "yeast": 0.1,
+  "lab": 0.15
+}, {
+  "temp": 18,
+  "yeast": 0.17,
+  "lab": 0.2
+}, {
+  "temp": 20,
+  "yeast": 0.25,
+  "lab": 0.25
+}, {
+  "temp": 22,
+  "yeast": 0.3,
+  "lab": 0.3
+}, {
+  "temp": 24,
+  "yeast": 0.4,
+  "lab": 0.4
+}, {
+  "temp": 26,
+  "yeast": 0.42,
+  "lab": 0.44
+}, {
+  "temp": 28,
+  "yeast": 0.42,
+  "lab": 0.5
+}, {
+  "temp": 30,
+  "yeast": 0.35,
+  "lab": 0.55
+}, {
+  "temp": 32,
+  "yeast": 0.2,
+  "lab": 0.66
+}, {
+  "temp": 34,
+  "yeast": 0.05,
+  "lab": 0.66
+}, {
+  "temp": 36,
+  "yeast": 0,
+  "lab": 0.6
+}, {
+  "temp": 38,
+  "yeast": 0,
+  "lab": 0.4
+}, {
+  "temp": 40,
+  "yeast": 0,
+  "lab": 0.1
+}];
+
+// Create axes
+var tempAxis = chart.xAxes.push(new am4charts.ValueAxis());
+//tempAxis.dataFields.category
+tempAxis.title.text = "Temperatuur in °C";
+tempAxis.min = 2;
+tempAxis.max = 40;
+tempAxis.renderer.minGridDistance = 50;
+tempAxis.strictMinMax = true;
+
+// Create value axis
+var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+valueAxis.title.text = "Activiteit";
+valueAxis.min = 0;
+valueAxis.max = 0.7;
+valueAxis.renderer.minGridDistance = 100;
+valueAxis.strictMinMax = true;
+
+// Create series
+var series1 = chart.series.push(new am4charts.LineSeries());
+series1.name = "Candida m. (gist)";
+series1.strokeDasharray = "3 7";
+series1.dataFields.valueY = "yeast";
+series1.dataFields.valueX = "temp";
+series1.strokeWidth = 5;
+
+var series2 = chart.series.push(new am4charts.LineSeries());
+series2.dataFields.valueY = "lab";
+series2.name = "Lactobacillus s.f. (melkzuurbacerie)"
+series2.dataFields.valueX = "temp";
+series2.strokeWidth = 5;
+
+chart.legend = new am4charts.Legend();
+})();
+
+</script>
+
+</body>
+</html>
