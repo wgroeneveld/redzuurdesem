@@ -1,0 +1,208 @@
+<html>
+
+<head>
+<script src="https://www.amcharts.com/lib/4/core.js"></script>
+<script src="https://www.amcharts.com/lib/4/charts.js"></script>
+<script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+<script src="https://unpkg.com/popper.js/dist/umd/popper.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+h1, h2, h3 {
+	margin: 20px;
+}
+
+#right {
+  width: 65%;
+  float: right;	
+}
+
+#chartdiv {
+  height: 800px;
+  margin-bottom: 40px;
+}
+
+.popimg {
+	width: 100%;
+	border: 1px solid black;
+}
+
+#main {
+	float: left;
+	width: 30%;
+	margin: 10px;
+	margin-left: 50px;
+}
+
+.datatable {
+}
+
+.bd-callout-warning {
+    border-left-color: #f0ad4e !important;
+}
+
+.bd-callout-active {
+	border-left-color: green !important;	
+	cursor: pointer;
+	background-color: #EEEEEE;
+}
+
+.bd-callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+}
+
+nav {
+	border-bottom: 1px solid lightgrey;
+}
+
+footer {
+	border-top: 1px solid lightgrey;
+	padding-bottom: 25px;
+}
+
+footer .footer-copyright {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+</style>
+
+<title>Bacteriële groeicurve</title>
+</head>
+
+<body>
+
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+	<a class="navbar-brand mb-0 h1" href="#">Bacteriële groeicurve</a>
+	<span class="navbar-text">
+		
+	</span>
+</nav>
+
+<div class="container">
+  <div id="chartdiv"></div>
+</div>
+
+<hr style="clear: both;" />
+
+<footer class="page-footer bg-light font-small pt-4">
+	<div class="container">
+		<div class="row">
+			<div class="footer-copyright text-center py-3 col-sm">
+	      		Wouter Groeneveld<br/>
+	    	</div>
+		</div>
+	</div>
+</footer>
+
+<script>
+(() => {
+
+
+am4core.useTheme(am4themes_animated);
+
+// Create chart instance
+var chart = am4core.create("chartdiv", am4charts.XYChart);
+chart.exporting.menu = new am4core.ExportMenu();
+chart.paddingRight = 20;
+
+// Add data
+chart.data = [{
+  "tijd": 0,
+  "count": 3
+}, {
+  "tijd": 1,
+  "count": 3
+}, {
+  "tijd2": 1,
+  "count2": 3
+}, {
+  "tijd2": 2,
+  "count2": 3.3
+}, {
+  "tijd2": 3,
+  "count2": 3.5
+}, {
+  "tijd2": 4,
+  "count2": 4
+}];
+
+// Create axes
+var tijdAxis = chart.xAxes.push(new am4charts.ValueAxis());
+//tempAxis.dataFields.category
+tijdAxis.title.text = "Incubatietijd in uur";
+tijdAxis.min = 0;
+tijdAxis.max = 36;
+tijdAxis.renderer.minGridDistance = 50;
+tijdAxis.strictMinMax = true;
+
+// Create value axis
+var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+valueAxis.title.text = "Aantal Bacteriën (N)";
+valueAxis.min = 0;
+valueAxis.max = 12;
+valueAxis.renderer.minGridDistance = 100;
+valueAxis.strictMinMax = true;
+
+// Create series
+var series1 = chart.series.push(new am4charts.LineSeries());
+series1.name = "Lag";
+//series1.strokeDasharray = "3 7";
+series1.dataFields.valueY = "count";
+series1.dataFields.valueX = "tijd";
+series1.strokeWidth = 5;
+
+var series2 = chart.series.push(new am4charts.LineSeries());
+series2.name = "Acceleration";
+series2.strokeDasharray = "3 7";
+series2.dataFields.valueY = "count2";
+series2.dataFields.valueX = "tijd2";
+series2.strokeWidth = 5;
+
+var series3 = chart.series.push(new am4charts.LineSeries());
+series3.name = "Exponential";
+//series3.strokeDasharray = "3 7";
+series3.dataFields.valueY = "count";
+series3.dataFields.valueX = "tijd";
+series3.strokeWidth = 5;
+
+var series4 = chart.series.push(new am4charts.LineSeries());
+series4.name = "Transition";
+series4.strokeDasharray = "3 7";
+series4.dataFields.valueY = "count";
+series4.dataFields.valueX = "tijd";
+series4.strokeWidth = 5;
+
+var series5 = chart.series.push(new am4charts.LineSeries());
+series5.name = "Stationary";
+//series5.strokeDasharray = "3 7";
+series5.dataFields.valueY = "count";
+series5.dataFields.valueX = "tijd";
+series5.strokeWidth = 5;
+
+var series6 = chart.series.push(new am4charts.LineSeries());
+series6.name = "Death";
+series6.strokeDasharray = "3 7";
+series6.dataFields.valueY = "count";
+series6.dataFields.valueX = "tijd";
+series6.strokeWidth = 5;
+
+
+chart.legend = new am4charts.Legend();
+})();
+
+</script>
+
+</body>
+</html>

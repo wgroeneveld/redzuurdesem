@@ -85,6 +85,8 @@ Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onz
 [^10]: Taartdeeg met gist, pudding en kruimels van suiker, boter en bloem.
 [^11]: Wit tarwebrood, bestreken met een papje dat tijdens het bakken het patroon van een tijger aanneemt.
 
+De benaming van brood lijkt te zijn ontstaan in een saaie brainstormsessie van een goedkoop reclamebureau. Bakkerijen verkopen een 'lang grijs', een 'volkoren' dat geen volkoren is, 'kramieken', 'boerenbrood', 'hoevebrood', 'granenbrood', 'bakkersbrood', 'molenaarsbrood', ... Deze dichterlijke vrijheid wil echter niet zeggen dat het molenaarsbrood van bakker 1 hetzelfde is als het molenaarsbrood van bakker 2. Het wil in feite helemaal niets zeggen. Zelfs het iconisch 'San Fransisco brood' wordt door Frank Deldaele omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Laat je niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helf aan volkoren granen in. Dan heb je ook nog namen met een auteursrechterlijke bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. Het maakt het er in ieder geval enorm moeilijk op om exact te weten te komen wat er nu _precies_ in je brood zit. Tenzij... je het zelf maakt. 
+
 Een volleerde brood- en banketbakker is ideaal gezien een renaissancistisch generalist: deze is even bekwaam in het maken van soorten brood als in het vervaardigen van soorten patisserie. Het lijkt me dan ook niet meer dan logisch om aan beide zaken evenveel tijd te spenderen. Wanneer ik bakkerijen bezoek vertellen bakkers mij dat ze alles moesten vergeten wat hun geleerd werd tijdens hun klassieke scholing. Veel Belgische bakkers met faam hebben het belangrijkste deel van hun kennis vergaard door een stage in het buitenland te volgen. Ik heb sterk de indruk dat de opleiding slechts een klein deurtje opent naar een grotere wereld vol mogelijkheden. Het kan toch niet zijn dat ons onderwijssysteem zo slecht is dat na drie jaren studie (of één jaar voltijds), je als bakker moet zeggen 'zo, nu weet ik wat ik niet ga maken'? 
 Ik veronderstelde dat dit probleem zich enkel in Vlaanderen voordeed. 
 
@@ -270,6 +272,7 @@ De volgende keer dat ik naar een feestje ga, kan ik mijzelf voorstellen als prof
 * De absolute basis van brood bakken bestaat uit niet uit drie, maar uit vijf stappen: kneden, eerste rijs, verdelen en opbollen, tweede rijs, bakken. 
 * Een '_ambachtelijke_' bakker is meestal een leugenaar[^namaakambacht]. Er is niets ambachtelijk aan additieven die het mogelijk maken om het hele proces te industrialiseren. 
 * Een professioneel (Belgisch) diploma behalen als brood- en banketbakker levert je weinig kennis over brood bakken op. 
+* 'Hoevebrood', _What's in a name_: helemaal niets. 
 * Lees altijd de kleine lettertjes. 
 * Eet nooit sandwiches. Dat is letterlijk gebakken lucht. 
 * Gebruik altijd _echte_ boter in plaats van margarine. 

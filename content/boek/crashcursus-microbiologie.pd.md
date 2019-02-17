@@ -14,7 +14,7 @@ De snelheid van fermentatie wordt geregeld door onder andere het zoutgehalte, de
 
 Deze combinatie van gisten en bacteriën vormen na verloop van tijd een stabiele symbiose. Je kan het een beetje vergelijken met kombucha[^kombucha] zwammen. Dit noemt men een _SCOBY_, een '_Symbiotic Culture of Bacteria and Yeast_'. Er zijn honderden verschillende soorten van beide organismes aanwezig. Commerciële gist bevat maar één giststam: _Saccharomyces cerevisiae_, ook wel bakkersgist genoemd. Een zuurdesemcultuur bevat veel meer stammen. Het aantal cellen van eenzelfde stam is echter minder groot dan in bakkersgist, waar meer dan een miljoen cellen maar één doel hebben: zo veel mogelijk suikers omzetten in CO~2~. Zowel gist als bacterie teert op energie in de vorm van suiker. Dat betekent een beetje gezonde competitie. Bacteriën zijn enkel aanwezig in zuurdesem, en niet in bakkersgist. Deze bacteriën zijn de voornaamste veroorzakers van _smaak_. Aha, nu geraken we ergens!
 
-We hebben dus twee soorten van organismen nodig in brooddeeg, niet één. Bacteriën komen vanzelf, als je maar lang genoeg wacht. Een professionele bakker heeft echter geen tijd: hoe meer broden op korte tijd gebakken kunnen worden, hoe meer geld op de bankrekening. Deze kortzichtige visie levert middelmatige producten op, en nauwelijks bacteriën. Dat is de reden waarom je in 2 uur onmogelijk smaak op een natuurlijke manier krijgt toegevoegd aan brood. Een industriële bakker lost dit 'probleem' op met smaakstoffen en verbeteraars. Een bakker die begaan is met wat hij verkoopt, zet de deur open voor bacteriën door het rijsproces te verlengen. Wat bedoelen we nu eigenlijk als we het hebben over smaak? Om hier op te kunnen antwoorden, moeten we eerst kijken welke classificaties van organismen typisch aanwezig zijn in een zuurdesem cultuur:
+We hebben dus twee soorten van organismen nodig in brooddeeg, niet één. Bacteriën komen vanzelf, als je maar lang genoeg wacht. Een professionele bakker heeft echter geen tijd: hoe meer broden op korte tijd gebakken kunnen worden, hoe meer geld op de bankrekening. Deze kortzichtige visie levert middelmatige producten op, en nauwelijks bacteriën. Dat is de reden waarom je in 2 uur onmogelijk smaak op een natuurlijke manier krijgt toegevoegd aan brood. Een industriële bakker lost dit 'probleem' op met smaakstoffen en verbeteraars. Een bakker die begaan is met wat hij verkoopt, zet de deur open voor bacteriën door het rijsproces te verlengen. Wat bedoelen we nu eigenlijk als we het hebben over smaak? Om daar op te kunnen antwoorden, moeten we eerst kijken welke classificaties van organismen typisch aanwezig zijn in een zuurdesem cultuur:
 
 * `Saccharomyces`: Gist. Produceert alcohol en CO~2~.
 * `Candida`: Gist. Produceert alcohol en CO~2~.
@@ -24,7 +24,7 @@ We hebben dus twee soorten van organismen nodig in brooddeeg, niet één. Bacter
 
 ![De activiteit in functie van temperatuur voor gist (stippellijn) en melkzuurbacterie (volle lijn)\label{activityvstemp}](img/activity_vs_temp.png)
 
-Gluten vangen afvalstoffen van gistcellen op, wat brooddeeg doet rijzen. De alcoholproductie is te verwaarlozen in vergelijking met het langere gistingsproces van bier of wijn. Ook pathogenen kunnen zich nestelen in je cultuur. Geen zorgen, in de zure omgeving overleven ze niet lang. Jonge desems zijn nog constant in verandering, waardoor het aan te raden is om langer te wachten met bakken. Melkzuur herkent iedereen die al ooit yoghurt gegeten heeft. Azijnzuur herkent iedereen die al ooit een fles azijn heeft geopend. Als bakker ben jij de alleenheerser die beslist hoeveel melkzuur en hoeveel azijnzuur in het brood moet terechtkomen. Deze fragiele balans perfect beheersen vereist jaren van ervaring. Typisch Duits brood bevat veel azijnzuur, terwijl men in San Fransisco liever veel melkzuur heeft. 
+Gluten vangen afvalstoffen van gistcellen op, wat brooddeeg doet rijzen. De alcoholproductie is te verwaarlozen in vergelijking met het langere gistingsproces van bier of wijn. Ook pathogenen kunnen zich nestelen in je cultuur. Geen zorgen, in de zure omgeving overleven ze niet lang. Jonge desems zijn nog constant in verandering, waardoor het aan te raden is om langer dan een week te wachten met bakken. Melkzuur herkent iedereen die al ooit yoghurt gegeten heeft. Azijnzuur herkent iedereen die al ooit een fles azijn heeft geopend. Als bakker ben jij de alleenheerser die beslist hoeveel melkzuur en hoeveel azijnzuur in het brood moet terechtkomen. Deze fragiele balans perfect beheersen vereist jaren van ervaring. Typisch Duits brood bevat veel azijnzuur, terwijl men in San Fransisco liever veel melkzuur heeft. 
 
 Verschillende soorten gisten en bacteriën verkiezen elk hun eigen ideale omgevingstemperatuur, vochtigheidsgraad en zuurtegraad. Dat zijn externe factoren waar een bakker mee kan spelen. Hoe warmer en vochtiger, hoe meer melkzuur. Hoe kouder en droger, hoe meer azijnzuur. Sommige bacteriën produceren enkel melkzuur, en sommigen melkzuur, azijnzuur, en CO~2~[^fermentatief] [@holzapfel2012genera]. Figuur \ref{activityvstemp}[^figactivitysrc] visualiseert de activiteit in functie van de temperatuur. Activiteit piekt voor gistcellen rond de `28 °C`, daarom gebruiken bakkers rijskasten ingesteld op zo'n hoge temperatuur. Voor typische melkzuurbacteriën ligt dat optimaal punt hoger, rond de `34 °C`. Ze verliezen de race naar suiker op dat punt, en jij verliest de veldslag om de smaak. Langer dan enkele uren op deze temperatuur zal het deeg niet uithouden. Boven de `32° C` sterven gistcellen af. 
 
@@ -52,6 +52,11 @@ Hoe complexer de suiker, des te moeilijker te verteren. Enkelvoudige suikers wor
 
 Het fermentatieproces kan je beschouwen als een schaar die de lange ketting netjes opknipt in kleinere, eenvoudiger verwerkbare stukjes. Het zijn trouwens niet alleen de gisten, maar vooral de bacteriën, die hier het zware werk verrichten. Die hebben ook suikers (energie) nodig om in leven te blijven. Zoals iedereen zijn lievelingseten heeft, zo hebben deze organismen ook hun eigen voorkeur. Soms ontstaat er hevige competitie, maar soms ook niet. Het soort van suiker speelt dus ook een rol [@gobbetti1994sourdough]. Door het opknipproces van de suikerkettingen verandert de samenstelling in het deeg, waarbij plots bepaalde bacteriën sneller reproduceren dan voorheen. Een (verplicht) samenwerkingsproces dus, waarbij het contract vergeten werd te ondertekenen. '_Imma make you an offer you cannot refuse_' klinkt het in het deeg. Na een tijdje zijn de meeste suikers omgezet, en verzuurt de omgeving door een teveel aan azijnzuur. Dat punt herken je doordat het gerezen deeg begint in te storten. De glutenstructuur breekt, de lucht is weg, en je blijft met een baksteen zitten. 
 
+\includepdf[
+    scale=2.0,
+    addtolist={1, figure, {Zichtbare activiteit in een rogge zuurdesem starter.}, img:broebel}    
+]{broebel.jpg}
+
 Nu we iets meer weten over suikers, kunnen we het bakproces beter controleren, door bijvoorbeeld de juiste bloem te kiezen. Volkoren meel bevat veel meer voedingsstoffen voor organismen dan gezeefde, witte bloem. Daarom wordt een zuurdesemcultuur meestal met roggemeel opgestart. Rogge fermenteert nog sneller dan tarwe [@koistinen2018metabolic]. Ook zal je bij het gebruik van volle granen de rijstijd moeten verkorten of de temperatuur verlagen. Extra ingrediënten als melk (lactose) tellen ook als suiker.
 
 Door het fermentatieproces wordt de levensduur van voedsel verlengd [@saikia2014effect]. Zuurdesemboord blijft een week goed. Ik durf te wedden dat het gistbrood dat je gisteren kocht bij de bakker overmorgen al beschimmeld[^schimmel] is. 
@@ -75,8 +80,21 @@ TODO omgeving zweetvoeten etc, zelfde
 [^amazake]: Het zoetere, niet-alcoholische alternatief voor saké
 
 
-\includepdf[
-    scale=2.0,
-    addtolist={1, figure, {Zichtbare activiteit in een rogge zuurdesem starter.}, img:broebel}    
-]{broebel.jpg}
+\newpage
 
+## Wat ik geleerd heb
+
+* Fermenteren en rijzen: twee woorden voor hetzelfde idee.
+* (Ongeveer) hetzelfde proces wat wij gebruiken om ons voedsel te verteren, wordt ook gebruikt om brood te maken. 
+* Een bakker is eigenlijk een God, die het lot bepaald over duizenden organismen. 
+* Die organismen zijn te beïnvloeden door te spelen met vochtigheid, zuurtegraad, zoutgehalte, temperatuur en tijd. 
+* Smaak komt niet van één giststam, maar van veel melkzuurbacteriën. 
+* Elke zuurdesemcultuur is uniek en permanent verbonden aan de regio.
+* De ideale temperatuur van brood is `24 °C` - in de meeste gevallen. Verscheur alle bakboeken waar in staat dat brood op _een warme plaats_ moet rijzen. 
+* De ene suiker is de andere niet. 
+* Bacteriën groeien niet liniair, maar exponentieel. 
+* Open nooit een blik gefermenteerde haring op een openbare plaats - en misschien best ook niet in een gesloten ruimte. 
+* Staat er een waterlaagje op je starter, of ruikt hij erg naar azijn? 90% weggooien en bijvoeden. 
+* Staat er een witte schimmellaag op je starter? Laag afschrapen, weggooien en bijvoeden. 
+* Staat er gekleurde of zwarte schimmel op je starter? Pech gehad, alles weggooien! 
+* Chocolade is ook een gefermenteerd product, dus dan moet het wel gezond zijn... 
