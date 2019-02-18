@@ -6,6 +6,20 @@
 
 Dingen worden rot. Organisch materiaal vergaat. Wanneer te kiezen voor het woord 'rot' of 'gefermenteerd', hangt af van waar je je ergens op de aardbol bevindt. Die dunne lijn is namelijk een culturele lijn. _Hákarl_, gefermenteerde haai, is een nationaal gerecht in Ijsland dat groentjes zou doen kokhalzen. Een potje Zweedse _Surströmming_ (in dit geval durf ik rotte haring te zeggen) openen kan je een boete opleveren, omdat de rotte geur nog dagen blijft hangen op die plek. Niet overgeven vóór de eerste hap is blijkbaar al een kunst. Chinese 'duizendjarige' eendeneiren worden een paar weken tot een paar maanden ingelegd in een mengsel van klei, as, zout, thee en rijstkaf. De lange fermentatietijd zet bestanddelen van het rauw ei om in zwavelzuur. En dat is geen plezante geur bij het pellen van het ei... Enkel doorgewinterde gistingsfreaks als Sandor Katz (of Chinezen) zijn hier voor te vinden. Sandor beschrijft in zijn bijbel '_The Art of Fermentation_' elke mogelijke vorm van rot, samen met bekend gefermenteerd voedsel [@katz]. 
 
+Veel van die gefermenteerde producten zijn alom bekend, zoals:
+
+> (Zuurdesem-) brood, eender welke alcoholische drank, ingelegde groenten als zuurkool en pickles, kaas, yoghurt, kefir, zure room, miso, soja- en vissaus
+
+Wist je echter dat de volgende producten ook gefermenteerd waren:
+
+> Olijven[^olijf], chocolade[^cocolade], azijn, ketchup, tabascosaus, worcestersaus, koffie, pu'er thee, salami, amazake[^amazake], katsuobushi
+
+Commerciële varianten worden op een andere manier geproduceerd. Een blik groenten op de schappen van je lokale supermarkt wordt ingelegd met azijn. De erg zure omgeving is niet leefbaar voor organismen. Dat is iets heel anders dan groenten inleggen in water (en eventueel zout). 
+
+[^olijf]: Rauwe olijven zijn giftig.
+[^cocolade]: Verse cacaobonen, uit de peul, zijn slijmerig en paars, zoals lichi's. Na het fermenteren verliezen ze vocht, en krijgen ze die typische bruine kleur, klaar om verder geroosterd te worden.
+[^amazake]: Het zoetere, niet-alcoholische alternatief voor saké
+
 De bakkerijen en scholen leerden me op een praktische manier omgaan met deeg. Ik miste echter een goede theoretische basis. Wat gebeurt er eigenlijk, wanneer het brooddeeg rijst? Worden gisten echt 'gevangen' in de lucht? Mijn obsessie hield me ook buiten de keuken bezig. Ik was niet tevreden met de uitleg van de leerkrachten als ik vroeg waarom bepaalde dingen nodig zijn. 'Dat is beter voor het deeg' is niet goed genoeg. Om goed te begrijpen waarom deeg _leeft_, riep ik de hulp in van de wetenschap. Zuurdesem bestuderen bestaat voor mij niet alleen uit oefening, maar ook uit observeren, en het (proberen) begrijpen van de theorie.
 
 Net zoals fotosynthese of ademhalen, is fermenteren een manier om energie uit moleculen te halen. Het afbreken van organische bestanddelen (zoals suikers) maakt plaats voor nieuwe elementen, waaronder kooldioxide. Dat herkennen wij als luchtbelletjes. Energie wordt sneller _aerobisch_ vrijgegeven, anders zouden onze longen weinig nut hebben. Fermenteren gebeurt echter _anaerobisch_: zonder zuurstof. Louis Pasteur, de eerste bioloog en chemicus die fermentatie serieus nam in 1860, noemde dit '_la vie sans air_'. Anaerobische fermentatie werkt trager, en geeft minder energie vrij. Wij gebruiken juist hetzelfde proces om energie uit ons eten te halen. De volgende keer dat je naar je potje met zuurdesem staart, denk dan maar aan je maag en darmen. 
@@ -22,23 +36,27 @@ We hebben dus twee soorten van organismen nodig in brooddeeg, niet één. Bacter
 * `Eschericia coli`: Bacterie. Produceert melkzuur en azijnzuur.
 * `Clostridium`: Bacterie. Pathogeen verantwoordelijk voor onder andere botulimse.
 
-![De activiteit in functie van temperatuur voor gist (stippellijn) en melkzuurbacterie (volle lijn)\label{activityvstemp}](img/activity_vs_temp.png)
-
 Gluten vangen afvalstoffen van gistcellen op, wat brooddeeg doet rijzen. De alcoholproductie is te verwaarlozen in vergelijking met het langere gistingsproces van bier of wijn. Ook pathogenen kunnen zich nestelen in je cultuur. Geen zorgen, in de zure omgeving overleven ze niet lang. Jonge desems zijn nog constant in verandering, waardoor het aan te raden is om langer dan een week te wachten met bakken. Melkzuur herkent iedereen die al ooit yoghurt gegeten heeft. Azijnzuur herkent iedereen die al ooit een fles azijn heeft geopend. Als bakker ben jij de alleenheerser die beslist hoeveel melkzuur en hoeveel azijnzuur in het brood moet terechtkomen. Deze fragiele balans perfect beheersen vereist jaren van ervaring. Typisch Duits brood bevat veel azijnzuur, terwijl men in San Fransisco liever veel melkzuur heeft. 
 
 Verschillende soorten gisten en bacteriën verkiezen elk hun eigen ideale omgevingstemperatuur, vochtigheidsgraad en zuurtegraad. Dat zijn externe factoren waar een bakker mee kan spelen. Hoe warmer en vochtiger, hoe meer melkzuur. Hoe kouder en droger, hoe meer azijnzuur. Sommige bacteriën produceren enkel melkzuur, en sommigen melkzuur, azijnzuur, en CO~2~[^fermentatief] [@holzapfel2012genera]. Figuur \ref{activityvstemp}[^figactivitysrc] visualiseert de activiteit in functie van de temperatuur. Activiteit piekt voor gistcellen rond de `28 °C`, daarom gebruiken bakkers rijskasten ingesteld op zo'n hoge temperatuur. Voor typische melkzuurbacteriën ligt dat optimaal punt hoger, rond de `34 °C`. Ze verliezen de race naar suiker op dat punt, en jij verliest de veldslag om de smaak. Langer dan enkele uren op deze temperatuur zal het deeg niet uithouden. Boven de `32° C` sterven gistcellen af. 
 
-![Bacteriële groeicurve.\label{groeicurve}](img/bacterial_growth_curve.png)
+![De activiteit in functie van temperatuur voor gist (stippellijn) en melkzuurbacterie (volle lijn)\label{activityvstemp}](img/activity_vs_temp.png){ width=80% }
 
 Buiten de temperatuur, is tijd de tweede belangrijkste factor. Daar hebben we een tweede grafiek voor nodig, zoals figuur \ref{groeicurve}, die de bacteriële groeicurve voorstelt. Bacteriën ondergaan verschillende levenscycli die de groei stimuleert, of afremt. De belangrijkste fase waar wij in geïnteresseerd zijn is de exponentiële groeifase: hoe meer leven in de brouwerij, hoe meer smaak! Tussen de opkweek- en afbraakperiodes ligt een grote stilstaande fase waarin de cultuur min of meer stabiel blijft, tussen de 12 en de 20 uur na de eerste groeischeut. Fermenteer je langer dan die periode, dan gaat alles gradueel bergaf. De koelkast gebruiken om de temperatuur uit figuur \ref{activityvstemp} te beïnvloeden kan dus maar voor een beperkte periode. En dan hebben we vochtigheid en zuurtegraad nog niet besproken. 
 
 [^fermentatief]: Dit is het verschil tussen homofermentatieve en heterofermentatieve melkzuurbacteriën. Dat eerste gebeurt ook in spieren als we sneller energie nodig hebben dan het bloed zuurstof kan aanleveren. Naslagwerken over metabolische routes bevatten meer informatie. 
 [^figactivitysrc]: Deze gegevens komen uit een onderzoek naar de groei van bepaalde stammen in zuurdesem fermentatie [@ganzle1998modeling].
 
+![Bacteriële groeicurve.\label{groeicurve}](img/bacterial_growth_curve.png){ width=80% }
+
+Als je werkt met een 1:1 ratio van bloem en water, is het eenvoudig om de activiteit van je cultuur te controleren. Gebruik hiervoor een doorzichtige container. Na het voeden met bloem trek je met een alcoholstift een streep tot op welke hoogte de desem komt. Deze stappen kan je volgen in figuur \ref{groeicurve}. De eerste uren gebeurt er niet veel. (_1. vertraging_) Op een gegeven moment schieten de organismen wakker en beginnen ze als een gek te werken. (_3. exponentiële, 2. versnelling_) De vloeistof piekt op een bepaalde hoogte, en blijft voor een tijdje vrolijk broebelend daar staan. (_4. overgang, 5. stationair_) Plots zijn alle suikers op en klapt het goedje in elkaar. (_6. dood_) Als je dan nog langer wacht, verzuurt de omgeving nog meer. Er verschijnt een waterig laagje bovenop de zuurdesem. Dit is een alcohol laag die aangeeft dat je cultuur erg hongerig is. Laat je niet beïnvloeden door de sterke azijngeur en gooi niet alles weg. Te lang wachten met bijvoeden kan de volgende baksessie een nog tragere rijs betekenen door de verstoorde zuurtegraad. Gooi in dat geval alles weg, behalve één koffielepel, en kweek opnieuw op met voldoende bloem en water. 
+
 Het woord bacterie heeft nogal een negatieve connotatie in onze moderne maatschappij, waar obsessief poetsen met bacteriewerende middelen een slechte gewoonte geworden is. Het menselijk lichaam bestaat uit triljoenen microbiële cellen, veel meer dan eigen menselijke cellen [@rosner2014ten]. Wij zijn een gigantische bus waar constant bacteriën op- en afstappen. Niet iedereen heeft een buskaartje gekocht, maar de meesten houden zich gedeisd, en werken zelfs in ons voordeel. Ons darmstelsel is heel gevoelig en bevat het meeste van deze cellen. Vandaar de groeiende aandacht voor pre- en probiotica [@voedselmachine]. Prebiotica zijn componenten in voedsel dat de productie van deze goede organismen stimuleert, zoals look, prei, asperge en volkoren tarwe. Probiotica zijn levende micro-organismen die de darmflora moeten aansterken, zoals yoghurt en kefir[^prob]. In realiteit overleven de meeste organismen de zuren in je maag niet. Om te kunnen genieten van de voordelen van probiotica, moeten de organismen nog leven. Gepasteuriseerde zuurkool van je supermarkt valt hier dus niet onder. Zuurdesem zelf zou ook beschouwd kunnen worden als probiotica, maar ik zie mezelf niet bepaald dagelijks een lepeltje naar binnen werken. Gebakken brood heeft hier niets meer mee te maken: de hitte van de oven verwoest al het leven. 
 
 [^kombucha]: Een licht bruisende en alcoholische gefermenteerde drank, gemaakt van gezoete zwarte of groene thee.
 [^prob]: Niet alle commerciële probiotica wordt de tijd gegeven om bacteriën te kweken. Yakult bijvoorbeeld bevat hopen _Lactobacillus paracasei Shirota_, opgekweekt in laboratoria [@spanhaak1998effect]. 
+
+Niet alleen onze interne organen behuizen hopen bacteriën: onze huid kan hier ook wat van. Hoe onaangenaam dit ook klinkt, de zweetvoeten en schimmels waar wij soms last van hebben worden veroorzaakt door dezelfde soorten organismen die in ons potje met desem voorkomen. De Ongelovige Thomas probeert dit thuis zelf door een beetje 'geproduceerd vocht' te mengen met bloem en water. Deze 'verrijkte' zuurdesemcultuur zal véél sneller op punt staan dan de conventionele manier. Er is zelfs iemand die met succes vaginaal vocht gebruikte om brood te bakken. Ik ga de details jullie besparen en mijn referenties niet verder bevuilen: zoek dat maar op internet.
 
 Er zijn buiten smaak nog twee belangrijke redenen om met een rijke kolonie als zuurdesem te werken, in plaats van met één giststam. De eerste daarvan is _vertering_. De mensheid heeft doorheen de geschiedenis verschillende manieren gevonden om voedsel beter verteerbaar te maken [@pollancooked]. Groenten koken transformeert cellulose in licht verteerbaar materiaal. Door het kookproces komen vitaminen en mineralen vrij die door onze darmen kunnen opgenomen worden. Rauwe groenten kost onze maag en darmen veel meer moeite om te verteren dan bereide groenten. De kookpot fungeert in feite als onze tweede maag. Koeien mogen ons niet onderschatten, wij mensen vinden altijd wel iets op onze gebrekken. Er zijn buiten koken nog andere technieken om voedsel beter verteerbaar te maken, zoals fermenteren. Wetenschappers hebben ontdekt dat het gebruik van zuurdesem de biologische beschikbaarheid van mineralen verhoogt [@poutanen2009sourdough]. Ook hier speelt de tijd een grote rol: hoe meer het is gefermenteerd, hoe meer het verteerbaar is. Wacht je echter té lang, dan valt er helemaal niets meer te verteren. De suikers zijn dan volledig opgebruikt.
 
@@ -59,26 +77,13 @@ Het fermentatieproces kan je beschouwen als een schaar die de lange ketting netj
 
 Nu we iets meer weten over suikers, kunnen we het bakproces beter controleren, door bijvoorbeeld de juiste bloem te kiezen. Volkoren meel bevat veel meer voedingsstoffen voor organismen dan gezeefde, witte bloem. Daarom wordt een zuurdesemcultuur meestal met roggemeel opgestart. Rogge fermenteert nog sneller dan tarwe [@koistinen2018metabolic]. Ook zal je bij het gebruik van volle granen de rijstijd moeten verkorten of de temperatuur verlagen. Extra ingrediënten als melk (lactose) tellen ook als suiker.
 
-Door het fermentatieproces wordt de levensduur van voedsel verlengd [@saikia2014effect]. Zuurdesemboord blijft een week goed. Ik durf te wedden dat het gistbrood dat je gisteren kocht bij de bakker overmorgen al beschimmeld[^schimmel] is. 
+Het tweede belangrijke voordeel van zuurdesem is _houdbaarheid_. Door het langere fermentatieproces wordt de levensduur van voedsel verlengd [@saikia2014effect]. Zuurdesemboord blijft een week goed. Ik durf te wedden dat het gistbrood dat je gisteren kocht bij de bakker overmorgen al beschimmeld is. 'Schimmel' is een algemene term die we gebruiken om aan te geven dat iets niet meer eetbaar is. We weten nu ook dat schimmels helpen om lekker brood te maken. Schimmels en gisten zijn immers beiden deel van het _Fungi_ rijk. Gist is ééncellig, schimmel is meercellig. De geur én de kleur geven aan wanneer dat sneetje brood aan de kippen te geven. Verschillende kleuren duiden verschillende soorten van schimmel aan[^kleursch], die elk hun eigen voorkeur voor warmte, energiebron (type suiker) en humiditeit hebben. Beschimmeld brood komt zo vaak voor dat de voornaamste veroorzaker, de _Rhizopus_ stam, door wetenschappers bekroond werd met de titel 'broodschimmel' [@wilkins2009bread].
 
-[^schimmel]: Schimmels en gisten zijn beiden deel van het _Fungi_ rijk. Gist is ééncellig, schimmel is meercellig. 
+[^kleursch]: Dat is niet de enige reden: sporen van schimmels hebben vaak een andere kleur. 
 
-Veel gefermenteerde producten zijn alom bekend, zoals:
+De langere houdbaarheid betekent niet dat zo'n brood bestand is tegen uitdroging. Vochtverlies treedt onherroepelijk op, en is niet te stoppen. Dat kan in combinatie met een broodrooster en wat boter nog steeds een smakelijke maaltijd vormen. Het vocht vindt uiteindelijk zijn weg naar de rand van het brood: de korst, waar het verder kan verdampen [@baik2000moisture]. Daardoor wordt de korst zachter, en het kruim harder. Knapperig gebakken brood verkoop je als bakker best binnen een paar dagen, want het is gedoemd om terug zacht te worden. Hoe langer je brood bakt, hoe dikker de korst, en hoe langer het duurt om terug zacht te worden. Brood met een hoog vochtigheidspercentage wordt langer gebakken omdat het kruim langer nodig heeft om te stabiliseren. Dit heeft dus als bijkomend voordeel dat de korst stand houdt. Hoe meer vocht in het kruim, hoe langer het duurt dat dit verdampt, dus hoe langer de houdbaarheid. Sneetjes brood zonder korst bewaren vertraagt dit proces nog verder. 
 
-> Eender welke alcoholische drank, ingelegde groenten als zuurkool en pickles, kaas, yoghurt, kefir, zure room, miso, soja- en vissaus
-
-Wist je echter dat de volgende producten ook gefermenteerd waren:
-
-> Olijven[^olijf], chocolade[^cocolade], azijn, ketchup, tabascosaus, worcestersaus, koffie, pu'er thee, salami, amazake[^amazake], katsuobushi
-
-Commerciële varianten worden op een andere manier geproduceerd. Een blik groenten op de schappen van je lokale supermarkt wordt ingelegd met azijn. De erg zure omgeving is niet leefbaar voor organismen. Dat is iets heel anders dan groenten inleggen in water (en eventueel zout). 
-
-TODO omgeving zweetvoeten etc, zelfde 
-
-[^olijf]: Rauwe olijven zijn giftig.
-[^cocolade]: Verse cacaobonen, uit de peul, zijn slijmerig en paars, zoals lichi's. Na het fermenteren verliezen ze vocht, en krijgen ze die typische bruine kleur, klaar om verder geroosterd te worden.
-[^amazake]: Het zoetere, niet-alcoholische alternatief voor saké
-
+Gewapend met deze basiskennis ontketen ik elke week een met het blote oog niet waarneembare oorlog in mijn keuken. Door te spelen met principes als vocht- en zoutgehalte, zuurtegraad, temperatuur en tijd bepaal ik als bakker hoe mijn brood smaakt. Er is echter nog een probleem. Het oog wil namelijk ook wel wat. Hoe krijg ik genoeg volume in mijn deeg, zonder dat het plat valt zodra het uit het rijsmandje komt? Niet te kort of te lang laten rijzen is één ding, maar geen structuur betekent geen vorm. En geen vorm vermindert ook mijn smaak: niemand eet alleen maar met zijn mond [@delwiche2012you]!
 
 \newpage
 
@@ -94,7 +99,7 @@ TODO omgeving zweetvoeten etc, zelfde
 * De ene suiker is de andere niet. 
 * Bacteriën groeien niet liniair, maar exponentieel. 
 * Open nooit een blik gefermenteerde haring op een openbare plaats - en misschien best ook niet in een gesloten ruimte. 
+* Zuurdesembrood houdt langer dan gistbrood.
 * Staat er een waterlaagje op je starter, of ruikt hij erg naar azijn? 90% weggooien en bijvoeden. 
-* Staat er een witte schimmellaag op je starter? Laag afschrapen, weggooien en bijvoeden. 
-* Staat er gekleurde of zwarte schimmel op je starter? Pech gehad, alles weggooien! 
+* Staat er gekleurde schimmellaag op je starter? Pech gehad, alles weggooien! 
 * Chocolade is ook een gefermenteerd product, dus dan moet het wel gezond zijn... 
