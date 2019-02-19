@@ -136,6 +136,75 @@ chart.data = [{
 }, {
   "tijd2": 4,
   "count2": 4
+}, {
+  	"tijd3": 4,
+	"count3": 4
+}, {
+  	"tijd3": 5,
+	"count3": 5
+}, {
+  	"tijd3": 6,
+	"count3": 6
+}, {
+  	"tijd3": 6.9,
+	"count3": 7.8
+}, {
+  	"tijd3": 7,
+	"count3": 7.9
+}, {
+  	"tijd4": 7,
+	"count4": 8
+}, {
+  	"tijd4": 8,
+	"count4": 9
+}, {
+  	"tijd4": 9,
+	"count4": 9.3
+}, {
+  	"tijd4": 10,
+	"count4": 10
+}, {
+  	"tijd4": 12,
+	"count4": 10.2
+}, {
+  	"tijd5": 12,
+	"count5": 10.2
+}, {
+  	"tijd5": 13,
+	"count5": 10.2
+}, {
+  	"tijd5": 15,
+	"count5": 10
+}, {
+  	"tijd5": 17,
+	"count5": 9.8
+}, {
+  	"tijd6": 17,
+	"count6": 9.8
+}, {
+  	"tijd6": 18,
+	"count6": 9.5
+}, {
+  	"tijd6": 19,
+	"count6": 8.5
+}, {
+  	"tijd6": 20,
+	"count6": 8
+}, {
+  	"tijd6": 22,
+	"count6": 7.8
+}, {
+  	"tijd6": 24,
+	"count6": 6
+}, {
+  	"tijd6": 26,
+	"count6": 5
+}, {
+  	"tijd6": 28,
+	"count3": 3.5
+}, {
+  	"tijd6": 32,
+	"count6": 2
 }];
 
 // Create axes
@@ -157,45 +226,45 @@ valueAxis.strictMinMax = true;
 
 // Create series
 var series1 = chart.series.push(new am4charts.LineSeries());
-series1.name = "Lag";
+series1.name = "1. Vertraging";
 //series1.strokeDasharray = "3 7";
 series1.dataFields.valueY = "count";
 series1.dataFields.valueX = "tijd";
 series1.strokeWidth = 5;
 
 var series2 = chart.series.push(new am4charts.LineSeries());
-series2.name = "Acceleration";
+series2.name = "2. Versnelling";
 series2.strokeDasharray = "3 7";
 series2.dataFields.valueY = "count2";
 series2.dataFields.valueX = "tijd2";
 series2.strokeWidth = 5;
 
 var series3 = chart.series.push(new am4charts.LineSeries());
-series3.name = "Exponential";
+series3.name = "3. Exponentiëel";
 //series3.strokeDasharray = "3 7";
-series3.dataFields.valueY = "count";
-series3.dataFields.valueX = "tijd";
+series3.dataFields.valueY = "count3";
+series3.dataFields.valueX = "tijd3";
 series3.strokeWidth = 5;
 
 var series4 = chart.series.push(new am4charts.LineSeries());
-series4.name = "Transition";
+series4.name = "4. Overgang";
 series4.strokeDasharray = "3 7";
-series4.dataFields.valueY = "count";
-series4.dataFields.valueX = "tijd";
+series4.dataFields.valueY = "count4";
+series4.dataFields.valueX = "tijd4";
 series4.strokeWidth = 5;
 
 var series5 = chart.series.push(new am4charts.LineSeries());
-series5.name = "Stationary";
+series5.name = "5. Stationair";
 //series5.strokeDasharray = "3 7";
-series5.dataFields.valueY = "count";
-series5.dataFields.valueX = "tijd";
+series5.dataFields.valueY = "count5";
+series5.dataFields.valueX = "tijd5";
 series5.strokeWidth = 5;
 
 var series6 = chart.series.push(new am4charts.LineSeries());
-series6.name = "Death";
+series6.name = "6. Dood";
 series6.strokeDasharray = "3 7";
-series6.dataFields.valueY = "count";
-series6.dataFields.valueX = "tijd";
+series6.dataFields.valueY = "count6";
+series6.dataFields.valueX = "tijd6";
 series6.strokeWidth = 5;
 
 

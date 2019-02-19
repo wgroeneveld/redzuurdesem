@@ -1,4 +1,4 @@
 
-# De estethiek van brood
+# De esthetiek van brood
 
 structuur, vorm, snijden, ... 
