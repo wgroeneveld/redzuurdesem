@@ -1,5 +1,5 @@
 
-# Het recept
+## Het maken van brood
 
 TODO tijdslijnen
 
@@ -13,3 +13,5 @@ De unieke stijl van iedere bakker reflecteert in de keuzes die gemaakt worden bi
 * _Jeffrey Hamelman_: 15-20% voordeeg - bij rogge 30-40%. Starter 12 tot 16 uur op voorhand maken op 21°C. Deegtemperatuur van 24°C - bij rogge 27°C.
 * _Ken Forkish_: 20% voordeeg. Jonge starter. Hoge hydrataties. Langere rijstijden op 25°C.
 * _Daniel Leader_: 25-40% voordeeg. Starter 8 tot 12 uur op voorhand maken op 22°C. Kortere rijstijden van anderhalf uur op 22°C. 
+
+Hoeveel zout moet ik nu eigenlijk toevoegen in mijn deeg? Dat hangt af van hoe lang je je brood wil laten rijzen en wat voor soort bloem je gebruikt. Volkoren granen fermenteren sneller dan witte bloem, dus meer zout toevoegen kan helpen om trager te rijzen. Een algemeen aangenomen standaard hoeveelheid zout ligt tussen de 1.5 en 2.5%. In België en Nederland wordt er minder zout gebruikt dan in Frankrijk omdat wij blijkbaar allergisch zijn aan smaak dankzij talloze flut artikels over zout en de mogelijke link met cholesterolverhoging. Boven de 2% zal bijgevolg voor velen te zout smaken. Elke bakker die ik gesproken heb gebruikt meer dan 2% zout als hij zijn deeg traag laat rijzen in de remkast om te voorkomen dat de actieve gistcellen alle suikers omgezet hebben. De traditionele bakkerij gaat eerder 1.5% zout gebruiken in zijn recepten, dat is de hoeveelheid die wij leerden te gebruiken in de avondschool. 

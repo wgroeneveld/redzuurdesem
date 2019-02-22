@@ -3,4 +3,4 @@
 \addcontentsline{toc}{chapter}{\listfigurename}
 \listoffigures 
 
-# Referenties
+## Referenties

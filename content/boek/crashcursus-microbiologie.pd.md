@@ -1,8 +1,12 @@
-# Een crashcursus in microbiologie
+# De theorie
+
+## De microbiologie van brood
+
+\label{microbio}
 
 > '_Decline is also a form of voluptuousness, just like growth. Autumn is just as sensual as springtime. There is as much greatness in dying as in procreation._' - Iwan Goll
 
-## Maart 2013
+### Maart 2013
 
 Dingen worden rot. Organisch materiaal vergaat. Wanneer te kiezen voor het woord 'rot' of 'gefermenteerd', hangt af van waar je je ergens op de aardbol bevindt. Die dunne lijn is namelijk een culturele lijn. _Hákarl_, gefermenteerde haai, is een nationaal gerecht in Ijsland dat groentjes zou doen kokhalzen. Een potje Zweedse _Surströmming_ (in dit geval durf ik rotte haring te zeggen) openen kan je een boete opleveren, omdat de rotte geur nog dagen blijft hangen op die plek. Niet overgeven vóór de eerste hap is blijkbaar al een kunst. Chinese 'duizendjarige' eendeneiren worden een paar weken tot een paar maanden ingelegd in een mengsel van klei, as, zout, thee en rijstkaf. De lange fermentatietijd zet bestanddelen van het rauw ei om in zwavelzuur. En dat is geen plezante geur bij het pellen van het ei... Enkel doorgewinterde gistingsfreaks als Sandor Katz (of Chinezen) zijn hier voor te vinden. Sandor beschrijft in zijn bijbel '_The Art of Fermentation_' elke mogelijke vorm van rot, samen met bekend gefermenteerd voedsel [@katz]. 
 
@@ -25,7 +29,7 @@ De bakkerijen en scholen leerden me op een praktische manier omgaan met deeg. Ik
 
 Net zoals fotosynthese of ademhalen, is fermenteren een manier om energie uit moleculen te halen. Het afbreken van organische bestanddelen (zoals suikers) maakt plaats voor nieuwe elementen, waaronder kooldioxide. Dat herkennen wij als luchtbelletjes. Energie wordt sneller _aerobisch_ vrijgegeven, anders zouden onze longen weinig nut hebben. Fermenteren gebeurt echter _anaerobisch_: zonder zuurstof. Louis Pasteur, de eerste bioloog en chemicus die fermentatie serieus nam in 1860, noemde dit '_la vie sans air_'. Anaerobische fermentatie werkt trager, en geeft minder energie vrij. Wij gebruiken juist hetzelfde proces om energie uit ons eten te halen. De volgende keer dat je naar je potje met zuurdesem staart, denk dan maar aan je maag en darmen. 
 
-De snelheid van fermentatie wordt geregeld door onder andere het zoutgehalte, de zuurtegraad, de vochtigheid en de temperatuur. Hoe meer zout, hoe trager dit proces. In Japanse miso zit gemiddeld `40%` zout: die wordt minstens 24 maanden ingelegd.  Wanneer ik in mijn keuken een beetje bloem met beetje water meng, creëer ik in feite een omgeving die perfect is om gisten én bacteriën te kweken. Enkel de witte laboratoriumjas waar de titel 'microbioloog' op prijkt, ontbreekt dan nog. Het opkweken van de juiste organismen duurt een paar weken. De eerste belletjes geven wel blijk van activiteit, maar de gistkolonie is nog te klein in aantal om een heel brooddeeg genoeg te laten rijzen. 
+De snelheid van fermentatie wordt geregeld door onder andere het zoutgehalte, de zuurtegraad, de vochtigheid en de temperatuur. Hoe meer zout, hoe trager dit proces. Een gistcel is halfdoorlatend en absorbeert door _osmose_ zuurstof en voedingsstoffen. Osmose betekent de verplichte aanwezigheid van een vloeistof om de stoffen die de gistcellen produceren te kunnen afgeven aan het deeg. Zout is _hydrofiel_: het trekt water aan. Dat heb je vast al eens toegepast door zout een halfuur te laten inwerken op gekneusde groenten. Zolang het zout de vloeistof opeist, kan de gistcel niet zo goed zijn best doen. In Japanse miso zit gemiddeld `40%` zout: die wordt minstens 24 maanden ingelegd.  Wanneer ik in mijn keuken een beetje bloem met beetje water meng, creëer ik in feite een omgeving die perfect is om gisten én bacteriën te kweken. Enkel de witte laboratoriumjas waar de titel 'microbioloog' op prijkt, ontbreekt dan nog. Het opkweken van de juiste organismen duurt een paar weken. De eerste belletjes geven wel blijk van activiteit, maar de gistkolonie is nog te klein in aantal om een heel brooddeeg genoeg te laten rijzen. 
 
 Deze combinatie van gisten en bacteriën vormen na verloop van tijd een stabiele symbiose. Je kan het een beetje vergelijken met kombucha[^kombucha] zwammen. Dit noemt men een _SCOBY_, een '_Symbiotic Culture of Bacteria and Yeast_'. Er zijn honderden verschillende soorten van beide organismes aanwezig. Commerciële gist bevat maar één giststam: _Saccharomyces cerevisiae_, ook wel bakkersgist genoemd. Een zuurdesemcultuur bevat veel meer stammen. Het aantal cellen van eenzelfde stam is echter minder groot dan in bakkersgist, waar meer dan een miljoen cellen maar één doel hebben: zo veel mogelijk suikers omzetten in CO~2~. Zowel gist als bacterie teert op energie in de vorm van suiker. Dat betekent een beetje gezonde competitie. Bacteriën zijn enkel aanwezig in zuurdesem, en niet in bakkersgist. Deze bacteriën zijn de voornaamste veroorzakers van _smaak_. Aha, nu geraken we ergens!
 
@@ -86,7 +90,7 @@ Het tweede belangrijke voordeel van zuurdesem is _houdbaarheid_. Door het langer
 
 De langere houdbaarheid betekent niet dat zo'n brood bestand is tegen uitdroging. Vochtverlies treedt onherroepelijk op, en is niet te stoppen. Dat kan in combinatie met een broodrooster en wat boter nog steeds een smakelijke maaltijd vormen. Het vocht vindt uiteindelijk zijn weg naar de rand van het brood: de korst, waar het verder kan verdampen [@baik2000moisture]. Daardoor wordt de korst zachter, en het kruim harder. Knapperig gebakken brood verkoop je als bakker best binnen een paar dagen, want het is gedoemd om terug zacht te worden. Hoe langer je brood bakt, hoe dikker de korst, en hoe langer het duurt om terug zacht te worden. Brood met een hoog vochtigheidspercentage wordt langer gebakken omdat het kruim langer nodig heeft om te stabiliseren. Dit heeft dus als bijkomend voordeel dat de korst stand houdt. Hoe meer vocht in het kruim, hoe langer het duurt dat dit verdampt, dus hoe langer de houdbaarheid. Sneetjes brood zonder korst bewaren vertraagt dit proces nog verder. 
 
-## Mei 2013
+### Mei 2013
 
 Wachten op spontane fermentatie kan best spannend zijn. De ontdekking van bubbeltjes voelt aan als een geweldige prestatie - maar in feite heb je niets anders gedaan dan gewacht. Een actieve cultuur is maar één deel van het broodbakproces. Om brood te kunnen bakken met zuurdesem heb je een voordeeg nodig. Er bestaan verschillende soorten van voordeeg die allemaal hun eigen naam hebben. Dat is te danken aan de rijke Europese broodbakgeschiedenis. Hieronder volgt een kort overzicht:
 
@@ -116,13 +120,11 @@ De snelle bakker die gebruik maakt van deze chemische rijsmiddelen heeft hopelij
 
 Zuurdesem culturen worden ingedeeld in drie verschilllende categorieën. Type `I` is de levende cultuur die regelmatig onderhouden moet worden. Type `II` is de industriële gestabiliseerde versie met toegevoegde commerciële gist. Type `III` is de gedroogde variant. Deze zuurdesem poeders komen meer en meer voor in supermarkten, en worden door bakkers voornamelijk gebruikt als smaakversterker in plaats van rijsmiddel [@decock2005bread]. Het droogproces beïnvloedt de aanwezigheid van verschillende organismen. Enkel droog-resistente melkzuurbacteriën zoals _Lactobacillus Plantarum_ houden het uit tot die fase. Dat verklaart waarom gedroogde desem niet voldoende is om brood dezelfde kracht en smaak te geven als een levende cultuur. Het gebruik van gedroogde desems in bakkerijen gaat altijd gepaard met klassieke gist. Vraag dus altijd of er een echte zuurdesem cultuur aan de pas is gekomen! Deze types zijn elk totaal andere producten, en onmogelijk door elkaar te vervangen zonder extra aanpassingen aan het recept. 
 
-
-
 Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met het blote oog niet waarneembare oorlog in mijn keuken. Door te spelen met principes als vocht- en zoutgehalte, zuurtegraad, temperatuur en tijd bepaal ik als bakker hoe mijn brood smaakt. Er is echter nog een probleem. Het oog wil namelijk ook wel wat. Hoe krijg ik genoeg volume in mijn deeg, zonder dat het plat valt zodra het uit het rijsmandje komt? Niet te kort of te lang laten rijzen is één ding, maar geen structuur betekent geen vorm. En geen vorm vermindert ook mijn smaak: niemand eet alleen maar met zijn mond. [@delwiche2012you]
 
 \newpage
 
-## Wat ik geleerd heb
+### Wat ik geleerd heb
 
 * Fermenteren en rijzen: twee woorden voor hetzelfde idee.
 * (Ongeveer) hetzelfde proces wat wij gebruiken om ons voedsel te verteren, wordt ook gebruikt om brood te maken. 

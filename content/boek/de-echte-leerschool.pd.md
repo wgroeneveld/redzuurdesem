@@ -1,8 +1,8 @@
-# De échte Leerschool
+## De échte Leerschool
 
 > ‘_Bread baking is making water stand up._’ - Een vakman aan het woord.
 
-## November 2015
+### November 2015
 
 ‘Dit is jouw kamer voor de komende weken.’ Rose drukt op de lichtknop en ik kijk de kamer rond. Een ingezakte tweepersoonsbed die zijn beste tijd gehad heeft, een aftandse zetel, een lege garderobe en een leeslamp. 
 ‘Perfect, meer heb ik niet nodig. Bedankt!’ Ik laat mijn tas vallen en kijk even uit het raam. Aan de overkant van de straat kan je recht in andere appartementen kijken. Gordijnen ontbreken aan beide kanten. Een onbehaaglijk gevoel overvalt mij.
@@ -25,7 +25,7 @@ Daarom neem ik stukken van mijn dagboek hier letterlijk over. Niet alles was eve
 
 [^verbloem]: Prachtige verwoording voor een bakker.
 
-### Dag 1
+#### Dag 1
 
 > Ik ben _stikdood_. Maar echt kapot. Ik had niet verwacht dat het zo intensief ging zijn. Ik weet eigenlijk niet wat ik verwacht had. Dit was dan nog ‘maar’ een rustige _prep-dag_[^prep], dus De Superette is gesloten. Dat betekent dat je in de zaal (van het restaurant) kan lopen en even iets drinken. Voormiddag was het al ‘_shit_’ met de scones die ik niet mooi gelijk gemaakt had, waardoor ik terecht de opmerking kreeg: opnieuw. Verschillende grote en kleine tips worden gegeven, om bijvoorbeeld kaas sneller te ontvellen, of brood te ontkorsten, of een blok boter van 5 kg op te snijden. Ik ben blij dat ik met de grotere klopper (een Sinmag) kan werken en grotere kwantiteiten gewoon ben vanop de school. Het restaurant maakt alles vervelender als bakker omdat kip en groenten de oven bezetten. Morgen gaat dit nog erger zijn vrees ik. Het brood ziet er echt uit alsof het uit een bakkerij van San Francisco komt, Tartine stijl[^tartine]: onmogelijk nat en plat, zelfs na het bakken. Om vijf uur was ik echt kapot. Sophia zit waarschijnlijk nu nog voor de oven (`370° C`, moet nog afkoelen). Ik ga slapen! Tijd voor Gent zelf is er niet, ik krijg nu nog nauwelijks een boek gelezen...
 
@@ -69,7 +69,7 @@ En zo begon ik mijn eerste dag met mijn mouwen op te stropen, de weegschaal in h
     addtolist={1, figure, {Mijn beste vriend: de Salva patisserie oven.}, img:salva}    
 ]{salva.jpg}
 
-### Dag 2
+#### Dag 2
 
 > ‘_Ik ben zo moe!_’ moest ik van Eline hier schrijven. Ze is er mee aan het lachen. Eten voor het personeel na drie uur, middag service. Ik heb een paar dingen serieus laten verbranden maar heb constant aan Eline gevraagd of het oké was, dus ja wist ik veel. ‘s Morgens opent De Superette om negen dus croissants en broodpudding en zo moeten al in de vitrine liggen dan. Daarna taarten en cakes bakken voor de keuken, brownies, en tussendoor nieuwe batches maken. Er wordt veel op gevoel gewerkt: constant naar de oven kijken en timen op tien minuten. Niemand kan precies zeggen hoe lang iets moet of hoe donker de karamel moet zijn. De pijn in mijn rug zorgt nu al voor ongevoelige tenen... De werkdruk valt mee vandaag - de eerste dag was het ergste, en ik heb veel hulp gehad vandaag. Brooddeeg helpen opdelen (`800 gr` en `1150 gr`) - supernat deeg van `81%`! Afwegen met een analoge weegschaal en gewichten. Opletten met te veel water toevoegen aan de deegschraper en het weegoppervlak. Het deeg is warm en ruikt naar jonge _levain_[^levain], hoe lang heeft dit gerezen? Er zitten niet super veel bubbeltjes in. Ik fermenteer thuis misschien te lang? Mijn voordeeg is té zuur (azijn in plaats van melk) door de koelkast. Begin er wel wat in te komen, echt wel zwaar werk en geen enkel moment om even op adem te komen. Totaal niet vergelijkbaar met wat ik normaal doe. Hopelijk verdient iedereen hier goed, inclusief de afwassers. Iedereen praat Engels, wel grappig. De mannen van het restaurant _Magis_ te Tongeren komen wat hulp vragen aan Sarah over bakken met zuurdesem, en ik heb Kobe’s _polleke_ geschud, dus mijn dag is goed!  
 
@@ -132,7 +132,7 @@ Hoe hoger het getal, hoe meer water de bloem kan absorberen. Dit heeft niet alle
 
 [^flourp]: De Artemeersmolen te Poeke, deelgemeente van Aalter. [http://www.flourpower.be](http://www.flourpower.be)
 
-### Dag 4
+#### Dag 4
 
 > ‘_I just want to see some friends and family..._’ ‘_Yeah, I know exactly how you feel._’ ‘Als ik werk, die dagen heb ik geen leven. Daarom werk ik maar 4 dagen op 5.’ Zeer goede motivatoren om te gaan werken in de horeca. Zo lang werken op een dag met minimale pauze is echt zottenwerk. Maar een mens wordt het snel gewoon als ik kijk naar dag 1. Ik eet ‘s avonds niet mee omdat ik op mijn gemak wil zijn. Poolish[^poo]: `100%` hydratatie, `0.35%` verse gist, ‘s nachts laten rusten in emmers. 
 
@@ -147,7 +147,7 @@ Ik kende voor mijn stage totaal niets van het reilen en zeilen in de horeca.  Mi
     addtolist={1, figure, {Houtvezel rijsmandjes in rekken.}, img:mandjes}
 ]{superette.jpg}
 
-### Dag 6
+#### Dag 6
 
 > Hard werken bij voorbereidingsdagen, al vond ik dat het minder stressvol aanvoelde dan als De Superette zelf open is en er vanalles tegelijkertijd aan de hand is. Ben vergeten te kijken naar de shortbreads... Frangipane zonder melk en bloem? Speciaal. _Pastry cream_[^cream] met 15 g zout blijf ik vies vinden, of heeft alleszins een speciale smaak waar ik niet snel aan zal wennen. Ghislain zijn recept met vanille is zoeter, maar valt zwaarder.
 
@@ -158,7 +158,7 @@ Een recept uitproberen waar je geen referentiepunt van hebt is moeilijker om te 
 
 Dimitri en Patrick kwamen me die middag een hart onder de riem te steken. Het drukste moment van de dag zit er voor mij dan al op. Namiddag wordt de bakkerij gedomineerd door brood en poetsen. Dat laatste is natuurlijk het perfecte werkje voor een stagair. Terwijl mijn vrienden al lachend aan de toog hun pizza naar binnen werken, probeer ik al dweilend mijn kalmte te bewaren. 'Ja Wouter, ik moet zeggen, dat staat u goed zo, die schort!' grapt Patrick. Ik mompel iets van 'deeg controleren' en verdwijn voor het volgende uur in mijn hoekje naast de Salva.
 
-### Dag 7
+#### Dag 7
 
 > Als ik naar de trucjes kijk van de keuken, leer ik ook veel bij over smaken en complexiteit toevoegen aan gerechten. De oven wordt veel gebruikt om groenten te roosteren. Echt alles wordt geroosterd: voorbereidingswerk! Thermomix sauzen en afwerken met spuitbussen. Eigen bouillons met gedroogde groenten Gefermenteerde dingen als smaakmakers: kimchi, gedroogde zuurkool, melkkefir room, ... Ook chutney’s. Altijd smaakmakers gebruiken! Gebruik alles van groenten zoals bloemkool bladeren. Hergebruik overschotjes zoals cake drogen en als crumble in ijs verwerken. Reduceren en pureren om smaken te concentreren. _Prep-werk_ is alles: alles klaar hebben doet veel.
 
@@ -185,7 +185,7 @@ Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn r
 
 \newpage
 
-## Wat ik geleerd heb
+### Wat ik geleerd heb
 
 * De temperatuur beïnvloed nog steeds de rijstijd, maar ook omgekeerd: hoe kouder, hoe trager. 
 * Het absoluut minimum aan tijd van bloem tot _smaakvol_ brood is 30 uur. Die lange tijd bereik je met een combinatie van voordeeg en lang rijsproces. 

@@ -520,10 +520,28 @@
 	"buffers":
 	[
 		{
-			"file": "content/boek/crashcursus-microbiologie.pd.md",
+			"file": "content/boek/levenslang-leren.pd.md",
 			"settings":
 			{
-				"buffer_size": 31016,
+				"buffer_size": 73,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/geur.pd.md",
+			"settings":
+			{
+				"buffer_size": 12985,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/de-leerschool.pd.md",
+			"settings":
+			{
+				"buffer_size": 58041,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -625,10 +643,24 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jefklak/development/redzuurdesem"
+		"/Users/jefklak/development/redzuurdesem",
+		"/Users/jefklak/development/redzuurdesem/content",
+		"/Users/jefklak/development/redzuurdesem/content/boek"
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
+		"/Users/jefklak/development/redzuurdesem/content/boek/crashcursus-microbiologie.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/de-echte-leerschool.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/geur.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/intro.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/kabouters.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/recept.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/refs.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/levenslang-leren.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
 		"/Users/jefklak/development/phd/content/src/programma/management.md",
 		"/Users/jefklak/development/phd/content/src/onderzoek/voorstellen/iop_gantt.md",
 		"/Users/jefklak/development/phd/content/src/onderzoek/voorstellen/iop_call_2019.pd.md",
@@ -744,29 +776,18 @@
 		"/Users/jefklak/.pandoc/ieee_software.latex",
 		"/Users/jefklak/development/phd/content/src/artikels/considerations_metadata.yaml",
 		"/Users/jefklak/development/phd/content/src/artikels/test.pdf",
-		"/Users/jefklak/development/opbtest/README.md",
-		"/Users/jefklak/development/delphinominees.md",
-		"/Users/jefklak/development/phd/test.key",
-		"/Users/jefklak/development/phd/content/_index.md",
-		"/Users/jefklak/development/phd/content/src/slides/20181211_lesec.html",
-		"/Users/jefklak/development/phd/content/src/verslagen/20181211_promotor.md",
-		"/Users/jefklak/development/phd/content/src/onderzoek/voorstellen/iop_call_2019.md",
-		"/Users/jefklak/development/gba-tileeditor/.gitignore",
-		"/Users/jefklak/development/phd/layouts/partials/sections-tree.html",
-		"/Users/jefklak/development/opbtest/setup.py",
-		"/Users/jefklak/development/opbasm/test/test_auto.py",
-		"/Users/jefklak/development/picoblaze/asm/Makefile",
-		"/Users/jefklak/development/opbasm/test/asm/load.psm4"
+		"/Users/jefklak/development/opbtest/README.md"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
 		"height": 286.0,
 		"where_history":
 		[
+			"*.pd.md"
 		]
 	},
 	"find_state":
@@ -774,6 +795,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"begin ik",
+			"#### ",
+			"# ",
+			"## ",
+			"”",
+			"\"",
+			"“",
+			"CO",
+			"slowf",
+			"vertering",
+			"pass",
+			"zoek",
+			"kritisch"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -781,6 +815,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"### ",
+			"## ",
+			"### ",
+			"'",
+			"\""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -797,37 +836,28 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/boek/crashcursus-microbiologie.pd.md",
+					"file": "content/boek/levenslang-leren.pd.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 31016,
+						"buffer_size": 73,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								29794,
-								29794
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 185,
-								"count": 4638,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.locations":
@@ -847,36 +877,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -887,11 +907,21 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -907,10 +937,373 @@
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 10042.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/boek/geur.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9716,
+								9716
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 2146,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2627.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/boek/de-leerschool.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19225,
+								19225
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6520.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -972,6 +1365,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				".bib",
+				"content/boek/boek.bib"
+			],
 			[
 				"micro",
 				"content/boek/crashcursus-microbiologie.pd.md"
@@ -1479,10 +1876,6 @@
 			[
 				"waaromd",
 				"templates/modals/waaromdesem.html"
-			],
-			[
-				"betaal_",
-				"templates/betaal_form.php"
 			]
 		],
 		"width": 0.0
@@ -1495,7 +1888,7 @@
 		[
 			[
 				"",
-				"~/development/redzuurdesem/redzuurdesem.sublime-project"
+				"~/development/phd/phd.sublime-project"
 			],
 			[
 				"brai",

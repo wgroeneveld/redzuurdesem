@@ -1,8 +1,8 @@
-# De Leerschool
+## De Leerschool
 
 > '_Mensen koken niet meer maar stellen gerechten samen. Potje hier, flesje daar. Ze halen geen vijzel meer bij maar halen hun masala uit een kant-en-klaar zakje!_' - De Smaak Van De Verovering, Michael Krondl
 
-## September, 2014: Jaar 1
+### September, 2014: Jaar 1
 
 ‘Ja mensen! Laten we er aan beginnen, want het is _pompen_ vandaag! Als iemand alle grondstoffen afweegt en iemand het sandwich deeg draait in de spiraalmixer, kan de rest de taartvormpjes bekleden.’ We bevinden ons in de kelders van het Syntra gebouw te Hasselt. De bakkerij ligt naast de slagerij, tegenover de cafetaria. 
 ‘Hoe moet dat weer, sandwiches?’ vraagt iemand. 
@@ -86,6 +86,8 @@ Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onz
 [^11]: Wit tarwebrood, bestreken met een papje dat tijdens het bakken het patroon van een tijger aanneemt.
 
 De benaming van brood lijkt te zijn ontstaan in een saaie brainstormsessie van een goedkoop reclamebureau. Bakkerijen verkopen een 'lang grijs', een 'volkoren' dat geen volkoren is, 'kramieken', 'boerenbrood', 'hoevebrood', 'granenbrood', 'bakkersbrood', 'molenaarsbrood', ... Deze dichterlijke vrijheid wil echter niet zeggen dat het molenaarsbrood van bakker 1 hetzelfde is als het molenaarsbrood van bakker 2. Het wil in feite helemaal niets zeggen. Zelfs het iconisch 'San Fransisco brood' wordt door Frank Deldaele omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Laat je niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helf aan volkoren granen in. Dan heb je ook nog namen met een auteursrechterlijke bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. Het maakt het er in ieder geval enorm moeilijk op om exact te weten te komen wat er nu _precies_ in je brood zit. Tenzij... je het zelf maakt. 
+
+Soms heeft een naam wel degelijk (ooit) een betekenis (gehad). Een voorbeeld hiervan is het 'roggeverdommeke'. Dit is roggebrood wat de 'verdoemden' (de gevangenen) te eten kregen omdat rogge goedkoper dan tarwe is. Er werden pas later krenten aan het deeg toegevoegd. Natuurlijk kan iedere bakker hier zijn eigen interpretatie aan geven, en er is geen brood politie die de bakker arresteert als een 'roggeverdommeke' geen grammetje rogge bevat. Sommige bakkerijen doen de moeite niet om hun creaties een unieke naam te geven, en beperken het tot de naam van het gebruikte graan, of zelfs zoveel procent van dit, zoveel procent van dat. Dat is niet zo origineel, maar de boodschap naar de klant is wel zeer duidelijk. Iemand met allergische reacties kan zo met een gerust hart brood kopen.
 
 Een volleerde brood- en banketbakker is ideaal gezien een renaissancistisch generalist: deze is even bekwaam in het maken van soorten brood als in het vervaardigen van soorten patisserie. Het lijkt me dan ook niet meer dan logisch om aan beide zaken evenveel tijd te spenderen. Wanneer ik bakkerijen bezoek vertellen bakkers mij dat ze alles moesten vergeten wat hun geleerd werd tijdens hun klassieke scholing. Veel Belgische bakkers met faam hebben het belangrijkste deel van hun kennis vergaard door een stage in het buitenland te volgen. Ik heb sterk de indruk dat de opleiding slechts een klein deurtje opent naar een grotere wereld vol mogelijkheden. Het kan toch niet zijn dat ons onderwijssysteem zo slecht is dat na drie jaren studie (of één jaar voltijds), je als bakker moet zeggen 'zo, nu weet ik wat ik niet ga maken'? 
 Ik veronderstelde dat dit probleem zich enkel in Vlaanderen voordeed. 
@@ -174,7 +176,7 @@ Die dingen had ik allemaal niet ontdekt als ik de avondschool niet gevolgd had. 
     addtolist={1, figure, {Sandwichdeeg met geweekte rozijnen.}, img:rozijnen}
 ]{syntra.jpg}
 
-## September, 2015: Jaar 2
+### September, 2015: Jaar 2
 
 ‘Als de eieren niet dezelfde temperatuur als de boter hebben, gaan ze de boter doen klonteren. Zet het krat maar in de oven Wouter, we gaan ze dadelijk nodig hebben.’ Ghislain wijst naar de kapotte onderste verdieping die wij misbruiken als verwarmingselement om boter en eieren tot kamertemperatuur te brengen. 
 ‘Mag ik de boter ook al smelten?’ vraagt Patrick.
@@ -246,7 +248,7 @@ Vullen of voeden, jij kiest...
 
 \includepdf[scale=1.7]{syntra3.jpg}
 
-## September, 2016: Jaar 3
+### September, 2016: Jaar 3
 
 Het laatste jaar van de opleiding is in feite een grote aanloop naar de ultieme test: het examen. Er worden drie eindexamens afgenomen: bedrijfsbeheer (de meeste mensen beschikken al over dit diploma door hun middelbaar af te werken), beroepskennis (de theorie) en praktijk (de C-proef). Het theoretisch examen test je kennis rond onder andere de wetgeving, hygiëne in de bakkerij en verhoudingen in formules. Het praktijkexamen vormt een hele leuke uitdaging: de hele dag bakken! Het was toegestaan om afwashulp in te schakelen, maar ik kreeg Kristien niet overtuigd om een dag verlof hiervoor te nemen. 'Dan kan je de hele dag proeven en ons zien werken, is dat niet geweldig?' 'Om u constant te horen klagen over uw rug zeker, laat maar.' was het antwoord. 'Trouwens, ik moet dan toch ook werken? Breng het gebak maar gewoon mee naar huis, dan kan ik het ook proeven.' Ik heb misschien de verkeerde argumenten gebruikt. Die afwas konden wij nog wel aan, maar ik wou toch graag dat ze meekwam, omdat die examendag een symbolisch einde van de driejarige opleiding was. Per groepje van drie leerlingen stel je een actieplan op. De opdracht is vrij in te vullen maar er moeten bepaalde producten gemaakt worden zoals mousses, amandelbeslag, harde en zachte luxe, en bladerdeeg. Je kan het jezelf zo makkelijk of moeilijk maken als je maar wil. De keuzes beïnvloeden uiteraard de evaluaties van de jury. Een bavarois is tijdsintensiever dan een chocolademousse. Een javanais kost meer moeite dan een frangipanetaart. De twee soorten luxe kun je met één gezamenlijk deeg maken, door bijvoorbeeld op het laatste moment het deeg op te delen om een ander eindproduct te komen. 
 
@@ -264,7 +266,7 @@ De volgende keer dat ik naar een feestje ga, kan ik mijzelf voorstellen als prof
 
 \newpage
 
-## Wat ik geleerd heb
+### Wat ik geleerd heb
 
 * De snelheid van het kneden beïnvloed de deegtemperatuur. 
 * De temperatuur beïnvloed de rijstijd: hoe warmer, hoe sneller. 
