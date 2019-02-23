@@ -1,4 +1,9 @@
 
+\includepdf[
+    scale=2.0,
+    addtolist={1, figure, {Een mooi opengebloeide korst na het bakken.}, img:korst}
+]{korst.jpg}
+
 ## Introductie
 
 > '_Happiness is bread baking._' - KC, [Sourdough.com](https://sourdough.com)
@@ -13,7 +18,7 @@ Die traditie om wekelijks brood te bakken gaven mijn zaadje regelmatig een beetj
 
 Brood bakken voelt voor sommigen aan als een verplichting: je doet het omdat het nu eenmaal moet gebeuren. Voor mij is brood bakken van een verplichting naar een hobby naar een (leuke) obsessie gegroeid: waar ik vroeger niets van moest weten, daar wil ik nu net alles van weten, tot in het kleinste detail. Met als gevolg dat op mijn eentje knoeien met een broodbakmachine te weinig voldoening gaf. Op zoek naar de _geur_ en de _smaak_ toverde ik mijn keuken om tot een microbiologisch laboratorium, volgde ik cursussen, ging ik in leer bij de beste bakkers, schreef ik artikels en gaf ik cursussen. Dit boek is de culminatie van alles wat ik weet over brood bakken. 
 
-Er zijn zoveel goede (en slechte) broodbak boeken gepubliceerd dat het duizelt van de keuzestress wanneer je er eentje wilt aanschaffen. Daarom koos ik resoluut voor een persoonlijk verhaal, waarin ik je inzicht verschaf in mijn leerwereld, gecombineerd met duidelijke, maar wetenschappelijk onderbouwde, informatie. Je hebt geen universitair diploma nodig om te bakken met zuurdesem, wat andere bronnen je ook doen wijsmaken. Het is juist super simpel: iedereen die ooit al eens iets heeft gefermenteerd kent de basis. Dit boek is géén handboek, kookboek of bakboek: het is een verslag van een leek die druk bezig is om meester te worden. 
+Er zijn zoveel goede (en slechte) broodbak boeken gepubliceerd dat het duizelt van de keuzestress wanneer je er eentje wilt aanschaffen. Daarom koos ik resoluut voor een persoonlijk verhaal, waarin ik je inzicht verschaf in mijn leerwereld, gecombineerd met duidelijke, maar wetenschappelijk onderbouwde, informatie. Je hebt geen universitair diploma nodig om te bakken met zuurdesem, wat andere bronnen je ook doen wijsmaken. Het is juist super simpel: iedereen die ooit al eens iets heeft gefermenteerd kent de basis. Dit boek is géén handboek, kookboek of bakboek: het is een verslag van een leek die denkt het ooit tot meester te kunnen schoppen. 
 
 Wat valt er eigenlijk te 'redden' aan zuurdesem? Het heeft al bestaan sinds de Egyptenaren, en bestaat nu nog steeds. Ook hier hakt de industriële revolutie enorm in op de kwaliteit van brood: weg smaak, weg vlotte verteerbaarheid. Wat er nog overblijft is een slappe imitatie van _Wonder Bread_, een rechthoekige witte spons die choco goed kan absorberen, maar daarmee is dan ook alles gezegd. De introductie van het wetenschappelijk artikel over moderne brood- en zuurdesemtechnologie van Pieter Decock en Stefan Cappelle, geassocieerd met de Puratos Groep, voorspelt weinig goeds: [@decock2005bread]
 
@@ -30,5 +35,7 @@ Ook in de bakkerij is tijd een van de belangrijkste kwaliteitsfactoren, zelfs al
 
 Hoe meer ik bijleerde over het effect van tijd op voedsel, hoe meer ik gefascineerd werd door fermenteren in het algemeen. Collega’s leerden mij kennen als iemand die 'vieze schimmels' (zelfgemaakte _tempeh_) en 'stinkende groenten' (ingelegde bonen) binnen speelt. Mijn vrouw leerde mij kennen als iemand die graag potten laat ontploffen in de keuken: onderschat nooit de opgebouwde druk aan CO~2~. Ik probeer altijd de zo traag mogelijke route te nemen op gebied van eten, omdat ik ondertussen uit ervaring weet dat het niet alleen beter zal smaken, maar ook beter zal zijn voor mijn darmen. Dat laatste gaat voor speculaas helaas blijven pijn doen na de derde...
 
-Hoge standaarden hanteren als het op voedsel aankomt is het enige juiste alternatief. Mijn interesse in brood ontstond uit noodzaak en groeide uit tot een uit de hand gelopen obsessie. Ik wil daarom graag mijn bewustwording en enthousiasme met jullie delen. 
+Hoge standaarden hanteren als het op voedsel aankomt is het enige juiste alternatief. Mijn interesse in brood ontstond uit noodzaak en groeide uit tot een uit de hand gelopen obsessie. Ik wil daarom graag mijn bewustwording en enthousiasme met jullie delen. Het boek is opgedeeld in twee delen: praktijk en theorie. Net zoals bij programmeren, komt het er op aan om zo veel mogelijk te falen. Falen, vloeken, deeg weggooien, en opnieuw proberen. Dit komt uitvoerig aan bod in deel \ref{praktijk}. Net zoals bij programmeren, moet dat oefenen onderbouwd worden met een stevige theoretische basis. Onvoldoende inzicht betekent onvoldoende kansen kunnen grijpen om te kunnen leren van al dat falen. Die theorie bewaren we voor deel \ref{theorie}.
+
+
 Volg mij in mijn voetsporen om _natuurlijk_ zuurdesembrood terug onder de mensen te brengen. Volg mij om te leren hoe je moet leren om achter je neus aan te lopen. 

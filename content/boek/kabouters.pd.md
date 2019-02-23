@@ -1,5 +1,7 @@
 # De praktijk
 
+\label{praktijk}
+
 ## Het begint allemaal met een kabouter
 
 > '_Eat (good) food. Mostly plants. Not too much._' - David Pollan, In Defense of Food

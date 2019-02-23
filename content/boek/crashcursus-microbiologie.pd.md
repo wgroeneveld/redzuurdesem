@@ -1,5 +1,12 @@
 # De theorie
 
+\label{theorie}
+
+\includepdf[
+    scale=2.0,
+    addtolist={1, figure, {Een mooi gegelatineerde, open kruim.}, img:boterham}
+]{boterham.jpg}
+
 ## De microbiologie van brood
 
 \label{microbio}
