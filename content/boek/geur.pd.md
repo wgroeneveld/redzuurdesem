@@ -3,7 +3,7 @@
 
 > '_Geur is een tijdmachine waarin we niet alleen de verste reizen maar ook de meest intense reizen kunnen maken._' - Wilfried Van Craen, De praktijk van het genieten. 
 
-### Augustus 2014
+### Geur
 
 Brood bakken kan zelfs helpen om gesprekken aan te knopen op vervelende werkfeestjes. Wanneer iedereen klaar is met zeuren over die ene deadline, stuur je het gesprek gewoon naar vakanties. Mensen fleuren altijd op als ze mogen praten over hun recente trip naar het buitenland. 'Wij gaan binnenkort voor een paar dagen op citytrip naar Parijs'. ‘Ah?', begin ik dan, gecombineerd met een verbaasde uitdrukking. 'Ik weet daar enkele heel goede bakkerijen.' Met een beetje geluk bijt de vis dan, en zijn we vertrokken. Doe dit bij voorkeur bij beleefde collega's die je niet goed kent.
 
@@ -48,6 +48,8 @@ Het bruin worden van voedsel kan op twee manieren verschijnen. Enerzijds zonder 
 
 De tweede reden waarom het woordgebruik van Venturi's team interessant is, heeft te maken met de _intensiteit_ van de waarnemingen. We zeggen dat iets een _vage_, een _milde_, een _volle_ of een _intense_ geur heeft. _Openhartig_ en _aromatisch_ horen ook bij dat lijstje. De andere termen, zoals _azijnig_, _gistig_ of _geroosterd_, worden eerder gebruikt om specifieke geuren te identificeren. Het is ongelofelijk moeilijk om exact te kunnen verwoorden wat onze zintuigen waarnemen. Dit verschilt zelfs van persoon tot persoon. Onze ogen registreren vormen en kleuren, waar een culturele consensus over heerst. Op die manier kunnen wij communiceren met anderen, en weten zij waar wij het over hebben. Als het op geuren aankomt wordt die oefening plots heel wat uitdagender. Ik ben eens met vrienden mee geweest naar de Champagne streek in Frankrijk. De trip had als doel om een artisanaal product te importeren dat ook met fermenteren te maken heeft, maar jammer genoeg wel het verkeerde. Tijdens een bezoek aan de lokale Champagne boer werd er gesproken over een _animale geur_ in de wijn. Ik drink geen alcohol en trok onmiddellijk een vies gezicht. Een verkeerde reactie, bleek achteraf. Blijkbaar zijn zeer gewaardeerde wijnen bekend om hun geur naar kattenpis, natte hond of stal. Het probleem met woorden is dat ze voor interpretatie vatbaar zijn. Het beeld dat in mij op kwam toen ik _animaal_ hoorde kwam gelukkig genoeg niet overeen met de wijnkenners onder ons. 
 
+### Smaak
+
 Andere onderzoeken combineren geur en smaak in één categorie, waar de volgende termen in gebruikt worden [@di2015effect]:
 
 > _gesneden broodgeur (Typisch aroma geassocieerd met gesneden brood), scherp (Aroma geassocieerd met azijn doordringende geur), gistig (Aroma geassocieerd met gefermenteerd gistdeeg), geroosterd (Aroma geassocieerd met geroosterde tarwekorrels), zurig (Basissensatie opgewerkt door zuren), vers brood smaak (Typische smaak geassocieerd met geurig brood), oudbakken broodsmaak (Typische smaak geassocieerd met muf brood)_
@@ -65,7 +67,7 @@ Umami wordt in het Engels vaak samen met '_savory_' gebruikt, wat vertaald kan w
 \includepdf[
     scale=1.3,
     angle=90,
-    addtolist={1, figure, {Verschillende soorten fermenten}, img:ferments}    
+    addtolist={1, figure, {Verschillende soorten eigen fermenten. Van links naar rechts: bonen, plakjes gember, gemalen citroen, tarwe zuurdesem, shio koji, miso, rode kool.}, img:ferments}
 ]{ferments.jpg}
 
 De omstreden gewoonte om MSG toe te voegen in verwerkt voedsel zorgde zelfs voor het ontstaan van het 'Chinees restaurant syndroom'. In typisch Chinees voedsel zitten veel smaakversterkers, dat zogezegd symptomen als hevige hoofdpijn en verteringsproblemen kan opleveren. Hier is al erg veel literatuur over gepubliceerd. Een sluitend bewijs dat MSG de enige katalysator van de klachten zou zijn blijft tot nu toe uit [@kerr1977objectivity]. Het syndroom is ook nogal racistisch ingesteld: Westers verwerkt voedsel bevat minstens even veel additieven. In ieder geval lijkt het me beter om de umami smaak op een natuurlijke manier te kweken met zuurdesem, dan het toe te voegen aan je deeg in de vorm van een E nummer. 
