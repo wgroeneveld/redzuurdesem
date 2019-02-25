@@ -1,6 +1,29 @@
 
 ## De esthetiek van brood
 
+### Mei 2016
+
+'Amai, deze is echt mooi!' 'Ja, en groot. Wat een _joekel_. Raak eens aan?' 'Neenee, nog niet, anders is het al besmeurd.' 'Je weet dat je het wilt... Het ziet er hard uit.' 'Oké, heel even dan.' 'Ik zal niet kijken!'
+
+Voordat iemand de verkeerde conclusie trekt: we bevinden ons in het hartje van Parijs, in één van de legendarische Poilâne bakkerijen. Dimitri, Tom en ik schuimden dat weekend alle bakkerijen in kleine en grote straten af, op zoek naar geweldig uitziend en smakend brood (en croissants, en vooral ook aardbeienbavarois). Poilâne staat bekend om zijn _miches_, een heel groot rustiek rond brood versierd met een prachtige bebloemde '`P`'. Dat groot en hard ding dat we aan het bewonderen waren, was een zopas aangekochte _demi_ miche. De broden zijn zo groot (meer dan `2 kg`) dat ze in halven of kwarten verkocht worden. Het brood is niet ingesneden, en heeft dus geen mooie opengebloeide korst. Het is evenmin prachtig van kleur of vorm. En toch doet het zicht van de uitgestalde miches je 'wow' zeggen als je voorbij de vitrine van de bakkerij wandelt. De reden is niet alleen ruwe kracht en eenvoud, maar ook respect. Als bakker herken je immers of er veel of weinig water bij aan de pas kwam, dus of het moeilijk of makkelijk was om zo'n deeg de baas te blijven. 
+
+Brooddeeg heeft buiten de belangrijke gistingtijden namelijk ook nog een vorm nodig, als je niet wilt dat het als een platte pannenkoek uit de oven valt. Brood vorm geven is voor mij dé moeilijkste stap in het hele broodbakproces. Ook al beïnvloed de vorm niet bepaald de smaak, toch kopen we graag een brood dat 'er mooi uit ziet'. Wat is het verschil tussen een sterrenrestaurant en een gewone zaak? Het éérste verschil, wat onmiddelijk opvalt, is de presentatie. Voordat je ook maar iets naar binnen kan werken, hebben je ogen al gegeten. Presenteren is voor een bakker minstens even belangrijk als voor een chef. Top patissiers zijn erg goed in het variëren van smaak en vorm. Patisserie wordt om een of andere reden kritischer beoordeeld met het oog dan brood. Ik neem aan dat brood meer aanschouwd wordt als een noodzakelijk kwaad. 'Ik moet nu eenmaal iets eten.' Wanneer je een brood koopt, en er is geld over voor een éclair, dan 'verwen je jezelf'. Als je enkel dat brood koopt, dan 'moet een mens nu eenmaal eten'. Waarom zou je jezelf niet kunnen verwennen met brood? 
+
+In de praktijk heeft het natuurlijk te maken met de grootte en de ingrediënten. Met suiker worden enorme pronkstukken gemaakt, maar dat wil ik niet op mijn brood hebben. De eindeloze combinaties die verkocht worden bij 'L’Éclair de Génie' in het vierde arrondissement zijn mogelijk doordat men kan spelen met onder andere de toplaag (ganache, aardbeien, munt, citroen, ...), de pudding (vanille, pistache, caramel, amandel, ...), en de vorm. En toch is _less_ vaak ook _more_, zoals de miches van Poilâne. 
+
+Om te begrijpen hoe brood zijn vorm behoudt blijven we nog even in Frankrijk. Professor Raymond Calvel heeft de tweede wereldoorlog meegemaakt. Na de oorlog is het industrialisatieproces van brood in vierde versnelling geschoten. Zelfs in zijn geliefd Frankrijk werd brood nog nauwelijks _a l'ancienne_ gemaakt: hoe meer gebakken op korte tijd, hoe beter. Bakkers werden verleid door het ingeburgerd kapitalistisch wereldbeeld en de dalende prijs van machinerie. Wat er echter nog daalde, was de kwaliteit en de smaak van het typisch Frans brood. Professor Calvel is een van de beroemdste voorvechters verantwoordelijk voor de revival van oude tradities in het broodbakken. Zijn boek 'Le Goût du Pain' puilt uit van de technische informatie over gluten structuren, tarwesoorten en vorm van brood [@calvel]. Calvel is vandaag vooral gekend om de ontwikkeling van de _autolyse_ techniek. 
+
+Tarwedeeg heeft twee fysiek waarneembare eigenschappen: _elasticiteit_ en _uitrekbaarheid_. De eiwitten aanwezig in tarwe haken zich aan elkaar vast zodat lucht gevangen wordt en brood kan rijzen. Dit vasthaken is echter ook een vervelend probleem om met het deeg te werken. Kneden wordt dankzij diezelfde gluten moeilijker. De enzymen die we leerden kennen in hoofdstuk \ref{microbio} spelen hier een grote rol in. Amylase is niet het enige belangrijke enzym dat in bloem zit. Voor de structuur van het deeg zijn de volgende enzymen belangrijk:
+
+* _Protease_. Dit enzym breekt aminozuren tussen eiwitten af. Dat klinkt niet goed, aangezien de zorgvuldig opgebouwde gluten structuur juist nodig is om brood te doen rijzen. Gelukkig genoeg zijn deze jongens vrij bescheiden in hun werk. Ze maken het voor de bakker gemakkelijker om deeg te kunnen kneden. 
+* _Glucose-oxidase_. Maakt door een oxidatiereactie met de gluten het deeg krachtiger en elastischer. 
+* _Lipase_. Toevoeging van extra lipiden in het deeg maakt het deeg krachtiger en stabieler. Lipase helpt de luchtigheid er in te houden wanneer het deeg te lang gerezen heeft.
+* _Xylanase_. Een typische 'conditioner' die het deeg handelbaarder maakt. Hiermee wordt vaak een verbeterde mechanische bewerkbaarheid bedoeld.
+
+De autolyse fase zorgt er via protease voor dat het deeg werkbaar is. Deze fase is niets meer dan een rust fase voordat gist, desem en zout toegevoegd wordt aan het deeg. Bloem en water worden heel kort gemengd, totdat er geen droge bloem meer zichtbaar is. De kneedmachine wordt stilgelegd om de bloem tijd te geven het water op te nemen. Dit bevochtigt enzymen, waardoor de activatie van protease de gluten structuur enigzins verzacht. Een autolyse fase invoeren betekent extra tijd vrijmaken. Industriële processen hebben die tijd niet, en gebruiken onder andere toegevoegde pentosen[^pentose] om meer water te kunnen opnemen. 
+
+[^pentose]: Een polysacharide. Zie hoofdstuk \ref{microbio:suikers}.
+
 structuur, vorm, snijden, ... 
 
 TODO apart hf bloem/graan?
