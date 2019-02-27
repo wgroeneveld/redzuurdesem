@@ -1,8 +1,13 @@
+\frontmatter
 
 \includepdf[
     scale=2.0,
     addtolist={1, figure, {Een mooi opengebloeide korst na het bakken.}, img:korst}
 ]{korst.jpg}
+
+## Voorwoord
+
+Dimitri?
 
 ## Introductie
 
@@ -39,3 +44,5 @@ Hoge standaarden hanteren als het op voedsel aankomt is het enige juiste alterna
 
 
 Volg mij in mijn voetsporen om _natuurlijk_ zuurdesembrood terug onder de mensen te brengen. Volg mij om te leren hoe je moet leren om achter je neus aan te lopen. 
+
+\mainmatter

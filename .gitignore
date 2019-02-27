@@ -2,5 +2,15 @@
 
 *.log
 *.sublime-workspace
+
 content/boek/boek.tex
 content/boek/boek.pdf
+
+*.aux
+*.log
+*.out
+*.lof
+*.ilg
+*.idx
+*.ind
+*.toc

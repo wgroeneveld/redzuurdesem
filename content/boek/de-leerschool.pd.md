@@ -1,5 +1,7 @@
 ## De Leerschool
 
+\label{leerschool}
+
 > '_Mensen koken niet meer maar stellen gerechten samen. Potje hier, flesje daar. Ze halen geen vijzel meer bij maar halen hun masala uit een kant-en-klaar zakje!_' - De Smaak Van De Verovering, Michael Krondl
 
 ### September, 2014: Jaar 1
