@@ -60,9 +60,4 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
     - Duitstalig, en dus soms moelijk te vertalen, zelfs met hulp. Roggebloem (geen meel) is moeilijker verkrijgbaar. 
 
 
-
-\index{boek} boek index test
-
-
-
 ## Referenties

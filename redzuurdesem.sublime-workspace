@@ -520,22 +520,37 @@
 	"buffers":
 	[
 		{
-			"contents": "\n## De esthetiek van brood\n\n> '_The human soul needs actual beauty more than bread._' - D.H. \\mbox{Lawrence}\n\n### Structuur\n\n'Amai, deze is echt mooi!' 'Ja, en groot. Wat een _joekel_. Raak eens aan?' 'Neenee, nog niet, anders is het al besmeurd.' 'Je weet dat je het wilt... Het ziet er hard uit.' 'Oké, heel even dan.' 'Ik zal niet kijken!'\n\nVoordat iemand de verkeerde conclusie trekt: we bevinden ons in het hartje van Parijs, in één van de legendarische Poilâne bakkerijen. Dimitri, Tom en ik schuimden dat weekend alle bakkerijen in kleine en grote straten af, op zoek naar geweldig uitziend en smakend brood (en croissants, en vooral ook aardbeienbavarois). Poilâne staat bekend om zijn _miches_, een heel groot rustiek rond brood versierd met een prachtige bebloemde '`P`'. Dat groot en hard ding dat we aan het bewonderen waren, was een zopas aangekochte _demi_ miche. De broden zijn zo groot (meer dan `2 kg`) dat ze in halven of kwarten verkocht worden. Het brood is niet ingesneden, en heeft dus geen mooie opengebloeide korst. Het is evenmin prachtig van kleur of vorm. En toch doet het zicht van de uitgestalde miches je 'wow' zeggen als je voorbij de vitrine van de bakkerij wandelt. De reden is niet alleen ruwe kracht en eenvoud, maar ook respect. Als bakker herken je immers of er veel of weinig water bij aan de pas kwam, dus of het moeilijk of makkelijk was om zo'n deeg de baas te blijven. \n\nBrooddeeg heeft buiten de belangrijke gistingtijden namelijk ook nog een vorm nodig, als je niet wilt dat het als een platte pannenkoek uit de oven valt. Brood vorm geven is voor mij dé moeilijkste stap in het hele broodbakproces. Ook al beïnvloed de vorm niet bepaald de smaak, toch kopen we graag een brood dat 'er mooi uit ziet'. Wat is het verschil tussen een sterrenrestaurant en een gewone zaak? Het éérste verschil, wat onmiddelijk opvalt, is de presentatie. Voordat je ook maar iets naar binnen kan werken, hebben je ogen al gegeten. Presenteren is voor een bakker minstens even belangrijk als voor een chef. Top patissiers zijn erg goed in het variëren van smaak en vorm. Patisserie wordt om een of andere reden kritischer beoordeeld met het oog dan brood. Ik neem aan dat brood meer aanschouwd wordt als een noodzakelijk kwaad. 'Ik moet nu eenmaal iets eten.' Wanneer je een brood koopt, en er is geld over voor een éclair, dan 'verwen je jezelf'. Als je enkel dat brood koopt, dan 'moet een mens nu eenmaal eten'. Waarom zou je jezelf niet kunnen verwennen met brood? \n\nIn de praktijk heeft het natuurlijk te maken met de grootte en de ingrediënten. Met suiker worden enorme pronkstukken gemaakt, maar dat wil ik niet op mijn brood hebben. De eindeloze combinaties die verkocht worden bij 'L’Éclair de Génie' in het vierde arrondissement zijn mogelijk doordat men kan spelen met onder andere de toplaag (ganache, aardbeien, munt, citroen, ...), de pudding (vanille, pistache, caramel, amandel, ...), en de vorm. En toch is _less_ vaak ook _more_, zoals de miches van Poilâne. \n\nOm te begrijpen hoe brood zijn vorm behoudt blijven we nog even in Frankrijk. Professor Raymond Calvel heeft de tweede wereldoorlog meegemaakt. Na de oorlog is het industrialisatieproces van brood in vierde versnelling geschoten. Zelfs in zijn geliefd Frankrijk werd brood nog nauwelijks _a l'ancienne_ gemaakt: hoe meer gebakken op korte tijd, hoe beter. Bakkers werden verleid door het ingeburgerd kapitalistisch wereldbeeld en de dalende prijs van machinerie. Wat er echter nog daalde, was de kwaliteit en de smaak van het typisch Frans brood. Professor Calvel is een van de beroemdste voorvechters verantwoordelijk voor de revival van oude tradities in het broodbakken. Zijn boek 'Le Goût du Pain' puilt uit van de technische informatie over gluten structuren, tarwesoorten en vorm van brood [@calvel]. Calvel is vandaag vooral gekend om de ontwikkeling van de _autolyse_ techniek. \n\nTarwedeeg heeft twee fysiek waarneembare eigenschappen: _elasticiteit_ en _uitrekbaarheid_. Dit is te danken aan twee groepen van gluten eiwitten in tarwe: _glutenine_ zorgt voor de elasticiteit, en _gliadine_ voor de uitrekbaarheid. De juiste balans tussen deze twee eigenschappen zorgt voor een superieur brood op gebied van kruim en vorm [@barak2013relationship]. Het totale eiwitgehalte van bloem is niet de enige indicator om volume van brood te voorspellen. Te weinig elasticiteit kan tot een gebakken baksteen leiden. Te veel elasticiteit belemmert de uitzetting van gascellen. Opnieuw een baksteen. Na decenia gekibbel zijn wetenschappers het nog steeds niet eens wat de juiste verhouding tussen glutenine en gliadine zou moeten zijn om hét perfecte brood uit de oven te toveren. \n\nDeze eiwitten haken zich aan elkaar vast zodat lucht gevangen wordt en brood kan rijzen. Dit vasthaken is echter ook een vervelend probleem om met het deeg te werken. Kneden wordt dankzij diezelfde gluten moeilijker. De enzymen die we leerden kennen in hoofdstuk \\ref{microbio} spelen hier een grote rol in. Amylase is niet het enige belangrijke enzym dat in bloem zit. Voor de structuur van het deeg zijn de volgende enzymen belangrijk:\n\n* _Protease_. Dit enzym breekt aminozuren tussen eiwitten af. Dat klinkt niet goed, aangezien de zorgvuldig opgebouwde gluten structuur juist nodig is om brood te doen rijzen. Gelukkig genoeg zijn deze jongens vrij bescheiden in hun werk. Ze maken het voor de bakker gemakkelijker om deeg te kunnen kneden. \n* _Glucose-oxidase_. Maakt door een oxidatiereactie met de gluten het deeg krachtiger en elastischer. \n* _Lipase_. Lipase helpt de luchtigheid er in te houden wanneer het deeg te lang gerezen heeft. Dit enzym versnelt de opneembaarheid van aanwezige vetten[^hydro] (lipiden).\n* _Xylanase_. Een typische 'conditioner' die het deeg handelbaarder maakt. Hiermee wordt vaak een verbeterde mechanische bewerkbaarheid[^bewerk] bedoeld.\n\n[^hydro]: Dit proces noemt men _hydrolyse_, de splitsing van een chemische verbinding onder opname van water. \n\nDe autolyse fase zorgt er via protease voor dat het deeg werkbaar is. Deze fase is niets meer dan een rust fase voordat gist, desem en zout toegevoegd wordt aan het deeg. Bloem en water worden heel kort gemengd, totdat er geen droge bloem meer zichtbaar is. De kneedmachine wordt stilgelegd om de bloem tijd te geven het water op te nemen. Bevochtigd bloem betekent de start van gluten vorming, maar ook de de activatie van protease die deze gluten enigzins verzacht. Een autolyse fase invoeren betekent extra tijd vrijmaken. Industriële processen hebben die tijd niet, en gebruiken onder andere toegevoegde pentosen[^pentose] om meer water te kunnen opnemen. Hoe meer tijd deeg krijgt, hoe meer gluten gevormd worden zonder manuele interventie in de vorm van kneden. Het voordeeg van een zuurdesemdeeg heeft uren nodig gehad om smaak en gisten te ontwikkelen. Calvel's autolyse marginaliseert de nood aan kneden nog meer. \n\n[^bewerk]: _Machinability_ is een belangrijk onderwerp van wetenschappelijk onderzoek naar brood. Jammer genoeg heeft dit maar één reden: opbrengst. \n[^pentose]: Een polysacharide. Zie hoofdstuk \\ref{microbio:suikers}.\n\nEen laag of hoog eiwitgehalte is dus niet het grootste verschil tussen falen en succes. In Frankrijk worden sommige broden met een laag eiwitgehalte gebakken. Tarwe met minder dan `10%` eiwit wordt aanschouwd als _zachte_, of _zwakke_ tarwe. _Harde_ tarwe bevat meer eiwitten. Ook de oogsttijd beïnvloed het eiwitgehalte. Tarwe geplant in het najaar en geoogst na de lente noemt men (zachte of harde) _wintertarwe_. Tarwe geplant in het voorjaar en geoogst in datzelfde najaar noemt men (zachte of harde) _lentetarwe_. Harde wintertarwe heeft een eiwitgehalte van `10` tot `12%`. Voor harde lentetarwe is dit `12` tot `14%`.\n\nHoe zit dat dan met rogge? Iedereen die al ooit roggebrood met de hand gekneed heeft weet dat dit kleverig goedje opmerkelijk verschilt met een typisch tarwedeeg. Om te beginnen beschikt rogge maar over één van de twee gluten eiwitten: gliadine. Geen elasticiteit dus, en dat zorgt automatisch voor een veel dichter kruim. Dankzij de gliadine is er nog wel iets van de gascellen aanwezig in de oven die het brood doen rijzen, maar niet veel. In de praktijk wordt roggebrood altijd gemengd met tarwebloem om dit gemis te kunnen compenseren. Een brood met `100%` roggemeel zal altijd een baksteen zijn.\n\nRoggebloem bevat veel pentosen (`4` tot `7%`), een soort koolhydraat dat minder prominent aanwezig is bij tarwe. Pentose zorgt voor de gekende kleverigheid van het deeg. Door dit kleverig goedje geeft roggedeeg toch nog de ilusie om te rijzen. Het zorgt voor de nodige ondersteuning in afwezigheid van een sterke gluten structuur. Rogge wordt dankzij die plakkerigheid ook gebruikt in de lijm-, match- en kunststofindustrie [@kent1994kent][^kleverig]. Zetmeel is veel belangrijker in roggebloem dan in tarwebloem. Roggebloem neemt veel meer water op dan tarwe door het hoger volume van aanwezige zetmelen en pentosen. Omdat het eiwitgehalte van rogge minder relevant is dan bij tarwe, worden er niet zo'n grote indelingen gemaakt voor dit graan. \n\n[^kleverig]: Als je weet dat kleverige polysacharides zorgen voor een betere wateropname, wat doe je dan als slimme bakker? Dit als additief gebruiken, natuurlijk! Dat is zelfs een aparte categorie in de lijst met E nummers, onder '_Emulgatoren, stabilisatoren, verdikkingsmiddelen en geleermiddelen_'. Guar-, Xanthaan- en taragom, lecithine, pectine, cellulose, ... \n\nAlle degen met meer dan de helft roggemeel moeten worden aangezuurd omdat zure omstandigheden de zwelkracht van de pentosanen verbeteren. Dit kan met zuurdesem, maar ook met toegevoegd azijn. De aciditeit heeft als tweede belangrijke reden dat amylase minder actief wordt [@seibel1991sourdough]. Weet je nog dat amylase complexe suikers helpt opknippen in simpele stranden? Juist omdat zetmeel belangrijker is in roggemeel, moet ook amylase beter onder controle gehouden worden bij deze soorten deeg. Roggebrood met commerciële gist (en zonder toegevoegde azijn) zal daardoor sneller inzakken tijdens het rijzen dan tarwebrood. Enzymatische activiteit van alfa-amylase wordt via gelatinisatie in laboratoria gemeten met speciale apparatuur om de kwaliteit op voorhand te kunnen inschatten. Veel verkocht roggebrood helemaal geen echt roggebrood: het bevat nog geen `30%` aan rogge. Vraag bij afwezigheid van een duidelijke ingrediëntenlijst altijd naar de technise fiche.\n\nUniformiteit van de structuur van het kruim is voor fans van cocopasta een belangrijke eigenschap van brood. Een sneetje met choco, wie houdt daar nu niet van? Mensen die op zoek zijn naar rustiek brood met een mooie, open kruim. Grote gaten zijn niets dat een plakje kaas niet weggewerkt krijgt. Daar dan ook nog choco op smeren lijkt mij een brug te ver. Een open kruim verkrijg je onder andere door veel water te gebruiken, en niet te veel te kneden. Een verdeelde, dichte kruim verkrijg je door een intensieve kneedmethode. Het kruim wordt nog zachter gemaakt door toevoeging van boter en melk. Denk maar aan het melkbrood en de sandwiches van hoofdstuk \\ref{leerschool}. Om tot een échte zijdezachte korst en kruim te komen, heeft men in Japan een 'water roux' techniek bedacht, genaamd _tangzhong_ of _yu-dane_. Een deel van het bloem wordt gekookt met water of melk om de textuur van het brood te verbeteren. Rond de `65 °C` gelatineert het zetmeel [@chen]. Zoals bij pentosen houdt dit gegelatineerd goedje het vocht veel beter vast. Het gevolg is een heel zacht brood. \n\nVoorbeelden van broden gemaakt met de yu-dane methode zijn Hokkaido (melkbrood) en Shokupan. \n\nTODO tangzhong method: tenderness, uniformity of crumb, easy-to-eat crusts. iets over kruim, open gaatjes, hoe/wat. \n\n### Vorm\n\nTODO batard, boule, 'vloerbrood', 'kusbrood', 'busbrood'. iets over insnijden. pain de mie. \n\n### Kleur\n\nDe kleur van de korst wordt niet alleen bepaald door de aanwezige suikers en eiwitten die in aanraking komen met hitte. Tijdens het groeien ontwikkelen tarwebessen in de zemellaag bepaalde pigmenten die een rode kleur afgeven. Dit pigment brengt naast kleur ook smaak met zich mee. _Rode_ tarwe bevat meer van deze pigmenten dan _witte_ tarwe. Tarwe is dus in te delen in combinaties van hard of zacht, winter of lente, en rood of wit. \n\n\\newpage\n\n### Wat ik geleerd heb\n\nbla\n\n",
-			"file": "content/boek/structuur.pd.md",
-			"file_size": 12244,
-			"file_write_time": 131956692970000000,
+			"file": "content/boek/preamble.tex",
 			"settings":
 			{
-				"buffer_size": 12318,
+				"buffer_size": 479,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/boek/boek.bib",
+			"file": "content/boek/epiloog.pd.md",
 			"settings":
 			{
-				"buffer_size": 13752,
+				"buffer_size": 4835,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/Makefile",
+			"settings":
+			{
+				"buffer_size": 811,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -643,13 +658,19 @@
 	],
 	"file_history":
 	[
-		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/test.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.tex",
+		"/Users/jefklak/development/redzuurdesem/content/boek/test_template.tex",
+		"/Users/jefklak/development/redzuurdesem/content/boek/afterbody.tex",
+		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/crashcursus-microbiologie.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
+		"/Users/jefklak/development/redzuurdesem/content/boek/intermezzo.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/preamble.tex",
 		"/Users/jefklak/development/redzuurdesem/content/boek/epiloog.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/intro.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
-		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
 		"/Users/jefklak/development/redzuurdesem/content/boek/recept.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/kabouters.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/geur.pd.md",
@@ -657,7 +678,6 @@
 		"/Users/jefklak/development/redzuurdesem/content/boek/levenslang-leren.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/de-echte-leerschool.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/refs.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
 		"/Users/jefklak/development/phd/content/src/programma/management.md",
 		"/Users/jefklak/development/phd/content/src/onderzoek/voorstellen/iop_gantt.md",
 		"/Users/jefklak/development/phd/content/src/onderzoek/voorstellen/iop_call_2019.pd.md",
@@ -765,12 +785,7 @@
 		"/Users/jefklak/development/phd/content/src/verslagen/20181211_lesec.md",
 		"/Users/jefklak/development/phd/static/slides/20181211_lesec.md",
 		"/Users/jefklak/development/phd/content/src/definities.md",
-		"/Users/jefklak/development/phd/.gitattributes",
-		"/Users/jefklak/development/phd/content/src/onderzoek/voorstellen/delphi.md",
-		"/Users/jefklak/development/phd/content/src/links.md",
-		"/Users/jefklak/development/phd/docs/.gitattributes",
-		"/Users/jefklak/development/phd/content/src/artikels/considerations_in_unittesting_assembly.pdf",
-		"/Users/jefklak/.pandoc/ieee_software.latex"
+		"/Users/jefklak/development/phd/.gitattributes"
 	],
 	"find":
 	{
@@ -789,6 +804,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"titleinde",
+			"wilde gisten",
+			"pannenk",
+			"pannek",
 			"japann",
 			"jappa",
 			"lipi",
@@ -848,32 +867,32 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/boek/structuur.pd.md",
+					"file": "content/boek/preamble.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12318,
+						"buffer_size": 479,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11511,
-								11511
+								479,
+								479
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 3272,
-								"count": 1917,
+								"changes": 36,
+								"count": 14,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -881,79 +900,6 @@
 							},
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
 							"bracket_highlighter.locations":
 							{
 								"close":
@@ -971,159 +917,154 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 3627.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "content/boek/boek.bib",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								835,
-								831
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 69,
-								"count": 969,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/boek/epiloog.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4787,
+								4787
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 6,
+								"count": 678,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1134,37 +1075,27 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										948,
-										949
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										830,
-										831
-									]
 								},
 								"unmatched":
 								{
@@ -1172,72 +1103,371 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/LaTeX/Bibtex.sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 99.0,
+						"translation.y": 1836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 17,
+								"count": 2,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/boek/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 352,
+								"count": 62,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1299,6 +1529,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"epilo",
+				"content/boek/epiloog.pd.md"
+			],
+			[
+				"interm",
+				"content/boek/intermezzo.pd.md"
+			],
 			[
 				".bib",
 				"content/boek/boek.bib"
@@ -1802,14 +2040,6 @@
 			[
 				"bestel",
 				"bestel.php"
-			],
-			[
-				"watisde",
-				"templates/modals/watisdesem.html"
-			],
-			[
-				"waaromd",
-				"templates/modals/waaromdesem.html"
 			]
 		],
 		"width": 0.0
@@ -1822,7 +2052,7 @@
 		[
 			[
 				"",
-				"~/development/brainbaking/brainbaking.sublime-project"
+				"~/development/phd/phd.sublime-project"
 			],
 			[
 				"brai",
