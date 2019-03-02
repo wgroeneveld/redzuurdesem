@@ -144,7 +144,7 @@ Laat ons eens de individuele componenten van een verbeteraar onder de loep nemen
 - _Vetstoffen_: geeft een beter kruim en onder andere een langere houdbaarheid. 
 - _Emulgatoren_:  zorgen voor een betere verdeling (‘_emulgeren_’) van vloeistoffen die normaal niet zo makkelijk mengbaar zijn, zoals vetten. Monoglyceriden en lecithine zijn hier voorbeelden van.
 
-Additieven zijn niet altijd even vriendelijk als ze er uit zien. Nadat wetenschappers hebben ontdekt dat kaliumbromaat op lange termijn giftig kan zijn, heeft de EU beslist dit als nummer E 924 op de verboden lijst te plaatsen [@fisher1979long]. Toevoegingen als vitamine C en enzymen zijn natuurlijk onschadelijk. Als ik brood bij de bakker koop, weet ik echter niet welke stoffen in de verbeteraar zitten. Dus: hoe minder ingrediënten, hoe beter. Hoe puurder, hoe beter. 
+Een uitvoerige beschrijving van hun werking komt in deel \ref{theorie} aan bod. Additieven zijn niet altijd even vriendelijk als ze er uit zien. Nadat wetenschappers hebben ontdekt dat kaliumbromaat op lange termijn giftig kan zijn, heeft de EU beslist dit als nummer E 924 op de verboden lijst te plaatsen [@fisher1979long]. Toevoegingen als vitamine C en enzymen zijn ssnatuurlijk onschadelijk. Als ik brood bij de bakker koop, weet ik echter niet welke stoffen in de verbeteraar zitten. Dus: hoe minder ingrediënten, hoe beter. Hoe puurder, hoe beter. 
 
 [^16]: Zie [http://www.unifa.be/start/publicaties/nl](http://www.unifa.be/start/publicaties/nl). [http://www.classofoods.com](http://www.classofoods.com) gaat dieper in op deze stoffen en hun chemische reacties. 
 
