@@ -9,7 +9,7 @@
 
 Dimitri?
 
-## Introductie
+## Inleiding
 
 > '_Happiness is bread baking._' - KC, [Sourdough.com](https://sourdough.com)
 
@@ -56,7 +56,7 @@ Om een of andere reden kent de wereld van brood de laatste jaren een invasie van
 
 En als er iets mislukt, vloek ik nog steeds, maar doe ik dat al glimlachend. De keuken is, zoals Kristien dat noemt, _ontploft_, maar ik heb nog steeds het onweerstaanbare aroma van versgebakken brood weten in huis te halen. 
 
-Langs de andere kant is de alsmaar technischer wordende visie van de moderne mens, gepaard met de wens om te blijven 'innoveren', heel gevaarlijk voor de toekomst van voedzaam brood. De invloed van techniek op een ambacht als brood bakken is groot, maar niet radicaal. Sommige 'innovators' denken de fundamenten van het broodbakproces dat al zesduizend jaar in stand gehouden wordt te kunnen ontwrichten. Dat noem ik pure arrogantie. Op dat moment komt mijn gezonde achterdocht voor industrialisatie terug naar boven. Op dat moment moet inderdaad zuurdesem gered worden. Die weerstand tegen innovatie blijkt een dunne lijn te zijn tussen gezonde en hardnekkige weerstand.
+Langs de andere kant is de alsmaar technischer wordende visie van de moderne mens, gepaard met de wens om te blijven 'innoveren', heel gevaarlijk voor de toekomst van voedzaam brood. De invloed van techniek op een ambacht als brood bakken is groot, maar niet radicaal. Sommige 'innovators' denken de fundamenten van het broodbakproces dat al zesduizend jaar in stand gehouden wordt te kunnen ontwrichten. Dat noem ik pure arrogantie. Op dat moment komt mijn gezonde achterdocht voor industrialisatie terug naar boven. Op dat moment moet inderdaad zuurdesem gered worden. Die weerstand tegen innovatie blijkt een dunne lijn te zijn tussen gezonde en hardnekkige weerstand. Dat is de tweede belangrijke reden om iets te leren over de wetenschap van ons voedsel. We moeten wel: het ziet er niet naar uit dat industriële 'innovatie' binnenkort gaat vertragen. Ik wil weten wat er in mijn eten zit voordat het in mijn maag terechtkomt. En dat geldt ook voor mijn dagelijks brood. 
 
 Volg mij in mijn voetsporen om _natuurlijk_ zuurdesembrood terug onder de mensen te brengen. Volg mij om te leren hoe je moet leren om kritisch achter je neus aan te lopen. 
 
