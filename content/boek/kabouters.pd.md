@@ -4,6 +4,8 @@
 
 ## Het begint allemaal met een kabouter
 
+\label{kabouter}
+
 > '_Eat (good) food. Mostly plants. Not too much._' - David Pollan, In Defense of Food
 
 ### Augustus 2010

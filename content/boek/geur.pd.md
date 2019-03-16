@@ -97,7 +97,7 @@ TODO overgang hf
 
 \newpage
 
-### Wat ik geleerd heb
+### Samenvatting
 
 * Laat je niet misleiden door slogans als 'ambachtelijk en vers gebakken'. 
 * De korst en het kruim van brood kunnen verschillende geuren oproepen.

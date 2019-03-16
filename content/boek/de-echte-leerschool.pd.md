@@ -71,6 +71,8 @@ En zo begon ik mijn eerste dag met mijn mouwen op te stropen, de weegschaal in h
 
 #### Dag 2
 
+De canelés waren aangebrand. 
+
 > ‘_Ik ben zo moe!_’ moest ik van Eline hier schrijven. Ze is er mee aan het lachen. Eten voor het personeel na drie uur, middag service. Ik heb een paar dingen serieus laten verbranden maar heb constant aan Eline gevraagd of het oké was, dus ja wist ik veel. ‘s Morgens opent De Superette om negen dus croissants en broodpudding en zo moeten al in de vitrine liggen dan. Daarna taarten en cakes bakken voor de keuken, brownies, en tussendoor nieuwe batches maken. Er wordt veel op gevoel gewerkt: constant naar de oven kijken en timen op tien minuten. Niemand kan precies zeggen hoe lang iets moet of hoe donker de karamel moet zijn. De pijn in mijn rug zorgt nu al voor ongevoelige tenen... De werkdruk valt mee vandaag - de eerste dag was het ergste, en ik heb veel hulp gehad vandaag. Brooddeeg helpen opdelen (`800 gr` en `1150 gr`) - supernat deeg van `81%`! Afwegen met een analoge weegschaal en gewichten. Opletten met te veel water toevoegen aan de deegschraper en het weegoppervlak. Het deeg is warm en ruikt naar jonge _levain_[^levain], hoe lang heeft dit gerezen? Er zitten niet super veel bubbeltjes in. Ik fermenteer thuis misschien te lang? Mijn voordeeg is té zuur (azijn in plaats van melk) door de koelkast. Begin er wel wat in te komen, echt wel zwaar werk en geen enkel moment om even op adem te komen. Totaal niet vergelijkbaar met wat ik normaal doe. Hopelijk verdient iedereen hier goed, inclusief de afwassers. Iedereen praat Engels, wel grappig. De mannen van het restaurant _Magis_ te Tongeren komen wat hulp vragen aan Sarah over bakken met zuurdesem, en ik heb Kobe’s _polleke_ geschud, dus mijn dag is goed!  
 
 [^levain]: Afhankelijk van de bakkerij, wordt het woord 'levain', 'leaven', 'desem', 'starter' of 'sourdough' gebruikt om aan te geven dat het over natuurlijke gisting van het deeg gaat. 
@@ -111,6 +113,7 @@ Van Sam heb ik geleerd om op een andere manier tegen dingen aan te kijken. Om al
 Het is jammer dat ik pas ten volle besefte wat ik van mensen als Sam geleerd heb toen de stage er op zat. 
 
 \index{Windowpane, kneden tot}
+\index{Autolyse}
 
 Het brooddeeg verdelen was een onmogelijke opdracht. De ingrediënten worden zonder zout in de kneder gecombineerd tot een los samenhangend geheel. Dan wordt de machine stilgelegd, het zout toegevoegd, en krijgt de bloem ademruimte om het water te absorberen. Dit is de _autolyse_ fase. Werken met zoveel water (meer dan `800 gr` op `1000 gr` bloem) vereist wat ingenieuze trucjes, zoals deze fase, om toch tot een consistent deeg te komen. Na een tijdje kneedt de machine het deeg verder totdat het glutennetwerk volledig ontwikkeld is. Er wordt niet gevouwen om kracht in het deeg op te bouwen, dus die kracht zal daarvoor al voldoende aanwezig moeten zijn in het deeg. 'Wij kneden to _windowpane_[^window]. Er is te weinig plaats om te vouwen, en het kost tijd. Plus het is niet eenvoudig om zo’n nat deeg op tafel te smijten om het even te vouwen' vertelde Sarah me.
 
@@ -136,6 +139,8 @@ Hoe hoger het getal, hoe meer water de bloem kan absorberen. Dit heeft niet alle
 
 #### Dag 4
 
+De canelés waren niet doorbakken. Ik slik de zoveelste vloek in, leg de mislukking aan de kant en probeer opnieuw. 
+
 > ‘_I just want to see some friends and family..._’ ‘_Yeah, I know exactly how you feel._’ ‘Als ik werk, die dagen heb ik geen leven. Daarom werk ik maar 4 dagen op 5.’ Zeer goede motivatoren om te gaan werken in de horeca. Zo lang werken op een dag met minimale pauze is echt zottenwerk. Maar een mens wordt het snel gewoon als ik kijk naar dag 1. Ik eet ‘s avonds niet mee omdat ik op mijn gemak wil zijn. Poolish[^poo]: `100%` hydratatie, `0.35%` verse gist, ‘s nachts laten rusten in emmers. 
 
 Bakkers en koks komen van ver om te leren van de besten. Het is hard en lang werken, en ik kwam in een periode terecht waar iedereen uitkeek naar de welverdiende kerstvakantie. En toch bestaan woorden als lummelen niet zodra je De Superette binnen wandelt - behalve als hongerige klant. De mentaliteit van deze mensen is erg indrukwekkend: zonder meer verhuizen naar België om lange uren te komen kloppen. Sofie, kok en enige andere Limburgse, zei me eens ‘_ge moet het graag doen om het graag te doen_’. Die uitdrukking spookt nog steeds door mijn hoofd als het bij mij even tegen zit. Sofie en ik kletsen graag over thuis, en eindigen dan meestal met een bespreking van favoriete traditionele recepten. Vlaaien voornamelijk. Taart met gistdeeg is iets typisch Limburgs. Eline en Sofie kregen me zover om tussen de drukke momenten door een _knobbeltjesvlaai_ uit mijn mouw te schudden - zonder dat ranzige zout in de pudding. Ghislain zou trots op me geweest zijn.  
@@ -151,6 +156,8 @@ Ik kende voor mijn stage totaal niets van het reilen en zeilen in de horeca.  Mi
 
 #### Dag 6
 
+Ik schakel de hulp van Sophia in om mijn argwaan tegen de perfecte baktijd van die vervloekte canelés onder controle te krijgen. Toch slagen we er samen in om de oven een paar seconden te lang uit het oog te verliezen. 
+
 > Hard werken bij voorbereidingsdagen, al vond ik dat het minder stressvol aanvoelde dan als De Superette zelf open is en er vanalles tegelijkertijd aan de hand is. Ben vergeten te kijken naar de shortbreads... Frangipane zonder melk en bloem? Speciaal. _Pastry cream_[^cream] met 15 g zout blijf ik vies vinden, of heeft alleszins een speciale smaak waar ik niet snel aan zal wennen. Ghislain zijn recept met vanille is zoeter, maar valt zwaarder.
 
 [^cream]: Banketbakkersroom.
@@ -161,6 +168,8 @@ Een recept uitproberen waar je geen referentiepunt van hebt is moeilijker om te 
 Dimitri en Patrick kwamen me die middag een hart onder de riem te steken. Het drukste moment van de dag zit er voor mij dan al op. Namiddag wordt de bakkerij gedomineerd door brood en poetsen. Dat laatste is natuurlijk het perfecte werkje voor een stagair. Terwijl mijn vrienden al lachend aan de toog hun pizza naar binnen werken, probeer ik al dweilend mijn kalmte te bewaren. 'Ja Wouter, ik moet zeggen, dat staat u goed zo, die schort!' grapt Patrick. Ik mompel iets van 'deeg controleren' en verdwijn voor het volgende uur in mijn hoekje naast de Salva.
 
 #### Dag 7
+
+'_Good job on the canelés, Wouter!_' Eindelijk zeg. Ik leer een van die perfecte exemplaren een lesje door ze in mijn mond te laten verdwijnen. De smaak van de overwinning proeft verdacht veel naar rum. 
 
 > Als ik naar de trucjes kijk van de keuken, leer ik ook veel bij over smaken en complexiteit toevoegen aan gerechten. De oven wordt veel gebruikt om groenten te roosteren. Echt alles wordt geroosterd: voorbereidingswerk! Thermomix sauzen en afwerken met spuitbussen. Eigen bouillons met gedroogde groenten Gefermenteerde dingen als smaakmakers: kimchi, gedroogde zuurkool, melkkefir room, ... Ook chutney’s. Altijd smaakmakers gebruiken! Gebruik alles van groenten zoals bloemkool bladeren. Hergebruik overschotjes zoals cake drogen en als crumble in ijs verwerken. Reduceren en pureren om smaken te concentreren. _Prep-werk_ is alles: alles klaar hebben doet veel.
 
@@ -184,6 +193,8 @@ En Sarah zei dat ik het toch goed overleefd had.
 Terug thuis duurde het maanden om volledig te vatten wat ik allemaal geleerd heb. Het kostte me eerlijk gezegd wat moeite om mijn dagelijks leven terug op te pikken. Er leek geen dynamiek te zitten in mijn huidig werk, in vergelijking met het avontuur in Gent. Ik begon nog meer dan anders te fantaseren over een eigen bakkerij. 
 
 Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn relaties met boer en molenaar te versterken. Ik wist ondertussen wat ik met bloem kon doen, maar nog niet echt waar het vandaan kwam, en hoe het gemalen werd. 
+
+TODO einde herwerken voor aansluiting hf
 
 \newpage
 
