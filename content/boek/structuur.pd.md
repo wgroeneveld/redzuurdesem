@@ -89,11 +89,11 @@ Een modernere manier om een mooie rijs en even kruim is te bereiken door opnieuw
 
 We zijn nog niet klaar met verbeteraars (Ik hoop jullie wel na het lezen van dit boek). De laatste grote groep zijn _emulgatoren_. Verschillende soorten emulgatoren hebben elk een eigen functie: van een uniforme kruim, betere gluten vorming, verminderen van de kneedtijd tot verhoogde zachtheid en waterabsorptie. Brood gebakken met emulgatoren blijven langer goed, hebben een zachtere korst en een even kruim. Het verzachtend effect is nog meer uitgesproken bij volkoren brood [@indrani2008functions]. Een andere leuke bijwerking in gegist deeg is het verlaten van korstvorming tijdens het bakken. Brood `2.0`: een 'betere' versie van zichzelf. Een emulgator verzorgt het homogeen vermengen van vloeistoffen en vetten, zoals in melk. Blijkbaar is het goedje een soort van wondermiddel in brood, behalve dat ik juist een onevenredige kruim wil mét een goed knapperige korst. Voorbeelden van veel gebruikte emulgatoren zijn lecithine (terug te vinden in eidooiers) en mono- en diglyceriden.
 
-Om tot een échte zijdezachte korst en kruim te komen, heeft men in Japan een 'water roux' techniek bedacht, genaamd _tangzhong_ of _yu-dane_. Een deel van het bloem wordt gekookt met water of melk om de textuur van het brood te verbeteren. Rond de `65 °C` gelatineert het zetmeel [@chen]. Net zoals de pentosen van roggebloem, houdt dit gegelatineerd goedje het vocht veel beter vast. Het gevolg is een heel zacht brood. Deze techniek heb ik nog nooit in Europese bakkerijen toegepast gezien. Blijkbaar zouden veel Japanse bedrijven een patent hebben op een variant van de methode. Het is niet alleen een kwestie van rechten, maar ook van praktische haalbaarheid. Het gelatineren van zetmeel voor een deeg van `50 kg` vereist een grote ketel om het boeltje in te koken. Dat betekent dan weer inboeten aan kostbare ruimte in de bakkerij. In de praktijk wordt voor een zacht brood te maken een beetje vetstof toegevoegd, en een intensieve kneedmethode gebruikt. Hoe meer vet, hoe meer kneden nodig is om de vetten evenredig te verdelen. Hoe meer kneden, hoe zachter het kruim. Sandwiches zijn daarom dé referentie op gebied van vet én een zacht kruim. Mijn tientallen pogingen om sandwiches met de hand te kneden draaien altijd uit op een lichte teleurstelling bij het open snijden van een broodje. De zachte structuur is onmogelijk te bereiken zonder intensief machinaal te kneden. Eigenaars van een keukenrobot moeten opletten met hun interpretatie van het woord 'intensief': dat betekent niet automatisch op de hoogste stand, maar wel lang genoeg totdat de gluten volledig ontwikkeld zijn. Om dat te controleren is de _windowpane_ methode uitgevonden. 
+Om tot een échte zijdezachte korst en kruim te komen, heeft men in Japan een 'water roux' techniek bedacht, genaamd _yudane_ (_湯種_), of in het Chinees _tangzhong_. Een deel van het bloem wordt gekookt met water of melk om de textuur van het brood te verbeteren. Rond de `65 °C` gelatineert het zetmeel [@chen]. Net zoals de pentosen van roggebloem, houdt dit gegelatineerd goedje het vocht veel beter vast. Het gevolg is een heel zacht brood. Deze techniek heb ik nog nooit in Europese bakkerijen toegepast gezien. Blijkbaar zouden veel Japanse bedrijven een patent hebben op een variant van de methode. Het is niet alleen een kwestie van rechten, maar ook van praktische haalbaarheid. Het gelatineren van zetmeel voor een deeg van `50 kg` vereist een grote ketel om het boeltje in te koken. Dat betekent dan weer inboeten aan kostbare ruimte in de bakkerij. In de praktijk wordt voor een zacht brood te maken een beetje vetstof toegevoegd, en een intensieve kneedmethode gebruikt. Hoe meer vet, hoe meer kneden nodig is om de vetten evenredig te verdelen. Hoe meer kneden, hoe zachter het kruim. Sandwiches zijn daarom dé referentie op gebied van vet én een zacht kruim. Mijn tientallen pogingen om sandwiches met de hand te kneden draaien altijd uit op een lichte teleurstelling bij het open snijden van een broodje. De zachte structuur is onmogelijk te bereiken zonder intensief machinaal te kneden. Eigenaars van een keukenrobot moeten opletten met hun interpretatie van het woord 'intensief': dat betekent niet automatisch op de hoogste stand, maar wel lang genoeg totdat de gluten volledig ontwikkeld zijn. Om dat te controleren is de _windowpane_ methode uitgevonden. 
 
 ### Vorm
 
-Een populaire versie van brood gemaakt met de _yu-dane_ methode is 'Hokkaido'  of 'Shokupan' brood. Een prachtig Japans zeidezacht wit '_busbrood_', verrijkt met room, boter, eieren en een schadelijke hoeveelheid suiker. Dit is de Aziatische tegenhanger van onze _brioche_. Zoals de naam aangeeft, worden deze broden meestal gebakken in een langwerpig bakblik. In Frankrijk kan je dit brood kopen als '_pain de mie_'. Het sponzige Amerikaanse 'Wonder Bread' (en andere industriële verwanten) komt ook uit een bakblik. Oven ruimte moet gemaximaliseerd worden. Een bakblik zorgt er niet alleen voor dat het brood zijn structuur behoudt door naar boven te rijzen in plaats van opzij, maar ook dat ze makkelijker naast elkaar te plaatsen zijn in de oven. In fabrieken rollen deze broodvormen het meeste van de band. 
+Een populaire versie van brood gemaakt met de _yudane_ methode is '_Hokkaido_'  of '_Shokupan (食パン)_' brood. Een prachtig Japans zeidezacht wit '_busbrood_', verrijkt met room, boter, eieren en een schadelijke hoeveelheid suiker. Dit is de Aziatische tegenhanger van onze _brioche_. Zoals de naam aangeeft, worden deze broden meestal gebakken in een langwerpig bakblik. In Frankrijk kan je dit brood kopen als '_pain de mie_'. Het sponzige Amerikaanse 'Wonder Bread' (en andere industriële verwanten) komt ook uit een bakblik. Oven ruimte moet gemaximaliseerd worden. Een bakblik zorgt er niet alleen voor dat het brood zijn structuur behoudt door naar boven te rijzen in plaats van opzij, maar ook dat ze makkelijker naast elkaar te plaatsen zijn in de oven. In fabrieken rollen deze broodvormen het meeste van de band. 
 
 \index{Preshaping}
 \index{Voorvormen}
@@ -142,13 +142,17 @@ De gegevens komen van het Amerikaanse 'Freedonia Group' gespecialiseerd in markt
 
 [^stijging]: Deze populatie gegevens komen van het US Census Bureau, via Statista.
 
-### Het Experiment
+### Een enzymen experiment
 
 Wetenschappelijke studies lezen is leuk tot op het moment waarop mijn handen beginnen te jeuken. Toen ik las dat koji samen met mout een veel gebruikte bron is van alfa-amylase, besloot ik dit in de vorm van een experiment in mijn eigen keuken na te bootsen. Ik wilde wel eens zien hoe sterk dat effect van toegevoegde amylase is vergeleken met brood dat ik gebruikelijk bak. Om de proef een minimale wetenschappelijke waarde te geven had ik nood aan extra uitrusting: een rijskast. Een afgebakende omgeving waarin ik de temperatuur tot op de graad zelf kan bepalen, en constant kan houden. Dat was slechts een kwestie van een ongebruikte koelkast om te bouwen van koelen naar verwarmen. Het enige wat ik daar voor nodig bleek te hebben was een lamp en een thermostaat tussenstekker. De geïsoleerde ruimte houdt de warmte van de lamp vast, die door de thermostaat tussen vooraf ingesteld interval aan- en uitgeschakeld wordt. De lamp in kwestie moet genoeg hitte kunnen genereren verspreid over een relatief grote ruimte, dus een `40W` halogeenspot is de beste optie. Om de warmte snel te kunnen verdelen monteerde ik, met hulp van mijn schoonvader als electronica-expert, een `12V` ventilator van een oude desktop PC achter de lamp. 
 
-Die incubatieruimte gebruik ik sindsdien met groot succes om tempeh en koji mee te maken, volgens het stappenplan van Sandor Katz [@katz]. Het grootste probleem is echter de juiste soort van _Rhizopus oligosporus_ in het geval van tempeh en _Aspergillus oryzae_ in het geval van koji vast te krijgen. In België is koji zo goed als onbekend. Met héél veel geluk kun je het voorverpakt vinden in een biologische speciaalzaak. Ik wilde echter geen kant-en-klare koji kopen, maar sporen van de schimmel zelf. Op naar een obscure Japanse online winkeltje dus - of gewoon eBay. '_Koji Kin_', de sporen, of 'starter', zijn verkrijgbaar in verschillende vormen en maten: voor saké of amazaké te maken, voor miso, voor sojasaus, enzovoort. In het ene geval heb je meer zoet nodig, dus simpele suikers. In het andere geval maken de sporen meer protease aan die eiwitten afbreekt. Ik maak mijn eigen koji voornamelijk voor _shio koji_[^shiok], miso en amazaké, en had geen zin om verschillende zakjes te kopen die na een bepaalde tijd hun kracht verliezen. Een wilde gok ('_Kairyo Chohaku Kin Tane Koji_') bleek toch effectief te zijn. 
+\index{Koji}
 
-Als ik geen schimmels kweek in mijn eigen koelkast die niet koelt, gebruik ik de ruimte om deeg te laten rijzen op een constante temperatuur. Het enige vervelende zijn de afmetingen van de schappen vergeleken met de bakplaten van mijn oven. Croissants moet ik noodgedwongen laten rijzen op stukjes bakpapier, om het daarna voorzichtig over te hevelen naar de platen om te kunnen bakken. Het systeem werkt goed genoeg om als hobbyist mee te knoeien. Koji maken gebeurt in vier stappen:
+Die incubatieruimte gebruik ik sindsdien met groot succes om tempeh en koji mee te maken, volgens het stappenplan van Sandor Katz [@katz]. Het grootste probleem is echter de juiste soort van _Rhizopus oligosporus_ in het geval van tempeh en _Aspergillus oryzae_ in het geval van koji vast te krijgen. In België is koji zo goed als onbekend. Met héél veel geluk kun je het voorverpakt vinden in een biologische speciaalzaak. Ik wilde echter geen kant-en-klare koji kopen, maar sporen van de schimmel zelf. Op naar een obscure Japanse online winkeltje dus - of gewoon eBay. '_Koji Kin_', de sporen, of 'starter', zijn verkrijgbaar in verschillende vormen en maten: voor sake of amazake te maken, voor miso, voor sojasaus, enzovoort. In het ene geval heb je meer zoet nodig, dus simpele suikers. In het andere geval maken de sporen meer protease aan die eiwitten afbreekt. Ik maak mijn eigen koji voornamelijk voor _shio koji_[^shiok], miso en amazaké, en had geen zin om verschillende zakjes te kopen die na een bepaalde tijd hun kracht verliezen. Een wilde gok ('_Kairyo Chohaku Kin Tane Koji_') bleek toch effectief te zijn. 
+
+[^shiok]: Een gemalen combinatie van koji, zout en water, gebruikt om te marineren. 
+
+Als ik geen schimmels kweek in mijn eigen koelkast die niet koelt, gebruik ik de ruimte om deeg te laten rijzen op een constante temperatuur. Het enige vervelende zijn de afmetingen van de schappen vergeleken met de bakplaten van mijn oven. Croissants moet ik noodgedwongen laten rijzen op stukjes bakpapier, om het daarna voorzichtig over te hevelen naar de platen om te kunnen bakken. Het systeem werkt goed genoeg om als hobbyist mee te knoeien. Het koji kweekproces bestaat uit in vier stappen:
 
 1. Graan een nacht laten weken. (12u)
 2. Graan nét niet beetgaar stomen. (30min)
@@ -157,9 +161,54 @@ Als ik geen schimmels kweek in mijn eigen koelkast die niet koelt, gebruik ik de
 
 Ik heb expres het woord 'graan' in plaats van 'rijst' gebruikt om aan te geven dat _Aspergillus oryzae_ ook groeit op andere granen zoals gerst. Wanneer de schimmel helemaal rond elke graankorrel gegroeid is zal die omgeven zijn met een miniscuul wit harig laagje. Als ik de rijskast open en een zoete geur me tegenmoet komt weet ik dat het tijd is om de stekker uit te trekken. 53 uur later heb ik mijn alfa-amylase, maar wat moet ik er nu mee? De sporen zijn niet dood maar groeien trager onder de `27 °C`. Vaak volgt nu nog een laatste pasteurisatiestap, maar dan vernietig ik waarschijnlijk mogelijke enzymen die juist nodig zijn voor mijn experiment. De verse koji laat ik enkele uren uit de rijskast drogen om daarna tot poeder fijn te malen. Een eerste vorm van amylase ben ik toch al rijker. 
 
-In mijn experiment beoogde ik om een gewoon gistbrood als controlegroep te vergelijken met brood met koji, brood met mout, en brood met desem. De mout mag niet gebrand zijn want dan gaan de actieve enzymen verloren. Dat betekent een tweede vorm van amylase zelf maken door het ontkiemen en daarna drogen van graan. Ik kocht `1 kg` biologische hele granen spelt om een nacht te laten weken op kamertemperatuur. 
+In mijn experiment beoogde ik om een gewoon gistbrood als controlegroep te vergelijken met brood met koji en brood met commerciële broodverbeteraar. Om het aantrekkelijker te maken de drie broden helemaal op te eten na afloop fermenteerde ik `20%` van de bloem op voorhand in de vorm van een poolish. Dit is het exact recept:
 
-[^shiok]: Een gemalen combinatie van koji, zout en water, gebruikt om te marineren. 
+Totaal (`100%` tarwebloem, `66%` hydratatie):
+
+> `500 gr` tarwebloem, T65 \newline
+> `330 gr` water \newline
+> `10 gr` grijs zeezout \newline
+> `4 gr` gedroogde gist \newline
+> `12 gr` toegevoegde stoffen voor het experiment
+
+Waarvan voor het voordeeg (`20%`):
+
+> `100 gr` tarwebloem, T65 \newline
+> `100 gr` water \newline
+> `0.7 gr` gedroogde gist \newline
+
+Het voordeeg heeft 12 uur gefermenteerd met een initiële temperatuur van `25 °C` die terugzakte tot `19.3 °C`. Als deel van het experiment is consistentie in het broodbakproces belangrijk, anders wordt misschien de verkeerde conclusie getrokken. Het deeg zou `24 °C` moeten zijn, maar het voordeeg was al afgekoeld. De enige temperatuur die ik kan beïnvloeden is de temperatuur van het water. Om te berekenen hoe warm dit precies moet zijn kan je de '_Desired Dough Temperature_' techniek toepassen. Meet de temperatuur van alle aanwezige factoren (ingrediënten, kamertemperatuur), trek die af van de gewenste temperatuur maal het aantal factoren, en wat overblijft is de doeltemperatuur van het water:
+
+| Factor       | Temperatuur in Fahrenheit | Temperatuur in Celcius |
+|:-------------|:---------------------------:|:------------------------:|
+| Kamer        | `69.5 °F`                   | `20.8 °C`              |
+| Bloem        | `65.3 °F`                   | `18.5 °C`              |
+| Voordeeg     | `66.8 °F`                   | `19.3 °C`              |
+| Vrijving     | `20.0 °F`                   | /                      |    
+| Water        | ?                           | ?                      |
+
+Table: Waargenomen temperaturen van factoren die de temperatuur van het deeg beïnvloeden. \label{temptable}
+
+De gewenste deegtemperatuur (`24 °C`) maal 4 is `304 °F`, verminderd met de temperaturen uit tabel \ref{temptable} is `82.4 °F` of ongeveer `28 °C`. Kneden doet de temperatuur van het deeg ook stijgen door middel van kinetische energie die mee in rekening gebracht moet worden[^rekeningbr]. Dit verschil is te klein om in Celcius te kunnen berekenen. Ik vergat echter dat dit effect helemaal niet zo groot is als voorzien wanneer je met de hand kneedt. Een tweede probleem is het kneedoppervlak: de koude marmeren steen steelt energie tijdens het kneden. Na exact 6 minuten intensief handwerk voor elk deeg meette ik nog iets meer dan `22 °C` - dat is twee volle graden er naast. Al een geluk dat dit probleem zich bij alle degen stelde. De incubatieruimte werd ingesteld tussen de `24.5` en `25.5 °C`.
+
+[^rekeningbr]: De `20 °F` komt uit een referentietabel maar gaat uit van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn hangen nooit kunnen voortbrengen. 
+
+Rijstijden zijn waar te nemen in tabel \ref{rijstable}:
+
+| Type deeg   | Eerste rijstijd | Tweede rijstijd | Bakken |
+|:------------|:----------------|:----------------|:-------|
+| Controle    | 11u30 (2u)      | 13u30 (37min)   | 14u07  |
+| Koji        | 12u00 (2u21min) | 14u21 (27min)   | 14u48  |
+| Verbeteraar | 12u13 (1u50)    | 14u03 (32min)   | 14u35  |
+
+Table: Tijdstippen van rijstijden voor elk type deeg. \label{rijstable}
+
+Ik werkte niet parallel, dus nadat het controledeeg als eerste in de rijskast verdween kon ik aan het tweede deeg beginnen. Om te oordelen op welk moment de eerste rijstijd onderbroken moet worden, liet ik `150 gr` van het deeg rijzen in doorzichtige cilindervormige containers. Op het begin en het einde van de eerste fermentatie werd met plakband aangeduid tot op welke hoogte het stukje deeg stond. Het controledeeg verdriedubbelde in grootte na exact twee uur rijzen. Op dat moment besliste ik het deeg in een _boule_ te vormen en in een rijsmandje opnieuw te laten rijzen. De andere types deeg werden gevormd op het moment dat in elke aparte container duidelijk zichtbaar was dat ze even hoog stonden als het controledeeg. Zoals af te leiden is uit tabel \ref{rijstable}, racete het deeg met de commerciële verbeteraar beduidend sneller naar de finish dan het controledeeg. Tien minuten op twee uur tijd is ongeveer `8.3%` sneller. Dat is leuk, maar niet indrukwekkend. De verbeteraar bevat nog een aantal andere ingrediënten buiten enzymen, zoals plantaardige vetstoffen en emulgatoren. 
+
+De traagheid waarmee het koji deeg op gang kwam is wel indrukwekkend. Hoe kan dat, was het niet de bedoeling dat dit deeg sneller zijn suikers afbreekt en vrijgeeft aan de gisten dankzij de extra amylase? Ik besefte al tijdens het kneden dat ik iets had mis gedaan: het deeg voelde erg korrelig aan. De met de vijzel fijngestampte koji rijst was dus niet fijn genoeg gemalen om volledig opgenomen te worden door het deeg. De miniscule harde rijstkorrels werkten als vlijmscherpe messen en sneden constant de opgebouwde gluten netwerken doormidden. Het gevolg is deeg dat erg slecht rijst, zoals zichtbaar in de doorzichtige container. Het was echter niet zo'n slim idee om enkel op basis van volume te controleren of het deeg klaar was voor de volgende stap. De enzymen deden wel degelijk hun werk. Toen ik het deeg uit de mengkom haalde, voelde en rook ik dat het in feite te lang gerezen had. De wetenschappelijke waarde van dit experiment zakte naar nul, ik haalde mijn schouders op (na een vloek of twee), en werkte gewoon verder. Dat was trouwens niet de eerste fout die ik maakte: het controledeeg kreeg per ongeluk `560 gr` water in plaats van `320 gr` omdat ik gewoon ben om met kilo's te werken. Ik besefte dit juist voordat ik ging mengen, dus wat prutswerk met lepeltjes later gaf de weegschaal toch nog het juiste gewicht aan. 
+
+Alle factoren volledig onder controle hebben in je eigen keuken lukt nooit. Mijn dure weegschaal (TODO merk) beweert precies te zijn tot op `0.1 gr`. 
+
 
 \newpage
 
@@ -179,6 +228,6 @@ In mijn experiment beoogde ik om een gewoon gistbrood als controlegroep te verge
 * Rogge staat gelijk aan plakkerigheid door de aanwezigheid van pentosen.
 * Gebruik altijd zuurdesem in combinatie met rogge.
 * Er zit vaak toegevoegd vitamine C in brood, en niet vanwege je gezondheid.
-* De Japanse yu-dane methode creëert in combinatie met een beetje melk een zijdezacht kruim. 
+* De Japanse _yudane_ methode creëert in combinatie met een beetje melk een zijdezacht kruim. 
 * Iedere bakker heeft zijn eigen vormingstechniek. In de praktijk komt het neer op ofwel een bolletje, ofwel een langwerpig brood.
 * Oppervlaktespanning is nodig om brood mooi naar boven te laten rijzen in afwezigheid van een bakvorm.
