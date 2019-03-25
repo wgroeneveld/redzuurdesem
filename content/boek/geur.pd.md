@@ -1,7 +1,7 @@
 
 ## De geur van brood
 
-> '_Geur is een tijdmachine waarin we niet alleen de verste reizen maar ook de meest intense reizen kunnen maken._' - Wilfried Van Craen, De praktijk van het genieten. 
+> '_Geur is een tijdmachine waarin we niet alleen de verste, maar ook de meest intense reizen kunnen maken._' - Wilfried Van Craen, De praktijk van het genieten. 
 
 ### Geur
 

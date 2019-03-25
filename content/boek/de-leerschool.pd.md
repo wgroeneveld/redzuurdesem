@@ -87,7 +87,13 @@ Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onz
 [^10]: Taartdeeg met gist, pudding en kruimels van suiker, boter en bloem.
 [^11]: Wit tarwebrood, bestreken met een papje dat tijdens het bakken het patroon van een tijger aanneemt.
 
-De benaming van brood lijkt te zijn ontstaan in een saaie brainstormsessie van een goedkoop reclamebureau. Bakkerijen verkopen een 'lang grijs', een 'volkoren' dat geen volkoren is, 'kramieken', 'boerenbrood', 'hoevebrood', 'granenbrood', 'bakkersbrood', 'molenaarsbrood', ... Deze dichterlijke vrijheid wil echter niet zeggen dat het molenaarsbrood van bakker 1 hetzelfde is als het molenaarsbrood van bakker 2. Het wil in feite helemaal niets zeggen. Zelfs het iconisch 'San Fransisco brood' wordt door Frank Deldaele omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Laat je niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helf aan volkoren granen in. Dan heb je ook nog namen met een auteursrechterlijke bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. Het maakt het er in ieder geval enorm moeilijk op om exact te weten te komen wat er nu _precies_ in je brood zit. Tenzij... je het zelf maakt. 
+\index{Lactobacillus!sanfranciscensis}
+
+De benaming van brood lijkt te zijn ontstaan in een saaie brainstormsessie van een goedkoop reclamebureau. Bakkerijen verkopen een 'lang grijs', een 'volkoren' dat geen volkoren is, 'kramieken', 'boerenbrood', 'hoevebrood', 'granenbrood', 'bakkersbrood', 'molenaarsbrood', ... Deze dichterlijke vrijheid wil echter niet zeggen dat het molenaarsbrood van bakker 1 hetzelfde is als het molenaarsbrood van bakker 2. Het wil in feite helemaal niets zeggen. Zelfs het iconisch 'San Fransisco brood' wordt door Frank Deldaele omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Brood gebakken op industriële schaal dat de naam 'San Fransisco brood' draagt betekent nog niet dat het de tijd gekregen heeft om even voedzaam te zijn als puur zuurdesembrood. In een onderzoek rond _Lactobacillus sanfranciscensis_, de melkzuurbacterie die voornamelijk aanwezig is in dit type brood, concluderen Yazar en Tavman het volgende [@yazar2012functional]:
+
+> _Despite the numerous advantages, L. sanfranciscensis sourdough fermentation provides, sourdough bread production is a challenging process due to the need for long-time fermentation. However, as it has been stated before that a pasteurized San Francisco sourdough in liquid form is currently available on the market, it is possible to produce breads with the specific full flavour and also to shorten the fermentation time via the addition of more yeast using this liquid sourdough. Thus, a San Francisco bread having most of the characteristics of the traditional product may be produced in less than 3 h._
+
+Het ene San Fransisco brood is dus duidelijk het andere niet. Laat je ook niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helf aan volkoren granen in. Dan heb je ook nog namen met een auteursrechterlijke bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. Het maakt het er in ieder geval enorm moeilijk op om exact te weten te komen wat er nu _precies_ in je brood zit. Tenzij... je het zelf maakt. 
 
 Soms heeft een naam wel degelijk (ooit) een betekenis (gehad). Een voorbeeld hiervan is het 'roggeverdommeke'. Dit is roggebrood wat de 'verdoemden' (de gevangenen) te eten kregen omdat rogge goedkoper dan tarwe is. Er werden pas later krenten aan het deeg toegevoegd. Natuurlijk kan iedere bakker hier zijn eigen interpretatie aan geven, en er is geen brood politie die de bakker arresteert als een 'roggeverdommeke' geen grammetje rogge bevat. Sommige bakkerijen doen de moeite niet om hun creaties een unieke naam te geven, en beperken het tot de naam van het gebruikte graan, of zelfs zoveel procent van dit, zoveel procent van dat. Dat is niet zo origineel, maar de boodschap naar de klant is wel zeer duidelijk. Iemand met allergische reacties kan zo met een gerust hart brood kopen.
 
@@ -98,7 +104,7 @@ Ik had het weer mis.
 
 Nederlandse bakkers bevestigen het verhaal. En toch is er nog hoop: kijk maar naar prestigieuze scholen zoals het Franse ‘_School Of Boulangerie Et De Pâtisserie De Paris_’, of het Amerikaanse ‘_San Francisco Baking Institute_’. Michel Suas zijn boek '_Advanced bread & pastry_' is een immens naslagwerk waar de Vlaamse bakkerijfederatie dringend eens naar moet kijken [@advancedbread]. Met een beetje geluk wordt dat het nieuwe referentie handboek, zoals het zou moeten zijn. Ik hoop uit de grond van mijn hart dat dit verhaal tot bij iemand beland die daar beslissingen in kan nemen. Ik ben meer dan bereid om te luisteren naar de andere kant van het verhaal, en samen te werken aan een betere toekomst. Iedereen die ik spreek[^12] is het er over eens dat de opleiding dringend moet worden herzien maar niemand is bereid om de eerste stap te zetten. 
 
-[^12]: Natuurlijk heb ik niet gesproken met de gemiddelde bakkerij, die zijn aanbod voor 95% overeenkomt met wat wij leerden uit de opleiding. 
+[^12]: Natuurlijk heb ik niet gesproken met de gemiddelde bakker, die zijn aanbod voor 95% overeenkomt met wat wij leerden uit de opleiding. 
 
 Betekent dit nu dat je de opleiding best niet volgt? Helemaal niet. Je leert er nog steeds veel cruciale basisprincipes zoals een soezenbeslag correct maken, manieren om bladerdeeg efficiënt te toeren en andere relevante technieken. Je leert er samen te werken met andere gelijkgezinden, die goede  vrienden worden. Je leert unieke tips van super joviale en bereidwillige leerkrachten die jaren in een bakkerij gewerkt hebben. Dit zijn de belangrijkste dingen die mij de rest van mijn leven zullen bijblijven. 
 Het diploma zelf blijft nog altijd een vereiste in België, om een bakkerij te kunnen opstarten. Een boek schrijven leek me voor iemand met een zwakke rug een gezonder alternatief.
@@ -114,7 +120,35 @@ In Frankrijk is de bakkersambacht een eeuwenoude traditie waar nog steeds duidel
 
 [^13]: Meer informatie over Franse examens is terug te vinden op [http://www.france-examen.com/](http://www.france-examen.com/).
 
+\index{Sandwiches}
+\index{Verbeteraar}
+
 Die avond toen we voor de eerste keer sandwiches aan het bakken waren, viel er mij nog iets op. De 'boter' die in het recept 15% aanduidde, was helemaal geen boter zoals ik ze kende. Het zat in een aparte plastieken doos van `20 kg` gelabeld als '_zachte luxe verbeteraar_'. Ik por Dimitri en wijs naar de inhoud. '_How jong_, wat is dat?' Inderdaad: wanneer je de doos open doet registreren je ogen iets knalgeel en je neus iets chemisch. 'Boter zeker?' zeg ik onzeker. Een onhygiënische vinger in het goedje bevestigt ons vermoeden: vet. Heb je je al ooit afgevraagd waarom veel sandwiches er zo geel uitzien? Dacht je misschien net als ons ook dat het wel door de eieren kwam? Niets is minder waar. Deze 'verbeteraar' bevat een hele hoop aan E nummers (waaronder dus kleurstoffen), die het harde werk van jou als bakker overnemen. Temperatuur te hoog? Geen probleem, met dit spul krijg je je deeg niet kapot gerezen. Te lang gekneed? Geen probleem, met dit spul versterk je je bloem zodat scheuren bijna onmogelijk wordt. Te weinig gekneed? Geen probleem, met dit spul ontstaat elasticiteit vanzelf. 
+
+Moest je toe willen geven aan die plotse zin om deze zachte luxe broodjes zelf te bakken, dan is hier de afgeleide formule met bijhorende werkwijze:
+
+| Hoeveelheid | Percentage | Beschrijving                         |
+|:-----------:|:----------:|:-------------------------------------|
+| `1000 gr`   | `100%`     | Tarwebloem met `11.5`% eiwitgehalte  |
+| `400 gr`    | `40%`      | Water                                |
+| `40 gr`     | `4%`       | Melkpoeder (`10%` van het water)     |
+| `100 gr`    | `10%`      | Eieren (twee kleine)                 |
+| `100 gr`    | `10%`      | Verse gist                           |
+| `40 gr`     | `4%`       | Fijne kristalsuiker                  |
+| `150 gr`    | `15%`      | Verbeteraar (vervangbaar door boter) |
+| `14 gr`     | `1.4%`     | Zout                                 |           
+
+Table: Formule voor sandwiches, gebaseerd op het standaardrecept van de basisopleiding.
+
+
+Methode:
+
+- _10u00_: 10 minuten kneden op hoge snelheid. Doeltemperatuur: `25 °C`.
+- _10u15_: 20 minuten bolrijs
+- _10u35_: Verdelen. Na 5 minuten vormen en een twee keer bestrijken met eigeel.
+- _10u45_: 60 minuten narijs op `32 °C`.
+- _11u45_: 7 minuten bakken op `250 °C`.
+
 
 Ik kan geen enkel geldig excuus vinden om verbeteraars in een school te gebruiken. Op die manier leer je je leerlingen helemaal niet bakken: het gebeurt quasi vanzelf. Er wordt nauwelijks gesproken over natuurlijke ingrediënten. Alsof het de normaalste zaak van de wereld is dat we consequent verbeteraars toevoegen aan ons deeg. Hetzelfde geldt voor harde luxe trouwens, behalve dat die doos stinkt naar azijn en daar het goedje lichtbruin is in plaats van geel. 
 Het is inderdaad zo dat het gebruik van verbeteraars het proces vergemakkelijkt. Gelukkig genoeg besefte Ghislain dit ook, en liet hij ons regelmatig experimenteren met melkerijboter[^14]. 'In geval dat iemand iets misdoet is ons deeg nog altijd in orde' klinkt het als we vragen waarom het gebruik van verbeteraars wordt aangeleerd. Het maakt deel uit van het standaard pakket in de opleiding. Als leerkracht heb je je maar te schikken naar de modules, en er werd streng op toegezien dat de wekelijkse bestellingen overeenkomen met de lessen die dan ingepland waren. Langs de andere kant zorgde de verbeteraar er voor dat we altijd iets hadden om mee naar huis te nemen. Het deeg wordt meestal gezamelijk gemaakt. Als een groepje iets verknoeide tijdens dat proces, viel er altijd wel iets aan te doen. 
@@ -240,6 +274,8 @@ Als laatste wordt het brood effectief gebakken. Bakken kost je veertig minuten. 
 Ingrediënten afwegen kostte ons telkens meer tijd dan we dachten, ook al doen we dit met een aantal mensen samen voor verschillende degen. Onderschat het niet, en tel hier zeker vijf minuten voor. Een gemiddeld brood bakken vanaf nul kostte ons ongeveer twee uur. Dat is belachelijk snel als je dit vergelijkt met wat ik thuis nodig heb om mijn zuurdesem broden te bakken. Op die tijd is mijn deeg dan nog steeds aan zijn eerste rijs toe. 
 Daniel Leader beschrijft in zijn boek ‘Local Breads’ verschillende recepten van baguettes, waaronder de Parijse ‘_baguette normal_’ [@leaderlocalbreads]. Deze baguettes worden elke 4 uur gebakken, tot sluitingstijd. Dit deeg wordt ook wel ‘_straight_’ of ‘direct’ genoemd, vanwege het gebrek aan een voordeeg of preferment. Daniel mixt zijn deeg totdat het water en bloem genoeg verdeeld is om een ruwe deegbal te vormen, en laat dan het deeg rusten voor twintig minuten. Dit noemt men een ‘_autolyse_’ - geef het meel de tijd om het water op te nemen, en al wat gluten te ontwikkelen. De bolrijs duurt ook wat langer: halverwege wordt het deeg als een brief samengevouwen. Dit vouwen geeft het deeg de nodige kracht. Het wordt vaak gedaan vanwege een hogere vochtigheidsgraad (`68%`). Die vier uur komt dus ruwweg overeen met onze tijdlijn. 
 De directe methode is de meest gebruikte methode om brood te bakken. Het is dan ook logisch dat tijdens de opleiding tot bakker hier het meeste aandacht aan geschonken wordt. De meest gebruikte betekent echter niet de methode die de meeste smaak opbrengt...
+
+\index{Sandwiches}
 
 Op zo een avond moet een product klaar zijn in drie uur of minder. Het is mogelijk om de afwerking in een andere les verder te zetten: bladerdeeg toeren in week 1, dan de diepvries in, om in week 2 af te werken met... pudding natuurlijk! Gegist deeg kan geen week wachten. Een voordeeg maken leek dan ook onmogelijk. Daar hebben we op een creatieve manier rond gewerkt: we brachten ons eigen voordeeg mee, dat de dag op voorhand of ‘s morgens thuis voorbereid werd. Speculaasdeeg moet trouwens ook een nacht rusten, zodat de smaak van de kruiden goed kan vrijkomen[^20]. Andere cursisten die donderdag les hadden maakten speculaasdeeg voor ons. Wij werkten dat af en maakten op onze beurt het deeg voor de studenten van zaterdag. 
 Ik begon meer en meer te denken dat de moderne bakker niet goed presteert onder tijdsdruk. Het verhaaltje van de verbeteraars lijkt hier ook goed op aan te sluiten. Hier en daar worden al eens _shortcuts_ genomen door (veel) meer gist toe te voegen, of door margarine te gebruiken in plaats van boter, om toch maar de rijskast te kunnen gebruiken. 

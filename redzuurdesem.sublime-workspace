@@ -520,32 +520,57 @@
 	"buffers":
 	[
 		{
-			"contents": "Searching 14 files for \"het experim\"\n\n/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md:\n  143  [^stijging]: Deze populatie gegevens komen van het US Census Bureau, via Statista.\n  144  \n  145: ### Het Experiment\n  146  \n  147  Wetenschappelijke studies lezen is leuk tot op het moment waarop mijn handen beginnen te jeuken. Toen ik las dat koji samen met mout een veel gebruikte bron is van alfa-amylase, besloot ik dit in de vorm van een experiment in mijn eigen keuken na te bootsen. Ik wilde wel eens zien hoe sterk dat effect van toegevoegde amylase is vergeleken met brood dat ik gebruikelijk bak. Om de proef een minimale wetenschappelijke waarde te geven had ik nood aan extra uitrusting: een rijskast. Een afgebakende omgeving waarin ik de temperatuur tot op de graad zelf kan bepalen, en constant kan houden. Dat was slechts een kwestie van een ongebruikte koelkast om te bouwen van koelen naar verwarmen. Het enige wat ik daar voor nodig bleek te hebben was een lamp en een thermostaat tussenstekker. De geïsoleerde ruimte houdt de warmte van de lamp vast, die door de thermostaat tussen vooraf ingesteld interval aan- en uitgeschakeld wordt. De lamp in kwestie moet genoeg hitte kunnen genereren verspreid over een relatief grote ruimte, dus een `40W` halogeenspot is de beste optie. Om de warmte snel te kunnen verdelen monteerde ik, met hulp van mijn schoonvader als electronica-expert, een `12V` ventilator van een oude desktop PC achter de lamp. \n\n/Users/jefklak/development/redzuurdesem/content/boek/verdienen.pd.md:\n   20  > ‘_Hey Wouter, sinds jouw workshop bak ik wekelijks mijn zuurdesembrood, en ik wil zelfs geen ander (gist)brood meer. Het is zoveel smaakvoller en beter verteerbaar dan alle gist-varianten. Ik kan het iedereen aanraden!_’\n   21  \n   22: Ik wilde meer leren over het commerciële aspect van de bakker. Tijdens de avondschool kwamen we hier heel vluchtig mee in aanraking: inkoopprijzen, verkoopprijzen, winstmarges. Maar hoe duur moet een brood zijn om van te kunnen leven? Hoeveel broden per dag moet een bakker verkopen om met een gerust hart te kunnen gaan slapen? Ik had een vaag idee van aantallen door mijn stage en interviews met bakkers. Ik herinnerde me het bezoek van Dimitry Lysens en Johan Haiverlain aan De Superette. Dimitry baat samen met zijn vrouw Aagje Moens restaurant Magis uit in Tongeren. Johan is verantwoordelijk voor de bistro boven het restaurant, genaamd Bis. Ze waren reeds een tijdje aan het experimenteren met zuurdesembrood. Ik besloot te polsen naar hun vooruitgang om een bakkerij concept uit de grond te stampen. \n   23  \n   24  ### Februari 2016\n   ..\n   32  ‘Enkele jaren, maar op heel kleine schaal. In gietijzeren potten in de heteluchtoven. Daar gaan er maar 6 tegelijk in. Teveel gedoe. We willen dit verder uitbreiden naar 36 broden bakken per keer.’ Johan laat me de lunchmenu van de bistro zien. ‘Hier zijn we onlangs mee begonnen. Er is lunch voorzien op vrijdag- en zondagmiddag. Het is momenteel nog aftasten en enkel op reservatie. We zijn normaal ‘s middags niet open.’ Ik zie zuurdesem pizza en een bescheiden variatie van open sandwiches op het menu staan. \n   33  \n   34: Er wordt twee keer per week gebakken om voldoende brood te kunnen hebben voor het restaurant en de bistro. Er zijn ook plannen om het brood te verkopen als het experiment succes blijkt te hebben. Het idee is ontstaan toen Dimitry een fermentatie workshop volgde in Stockholm. Er werd niet enkel over groenten inleggen gepraat, maar ook een excursie gemaakt naar ‘Bageriet Brød’[^bag], een zuurdesem bakkerij in de buurt. Eenmaal de smaak te pakken (letterlijk dan) zijn Dimitry en Johan begonnen met experimenteren in Tongeren, met behulp van de bekende boeken van Chad Robertson [@tartine]. Hun desem starter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is redelijk loperig. Die wordt op een zeer hoge temperatuur gehouden: tussen de `30` en `35° C`. De hoge temperatuur en humiditeit is verantwoordelijk voor die typische zoete melkzuur geur. Ze maken ook gebruik van een nachtelijke fermentatie in de koelkast, in rijsmandjes. ‘Johan is twee dagen gaan meedraaien in de bakkerij in Stockholm. Er is superveel goed brood in die stad[^diestad]. Hun moederdeeg is heel warm. Ik zoek altijd een geschikte plek om onze starter de juiste temperatuur te geven.’ Dimitry haalt het potje van de kast en laat mij er aan ruiken. ‘Dit ruikt zoals de gefermenteerde degen van De Superette, die waren ook redelijk warm. Zoet.’ Ze waren tijdens mijn stage op bezoek in Gent om Sarah wat tips te vragen. \n   35  \n   36  [^bag]: [https://www.instagram.com/bagerietbrod/](https://www.instagram.com/bagerietbrod/)\n\n3 matches across 2 files\n",
+			"file": "content/boek/de-leerschool.pd.md",
 			"settings":
 			{
-				"buffer_size": 4721,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"contents": "\n## De esthetiek van brood\n\n> '_The human soul needs actual beauty more than bread._' - D.H. \\mbox{Lawrence}\n\n### Structuur\n\n'Amai, deze is echt mooi!' 'Ja, en groot. Wat een _joekel_. Raak eens aan?' 'Neenee, nog niet, anders is het al besmeurd.' 'Je weet dat je het wilt... Het ziet er hard uit.' 'Oké, heel even dan.' 'Ik zal niet kijken!'\n\n\\index{Poilâne}\n\\index{Miche}\n\nVoordat iemand de verkeerde conclusie trekt: we bevinden ons in het hartje van Parijs, in één van de legendarische Poilâne bakkerijen. Dimitri, Tom en ik schuimden dat weekend alle bakkerijen in kleine en grote straten af, op zoek naar geweldig uitziend en smakend brood (en croissants, en vooral ook aardbeienbavarois). Poilâne staat bekend om zijn _miches_, een heel groot rustiek rond brood versierd met een prachtige bebloemde '`P`'. Dat groot en hard ding dat we aan het bewonderen waren, was een zopas aangekochte _demi_ miche. De broden zijn zo groot (meer dan `2 kg`) dat ze in halven of kwarten verkocht worden. Het brood is niet ingesneden, en heeft dus geen mooie opengebloeide korst. Het is evenmin prachtig van kleur of vorm. En toch doet het zicht van de uitgestalde miches je 'wow' zeggen als je voorbij de vitrine van de bakkerij wandelt. De reden is niet alleen ruwe kracht en eenvoud, maar ook respect. Als bakker herken je immers of er veel of weinig water bij aan de pas kwam, dus of het moeilijk of makkelijk was om zo'n deeg de baas te blijven. \n\nBrooddeeg heeft buiten de belangrijke gistingtijden namelijk ook nog een vorm nodig, als je niet wilt dat het als een platte pannenkoek uit de oven valt. Brood vorm geven is voor mij dé moeilijkste stap in het hele broodbakproces. Tijdens het bakken ondergaat het deeg een metamorfose die de structuur, vorm en kleur mee bepaalt. Deze veranderingen worden in de oven op gang gezet door expansie van volume, verdampen van water, vorming van een poreuze structuur die wij 'kruim' noemen, verandering van eiwitstructuur, gelatinisatie van\nzetmeel, korstvorming en bruiningsreacties [@miguel2013enzymes]. Iedereen koopt graag een brood dat er 'goed' uit ziet. Wat is het verschil tussen een sterrenrestaurant en een gewone zaak? Het éérste verschil, wat onmiddelijk opvalt, is de presentatie. Voordat je ook maar iets naar binnen kan werken, hebben je ogen al gegeten. Presenteren is voor een bakker minstens even belangrijk als voor een chef. Top patissiers zijn erg goed in het variëren van smaak en vorm. Patisserie wordt om een of andere reden kritischer beoordeeld met het oog dan brood. Ik neem aan dat brood meer aanschouwd wordt als een noodzakelijk kwaad. 'Ik moet nu eenmaal iets eten.' Wanneer je een brood koopt, en er is geld over voor een éclair, dan 'verwen je jezelf'. Als je enkel dat brood koopt, dan 'moet een mens nu eenmaal eten'. Waarom zou je jezelf niet kunnen verwennen met brood? \n\nIn de praktijk heeft het natuurlijk te maken met de grootte en de ingrediënten. Met suiker worden enorme pronkstukken gemaakt, maar dat wil ik niet op mijn brood hebben. De eindeloze combinaties die verkocht worden bij 'L’Éclair de Génie' in het vierde arrondissement zijn mogelijk doordat men kan spelen met onder andere de toplaag (ganache, aardbeien, munt, citroen, ...), de pudding (vanille, pistache, caramel, amandel, ...), en de vorm. En toch is _less_ vaak ook _more_, zoals de miches van Poilâne. \n\n\\index{Calvel, Raymond}\n\\index{Autolyse}\n\nOm te begrijpen hoe brood zijn vorm behoudt blijven we nog even in Frankrijk. Professor Raymond Calvel heeft de tweede wereldoorlog meegemaakt. Na de oorlog is het industrialisatieproces van brood in vierde versnelling geschoten. Zelfs in zijn geliefd Frankrijk werd brood nog nauwelijks _a l'ancienne_ gemaakt: hoe meer gebakken op korte tijd, hoe beter. Bakkers werden verleid door het ingeburgerd kapitalistisch wereldbeeld en de dalende prijs van machinerie. Wat er echter nog daalde, was de kwaliteit en de smaak van het typisch Frans brood. Professor Calvel is een van de beroemdste voorvechters verantwoordelijk voor de heropleving van oude tradities in het broodbakken. Zijn boek 'Le Goût du Pain' puilt uit van de technische informatie over gluten structuren, tarwesoorten en vorm van brood [@calvel]. Calvel is vandaag vooral gekend om de ontwikkeling van de _autolyse_ techniek. \n\nTarwedeeg heeft twee fysiek waarneembare eigenschappen: _elasticiteit_ en _uitrekbaarheid_. Dit is te danken aan twee groepen van gluten eiwitten in tarwe: _glutenine_ zorgt voor de elasticiteit, en _gliadine_ voor de uitrekbaarheid. De juiste balans tussen deze twee eigenschappen zorgt voor een superieur brood op gebied van kruim en vorm [@barak2013relationship]. Het totale eiwitgehalte van bloem is niet de enige indicator om volume van brood te voorspellen. Te weinig elasticiteit kan tot een gebakken baksteen leiden. Te veel elasticiteit belemmert de uitzetting van gascellen. Opnieuw een baksteen. Na decenia gekibbel zijn wetenschappers het nog steeds niet eens wat de juiste verhouding tussen glutenine en gliadine zou moeten zijn om hét perfecte brood uit de oven te toveren. \n\n\\index{Gluten}\n\\index{Gluten!Glutenine}\n\\index{Gluten!Gliadine}\n\nDeze eiwitten haken zich aan elkaar vast zodat lucht gevangen wordt en brood kan rijzen. Dit vasthaken is echter ook een vervelend probleem om met het deeg te werken. Kneden wordt dankzij diezelfde gluten moeilijker. De enzymen die we leerden kennen in hoofdstuk \\ref{microbio} spelen hier een grote rol in. Amylase is niet het enige belangrijke enzym dat in bloem zit. Voor de structuur van het deeg zijn de volgende enzymen belangrijk:\n\n\\index{Enzymen}\n\\index{Enzymen!Protease}\n\\index{Enzymen!Lipase}\n\\index{Enzymen!Xylanase}\n\\index{Enzymen!Glucose-oxidase}\n\n* _Protease_. Dit enzym breekt aminozuren tussen eiwitten af. Dat klinkt niet goed, aangezien de zorgvuldig opgebouwde gluten structuur juist nodig is om brood te doen rijzen. Gelukkig genoeg zijn deze jongens vrij bescheiden in hun werk. Ze maken het voor de bakker gemakkelijker om deeg te kunnen kneden. \n* _Glucose-oxidase_. Maakt door een oxidatiereactie met de gluten het deeg krachtiger en elastischer. \n* _Lipase_. Lipase helpt de luchtigheid er in te houden wanneer het deeg te lang gerezen heeft. Dit enzym versnelt de opneembaarheid van aanwezige vetten[^hydro] (lipiden).\n* _Xylanase_. Een typische 'conditioner' die het deeg handelbaarder maakt. Hiermee wordt vaak een verbeterde mechanische bewerkbaarheid[^bewerk] bedoeld.\n\n[^hydro]: Dit proces noemt men _hydrolyse_, de splitsing van een chemische verbinding onder opname van water. \n\nDe autolyse fase zorgt er via protease voor dat het deeg werkbaar is. Deze fase is niets meer dan een rust fase voordat gist, desem en zout toegevoegd wordt aan het deeg. Bloem en water worden heel kort gemengd, totdat er geen droge bloem meer zichtbaar is. De kneedmachine wordt stilgelegd om de bloem tijd te geven het water op te nemen. Bevochtigd bloem betekent de start van gluten vorming, maar ook de de activatie van protease die deze gluten enigzins verzacht. Een autolyse fase invoeren betekent extra tijd vrijmaken. Industriële processen hebben die tijd niet, en gebruiken onder andere toegevoegde pentosen[^pentose] om meer water te kunnen opnemen. Hoe meer tijd deeg krijgt, hoe meer gluten gevormd worden zonder manuele interventie in de vorm van kneden. Het voordeeg van een zuurdesemdeeg heeft uren nodig gehad om smaak en gisten te ontwikkelen. Calvel's autolyse marginaliseert de nood aan kneden nog meer. \n\n[^bewerk]: _Machinability_ is een belangrijk onderwerp van wetenschappelijk onderzoek naar brood. Jammer genoeg heeft dit maar één reden: opbrengst. \n[^pentose]: Een polysacharide. Zie hoofdstuk \\ref{microbio:suikers}.\n\n_No-knead bread_ is een erg populaire zoekterm in Google. Goede recepten zullen zeker een autolyse stap bevatten. Maar dat is niet de enige manier om deeg meer kracht en structuur te geven zonder veel te moeten kneden. Soms is het deeg zo nat, dat het bijna niet kneedbaar is. In die gevallen wordt er niet gekneed, maar _gevouwen_. Inderdaad: vouwen, zoals een brief of de was. Het deeg wordt uitgestort op een werkoppervlakte, waarna één derde naar binnen gevouwen wordt. Het ander uiteinde wordt daarop gevouwen, en men herhaalt de stappen na 90° draaien. Die hoop gevouwen deeg wordt met enkele snelle bewegingen terug in de container geplaatst om verder te rijzen. Dit proces herhaalt zich een aantal keer tijdens de eerste rijs. Bij het opbollen voel je duidelijke opgebouwde spanning dankzij dat vouwproces. Zonder vouwen komt slap deeg als een pannenkoek uit de oven. \n\nEen laag of hoog eiwitgehalte is dus niet het grootste verschil tussen een plat of een mooi gerezen brood. In Frankrijk worden sommige broden met een laag eiwitgehalte gebakken. Tarwe met minder dan `10%` eiwit wordt aanschouwd als _zachte_, of _zwakke_ tarwe. _Harde_ tarwe bevat meer eiwitten. Ook de oogsttijd beïnvloed het eiwitgehalte. Tarwe geplant in het najaar en geoogst na de lente noemt men (zachte of harde) _wintertarwe_. Tarwe geplant in het voorjaar en geoogst in datzelfde najaar noemt men (zachte of harde) _lentetarwe_. Harde wintertarwe heeft een eiwitgehalte van `10` tot `12%`. Voor harde lentetarwe is dit `12` tot `14%`. Werken met zachte tarwe voelt zelfs voor een leek heel anders aan dan werken met harde tarwe. \n\nZachte of harde tarwe heeft niets te maken met de gekende Italiaanse '`00`' bloem! _Tipo `00`_ is een aanduiding voor uitmalingsgraad, zoals de Franse `T65`. Dit is de fijnste graad van bloem in Italië en heeft de consistentie vergelijkbaar met talkpoeder. In Nederland is deze bloem verkrijgbaar onder de naam 'Zeeuwse bloem'. `00` bloem is beschikbaar in verschillende eiwitgehaltes en dient vaak eerder voor pasta of pizza te maken dan voor brood. De methode voor pizzadeeg is inderdaad exact hetzelfde als voor brooddeeg, maar met deze bloem heb je veel minder water nodig. Na het zeven blijft er enkel nog een deel van het kiemwit van de tarwebes over. De uitgezeefde (restjes van) zemelen helpen om vocht te absorberen. De hoofdredenen om `00` bloem te gebruiken in pizzadeeg is het verminderen van de taaiheid van de korst, en de uitrekbaarheid tot de limiet kunnen drijven. De elasticiteit van brooddeeg zit soms in de weg bij het maken van een goede pizza. In dat geval is voldoende rusttijd belangrijk. \n\nIk gebruik nooit erg uitgezeefde bloem. Zoals Sarah in De Superette ook al zei: '`T65` is zo wit als ik wil gaan'. Een bijkomend voordeel is plaats in de kast. Ik hoef geen patentbloem te kopen voor cakes en taarten, en geen Italiaanse `00` bloem voor pizza. Overal gaat `T65` (of hoger) in. Dat betekent dat mijn cake niet zo mals is als zou moeten, en dat mijn pizza niet zo knapperig is als zou moeten. Langs de andere kant betekent dit ook dat mijn cake meer voedingsstoffen bevat dan de luchtigere variant. Net zoals de `00` notatie, garandeert `T65` geen hoog eiwitgehalte. Meelzakken in supermarkten beschrijven nooit over welk soort tarwe het gaat, laat staan in welk seizoen het geoogst zou worden. Je mag al van geluk spreken dat je kan achterhalen in welk land het graan geteeld werd. Sommige labels, zoals het wettelijk vastgelegde EU biolabel[^bio], verplichten de aanwezigheid van die informatie. Een goede inschatting gebaseerd op de hoeveelheid aanwezige eiwitten is accuraat genoeg. Nog een reden om bij een lokale molenaar bloem te kopen. \n\nOp moment van schrijven bevinden zich een aantal meelzakken in mijn voorraadkast, waarvan de volgende eigenschappen af te lezen zijn:\n\n* Molens van Oudenaarde 'Witte bio Tarwebloem `T65`'. Beschrijving: Witte bloem gemalen van Belgische bio tarwe (`T65`). Max. vochtgehalte: `15.5%`. `11,4 g` eiwitten.\n* Kortweg Natuur biomeel 'roggemeel'. Beschrijving: Biologisch roggemeel. Inclusief informatie over landbouwers, de molen, in pak en verwerker. `10 g` eiwitten.\n* Decollogne 'Farine de Blé Bio Meules de Pierre `T110`'. Beschrijving: `100%` farine de blé tendre issu de l'agriculture biologique. Inclusief informatie over de molen. `12 g` eiwitten.\n* Seitenbacher 'Odenwälder Bauernbrot' Brotbackmischung. Beschrijving: Weizenmehl `T812`, Roggenmehl `T1370`. \n\nHet is duidelijk dat Frankrijk en Duitsland veel informatiever zijn op gebied van meel dan België. De Franse zak beschrijft zelfs de zachtheid (_tendre_). Duitse type notaties komen niet mooi overeen met de Franse. In Duitsland wordt de hoeveelheid as per `100 g` droge massa van het meel gemeten, terwijl dit per `10 g` is in Frankrijk. Duitse `T812` zou dus overeen moeten komen met Franse `T80`.\n\n[^bio]: [https://www.labelinfo.be/label/biologische-landbouw-eu-biolabel](https://www.labelinfo.be/label/biologische-landbouw-eu-biolabel)\n\n\\index{Gluten!Gliadine}\n\\index{Roggemeel}\n\\label{rogge}\n\nHoe zit dat dan met de precieze inhoud van rogge? Iedereen die al ooit roggebrood met de hand gekneed heeft weet dat dit kleverig goedje opmerkelijk verschilt met een typisch tarwedeeg. Om te beginnen beschikt rogge maar over één van de twee gluten eiwitten: gliadine. Geen elasticiteit dus, en dat zorgt automatisch voor een veel dichter kruim. Dankzij de gliadine is er nog wel iets van de gascellen aanwezig in de oven die het brood doen rijzen, maar niet veel. In de praktijk wordt roggebrood altijd gemengd met tarwebloem om dit gemis te kunnen compenseren. Een brood met `100%` roggemeel zal altijd een baksteen zijn.\n\nRoggebloem bevat veel pentosen (`4` tot `7%`), een soort koolhydraat dat minder prominent aanwezig is bij tarwe. Pentose zorgt voor de gekende kleverigheid van het deeg. Door dit kleverig goedje geeft roggedeeg toch nog de ilusie om te rijzen. Het zorgt voor de nodige ondersteuning in afwezigheid van een sterke gluten structuur. Rogge wordt dankzij die plakkerigheid ook gebruikt in de lijm-, match- en kunststofindustrie [@kent1994kent][^kleverig]. Zetmeel is veel belangrijker in roggebloem dan in tarwebloem. Roggebloem neemt veel meer water op dan tarwe door het hoger volume van aanwezige zetmelen en pentosen. Omdat het eiwitgehalte van rogge minder relevant is dan bij tarwe, worden er niet zo'n grote indelingen gemaakt voor dit graan. \n\n[^kleverig]: Als je weet dat kleverige polysacharides zorgen voor een betere wateropname, wat doe je dan als slimme bakker? Dit als additief gebruiken, natuurlijk! Dat is zelfs een aparte categorie in de lijst met E nummers, onder '_Emulgatoren, stabilisatoren, verdikkingsmiddelen en geleermiddelen_'. Guar-, Xanthaan- en taragom, lecithine, pectine, cellulose, ... \n\nAlle degen met meer dan de helft roggemeel moeten worden aangezuurd omdat zure omstandigheden de zwelkracht van de pentosanen verbeteren. Dit kan met zuurdesem, maar ook met toegevoegd azijn. De aciditeit heeft als tweede belangrijke reden dat amylase minder actief wordt [@seibel1991sourdough]. Weet je nog dat amylase complexe suikers helpt opknippen in simpele stranden? Juist omdat zetmeel belangrijker is in roggemeel, moet ook amylase beter onder controle gehouden worden bij deze soorten deeg. Roggebrood met commerciële gist (en zonder toegevoegde azijn) zal daardoor sneller inzakken tijdens het rijzen dan tarwebrood. Enzymatische activiteit van alfa-amylase wordt via gelatinisatie in laboratoria gemeten met speciale apparatuur om de kwaliteit op voorhand te kunnen inschatten. Veel verkocht roggebrood helemaal geen echt roggebrood: het bevat nog geen `30%` aan rogge. Vraag bij afwezigheid van een duidelijke ingrediëntenlijst altijd naar de technise fiche.\n\nUniformiteit van de structuur van het kruim is voor fans van cocopasta een belangrijke eigenschap van brood. Een sneetje met choco, wie houdt daar nu niet van? Mensen die op zoek zijn naar rustiek brood met een mooie, open kruim. Grote gaten zijn niets dat een plakje kaas niet weggewerkt krijgt. Daar dan ook nog choco op smeren lijkt mij een brug te ver. Een open kruim verkrijg je onder andere door veel water te gebruiken, en niet te veel te kneden. Een verdeelde, dichte kruim verkrijg je door een intensieve kneedmethode. Het kruim wordt nog zachter gemaakt door toevoeging van boter en melk. Denk maar aan het melkbrood en de sandwiches van hoofdstuk \\ref{leerschool}. \n\n\\index{Kaliumbromaat}\n\\index{Ascorbinezuur}\n\\label{vitc}\n\nEen modernere manier om een mooie rijs en even kruim is te bereiken door opnieuw terug te grijpen naar verbeteraars. Enzymen zijn in hoofdstuk \\ref{microbio} reeds aan bod gekomen. Nog een vaak gebruikte techniek om zwakke bloem op te krikken en de structuur en het volume van brood te verbeteren, is vitamine C toevoegen. Als dat niet gezond is, dan weet ik het ook niet meer... Vitamine C, of _ascorbinezuur_, is een oxidatiemiddel. Door deze oxidatie verandert de moleculaire structuur van gluten in tarwebrood. Het gevolg is een sterker deeg. Sommige middelen reageren snel, zodra alle ingrediënten gemengd worden. Andere middelen zoals kaliumbromaat worden pas wakker in de rijskast. Ascorbinezuur heeft zuurstof nodig om van een reductiemiddel omgevormd te worden naar een oxidatiemiddel. Vitamine C werd pas ontdekt in 1912, dus het spreekt voor zich dat het hier om een van de technische trucjes van de industrie gaat. \n\nWe zijn nog niet klaar met verbeteraars (Ik hoop jullie wel na het lezen van dit boek). De laatste grote groep zijn _emulgatoren_. Verschillende soorten emulgatoren hebben elk een eigen functie: van een uniforme kruim, betere gluten vorming, verminderen van de kneedtijd tot verhoogde zachtheid en waterabsorptie. Brood gebakken met emulgatoren blijven langer goed, hebben een zachtere korst en een even kruim. Het verzachtend effect is nog meer uitgesproken bij volkoren brood [@indrani2008functions]. Een andere leuke bijwerking in gegist deeg is het verlaten van korstvorming tijdens het bakken. Brood `2.0`: een 'betere' versie van zichzelf. Een emulgator verzorgt het homogeen vermengen van vloeistoffen en vetten, zoals in melk. Blijkbaar is het goedje een soort van wondermiddel in brood, behalve dat ik juist een onevenredige kruim wil mét een goed knapperige korst. Voorbeelden van veel gebruikte emulgatoren zijn lecithine (terug te vinden in eidooiers) en mono- en diglyceriden.\n\nOm tot een échte zijdezachte korst en kruim te komen, heeft men in Japan een 'water roux' techniek bedacht, genaamd _yudane_ (_湯種_), of in het Chinees _tangzhong_. Een deel van het bloem wordt gekookt met water of melk om de textuur van het brood te verbeteren. Rond de `65 °C` gelatineert het zetmeel [@chen]. Net zoals de pentosen van roggebloem, houdt dit gegelatineerd goedje het vocht veel beter vast. Het gevolg is een heel zacht brood. Deze techniek heb ik nog nooit in Europese bakkerijen toegepast gezien. Blijkbaar zouden veel Japanse bedrijven een patent hebben op een variant van de methode. Het is niet alleen een kwestie van rechten, maar ook van praktische haalbaarheid. Het gelatineren van zetmeel voor een deeg van `50 kg` vereist een grote ketel om het boeltje in te koken. Dat betekent dan weer inboeten aan kostbare ruimte in de bakkerij. In de praktijk wordt voor een zacht brood te maken een beetje vetstof toegevoegd, en een intensieve kneedmethode gebruikt. Hoe meer vet, hoe meer kneden nodig is om de vetten evenredig te verdelen. Hoe meer kneden, hoe zachter het kruim. Sandwiches zijn daarom dé referentie op gebied van vet én een zacht kruim. Mijn tientallen pogingen om sandwiches met de hand te kneden draaien altijd uit op een lichte teleurstelling bij het open snijden van een broodje. De zachte structuur is onmogelijk te bereiken zonder intensief machinaal te kneden. Eigenaars van een keukenrobot moeten opletten met hun interpretatie van het woord 'intensief': dat betekent niet automatisch op de hoogste stand, maar wel lang genoeg totdat de gluten volledig ontwikkeld zijn. Om dat te controleren is de _windowpane_ methode uitgevonden. \n\n### Vorm\n\nEen populaire versie van brood gemaakt met de _yudane_ methode is '_Hokkaido_'  of '_Shokupan (食パン)_' brood. Een prachtig Japans zeidezacht wit '_busbrood_', verrijkt met room, boter, eieren en een schadelijke hoeveelheid suiker. Dit is de Aziatische tegenhanger van onze _brioche_. Zoals de naam aangeeft, worden deze broden meestal gebakken in een langwerpig bakblik. In Frankrijk kan je dit brood kopen als '_pain de mie_'. Het sponzige Amerikaanse 'Wonder Bread' (en andere industriële verwanten) komt ook uit een bakblik. Oven ruimte moet gemaximaliseerd worden. Een bakblik zorgt er niet alleen voor dat het brood zijn structuur behoudt door naar boven te rijzen in plaats van opzij, maar ook dat ze makkelijker naast elkaar te plaatsen zijn in de oven. In fabrieken rollen deze broodvormen het meeste van de band. \n\n\\index{Preshaping}\n\\index{Voorvormen}\n\nHet is eigenlijk heel simpel. Brood is ofwel rond (zoals een _boule_), ofwel lang (zoals een _bâtard_). Alle andere vormen zijn hier afgeleiden van. Dit heeft te maken met de vormtechniek van brood. Het opbollen van deeg is in veel bakkerijen maar één snelle fysieke handeling. Deeg wordt gewogen, verdeeld, opgebold en in bakvormen gezet, klaar voor de tweede rijs. Als je die bakvormen uit de vergelijking haalt kom je in de problemen. De vorm garandeert een volumineus brood: het kan immers geen andere kant op. Op steen gebakken brood wordt rechtstreeks op de hete steen in de oven geplaatst, zonder dat metaal, glas of silicone een tussenlaag vormt. Te slap deeg heeft dan nog een kans om verticaal uit te dijnen, voordat de hitte het de lucht in jaagt. Om dat te vermijden voeren we een tussenstap in: voorvormen of _preshaping_. Deeg wordt gewogen, verdeeld, en rond gemaakt. In die ronde vorm rust het deeg totdat de gluten ontspannen genoeg zijn om opnieuw gevormd te worden. De tweede vorm is de échte vorm. Ondertussen is het rond bolletje terug plat geworden. Een tweede keer aanspannen is zeker geen overbodige luxe. \n\nOm puristen niet boos te maken moet ik er bij zeggen dat een _bâtard_ niet zomaar lang is, maar puntige randen heeft. In essentie een kleine dikke _baguette_. In de praktijk houdt elke bakker er zijn eigen vormingstechniek op na die altijd uit gaan van de twee basisvormen. De een rolt het deeg simpelweg op, de ander vouwt het op zoals een brief. Types van brood volgen vaak trends. De lange vorm van baguettes zijn bijvoorbeeld een vrij recente verschijning, ontstaan in het einde van de 18de eeuw. Er zijn veel betere handleidingen beschikbaar om vormingsmethodes toe te lichten dan dat ik dat hier zou kunnen doen. Sommige technieken zijn handiger bij tarwebrood, andere bij rogge. Brood dat we bakten bij De Superette was dankzij het hoog watergehalte zo goed als onhandelbaar (voor onwetende stagaires zoals ik). Snelheid is niet alleen nodig om veel broden op korte tijd te kunnen verwerken, maar ook om geen plakkerige handen te krijgen. Een goede tip die ik van het internet geplukt heb, is te doen alsof het deeg te heet is om langdurig vast te nemen. Doorwerken gegarandeerd, niemand wil brandwonden oplopen. Als ik mij te veel liet meeslepen ('Vlug Kristien, ik sta in brand! Waar is de emmer?' Gevolgd door 'Hou op _onnozelaar_.') verloor ik kwaliteit uit het oog en was het eindresultaat niet bepaald geweldig. Daarna heb ik dan maar geleerd om efficiënt te werken met een deegschraper.\n\nHet opbouwen van oppervlaktespanning is het belangrijkste doel van opbollen. Hoe je dat precies doet (de vorm), maakt niet uit. De Parijse topbakkerij 'Du Pain et Des Idées' verkoopt _pain des amis_[^amis], door hun beschreven als 'Een plat brood met dikke korst en nootachtig karakter'. Pain des amis lijkt te zijn ontstaan toen de bakker per ongeluk zijn deeg uitstortte in de oven in plaats van op het werkoppervlak. Spanning opbouwen is belangrijk, maar niet voor iedereen - en ook niet voor elk type brood. De elasticiteit (en in mindere mate uitrekbaarheid) van gluten worden hier gebruikt om de buitenkant van het deeg op te rekken. Door de uitrekbaarheid is dit mogelijk zonder te scheuren. Door de elasticiteit blijft de spanning constant waardoor het deeg tijdens de tweede rijs naar boven rijst in plaats van opzij. Bij rogge ontbreekt glutenine, de belangrijkste groep van eiwitten om deze spanning op te zetten. Uit onderzoek is zelfs gebleken dat gliadine op gebied van oppervlaktespannig een negatieve factor kan zijn [@li2004surface]. Dat is erg voelbaar bij brood met meer dan `30%` rogge. Vormgeven is in dat geval meer een kwestie van het deeg in een rijsmandje te dumpen in de plaats van het mooi op te vouwen. Hoe beter tarwebrood opgespannen is, hoe mooier het omhoog komt in de oven.\n\n[^amis]: De naam heeft volgens hun website zelfs een copyright. [https://dupainetdesidees.com/en/produits.html](https://dupainetdesidees.com/en/produits.html)\n\nHitte in contact met gerezen deeg start een aantal fysische, chemische en biologische reacties. Voordat het deeg verkorst en omgezet wordt in brood is het zaak om een laatste keer te rijzen, en liefst naar boven. Zorgvuldig opgebouwde micro-organismen sterven uit met een knal. Op dat moment bepaalt oppervlaktespanning hoe het brood in de oven rijst. De Engelse term '_oven spring_' klinkt veel beter dan de Nederlandse vertaling 'oven rijs'. Door de toenemende hitte zetten de CO~2~ cellen uit en stijgt de druk. Rond de `50 °C` gaan gisten dood die voor een laatste groei aan gascellen zorgen. Fysische bestanddelen met een laag kookpunt veranderen in hun gasvorm op `80 °C` dat nog meer druk oplevert. Boven de `90 °C` begint de korst te vormen [@fan1999model]. De druk doet de celwanden bezwijken waardoor cellen nog meer uitzettenn en de korst doen open breken. Dit gebeurt allemaal de eerste tien minuten in het bakproces. De exacte plaats van het scheuren kan een bakker beïnvloeden door op voorhand het deeg in te snijden. Omdat de celwanden op die plaatsen al gescheurd zijn, verliest het deeg op die plekken de druk tijdens het opwarmen. Tenminste, als de sneden goed geplaatst zijn. Erg vochtig deeg heeft door de plakkerigheid nogal eens de neiging om zichzelf te genezen voordat de temperatuur van het deeg hoog genoeg is om genoeg druk op te bouwen. De hoek waarin het mes gehouden wordt om de snede te maken speelt samen met de diepte een rol in het al dan niet breken van de korst op die bepaalde plek. \n\nZodra de korst volledig gevormd is, kan het brood niet meer rijzen. Op dat moment kan je in de oven kijken naar de duidelijke vorm van brood in plaats van deeg. Er is echter een manier om korstvorming nog wat langer uit te stellen, zodat het deeg nog nét iets hoger kan rijzen. Die manier is de toevoeging van stoom. Stoom verleent het oppervlak van deeg beetje extra rekbaarheid tijdens de _oven spring_ fase. Stoom voeg je aan het begin van het broodbakproces toe. Het hete water condenseert op het nog koelere deegoppervlak. Na een aantal minuten schakelt het water over van condensatie naar verdamping. Professionele ovens beschikken over 'dampsleutels' die na de kritieke fase van het bakproces geopend worden om het teveel aan vocht in de oven weg te laten ontsnappen. Het extra vocht geïntroduceerd door middel van stoom zorgt anders voor problemen waardoor de korst niet krokant genoeg wordt. Open dus nooit de oven tijdens de eerste minuten van het bakken. \n\nStoom zorgt niet alleen voor een betere rijs. De typische glans van de korst van brood is ook een gevolg van stoom. Het zetmeel aan de buitenkant van het deeg lost gedeeltelijk op in de condens. Dit papje geeft een mooie glans af. Het papje dat bakkers op deeg smeren om 'tijgerbrood' te maken heeft hetzelfde effect als de blinkende, krakelige korst vanwege de toegevoegde stoom. Deze glans geeft de korst een donkerdere, karakteristieke kleur. Als laatste voordeel zorgt stoom voor een evenredige en snellere hitte penetratie. Verdampen gaat altijd gepaard met hitte verlies: op die manier koelt ons lichaam door middel van zweet af. De toegevoegde warmte in de vorm van stoom minimaliseert dit verlies. Niet alle bakkers houden van stoom. Bakkerij Herteleer geeft de voorkeur aan een natuurlijk bakproces, wat voor hen bakken zonder stoom betekent. Volkoren roggebrood wordt vaak zonder stoom gebakken. Zonder gluten valt er toch niet veel te rijzen. Gebruik maken van stoom is een vrij recente gewoonte. De eerste 'Boulangerie _Viennoise_' in Parijs, geopend door de Oostenrijkse journalist August Zang, gebruikte een inventieve manier om voor de eerste keer in Frankrijk korst glazig te maken. Hij deed dat door een hoop goed gewassen natte hooi op de boden van de oven te plaatsen, die voor de productie van een wolk van stoom zorgt [@payen1859precis]. Ik neem aan dat zijn klanten de rokerige smaak er graag bij namen. Een mechanische stoom oven werd pas enkele eeuwen na Zang's nat hooi in 1840 uitgevonden. De invloed van de Wenen op traditioneel Frans brood is nog steeds voelbaar. _Pain viennois_ was een van de eerste zoete broden gemaakt met biergist in plaats van oud deeg (zuurdesem).\n\nGenooeg stoom creëren in een keukenoven is bijna onmogelijk. Ik heb veel verschillende manieren geprobeerd, maar geen enkele gaf hetzelfde effect als de zware stoombakken van mijn Rofco oven. Een kannetje met water in de oven plaatsen is nutteloos: het water warmt geleidelijk aan mee op en geeft nauwelijks stoom. Vergeet niet dat we in de tweede helft van het bakproces geen water meer willen. Een zware gietijzeren plaat mee opwarmen waar koud water op gegooid wordt geeft weliswaar stoom, maar die kleine hoeveelheid ontsnapt altijd terwijl ik probeer om zo snel mogelijk de oven terug te sluiten. Toen kreeg ik het lumineus idee om een plantensproeier te gebruiken. Eentje met pomp die goed veel druk weet op te bouwen. Brood in oven, vernevelen, deur dicht. Dat werkte. De korst blinkt meer dan zonder enige vorm van stoom. Daar ben ik echter ook mee moeten stoppen. Het bleek namelijk dat een slecht gemikte straal van mijn sproeier het oven lampje deed springen. Brood besprinkeld met stukjes glas heb ik dan toch maar weggegooid. Het grote temperatuurverschil tussen het water in mijn vernevelaar en het gloeiend hete glas in de oven zorgde voor ongewenste bijwerkingen. \n\nBakboeken van Ken Forkish [@forkish] en Chad Robertson [@tartine] raden daarom aan om brood thuis te bakken in een gesloten gietijzeren pot. Het vocht van het brood zorgt in de kleine ruimte zelf voor voldoende stoom. Een mooie korstvorming vereist wel het verwijderen van de deksel na twintig minuten. Gietijzer is zwaar en absorbeert zeer goed warmte. Zo'n voorverwarmde pot is daardoor gevaarlijk en onhandig om je deeg in te leggen. Een bijkomend nadeel is de plaats die het inneemt in de oven. De stoombakken van de Rofco bevatten hitte absorberende lava stenen die heel goed zijn in het omzetten van water naar stoom. Een sauna in de oven nabouwen is hier geen probleem. Ik heb nog niet geprobeerd om er enkele druppels lavendelolie in te laten vallen. Misschien stopt dan het geklaag van Kristien dat de oven stinkt. Residu van vorige baksessies kleeft soms nog aan de bakstenen die na veelvuldig gebruik inbranden. Dat brengt altijd een geur met zich mee. Bak trouwens nooit vetrijk deeg rechtstreeks op de steen. Die plek krijg je er niet alleen nooit meer uit, de onaangename lucht van sterk verbrande boter vergezelt je nog maanden daarna. \n\n### Kleur\n\nDe kleur van korst en kruim wordt niet alleen bepaald door de aanwezige suikers en eiwitten die in aanraking komen met hitte. Tijdens het groeien ontwikkelen tarwebessen in de zemellaag bepaalde pigmenten die een rode kleur afgeven. Die pigmenten zijn in feite _carotenoïden_, een groep van moleculen die verantwoordelijk zijn voor de gele tot roodachtige kleurstoffen. De groep kleurstoffen is op te delen in _xanthofyl_ (zuurstofhoudend, aanwezig in meel) en _caroteen_ (niet-zuurstofhoudend). Caroteen komt, zoals het woord al zegt, veel voor in wortel. Dit pigment brengt naast kleur ook smaak met zich mee. _Rode_ tarwe bevat meer van deze pigmenten dan _witte_ tarwe. Tarwe is dus in te delen in combinaties van hard of zacht, winter of lente, en rood of wit. De indeling in kleur is iets wat we in Europa niet zo goed kennen. Gek genoeg wordt zachte rode wintertarwe en harde rode lentetarwe geïmporteerd vanuit Amerika. Tarwe kwekers maken handig gebruik van technologie om de geoogste granen automatisch te sorteren op kleur. Op die manier wordt de puurheid van de kleur, net zoals een hele hoop andere eigenschappen, door de mensheid bepaald. Selectie, maar alles behalve een natuurlijke. \n\n\\index{Mout}\n\\index{Enzymen!Lipoxygenase}\n\\index{Xanthofyl}\n\\index{Diastatic Malt}\n\\label{mout}\n\nIn de praktijk beïnvloeden bakkers de kleur van de korst en het kruim via... Rara? Verbeteraars. Mengelingen die verkocht worden als 'woudmeel' verraden de aanwezigheid van toegevoegde kleurstoffen door de erg donkerbuine kleur van het meel. Een kleurstof hoeft niet een ongezond product te betekenen. Veel gebruikte additieven om de kleur te beïnvloeden zijn sojabloem, gebrande mout, en natuurlijk extra suikers. Het enzym _lipoxygenase_ aanwezig in sojabloem bleekt de xanthofyl kleurstoffen in de tarwe, wat een wittere kruim oplevert [@optionalsoy]. Ik heb geen flauw idee waarom dat spierwit brood vandaag de dag nog zo aanspreekt bij mensen. Ooit was dit een uniform symbool van status. Gevangenen kregen vies bruin volkoren tarwebrood, of nog erger, grijs roggebrood te eten. Witte bloem kost meer moeite door het zeven. Als trotste eter van een witte snee brood (chocopasta bestond toen nog niet) liet je andere mensen duidelijk verstaan wie er waardig was en wie niet. '_The medium is the message_' zei Marshall McLuhan ooit. Dat geldt nu ook nog, maar dan omgekeerd. Met een witte snee uit de boterhamdoos te halen riskeer je tegenwoordig uitgelachen te worden als onbewuste eter. De ene vindt wit brood een pure vorm van suikers [@broodbuik], de andere vindt dat zemelen de oorzaak van alle ellende zijn [@menace]. Het is een kwestie van goed op de hoogte te blijven van de laatste trends om vol zelfvertrouwen in een drukke cafetaria die boterhamdoos te durven openen.\n\nMout is ontkiemd en daarna gedroogd graan. Dit is een veel gebruikt 'geheim' ingerediënt dat een betere rijs, textuur en kleur oplevert [@nechita2009strong]. Waarom is dit goedje een wondermiddel? Juist omdat het ontkiemd is. Op dat moment worden de van nature aanwezige enzymen geactiveerd in de korrel, om het plantje te doen groeien. Dit ontketent op zijn beurt opgeslagen suikers. In het Engels kom je dit tegen als '_diastatic malt_'. Het diastatisch gehalte is een maat voor het vermogen van meel om maltrose te produceren uit zijn zetmeel. In feite meet men dan de amylase activiteit. Deze mout is makkelijk zelf te maken door eender welke graansoort te laten kiemen, drogen op een lage temperatuur en fijn te malen. De toevoeging van mout aan meel voor de prestatie van gisten te verhogen dateert van het einde van de negentiende eeuw. Soms worden de granen geroosterd, of 'gebrand', voor het malen. In dat geval komt de kleur voornamelijk van het branden, en niet van de werking van de meegeleverde enzymen. Een temperatuur boven de `50 °C` beschadigt de enzymen. Dat is de '_non-diastatic malt_'. Erg vetrijke degen zoals gelamineerd croissantdeeg kan veel voordelen halen uit een beetje mout. De boter laagjes maken het immers extra moeilijk voor het deeg om goed te kunnen rijzen. Merk op dat de toevoeging van veel enzymen aan een al redelijk actieve cultuur ongewenste gevolgen als een taai en slecht gerezen brood kan uitlokken. Te veel mout geeft ook een bittere smaak af aan het brood. \n\nHet gebruik van enzymen en andere additieven in brood kent een ongelofelijke groei sinds de introductie vlak na de tweede wereldoorlog. Dankzij de industrialisatie en wetenschappelijke vooruitgang van microbiologie en biochemie werd het alsmaar eenvoudiger om onder andere amylase in een laboratorium te kweken, gebaseerd op genetisch gemodificeerde organismen. De typische ingrediënten van een verbeteraar zijn uiteraard niet schadelijk voor de mens, en vinden hun oorsprong in de natuur. Ik vind het belangrijk om te begrijpen waar welke component voor gebruikt wordt, en welk effect dit heeft op het deeg. Het is echter minstens even belangrijk om ook eens te kijken naar de economische kant van het plaatje. Voedsel technologie is iets moois. We vinden belachelijk lang houdbare voeding in blik uit. We wijzigen het tarweras zo dat de opbrengst gemaximaliseerd wordt. We kweken enzymen in Petri schaaltjes. Dat steekt voornamelijk héél veel geld in de zakken van grote bedrijven. Om dat 'heel veel' te kwantificeren, citeer ik uit een rapport van Ângelo Samir Melim Miguel en anderen, over de trends van enzymen in de bakkerij [@miguel2013enzymes]:\n\n> _The world enzyme market is in evolution and a growth of 6.8% per year is expected. The world food and beverage enzymes demand requires attention, because it represented $1,220 million dollars in 2010, around 36.5% of the total world industrial enzyme demand, estimated in $3,345 million dollars. Moreover, the world food and beverages enzymes demand is expected to be responsible for 40.1% of the world industrial enzyme demand in 2020, accounting for $2,520 of $6,280 million dollars of the world industrial enzyme market._\n\nIk was met stomheid geslagen toen ik het verslag voor de eerste keer las. Er valt niet alleen de rode kleur van korst te winnen bij het gebruik van enzymen. Ook groen manifesteert zich in de vorm van katoenen briefjes. Figuur \\ref{enzymenvraag} toont de enzymen markt specifiek voor gebakken producten zoals brood.\n\n![Een illustratie van de enzymen markt voor gebakken producten, afgebeeld op jaren 2000 tot 2020\\label{enzymenvraag}](img/enzymenvraag.png){ width=80% }\n\nDe gegevens komen van het Amerikaanse 'Freedonia Group' gespecialiseerd in marktonderzoek, maar ik zie geen reden om aan te nemen waarom de vraag in Europa minder drastisch zou stijgen. De balken geven de vraag naar bakkerij producten aan. De lijn in de grafiek toont de relatieve stijging in Amerikaanse populatie in diezelfde jaren[^stijging]. De populatie steeg sinds 2000 met factor `1.2`. De vraag naar enzymen steeg met factor `6.4`. Deze twee grafieken op elkaar leggen duidt verband noch correlatie aan. Wat ik wel kan afleiden is dat het 'iedereen kunnen voeden' argument zeker niet de hoofdrol speelt in deze miljoenen industrie. Het verslag van Miguel beschrijft de groeiende trend om chemische additieven te vervangen door enzymen gewonnen uit natuurlijke bronen. Hoe natuurlijk dat nu precies is, zal ieder voor zich moeten uitmaken.\n\n[^stijging]: Deze populatie gegevens komen van het US Census Bureau, via Statista.\n\n### Een enzymen experiment\n\nWetenschappelijke studies lezen is leuk tot op het moment waarop mijn handen beginnen te jeuken. Toen ik las dat koji samen met mout een veel gebruikte bron is van alfa-amylase, besloot ik dit in de vorm van een experiment in mijn eigen keuken na te bootsen. Ik wilde wel eens zien hoe sterk dat effect van toegevoegde amylase is vergeleken met brood dat ik gebruikelijk bak. Om de proef een minimale wetenschappelijke waarde te geven had ik nood aan extra uitrusting: een rijskast. Een afgebakende omgeving waarin ik de temperatuur tot op de graad zelf kan bepalen, en constant kan houden. Dat was slechts een kwestie van een ongebruikte koelkast om te bouwen van koelen naar verwarmen. Het enige wat ik daar voor nodig bleek te hebben was een lamp en een thermostaat tussenstekker. De geïsoleerde ruimte houdt de warmte van de lamp vast, die door de thermostaat tussen vooraf ingesteld interval aan- en uitgeschakeld wordt. De lamp in kwestie moet genoeg hitte kunnen genereren verspreid over een relatief grote ruimte, dus een `40W` halogeenspot is de beste optie. Om de warmte snel te kunnen verdelen monteerde ik, met hulp van mijn schoonvader als electronica-expert, een `12V` ventilator van een oude desktop PC achter de lamp. \n\n\\index{Koji}\n\nDie incubatieruimte gebruik ik sindsdien met groot succes om tempeh en koji mee te maken, volgens het stappenplan van Sandor Katz [@katz]. Het grootste probleem is echter de juiste soort van _Rhizopus oligosporus_ in het geval van tempeh en _Aspergillus oryzae_ in het geval van koji vast te krijgen. In België is koji zo goed als onbekend. Met héél veel geluk kun je het voorverpakt vinden in een biologische speciaalzaak. Ik wilde echter geen kant-en-klare koji kopen, maar sporen van de schimmel zelf. Op naar een obscure Japanse online winkeltje dus - of gewoon eBay. '_Koji Kin_', de sporen, of 'starter', zijn verkrijgbaar in verschillende vormen en maten: voor sake of amazake te maken, voor miso, voor sojasaus, enzovoort. In het ene geval heb je meer zoet nodig, dus simpele suikers. In het andere geval maken de sporen meer protease aan die eiwitten afbreekt. Ik maak mijn eigen koji voornamelijk voor _shio koji_[^shiok], miso en amazaké, en had geen zin om verschillende zakjes te kopen die na een bepaalde tijd hun kracht verliezen. Een wilde gok ('_Kairyo Chohaku Kin Tane Koji_') bleek toch effectief te zijn. \n\n[^shiok]: Een gemalen combinatie van koji, zout en water, gebruikt om te marineren. \n\nAls ik geen schimmels kweek in mijn eigen koelkast die niet koelt, gebruik ik de ruimte om deeg te laten rijzen op een constante temperatuur. Het enige vervelende zijn de afmetingen van de schappen vergeleken met de bakplaten van mijn oven. Croissants moet ik noodgedwongen laten rijzen op stukjes bakpapier, om het daarna voorzichtig over te hevelen naar de platen om te kunnen bakken. Het systeem werkt goed genoeg om als hobbyist mee te knoeien. Het koji kweekproces bestaat uit in vier stappen:\n\n1. Graan een nacht laten weken. (12u)\n2. Graan nét niet beetgaar stomen. (30min)\n3. Graan inoculeren met de schimmel (5min)\n4. Graan incuberen op `32 °C` om de schimmel te laten groeien (40u)\n\nIk heb expres het woord 'graan' in plaats van 'rijst' gebruikt om aan te geven dat _Aspergillus oryzae_ ook groeit op andere granen zoals gerst. Wanneer de schimmel helemaal rond elke graankorrel gegroeid is zal die omgeven zijn met een miniscuul wit harig laagje. Als ik de rijskast open en een zoete geur me tegenmoet komt weet ik dat het tijd is om de stekker uit te trekken. 53 uur later heb ik mijn alfa-amylase, maar wat moet ik er nu mee? De sporen zijn niet dood maar groeien trager onder de `27 °C`. Vaak volgt nu nog een laatste pasteurisatiestap, maar dan vernietig ik waarschijnlijk mogelijke enzymen die juist nodig zijn voor mijn experiment. De verse koji laat ik enkele uren uit de rijskast drogen om daarna tot poeder fijn te malen. Een eerste vorm van amylase ben ik toch al rijker. \n\nIn mijn experiment beoogde ik om een gewoon gistbrood als controlegroep te vergelijken met brood met koji en brood met commerciële broodverbeteraar. Om het aantrekkelijker te maken de drie broden helemaal op te eten na afloop fermenteerde ik `20%` van de bloem op voorhand in de vorm van een poolish. Dit is het exact recept:\n\nTotaal (`100%` tarwebloem, `66%` hydratatie):\n\n> `500 gr` tarwebloem, T65 \\newline\n> `330 gr` water \\newline\n> `10 gr` grijs zeezout \\newline\n> `4 gr` gedroogde gist \\newline\n> `12 gr` toegevoegde stoffen voor het experiment\n\nWaarvan voor het voordeeg (`20%`):\n\n> `100 gr` tarwebloem, T65 \\newline\n> `100 gr` water \\newline\n> `0.7 gr` gedroogde gist \\newline\n\nHet voordeeg heeft 12 uur gefermenteerd met een initiële temperatuur van `25 °C` die terugzakte tot `19.3 °C`. Als deel van het experiment is consistentie in het broodbakproces belangrijk, anders wordt misschien de verkeerde conclusie getrokken. Het deeg zou `24 °C` moeten zijn, maar het voordeeg was al afgekoeld. De enige temperatuur die ik kan beïnvloeden is de temperatuur van het water. Om te berekenen hoe warm dit precies moet zijn kan je de '_Desired Dough Temperature_' techniek toepassen. Meet de temperatuur van alle aanwezige factoren (ingrediënten, kamertemperatuur), trek die af van de gewenste temperatuur maal het aantal factoren, en wat overblijft is de doeltemperatuur van het water:\n\n| Factor       | Temperatuur in Fahrenheit | Temperatuur in Celcius |\n|:-------------|:---------------------------:|:------------------------:|\n| Kamer        | `69.5 °F`                   | `20.8 °C`              |\n| Bloem        | `65.3 °F`                   | `18.5 °C`              |\n| Voordeeg     | `66.8 °F`                   | `19.3 °C`              |\n| Vrijving     | `20.0 °F`                   | /                      |    \n| Water        | ?                           | ?                      |\n\nTable: Waargenomen temperaturen van factoren die de temperatuur van het deeg beïnvloeden. \\label{temptable}\n\nDe gewenste deegtemperatuur (`24 °C`) maal 4 is `304 °F`, verminderd met de temperaturen uit tabel \\ref{temptable} is `82.4 °F` of ongeveer `28 °C`. Kneden doet de temperatuur van het deeg ook stijgen door middel van kinetische energie die mee in rekening gebracht moet worden[^rekeningbr]. Dit verschil is te klein om in Celcius te kunnen berekenen. Ik vergat echter dat dit effect helemaal niet zo groot is als voorzien wanneer je met de hand kneedt. Een tweede probleem is het kneedoppervlak: de koude marmeren steen steelt energie tijdens het kneden. Na exact 6 minuten intensief handwerk voor elk deeg meette ik nog iets meer dan `22 °C` - dat is twee volle graden er naast. Al een geluk dat dit probleem zich bij alle degen stelde. De incubatieruimte werd ingesteld tussen de `24.5` en `25.5 °C`.\n\n[^rekeningbr]: De `20 °F` komt uit een referentietabel en gaat uit van het gebruik van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn hangen nooit kunnen voortbrengen. \n\nRijstijden zijn waar te nemen in tabel \\ref{rijstable}:\n\n| Type deeg   | Eerste rijstijd | Tweede rijstijd | Bakken |\n|:------------|:----------------|:----------------|:-------|\n| Controle    | 11u30 (2u)      | 13u30 (37min)   | 14u07  |\n| Koji        | 12u00 (2u21min) | 14u21 (27min)   | 14u48  |\n| Verbeteraar | 12u13 (1u50)    | 14u03 (32min)   | 14u35  |\n\nTable: Tijdstippen van rijstijden voor elk type deeg. \\label{rijstable}\n\nIk werkte niet parallel, dus nadat het controledeeg als eerste in de rijskast verdween kon ik aan het tweede deeg beginnen. Om te oordelen op welk moment de eerste rijstijd onderbroken moet worden, liet ik `150 gr` van het deeg rijzen in doorzichtige cilindervormige containers. Op het begin en het einde van de eerste fermentatie werd met plakband aangeduid tot op welke hoogte het stukje deeg stond. Het controledeeg verdriedubbelde in grootte na exact twee uur rijzen. Op dat moment besliste ik het deeg in een _boule_ te vormen en in een rijsmandje opnieuw te laten rijzen. De andere types deeg werden gevormd op het moment dat in elke aparte container duidelijk zichtbaar was dat ze even hoog stonden als het controledeeg. Zoals af te leiden is uit tabel \\ref{rijstable}, racete het deeg met de commerciële verbeteraar beduidend sneller naar de finish dan het controledeeg. Tien minuten op twee uur tijd is ongeveer `8.3%` sneller. Dat is leuk, maar niet indrukwekkend. De verbeteraar bevat nog een aantal andere ingrediënten buiten enzymen, zoals plantaardige vetstoffen en emulgatoren. \n\nDe traagheid waarmee het koji deeg op gang kwam is wel indrukwekkend. Hoe kan dat, was het niet de bedoeling dat dit deeg sneller zijn suikers afbreekt en vrijgeeft aan de gisten dankzij de extra amylase? Ik besefte al tijdens het kneden dat ik iets had mis gedaan: het deeg voelde erg korrelig aan. De met de vijzel fijngestampte koji rijst was dus niet fijn genoeg gemalen om volledig opgenomen te worden door het deeg. De miniscule harde rijstkorrels werkten als vlijmscherpe messen en sneden constant de opgebouwde gluten netwerken doormidden. Het gevolg is deeg dat erg slecht rijst, zoals zichtbaar in de doorzichtige container. Het was echter niet zo'n slim idee om enkel op basis van volume te controleren of het deeg klaar was voor de volgende stap. De enzymen deden wel degelijk hun werk. Toen ik het deeg uit de mengkom haalde, voelde en rook ik dat het in feite te lang gerezen had. De wetenschappelijke waarde van dit experiment zakte naar nul, ik haalde mijn schouders op (na een vloek of twee), en werkte gewoon verder. Dat was trouwens niet de eerste fout die ik maakte: het controledeeg kreeg per ongeluk `560 gr` water in plaats van `320 gr` omdat ik gewoon ben om met kilo's te werken. Ik besefte dit juist voordat ik ging mengen, dus wat prutswerk met lepeltjes later gaf de weegschaal toch nog het juiste gewicht aan. \n\nAlle factoren volledig onder controle hebben in je eigen keuken lukt nooit. Mijn dure weegschaal (TODO merk) beweert precies te zijn tot op `0.1 gr`. \n\n\n\\newpage\n\n### Samenvatting\n\n* Je eet ook met je ogen. Elegant brood smaakt beter.\n* Geef meel de kans om water op te nemen, voordat je begint met kneden. Voeg daarna pas zout toe. \n* Gluten van tarwe zorgt voor uitrekbaarheid en elasticiteit. Rogge beschikt maar over één van beide eigenschappen. \n* Enzymen spelen een belangrijke rol in het vormen van brood. \n* Geef deeg tijd. Vorm het deeg in twee stappen.\n* Kneden is niet verplicht. Intensief kneden zorgt voor een evenredige, dichte kruim. Nauwelijks neden en veel water zorgt voor een open kruim.\n* Het eiwitgehalte bepaalt de opneembaarheid van water.\n* Er is een verschil tussen winter en lentetarwe, en tussen zachte en harde tarwe. Dit heeft niets te maken met de uitmalingsgraad. \n* Probeer altijd gebaseerd op de informatie op de meelzak te bepalen over welk soort meel het gaat.\n* De opneembaarheid van water kan verder verhoogd worden door langer te wachten, extra enzymen te gebruiken, of in twee keer water toe te voegen.\n* Er valt héél veel geld te verdienen met de productie en verkoop van additieven. \n* Rogge staat gelijk aan plakkerigheid door de aanwezigheid van pentosen.\n* Gebruik altijd zuurdesem in combinatie met rogge.\n* Er zit vaak toegevoegd vitamine C in brood, en niet vanwege je gezondheid.\n* De Japanse _yudane_ methode creëert in combinatie met een beetje melk een zijdezacht kruim. \n* Iedere bakker heeft zijn eigen vormingstechniek. In de praktijk komt het neer op ofwel een bolletje, ofwel een langwerpig brood.\n* Oppervlaktespanning is nodig om brood mooi naar boven te laten rijzen in afwezigheid van een bakvorm.\n",
-			"file": "content/boek/structuur.pd.md",
-			"file_size": 50327,
-			"file_write_time": 131973762360000000,
-			"settings":
-			{
-				"buffer_size": 50226,
+				"buffer_size": 60511,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/boek/recept.pd.md",
+			"contents": "\n## Alles vergeten wat je geleerd hebt\n\n> ‘_Food made with love is good. \\newline Food made without is not._’ - Maurizio Negrini\n\n### Februari 2014\n\n‘Heb je enig idee wat voor vuiligheid daar allemaal in zit?’ Peter kijkt ons even ongeduldig aan en hervat daarna zijn taak om de bakkerij op orde te brengen. \n‘Weet jij wat dat voor een rommel mensen tegenwoordig allemaal eten?’ Pannen worden op elkaar gestapeld, bloemresten bij elkaar geveegd.\n‘Euhm...’ Ik had er geen idee van, en natuurlijk heeft hij gelijk. We kijken elkaar vragend aan, enigszins verrast door de vurige reacties. Het is tien uur ‘s morgens en Patrick, Dimitri, en ik staan in de kelder en bakkerij van Peter Schoofs te Genk. Patrick, die Peter nog kende van vroeger, heeft voor ons een kijkje in de bakkerij geregeld. We zijn alledrie razend enthousiast en proberen iedere centimeter informatie uit de bakker zijn neus te peuteren. Peter heeft namelijk dezelfde opleiding achter de rug als wij, in dezelfde avondschool, met dezelfde leerkracht. Het lijkt ons dus niet meer dan logisch dat hij ons enkele nuttige tips kan geven als beginners. \n‘Pas je veel zaken toe die je geleerd hebt van de opleiding?’ vraag ik voorzichtig. \n‘De opleiding? Hmpf. Het eerste wat ik gedaan heb toen ik mijn diploma had, was alles vergeten wat ik geleerd heb.’ Gekletter van meer pannen die op elkaar gestapeld worden. Snel op- en af geloop, terwijl wij er wat schaapachtig bij staan te kijken. \n'Ik heb jaren in combinatie met de avondschool mijn échte opleiding gevolgd in deze bakkerij zelf, bij Willy' legt Peter uit. \n\nHet verhaal van Peter als bakker is een atypisch maar frequenter voorkomend fenomeen: hij heeft jaren als industrieel ingenieur gewerkt en heeft in 1999 de beslissing genomen om zijn carrière volledig om te gooien. De bakkerij, genaamd ‘Natuurbakkerij Schoofs & Herteleer’, heeft hij samen met zijn vrouw, na een lange stage en het behalen van het wettelijk verplicht diploma, overgenomen van zijn voorganger Willy Herteleer. Zoals de naam reeds doet vermoeden, wordt er enkel met zuivere, honderd procent natuurlijke producten gewerkt. Peter weigert bijvoorbeeld suiker in zijn veel voorkomende vormen te gebruiken en experimenteert in de plaats daarvan met rijststroop. \n\n‘Er komen hier veel klanten op advies van hun dokter over de vloer. Mensen met darmklachten, problemen met hun spijsvertering, uitslag, pijn aan de keel, noem maar op. Wij proberen hen een alternatief te bieden. Geen rommel voor het lichaam, maar iets dat voedingswaarde bevat en blijft hangen.’\n‘Dus wat voor een vuiligheid zit er dan allemaal in een gewoon brood?’ vraag ik. Onze avondschool die ons tot waardig brood- en banketbakker zou moeten opleiden is in 2014 nog maar pas begonnen, en ik begreep maar half wat Peter allemaal ons probeerde duidelijk te maken. Een blik op mijn twee collega studenten verraadde dezelfde verwarring. \n‘Vuiligheid! Margarines, moeilijk of nietverteerbare vetten in alle vormen en maten. Hopen suikers. Niet moeilijk dat een mens niet _kan gaan_, of te veel gaat!’ Hierna begon Peter met Patrick een uitgebreide discussie aan te gaan over de verschillende stoelgang vormen en waarom voeding hier een rol in zou spelen, terwijl Dimitri en ik probeerden onze lach in te houden en ondertussen onze ogen de kost gaven om de bakkerij zelf te inspecteren. Ik moet weer concluderen dat hij gelijk heeft, in al zijn hevigheid. Brood is voor enorm veel Vlaamse en Nederlandse gezinnen een integraal deel van het vast eetpatroon dat meerdere keren per dag op tafel verschijnt. Als het ergens misgaat lijkt me dat een goed startpunt. \n\nDe bakkerij van Schoofs is uitstekend uitgerust met twee grote ovens, verschillende mixers, twee opbollers, en een uitroltafel om taart- en croissantdeeg in grote hoeveelheden te kunnen uitrollen. ‘Ik bak `400` tot `500` broden op één nacht. Daarvoor heb ik alle ovenruimte nodig die ik kan krijgen.’ Peter laat ons een kijkje nemen in de ovens. \n‘Dit exemplaar is een variant van een rotatieoven’. Een rupsband roteert de bakvormen in de oven zelf tijdens het bakken om een gelijkmatig bakproces te kunnen garanderen. Het heeft ook verschillende verdiepingen, net zoals zijn tweede oven waar op de steen zelf gebakken wordt. \n‘Stoom je hierin?’ vraagt Dimitri die wijst naar de steenoven. \n‘Stoom maakt alles kapot! Enkel bakken op de steen, op natuurlijke manier. Geen stoom. Zo krijg je een normale ovenrijs die de broden niet te zeer scheuren.’ Peter laat ons enkele gebakken broden zien die in de winkel achter de toog liggen. De afwezigheid van glans duidt inderdaad op geen stoom. Iedere bakker heeft een zekere stijl die je in alle gebakken broden terugvindt. Hij snijdt het deeg niet in voordat het in de oven gaat om het te laten openspringen, maar laat liever de natuur zijn gang gaan. \n‘Ik maak roggebrood, desembrood, spelt, met zaden, zonder zaden, noem maar op. Iedereen heeft zo wel zijn favoriet brood en je kan hier altijd wel iets kopen waar je je in kan vinden.’ Om zo’n grote variatie aan te kunnen bieden moet er iedere nacht doorgewerkt worden. Wij zijn alvast onder de indruk.\n\n‘En wat is dit, Peter?’ vraagt Patrick terwijl hij wijst naar een grote hoeveelheid keramieken potten die opgeborgen staan. \n‘Ah die gebruik ik voor het pottenbrood. Daar zit een bom aan voedingsstoffen in met onder andere volkoren rogge en zilvervliesrijst. Twee sneetjes eten en je hebt al genoeg, met dit brood kan je de Mont Ventoux oprijden!’\n‘Zit hier zuurdesem in dan?’ Peter haalt een pot van de plank en laat het ons zien. \n‘Neen, hier zit niets in, alleen puur natuur. Dit rijst héél langzaam, op zichzelf, en wordt dan ook langzaam gebakken doordat het keramiek de hitte langzaam in zich opneemt en afgeeft op het deeg. Het wordt met dalende temperatuur gebakken, als laatste batch, wanneer de oven uit is.’ Brood dat rijst zonder gist, zonder zuurdesem, zonder enige vorm van rijsmiddel. Die man was onze nieuwe held. \n‘Hier is mijn desem.’ Peter haalt uit een berging een grote emmer tevoorschijn waar hij ons aan laat ruiken. Ik ruik een aangename combinatie van zuur en zoet dat duidt op de juiste balans van melk- en azijnzuren. \n‘Wat zijn die verschillende kleurschakeringen dan?’ De emmer onthulde deeg dat bonte kleuren aannam van beige, geel, lichtbruin, en donkerbruin. \n‘Het is geen pure zuurdesem maar overschotjes deeg die ik bij elkaar gooi en verder laat fermenteren totdat alle gist kapot is. Hier gebruik ik dan een deel van om mijn desembrood aan de gang te brengen.’ In een groot deel van zijn broden zit verse bakkersgist. Bij het afwegen kan het al eens voorkomen dat er wat stukjes deeg over blijven, en die worden allemaal verzameld om verder te rijzen. Commerciële gist rijst snel waardoor na een tijdje verzuring optreedt en een ander smakenpallet creëert. Op die manier reduceer je op een slimme manier afval in de bakkerij, zoals sommige taartdegen ook bestaan uit samengeplakte lapjes overschot. \n\nRechts van de steenoven staat een grote kneedmachine. \n‘De plaatsing van de machines past allemaal in mijn eigen optimaal systeem: ik werk van links naar rechts, zie je. Eerst kneden, dan opschuiven naar de verdeeltafel, dan naar de opbollers of lamineren, en zo eindigen in de oven. Alles staat afgesteld op mijn eigen ritme.’\nIk wijs naar de spiraalkneder, rechts van zijn grote broer. ‘Kneed je daar alles in?’\n‘God neen,’ schudt Peter, ‘de grote hoop van het deeg wordt in de Tonnaer gekneed. Die spiraalkneder is voor taarten en ander vetter deeg. Deze Tonnaer is van 1957 en krijg je niet kapot. Het is nog aangedreven met een riem die redelijk simpel zelf te herstellen is.’ De machine ziet er voor het ongetrainde oog misschien niet zo indrukwekkend uit, maar wij werden er toch behoorlijk warm van. De grote kuip bevat één kneedhaak die een trage op- en neerwaartse beweging maakt. \n‘Zo wordt het kneden met de hand het beste benaderd door een machine. Mijn deeg mag niet snel gekneed worden of het gaat stuk. Een volkoren- of roggedeeg houdt de snelheid van een spiraalkneder niet lang vol, daar zitten niet genoeg gluten in en ik gebruik geen heel sterke bloem’ legt Peter verder uit. Hij zet ter demonstratie de machines even aan, om ons het verschil in snelheid te laten zien. De enkele kneedhaak gaat gestaag op- en neer met een constante '_hum hum hum_' die ik veel later, tijdens mijn stage, leer liefkozen. De snellere kneder stoot een krachtigere maar vervelende '_njng njng njng_' kreet uit. Nu is het mij ook meteen duidelijk waarom er een veiligheidsbarrière voor hangt: als je daar nog snel een restje deeg wilt uithalen terwijl de kneder aan staat, breek je onmiddellijk je hand...\n\nHet moeilijkste aan Peter zijn systeem lijkt me het deeg uit de grote mengkom halen en op de tafel leggen om verder te verdelen en opbollen. \n‘Alles tillen op de rug is inderdaad dodelijk.’ Peter haalt zijn schouders op. Weer iets om mee rekening te houden. Ik voel al een pijnlijke steek aan mijn onderrug als ik nog maar kijk naar die kneder. Ik herinner me plots Ghislain, onze leerkracht, vertellen dat hij een paar keer in zijn bakkers carrière een hernia had opgelopen omwille van exact hetzelfde probleem. Bakkers verkwisten ook niet graag tijd en heffen daarom vaak meer dan ze aankunnen. De klok tikt immers, niet alleen om hun werk in het algemeen gedaan te krijgen, maar ook omdat eens het rijsmiddel is toegevoegd aan het deeg, alles begint te leven. Een bakker voert elke dag (of in Peter zijn geval, nacht) als het ware een strijd tegen de tijd. \n\nWij bewonderen Peter allemaal omwille van zijn carrièreswitch en volharding die nodig is om elke nacht zo goed als alleen die honderden broden uit de oven te halen. We zijn stiekem een beetje jaloers op hem. De meeste leerlingen van de avondschool aanschouwen bakken als een hobby waar ooit meer van kan komen, terwijl de studenten van de dagopleiding zich inschrijven met de intentie om effectief professionele bakker te worden. Het zeurende gevoel van de dagelijkse werksleur zit er bij ons nog goed in en het vooruitzicht om exact hetzelfde nog jaren te doen tot aan het pensioen maak het er niet echt vrolijker op. Op dit punt klinkt een switch naar bakker heel romantisch en we vragen de bakker naar zijn ervaringen toen hij pas de keuze gemaakt had. \n‘Veel werkwijzen en recepten heb ik zelf moeten uitzoeken. Het heeft me bloed, zweet, tranen, en jaren keihard werken gekost om te geraken waar ik nu ben en ik ben nog steeds niet tevreden. Je moet blijven verbeteren en kritisch kijken naar je eigen werk. Het is keihard werken, ‘s nachts in een kelder met artificieel licht. Ik snak naar dagligt en vakantie maar die dingen moet je leren gedeeltelijk op te geven. Ik heb in die jaren verschillende keren gedacht om er volledig mee te stoppen.’ Hij kijkt ons alledrie een tijdje aan en we worden er stil van. \n\nMisschien is fietsenmaker meer iets voor mij.\n\n‘De winkel boven moet ook bijgevuld worden, het brood moet hier verkocht worden en wordt nog doorverkocht aan winkels zoals het Calorietje in Hasselt. Dat is allemaal erg veel om rekening mee te houden. Ik denk dat ik in de toekomst een aantal dingen ga moeten schrappen want het is zo nauwelijks uit te houden… ‘ \nDe aftandse zetel die in de hoek naast een oven staat zegt veel. Peter zag dat ik er naar staarde en zei ‘voor dutjes tussendoor, wanneer het echt niet meer gaat. Kerst en pasen zijn nog erger, voor velen is dat de leukste periode van het jaar. Voor ons is dat hard werken.’ ‘Ik zal een tip geven. Als jullie van plan zijn ooit een bakkerij te openen, zoek dan een goede partner die u steunt door dik en dun. Als jij op het punt staat op te geven, motiveert die u om te blijven gaan. Als je iets vergeet te bestellen, regelt die dat voor u. Zonder mijn vrouw kon ik dit onmogelijk doen.’ Ik hoop dat mijn vrouw dit nooit leest...\n\nAan de natuurbakkerij is ook een winkeltje verbonden waar biologische producten verkocht worden zoals sinaasappel olijfolie uit Italië en verschillende soorten granen, thee, en andere natuurlijke producten. \n‘Ik heb die olie zelf gekozen en ben naar de pers geweest in Italië om hem te proeven. Geweldige boel, proef zelf maar eens!’ Hij brak een aantal pistolets en deed er wat olie op om ons zelf te laten oordelen. De olie was intens en de smaak van sinaasappel blijft lang hangen. Zoiets past goed bij een pistolet die zelf eerder de drager dan de smaakmaker is. Schoofs is een veel opzichten een typische Vlaamse bakkerij: je kan er sandwiches, pistolets, en enorm veel soorten brood krijgen maar ook wafels, taartjes en seizoensgebak. Het grootste verschil zit hem in de ingrediënten, of het gebrek daarvan.\nPeter maalt ook zijn eigen bloem, die vers verwerkt wordt in zijn producten. ‘Hier ben ik nog volop mee aan het experimenteren. Deze molen kan één zak `25 kg` granen vrij snel verwerken maar het is een gigantische stofboel en ik heb niet altijd de tijd om alle granen zelf te malen. Twintig tot dertig procent van een brod bestaat uit zelfgemalen meel.’ In het midden van een aparte kamer rechts van de toog staat een mobiele elektrisch aangedreven steenmolen. De kamer is voorzien van een groot raam zodat mensen vanuit de winkel kunnen meegenieten van de show. \n\n‘Pas op, naar achteren!’ waarschuwt hij. We lopen terug tot aan de deur terwijl Peter een zak spelt in de molen giet en deze activeert. \n‘De wrijving van de stenen zorgen ervoor dat de granen geplet worden maar ook dat alles verhit wordt. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt maar de kamer wordt desalniettemin bekleed met een mooi laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. \n‘Laat je dit dan rusten of gebruik je dit onmiddellijk?’ vraag ik. \n‘Vers gemalen bloem moet je een aantal uren laten rusten en kan je niet _groen_ verwerken. Bij bloem is dat anders. Ik laat het meestal 12 uren staan en dan gaat het deze nacht in het deeg.’ De zak wordt dichtgeknoopt en afgekoppeld van de molen. Ik noteer in mijn hoofd dat ik ooit eens zelf graan wil malen[^zelfm].\n‘Maar waar haal je je graan dan vandaan?’ We hadden veel zakken graan, zaden, bloem, en meel zien liggen in de opslagplaats naast de bakkerij.  \n‘Die wordt besteld vanuit een molen in Oudenaarde. Dat is een van de enige molens in België die mij biologisch lokaal geteeld materiaal kan leveren.’ Op dat moment was de voor mij kortsbijzijnde molen in Stevoort nog niet gecertifiëerd en konden nabijgelegen boeren niet voldoen aan de grotere  hoeveelheden die Schoofs elke nacht verwerkt. \nEen vreemd object valt me op in de andere hoek van de kamer waar de molen staat. \n‘Oh, dat is een oude zeef die gebruikt kan worden om meel tot bloem te verwerken. De zemelen die gescheiden worden kan ik dan weer gebruiken in bijvoorbeeld het pottenbrood. Niets gaat hier verloren!’ De zeef ziet er klein uit, ik denk niet dat die `25 kg` even snel verwerkt gaat worden als van graan tot meel. Peter gebruikt meestal zijn meel zonder zeven. \n\n[^zelfm]: Dat is nog steeds genoteerd.\n\nWe bedanken Peter hartelijk voor zijn tijd en krijgen nog een brood mee om te proeven. Ik ben daarna nog verschillende keren terug geweest om andere soorten brood te kopen en te proeven, waaronder hun zuurdesembrood gemaakt van het lapjes deeg. Het proefde verrassend zuur, ik had eerder iets yoghurt achtig verwacht maar mijn smaakpapillen verwelkomen in de plaats daarvan veel azijnzuren van het uitgegist deeg. Het valt ook op dat bijna alle broden zeer stevig van structuur zijn. Ik neem aan dat de opboller anders problemen krijgt met het verwerken van te plakkerig deeg. Het gebruik van grote hoeveelheden volle granen betekent ook een veel hogere wateropname van het deeg. \n\nDat was mijn eerste kennismaking met een échte volledig operationele bakkerij, los van de ruimte in de avondschool. Er zijn zoveel goede, hardwerkende bakkers in Vlaanderen, maar mijn persoonlijke queeste naar zuurdesem, eenvoud, en het natuurlijke bracht me naar deze bakkerij in Genk. Ik was ervan overtuigd dat er nog veel meer te leren viel van andere openhartige bakkers. \nDe wilde ideeën om misschien zelf ooit zo zot te zijn maakte zulke bezoekjes best spannend. Terug onderweg naar mijn écht werk probeer ik zoveel mogelijk die gedachten te verdringen, zonder veel succes. Ik zat vol met nog meer vragen en kon mijn nieuwsgierigheid niet echt de baas. Ik besloot om Willy Herteleer te bezoeken, de leermeester die Peter zijn kennis en bakkerij heeft nagelaten. \n\n### Oktober 2014\n\nWilly heeft de bakkerij van zijn vader overgenomen. Dat was toen gevestigd in een ander pand op dezelfde André Dumontlaan te Genk. \n‘Ik heb er een natuurbakkerij van gemaakt’ klinkt het trots. Ik zit samen met Willy en zijn vrouw in de living bij hun thuis, op een gure doordeweekse oktober avond. Toen hij hoorde dat ik zo enthousiast was over brood en natuurlijke ingrediënten, nodigde hij me uit voor een gezellig gesprek over zijn gloriejaren van vroeger. \n‘De bakkerij van mijn vader was een goede bakkerij, maar was er eentje zoals alle anderen. We gebruikten wat we kenden en wat toen in opkomst was: margarines, veel gist, en veel suiker. Op een gegeven moment was ik het beu om ongezonde voeding aan mijn klanten te verkopen en heb ik alles buiten gegooid. Het was niet niks om vanaf nul opnieuw te beginnen. Je moet namelijk alles terug uitvinden. Maar dat is één van de leukste dingen aan bakker zijn: constant jezelf opnieuw uitvinden. Je kan ook jarenlang dezelfde producten aanbieden, maar dat geeft minder voldoening, zowel voor jezelf als voor je klanten.’ \n‘Een kopje thee?’ Heel graag, antwoord ik. Er wordt organische rietsuiker bij gegeven. Ik had niets anders verwacht. \n\nWilly vertelt dat hij keramieken potten maakte om het brood langzaam te laten rijzen en bakken. Ik knik herkennend, terugdenkend aan het bezoek aan nu Peter’s bakkerij. Ik heb toen ook zo’n brood mee gekregen en er meer dan een week van kunnen eten. Mijn maag zat zoals voorspeld erg snel vol. \n‘Het idee van natuurlijk voedsel trok ik verder dan brood alleen. We maakten onder andere grote hoeveelheden kombucha die in de winkel in grote flessen verdeeld werd.’ Ook andere gefermenteerde producten en verschillende kruiden werden er verkocht. \n‘Natuurproducten van Damhert werden geleverd en wij als kleinhandelaar verkochten dit aan de consument. Zo heb ik trouwens Peter Schoofs leren kennen, zijn broer is eigenaar van Damhert.’ gaat Willy verder. \n‘Hoe heb je geleerd om desembrood te bakken?’ vraag ik. Ik wist dat de bakkerij van zijn vader hier niet mee bezig was en dat de officiële opleiding als bakker hier ook geen woord over rept, dus was benieuwd naar de origine van de kennis. \n‘Ik ben in aanraking gekomen met desem via de bakkerij van LIMA. Daar werd vanaf nul een grote hoeveelheid deeg gemaakt door in zeven aparte troggen elke dag het deeg te verzetten en op te kweken. De laatste trog bevatte dan het deeg dat gebakken kon worden.‘ \nHet woord _trog_ klinkt hier misschien onaantrekkelijk, maar via de demonstratiedagen van Bokrijk leerde ik de grote houten bakken beter kennen. Die zijn eigenlijk best wel handig, staand op hoge poten, zodat bakkers hun rug minder moeten belasten om deeg in- en uit de trog te verslepen. Je kan er makkelijk `60 kg` bloem in kwijt, afhankelijk van de grootte. Ook kneden in de bakken zelf is mogelijk dankzij de waterdichtheid. Enkele fanatieke traditionele bakkers in Frankrijk doen dit vandaag de dag nog altijd op deze manier, zoals Nicolas Supiot.\n\n‘Maar ik ben toch blij dat het voor ons gedaan is hoor’ zegt zijn vrouw, terwijl ze naar hem kijkt. Willy zucht. \n‘Het is echt hard werken. Ik werkte regelmatig tachtig uur per week. Om drie uur ‘s nachts beginnen en bij sluitingsdagen op zondag en maandag waren we nog volop bezig met voorbereidingen voor de rest van de week. Op die manier konden we nooit echt op vakantie gaan. Ik denk niet dat ik ooit nog zoiets intensief wil doen, of aankan. Dat waren `1400` broden per week...’\n‘En toch is hij nooit slecht gezind gaan werken hé!’\n‘Neen, waarom zou ik?’ Hij kijkt verbaasd naar zijn vrouw. Ik begin mij ongemakkelijk te voelen.\n‘Omdat het zwaar en hard werken is! Weet u, Willy heeft altijd fluitend de bakkerij open gehouden. Klagen heeft toch geen zijn. En alles blonk altijd zoals een spiegel nadat de shift er op zat. Ja, poetsen, dat komt er ook nog eens bij.’ \nSamen bekrachtigen ze Peter Schoofs zijn tip om een goede partner te zoeken. 'Als je dat niet hebt, begin je er beter gewoon niet aan.' Dat was duidelijk.\n\nVoordat ik vertrek krijg ik van Willy een versgebakken brood verpakt in een broodzak van zijn vroegere bakkerij, 'Natuurbakkerij W. Herteleer'. \n‘Ik bak nog elke week thuis en leg de meeste broden in de diepvries om toe te komen.’ Eens een bakker, altijd een bakker - dat krijg je er nooit meer uit, zoveel is zeker. En dan nog, waarom zou je? 'Ja Wouter, zo een goed stevig deeg... Als ik er aan denk krijg ik er terug zin in!' Willy, en bijgevolg Peter, zijn beiden bakkers die, net zoals de meeste andere Vlaamse bakkers, de voorkeur geven aan stevigheid in plaats van het erg slap deeg dat ik tegen zou komen tijdens mijn stage. Ik had er ook aan gedacht om zelfgebakken brood mee te nemen dat dankbaar in ontvangst genomen werd. 'Ja...' zei Willy toen hij het brood een aantal keren ronddraaide om langs alle kanten te kunnen inspecteren. 'Goed bezig. Wees daar maar zeker van. Dat zie ik zo.' Hij verdween in de keuken en kwam terug met een afgesneden stuk. 'Hmm. Dit is beter dan de meeste andere Belgische bakkers. Desem geeft die volle smaak. Er goed.' Die paar korte goedkeurende zinnetjes van een veteraan in de bakkerswereld betekenden erg veel voor mij. \n\nOp de broodzak stond de volgende tekst:\n\n> '_Ons brood en gebak wordt bereid met voltarwemeel van biologische teelt. Zonder chemische meststoffen, pesticiden of toevoeging van broodverbeteraars. De granen worden dagelijks met een eigen molen vers gemalen._'\n\nDe tekening van een bakker die maalt met een molen doet me sterk denken aan de molen die Peter ons heeft laten zien...\n\nIk ben blij dat er mensen in de wereld zijn zoals Willy en Peter, die niet zomaar opgeven, en iets willen betekenen voor anderen. Het belang om iets lekkers, maar ook om iets natuurlijks vol voedingswaarden te kunnen aanbieden is groot. Een bakkerij openen is geen lachertje, jaren tot aan uw pensioen blijven bakken nog minder. Zelfs als je zoals Willy al fluitend jezelf toewijdt aan die dagelijkse taken, toch blijft het niet te onderschatten fysiek zwaar werk. De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en leren van anderen, maar tegelijkertijd schrikte het mij wat af. Veel mensen zoals mij zijn immers tegenwoordig bevoorrecht met wat ik lui werk noem: de ganse dag zitten en goed betaald worden. En dan nog durven dromen over iets anders en beters. Ik weet nu heel zeker dat een échte ambacht zoals een bakker nooit in die categorie zou vallen. \n\n",
+			"file": "content/boek/alles-vergeten-dat-geleerd-is.pd.md",
+			"file_size": 23334,
+			"file_write_time": 131979200710000000,
 			"settings":
 			{
-				"buffer_size": 22110,
+				"buffer_size": 23081,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/Makefile",
+			"settings":
+			{
+				"buffer_size": 1677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/crashcursus-microbiologie.pd.md",
+			"settings":
+			{
+				"buffer_size": 41887,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/kabouters.pd.md",
+			"settings":
+			{
+				"buffer_size": 19203,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/bokrijk.pd.md",
+			"settings":
+			{
+				"buffer_size": 28966,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -653,31 +678,33 @@
 	],
 	"file_history":
 	[
-		"/Users/jefklak/development/redzuurdesem/content/boek/preamble.tex",
-		"/Users/jefklak/development/redzuurdesem/content/boek/geur.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/crashcursus-microbiologie.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
-		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/verdienen.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/recept.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.tex",
+		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
+		"/Users/jefklak/development/redzuurdesem/content/boek/afterbody.tex",
+		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/crashcursus-microbiologie.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/verdienen.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/epiloog.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/kabouters.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.lof",
+		"/Users/jefklak/development/redzuurdesem/content/boek/straints.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/geur.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/preamble.tex",
 		"/Users/jefklak/development/redzuurdesem/content/boek/de-echte-leerschool.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/marathon.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
-		"/Users/jefklak/development/redzuurdesem/content/boek/kabouters.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/bokrijk.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/temp_tergoedkeuring.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/intermezzo2.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/epiloog.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/data/inkomen.html",
 		"/Users/jefklak/development/redzuurdesem/content/boek/intro.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/data/demand_bakery_enzymes.html",
 		"/Users/jefklak/development/redzuurdesem/content/boek/indexstyle.ist",
 		"/Users/jefklak/development/redzuurdesem/.gitignore",
 		"/Users/jefklak/development/redzuurdesem/content/boek/test.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/boek.tex",
 		"/Users/jefklak/development/redzuurdesem/content/boek/test_template.tex",
-		"/Users/jefklak/development/redzuurdesem/content/boek/afterbody.tex",
 		"/Users/jefklak/development/redzuurdesem/content/boek/intermezzo.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/metadata.yml",
 		"/Users/jefklak/development/redzuurdesem/content/boek/levenslang-leren.pd.md",
@@ -778,13 +805,11 @@
 		"/Users/jefklak/Library/Application Support/Sublime Text 3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
 		"/Users/jefklak/development/phd/makebuild.sublime-build",
 		"/Users/jefklak/Downloads/acmart-master/samples/sample-xelatex.tex",
-		"/Users/jefklak/development/phd/layouts/_default/single.html",
-		"/Users/jefklak/.pandoc/templates/acm-pandoc-paper/metadata.yaml",
-		"/Users/jefklak/.pandoc/templates/acm-pandoc-paper/Makefile"
+		"/Users/jefklak/development/phd/layouts/_default/single.html"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -799,6 +824,71 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"broodzak",
+			"de meel",
+			"honing",
+			"narijs",
+			"bolrijs",
+			"eerste rijs",
+			"te houden",
+			"\\ref{microbio:suikers}",
+			"microbio:suikers",
+			"{dag-2",
+			"bolrijs",
+			"dag-2",
+			" \n",
+			"fructose",
+			"sandwich",
+			"het bloem",
+			"met de volgende formule ging",
+			"het broodbakmach",
+			"mijn panasonic",
+			"mijn panasonic werk",
+			"mijn panasonic werkte",
+			"koji",
+			"Soda:",
+			"lactobac",
+			"lactobacillus",
+			"\\index{Lactobacillus sanfranciscensis}",
+			"\\index{lacto",
+			"overschot aan ",
+			"todo",
+			"tijdstippen van",
+			"waargenomen tem",
+			"listoffi",
+			"bakers pe",
+			"bij de su",
+			"\\index{Enzym",
+			"Lactobacillus sanfranciscensis",
+			"|:-",
+			"gezon",
+			"glutenstru",
+			"gluten stru",
+			"glutenstru",
+			"pseudo",
+			"san fransis",
+			"pathoge",
+			"intolera",
+			"fytine",
+			"type II",
+			"lactobacill",
+			"L. ",
+			"sanfran",
+			"sanfrin",
+			"sanfrince",
+			"type III",
+			"broebe",
+			"pannenk",
+			"bluten",
+			"O-TENIC",
+			"glutamine",
+			"asper",
+			"karamel",
+			"shiok",
+			"shio koji",
+			"valsspe",
+			"saké",
+			"amazaké",
 			"het experim",
 			"yu-",
 			"tang",
@@ -861,72 +951,7 @@
 			"vgl",
 			"![",
 			"Desramaults",
-			"moederd",
-			"zuurdesem br",
-			"zuurdesembr",
-			"krot",
-			"gobbetti2014sourdough",
-			"vertering",
-			"steken",
-			"japann",
-			"double hy",
-			"gluteni",
-			"gliad",
-			"du pain ",
-			"miguel2013enzymes",
-			"enzy",
-			"24 °C",
-			"24",
-			"24°C",
-			"24 °C",
-			"graag doen",
-			"enzym",
-			"emuls",
-			"broma",
-			"enzym",
-			"microbio:",
-			"oxida",
-			"label",
-			"amylase",
-			"woud",
-			"echte",
-			"nieuwschie",
-			"spaghett",
-			"mijn vrouw",
-			"Kristien",
-			"de mens",
-			"mijn vr",
-			"vrouw",
-			"yuma",
-			"figuur",
-			"profess",
-			"umami",
-			"mijn cake",
-			"profes",
-			"mailla",
-			"chemie",
-			"paterson2006flavour",
-			"micro-o",
-			"pathoge",
-			"van enkelv",
-			"pathoge",
-			"miller",
-			"window",
-			"enzym",
-			"titleinde",
-			"wilde gisten",
-			"pannenk",
-			"pannek",
-			"japann",
-			"jappa",
-			"lipi",
-			"pentos",
-			"patentbloem",
-			"eiwit",
-			"suikers",
-			"\\index",
-			"index",
-			"michel"
+			"moederd"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -934,6 +959,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\\index{Lactobacillus!sanfranciscensis}",
 			"karamellisatie",
 			"### ",
 			"## ",
@@ -961,44 +987,98 @@
 			[
 				{
 					"buffer": 0,
+					"file": "content/boek/de-leerschool.pd.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4721,
+						"buffer_size": 60511,
 						"regions":
 						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										217,
-										228
-									],
-									[
-										2476,
-										2487
-									],
-									[
-										3338,
-										3349
-									]
-								],
-								"scope": ""
-							}
 						},
 						"selection":
 						[
 							[
-								230,
-								230
+								28325,
+								28325
 							]
 						],
 						"settings":
 						{
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
 							"bracket_highlighter.locations":
 							{
 								"close":
@@ -1016,6 +1096,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1031,11 +1131,11 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1046,42 +1146,14 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_regex_content"
 							],
-							"default_dir": "/Users/jefklak/development/redzuurdesem/content/boek",
-							"detect_indentation": false,
-							"git_gutter_is_enabled": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1092,27 +1164,27 @@
 				},
 				{
 					"buffer": 1,
-					"file": "content/boek/structuur.pd.md",
+					"file": "content/boek/alles-vergeten-dat-geleerd-is.pd.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 50226,
+						"buffer_size": 23081,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45534,
-								45534
+								21045,
+								21045
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 2585,
-								"count": 7802,
+								"changes": 0,
+								"count": 3907,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -1137,21 +1209,46 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1166,32 +1263,7 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
+								"bh_regex_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -1210,67 +1282,68 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
 							],
 							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 15950.0,
+						"translation.y": 7010.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1278,25 +1351,98 @@
 				},
 				{
 					"buffer": 2,
-					"file": "content/boek/recept.pd.md",
+					"file": "content/boek/Makefile",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22110,
+						"buffer_size": 1677,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5329,
-								5593
+								166,
+								166
 							]
 						],
 						"settings":
 						{
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
 							"bracket_highlighter.locations":
 							{
 								"close":
@@ -1314,6 +1460,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1329,11 +1495,11 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1344,11 +1510,268 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 265.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/boek/crashcursus-microbiologie.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16948,
+								16948
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										16948,
+										16949
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										16941,
+										16942
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content/boek/kabouters.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12280,
+								12296
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -1359,6 +1782,64 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1368,7 +1849,42 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
-								"bh_curly_content"
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
@@ -1377,7 +1893,199 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "content/boek/bokrijk.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12937,
+								12937
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										12937,
+										12938
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										12930,
+										12931
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1416,7 +2124,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 126.0
+		"height": 209.0
 	},
 	"output.find_results":
 	{
@@ -1444,16 +2152,40 @@
 				"content/boek/recept.pd.md"
 			],
 			[
+				"microbio",
+				"content/boek/crashcursus-microbiologie.pd.md"
+			],
+			[
+				"epil",
+				"content/boek/epiloog.pd.md"
+			],
+			[
+				"b",
+				"content/boek/boek.bib"
+			],
+			[
+				"boek.",
+				"content/boek/boek.bib"
+			],
+			[
+				"bol",
+				"content/boek/boek.lof"
+			],
+			[
+				"bib",
+				"content/boek/boek.bib"
+			],
+			[
+				"",
+				"content/boek/crashcursus-microbiologie.pd.md"
+			],
+			[
 				"boek",
 				"content/boek/boek.bib"
 			],
 			[
 				"prea",
 				"content/boek/preamble.tex"
-			],
-			[
-				"b",
-				"content/boek/boek.bib"
 			],
 			[
 				"st",
@@ -1480,16 +2212,8 @@
 				"content/boek/geur.pd.md"
 			],
 			[
-				"microbio",
-				"content/boek/crashcursus-microbiologie.pd.md"
-			],
-			[
 				"kabou",
 				"content/boek/kabouters.pd.md"
-			],
-			[
-				"bib",
-				"content/boek/boek.bib"
 			],
 			[
 				"de-ech",
@@ -1514,10 +2238,6 @@
 			[
 				"bokr",
 				"content/boek/bokrijk.pd.md"
-			],
-			[
-				"epil",
-				"content/boek/epiloog.pd.md"
 			],
 			[
 				"boe",
@@ -1760,10 +2480,6 @@
 				"layouts/shortcodes/revealjs.html"
 			],
 			[
-				"",
-				"config.toml"
-			],
-			[
 				"samen",
 				"static/slides/20181003_samenwerkingprato.md"
 			],
@@ -1942,14 +2658,6 @@
 			[
 				"think",
 				"content/post/thinking-in-terms-of-objects.md"
-			],
-			[
-				"_index",
-				"content/post/_index.md"
-			],
-			[
-				"teaching",
-				"content/essays/teaching-yourself-to-draw.md"
 			]
 		],
 		"width": 0.0
