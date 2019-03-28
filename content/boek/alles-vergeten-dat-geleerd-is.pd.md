@@ -1,6 +1,8 @@
 
 ## Alles vergeten wat je geleerd hebt
 
+\label{vergeten}
+
 > ‘_Food made with love is good. \newline Food made without is not._’ - Maurizio Negrini
 
 ### Februari 2014

@@ -105,7 +105,7 @@ TODO overgang hf
 * De korst en het kruim van brood kunnen verschillende geuren oproepen.
 * De korst wordt gevormd door twee chemische reacties: karamellisatie en de Maillard reactie. Dit maakt extra geur- en smaakstoffen los. 
 * Geur en smaak zijn onlosmakelijk met elkaar verbonden. 
-* Gefermenteerd voedsel smaakt _sterker_. Zuurdesembrood bevat meer smaak, niet alleen dankzij melk- en azijnzuurbacteriën, maar ook dankzij umami.
+* Gefermenteerd voedsel smaakt _sterker_. Zuurdesembrood bevat meer smaak, niet alleen dankzij gisten en melkzuurbacteriën, maar ook dankzij umami.
 * Umami is eigenlijk de aanwezigheid van een aminozuur genaamd glutaminezuur. Dit zit in veel gefermenteerd voedsel. 
 * Zoek altijd een bakkerij waar niet te veel variatie is, waar veel aangeschoven wordt, en waar je meer gist dan zoet ruikt.
 * Baseer je nooit alleen maar op toeristische informatie.

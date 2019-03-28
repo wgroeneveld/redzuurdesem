@@ -107,7 +107,7 @@ Zoals de moderne werkende mens niet zonder straffe koffie kan om werk gedaan te 
 
 \index{Kaliumbromaat}
 
-De cocktail van bepaalde enzymen, melk- en azijnzuurbacteriën beïnvloed de verzuring van het deeg [@di2003interactions]. Dit betekent nog meer mogelijkheden tot optimalisatie (en industrialisatie). Amylase wordt dankzij de bewezen hogere stabiliteit bijna altijd in de vorm van een 'meelverbeteraar' toegevoegd aan bloem. Ook bij een slechte oogst wordt er na het maalproces soms alfa-amylase toegevoegd om dezelfde werking aan te houden. Het zijn populaire toevoegingen omdat ze in vergelijking met het vroegere kaliumbromaat onschadelijk zijn voor onze gezondheid. Lees de kleine lettertjes in de samenstelling van het AVEVE product 'Surfina fijne tarwebloem':
+De cocktail van bepaalde enzymen en melkzuurbacteriën beïnvloed de verzuring van het deeg [@di2003interactions]. Dit betekent nog meer mogelijkheden tot optimalisatie (en industrialisatie). Amylase wordt dankzij de bewezen hogere stabiliteit bijna altijd in de vorm van een 'meelverbeteraar' toegevoegd aan bloem. Ook bij een slechte oogst wordt er na het maalproces soms alfa-amylase toegevoegd om dezelfde werking aan te houden. Het zijn populaire toevoegingen omdat ze in vergelijking met het vroegere kaliumbromaat onschadelijk zijn voor onze gezondheid. Lees de kleine lettertjes in de samenstelling van het AVEVE product 'Surfina fijne tarwebloem':
 
 > Tarwebloem, meelverbeteraars: _enzymen_ en ascorbinezuur[^asczuur].
 
@@ -150,7 +150,7 @@ Het gebruik van een voordeeg betekent niet automatisch werken met zuurdesem. Een
 Dit vangen van deze 'wilde' gisten[^wild] is een echt werkje: in tegenstelling tot simpelweg wat bloem en water mengen, moet je hier regelmatig volledig opnieuw beginnen. De dragers van de gisten (in dit geval appels) immers moeten vervangen worden, en de constante af- en aanvoer van het vocht verdunt de cultuur. Je kan dus niet tientallen keren met dezelfde appelgist blijven bakken. Het verbaast je daarom misschien niets dat dit disciplinair proces iets is waar Japanners graag mee werken. Bakker Taro Hashiguchi gebruikt enkel gisten die hij in zijn eigen tuin kan 'oogsten' op fruit, kruiden en bloemen. Als gevolg daarvan is zijn bakkerij _Taro-ya_[^taroya] te Tokyo maar twee dagen per week open... De smaak van mijn eigen poging was minder indrukwekkend. Ik miste de complexiteit van de zuren in een typische granencultuur. Weer een experiment voor de composthoop. 
 
 [^taroya]: [http://www.taroya.com](http://www.taroya.com)
-[^wild]: Het is een algemeen - en fout - aangenomen geloof dat wilde gisten 'in de lucht' gevangen moeten worden. Gist heeft een ander organisme nodig om overgebracht te worden, zoals bepaalde wespen. 
+[^wild]: Het is een algemeen aangenomen geloof dat wilde gisten 'in de lucht' gevangen moeten worden. Alhoewel het juist is dat de lucht rondom ons vol zit met deeltjes van vanalles en nog wat, inclusief gisten en bacteriën, zijn de gisten die een significante rol spelen in zuurdesem degene die op het graan zelf zitten. 
 
 \index{Pseudogranen}
 

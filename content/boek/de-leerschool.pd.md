@@ -199,7 +199,7 @@ De volgende ingrediëntenlijst komt van de technische fiche van het product 'Deb
 > Plantaardige vetten: Palm, Geheel geharde palmpit, Kokos, Geheel geharde palm; Water; Plantaardige olie: Raapzaad; Emulgator: Lecithinen (E 322), Mono- en diglyceriden van vetzuren (E 471); Zout; Conserveermiddel: Kaliumsorbaat (E 202); Zuurteregelaar: Citroenzuur (E 330); Aroma's; Vitamines: Vitamine A
 palmitaat, Vitamine D3; Kleurstof: Caroteen (E 160a).
 
-Al een geluk dat er vitamine in zit! Het zou houdbaar zijn voor exact 182 dagen onder een temperatuur van `14` tot `16 °C`. De zeer lange houdbaarheidsdatum verraadt genoeg. Vergeet niet dat de meeste ingrediënten terug komen in andere bekende vette producten, zoals choco. Bewust de margarine weglaten om een lekkere boterham met choco te eten zal je gemoedstoestand misschien stillen, maar je lichaam niet. 
+Al een geluk dat er vitamine in zit! Het zou houdbaar zijn voor exact 182 dagen onder een temperatuur van `14` tot `16 °C`. De zeer lange houdbaarheidsdatum verraadt genoeg. Vergeet niet dat de meeste ingrediënten terug komen in andere bekende vette producten, zoals choco. Bewust de margarine weglaten om een lekkere boterham met chocopasta te eten zal je gemoedstoestand misschien stillen, maar je lichaam niet. 
 
 [^17]: De boter in het deeg vrouwen in een aantal stappen.
 [^flex]: Deze producten worden gefabriceerd door ketens als CSM Bakery Solutions en Puratos. Groothandelaars als Ranson en Panesco varen hier ook goed bij. 
@@ -242,21 +242,26 @@ Het hoeft ook niet altijd de eentonige vanille pudding te zijn: je kan hier best
 
 [^19]: Wat is het verschil tussen '_pudding_' en '_banketbakkersroom_'? Voor ons in de les was er geen verschil. Soms worden eieren vervangen door puddingpoeder. Daardoor wordt met 'pudding' vaak de lichtere variant bedoelt. Soms is de dikte een factor. 
 
-**Standaard pudding**:
+| Hoeveelheid   | Percentage | Beschrijving        |
+|:-------------:|:----------:|:--------------------|
+| `1 kg`        | `100%`     | Volle melk          |
+| `120 gr`      | `12%`      | Fijne suiker        |
+| `90 gr`       | `9%`       | Maïszetmeel         |
+| `90 gr` (`5`) | `9%`       | Eidooiers           |
+| /             | /          | Smaakmaker          |
 
-- `1 l` volle melk, eventueel half room/half melk
-- `120 gr` suiker
-- `90 gr` maïszetmeel - te halveren indien de pudding uitgespreid moet worden op bijvoorbeeld bladerdeeg. 
-- `5` eidooiers
-- Smaakmaker naar keuze om de melk te infuseren (thee, vanille, kaneel, ...)
+Table: Formule voor standaard pudding.
 
-Werkwijze:
 
-* Melk met smaakmaker en de helft van de suiker koken en laten trekken. (niet roeren: anders brandt de suiker aan, tenzij je blijft roeren). Zeven.
-* Zetmeel met eidooiers en de helft van de suiker mengen.
+Methode:
+
+* Melk[^melkkg] met smaakmaker (thee, vanille, kaneel, ...) en de helft van de suiker koken en laten infuseren. In geen geval roeren, anders brandt de suiker aan. Smaakmaker scheiden van de melk met een zeef.
+* Zetmeel met eidooiers en de helft van de suiker mengen. Halveer het zetmeel indien de pudding uitgespreid moet worden op bijvoorbeeld bladerdeeg.
 * Dit mengsel temperen door een beetje van het hete vocht hier op te gieten en te roeren. Dit daarna aan de melk al roerend toevoegen.
 * Laten doorkoken om het zetmeel zijn werk te laten doen.
 * Afkoelen, door bijvoorbeeld uit te storten op een werkoppervlak. In dat geval bedekken met folie om velvorming te voorkomen. Insmeren met een beetje boter werkt ook.
+
+[^melkkg]: De dichtheid van melk is ongeveer `1.O3` kg per liter, dus een liter weegt zo afgerond naar onder `1 kg`. In de formule zijn de percentages relatief ten opzichte van de melk, het hoofdingrediënt.
 
 Terug naar het brood bakken. Het aangeleerd basisrecept bevat `1.5%` zout, tussen de `55` en `60%` water, tussen de `5` en `10%` verse gist, en `3%` vet. Net als vet heeft de toevoeging van zout ook wettelijk bepaalde minima en maxima. Het soort bloem bepaalt hoeveel water het deeg kan opnemen. Tijdens de lessen werd er nooit met een nat deeg gewerkt. Uitzonderingen op de regel zijn ciabatta, dat volgens het recept in onze handleiding `70%` water moet bevatten. 
 Het brood bak proces dat wij leerden bestaat uit de volgende stappen. Als eerste wordt alles zeer snel gekneed, met het oog op een bepaalde deegtemperatuur. De temperatuur bepaalt hoe snel het brood verder rijst. De temperatuur stijgt ongeveer `1° C` per tien minuten kneden in een spiraalkneder door de wrijving. Dit wordt _intensief kneden_ genoemd. Intensief kneden is de aangewezen manier om op korte tijd de beste gluten structuur en een evenredig verdeeld kruim te verkrijgen. In de zomer instrueerde Ghislain ons voor sommige degen om ijswater te gebruiken: de omgevingstemperatuur van de bakkerij zelf speelt natuurlijk ook een rol. Die kan immers al snel oplopen tot `30° C` als de ovens voorverwarmd zijn. Kneden kost je zo’n tien tot twintig minuten, afhankelijk van het soort deeg.
