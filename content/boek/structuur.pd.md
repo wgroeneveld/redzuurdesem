@@ -130,7 +130,7 @@ De kleur van korst en kruim wordt niet alleen bepaald door de aanwezige suikers 
 \index{Mout}
 \index{Enzymen!Lipoxygenase}
 \index{Xanthofyl}
-\index{Diastatic Malt}
+\index{Diastatische mout}
 \label{mout}
 
 In de praktijk beïnvloeden bakkers de kleur van de korst en het kruim via... Rara? Verbeteraars. Mengelingen die verkocht worden als 'woudmeel' verraden de aanwezigheid van toegevoegde kleurstoffen door de erg donkerbuine kleur van het meel. Een kleurstof hoeft niet een ongezond product te betekenen. Veel gebruikte additieven om de kleur te beïnvloeden zijn sojabloem, gebrande mout, en natuurlijk extra suikers. Het enzym _lipoxygenase_ aanwezig in sojabloem bleekt de xanthofyl kleurstoffen in de tarwe, wat een wittere kruim oplevert [@optionalsoy]. Ik heb geen flauw idee waarom dat spierwit brood vandaag de dag nog zo aanspreekt bij mensen. Ooit was dit een uniform symbool van status. Gevangenen kregen vies bruin volkoren tarwebrood, of nog erger, grijs roggebrood te eten. Witte bloem kost meer moeite door het zeven. Als trotste eter van een witte snee brood (chocopasta bestond toen nog niet) liet je andere mensen duidelijk verstaan wie er waardig was en wie niet. '_The medium is the message_' zei Marshall McLuhan ooit. Dat geldt nu ook nog, maar dan omgekeerd. Met een witte snee uit de boterhamdoos te halen riskeer je tegenwoordig uitgelachen te worden als onbewuste eter. De ene vindt wit brood een pure vorm van suikers [@broodbuik], de andere vindt dat zemelen de oorzaak van alle ellende zijn [@menace]. Het is een kwestie van goed op de hoogte te blijven van de laatste trends om vol zelfvertrouwen in een drukke cafetaria die boterhamdoos te durven openen.

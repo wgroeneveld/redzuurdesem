@@ -64,6 +64,8 @@ Buiten de temperatuur, is tijd de tweede belangrijkste factor. Daar hebben we ee
 Als je werkt met een 1:1 ratio van bloem en water, is het eenvoudig om de activiteit van je cultuur te controleren. Gebruik hiervoor een doorzichtige container. Na het voeden met bloem trek je met een alcoholstift een streep tot op welke hoogte de desem komt. Deze stappen kan je volgen in figuur \ref{groeicurve}. De eerste uren gebeurt er niet veel. (_1. vertraging_) Op een gegeven moment schieten de organismen wakker en beginnen ze als een gek te werken. (_3. exponentiële, 2. versnelling_) De vloeistof piekt op een bepaalde hoogte, en blijft voor een tijdje vrolijk borrelend daar staan. (_4. overgang, 5. stationair_) Plots zijn alle suikers op en klapt het goedje in elkaar. (_6. dood_) Als je dan nog langer wacht, verzuurt de omgeving nog meer. Er verschijnt een waterig laagje bovenop de zuurdesem. Dat is alcohol die aangeeft dat je cultuur erg hongerig is. Laat je niet beïnvloeden door de sterke azijngeur en gooi niet alles weg. Te lang wachten met bijvoeden kan voor de volgende baksessie een nog tragere rijs betekenen, door de verstoorde zuurtegraad. Gooi in dat geval alles weg, behalve één koffielepel, en kweek opnieuw op met voldoende bloem en water. 
 
 \index{Lactobacillus}
+\index{Probiotica}
+\index{Prebiotica}
 
 Het woord bacterie heeft nogal een negatieve connotatie in onze moderne maatschappij, waar obsessief poetsen met bacteriewerende middelen een slechte gewoonte geworden is. Het menselijk lichaam bestaat uit triljoenen microbiële cellen, veel meer dan eigen menselijke cellen [@rosner2014ten]. Wij zijn een gigantische bus waar constant bacteriën op- en afstappen. Niet iedereen heeft een buskaartje gekocht, maar de meesten houden zich gedeisd, en werken zelfs in ons voordeel. Ons darmstelsel is heel gevoelig en bevat het meeste van deze cellen. Vandaar de groeiende aandacht voor pre- en probiotica [@voedselmachine]. Prebiotica zijn componenten in voedsel dat de productie van deze goede organismen stimuleert, zoals look, prei, asperge en volkoren tarwe. Probiotica zijn levende micro-organismen die de darmflora moeten aansterken, zoals yoghurt en kefir[^prob]. In realiteit overleven de meeste organismen de zuren in je maag niet. Om te kunnen genieten van de voordelen van probiotica, moeten de organismen nog leven. Gepasteuriseerde zuurkool van je supermarkt valt hier dus niet onder. Zuurdesem zelf zou ook beschouwd kunnen worden als probiotica, maar ik zie mezelf niet bepaald dagelijks een lepeltje naar binnen werken. Gebakken brood heeft hier niets meer mee te maken: de hitte van de oven verwoest al het leven. 
 
@@ -79,19 +81,33 @@ Zelfs in de 11de eeuw wist men reeds dat slecht of ongerezen brood zorgde voor e
 > _'Among the six elements needed to keep daily wellness… foods and beverages…' '…White bread: it improves the wellness but it must be completely fermented …'_
 
 \index{Fytinezuur}
+\index{Fytase}
+\index{Prikkelbare darm}
+\index{Koolhydraat}
+\index{FODMAP}
 
-Maar hoe komt het dat fermenteren voedsel plots eetbaar maakt? Dat is heel simpel: giftige stoffen worden afgebroken door het proces. Linamarine, afkomstig van  bladeren of wortels van planten, kan waterstofcyanide produceren als het in aanraking komt met de enzymen van onze darmflora. Maniok wordt daarom behandeld in plaats van rauw gegeten [@okafor1986microbial]. Fytinezuur komt voor in zemelen en blokkeert de opname van magnesium, ijzer, calcium, en zink. Hoe langer brood rijst met zuurdesem, hoe minder fytinezuur overblijft [@nielsen2007phytase;@yazar2012functional]. Ook complexe suikers worden omgezet in enkelvoudige suikers, die beter opneembaar zijn door onze darmwand. Suikers vallen in drie verschillende categorieën:
+Maar hoe komt het dat fermenteren voedsel plots eetbaar maakt? Dat is heel simpel: giftige stoffen worden afgebroken door het proces. Linamarine, afkomstig van  bladeren of wortels van planten, kan waterstofcyanide produceren als het in aanraking komt met de enzymen van onze darmflora. Maniok wordt daarom behandeld in plaats van rauw gegeten [@okafor1986microbial]. Fytinezuur komt voor in zemelen en blokkeert de opname van magnesium, ijzer, calcium, en zink. Hoe langer brood rijst met zuurdesem, hoe minder fytinezuur overblijft, te danken aan de activatie en langdurige werking van het enzym fytase [@nielsen2007phytase;@yazar2012functional]. Om deze reden wordt zuurdesembrood aangeraden bij personen die last hebben van het Prikkelbare Darm Syndroom (PDS, of _Irritated Bowel Syndrome_, IBS, in het Engles). 
+
+Onderzoek in verschillende universiteiten heeft aangetoond dat een FODMAP dieet volgen een positief effect kan hebben op de klachten van PDS. FODMAPs (_Fermentable Oligo-, Di- & MonosAccharide, Polyols_) zijn moeilijk verteerbare, complexe koolhydraten die irritatie kunnen veroorzaken in de darm. Een FODMAP-arm dieet volgen betekent het vermijden van voedswel waar de meeste van deze stoffen in zit, zoals klassiek gegist brood. De meeste FODMAP recepten schrappen het gebruik van brood in zijn geheel, maar dat is gelukkig genoeg niet nodig. Als brood heel lang fermenteert, zoals mijn methode in hoofdstuk \ref{bakkenhf}, vermindert de irritatie in de darm dankzij de verhoogde afbraak van suikers. Volgens een studie uitgevoerd door Adele Costabile en anderen zou langdurig gefermenteerd brood aanzienlijk minder gassen produceren[^minderpr]. Ze concluderen voorzichtig, zoals dat gaat in de academische wereld, het volgende: '_These findings suggest that sourdough products may be advantageous for patients suffering from IBS_' [@costabile2014effect]. 
+
+[^minderpr]: Soms vragen cursisten mij of het normaal is dat zuurdesembrood dat ze tijdens de cursus gebakken hebben hun zo'n opgeblazen gevoel geeft. Ook deze studie toont grafieken waarin duidelijk te zien is dat brood nog steeds gassen produceert, of het nu met zuurdesem gemaakt is of niet. Het gaat hier om _minder_ gassen, niet om de complete afwezigheid ervan. 
+
+Ook andere complexe suikers worden door micro-organismen omgezet in enkelvoudige suikers, die beter opneembaar zijn door onze darmwand. Suikers, ofwel _sacharides_[^sacha], vallen in de volgende vier verschillende chemische groepen:
+
+[^sacha]: _Koolhydraat_ is het technisch correcte synoniem voor sacharide, een groep bestaande uit suikers, zetmeel, en cellulose. Om het eenvoudig te houden gebruik ik 'suikers' en 'koolhydraten' door elkaar. 
 
 \label{microbio:suikers}
 \index{Monosacharide}
 \index{Disacharide}
 \index{Polysacharide}
+\index{Oligosacharide}
 \index{Invertsuiker}
 \index{Honing}
 
 * Enkelvoudige suikers (_monosacharide_): glucose, fructose, galactose. `0.5%` van het meel bevat enkelvoudige suikers. 
 * Dubbelvoudige suikers (_disacharide_): sucrose of sacharose (tafelsuiker), lactose, maltose. `1%` van het meel. 
-* Complexe koolhydraten (_polysacharide_): lange kettingen van enkelvoudige suikers, zoals zetmeel. `70%` van het meel. 
+* Meervoudige suikers (_oligosacharide_): kleine kettingen van enkelvoudige suikers, zoals stoffen in peulvruchten en uien. 
+* Complexe suikers (_polysacharide_): lange kettingen van enkelvoudige suikers, zoals zetmeel. `70%` van het meel. 
 
 Hoe complexer de suiker, des te moeilijker te verteren. De eerste groep van suikers is het makkelijkste beschikbaar om omgezet te worden naar onder andere CO~2~. De eerste dertig minuten van het fermentatieproces zijn de enkelvoudige en dubbelvoudige suikers reeds opgebrand [@advancedbread]. Enkelvoudige suikers worden door een complex stofwisselingsproces genaamd _glycolyse_ verder omgevormd met als voornaamste resultaat energie, wat ons in staat stelt om onze spieren te bewegen [@turner1980regulation]. Hoe zoet suiker proeft hangt ook van de soort af. Fructose proeft twee keer zo zoet als glucose, terwijl maltose en lactose als minder zoet worden ervaren. Honing bevat meer fructose dan glucose, en is daarom lekker zoet. De moleculen van tafelsuiker kunnen ook door de inwerking van een zuur als citroensap gesplitst worden in twee soorten monosacharides: glucose en fructose. Het resultaat is een _invertsuiker_, vaak gebruikt in de industrie om gebak langer zacht te houden dankzij de tragere kristallisatie. Honing is ook een invertsuiker en kan daarom zeer lang vloeibaar blijven. 
 
