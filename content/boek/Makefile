@@ -7,6 +7,11 @@ all:
 proofread:
 	pandoc -f markdown+smart temp_tergoedkeuring.pd.md -V lang=nl-BE --pdf-engine=xelatex -V documentclass=book --top-level-division=part --metadata-file=metadata.yml -o nalezen.pdf
 
+copyright:
+	pandoc -f markdown copyright.md  --template=ieee_software --listings --variable urlcolor=cyan -o copyright_letter.pdf
+
+clean:
+	rm -rf *.pdf
 
 clean:
 	# source tex file
@@ -18,6 +23,7 @@ clean:
 	rm -rf *.log
 	rm -rf *.out
 	rm -rf *.lof
+	rm -rf *.lot
 	rm -rf *.ilg
 	rm -rf *.idx
 	rm -rf *.ind

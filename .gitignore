@@ -9,6 +9,7 @@ content/boek/boek.pdf
 *.aux
 *.log
 *.out
+*.lot
 *.lof
 *.ilg
 *.idx

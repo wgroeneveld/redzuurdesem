@@ -79,7 +79,7 @@ Om een écht goede _porridge_ te kunnen maken heb je tijd nodig. Tijd die bestee
 
 Table: Een categorisatie van granen, van grof naar fijn \label{havercat}
 
-De term 'havermout' of _oatmeal_ is een algemene benaming die als slogan voor gezondheid op zowat elk pakje haver prijkt. De elementen in tabel \ref{havercat} staan gerangschikt van onverwerkte tot geraffineerde haver. Fijngemalen havervlokken zijn snel klaargemaakt en geven het snelste de suikers af. Fermentatietijden hangen hier dus ook hiervan af. 
+De term 'havermout' of _oatmeal_ is een algemene benaming die als slogan voor gezondheid op zowat elk pakje haver prijkt. De elementen in tabel \ref{havercat} staan gerangschikt van onverwerkte tot geraffineerde haver. Fijngemalen havervlokken zijn snel klaargemaakt en geven het snelste suikers af. Fermentatietijden hangen hier dus ook hiervan af. 
 
 #### Als kickstart voor andere fermentaties
 
@@ -104,6 +104,16 @@ Nancy Singleton Hachisu inspireerde me met haar prachtig boek 'Preserving the Ja
 Deze losse instructies vertalen zich niet eenvoudig van miso naar zuurdesem omwille van de grote hoeveelheid zout in miso (`6` tot `20%`, afhankelijk van de soort). Toch kunnen wij Westerlingen van onze zuurdesemcultuur ook zo'n medium maken door het zout- en vochtigheidsgehalte aan te passen. Hoe langer je de look wenst de bewaren, hoe meer zout er voor nodig is. In principe kan eender wat met genoeg zout en goede bacteriën dienen om voedsel voor een lange tijd te bewaren zonder te moeten terugvallen op de lage temperatuur van een koelkast.
 
 TODO zin of twee schrijven over resultaat experiment? + uitvoeren 'Ik heb succes gehad ...'
+
+#### Om huiden te looien
+
+Zeg nu nog eens dat die stinkende pot azijn in de koelkast niet veelzijdig kan zijn. Deze manier om overschot te gebruiken ontdekte ik in Susannah Dowd haar tesis over de gebruiken van zuurdesem te Alaska [@dowds2017alaska]. Susannah vond deze ongebruikelijke methode terug in het hoofdstuk '_Hints from Sourdoughs_' van het ondertussen klassiek kookboek _Cooking Alaskan_, origineel gepubliceerd in 1983. Duidelijke instructies vond ik niet terug, buiten deze, uitgegeven door de University of Alaska Fairbanks:
+
+[^uaf]: [http://cespubs.uaf.edu/index.php/download_file/1036/](http://cespubs.uaf.edu/index.php/download_file/1036/)
+
+> _To tan small hides such as mink, rabbit, ermine or muskrat, first wash the hide with lukewarm soapy water, using a mild soap. Lay the skin on a  at board, hair side down. Cover it with a thick batter of sourdough. When dough begins to dry, start working the skin. Rub it with a circular motion against the palm of the left hand. Rub and knead the skin until it is dry and soft._[^uaf]
+
+Volgens diezelfde bronnen zou zuurdesem ook gebruikt worden om lijm te maken, maar die bewering was nog moeilijker te verifiëren. Dat het pakkerig is ligt voor de hand, maar of het blijft hangen is een andere zaak. 
 
 ### Te veel gebakken brood
 

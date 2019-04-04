@@ -192,6 +192,8 @@ Als een recept voor zuurdesem op basis van rogge vraagt, maar die van jou is op 
 
 [^kanbl]: Met enige nadruk op het woord 'kan'. Consequente en langdurige blootstelling aan andere granen of temperaturen kan dit wel beïnvloeden. 
 
+De mythe dat honderdjarige zuurdesemculturen beter zijn dan jonge desems wil ik ook graag de wereld uit helpen. Een aanbeveling die vooral terug te vinden is in oude literatuur, is de volgende: '_when someone offers you a half-cup (or even a spoonful) of sixty-year-old sourdough, take it._' [@alaskan]. Zuurdesem rijpt mettertijd, maar na stabilisatie van de symbiose gebeurt er niet zo veel, gegeven exact dezelfde opkweekmethode. Toch is het gebruik van exact dezelfde ingrediënten, temperatuur, en andere condities die de samenstelling van de cultuur beïnvloeden onmogelijk om over jaren heen vol te houden, zelfs door een gedisciplineerde bakker. Tot zover de legendarische kracht van eeuwenoude 'stabiele' zuurdesem. Wachten tot iemand je een beetje van zijn of haar (heel) oude cultuur geeft, is dus helemaal niet nodig. 
+
 Er bestaat nog veel verwarring rond het doel van kneden, hoe lang er nu precies gekneed moet worden, en of dat eigenlijk wel nodig is. De verklaarde werking van gluten in brooddeeg schept al wat orde. Het populaire op tarwe gebaseerd _No-knead_ brood geeft correct aan dat zelfs bij tarwe kneden geen vereiste is, zolang dat gluten netwerk maar opgebouwd wordt om voldoende volume te verkrijgen. Of dit nu met intensief kneden, vouwen, of met lang en traag rijzen ontwikkeld wordt, dat maakt helemaal niets uit. Als je maar belooft het deeg nooit plat te slaan. Waarom die geliefde, moeizaam opgebouwde gassen er brutaal terug uit kloppen? 
 
 \index{Probiotica}
