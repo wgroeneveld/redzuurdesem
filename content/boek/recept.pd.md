@@ -17,6 +17,29 @@ Ik sta hier trouwens niet alleen in, ook al drukt Michael Booth het iets zachter
 
 De werkwijze, hoe je zo'n formule gebruikt, is geen deel van het recept. Zo'n formule strict volgen geeft zelfs problemen: er staat bijvoorbeeld nooit vermeld wat er gebeurt als je de tarwe vervangt door spelt of rogge. Het resultaat is een heel ander brood dat enkel op basis van genoeg ervaring tot een goed einde gebracht kan worden. Zelfs zonder de tarwe te vervangen kan je onmogelijk exact hetzelfde brood bakken als de auteur van het recept omdat niet exact dezelfde bloem gebruikt kan worden. Ik pruts constant met recepten als ik kook. Ik ben iemand die recepten leest om geïnspireerd te worden om dan het boek of de laptop aan de kant te schuiven en lekker mijn eigen ding te doen. Ik zie wel, gebaseerd op wat er in de koelkast ligt. Het resultaat is (meestal) lekker, maar nooit exact zoals ik las in het recept. Ik noem mezelf een nonchalante kok en ga af op mijn gevoel. Dat is alleen mogelijk als je weet waar je mee bezig bent. Het probleem met deze methode is een gebrek aan consistentie. Ik bak vaak pizza in de steenoven die opgehemeld wordt door gasten. 'Geweldig! Lekker! Dat wil ik volgende keer nog eens eten.' En dat lukt me nooit, ook al schrijf ik op welke topping en welk soort deeg ik die avond gebruikte. Consistentie is geen primair doel in mijn eigen keuken: ik baat immers geen pizzeria uit. 'Dit proeft toch anders als vorige keer Wouter, wat is er veranderd?' Ik glimlach dan en haal mijn schouders op. 
 
+\index{Bolrijs}
+
+Het bakproces bestaat uit een aantal stappen waarvan er maar twee nooit weggelaten kunnen worden: mengen en bakken. Rijzen kan met soda weggelaten worden, een tweede rijs of voordeeg met genoeg gist, en vorm geven met het uitstorten van deeg in een bakvorm. De Nederlandstalige terminologie voor elke stap in het proces aan te duiden klinkt eerlijk gezegd erg slap in vergelijking met de bewoording in het Engels, Duits en Frans die je in veel bakboeken kan terugvinden. Het was mij vroeger zelfs niet eens duidelijk wat een 'bolrijs' nu precies betekende. Om verdere verwarring te vermijden som ik in tabel \ref{terms} de meest gebruikte terminologie op:
+
+| Stap | Term EN/NL     | Term FR/DE  | Beschrijving                          |
+|:----:|:---------------|:----------------|:----------------------------------|
+|  1   | _Preferment_ \newline Voordeeg  | _Levain-panaire_ \newline Vorstufe      | Een stuk deeg op voorhand fermenteren.      |
+|  2   | _Mixing_ \newline Mengen        | _Mélanger_ \newline Mischen       | De ingrediënten samen brengen.
+|  3   | _Autolyse_ \newline /     | / \newline /         | Bloem de kans geven om water te absorberen. |
+|  4   | _Kneading_ \newline Kneden     | _Pétrissage_ \newline Kneten        | Kneden om gluten te ontwikkelen.       |
+|  5   | _Bulk ferment_ \newline Bolrijs | _Première pousse_ \newline Stockgare       | Eerste rijstijd.                      |
+|  6   | _Preshaping_ \newline Voorvormen  | _Préforme_ \newline Vorformen | Afwegen. Een eerste ruwe vorm geven.  |
+|  7   | _Bench rest_ \newline Rusten   | _Repos_ \newline Zwischengare        | Gluten laten relaxen voor tweede vorm.|
+|  8   | _Final shaping_ \newline Vormgeven | _Mise en forme_ \newline Formen    | Ruwe vorm herweken tot boule/bâtard   |
+|  9   | _Proofing_ \newline Narijs     | _Seconde pousse_ \newline Stückgare        | Tweede rijstijd. In rijsmand/bakvorm. |
+|  10  | _Baking_ \newline Bakken       | _Cuisson_ \newline Backen        | Bakken in de oven.                    |
+
+Table: De terminologie van het bakproces. \label{terms}
+
+\index{Double Hydration}
+
+De voor de hand liggende stappen zoals afwegen en de oven op het juiste moment voorverwarmen heb ik weggelaten. Als je met érg nat deeg werkt, kan je voor het kneden voor een tweede keer water toevoegen. Dat noemt men '_double hydration_': het deeg krijgt zowel bij de autolyse stap de kans om water op te nemen, als tijdens de kneedfase. Het deeg laten rusten tussen de vormgeving stappen 6 en 8 dient enkel om de gluten voldoende te laten ontspannen, om het daarna makkelijker terug op te spannen. In de prakijk sla ik die stap vaak over. Bij Syntra sprak men ook nog van een '_voorrijs_', dat gek genoeg niets te maken heeft met een voordeeg, maar met het laten rijzen van het deeg in de mengkuip van de kneedmachine, voordat het in grote stukken op het werkoppervlak verdeeld werd. Een professionele bakker kan zich de langdurige bezetting van die machine niet veroorloven. 
+
 \index{Baker's Percentage}
 
 Het is een mythe dat bakken exacte hoeveelheden vereist, ook al is patisserie hier uiteraard gevoeliger voor dan brood. Ik ken bakkers die volledig op hun gevoel werken en niet eens weten hoeveel water ze nu exact gebruikt hebben. Daar schrok ik behoorlijk van: hoe kan je dat als verantwoordelijke bakker nu niet weten? Het _baker's percentage_ was voor mij toen heilig: `65%` water is `65%` water en niet `66%`. Na mijn stage besefte ik dat consistent zijn kan betekenen dat er soms meer en soms minder water nodig is, afhankelijk van de oogst van het graan. Hetzelfde geldt voor rijstijden. Dat maakt het strict volgen van een recept nog gevaarlijker. Een broodformule tekent de kantlijnen uit, de inkleuring doe je als bakker zelf en kan variëren van dag tot dag. Probeer dus eerst alle stappen in het broodbakproces zo goed mogelijk te begrijpen, vanaf dan is stap voor stap experimenteren mogelijk. 

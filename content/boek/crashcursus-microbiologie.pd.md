@@ -96,9 +96,13 @@ Onderzoek in verschillende universiteiten heeft aangetoond dat een FODMAP dieet 
 
 [^minderpr]: Soms vragen cursisten mij of het normaal is dat zuurdesembrood dat ze tijdens de cursus gebakken hebben hun zo'n opgeblazen gevoel geeft. Ook deze studie toont grafieken waarin duidelijk te zien is dat brood nog steeds gassen produceert, of het nu met zuurdesem gemaakt is of niet. Het gaat hier om _minder_ gassen, niet om de complete afwezigheid ervan. 
 
-Ook andere complexe suikers worden door micro-organismen omgezet in enkelvoudige suikers, die beter opneembaar zijn door onze darmwand. Suikers, ofwel _sacharides_[^sacha], vallen in de volgende vier verschillende chemische groepen:
+Ook andere complexe suikers worden door micro-organismen omgezet in enkelvoudige suikers, die beter opneembaar zijn door onze darmwand. _Koolhydraat_ is het technisch correcte synoniem voor _sacharide_, een groep bestaande uit suikers, zetmeel, en cellulose. Om het eenvoudig te houden gebruik ik 'suikers' en 'koolhydraten' door elkaar. Deze sacharides vallen in de volgende vier verschillende chemische groepen:
 
-[^sacha]: _Koolhydraat_ is het technisch correcte synoniem voor sacharide, een groep bestaande uit suikers, zetmeel, en cellulose. Om het eenvoudig te houden gebruik ik 'suikers' en 'koolhydraten' door elkaar. 
+\index{Sacharide}
+\index{Sacharide!Monosacharide}
+\index{Sacharide!Disacharide}
+\index{Sacharide!Polysacharide}
+\index{Sacharide!Oligosacharide}
 
 \label{microbio:suikers}
 \index{Monosacharide}
@@ -119,6 +123,8 @@ Suiker wordt tegenwoordig vanwege epidemieën als obesitas in een slecht daglich
 
 \index{Enzymen}
 \index{Enzymen!Amylase}
+\index{Amylase}
+\index{Aspergillus oryzae}
 \index{Koji}
 
 Zoals de moderne werkende mens niet zonder straffe koffie kan om werk gedaan te krijgen, zo kunnen levende organismen niet zonder hun katalysator: _enzymen_. Een enzym is een eiwit dat bepaalde chemische reacties mogelijk maakt of versnelt. Dankzij de aanwezige enzymen in deeg is het mogelijk om complexe koolhydraten sneller af te breken. Enzymen zijn voor onze spijsvertering van levensbelang. Het enzym _lactase_ bijvoorbeeld helpt lactose in koemelk om te zetten in galactose en glucose. Veel Aziaten hebben geen lactase meer in hun darmstelsel als ze volwassen zijn, wat een lactose-intolerantie als gevolg heeft. Peparaten en gezondheidsproducten bevatten enzymen om de vertering te helpen. Ook in brooddeeg zitten veel enzymen, die ofwel gespecialiseerd zijn in het afbreken van bepaalde suikergroepen, ofwel in het afbreken van eiwitketens (gluten dus). In ieder geval, enzymen zijn bulldozers. De rotzooi die zij achterlaten kan dan weer verder verwerkt worden door anderen. Het belangrijkste enzym dat in deeg terug te vinden is, is _amylase_. Die is aanwezig in de korrel om tijdens het ontkiemen de plant van eenvoudige suikers (energie dus) te voorzien. De activatie van amylase gebeurt bij het toevoegen van water. Hoe meer water, hoe meer activiteit. Alfa- en beta-amylase breken elk een bepaald soort complexe koolhydraat af. Wij hebben amylase in ons speeksel dat ons helpt te verteren. Er zijn drie bronnen van alfa-amylase: gebaseerd op mout (zie hoofdstuk \ref{mout}, actief tot `80 °C`), gebaseerd op schimmel (_Aspergillus oryzae_, beter gekend als koji of _麹_[^kanji], actief tot `80 °C`), en gebaseerd op bacteriën (_Bacillus subtilis_, actief tot `90 °C`) [@nechita2009strong]. Deze soorten amylases worden zelfs als bakkerijproducten op grote schaal verkocht.
@@ -161,8 +167,13 @@ De langere houdbaarheid betekent niet dat zo'n brood bestand is tegen uitdroging
 
 Wachten op spontane fermentatie kan best spannend zijn. De ontdekking van bubbeltjes voelt aan als een geweldige prestatie - maar in feite heb je niets anders gedaan dan gewacht. Een actieve cultuur is maar één deel van het broodbakproces. Om brood te kunnen bakken met zuurdesem heb je een voordeeg nodig. Er bestaan verschillende soorten van voordeeg die allemaal hun eigen naam hebben. Dat is te danken aan de rijke Europese broodbakgeschiedenis. Hieronder volgt een kort overzicht:
 
+\index{Biga}
+\index{Poolish}
+\index{Pâte Fermentée}
+\index{Viennois, pain}
+
 * _Biga_: Een Italiaans voordeeg, gebruikt in onder andere ciabatta’s. Dit is een droger voordeeg met een hydratatie van `50` tot `70%`. 
-* _Poolish_: Een Frans voordeeg met Poolse origines, gebruikt in onder andere baguettes. Dit is een erg vochtig voordeeg met een hydratatie van `100` tot `125%`.
+* _Poolish_: Een Frans voordeeg met Oostenrijkse origines, gebruikt in onder andere baguettes. Dit is een erg vochtig voordeeg met een hydratatie van `100` tot `125%`. Een poolish werd door immigranten in Parijs gebakken om _pain viennois_ te maken.
 * _Pâte Fermentée_: Een Frans voordeeg dat een overgebleven stukje deeg is van een vorige baksessie. (Letterlijk vertaald als _oud deeg_). Meestal wordt 1/3de van het deeg na de bolrijs aan de kant gezet voor de volgende keer. In tegenstelling tot de andere types, zit hier ook een beetje zout in. Variabele hydratatie. 
 * _Sourdough starter_: Je zuurdesemcultuur. Het woord starter refereert naar de 'kickstart' die je je voordeeg geeft, door de toevoeging van een hoop actieve en gevariëerde organismen. 
 
