@@ -1,6 +1,15 @@
+\newcommand{\nl}{\newline\indent}
+\usepackage{tcolorbox}
 \usepackage{etoolbox}
+
+% paragraph indentation
+\usepackage{parskip}
+%\setlength{\parfill}{0pt}
+\setlength{\parindent}{15pt}
+
+% to add subtitle to \maketitle
 \makeatletter
-\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+\providecommand{\subtitle}[1]{
   \apptocmd{\@title}{\par {\large #1 \par}}{}{}
 }
 \makeatother
@@ -9,12 +18,14 @@
 \graphicspath{{img/}}
 \usepackage{pdfpages}
 
+% for Japanese chars
 \usepackage{xeCJK}
 \setCJKmainfont[BoldFont=STHeiti,ItalicFont=STKaiti]{STSong}
 
+% for itemization, other symbol
 \renewcommand{\labelitemi}{$\circ$}
 % labelitemii, iii, iv, ... kan ook
 
-\usepackage{tcolorbox}
+% for index
 \usepackage{imakeidx}
 \makeindex[title=Appendix,columns=2,intoc,options= -s indexstyle.ist]
