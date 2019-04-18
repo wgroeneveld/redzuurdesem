@@ -95,7 +95,7 @@ In mijn keuken gebruik ik ongeveer hetzelfde proces. Het ‘_brood zout_’ maal
 
 Een _hartige_ bakkerij is dus te herkennen aan de _gistige_ en _azijnachtige_ geur, en niet aan de overdreven _zoete_ of _boterachtige_ geur. Dat is niet bepaald verwonderlijk als je hoofdstuk \ref{microbio} gelezen hebt. Als je genoeg zuurdesembrood zelf gemaakt hebt, begin je de subtiele (en minder subtiele) verschillen in geur tussen een typisch gist- en desemdeeg te herkennen. Aroma van brood wetenschappelijk verklaren is onmogelijk zonder een teen te dippen in de chemie. Aroma wordt bepaald door de drie besproken elementen: ingrediënten (suikers, soorten graan, vetten), fermentatie (gisten, melkzuurbacteriën), en bakken (karamelisatie, de Maillard reactie). 
 
-TODO overgang hf
+De verworven kennis van microbiologie, estethiek, geur, en smaak van brood, beschreven in deel \ref{theorie}, kan nu worden omgezet in het hanteren van de praktische methode uitgelegd in deel III. Laten we eens wat brood gaan bakken. Het kan geen kwaad om op zoek te gaan naar een schort. Het is (eindelijk) tijd om de handen vuil te maken! 
 
 \newpage
 

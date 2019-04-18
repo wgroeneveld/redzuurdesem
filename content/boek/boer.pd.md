@@ -1,6 +1,8 @@
 
 ## De boer, de molenaar, en de brouwer
 
+\label{boer}
+
 > '_Heute back ich, morgen brau ich_' - Rumpelstilzchen (Repelsteeltje)
 
 ### De boer
@@ -49,7 +51,9 @@ Ik leerde achteraf dat pils, beter bekend in het Vlaams als een _pintje_ (of _da
 
 [^past]: Zoals de naam doet vermoeden is deze soort vernoemd naar Louis Pasteur. Deze gist heette voordien _Saccharomyces carlsbergensis_ dankzij Dane Emil Hansen's onderzoek aan de Carlsberg brouwerij in Kopenhagen.
 
-Historisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de 19de eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op anaerobische fermentatie. Met zuiver theoretische classificaties kom je maar zo ver. 
+Geuze, of algemener _lambiek_, is niet zomaar in onder- of bovenfermentatieve bieren te categoriseren. Hier is spontane gisting de belangrijkste factor, die bij niet-industriële brouwerijen nog in kopere koelschepen op de zolder plaatsvinden. Met die blootstelling aan de plaatstelijke buitenlucht hopen brouwers _Brettanomyces lambicus_ te vangen, en in een latere fase ook soorten _Lactobacillus_. Zelfs de eikenhouten vaten waar lambiek nog jaren in verder gist blijken een grote invloed te hebben op de aanwezige micro-organismen in het bier [@spitaels2014microbial]. Lambiek is een van de laatst overgebleven oerbieren, en sluit het beste aan bij zuurdesem als fermentatie methode. 
+
+Historisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de 19de eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak is de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op anaerobische fermentatie. Met zuiver theoretische classificaties kom je maar zo ver. 
 
 \index{Esters}
 \index{Esters!Ethylbutyraat}

@@ -30,6 +30,7 @@ Tarwedeeg heeft twee fysiek waarneembare eigenschappen: _elasticiteit_ en _uitre
 
 Deze eiwitten haken zich aan elkaar vast zodat lucht gevangen wordt en brood kan rijzen. Dit vasthaken is echter ook een vervelend probleem om met het deeg te werken. Kneden wordt dankzij diezelfde gluten moeilijker. De enzymen die we leerden kennen in hoofdstuk \ref{microbio} spelen hier een grote rol in. Amylase is niet het enige belangrijke enzym dat in bloem zit. Voor de structuur van het deeg zijn de volgende enzymen belangrijk:
 
+\label{enzym}
 \index{Enzymen}
 \index{Enzymen!Protease}
 \index{Enzymen!Lipase}

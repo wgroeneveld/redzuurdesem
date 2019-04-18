@@ -192,9 +192,7 @@ En Sarah zei dat ik het toch goed overleefd had.
 ‘Je werkt heel methodologisch en je beheerst het concept van multitasken goed. Dat zijn essentiële eigenschappen als bakker.’ Ze knikt goedkeurend. Wekkers die constant aflopen die aandacht eisen tussen het maken van verschillende degen door - het is inderdaad een kwestie van uw hoofd erbij te houden. Ik word gevleid met de vraag of ik het zie zitten om af en toe in het weekend bij te springen, maar sla het vriendelijk af. Eerst wat ik hier geleerd heb verwerken. En misschien terug wat niksen. Het is verleidelijk. 
 Terug thuis duurde het maanden om volledig te vatten wat ik allemaal geleerd heb. Het kostte me eerlijk gezegd wat moeite om mijn dagelijks leven terug op te pikken. Er leek geen dynamiek te zitten in mijn huidig werk, in vergelijking met het avontuur in Gent. Ik begon nog meer dan anders te fantaseren over een eigen bakkerij. 
 
-Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn relaties met boer en molenaar te versterken. Ik wist ondertussen wat ik met bloem kon doen, maar nog niet echt waar het vandaan kwam, en hoe het gemalen werd. 
-
-TODO einde herwerken voor aansluiting hf
+Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn relaties met boer en molenaar te versterken. Ik wist ondertussen wat ik met bloem kon doen, maar nog niet echt waar het vandaan kwam en hoe het gemalen werd. Het was tijd om uit te zoeken wat vruchtbare grond doet met tarwezaadjes. 
 
 \newpage
 
