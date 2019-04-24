@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "content/boek/boer.pd.md",
+			"file": "content/boek/recept.pd.md",
 			"settings":
 			{
-				"buffer_size": 20928,
+				"buffer_size": 37881,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,16 +532,37 @@
 			"file": "content/boek/overschot.pd.md",
 			"settings":
 			{
-				"buffer_size": 25377,
+				"buffer_size": 25927,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/boek/boek.bib",
+			"file": "content/boek/epiloog.pd.md",
 			"settings":
 			{
-				"buffer_size": 23226,
+				"buffer_size": 12560,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\\frontmatter\n\n\\includepdf[\n    scale=2.0,\n    addtolist={1, figure, {Een mooi opengebloeide korst na het bakken.}, img:korst}\n]{korst.jpg}\n\n## Voorwoord\n\nDimitri?\n\n## Inleiding\n\n> '_Happiness is bread baking._' - KC, [Sourdough.com](https://sourdough.com)\n\n### Februari 2019\n\nNiet iedereen voelt van kleins af aan wat hij wil worden later. Dat was bij mij niet zo. De constante aanwezigheid van een beeldscherm, hetzij een computer, hetzij een Game Boy, verraadde mijn toekomstige interesse in software ontwikkeling. Ik had weinig hobby's als kind, maar zolang het '_bleep_' zei en mijn ogen er slechter van werden, was ik stil. \\nl\nEten was leuk, maar hield me niet bezig. Dacht ik. Maar toch, op een of andere manier, zijn een aantal smaken in mijn onderbewustzijn terecht gekomen die mij nooit meer zullen loslaten. Een van die smaken is eentje van Spaans brood. Zuurdesembrood, weet ik nu. De jaarlijkse familievakanties hebben buiten een fascinatie voor cactussen dus toch nog iets anders opgebracht: een ijzersterke herinnering van _geur_ en _smaak_. Dat ik meer dan 10 jaar later op zoek zou gaan naar de oorsprong van die geur en smaak, kon ik me toen onmogelijk inbeelden. \\nl\nHet zaadje was gepland. \n\nMijn vader heeft zolang als ik me kan herinneren altijd zelf brood gemaakt, net zoals zijn vader. Zondag mochten mijn zussen en ik langer slapen, totdat je bruut werd gewerkt door het helse gepiep van de kneedmachine, die onverstoorbaar een paar kilo deeg tegen de randen van de kom sloeg. Een dik  uur later rook het hele huis naar versgebakken brood ter compensatie: dat maakte veel goed. \\nl\nWanneer het brood voldoende gekoeld was, werd de snijmachine aangezet om het brood in sneetjes te verdelen, en het merendeel in de diepvries te laten verdwijnen. Op dat moment is het een kwestie van vechten - en hopelijk winnen - om het korstje (of, stel u voor, misschien zelfs twee korstjes) te kunnen bemachtigen. We leken wel kippen die vochten om een stukje brood die elkaar daarna achterna lopen. \n\nDie traditie om wekelijks brood te bakken gaven mijn zaadje regelmatig een beetje vocht. Niet veel, maar genoeg om niet af te sterven. \\nl\nWanneer ik alleen ging wonen, en ik het terugvallen op de middelmatige kwaliteit van supermarkt brood beu was, kreeg ik van mijn ouders een broodbakmachine cadeau. Plots kreeg het zaadje niet zomaar een beetje vocht, maar een hele emmer vol mest. En groeien deed het. Het duurde nog een jaar of twee voordat ik toegaf aan die opgeslagen zintuiglijke prikkeling van dat brood op vakantie. \\nl\nMaar wanneer het zaadje een plantje werd, kwam er geen muurbloempje uit: het werd een gigantische Redwood boom, die nog steeds van geen stoppen weet. \n\nBrood bakken (of kopen) voelt voor sommigen aan als een verplichting: je doet het omdat het nu eenmaal moet gebeuren. Voor mij is brood bakken gegroeid van een verplichting naar een hobby tot een obsessie. Waar ik vroeger niets van moest weten, daar wil ik nu alles van weten, tot in het kleinste detail, met als gevolg dat op mijn eentje knoeien met een broodbakmachine te weinig voldoening gaf. \\nl\nOp zoek naar de _geur_ en de _smaak_ toverde ik mijn keuken om tot een microbiologisch laboratorium, volgde ik cursussen, ging ik in leer bij de beste bakkers, schreef ik artikels, en gaf ik zelf verschillende workshops. Dit boek is de culminatie van alles wat ik weet over brood bakken. \n\nEr zijn zoveel goede (en slechte) broodbak boeken gepubliceerd dat het duizelt van de keuzestress wanneer je er eentje wilt aanschaffen. Daarom koos ik resoluut voor een persoonlijk verhaal, waarin ik je inzicht verschaf in mijn leerwereld, gecombineerd met duidelijke, maar wetenschappelijk onderbouwde, informatie. \\nl\nVeel kook- en bakboeken bevatten belachelijk weinig technische diepgang, zelfs degene die geschreven zijn door autoriteiten met jarenlange ervaring. Anderen maken het dan weer graag verwarrend door vreemde hoeveelheden en onduidelijke rijstijden te hanteren in recepten. \\nl\nJe hebt geen diploma nodig om te kunnen bakken met zuurdesem, wat andere bronnen je ook doen wijsmaken. Het is juist super simpel: iedereen die ooit al eens iets heeft gefermenteerd kent de basis. Dit boek is géén handboek, kookboek of bakboek. Het is het boek dat ik wou dat ik had toen ik nog niet wist wat ik wist. \n\nWat valt er eigenlijk te 'redden' aan zuurdesem? Het heeft al duizenden jaren bestaan, en bestaat nu nog steeds. Ook hier hakt de industriële revolutie enorm in op de kwaliteit van brood: weg smaak, weg vlotte verteerbaarheid. Wat er nog overblijft is een slappe imitatie van _Wonder Bread_, een rechthoekige witte spons die chocopasta goed kan absorberen, maar daarmee is dan ook alles gezegd. De inleiding van het wetenschappelijk verslag over moderne brood- en zuurdesemtechnologie van Pieter Decock en Stefan Cappelle, geassocieerd met de Puratos Groep, voorspelt weinig goeds: [@decock2005bread]\n\n> _Bakery industry has known a revolution over the past 150 years. The small artisan bakeries, which were present in every village, made place for high technological bakery industry. Industrial mono-production took over from the high variety bakeries as bread could be produced in a more efficient way. Productivity became the key of success. Different baking technologies were developed to answer better to new market demands. The main consequence of this evolution was a decreased interest for bread flavour through long fermentation processes. A trend has been observed for an increased demand for tastier bread as some artisan bakeries are still producing nowadays or for specialty breads from all over the world. A new business has been created through that demand for companies specialised in the production of stabilised sourdough products. Bakery industry was enabled to provide an answer to the market demand without investment in time, equipment, or extra labour cost._\n\nOmdat de consument blijkbaar toch geïnteresseerd is in smaak, maar de industrie niet van plan is extra tijd en energie te investeren, onderzoeken we dan maar alternatieven in de vorm van smaakversterkers. \\nl\nHet wordt dringend tijd om kritisch denken ook toe te passen als het op boodschappen doen aankomt. De gemiddelde moderne bakker is nu eenmaal niet geïnteresseerd in de kwaliteit van zijn eigen producten. Dat betekent niet dat wij als consument ons hier naar moeten schikken. Vandaag de dag denken maar weinig mensen na over de textuur, smaak, origine, verteerbaarheid en herkomst van brood. Dit kom deels doordat de mens niet genoeg tijd neemt om dankbaar te zijn voor eten, maar ook door de industrialisatie van het broodbakproces.\n\n‘_Graag traag_’ is geen nieuw begrip in de voedingssector. De internationale Slow Food organisatie strijdt al jaren voor een bewustwording van écht, eerlijk, en goed voedsel [@slowfood]. Voedsel moet goed zijn (kwalitatief: smaakvol én gezond), proper (een productieproces met minimale schade aan de omgeving), en eerlijk (betaalbare prijzen voor consumenten én goede voorwaarden voor de producenten). De drie voorwaarden komen in dit boek allemaal aan bod, met een duidelijke nadruk op het eerste: goed voedsel.\n\nEr zijn zoveel andere etenswaren die lekkerder zijn wanneer ze een tijdje gerust hebben. Heb je al ooit eens het verschil geproefd tussen spaghettisaus die _à la minute_ klaargemaakt werd, en saus die een nachtje in de koelkast getrokken heeft? Smaken balanceren elkaar uit. Er ontstaat harmonie. De paprika overheerst niet meer, de tomatenpuree verzacht, en de kruiden komen beter naar boven. Heb je al ooit eens het verschil geproefd tussen witte kool ingemaakt met azijn, en kool waar melkzuurbacteriën maanden langzaam aan gewerkt hebben? Hemel en aarde. \nGerijpte wijn, oude kaas, olijven, miso, natuurlijke azijn, ... Allemaal het bewijs wat (soms een beetje, soms heel veel) tijd kan doen voedsel. \n\nOok in de bakkerij is tijd een van de belangrijkste kwaliteitsfactoren, zelfs als we kijken naar banket. Frangipanebeslag is dubbel zo lekker als de amandelen een dag op de boter hebben kunnen inwerken. Goede speculaas wordt nooit op dezelfde dag gebakken. De (hopelijk zelfgemaakte) kruidenmengeling moet de tijd krijgen om smaak te verspreiden in het boter- en suikerrijk deeg, op dezelfde manier als frangipane. Ik ben van nature iemand die graag dingen in twijfel trekt. Toen ik dit vernam van mijn vader, moest ik dringend het tegendeel bewijzen. Dat draaide na enkele mislukte experimenten uit op een nederlaag. Speculaas dat ik dezelfde dag nog bakte had nauwelijks smaak. Ik moest de hoeveelheid kruiden bijna verdubbelen om tot hetzelfde resultaat te komen. \n\nHoe meer ik bijleerde over het effect van tijd op voedsel, hoe meer ik gefascineerd werd door fermenteren in het algemeen. Collega’s leerden mij kennen als iemand die 'vieze schimmels' (zelfgemaakte _tempeh_) en 'stinkende groenten' (ingelegde wortelen) binnen speelt. Mijn vrouw Kristien leerde mij kennen als iemand die graag potten laat ontploffen in de keuken: onderschat nooit de opgebouwde druk aan CO~2~. Ik probeer altijd de zo traag mogelijke route te nemen op gebied van eten, omdat ik ondertussen uit ervaring weet dat het niet alleen beter zal smaken, maar ook beter zal zijn voor mijn darmen. Dat laatste gaat voor speculaas helaas blijven pijn doen na de derde...\n\nHoge standaarden hanteren als het op voedsel aankomt is het enige juiste alternatief. Mijn interesse in brood ontstond uit noodzaak en groeide uit tot een uit de hand gelopen obsessie. Ik wil daarom graag mijn bewustwording en enthousiasme met jullie delen. Het boek is opgedeeld in drie delen: praktijk, theorie en methode. Net zoals bij programmeren, komt het er op aan om zo veel mogelijk te falen. Falen, vloeken, deeg weggooien, en opnieuw proberen. Dit komt uitvoerig aan bod in deel \\ref{praktijk}. Zoals Jeffrey Hamelman zegt: '_Experiment, play, realize that failure isn’t really failure, it’s an edible part of your evolution as a baker._' Net zoals bij programmeren, moet dat oefenen onderbouwd worden met een stevige theoretische basis. Onvoldoende inzicht betekent onvoldoende kansen kunnen grijpen om te kunnen leren van al dat falen. Die theorie bewaren we voor deel \\ref{theorie}.\n\nWaarom zou iemand de wetenschap van het bakken van brood willen leren? De meeste wetenschappelijke experimenten bereikten pas tractie in de twintigste eeuw. Brood wordt al zesduizend jaar door de mens gebakken, zonder enige kennis van microbiologie of chemie. Het verhaal van de verstrooide Egyptenaar die een mengsel van bloem en water in de zon vergat, dankte toen hij terugkeerde het gerezen goedje niet aan de wetenschap, maar aan de goden. Om op die vraag te kunnen antwoorden laat ik een expert aan het woord:\n\n> '_You do things one way, until you learn there’s a completely different way that’s even better. And there’s always a better way._' - Francisco Migoya, Modernist Bread\n\nDe mens is een gewoontedier. Gewoontes kunnen héél hardnekkig zijn. Bakken is een ambachtelijk beroep dat vroeger vaker dan nu werd doorgegeven van vader op zoon. Dat gaat gepaard met het doorgeven van gewoontes. Recepten worden aangehouden 'zoals vroeger', inclusief methodes. Nathan Myhrvold noemt dit een aangenomen '_ethos van primitivisme_': een hardnekkige weerstand tegen innovatie [@myhrvold2017modernist]. Als je ouders je leren niet met natte haren buiten te spelen 'omdat je dan kou vat en ziek wordt', dan deed je dat niet. In ons moderne tijdperk is de wetenschap zo ver gevorderd dat deze cultureel gebonden gewoontes wetenschappelijk gestaafd of weerlegd kunnen worden. Dan moet je wel weer bereid zijn om te geloven wat de wetenschap zegt. De legende van oma's gebraad is hier een mooi voorbeeld van. Een bruid ontdekte toen ze zich eindelijk afvroeg waarom de uiteinden van het gebraad altijd werden afgesneden voordat het vlees werd gemaakt, dat oma haar oven gewoon kleiner was dan de modernere varianten. Generaties lang werd het uiteinde niet opgegeten. Een mooie familietraditie, gebaseeerd op de koppigheid van de mens. \n\nStel dus altijd de vraag: _waarom?_\n\nOm een of andere reden kent de wereld van brood de laatste jaren een invasie van techneuten zoals mij. Ingenieurs, programmeurs, en analisten zijn heel goed in het stellen van de _waarom_ vraag. Wetenschappelijk onderzoek verrichten is eigenlijk niets meer dan een paar kritische vragen stellen (en ze liefst ook nog beantwoorden). De analytische, strategische visie gecombineerd met een ontspannen, bijna romantiserende verhaallijn van het broodbakproces vormen een vruchtbaar huwelijk als het op _James Beard_ en _Saveur_ prijzen aan komt. De nood om een ambacht op te pakken en iets _tastbaar_ zoals brood te maken, daar herken ik vooral mezelf in. Maurizio Leo, de software ontwikkelaar achter de populaire blog 'The Perfect Loaf'[^perfectloaf], noemt het beantwoorden van de waarom vragen het _debuggen_ van het broodbak _algoritme_. Zo ver zou zelfs ik niet durven gaan. Het is duidelijk dat ook technisch aangelegde mensen graag met hun handen werken. Dingen bouwen, én precies weten wat daarvoor nodig is. De persoonlijke relatie tussen maker en eter geeft veel meer voldoening dan bij typisch programmeerwerk. Brood verbindt mensen. Het is niet voor niets 'ons dagelijks brood'. \n\n[^perfectloaf]: [https://www.theperfectloaf.com/](https://www.theperfectloaf.com/)\n\nEn als er iets mislukt, vloek ik nog steeds, maar doe ik dat al glimlachend. De keuken is, zoals Kristien dat noemt, _ontploft_, maar ik heb nog steeds het onweerstaanbare aroma van versgebakken brood weten in huis te halen. \n\nLangs de andere kant is de alsmaar technischer wordende visie van de moderne mens, gepaard met de wens om te blijven 'innoveren', heel gevaarlijk voor de toekomst van voedzaam brood. De invloed van techniek op een ambacht als brood bakken is groot, maar niet radicaal. Sommige 'innovators' denken de fundamenten van het broodbakproces dat al zesduizend jaar in stand gehouden wordt te kunnen ontwrichten. Dat noem ik pure arrogantie. Op dat moment komt mijn gezonde achterdocht voor industrialisatie terug naar boven. Op dat moment moet inderdaad zuurdesem gered worden. Die weerstand tegen innovatie blijkt een dunne lijn te zijn tussen gezonde en hardnekkige weerstand. Dat is de tweede belangrijke reden om iets te leren over de wetenschap van ons voedsel. We moeten wel: het ziet er niet naar uit dat industriële 'innovatie' binnenkort gaat vertragen. Ik wil weten wat er in mijn eten zit voordat het in mijn maag terechtkomt. En dat geldt ook voor mijn dagelijks brood. \n\nVolg mij in mijn voetsporen om _natuurlijk_ zuurdesembrood terug onder de mensen te brengen. Volg mij om te leren hoe je moet leren om kritisch achter je neus aan te lopen. \n\n\\mainmatter\n",
+			"file": "content/boek/intro.pd.md",
+			"file_size": 14700,
+			"file_write_time": 132005629960000000,
+			"settings":
+			{
+				"buffer_size": 14729,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/de-echte-leerschool.pd.md",
+			"settings":
+			{
+				"buffer_size": 41676,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -649,27 +670,28 @@
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/crashcursus-microbiologie.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/geur.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/overschot.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/intermezzo1.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/kabouters.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/bokrijk.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/recept.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/de-echte-leerschool.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
 		"/Users/jefklak/development/redzuurdesem/content/boek/boer.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/preamble.tex",
-		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
-		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
 		"/Users/jefklak/Downloads/wouter.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
-		"/Users/jefklak/development/redzuurdesem/content/boek/de-echte-leerschool.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
 		"/Users/jefklak/development/redzuurdesem/.gitignore",
 		"/Users/jefklak/development/redzuurdesem/content/boek/todo.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/copyright.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/geur.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/possible_strains.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/intro.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/kabouters.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/alles-vergeten-dat-geleerd-is.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/temp_tergoedkeuring.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/bokrijk.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/boek.tex",
 		"/Users/jefklak/development/redzuurdesem/content/boek/afterbody.tex",
 		"/Users/jefklak/development/redzuurdesem/content/boek/verdienen.pd.md",
@@ -775,8 +797,7 @@
 		"/Users/jefklak/Downloads/ACMDL201901213242403.csv",
 		"/Users/jefklak/development/test.md",
 		"/Users/jefklak/.pandoc/templates/tufte_handout.latex",
-		"/Users/jefklak/Library/Application Support/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
-		"/Users/jefklak/development/phd/content/src/onderzoek/delphi_id_skills/delphi_info_sheet_en.md"
+		"/Users/jefklak/Library/Application Support/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings"
 	],
 	"find":
 	{
@@ -795,6 +816,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"het graag doen om het",
+			"TODO",
+			"suiker",
+			"enzym",
+			"`E",
+			"opties",
+			"TODO",
 			"plaats vinden",
 			"geuze",
 			"daarintegen",
@@ -915,14 +943,7 @@
 			"|:-",
 			"gezon",
 			"glutenstru",
-			"gluten stru",
-			"glutenstru",
-			"pseudo",
-			"san fransis",
-			"pathoge",
-			"intolera",
-			"fytine",
-			"type II"
+			"gluten stru"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -956,32 +977,32 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/boek/boer.pd.md",
+					"file": "content/boek/recept.pd.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20928,
+						"buffer_size": 37881,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41,
-								41
+								10268,
+								10268
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 13,
-								"count": 3273,
+								"changes": 0,
+								"count": 5865,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -1006,11 +1027,11 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1026,31 +1047,6 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1060,7 +1056,32 @@
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -1079,36 +1100,41 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1119,24 +1145,393 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/boek/overschot.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								992,
+								992
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 350,
+								"count": 3908,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/boek/epiloog.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								670
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 508,
+								"count": 1918,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1146,32 +1541,145 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "content/boek/overschot.pd.md",
+					"buffer": 3,
+					"file": "content/boek/intro.pd.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 25377,
+						"buffer_size": 14729,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23388,
-								23388
+								6537,
+								6537
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 1636,
-								"count": 3838,
+								"changes": 183,
+								"count": 2290,
 								"modified": false,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2103.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content/boek/de-echte-leerschool.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40088,
+								40088
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 13,
+								"count": 6935,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "markdown"
 							},
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
@@ -1192,273 +1700,143 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 8705.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "content/boek/boek.bib",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23226,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								673,
-								694
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 3,
-								"count": 1655,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1084,
-										1085
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										672,
-										673
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/LaTeX/Bibtex.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 14266.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1511,7 +1889,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 70.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1520,6 +1898,58 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"in",
+				"content/boek/intro.pd.md"
+			],
+			[
+				"epilo",
+				"content/boek/epiloog.pd.md"
+			],
+			[
+				"oversc",
+				"content/boek/overschot.pd.md"
+			],
+			[
+				"rece",
+				"content/boek/recept.pd.md"
+			],
+			[
+				"micro",
+				"content/boek/crashcursus-microbiologie.pd.md"
+			],
+			[
+				"struc",
+				"content/boek/structuur.pd.md"
+			],
+			[
+				"de-lee",
+				"content/boek/de-leerschool.pd.md"
+			],
+			[
+				"bokrijk",
+				"content/boek/bokrijk.pd.md"
+			],
+			[
+				"kabou",
+				"content/boek/kabouters.pd.md"
+			],
+			[
+				"interme",
+				"content/boek/intermezzo1.pd.md"
+			],
+			[
+				"geur",
+				"content/boek/geur.pd.md"
+			],
+			[
+				"makefi",
+				"content/boek/Makefile"
+			],
+			[
+				"de-ec",
+				"content/boek/de-echte-leerschool.pd.md"
+			],
 			[
 				"over",
 				"content/boek/overschot.pd.md"
@@ -1531,10 +1961,6 @@
 			[
 				"boer",
 				"content/boek/boer.pd.md"
-			],
-			[
-				"micro",
-				"content/boek/crashcursus-microbiologie.pd.md"
 			],
 			[
 				"prea",
@@ -1561,16 +1987,8 @@
 				"content/boek/structuur.pd.md"
 			],
 			[
-				"rece",
-				"content/boek/recept.pd.md"
-			],
-			[
 				"b",
 				"content/boek/boek.bib"
-			],
-			[
-				"struc",
-				"content/boek/structuur.pd.md"
 			],
 			[
 				"mic",
@@ -1605,10 +2023,6 @@
 				"content/boek/intro.pd.md"
 			],
 			[
-				"kabou",
-				"content/boek/kabouters.pd.md"
-			],
-			[
 				"alles",
 				"content/boek/alles-vergeten-dat-geleerd-is.pd.md"
 			],
@@ -1641,20 +2055,12 @@
 				"content/boek/crashcursus-microbiologie.pd.md"
 			],
 			[
-				"makefi",
-				"content/boek/Makefile"
-			],
-			[
 				"echte",
 				"content/boek/de-echte-leerschool.pd.md"
 			],
 			[
 				"verdien",
 				"content/boek/verdienen.pd.md"
-			],
-			[
-				"geur",
-				"content/boek/geur.pd.md"
 			],
 			[
 				"bokri",
@@ -1699,10 +2105,6 @@
 			[
 				"boek.bi",
 				"content/boek/boek.bib"
-			],
-			[
-				"epilo",
-				"content/boek/epiloog.pd.md"
 			],
 			[
 				"interm",
@@ -2007,30 +2409,6 @@
 			[
 				"dynami",
 				"content/post/dynamic-languages.md"
-			],
-			[
-				"cplusp",
-				"content/post/cplusplus-testing.md"
-			],
-			[
-				"scheme",
-				"content/post/scheme.md"
-			],
-			[
-				"con",
-				"config.toml"
-			],
-			[
-				"uni",
-				"content/post/unix-cmd.md"
-			],
-			[
-				"li",
-				"layouts/partials/list-item.html"
-			],
-			[
-				"scons",
-				"content/post/scons-building.md"
 			]
 		],
 		"width": 0.0

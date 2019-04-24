@@ -19,7 +19,7 @@ De werkwijze, hoe je zo'n formule gebruikt, is geen deel van het recept. Zo'n fo
 
 \index{Bolrijs}
 
-Het bakproces bestaat uit een aantal stappen waarvan er maar twee nooit weggelaten kunnen worden: mengen en bakken. Rijzen kan met soda weggelaten worden, een tweede rijs of voordeeg met genoeg gist, en vorm geven met het uitstorten van deeg in een bakvorm. De Nederlandstalige terminologie voor elke stap in het proces aan te duiden klinkt eerlijk gezegd erg slap in vergelijking met de bewoording in het Engels, Duits en Frans die je in veel bakboeken kan terugvinden. Het was mij vroeger zelfs niet eens duidelijk wat een 'bolrijs' nu precies betekende. Om verdere verwarring te vermijden som ik in tabel \ref{terms} de meest gebruikte terminologie op:
+Het bakproces bestaat uit een aantal stappen waarvan er maar twee nooit weggelaten kunnen worden: mengen en bakken. Rijzen kan met soda weggelaten worden, een tweede rijs of voordeeg met genoeg gist, en vorm geven met het uitstorten van deeg in een bakvorm. De Nederlandstalige terminologie om elke stap in het proces te identificeren klinkt eerlijk gezegd erg slap in vergelijking met de bewoording in het Engels, Duits, en Frans, die in goede internationale bakboeken terug te vinden is. Het was mij vroeger zelfs niet eens duidelijk wat een '_bolrijs_' nu precies betekende. Om verdere verwarring te vermijden som ik in tabel \ref{terms} de meest gebruikte terminologie op:
 
 | Stap | Term EN/NL     | Term FR/DE  | Beschrijving                          |
 |:----:|:---------------|:----------------|:----------------------------------|
@@ -52,7 +52,9 @@ Ik werk thuis voornamelijk met twee verschillende soorten deeg waarvan de werkme
 
 ### Tarwe Boerenbrood
 
-De '_boer_' in boerenbrood staat voor de onbedoelde oogst van een beetje rogge tussen de tarwe halmen. Voor de opkomst van machinale oogst werd er niet zo nauw gekeken naar die stricte opdeling, wat een heel smakelijk brood oplevert. Brood zonder rogge mist die complexe, ietwat scherpe, toets die een grijns op mijn gezicht tovert als ik het proef. Ik besef dat deze persoonlijke voorkeur niet bij iedereen in dank afgenomen wordt. Vervang in dat geval een deel of het geheel van rogge door een ander soort ongezeefd graan. Dit kan zelfs een pseudograan zijn zoals in Andrew Whitley's _Arkatena Bread_ met kikkererwtenmeel [@breadmatters], of zoals in Zachary Golper's _Miche_ met boekweitmeel [@biencuit].
+De '_boer_' in boerenbrood staat voor de onbedoelde oogst van een beetje rogge tussen de tarwe halmen. Voor de opkomst van machinale oogst werd er niet zo nauw gekeken naar die stricte opdeling, wat een heel smakelijk brood oplevert. Brood zonder rogge mist die complexe, ietwat scherpe, toets die een grijns op mijn gezicht tovert als ik het proef. Ik besef dat mijn persoonlijke voorkeur voor rogge niet bij iedereen in de smaak valt. Vervang in dat geval een deel of het geheel van rogge door een ander soort ongezeefd graan. Dit kan zelfs een pseudograan zijn zoals in Andrew Whitley's _Arkatena Bread_ met kikkererwtenmeel [@breadmatters], of zoals in Zachary Golper's _Miche_ met boekweitmeel [@biencuit].
+
+Van oudsher wordt tarwebrood voornamelijk in Frankrijk gebakken, en roggebrood in Duitsland. Tarwe gedijt goed in een milder klimaat, en rogge kan wel tegen een stootje. België ligt tussen die twee graanregio's in, wat het de perfecte plaats maakt om brood te bakken met beide soorten. 
  
 | Hoeveelheid | Percentage | Beschrijving        |
 |:-----------:|:----------:|:--------------------|

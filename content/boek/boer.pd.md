@@ -124,6 +124,8 @@ De belangrijkste gist voor voor (modern) brood, is dus ook de belangrijkste voor
 
 Je moet moeite doen om in de koelkasten een product met melkzuurbacteriën te vinden. Ik heb er slechts één gevonden, met 'een miljoen _Lactobacillus plantarum_ cellen' in, volgens het etiket. Dat zou geschikt moeten zijn om zuur bier te brouwen. Voor de rest was het _Saccharomyces_ waar de klok slaat, ook al lukte het me niet om de onderfermentatieve _pastorianus_ soort te lokaliseren. Elk pakketje gist dat ik vast nam, of het nu gedroogd was of niet, bevatte maar één gistsoort, namelijk _cerevisiae_. Hoe kan dat? Zou Gert zijn pakjessoep uitleg niet helemaal kloppen, of begrijp ik nog te weinig van de taxonomie van deze gist? _Cerevisiae_ is de soort die behoort tot het geslacht _Saccharomyces_[^gesl]. Ik heb tot nu toe het woord 'stam' (veel hoger in de taxonomie) verkeerd geïnterpreteerd, en bedoelde in feite telkens 'soort'. Van deze ene soort bakkersgist worden er door slimme mensen met witte jassen via 'aangemoedigde natuurlijke selectie' andere stammen gekweekt [@steensels2014improving]. Deze microbiologische 'stam' heeft niets te maken met het begrip 'stam' uit de taxonomie. Het is een verzameling van organismen die af'stamt' (aha!) van één enkel geïsoleerd micro-organisme. 
 
+[^gesl]: Dat geslacht behoort om precies te zijn tot de familie _Saccharomycetaceae_, die behoort tot orde _Saccharomycetales_, die behoort tot onderklasse _Saccharomycetidae_, die behoort tot klasse _Saccharomycetes_, die behoort tot stam _Ascomycota_, die behoort tot het rijk der _Fungi_. Jezus. 
+
 Het resultaat van die gekruiste gisten is duidelijk zichtbaar in de koelkasten van Brouwland. Ik begreep er maar weinig van, en kocht op goed geluk wat zakjes gedroogde gist, samen met zo'n vloeibare variant. Safale S-04, _dry ale yeast_. Ontworpen in Frankrijk, geproduceerd in België. Mangrove Jack's M47 _Belgian abbey yeast_. Geproduceerd in Verenigd Koninkrijk? Wyeast Premium Liquid Yeast 1214 _Belgian Abbey_, _100 billion yeast cells, inoculates up to 5 gallons_. Misschien wat veel. Geproduceerd in Oregon, Verenigde Staten? Verse, vloeibare gist, dat wij dan als trots bierland terug importeren, om te verkopen aan Belgische brouwers. Vreemd systeem, die kapitalistische economie. 
 
 De al even vreemde nummers naast de merknaam duiden een specifieke giststam aan. Ondanks Gert zijn pakjessoep verhaal, vind ik op het pakje vloeibare gist geen enkele aanwijzing op aanwezigheid van meerdere stammen. Wyeastlab spreekt zelfs van enkelvoud (_This strain produces a nice ester profile as well as slightly spicy alcohol notes_). Mangrove Jack beschrijft hun M47 variant als volgt op hun website:
@@ -137,7 +139,13 @@ _Storage Recommendations: Store in the fridge._
 
 Recenties van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken te bakken. In ieder geval ga ik geen `23 l` deeg maken om dit te proberen. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies gebruikt wordt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. 
 
-[^gesl]: Dat geslacht behoort om precies te zijn tot de familie _Saccharomycetaceae_, die behoort tot orde _Saccharomycetales_, die behoort tot onderklasse _Saccharomycetidae_, die behoort tot klasse _Saccharomycetes_, die behoort tot stam _Ascomycota_, die behoort tot het rijk der _Fungi_. Jezus. 
+Ik kocht een Jessenhofke Tripel en gebruikte het bier in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met `100 gr` bloem en `100 gr` bier, dat een nacht op `24 °C` de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg van `200 gr` op basis van zuurdesem. \nl
+De volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit. De biergist had duidelijk nog geen zin om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. \nl
+Net voordat het erg actieve voordeeg dreigde in te klappen besliste ik om beide preparaten te gebruiken in het brood, samen met de rest van het bier. `330 cl` bier en `370 gr` water verdween in `1 kg` bloem, om dertig uur later uit de oven tevoorschijn te komen als twee fantastisch goed gelukte broden. \nl
+Het aroma van het bier was nog subtiel aanwezig, maar werd overweldigd door de complexiteit van mijn zuurdesemcultuur. Ik denk dat een kortere rijstijd hier interessanter was. Een tweede optie is twee flesjes bier gebruiken voor twee broden. De kostprijs van zo'n brood schiet dan weer de hoogte in. 
+
+Het werd mij duidelijk dat bier voornamelijk smaak aanlevert, en niet rijskracht, ook al gebruik je bier met hergisting op fles. Mijn methode van brood bakken, verder uitgediept in deel III, voorziet meer dan voldoende smaak, aangebracht door zuurdesem, die overweldigend werkt op de verdienstelijke bijdrage van het bier. \nl
+Drink gewoon je bier terwijl je zuurdesembrood eet. Geniet van beide fermenten op zich. 
 
 \newpage
 
@@ -147,5 +155,6 @@ Recenties van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebr
 * Bier brouwen doe je ofwel met enkel gisten, ofwel met bacteriën. In dat geval is een aparte installatie sterk aan te raden. 
 * Er zijn honderden verschillende door mens ontworpen giststammen die afgeleid zijn van éénzelfde soort micro-organisme, namelijk Saccharomyces cerevisiae_.
 * Een bijproduct van het brouwen, draf, bevat nog actieve gist die gebruikt kan worden om brood te doen rijzen. 
-* Bier dat hergist is op fles, bevat nog genoeg gist om brood te doen rijzen. 
+* Bier dat hergist is op fles, bevat nauwelijks genoeg gist om brood te doen rijzen. 
 * Bakkersgist is geselecteerd op snelheid. Biergist op alcohol en aroma. 
+* Bier in brooddeeg zorgt voor smaak, niet voor rijskracht. Die smaak kan overweldigd worden door zuurdesem. 
