@@ -13,14 +13,14 @@ Maar genoeg is genoeg. Er kwam een punt waarop ik tegen mezelf zei 'En nu wordt 
 Kennis is _macht_. Macht brengt erg veel geld op in onze moderne maatschappij, en niet alleen in de vorm van een erg duur boek over brood [@myhrvold2017modernist]. Kennis delen is echter ook _kracht_. Kennis zou altijd en overal voor iedereen beschikbaar moeten zijn. Jammer genoeg ben ik veel bakkers en niet-bakkers tegengekomen die hier anders over denken. Ze hebben blijkbaar schrik dat die met veel zweet en tranen zorgvuldig opgebouwde kennis zonder meer doorverkocht kan worden, en hun geruïneerd achterlaat. Oprechte interesse in de stiel kan niet genoeg aangemoedigd worden. Er kunnen niet genoeg échte zuurdesem bakkers mensen gelukkig maken met brood dat smaakt. \nl
 Kennis in de vorm van kracht schenken geeft enorm veel voldoening. Enthousiasme werkt aanstekelijk. Iemand anders op die manier helpen ontsteekt passie voor brood. Ik hoop oprecht in mijn missie geslaagd te zijn. Misschien moet zuurdesem dan helemaal niet meer gered worden.
 
-Ik begrijp nu waaorm de techneuten uit de inleiding zo graag de mouwen opstropen om hun handen in plakkerig deeg te steken. Brood bakken is niet alleen werken aan iets geurig en tastbaar, maar deel uitmaken van een oeroud proces dat al meer dan zesduizend jaar beoefend wordt door de mens. Die rijke geschiedenis is iets heel anders dan de eerste programmeertaal die uitgevonden werd rond 1950. \nl
+Ik begrijp nu waarom de techneuten uit de inleiding zo graag de mouwen opstropen om hun handen in plakkerig deeg te steken. Brood bakken is niet alleen werken aan iets geurig en tastbaar, maar deel uitmaken van een oeroud proces dat al meer dan zesduizend jaar beoefend wordt door de mens. Die rijke geschiedenis is iets heel anders dan de eerste programmeertaal die uitgevonden werd rond 1950. \nl
 Voor de zoveelste keer hetzelfde brood bakken geeft mij veel meer voldoening dan voor de zoveelste keer een probleem in software op te lossen, en ik ben daar niet de enige in. Zelfs imaginaire software ingenieur Lois Clary uit Robin Sloan's roman getiteld 'Sourdough' is het met mij eens [@sdfictie]. \nl
 Brood was en is nog steeds een zeer belangrijk symbool in onze samenleving. Denk maar aan verschillende gezegden waar brood gebruikt wordt om iets mee duidelijk te maken: '_dat hebben wij broodnodig_', '_uw broodje is gebakken_', '_proficiat met het brood in de oven_', '_zoete broodjes voor iemand bakken_', enzovoort. Brood eten is niet zomaar een culinaire ervaring, maar ook een culturele en spirituele, die mensen samenbrengt. Brood vormt zelfs al sinds de Egyptenaren een centraal deel van heilige vieringen. \nl
 En ik wil daar een deel van zijn. Als ik brood bak, voel ik mij een _mens_.
 
 In de afgelopen jaren ben ik van een 'exacte' bakker geëvolueerd naar een 'intuïtieve' bakker. Recepten worden niet meer tot op de letter opgevolgd. In de plaats daarvan gebruik ik mijn ervaring en zintuigen om te oordelen wanneer ik wat moet doen. Je intuïtie gebruiken betekent niet dat wetenschap geen plaats meer kan hebben in de keuken. Om die intuïtie op te bouwen heb ik immers zwaar geleund op de wetenschap van het brood bakken. \nl
 Het is zo'n beetje als spaghetti koken. Als onervaren kok lees je het pakje en kook je de spaghetti tot op de minuut zoals voorgeschreven. Het komt niet in je op om te proeven. Moet je dan elke minuut proeven? Of na 'een tijdje'? Wanneer is dat dan? \nl
-dSommige mensen koken zo heel hun leven. Nieuwsgierige mensen stellen één kritische vraag: _waarom?_ Vanaf dat moment ben je aan het leren. Na een (lange) tijd leer je voelen in plaats van te meten. 
+Sommige mensen koken zo heel hun leven. Nieuwsgierige mensen stellen één kritische vraag: _waarom?_ Vanaf dat moment ben je aan het leren. Na een (lange) tijd leer je voelen in plaats van te meten. 
 
 Ik heb het geluk gehad om veel experts aan het werk te zien en te kunnen spreken. Ik mocht zelfs, ook al was het maar voor een erg korte periode, in de leer gaan bij een van de beste zuurdesem bakkerijen die ons land rijk is. Die ervaringen zal ik nooit vergeten. Als iemand mij tien jaar geleden had gezegd dat ik een gepassioneerde bakker ging zijn, had ik die persoon uitgelachen. \nl
 In feite was het idee in de vorm van een zaadje al lang geleden gepland door mijn vader (bedankt papa). Het enige wat ik gedaan heb is het, soms onbewust en soms bewust, water gegeven. Door actief de juiste mensen op te zoeken waar ik van kan leren, groeide die passie uit tot een obsessie. Ik zou zonder passie nooit in staat geweest zijn om zo lang gefascineerd te blijven over één ding.
@@ -40,7 +40,7 @@ En als je me nu wilt excuseren, moet ik _Meneer Bubbels_ voeren en we hebben gee
 
 ## Dankwoord
 
-blabla mercie den dieje
+TODO
 
 ## Aanbevolen literatuur
 
@@ -64,7 +64,7 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
 ### Voor professionele bakkers
 
 * _Bread: A Baker’s book of Techniques and recipes_ door Jeffrey Hamelman [@hamelman2004bread].
-    - Een compleet compendium met duidelijke focus op zuurdesem, ook al zijn er gist- en voordeegrecepten meegeleverd. Mooie opdeling tussen tarwe- en roggegebaseerd deeg.
+    - Een compleet compendium met duidelijke focus op zuurdesem, ook al zijn er gist- en voordeegrecepten meegeleverd. Mooie opdeling tussen tarwe- en rogge gebaseerd deeg.
     - Inclusief zeer diepgaande verklaringen (biologie, chemie, temperaturen, …)
     - Zuurdesem hoeveelheden heel makkelijk te herrekenen. Recepten in Europees en Amerikaans formaat.
     - Te complex voor beginners, werkt met deegbasis van `10 kg`.
@@ -90,7 +90,7 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
     - Een zeer methodische aanpak en stijl om te leren werken met rogge. Oh, en de auteur is een ingenieur...
     - Recepten zijn vrijwel altijd een combinatie van gist en desem dat typisch is voor Duitse broden. 
     - Recepten die voor een Belg of Nederlander makkelijker in te leven zijn dan iets van Amerikaanse bakkers vanwege minder water en de aanwezigheid van bekende klassiekers als 'melkbrood'.
-    - Duitstalig, en dus soms moelijk te vertalen, zelfs met hulp. Roggebloem (geen meel) is moeilijker verkrijgbaar. 
+    - Duitstalig, en dus soms moeilijk te vertalen, zelfs met hulp. Roggebloem (geen meel) is moeilijker verkrijgbaar. 
 
 Hoe graag ik ook een boek vuil maak met mijn bebloemde handen, toch moet ik ook de nodige erkenning geven aan een aantal websites. Het internet vormt voor velen tegenwoordig de eerste en voornaamste bron van informatie. Enthousiaste bakkers vertellen over hun bevindingen op het centrale forum 'The Fresh Loaf'[^freshl]. Daar zijn veel vriendelijke bakkers terug te vinden. Populaire blogs waar ik veel aan gehad heb zijn 'The Perfect Loaf'[^perfl], 'Sourdough.com' en het Nederlandse 'The Weekend Bakery'[^wbnl]. Dankzij de snelheid waarmee websites komen en gaan op het internet heeft het weinig zin om hier een uitgebreide lijst van te maken. Als laatste wil ik natuurlijk ook nog reclame maken voor mijn eigen website, 'Red Zuurdesem'[^redz].
 
