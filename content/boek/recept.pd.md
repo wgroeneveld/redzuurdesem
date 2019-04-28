@@ -141,6 +141,7 @@ Enige zorg tijdens het kneden is aangewezen om te vermijden dat het zorgvuldig o
 \index{Fytinezuur}
 \index{Soaker}
 \index{Weken}
+\index{Pentose}
 
 Bij een vrouwendeeg als rogge is minder flexibiliteit mogelijk. Hiermee durf ik niet te beweren dat vrouwen minder tolereren dan mannen, maar dat de onstabiliteit van de pentosen en het gebrek aan elasticiteit minder toelaat. Bij tarwe bepaalt de eerste rijs voor het merendeel de smaak, terwijl dit bij rogge eerder het voordeeg is. Volle granen bevatten meer fytinezuur dan bloem, waarvan de hoeveelheid hoger is bij rogge dan bij tarwe [@garcía1999phytic]. Om de opname van voedingsstoffen te maximaliseren wordt er bij volkoren roggebrood vaak een deel van het meel geweekt, met koud of kokend water. Vandaar de Engelse term '_soaker_'. Dit weken kan je samen met het voordeeg maken en ook een nacht laten inwerken op kamertemperatuur. Bovenstaande formule bevat `600 gr` roggemeel, waarvan `300 gr` gefermenteerd wordt als voordeeg. Dan schiet er nog `300 gr` over om te weken[^weken] met `400 gr` kokend water. Op dag 2 om 10 uur combineer je het voordeeg en geweekt meel met de rest van het water, `70 gr`, en rest van de ingrediënten. Geweekt meel helpt buiten enzymen activatie ook om meer water op te nemen. 
 

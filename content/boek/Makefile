@@ -5,7 +5,7 @@ all:
 	xelatex boek.tex
 
 proofread:
-	pandoc -f markdown+smart temp_tergoedkeuring.pd.md -V lang=nl-BE --pdf-engine=xelatex -V documentclass=book --top-level-division=part --metadata-file=metadata.yml -o nalezen.pdf
+	pandoc -f markdown+smart temp_tergoedkeuring.pd.md -V lang=nl-BE --include-in-header=preamble.tex --pdf-engine=xelatex -V documentclass=book --top-level-division=part --metadata-file=metadata.yml -o nalezen.pdf
 
 copyright:
 	pandoc -f markdown copyright.md  --template=ieee_software --listings --variable urlcolor=cyan -o copyright_letter.pdf
