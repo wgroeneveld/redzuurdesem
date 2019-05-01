@@ -15,6 +15,8 @@ Wees bereid om een slechte oogst onherroepelijk weg te kappen: het gaat dan om h
 
 > _Om kwaliteit te maken moet je af en toe bereid zijn geld te verliezen._
 
+\index{Bottelgist}
+
 '_Time is money_' - het klinkt als een zielloze one-liner zonder context. En dat is het ook. \nl
 In de champagne wereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om genoeg flessen per jaar te produceren om goed van te kunnen leven (laten we zeggen zo'n `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). \nl
 De druivenpers is een gedrocht dat in de grote garage staat bij Autréau, waarna het sap naar de kelder gepompt wordt om in inoxen vaten gedurende 15 maanden omgevormd te worden naar witte wijn. In tientallen vaten zijn verschillende soorten druiven van verschillende jaren opgeslagen. \nl

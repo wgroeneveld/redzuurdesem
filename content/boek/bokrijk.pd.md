@@ -43,17 +43,7 @@ Een bijkomend probleem bij alle bovenstaande punten is tijd: je deeg is aan het 
 
 \index{Bolrijs}
 
-Wanneer het kneden klaar was, kon de eerste rijsperiode of _bolrijs_ beginnen. Er was zeer weinig werkoppervlakte voorzien in het huisje. Het deeg bleef rustig liggen in de trog terwijl een doek het beschermde tegen overvloedige tocht. Ik ontdekte nog een probleem waar ik tijdens mijn voorbereiding te weinig rekening mee gehouden had: temperatuur. Er was geen warm water aanwezig. Het was dan wel juli, maar die dagen waren het kouder dan gewoonlijk voor in de zomer te zijn. Het huis was natuurlijk niet geïsoleerd en de deur stond open om bezoekers te kunnen ontvangen. Het deeg voelde te koud aan naar mijn zin maar er was weinig meer aan te doen dan te hopen dat de toegevoegde gist er toch wat leven in zou blazen. Een andere uitdaging is de vochtigheid van het deeg. Ik had op voorhand gerekend op een vaster deeg dan waar ik gewoonlijk thuis mee werk omdat ik verwachtte dat de trog waarschijnlijk wat vervelender ging zijn om te kneden. Met de volgende formule ging ik aan de slag:
-
-| Hoeveelheid | Percentage | Beschrijving             |
-|:-----------:|:----------:|:-------------------------|
-| `5000 gr`   | `100%`     | Tarwebloem               |
-| `3000 gr`   | `60%`      | Water                    |
-| `1000 gr`   | `20%`      | Desem, `100%` hydratatie |
-| `14 gr`     | `0.3%`     | Gedroogde gist           |
-
-Table: Formule voor het zuurdesembrood gebakken op demonstratie dagen in Bokrijk.
-
+Wanneer het kneden klaar was, kon de eerste rijsperiode of _bolrijs_ beginnen. Er was zeer weinig werkoppervlakte voorzien in het huisje. Het deeg bleef rustig liggen in de trog terwijl een doek het beschermde tegen overvloedige tocht. Ik ontdekte nog een probleem waar ik tijdens mijn voorbereiding te weinig rekening mee gehouden had: temperatuur. Er was geen warm water aanwezig. Het was dan wel juli, maar die dagen waren het kouder dan gewoonlijk voor in de zomer te zijn. Het huis was natuurlijk niet geïsoleerd en de deur stond open om bezoekers te kunnen ontvangen. Het deeg voelde te koud aan naar mijn zin maar er was weinig meer aan te doen dan te hopen dat de toegevoegde gist er toch wat leven in zou blazen. Een andere uitdaging is de vochtigheid van het deeg. Ik had op voorhand gerekend op een vaster deeg dan waar ik gewoonlijk thuis mee werk omdat ik verwachtte dat de trog waarschijnlijk wat vervelender ging zijn om te kneden. Met de formule uit tabel \ref{tablebokrijk} ging ik aan de slag, herrekend op `5 kg` bloem.
 
 De geleverde bloem was de dag van de demonstratie gekend voor mij. Ik had op voorhand gevraagd om wat mee te mogen nemen om thuis een gevoel te krijgen van waterabsorptie niveau. Het was een tarwebloem mengeling met grove volkoren zemelen van een grote molen uit Geel die redelijk wat water opnam. Ik zat aan rond de `63%` hydratatie wat voldoende veerkracht zou moeten bieden zonder te zeer gaan te plakken. Ik had geen inspraak op de bloem. Het was wel wat jammer dat zo’n industriële bloem het thema breekt. Zakken van `25 kg` wegstoppen was in dat klein huisje geen optie. Het resultaat was een redelijk vast deeg met brokjes zemelen waar je goed mee moet opletten, want die scheuren snel het nauwkeurig opgebouwd glutennetwerk. Doordat ik voldoende voordeeg op voorhand gemaakt had, kon ik indien nodig met mijn formule spelen en zo nodig de hoeveelheden verhogen of verlagen. 
 
@@ -104,7 +94,7 @@ Terug naar Bokrijk.
 Om een bakkerij te openen heb jij, of iemand van je personeel, een gecertificeerd bakkersdiploma nodig. Daarnaast zijn er ook voedselveiligheidsvoorschriften om je aan te houden waar het schuurtje in het museum absoluut niet aan voldoet. Voor een authentiek gebouw van de 18de eeuw kan je ook moeilijk iets anders verwachten. Tijdens het bakken die dag heb ik verschillende muizenfamilies van het ene hoekje naar het andere zien lopen. Ik denk niet dat iemand bij het Federaal Agentschap Voor Voedselveiligheid daar mee opgezet zou zijn. De normen zijn redelijk streng: alles moet van inox zijn, er moeten controles uitgevoerd zijn door professionele ongediertebestrijders, enzovoort. Ik zou later in de avondschool leren dat dit allemaal kadert binnen _HACCP_: 'Hazard Analysis and Critical Control Points', een risico-inventarisatie voor voedingsmiddelen. 
 Een winkel als detailhandel openen vereist een ander voorschrift waar vlotter aan voldaan kan worden omdat het voedsel zelf daar niet geproduceerd maar slechts doorverkocht wordt. Het blijft natuurlijk een museum en geen volwaardige bakkerij[^bakkerijopen].
 
-[^bakkerijopen]: Dit klopt niet meer. Sinds eind 2017 heeft De Superette zijn tweede vestiging in Bokrijk geopend. Het project betekende een volledige vernieuwing van het gebouw, inclusief installaties. Nu kan je dus de échte ambacht aanschouwen, en daarna een lekker brood mee naar huis nemen als souvenir. Of dat lang gaat houden, daar twijfel ik sterk aan. 
+[^bakkerijopen]: Dit klopt niet meer. Sinds eind 2017 heeft De Superette zijn tweede vestiging in Bokrijk geopend. Het project betekende een volledige vernieuwing van het gebouw, inclusief installaties. Nu kan je dus de échte ambacht aanschouwen, en daarna een lekker brood mee naar huis nemen als souvenir. 
 
 #### Dag 2
 
@@ -139,3 +129,31 @@ Het enige wat me nu nog restte was de blijde boodschap verkondigen dat ik de kom
 * Kennis delen is intens en diep bevredigend. 
 * Om kennis te delen moet er eerst nog meer kennis opgebouwd worden.
 * Voorzie bij het geven van workshops 
+
+\newpage
+
+### Demonstratiebrood
+
+\label{demonstratiebrood}
+
+Wanneer ik workshops geef van korte duur, moet ik terugvallen op de snelheid van gist. Ik combineer dan de smaak van zuurdesem met de rijskracht van gist. Het voordeeg maak ik zelf een dag op voorhand thuis. 
+
+| Hoeveelheid | Percentage | Beschrijving             |
+|:-----------:|:----------:|:-------------------------|
+| `1000 gr`   | `100%`     | Tarwebloem mengeling     |
+| `630 gr`    | `63%`      | Water                    |
+| `3 gr`      | `0.3%`     | Gedroogde gist           |
+| `15 gr`     | `1.5%`     | Zout                     |
+
+Table: Formule voor het zuurdesembrood gebakken op demonstratie dagen in Bokrijk. \label{tablebokrijk}
+
+Waarvan voor het voordeeg (`20%` van de bloem):
+
+> `200 gr` tarwebloem \newline
+> `200 gr` water \newline
+> `1 el` zuurdesem starter 
+
+In vergelijking met het boerenbrood uit hoofdstuk \ref{bakkenhf}, bevat deze formule weinig water (`7%` minder om precies te zijn). Dat komt omdat cursisten niet gewoon zijn om te werken met nat deeg. Meestal is `60` tot `65%` al voldoende om frustraties op te wekken. \nl
+Ook tijdens de demonstratie dagen had ik geen zin om het mezelf moeilijker te maken. Er was geen werkoppervlak aanwezig, alles moest gebeuren vanuit de trog, en de druk van de constante stroom aan toeschouwers maakte het er niet eenvoudiger op. \nl
+Deze hybride aanpak wordt verder uigewerkt in hoofdstuk \ref{valsspelen}. 
+

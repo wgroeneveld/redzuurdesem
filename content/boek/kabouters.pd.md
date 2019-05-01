@@ -26,17 +26,6 @@ Mijn Panasonic kabouter werkte het liefste met `550 gr` bloem en `320 gr` water 
 Als het even meezit is je kabouter ook voorzien van een manier om extra’s als noten en zaden toe te voegen aan je brood. De Panasonic had vanboven een aparte laadklep om zulke ingrediënten in te bewaren. Het programma beslist dan zelf, nét voordat het klaar is met kneden, om de klep naar beneden te laten. Op die manier zijn je rozijnen niet stuk gekneed maar toch nog mooi verdeeld over je brood. \nl
 Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer doordacht in elkaar gezet hebben. Dat werkte in de praktijk vrij goed en werd begeleid met een bevredigend '_klonk_' geluid wanneer de rozijnen op je deeg belanden. 
 
-| Hoeveelheid | Percentage | Beschrijving        |
-|:-----------:|:----------:|:--------------------|
-| `550 gr`    | `100%`     | Bloem - eender wat  |
-| `320 gr`    | `58%`      | Water               |
-| `8 gr`      | `1.5%`     | Zout                |
-| `6 gr`      | `1.1%`     | Gedroogde gist      |
-
-Table: Formule[^form] voor mijn eerste brood met de broodbakmachine.
-
-
-[^form]: Voor uitleg over het gebruik van deze tabellen, zie hoofdstuk \ref{bakkenhf}.
 [^1]: Deze '_baker's percentage_' kan groter dan `100%` zijn. Deel de totale hoeveelheid water door de totale hoeveelheid bloem. Als je brood bestaat uit verschillende soorten bloem, tel je die allemaal samen. 
 
 Sommige toestellen bieden voor hun meerprijs verschillende kneedhaken aan. Laat je niet misleiden: dit heeft geen enkel nut. De standaard kneedhaak komt in de vorm van een haaienvin, waarvan geadviseerd wordt deze enkel in combinatie met tarwe te hanteren. \nl
@@ -125,5 +114,33 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een
 * Investeer in een goede oven. 
 * Kabouters wassen niet af.
 
-[^min]: Toscaans brood bevat geen zout. Het bevat dan ook geen smaak, en wordt gegeten in combinatie met sauzerige maaltijden. 
+[^min]: Toscaans brood bevat geen zout. Het heeft dan ook nauwelijks smaak, en wordt gegeten in combinatie met sauzerige maaltijden. 
+
+\newpage
+
+### Walnotenbrood uit de broodbakmachine
+
+Dit was mijn favoriet brood toen ik frequent gebruik maakte van de trouwe kabouter zijn diensten, voordat ik leerde werken met zuurdesem. Indien jouw machine de hoeveelheid bloem beperkt tot een ander maximum als `550 gr`, herreken dan alle gewichten met behulp van het gegeven percentage. Voor uitleg over het gebruik van deze tabellen, zie hoofdstuk \ref{bakkenhf}. 
+
+| Hoeveelheid | Percentage | Beschrijving         |
+|:-----------:|:----------:|:---------------------|
+| `550 gr`    | `100%`     | Bloem - eender wat   |
+| `320 gr`    | `58%`      | Water                |
+| `8 gr`      | `1.5%`     | Zout                 |
+| `6 gr`      | `1.1%`     | Gedroogde gist       |
+| `110 gr`    | `20%`      | Fijngemalen walnoten |
+
+Table: Formule voor walnotenbrood met de broodbakmachine.
+
+Methode:
+
+- _08u00_: Doe alle ingrediënten in het bakblik. Stel het programma in op 4 uur en druk op start.
+- _12u00_: Verwijder het heet brood uit het bakblik en laat het afkoelen.
+- _12u10_: Pruts indien nodig het de kneedhaak uit de onderkant van het brood.
+
+Blijkbaar is het belangrijk dat de kneedhaak reeds gemonteerd is aan het bakblik voordat de eerste stap uitgevoerd wordt. Ik heb verschillende keren haastig alles bij elkaar gezoch en aan de machine toegevoegd, om vier uur later te concluderen dat ik een klomp gebakken bloem had gemaakt. \nl
+De bloem die ik hanteerde was meestal een of andere kant-en-klare mengeling, zoals een 'bosmix' met soja en mout, of een 'zeven granen mix' met verschillende soorten granen. De smaak van dit brood komt voornamelijk van de walnoten en de bloemmengeling. De noten roosteren helpt hier bij. Niet alle walnoten fijnmalen, maar een aantal grote stukken mee bakken, geeft ook een leuk effect. 
+
+Zuurdesem en broodbakmachines zijn geen goede vriendjes vanwege het vaste programma van vier of vijf uur. Dat belette me niet om af en toe een voordeeg te maken van een deel van de bloem. Twaalf uur voor het activeren van de machine meng je `100 gr` bloem, `100 gr` water, en een eetlepel zuurdesem. Dit voeg je samen met de resterende ingrediënten (`450 gr` bloem, `220 gr` water, en de rest) toe aan het bakblik. \nl
+Gist is nog steeds nodig om een luchtig brood te verkrijgen. Je kan experimenteren door dit weg te laten, en afhankelijk van het bakprogramma zal dit goed of minder goed aflopen. 
 

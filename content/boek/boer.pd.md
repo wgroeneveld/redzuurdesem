@@ -72,12 +72,13 @@ Historisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderf
 [^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. 
 
 \index{Lageren}
+\index{Bottelgist}
 
 Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brouwerij waar zure bieren met bacteriën worden gemaakt. Gert leidde me ondertussen rond in zijn brouwerij. \nl
 'Deze ruimte is niet meer dan een opslagplaats. Het bier moet nog rijpen na de hergisting. Dit hier is een gecertifieerde mini brouwerij, waar we productontwikkeling doen. Ik brouw niet meer dan `100` liter hier. Als het product op punt staat, dan gaat het naar verschillende grotere brouwerijen die we bepaalde periodes huren om op grote schaal te produceren. Bijvoorbeeld in Halen.' We liepen voorbij de rijen metershoog gestapelde bakken bier. Daarvoor diende die heftruck dus. Bovenop de vijfde rij pronkten een paar fietsen. \nl
 'Die heb ik te veel.' Gert haalde zijn schouders op. 'Zo staan ze in ieder geval niet in de weg.' We liepen terug naar de enige verwarmde ruimte.\nl
 'Hoe werkt die hergisting precies?' vroeg ik. \nl
-'Na het _lageren_ voegen we opnieuw gist toe om hier bier te laten gisten op fles. Dat is trouwens meestal andere gist dan de opgekweekte starter. Pils van grote merken verlaat de brouwerij 'dood', dat wil zeggen, ze wordt niet beter met bewaren. Ons bier kan je tot vijf jaar bewaren.' Lageren is het opslaan van 'jong' bier in een grote tank, zodat het kan rijpen. Dit is in feite een tweede gistingsstop. Na het koken, koelen, en klaren van de wort, vindt de 'hoofdgisting' plaats, die drie dagen tot meer dan een week kan duren. \nl
+'Na het _lageren_ voegen we opnieuw gist toe om hier bier te laten gisten op fles. Die bottelgist is trouwens meestal andere gist dan de opgekweekte starter. Pils van grote merken verlaat de brouwerij 'dood', dat wil zeggen, ze wordt niet beter met bewaren. Ons bier kan je tot vijf jaar bewaren.' Lageren is het opslaan van 'jong' bier in een grote tank, zodat het kan rijpen. Dit is in feite een tweede gistingsstop. Na het koken, koelen, en klaren van de wort, vindt de 'hoofdgisting' plaats, die drie dagen tot meer dan een week kan duren. \nl
 'Gebruiken jullie dan drie gistingsfases?' Ik begreep het verschil tussen lageren en hergisten niet goed. \nl
 'We lageren gedeeltelijk op fles, om het zo te zeggen.'\nl
 'Wil dat zeggen dat ik brood zou kunnen bakken met jullie bier, aangezien er nog actieve gist in zit?' Gert knikte. \nl

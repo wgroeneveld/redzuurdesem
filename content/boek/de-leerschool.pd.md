@@ -135,33 +135,7 @@ Die avond toen we voor de eerste keer sandwiches aan het bakken waren, viel er m
 '_How jong_, wat is dat?' Inderdaad: wanneer je de doos open doet registreren je ogen iets knalgeel en je neus iets chemisch. \nl
 'Boter zeker?' zeg ik onzeker. Een onhygiënische vinger in het goedje bevestigt ons vermoeden: vet. 
 
-Heb je je al ooit afgevraagd waarom veel sandwiches er zo geel uitzien? Dacht je misschien net als ons ook dat het wel door de eieren kwam? Niets is minder waar. Deze 'verbeteraar' bevat een hele hoop aan E nummers (waaronder dus kleurstoffen), die het harde werk van jou als bakker overnemen. Temperatuur te hoog? Geen probleem, met dit spul krijg je je deeg niet kapot gerezen. Te lang gekneed? Geen probleem, met dit spul versterk je je bloem zodat scheuren bijna onmogelijk wordt. Te weinig gekneed? Geen probleem, met dit spul ontstaat elasticiteit vanzelf. 
-
-Moest je toe willen geven aan die plotse zin om deze zachte luxe broodjes zelf te bakken, dan is hier de afgeleide formule met bijhorende werkwijze:
-
-| Hoeveelheid | Percentage | Beschrijving                         |
-|:-----------:|:----------:|:-------------------------------------|
-| `1000 gr`   | `100%`     | Tarwebloem met `11.5`% eiwitgehalte  |
-| `400 gr`    | `40%`      | Water                                |
-| `40 gr`     | `4%`       | Melkpoeder (`10%` van het water)     |
-| `100 gr`    | `10%`      | Eieren (twee kleine)                 |
-| `100 gr`    | `10%`      | Verse gist                           |
-| `40 gr`     | `4%`       | Fijne kristalsuiker                  |
-| `150 gr`    | `15%`      | Verbeteraar (vervangbaar door boter) |
-| `14 gr`     | `1.4%`     | Zout                                 |           
-
-Table: Formule voor sandwiches, gebaseerd op het standaardrecept van de basisopleiding.
-
-
-Methode:
-
-- _10u00_: 10 minuten kneden op hoge snelheid. Doeltemperatuur: `25 °C`.
-- _10u15_: 20 minuten bolrijs
-- _10u35_: Verdelen. Na 5 minuten vormen en een twee keer bestrijken met eigeel.
-- _10u45_: 60 minuten narijs op `32 °C`.
-- _11u45_: 7 minuten bakken op `250 °C`.
-
-
+Heb je je al ooit afgevraagd waarom veel sandwiches er zo geel uitzien? Dacht je misschien net als ons ook dat het wel door de eieren kwam? Niets is minder waar. Deze 'verbeteraar' bevat een hele hoop aan E nummers (waaronder dus kleurstoffen), die het harde werk van jou als bakker overnemen. Temperatuur te hoog? Geen probleem, met dit spul krijg je je deeg niet kapot gerezen. Te lang gekneed? Geen probleem, met dit spul versterk je je bloem zodat scheuren bijna onmogelijk wordt. Te weinig gekneed? Geen probleem, met dit spul ontstaat elasticiteit vanzelf. \nl
 Ik kan geen enkel geldig excuus vinden om verbeteraars in een school te gebruiken. Op die manier leer je je leerlingen helemaal niet bakken: het gebeurt quasi vanzelf. Er wordt nauwelijks gesproken over natuurlijke ingrediënten. Alsof het de normaalste zaak van de wereld is dat we consequent verbeteraars toevoegen aan ons deeg. Hetzelfde geldt voor harde luxe trouwens, behalve dat die doos stinkt naar azijn en daar het goedje lichtbruin is in plaats van geel. 
 
 Het is inderdaad zo dat het gebruik van verbeteraars het proces vergemakkelijkt. Gelukkig genoeg besefte Ghislain dit ook, en liet hij ons regelmatig experimenteren met melkerijboter[^14]. \nl
@@ -368,3 +342,64 @@ De volgende keer dat ik naar een feestje ga, kan ik mijzelf voorstellen als prof
 
 [^namaakambacht]: Wees extra op je hoede bij het gebruik van woorden als ambachtelijk en artisanaal. Dat is de marketingafdeling aan het woord. Dr. Oetker pizza, _zoals mama ze maakte_. Ik dacht het niet. Kritisch denken als consument is de enige oplossing voor toekomstige gezondheidsproblemen. 
 
+\newpage
+
+### Twee pogingen tot sandwiches
+
+Moest je toe willen geven aan die plotse zin om een sandwich zoals we ze leerden kennen in de avondles zelf te bakken, dan is hier een eigen versie van de formule met bijhorende werkwijze:
+
+| Hoeveelheid | Percentage | Beschrijving                         |
+|:-----------:|:----------:|:-------------------------------------|
+| `1000 gr`   | `100%`     | Tarwebloem met `11.5`% eiwitgehalte  |
+| `400 gr`    | `40%`      | Water                                |
+| `40 gr`     | `4%`       | Melkpoeder (`10%` van het water)     |
+| `100 gr`    | `10%`      | Eieren (twee kleine)                 |
+| `100 gr`    | `10%`      | Verse gist                           |
+| `40 gr`     | `4%`       | Fijne kristalsuiker                  |
+| `150 gr`    | `15%`      | Verbeteraar                          |
+| `14 gr`     | `1.4%`     | Zout                                 |           
+
+Table: Formule voor sandwiches, gebaseerd op het standaardrecept van de basisopleiding.
+
+Methode:
+
+- _10u00_: 10 minuten kneden op hoge snelheid. Doeltemperatuur: `25 °C`.
+- _10u15_: 20 minuten bolrijs
+- _10u35_: Verdelen. Na 5 minuten vormen en een twee keer bestrijken met eigeel.
+- _10u45_: 60 minuten narijs op `32 °C`.
+- _11u45_: 10 minuten bakken op `250 °C`.
+
+Zoals je kan zien is de bovenstaande formule afgestemd op snelheid, en niet op smaak. Binnen de twee uur beschik je over een afgewerkt, verkoopbaar product. De kwaliteit van de eieren speelt geen grote rol: de kleur, binding, en rijskracht komen allemaal van de verbeteraar. \nl
+Een simpele verbetering zou kunnen zijn om de verbeteraar te vervangen door boter, de hoeveelheid gist drastisch te verminderen, en het rijsproces te verlengen. Dat is exact wat ik gedaan heb om tot de volgende formule te komen:
+
+| Hoeveelheid | Percentage | Beschrijving                         |
+|:-----------:|:----------:|:-------------------------------------|
+| `1000 gr`   | `100%`     | Tarwebloem                           |
+| `400 gr`    | `40%`      | Volle melk                           |
+| `100 gr`    | `10%`      | Eieren (twee kleine)                 |
+| `20 gr`     | `2%`       | Verse gist                           |
+| `40 gr`     | `4%`       | Fijne kristalsuiker                  |
+| `150 gr`    | `15%`      | melkerijboter                        |
+| `16 gr`     | `1.6%`     | Zout                                 |           
+
+Table: Formule voor sandwiches, met zuurdesem.
+
+Waarvan voor het voordeeg (`10%` van de bloem):
+
+> `100 gr` tarwebloem \newline
+> `100 gr` volle melk \newline
+> `1 el` zuurdesem starter 
+
+Methode:
+
+- _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
+- _Dag 1, 23u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
+- _Dag 2, 07u00_: 10 minuten kneden op hoge snelheid. Doeltemperatuur: `24 °C`.
+- _Dag 2, 07u15_: 2 uur bolrijs
+- _Dag 2, 09u15_: Verdelen. Na 5 minuten vormen en een twee keer bestrijken met eigeel.
+- _Dag 2, 09u25_: anderhalf uur narijs op `24 °C`.
+- _Dag 2, 11u00_: 10 minuten bakken op `250 °C`.
+
+De melkpoeder is vervangen door (lokaal geproduceerde) volle melk, de hoeveelheid gist is gezakt van `10` naar `2%`, de verbeteraar is vervangen door boter, het zoutgehalte is verhoogd van `1.4` naar `1.6%`, en er is uiteraard een voordeeg op basis van zuurdesem toegevoegd. \nl
+Sandwiches worden gekenmerkt door luchtigheid en zoetheid. Die twee karakteristieke eigenschappen heb ik geprobeerd aan te houden door het voordeeg niet te lang te fermenteren en nog steeds wat extra gist toe te voegen.\nl
+Het hele bakproces is verlengd van minder dan twee uur naar twaalf uur (exlucief verversen van starter). Het resultaat is een complexe smaak en zachte structuur, zonder de overheersende pittigheid van te veel azijnzuren. 
