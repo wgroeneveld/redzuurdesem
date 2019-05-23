@@ -1,93 +1,44 @@
 
-Ik ontmoette Gert Jordens op een dinsdagavond in zijn testlabo aan het Kanaal. 
-'Kom binnen! Kan ik u een biologisch fruitsapje aanbieden?' Ik begon te lachen. \nl
-'Dankuwel. Rare gewoonte om ook iets niet-alcoholisch in een brouwerij aan te kunnen bieden.' Ik had Gert al op de hoogte gebracht van mijn voorkeur wat betreft alcohol. \nl
-'Oh, hier komen alle soorten mensen over de vloer hoor.' En daarmee was de trend gezet. \nl
-'Die mensen brengen meestal iemand anders mee die wel graag iets drinkt. En zo is iedereen tevreden.' We zetten ons aan een hoge tafel waarvan de onderkant van het doorzichtig tafelblad bezaaid is met krantenartikelen over Jessenhofke, de biologische brouwerij van Gert. De tafel straalde een zekere autoriteit uit, en ik was er best van onder de indruk, behalve dat ze ook plakte. Juist ja, bier. 
+In april 2019 leerde ik toevallig via een voedselbewuste vriendin van Kristien dat Johan inmiddels zijn eigen bakkerij in Tongeren heeft geopend, genaamd '\mbox{Brijosh}'. Dat was voor mij reden genoeg om er opnieuw naartoe te rijden. Johan renoveerde een aanpalende ruimte van zijn woning om er twee ovens en een koelkast in te kunnen plaatsen zonder verlies van te veel werkoppervlakte. De bakkerij is open van donderdag tot en met zondag, en er wordt uiteraard voornamelijk zuurdesembrood verkocht.
 
-We praatten wat, Gert over bier brouwen, en ik over brood bakken. \nl
-'Ik heb thuis een aantal keren Kvass[^kva] gemaakt met zuurdesem, wat je misschien een soort van tafelbier kan noemen. Wat ik mij voornamelijk afvroeg, hoe zit dat met gisten en bacteriën in bier? Heb jij ook melkzuurbacteriën nodig, of alleen maar gisten?' Gert knikte. \nl
-'Ja, brouwen met zuur, dat vereist een volledig andere installatie. Wij gebruiken hier alleen maar gist. Bacteriën gebruiken, dat is de richting van Geuze uit gaan. Die krijg je nooit meer uit je installatie. Je kan niet zuur bier brouwen, én iets als _pils_.' 
+'Hey Wouter, kom binnen jong!' Johan stond op het punt om roggebrood uit een van de ovens te toveren. Zijn joviale en uitnodigende persoonlijkheid moedigde aan om me onmiddellijk op mijn gemak te voelen, en we praatten wat. Ik vroeg hem naar de ovens die ik van formaat herkende. Het waren kleine, ronde houtovens met twee horizontaal roteerbare stenen verdiepen. Onze vroegere overbuur bakte brood in zijn schuur, waar exact dezelfde oven stond. \nl
+'Moet je de assen eruit halen voordat je kan bakken?' vroeg ik, denkend aan de oude houtoven van Bokrijk. \nl
+'Nee, in de onderste klep steek je het hout. Ik kan het u laten zien hoor, wacht.' Johan opende de klep zodat ik de gloeiende kolen kon zien. Hij gooide er wat hout bij op. Een metertje op de oven gaf iets meer dan `200 °C` aan. \nl
+'Dit hout is echt geweldig. Ik ken een trappenmaker hier in de buurt, die mij overschot aan hoge kwaliteit eikenhout kan leveren. Dat brandt volledig op, geeft het langste en meeste hitte af, en het minste roetdeeltjes.' Hij glimlachte breed. \nl
+'Andere mensen zouden nogal opkijken, wat ik hier opstook kan in feite nog dienen om meubels mee te maken!' \nl
+'Stralingshitte is wat ik nodig heb,' gaat Johan verder. 'Ik begin bij rond de `280 °C` en zak stilletjesaan tot in de `200`. Dan is het tijd om bij te stoken. ' \nl
+'Maar dat duurt misschien lang om op te stoken?' \nl
+'Drie kwartier.' \nl
+'Amai dat is snel. Mijn elektrische oven heeft anderhalf uur nodig.' Johan begint te lachen. \nl
+'Daar gaat uw stroomleverancier blij mee zijn.' \nl
+'Niet bepaald, we hebben zonnepanelen gelegd' grijns ik. 
 
-\index{Pils}
-\index{Lager}
-\index{Ale}
-\index{Bovenfermentatie}
-\index{Onderfermentatie}
-\index{Saccharomyces}
-\index{Saccharomyces!pastorianus}
-\index{Saccharomyces!cerevisiae}
+'En die _deck oven_ in Magis, gebruiken jullie die niet meer?' \nl
+'Jawel hoor, die staat daar nog. Ik bak hier brood, ook voor de bistro, en Dimi bakt zijn eigen brood. Ik doe dit hier in bijberoep. Nu heb ik mijn eigen ruimte, dat ging niet in het restaurant. Klanten die een brood komen kopen moeten dan door de keuken lopen, dat gaat toch niet? Er was ook te weinig ruimte, dus besliste ik om het gewoon thuis te doen.' Johan haalt zijn schouders op en kijkt rond. Ik volg zijn voorbeeld. \nl
+'Genoeg ruimte hier!' glimlacht hij. Inderdaad. \nl
+'En verkoop je ondertussen genoeg? Is het populair, hier in een deelgemeente van Tongeren?' \nl
+'Weet je, eens als je wat naamsbekendheid hebt opgebouwd, dan volgt uw harde kern van vaste klanten wel. Ik ben begonnen als traitteur, en ben ondertussen zeven jaar met bistro Bis bezig. Daar is reclame maken belangrijk. Alles moet _flashy_ zijn om de aandacht te trekken. Dit hier is iets anders, mijn eigen ding. Ik zou het graag willen uitbreiden, met een lange tafel of zo. Dingen serveren voor bij het brood. Daarvoor moeten we eerst nog meer verbouwen.' \nl
+'Ja, want die combinatie tussen verbruiken en verkopen blijkt goed te gaan hé, zo deden ze het ook in Gent. Je krijgt een gerecht met lekker brood, en denkt, dat moet ik meenemen naar huis!' herinnerde ik mij. \nl
+'Zeer zeker! Dat wil ik ook nog doen, maar op kleine schaal. We zien wel.' zegt Johan.
 
-Ik leerde achteraf dat pils, beter bekend in het Vlaams als een _pintje_ (of _dagschotel_), een soort _lager_ is. Bier kan over het algemeen ingedeeld worden in twee grote klassen: die van onderfermentatie (_bottom-fermenting_ of anaerobische fermentatie), zoals lager, en die van bovenfermentatie (_top-fermenting_ of aerobische fermentatie), zoals _ale_. Aerobische fermentatie gebeurt op hogere temperaturen (tussen de `15` en `24 °C`) en gaat gepaard met het gevaar van inoculatie van (on-)gewenste bacteriën. Schuim bovenop vloeistof verraadt de aanwezigheid van aerobische gisten, zoals _Saccharomyces cerevisiae_. Op het label van het bierflesje prijkt vaak 'hoge gisting', een ander woord voor deze bovengisting. Anaerobische fermentatie daarentegen gebeurt op lagere temperaturen (onder de `10 °C`). In dat geval werkt men met gistsoort _Saccharomyces pastorianus_[^past]. 
+'Hoeveel broden krijg je gebakken in deze ovens?' Ik wijs naar beide ovens. Eentje ziet er veel nieuwer uit. Die blijkt beter geïsoleerd te zijn. Ik sta korter bij de oudere oven, die duidelijk meer hitte afgeeft. Alle warmte is welkom, het is buiten `10 °C` en het regent. \nl
+'Ik bak ongeveer 20 broden per uur. Dat gaat goed. Er staat nog deeg klaar in rijsmandjes in de koeling. Het is voorlopig genoeg. We zien wel.' De ontwapenende glimlach bekrachtigd zijn gemoedelijke _we zien wel_. \nl
+'Lukt het ondertussen al beter met de _high hydration_ methode?' vraag ik. \nl
+'Behalve dat spelt hier,' begint Johan, terwijl hij klopt op een erg plat gebakken brood op het koelrek. ', gaat het goed. Weet je, ik sta al veel verder sinds uw vorig bezoek. Toen bakten we echt volgens stricte regeltjes, om te kunnen bijsturen als er iets misloopt. Dan dat, zoveel van dat, _tjak tjak_. Nu doe ik veel meer op mijn gevoel. Ik weet zelfs niet eens exact hoeveel van wat er in gaat.' Ik knik, denkend aan mijn eigen evolutie in de stiel. \nl
+'Behalve dat spelt dus. Vorige zomer, in 2018, was veel te heet. Ik bak nu met die oogst, en heb al vanalles geprobeerd. Veel minder water en zo. Maar het is zo rekbaar, en zo snel té ver gegist. Da's te plat hé. _Overfermentatie_ is dat hé.' Ik zie achterin zakken van de Commandeursmolen liggen. Johan knikt. \nl
+'Ja, nog steeds. Dat meel is echt goed. Maar ik heb nu contact met een lokale boer die spelt teelt. Misschien kunnen we het lokaal malen.' _We zien wel._
 
-[^past]: Zoals de naam doet vermoeden is deze soort vernoemd naar Louis Pasteur. Deze gist heette voordien _Saccharomyces carlsbergensis_ dankzij Dane Emil Hansen's onderzoek aan de Carlsberg brouwerij in Kopenhagen.
+Toen ik vroeg naar zijn zuurdesem, was Johan zelfs zo vriendelijk om zijn hele broodbakmethode gedetailleerd te beschrijven. \nl
+'Kijk, Da's is mijn _leaven_. Die staat nu ongeveer twee uur. Bijna klaar, zie ik.' Hij opent een grote doos vol loperige zuurdesem. Ik ruik voornamelijk de zoete toets van tarwe, en nauwelijks een spoortje van azijnzuur. \nl
+'Twee uur? Wow die is snel klaar! Ik laat die thuis twaalf uur staan.' Maar daar is het veel kouder dan in deze warme bakkerij. \nl
+'Is dat volledig volkoren tarwe, of nog steeds half/half?' vraag ik. \nl
+'Dat hangt af van het seizoen, omdat het in de zomer nog sneller werkt. Ik wissel de verhoudingen af tussen de `80:20` en `50:50`.' \nl
+'En de rijstijden?' \nl
+'Eerste rijs twee tot drie uur met een keer of twee plooien tussenin. Ik begin dadelijk te kneden als dit hier op punt staat.' Johan schudt met de doos vol zuurdesem. \nl
+'Rond vier of vijf uur in de namiddag gaat alles in rijsmandjes de koeling in, om 's morgens vroeg te bakken.' 
 
-Geuze, of algemener _lambiek_, is niet zomaar in onder- of bovenfermentatieve bieren te categoriseren. Hier is spontane gisting de belangrijkste factor, die bij niet-industriële brouwerijen nog in koperen koelschepen op de zolder plaatsvinden. Met die blootstelling aan de plaatstelijke buitenlucht hopen brouwers _Brettanomyces lambicus_ te vangen, en in een latere fase ook soorten _Lactobacillus_. Zelfs de eikenhouten vaten waar lambiek nog jaren in verder gist blijken een grote invloed te hebben op de aanwezige micro-organismen in het bier [@spitaels2014microbial]. Lambiek is een van de laatst overgebleven oerbieren, en sluit het beste aan bij zuurdesem als fermentatie methode. 
+Johan zijn broden zijn tien uur sneller klaar dan de mijne, vanwege de erg snelle gisting van het voordeeg. Dit proefde ik ook in de broden die ik kocht van hem. De uitgesproken maar aangename zoete smaak van gegiste tarwe overheerst. Geen nasmaak, en geen azijn. Mijn brood is vanwege de extra rijstijd en de gekoelde zuurdesemcultuur heel wat pittiger. Ik denk dat brood van Brijosh gepast is om mensen te leren zuurdesem eten. De veelzijdige smaak is ook geschikter om in gerechten van zijn bisto in Tongeren centrum verwerkt te worden. 
 
-Historisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de 19de eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak is de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op anaerobische fermentatie. Met zuiver theoretische classificaties kom je maar zo ver. 
-
-\index{Esters}
-\index{Esters!Ethylbutyraat}
-
-'Ik heb een collega die met een _Do It Yourself_ kit thuis enkele liters bier brouwt. Ik heb hem gevraagd naar welke organismen hij gebruikt, en het antwoord was 'een pakje gist'. Doen jullie dat ook?' \nl
-'Nee, nee, helemaal niet. Kijk, ik vergelijk dat altijd met soep maken. Wil je _pakjessoep_, of wil je de volle smaak van een goede bouillon? Pakjessoep is het zakje gedroogde gist. Dat is een monogist, één stam van _Saccharomyces cerevisiae_, maar gigantisch veel in aantal. Dat gaat snel, maar heeft geen smaak. Nog een reden voor uw collega om voor die gedroogde gist te kiezen is de prijs. Dat kost ongeveer 2 EUR, terwijl de vloeibare gist die ik koop gemakkelijk 9 EUR kan zijn.' \nl
-'_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welke gisten zitten er dan nog in bier?' onderbrak ik hem. \nl
-'Ha,' zei Gert, 'dat hangt van de biersoort af die je wilt brouwen hé. Ik koop in Brouwland[^brwl] een soort van twee-componenten pakketje aan dat ik opkweek. Dat is die vloeibare gist. Het ene component bevat de gisten in, en de andere de starter, voeding voor de organismen. Elk pakket is specifiek voor een soort bier, gaande van een gewone pils tot iets Westmalle-achtig met het aroma van banaan.' \nl
-'Banaan?' Ik trok een vies gezicht. \nl
-'Banaan, ja. Als je dat ruikt, dan weet je, ze hebben die soort gist gebruikt.' Gisten produceren zulke _esters_, een chemische klasse van organische verbindingen, om insecten aan te trekken. Ethylbutyraat is verantwoordelijk voor de banaan-achtige geur. 
-
-'Maar je kweekt geen gisten zelf op, vanaf nul, zoals ik met mijn desem doe?' Ik nam een flinke slok van mijn appelsap. Lekker, minder zuur dan ik verwachtte. Misschien geen goed idee in combinatie met de frieten die ook nog aan het fermenteren zijn in mijn maag. \nl
-'Neen, da's zuiver labo werk. Daar hou ik mij niet mee bezig. Er zijn zoveel manieren om nog extra smaak toe te voegen voordat bier gedronken kan worden. Neem nu de mout. Hoeveel water gebruikt wordt bij het ontkiemen van de granen, de kiemduur, hoe dit terug gedroogd wordt, noem maar op: alles heeft invloed op de smaak. Of de hop die meegekookt wordt. Die komt van Joris Cambie uit Poperinge, trouwens.' Vloeibare gist. Ik vermoedde dat het hier om een gelijkaardig product ging dat ook verkocht wordt door Puratos, maar dan op maat gemaakt voor brouwers. 
-
-[^kva]: Zie hoofdstuk \ref{kvass}.
-[^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. 
-
-\index{Lageren}
-
-Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brouwerij waar zure bieren met bacteriën worden gemaakt. Gert leidde me ondertussen rond in zijn brouwerij. \nl
-'Deze ruimte is niet meer dan een opslagplaats. Het bier moet nog rijpen na de hergisting. Dit hier is een gecertifieerde mini brouwerij, waar we productontwikkeling doen. Ik brouw niet meer dan `100` liter hier. Als het product op punt staat, dan gaat het naar een grotere brouwerij die we bepaalde periodes huren om op schaal te produceren. Bijvoorbeeld in Halen.' We liepen voorbij de rijen metershoog gestapelde bakken bier. Daarvoor diende die heftruck dus. Bovenop de vijfde rij pronkten een paar fietsen. \nl
-'Die heb ik te veel.' Gert haalde zijn schouders op. 'Zo staan ze in ieder geval niet in de weg.' We liepen terug naar de enige verwarmde ruimte.\nl
-'Hoe werkt die hergisting precies?' vroeg ik. \nl
-'Na het _lageren_ voegen we opnieuw gist toe om hier bier te laten gisten op fles. Dat is trouwens meestal andere gist dan de opgekweekte starter. Pils van grote merken verlaat de brouwerij 'dood', dat wil zeggen, ze wordt niet beter met bewaren. Ons bier kan je tot vijf jaar bewaren.' Lageren is het opslaan van 'jong' bier in een grote tank, zodat het kan rijpen. Dit is in feite een tweede gistingsstop. Na het koken, koelen, en klaren van de wort, vindt de 'hoofdgisting' plaats, die drie dagen tot drie weken kan duren. \nl
-'Gebruiken jullie dan drie gistingsfases?' Ik begreep het verschil tussen lageren en hergisten niet goed. \nl
-'We lageren gedeeltelijk op fles, om het zo te zeggen.'\nl
-'Wil dat zeggen dat ik brood zou kunnen bakken met jullie bier, aangezien er nog actieve gist in zit?' Gert knikte. \nl
-'Zeker. Lekker. Dat gaat werken. Ik weet niet hoeveel gist je dan moet toevoegen.' Dat was ik helemaal niet van plan. Met een voordeeg en langere rijstijden valt veel op te oplossen. 
-
-\index{Maischen}
-\index{Draf}
-
-'Wat voor u misschien interessanter is om mee te bakken is de draf[^draf].'\nl
-'Draf?' \nl
-'Overschot na het _maischen_. Met het klaren scheiden we vloeistof van ingrediënten als mout en gerst. Het resultaat is langs de ene kant wort, dat verwerkt wordt tot bier, en draf, waar ik niets mee kan doen. Als we hier brouwen om een product te ontwikkelen, zit ik met `30` kg aan draf. Daar zit nog veel gist in. Bakkers komen dat ophalen om in brood te doen. Meng het wel met genoeg meel, want anders krijg je een hele zware boterham.' Gert klopte met zijn hand op zijn buik om duidelijk te maken dat het brood niet bepaald licht verteert.\nl
-'De bakkerij in Genk aan de rotonde gebruikt dat bijvoorbeeld.' ging hij verder. \nl
-'Koek en Brood? Leuk, die ken ik. Die hebben wel goed brood, en werken ook met zuurdesem. Dan moet ik daar zeker nog eens naartoe gaan.'\nl
-'Dat is er niet altijd hé. We brouwen hier niet elke week. Pieter is het ook al komen ophalen voor zijn dieren. Grote brouwerijen zitten met tonnen aan draf, dat is allemaal dierenvoeder. Het wordt zelfs gebruikt door duivenmelkers als krachtvoer. De vogels beschikken over de kracht van de gist als ze dat opeten.' Dat klinkt alsof Gert de Panoramix van de duiven is, die toverdrank in plaats van bier brouwt. \nl
-'Zou ik ook eens een beetje draf mogen gebruiken, om mee te experimenteren in brood?'\nl
-'Natuurlijk. Ik zal u iets laten weten als er beschikbaar is.'
-
-[^draf]: Beter bekend als _bierbostel_. 
-
-Ik wist dat ook het graan van Pieter door Gert gebruikt werd om bier te brouwen: Arvum, Belgisch Blond Bier met een natuurlijk karakter. Op de label van de flesjes staat:
-
-> _Net als de akker moet de geest soms rusten om weer vruchtbaar te worden._
-
-Ik ken Pieter niet onmiddellijk als een filosoof, maar ik vond het wel erg goed gevonden. Ik vroeg Gert naar de oorsprong van zijn grondstoffen, of hij alle granen bij één boer haalde.\nl
-'Nee, zeker niet. Risicospreiding noem ik dat. Sommige granen komen van West-Vlaanderen, Wallonië, Maastricht, of van Duitsland. Alles is biologisch, dat wel. ' Het bio-logo prijkt ook op alle flessen. Ik kijk naar wat uitleg over de producten van Jessenhofke, onder het doorzichtig tafelblad. \nl
-'We gaan binnenkort ook voor een _vegan_ label, onze bieren zijn ook veganistisch.' \nl
-'Veganistisch? Bier bevat toch geen dierlijke stoffen?' Gert knijpt zijn ogen samen tot een afkeurende blik. \nl
-'Toch wel. Grote spelers gebruiken gemalen beenderen of visolie om de niet-oplosbare deeltjes gemakkelijker uit het bier te kunnen filteren. Door de toevoegingen plakken die deeltjes samen. Daarom staat er op het einde van onze ingrediëntenlijst 'en niets anders'. Je wilt niet weten wat voor E-nummers er allemaal in zo'n bier zit, en dat moeten ze niet eens op het label zetten.' Met bier is het dus niet bepaald beter gesteld dan met brood, op gebied van de ambacht zelf. Erg jammer om te horen. Volgens de EU zijn alcoholproducenten niet verplicht om ingrediënten te vermelden op dranken. Dat lekker donkerbruin bier waar je zo van houdt? Karamel als kleuring, en zoetstoffen als smaakmakers. Daar gaat het ideaal. Een andere trend in de bierindustrie is _high gravity brewing_. Pils wordt gebrouwen met een sterker alcoholpercentage dan `5°`, om daarna verdund met water op de fles te gaan. Weer een van die economische overwinningen, waar gelukkig genoeg Jessenhofke evenveel afkeer van heeft als ikzelf.
-
-'Hoe ben je hier eigenlijk mee begonnen?' Gert kijkt me strak aan.\nl
-'Door te drinken.' We barstten allebei in lachen uit. \nl
-'Stomme vraag, zeker?' \nl
-'Hoe begint een mens hiermee? Op een bierfestival zag ik een flyertje liggen waarop stond 'brouw je eigen bier'. Toen dacht ik, hé, waarom ook niet. Ik kocht een ketel, begon te koken, en de rest is geschiedenis. Ik ben hier al dertien jaar mee bezig. Mijn grootvader, die daar staat, was een Hasseltse jeneverstoker.' Hij wees naar een zwart-wit foto van een oudere man die nauwkeurig een rij eikenhouten vaten inspecteert.\nl
-'Voor jenever heb je trouwens geen speciale gisten nodig. Dan ben je niet geïnteresseerd in smaak, maar in de alcohol. Smaak komt daarna pas. In dat geval is het gedroogd zakje van uw collega goed genoeg.'\nl
-'En dan?'\nl
-'En dan heb je alcohol. Kruiden en zo worden door de dampen van de alcohol gehaald. Het resultaat is jenever.'\nl
-'Die alcohol filteren uit het bier, dat kunnen jullie ook?'\nl
-'Gedestilleerd' corrigeerde Gert mij. 'Ja, dan heb je een _eau-de-bière_, een soort van gin.' Ik herinnerde me de brouwerij en stokerij van Wilderen in de buurt van Sint-Truiden, waar fietsers vaak stoppen om hun geliefd goudkleurig bier van hoge gisting naar binnen te werken. Ze verwerken daar hun tripel van bier (`8.2°`) naar gin (`32°`).
-
-Bij het afscheid vertelde Gert terloops over zijn overvolle agenda. Workshops geven, producten ontwikkelen, inkoop van grondstoffen en verkoop van bier, afspraken maken voor reservaties, noem maar op. Toen ik vroeg of hij dit full-time deed, bleek ik weer te maken hebben met een techneut.
-'Het is erg druk, ik doe dit bijna voltijds. Maar in feite ben ik test manager. Wat jullie ontwikkelen, moet ik testen!' Ik had mezelf voorgesteld als softwareontwikkelaar met een passie voor brood bakken. De volgende keer laat ik het eerste stuk achterwege... 
-
+'En jij Wouter, nog veel aan het bakken?' vraagt Johan. Ik vertel over mijn plannen voor het boek, en mijn voorliefde om anderen iets bij te leren. \nl
+'Ken je _The Sourdough School_ van Vanessa Kimbell?' Ik knik, en Johan gaat verder. \nl
+'Zoiets, zo bezig zijn met mensen iets bij te leren, als dat eens uw _core business_ is... Voor mij is een workshop eerder iets vervelends dat ik tussendoor doe. Ik geef soms dingen mee met de instructies het thuis dan maar zelf af te bakken omdat er hier geen tijd voor is. Maar als je van begin tot einde het hele zuurdesem traject kan laten zien, en de tijd neemt om daar een dag aan te spenderen... Dat zou toch geweldig zijn!' Dat zou het zeker... 

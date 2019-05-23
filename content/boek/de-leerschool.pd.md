@@ -363,11 +363,11 @@ Table: Formule voor sandwiches, gebaseerd op het standaardrecept van de basisopl
 
 Methode:
 
-- _10u00_: 10 minuten kneden op hoge snelheid. Doeltemperatuur: `25 °C`.
-- _10u15_: 20 minuten bolrijs
-- _10u35_: Verdelen. Na 5 minuten vormen en een twee keer bestrijken met eigeel.
-- _10u45_: 60 minuten narijs op `32 °C`.
-- _11u45_: 10 minuten bakken op `250 °C`.
+- _Dag 1, 10u00_: 15min. kneden op hoge snelheid. Doeltemperatuur: `25 °C`.
+- _Dag 1, 10u15_: 20min. bolrijs
+- _Dag 1, 10u35_: 10min. Vormgeven, twee keer bestrijken met eigeel.
+- _Dag 1, 10u45_: 60min. narijs op `32 °C`.
+- _Dag 1, 11u45_: 10min. bakken op `250 °C`.
 
 Zoals je kan zien is de bovenstaande formule afgestemd op snelheid, en niet op smaak. Binnen de twee uur beschik je over een afgewerkt, verkoopbaar product. De kwaliteit van de eieren speelt geen grote rol: de kleur, binding, en rijskracht komen allemaal van de verbeteraar. \nl
 Een simpele verbetering zou kunnen zijn om de verbeteraar te vervangen door boter, de hoeveelheid gist drastisch te verminderen, en het rijsproces te verlengen. Dat is exact wat ik gedaan heb om tot de volgende formule te komen:
@@ -394,11 +394,11 @@ Methode:
 
 - _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 23u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
-- _Dag 2, 07u00_: 10 minuten kneden op hoge snelheid. Doeltemperatuur: `24 °C`.
-- _Dag 2, 07u15_: 2 uur bolrijs
-- _Dag 2, 09u15_: Verdelen. Na 5 minuten vormen en een twee keer bestrijken met eigeel.
-- _Dag 2, 09u25_: anderhalf uur narijs op `24 °C`.
-- _Dag 2, 11u00_: 10 minuten bakken op `250 °C`.
+- _Dag 2, 07u00_: 10min. kneden op hoge snelheid. Doeltemperatuur: `24 °C`.
+- _Dag 2, 07u10_: 2u. bolrijs
+- _Dag 2, 09u10_: 10min. Vormgeven, twee keer bestrijken met eigeel.
+- _Dag 2, 09u20_: 1,5u. narijs op `24 °C`.
+- _Dag 2, 11u00_: 10min. bakken op `250 °C`.
 
 De melkpoeder is vervangen door (lokaal geproduceerde) volle melk, de hoeveelheid gist is gezakt van `10` naar `2%`, de verbeteraar is vervangen door boter, het zoutgehalte is verhoogd van `1.4` naar `1.6%`, en er is uiteraard een voordeeg op basis van zuurdesem toegevoegd. \nl
 Sandwiches worden gekenmerkt door luchtigheid en zoetheid. Die twee karakteristieke eigenschappen heb ik geprobeerd aan te houden door het voordeeg niet te lang te fermenteren en nog steeds wat extra gist toe te voegen.\nl

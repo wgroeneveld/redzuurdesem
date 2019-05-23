@@ -28,7 +28,7 @@ De bakkerij van Schoofs is uitstekend uitgerust met twee grote ovens, verschille
 ‘Ik maak roggebrood, desembrood, spelt, met zaden, zonder zaden, noem maar op. Iedereen heeft zo wel zijn favoriet brood en je kan hier altijd wel iets kopen waar je je in kan vinden.’ Om zo’n grote variatie aan te kunnen bieden moet er iedere nacht doorgewerkt worden. Wij zijn alvast onder de indruk.
 
 ‘En wat is dit, Peter?’ vraagt Patrick terwijl hij wijst naar een grote hoeveelheid keramieken potten die opgeborgen staan. \nl
-‘Ah die gebruik ik voor het pottenbrood. Daar zit een bom aan voedingsstoffen in met onder andere volkoren rogge en zilvervliesrijst. Twee sneetjes eten en je hebt al genoeg, met dit brood kan je de Mont Ventoux oprijden!’\nl
+‘Ah die gebruik ik voor het _pottenbrood_. Daar zit een bom aan voedingsstoffen in met onder andere volkoren rogge en zilvervliesrijst. Twee sneetjes eten en je hebt al genoeg, met dit brood kan je de Mont Ventoux oprijden!’\nl
 ‘Zit hier zuurdesem in dan?’ Peter haalt een pot van de plank en laat het ons zien. \nl
 ‘Neen, hier zit niets in, alleen puur natuur. Dit rijst héél langzaam, op zichzelf, en wordt dan ook langzaam gebakken doordat het keramiek de hitte langzaam in zich opneemt en afgeeft op het deeg. Het wordt met dalende temperatuur gebakken, als laatste batch, wanneer de oven uit is.’ Brood dat rijst zonder gist, zonder zuurdesem, zonder enige vorm van rijsmiddel. Die man was onze nieuwe held. \nl
 ‘Hier is mijn desem.’ Peter haalt uit een berging een grote emmer tevoorschijn waar hij ons aan laat ruiken. Ik ruik een aangename combinatie van zuur en zoet dat duidt op de juiste balans van melk- en azijnzuren. \nl
@@ -62,13 +62,13 @@ Peter maalt ook zijn eigen bloem, die vers verwerkt wordt in zijn producten. \nl
 ‘Hier ben ik nog volop mee aan het experimenteren. Deze molen kan één zak `25 kg` granen vrij snel verwerken maar het is een gigantische stofboel en ik heb niet altijd de tijd om alle granen zelf te malen. Twintig tot dertig procent van een brod bestaat uit zelfgemalen meel.’ In het midden van een aparte kamer rechts van de toog staat een mobiele elektrisch aangedreven steenmolen. De kamer is voorzien van een groot raam zodat mensen vanuit de winkel kunnen meegenieten van de show. 
 
 ‘Pas op, naar achteren!’ waarschuwt hij. We lopen terug tot aan de deur terwijl Peter een zak spelt in de molen giet en deze activeert. \nl
-‘De wrijving van de stenen zorgen ervoor dat de granen geplet worden maar ook dat alles verhit wordt. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt maar de kamer wordt desalniettemin bekleed met een mooi laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. \nl
+‘De wrijving van de stenen zorgen ervoor dat de granen geplet worden maar ook dat alles verhit wordt. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt maar de kamer wordt desalniettemin bekleed met een mooi laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. \nl
 ‘Laat je dit dan rusten of gebruik je dit onmiddellijk?’ vraag ik. \nl
 ‘Vers gemalen bloem moet je een aantal uren laten rusten en kan je niet _groen_ verwerken. Bij bloem is dat anders. Ik laat het meestal 12 uren staan en dan gaat het deze nacht in het deeg.’ De zak wordt dichtgeknoopt en afgekoppeld van de molen. Ik noteer in mijn hoofd dat ik ooit eens zelf graan wil malen[^zelfm].\nl
 ‘Maar waar haal je je graan dan vandaan?’ We hadden veel zakken graan, zaden, bloem, en meel zien liggen in de opslagplaats naast de bakkerij.  \nl
 ‘Die wordt besteld vanuit een molen in Oudenaarde. Dat is een van de enige molens in België die mij biologisch lokaal geteeld materiaal kan leveren.’ Op dat moment was de voor mij nabijgelegen molen te Stevoort nog niet gecertifieerd en konden nabijgelegen boeren niet voldoen aan de grotere  hoeveelheden die Schoofs elke nacht verwerkt. \nl
 Een vreemd object valt me op in de andere hoek van de kamer waar de molen staat. \nl
-‘Oh, dat is een oude zeef die gebruikt kan worden om meel tot bloem te verwerken. De zemelen die gescheiden worden kan ik dan weer gebruiken in bijvoorbeeld het pottenbrood. Niets gaat hier verloren!’ De zeef ziet er klein uit, ik denk niet dat die `25 kg` even snel verwerkt gaat worden als van graan tot meel. Peter gebruikt meestal zijn meel zonder zeven. 
+‘Oh, dat is een oude zeef die gebruikt kan worden om meel tot bloem te verwerken. De zemelen die gescheiden worden kan ik dan weer gebruiken in bijvoorbeeld het _pottenbrood_. Niets gaat hier verloren!’ De zeef ziet er klein uit, ik denk niet dat die `25 kg` even snel verwerkt gaat worden als van graan tot meel. Peter gebruikt meestal zijn meel zonder zeven. 
 
 [^zelfm]: Dat is nog steeds genoteerd.
 
@@ -102,7 +102,7 @@ Samen bekrachtigen ze Peter Schoofs zijn tip om een goede partner te zoeken. \nl
 
 Voordat ik vertrek krijg ik van Willy een versgebakken brood verpakt in een broodzak van zijn vroegere bakkerij, 'Natuurbakkerij W. Herteleer'. \nl
 ‘Ik bak nog elke week thuis en leg de meeste broden in de diepvries om toe te komen.’ Eens een bakker, altijd een bakker - dat krijg je er nooit meer uit, zoveel is zeker. En dan nog, waarom zou je? \nl
-'Ja Wouter, zo een goed stevig deeg... Als ik er aan denk krijg ik er terug zin in!' Willy, en bijgevolg Peter, zijn beiden bakkers die, net zoals de meeste andere Vlaamse bakkers, de voorkeur geven aan stevigheid in plaats van het erg slap deeg dat ik tegen zou komen tijdens mijn stage. Ik had er ook aan gedacht om zelfgebakken brood mee te nemen dat dankbaar in ontvangst genomen werd. \nl
+'Ja Wouter, zo een _goed stevig deeg_... Als ik er aan denk krijg ik er terug zin in!' Willy, en bijgevolg Peter, zijn beiden bakkers die, net zoals de meeste andere Vlaamse bakkers, de voorkeur geven aan stevigheid in plaats van het erg slap deeg dat ik tegen zou komen tijdens mijn stage. Ik had er ook aan gedacht om zelfgebakken brood mee te nemen dat dankbaar in ontvangst genomen werd. \nl
 'Ja...' zei Willy toen hij het brood een aantal keren ronddraaide om langs alle kanten te kunnen inspecteren. \nl
 'Goed bezig. Wees daar maar zeker van. Dat zie ik zo.' Hij verdween in de keuken en kwam terug met een afgesneden stuk. \nl
 'Hmm. Dit is beter dan de meeste andere Belgische bakkers. Desem geeft die volle smaak. Er goed.' Die paar korte goedkeurende woorden van een veteraan in de bakkerswereld betekenden erg veel voor mij. 
@@ -131,4 +131,45 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 * De vraag naar zulke natuurlijke alternatieven zit stevig in de lift. 
 * Een _partner in crime_ zorgt voor de noodzakelijke motivatie tijdens de goede en minder goede momenten als eigenaar van een eigen bakkerij. 
 * Een carrièreswitch van iets technologisch naar iets ambachtelijks komt blijkbaar vaak voor. Is dat nu bemoedigend, of ontmoedigend? 
+
+\newpage
+
+### Stevig Granenbrood
+
+Deze formule ontwikkelde ik als ode aan Willy Herteleer, die zijn klanten resoluut heeft leren gezonder eten, door terug te vallen op de smaak en de kracht van de granen zelf. \nl
+De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbrood_ dat Peter nog steeds dagelijks bakt. Een '_goed, stevig deeg_'. 
+
+| Hoeveelheid | Percentage | Beschrijving                 |
+|:-----------:|:----------:|:-----------------------------|
+| `200 gr`    | `20%`      | Tarwebloem, T110             | 
+| `600 gr`    | `60%`      | Tarwemeel, volkoren          |
+| `200 gr`    | `20%`      | Roggemeel, volkoren          |
+| `750 gr`    | `75%`      | Water                        |
+| `50 gr`     | `5%`       | Zilvervliesrijst, ongemalen  |
+| `50 gr`     | `5%`       | Speltgranen, ongemalen       |
+| `100 gr`    | `10%`      | Lijnzaad, ongebroken         |
+| `20 gr`     | `2%`       | Grijs zeezout                |
+
+Table: Formule voor stevig granenbrood.
+
+Waarvan voor het voordeeg (`20%`):
+
+> `200 gr` tarwemeel, volkoren \newline
+> `200 gr` water \newline
+> `1 el` zuurdesem starter 
+
+Methode:
+
+- _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
+- _Dag 1, 20u00_: Starter in koeling. Voordeeg maken op kamertemperatuur.
+- _Dag 1, 20u01_: Laat `200 gr` roggemeel met `300 gr` kokend water en `2 gr` zout afgedekt een nacht weken.
+- _Dag 1, 20u02_: Laat `100 gr` lijnzaad samen met `125 gr` onverhit water afgedekt een nacht weken.
+- _Dag 1, 20u03_: Meng `50 gr` rijst en `50 gr` speltgranen met `1 el` zuurdesem starter en `125 gr` water op kamertemperatuur.
+- _Dag 2, 08u00_: Voeg alles samen met de resterende `200 gr` water. Kneden. 2u Eerste rijs op `24 °C`.
+- _Dag 2, 10u00_: Vorm geven. 1.5u Tweede rijs op `24 °C`.
+- _Dag 2, 11u30_: Bakken zonder stoom.
+- _Dag 2, 12u20_: Afkoelen.
+
+Het voorbereidende werk kost redelijk wat moeite in vergelijking met conventionelere formules, maar dat werk is de moeite waard. Het kokende water werkt sneller in op de amylase enzymen die door het zout voldoende afgeremd worden. \nl
+Lijnzaad absorbeert veel water, om op zijn beurt een slijmerige substantie af te geven. Zonder het weken neemt het zaad veel vocht weg van het deeg en is het resultaat een te droog brood. \nl
 

@@ -204,7 +204,7 @@ Wachten op spontane fermentatie kan best spannend zijn. De ontdekking van bubbel
 \index{Viennois, pain}
 
 * _Biga_: Een Italiaans voordeeg, gebruikt in onder andere ciabatta’s. Dit is een droger voordeeg met een hydratatie van `50` tot `70%`. 
-* _Poolish_: Een Frans voordeeg met Oostenrijkse origines, gebruikt in onder andere baguettes. Dit is een erg vochtig voordeeg met een hydratatie van `100` tot `125%`. Een poolish werd door immigranten in Parijs gebakken om _pain viennois_ te maken.
+* _Poolish_: Een Frans voordeeg met Poolse origines, gebruikt in onder andere baguettes. Dit is een erg vochtig voordeeg met een hydratatie van `100` tot `125%`. Een poolish werd door immigranten in Parijs gebakken om _pain viennois_ te maken.
 * _Pâte Fermentée_: Een Frans voordeeg dat een overgebleven stukje deeg is van een vorige baksessie. (Letterlijk vertaald als _oud deeg_). Meestal wordt 1/3de van het deeg na de bolrijs aan de kant gezet voor de volgende keer. In tegenstelling tot de andere types, zit hier ook een beetje zout in. Variabele hydratatie. 
 * _Sourdough starter_: Je zuurdesemcultuur. Het woord starter refereert naar de 'kickstart' die je je voordeeg geeft, door de toevoeging van een hoop actieve en gevarieerde organismen. 
 
@@ -238,7 +238,7 @@ Er zijn veel snellere manieren om deeg te doen rijzen. Een traditioneel Iers sod
 
 _Bakpoeder_ bevat ook baksoda. Het is feitelijk een mengeling van een rijsmiddel (baksoda), een droog zuur (meestal een soort van wijnsteenzuur) en zetmeel (meestal op basis van maïs). Bakpoeder is dubbelwerkend: het reageert in tegenstelling tot zuivere baksoda zowel op vocht als op hitte in de oven zelf. Omdat bakpoeder al een zuur bevat, is geen toevoeging van zure room nodig. Het toegevoegde zetmeel werkt vocht absorberend, omdat het poeder gevoelig is aan vocht. Bakpoeder is heel eenvoudig zelf te maken. Veel recepten vragen om bakpoeder én baksoda. De kooldioxide die de baksoda genereert door de aanraking van het zuur is in veel gevallen niet voldoende om het nodige volume te creëren. De zure room verliest zijn pittige smaak omdat het zuur reageert met de bicarbonaat. In dat geval kan de bakker bakpoeder toevoegen, en minder baksoda gebruiken. \nl
 Je kan de versheid van beide rijsmiddelen controleren door ze te combineren met hun reactiemiddel. In het geval van baksoda meng je een beetje soda met azijn. Als er geen bubbeltjes verschijnen is het rijp voor de vuilbak. In het geval van bakpoeder meng je een beetje poeder met warm water. De bakpoeder zal minder hevig reageren als de baksoda. \nl
-De snelle bakker die gebruik maakt van deze chemische rijsmiddelen heeft hopelijk klanten met een sterk maag- en darmstelsel. Hier komen immers geen natuurlijke gisten en bacteriën bij kijken die belangrijke mineralen beschikbaar maken voor onze vertering, en moeilijk verteerbare enzymen al gedeeltelijk voor ons omzetten. Als je tijd maakt om brood te bakken, neem dan ook de tijd om het deeg op zijn eigen tempo te laten rijzen. 
+De snelle bakker die gebruik maakt van deze chemische rijsmiddelen heeft hopelijk klanten met een sterk maag- en darmstelsel. Hier komen immers geen natuurlijke gisten en bacteriën bij kijken die belangrijke mineralen beschikbaar maken voor onze vertering, en de moeilijker verteerbare voedingsstoffen al gedeeltelijk voor ons omzetten. Als je tijd maakt om brood te bakken, neem dan ook de tijd om het deeg op zijn eigen tempo te laten rijzen. 
 
 \index{Lactobacillus!plantarum}
 

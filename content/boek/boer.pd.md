@@ -7,11 +7,19 @@
 
 ### De boer
 
-TODO
+TODO eiwitgehalte van granen variëert van `6` tot `20%` [@gobbetti2012handbook]. p18
+
+TODO most evolved species Triticum durum en Triticum aestivum - hoogtechnologische evolutie, gekweekt voor maximale opbrengst. Belangrijkste = lokaal kweken, oogsten, en kopen, VS biologisch, VS oudere granen
+
+TODO p28 supply with minerals during growing is essential for optimal plant development. Nitrogen fertilization, important to high flour protein content, and thus, increased bread volume. gliadine meer beïnvloed dan glutenine
 
 ### De molenaar
 
-TODO
+TODO industriële milling p49
+
+TODO "oxidatie" p30 moderne molens L-ascobric acid (indirect) 
+
+TODO mineralen en vitaminen zitten aan de buitenste lagen van de graan, waardoor bij het uitfilteren deze verloren gaan [@gobbetti2012handbook]. 
 
 ### De brouwer
 

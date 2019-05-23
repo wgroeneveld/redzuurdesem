@@ -13,6 +13,8 @@ HIGH PRIO
 
 MEDIUM PRIO
 
+[ ] Ode aan Willy stevig granenbrood recept verificatie: granen + desem weken?
+[/] Laten nalezen + feedback verwerken (algemeen) door Ghislain, Ivan, e.a.
 [/] Laten nalezen microbiologie hoofdstuk door Kristel
 [ ] Sourdough Biotechnology aanduidingen verwerken
 [ ] Quote bij verdienen toevoegen
