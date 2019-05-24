@@ -10,6 +10,8 @@ HIGH PRIO
 [ ] Peter Schoofs nog niet goedgekeurd
 [X] Gert Jessenhofke nog niet goedgekeurd
 [ ] Voorwoord door Dimitri laten schrijven
+[ ] Synopsis voor indienen bij uitgeverijen
+[ ] Recepten aan einde van élk hoofdstuk, structuur
 
 MEDIUM PRIO
 
@@ -25,7 +27,7 @@ LOW PRIO
 
 [ ] Enzymen activiteit in theorie HF herlezen, goed genoeg uitgelegd?
 [ ] Boer hoofdstuk: bakken met S. Cerevisiae van biergist, verslagje
-[ ] Layouting '\nl' overal goed zetten
+[X] Layouting '\nl' overal goed zetten
 [ ] Sourdough Biotechnology verder uitlezen
 [X] Brijosh Tongeren bezoeken en sectie toevoegen in 'verdienen'
 [X] Eigen boekjes herlezen (#5) om te zien of ik nog iets wil toevoegen

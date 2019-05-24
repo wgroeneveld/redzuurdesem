@@ -5,6 +5,7 @@
 
 content/boek/boek.tex
 content/boek/boek.pdf
+content/boek/synopsis.pdf
 
 *.aux
 *.log

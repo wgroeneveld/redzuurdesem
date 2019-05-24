@@ -11,6 +11,9 @@ proofread:
 copyright:
 	pandoc -f markdown copyright.md  --template=ieee_software --listings --variable urlcolor=cyan -o copyright_letter.pdf
 
+synopsis:
+	pandoc -f markdown synopsis.md  -V documentclass=article -o synopsis.pdf	
+
 clean:
 	# source tex file
 	rm -rf boek.tex
