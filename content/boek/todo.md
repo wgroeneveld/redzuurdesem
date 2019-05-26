@@ -9,8 +9,9 @@ HIGH PRIO
 [ ] Boer hoofdstuk: molenaar
 [ ] Peter Schoofs nog niet goedgekeurd
 [X] Gert Jessenhofke nog niet goedgekeurd
+[/] Johan Brijosh Tongeren nog niet goedgekeurd
 [ ] Voorwoord door Dimitri laten schrijven
-[ ] Synopsis voor indienen bij uitgeverijen
+[X] Synopsis voor indienen bij uitgeverijen
 [ ] Recepten aan einde van élk hoofdstuk, structuur
 
 MEDIUM PRIO

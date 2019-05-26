@@ -520,13 +520,11 @@
 	"buffers":
 	[
 		{
-			"contents": "---\ntitle: 'Red Zuurdesem'\nauthor: 'De smaak en wetenschap van brood: een persoonlijke zoektocht'\ndate: 2019-05-24\n---\n# Synopsis\n\nDit document beschrijft een korte synopsis van het boek '_Red Zuurdesem_' door Wouter Groeneveld. \n\n## Flaptekst (174, te veel - 150)\n\nIn dit grootschalig culinair avontuur gaat computerwetenschapper en broodbakker Wouter op zoek naar de smaak en de wetenschap van brood, een mysterie dat hem sinds dat éne perfecte stukje brood uit zijn kindertijd achtervolgt. Wat zit er nu precies in brood dat het zo lekker maakt? Waarom is het ene brood zo oninspirerend terwijl het andere overloopt van smaak? In dit avontuur maakt Wouter zijn handen en keuken vuil en laat hij verschillende experten aan het woord: van molenaars, bakkers, en brouwers tot microbiologen en biochemici. Al snel blijkt dat zuurdesem een centrale rol speelt, een eeuwenoude techniek die door het jachtige leven van de moderne mens onterecht naar de achtergrond verdrongen werd. Hoog tijd dus om zuurdesem te redden van de vergetelheid en te ontdoen van de mystiek. Van de praktijk van het bakken met zuurdesem, tot de theorie van micro-organismen als gisten en melkzuurbacteriën: alle aspecten komen uitgebreid aan bod. Voor iedereen die nieuwschierig is naar de wetenschap van ons dagelijks brood, en voor iedereen die bewuster wil omgaan met voeding. \n\nniet zeker:\n\n- centrale \"onderzoeksvraag\" beter uitwerken? \n- koppeling inleiding\n- als laatste \n\n## Korte synthese\n\nsamenvatting\n\nsterke punten van het boek t.o.v. andere van het genre\n\n## Doelgroep\n\n## Over de auteur\n\nblabla Wouter Groeneveld\n\nblabla eerder gepubliceerd wat? \n\n## Gewenste vormgeving\n\nblabla images na elke x hf\nfoto's zelfgenomen, voor de rest niets\nvoetnoten die belangijk onderdeel vormen van het werk\n",
 			"file": "content/boek/synopsis.md",
-			"file_size": 1793,
-			"file_write_time": 132031701850000000,
 			"settings":
 			{
-				"buffer_size": 1779,
+				"buffer_size": 6765,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -642,6 +640,7 @@
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/redzuurdesem/.gitignore",
 		"/Users/jefklak/development/redzuurdesem/content/boek/todo.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
 		"/Users/jefklak/development/redzuurdesem/content/boek/alles-vergeten-dat-geleerd-is.pd.md",
@@ -669,7 +668,6 @@
 		"/Users/jefklak/development/redzuurdesem/content/boek/de-echte-leerschool.pd.md",
 		"/Users/jefklak/Desktop/timespent.csv",
 		"/Users/jefklak/Downloads/wouter.md",
-		"/Users/jefklak/development/redzuurdesem/.gitignore",
 		"/Users/jefklak/development/redzuurdesem/content/boek/copyright.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/possible_strains.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/boek.tex",
@@ -773,7 +771,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -964,23 +962,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1779,
+						"buffer_size": 6765,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								251,
-								251
+								5992,
+								5992
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 0,
-								"count": 263,
+								"changes": 3199,
+								"count": 1044,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -1005,87 +1003,72 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										263,
-										264
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										244,
-										245
-									]
 								},
 								"unmatched":
 								{
@@ -1093,61 +1076,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"git_gutter_is_enabled": true,
 							"open_with_edit": true,
@@ -1271,56 +1254,56 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -1396,6 +1379,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				".giti",
+				".gitignore"
+			],
 			[
 				"makef",
 				"content/boek/Makefile"
@@ -1903,10 +1890,6 @@
 			[
 				"sections-tree",
 				"layouts/partials/sections-tree.html"
-			],
-			[
-				"confi",
-				"config.toml"
 			]
 		],
 		"width": 0.0
