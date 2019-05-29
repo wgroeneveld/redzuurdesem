@@ -137,7 +137,7 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 ### Stevig Granenbrood
 
 Deze formule ontwikkelde ik als ode aan Willy Herteleer, die zijn klanten resoluut heeft leren gezonder eten, door terug te vallen op de smaak en de kracht van de granen zelf. \nl
-De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbrood_ dat Peter nog steeds dagelijks bakt. Een '_goed, stevig deeg_'. 
+De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbrood_ dat Peter nog steeds dagelijks bakt. Een '_goed, stevig deeg_', zoals Willy het zou hebben gewild. 
 
 | Hoeveelheid | Percentage | Beschrijving                 |
 |:-----------:|:----------:|:-----------------------------|
@@ -170,6 +170,7 @@ Methode:
 - _Dag 2, 11u30_: Bakken zonder stoom.
 - _Dag 2, 12u20_: Afkoelen.
 
-Het voorbereidende werk kost redelijk wat moeite in vergelijking met conventionelere formules, maar dat werk is de moeite waard. Het kokende water werkt sneller in op de amylase enzymen die door het zout voldoende afgeremd worden. \nl
+Het voorbereidende werk kost redelijk wat moeite in vergelijking met conventionelere formules, maar dat extra werk is meer dan de moeite waard. Het kokende water werkt sneller in op de amylase enzymen die door het zout voldoende afgeremd worden. Het op voorhand weken van het roggemeel verhoogt de opname van de voedingsstoffen. \nl
 Lijnzaad absorbeert veel water, om op zijn beurt een slijmerige substantie af te geven. Zonder het weken neemt het zaad veel vocht weg van het deeg en is het resultaat een te droog brood. \nl
 
+De hele rijst- en speltgranen worden op voorhand gefermenteerd om voldoende zacht te worden om in het deeg te verwerken. Op die manier blijft de structuur van de hele korrels bewaard zonder die onaangename hardheid. Dit is mijn manier om een grote hoeveelheid volle granen te kunnen integreren in brood. 

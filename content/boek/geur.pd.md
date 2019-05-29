@@ -70,7 +70,7 @@ Die groepering is niet meer dan logisch als je weet dat de zintuigen van geur en
 
 \index{Aminozuur}
 
-Ook de smaak van vers brood zal sterk variëren afhankelijk van het gekozen rijsmiddel. Zuurdesembrood smaakt véél _sterker_ dan een typisch gistbrood. Om te ontdekken hoe dit in zijn werk gaat moeten we onze laboratoriumjas terug aantrekken, deze keer als biochemicus. De intensiteit van onze smaakwaarneming is beïnvloed door factoren als de hoeveelheid zout. De grootste factor echter is de aanwezigheid van _glutamaat_. \nl
+Ook de smaak van vers brood zal sterk variëren afhankelijk van het gekozen rijsmiddel. Zuurdesembrood smaakt véél _sterker_ dan een typisch gistbrood. Om te ontdekken hoe dit in zijn werk gaat moeten we onze laboratoriumjas terug aantrekken, deze keer als biochemicus. De intensiteit van onze smaakwaarneming is beïnvloed door verschillende factoren, waaronder de hoeveelheid zout. De grootste factor echter is de aanwezigheid van _glutamaat_. \nl
 In 1907 stopte professor Ikeda in Tokyo plots met het eten van zijn _dashi_ bouillon soep. Er was geen verdwaalde vlieg in gevallen, en hij dacht ook niet plots aan een rekening die nog betaald moest worden. Neen, het was het plotse besef dat die soep hem zo smaakte, dat hem deed pauzeren. Op een of andere manier was de toevoeging van _kombu_ door de chef op die dag een eureka moment voor de professor. \nl
 Een jaar later isoleerde hij een aminozuur uit het zeewier dat verantwoordelijk was voor die intensere smaak: _glutaminezuur_[^zuur]. Deze ontdekking noemde Ikeda de vijfde smaak, ofwel de _umami_ smaak.
 
@@ -78,7 +78,7 @@ Een jaar later isoleerde hij een aminozuur uit het zeewier dat verantwoordelijk 
 
 \index{Ve-tsin}
 
-Umami wordt in het Engels vaak samen met '_savory_' gebruikt, wat vertaald kan worden als _hartig_, _smakelijk_, _sterk_, _guerig_, _pikant_ en _aangenaam_. Bepaalde melkzuurbacteriën in zuurdesembrood produceren glutamaat tijdens het fermenteren [@zhao2015effect]. Kristien eet niet graag zuurdesembrood omdat het 'te fel' smaakt. Glutamaat, melkzuur, en azijnzuur zijn hier de 'boosdoeners'. Gluten bevatten een hoge hoeveelheid aan dit umami aminozuur, die door melkzuurgisting sterk beïnvloed wordt [@gobbetti2012handbook]. \nl
+Umami wordt in het Engels vaak samen met '_savory_' gebruikt, wat vertaald kan worden als _hartig_, _smakelijk_, _sterk_, _guerig_, _pikant_ en _aangenaam_. In klassiek gegist brood komen vrije aminozuren, waaronder glutamaat, veel minder uitgesproken aan bod dan in brood gefermenteerd met bepaalde melkzuurbacteriën [@zhao2015effect;@gobbetti2012handbook]. Kristien eet niet graag zuurdesembrood omdat het te 'straf' smaakt. Glutamaat, melkzuur, en azijnzuur zijn hier de 'boosdoeners'. \nl
 Lang gerijpte olijven, zeewier, harde kaas, tomaten, groene thee, sojasaus, en gezouten vlees zijn typische producten waar veel umami in zit. Dat is niet toevallig een lijst met hoofdzakelijk gefermenteerd voedsel. \nl
 Umami is ook vaak te vinden in verwerkt voedsel in de vorm van toegevoegd _mononatriumglutamaat_ ('MSG' of _MonoSodium Glutamate_). In Aziatische winkels is dit verkrijgbaar als '_ve-tsin (味精)_', '_gourmet powder_', of onder de Japanse naam '_ajinomoto (味の素)_'. Dit is een smaakversterker dat onder E nummer `621` valt. Nummer `620` is glutamaat zelf[^nrs]. Het verschil zit hem in de vorm: MSG is de gekristalliseerde zoutvorm van glutaminezuur. Een chemische reactie tussen zuur en een base neutraliseert het zuur en laat een nieuwe substantie achter: zout.
 

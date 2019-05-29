@@ -12,17 +12,20 @@ HIGH PRIO
 [/] Johan Brijosh Tongeren nog niet goedgekeurd
 [ ] Voorwoord door Dimitri laten schrijven
 [X] Synopsis voor indienen bij uitgeverijen
-[ ] Recepten aan einde van élk hoofdstuk, structuur
+[ ] Recept einde HF: boer-molenaar-brouwer HF6; draf/bierbrood
+[ ] Recept einde HF: echte leerschool HF5; high-hydra tarwe/spelt? 
+[ ] Recept einde HF: dagelijks brood verdienen HF7; iets met gedroogd zuurdesem?
 
 MEDIUM PRIO
 
 [ ] Ode aan Willy stevig granenbrood recept verificatie: granen + desem weken?
 [/] Laten nalezen + feedback verwerken (algemeen) door Ghislain, Ivan, e.a.
 [/] Laten nalezen microbiologie hoofdstuk door Kristel
-[ ] Sourdough Biotechnology aanduidingen verwerken
-[ ] Quote bij verdienen toevoegen
+[X] Sourdough Biotechnology aanduidingen verwerken
+[X] Quote bij verdienen toevoegen
 [ ] Nadenken over subtitels datums, wijzigen?
 [/] Goedkeuring schilderij, Worcester Art Museum
+[ ] Dankwoord (pas na inzending)
 
 LOW PRIO
 

@@ -1,7 +1,7 @@
 
 ## Je dagelijks brood met brood verdienen
 
-> '_The difference between spoiled and fermented is largely cultural._' - Sandor Katz
+> '_For it is we who must pray for our daily bread, and if He grants it to us, it is only through our labour, our skill and preparation._' - Paracelsus
 
 ### Januari 2015
 
