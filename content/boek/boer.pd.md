@@ -150,13 +150,13 @@ _Storage Recommendations: Store in the fridge._
 
 Recensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken te bakken. In ieder geval ga ik geen `23 l` deeg maken om dit te proberen. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies gebruikt wordt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. 
 
-Ik kocht een Jessenhofke 'TRPL' en gebruikte het bier in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met `100 gr` bloem en `100 gr` bier, dat een nacht op `24 °C` de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg van `200 gr` op basis van zuurdesem. \nl
-De volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit. De biergist had duidelijk nog geen zin om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. \nl
-Net voordat het erg actieve voordeeg dreigde in te klappen besliste ik om beide preparaten te gebruiken in het brood, samen met de rest van het bier. `330 cl` bier en `370 gr` water verdween in `1 kg` bloem, om dertig uur later uit de oven tevoorschijn te komen als twee fantastisch goed gelukte broden. \nl
-Het aroma van het bier was nog subtiel aanwezig, maar werd overweldigd door de complexiteit van mijn zuurdesemcultuur. Ik denk dat een kortere rijstijd hier interessanter was. Een tweede optie is twee flesjes bier gebruiken voor twee broden. De kostprijs van zo'n brood schiet dan weer de hoogte in. 
+Ik kocht een Jessenhofke 'TRPL' en gebruikte het bier in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met enkel `100 gr` bloem en `100 gr` bier, dat een nacht op `24 °C` de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg van `200 gr` op basis van zuurdesem. \nl
+De volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit, terwijl de bottelgist van het bier duidelijk nog geen zin had om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. \nl
+Een tweede experiment waarin het water volledig vervangen werd door dit zware bier van `8 °` leerde me dat de relatief hoge alcoholgraad de rijskracht van mijn zuurdesem wel degelijk in de weg zit. Na 4 uur rijzen op een warme dag was er nauwelijks sprake van een luchtig deeg. \nl
+Niet alle gisten zijn even tolerant voor alcohol en elke zuurdesemcultuur is uniek. Om het zekere voor het onzekere te nemen gebruik je best een bier/water ratio van 1/1, of grijp je naar bakkersgist. 
 
-Het werd mij duidelijk dat bier voornamelijk smaak aanlevert, en niet rijskracht, ook al gebruik je bier met hergisting op fles. Mijn methode van brood bakken, verder uitgediept in deel III, voorziet meer dan voldoende smaak, aangebracht door zuurdesem, die overweldigend werkt op de verdienstelijke bijdrage van het bier. \nl
-Drink gewoon je bier terwijl je zuurdesembrood eet. Geniet van beide fermenten op zich. 
+Het werd mij duidelijk dat bier voornamelijk smaak aanlevert, en niet rijskracht, ook al gebruik je bier met hergisting op fles. De balans tussen het aroma van bier en de complexiteit van zuurdesem is erg moeilijk om aan te houden. Mijn methode van brood bakken, verder uitgediept in deel III, voorziet meer dan voldoende smaak, aangebracht door zuurdesem, die snel overweldigend werkt op de verdienstelijke bijdrage van het bier. \nl
+Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten op zich. 
 
 \newpage
 
@@ -171,3 +171,43 @@ Drink gewoon je bier terwijl je zuurdesembrood eet. Geniet van beide fermenten o
 * Vroeger werd in België en Nederland voornamelijk bier van hoge gisting gedronken. De opkomst van koeltechnieken deed de balans kantelen naar onderfermentatieve pils. 
 * Bakkersgist is geselecteerd op snelheid. Biergist op alcohol en aroma. 
 * Bier in brooddeeg zorgt voor smaak, niet voor rijskracht. Die smaak kan overweldigd worden door zuurdesem. 
+
+\newpage
+
+### Bier brood met draf
+
+Gert was zo vriendelijk me een beetje draf te geven om uit te proberen in brood. Als je geen toegang hebt tot dit restproduct van bierbrouwen, kan je in de plaats hele tarwe- of gerstgranen grof malen en een uur koken. Deze grote stukken zemelen werken als naalden in het deeg en doorprikken constant de zorgvuldig opgebouwde glutenstructuur. Hoe meer van deze ingrediënten gebruikt worden, hoe moeilijker het wordt om een luchtig brood te bakken. Een andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Gekookte granen leveren immers zelf ook water aan. \nl
+Om in het thema van brouwen te blijven heb ik in deze formule toch bier gebruikt, hetzij met mate. Door de totale rijstijd te reduceren en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
+
+| Hoeveelheid | Percentage | Beschrijving                         |
+|:-----------:|:----------:|:-------------------------------------|
+| `900 gr`    | `90%`      | T65 tarwebloem                       |
+| `100 gr`    | `10%`      | Tarwemeel, volkoren (fijngemalen)    |
+| `200 gr`    | `20%`      | Draf                                 |
+| `330 gr`    | `33%`      | Jessenhofke 'TRPL' (1 flesje)        |
+| `350 gr`    | `35%`      | Water                                |
+| `20 gr`     | `2%`       | Zout                                 |           
+
+Table: Formule voor bier brood met draf.
+
+Waarvan voor het voordeeg (`10%` van de bloem):
+
+> `100 gr` tarwebloem \newline
+> `100 gr` water \newline
+> `1 el` zuurdesem starter 
+
+Methode:
+
+- _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
+- _Dag 1, 23u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
+- _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24 °C`.
+- _Dag 2, 07u10_: 1u. Bolrijs I.
+- _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bolrijs II.
+- _Dag 2, 09u10_: 1,5u. Opnieuw vouwen. Bolrijs III.
+- _Dag 2, 10u40_: 10min. Vormgeven.
+- _Dag 2, 10u50_: 1,5u. narijs op `24 °C`.
+- _Dag 2, 12u20_: 55min. bakken op `240 °C`.
+
+De grove granen zorgen voor een iets vastere structuur die het brood extra voedzaam maakt. Door pas halverwege de bolrijs de draf toe te voegen, zorgen we voor een goed ontwikkeld deeg dat toch mooi kan openbloeien in de oven. \nl
+Stort het deeg na het eerste bolrijs uit op een werkoppverlvak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht er uit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant, en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het een laatste keer anderhalf uur te laten rusten. \nl
+Laat het brood zeker lang genoeg bakken. 

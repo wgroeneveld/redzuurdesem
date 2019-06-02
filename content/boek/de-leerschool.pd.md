@@ -377,7 +377,7 @@ Een simpele verbetering zou kunnen zijn om de verbeteraar te vervangen door bote
 | `1000 gr`   | `100%`     | Tarwebloem                           |
 | `400 gr`    | `40%`      | Volle melk                           |
 | `100 gr`    | `10%`      | Eieren (twee kleine)                 |
-| `20 gr`     | `2%`       | Verse gist                           |
+| `10 gr`     | `1%`       | Verse gist                           |
 | `40 gr`     | `4%`       | Fijne kristalsuiker                  |
 | `150 gr`    | `15%`      | melkerijboter                        |
 | `16 gr`     | `1.6%`     | Zout                                 |           
@@ -395,10 +395,10 @@ Methode:
 - _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 23u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
 - _Dag 2, 07u00_: 10min. kneden op hoge snelheid. Doeltemperatuur: `24 °C`.
-- _Dag 2, 07u10_: 2u. bolrijs
-- _Dag 2, 09u10_: 10min. Vormgeven, twee keer bestrijken met eigeel.
-- _Dag 2, 09u20_: 1,5u. narijs op `24 °C`.
-- _Dag 2, 11u00_: 10min. bakken op `250 °C`.
+- _Dag 2, 07u10_: 2,5u. bolrijs
+- _Dag 2, 09u40_: 10min. Vormgeven, twee keer bestrijken met eigeel.
+- _Dag 2, 09u50_: 1,5u. narijs op `24 °C`.
+- _Dag 2, 11u20_: 10min. bakken op `250 °C`.
 
 De melkpoeder is vervangen door (lokaal geproduceerde) volle melk, de hoeveelheid gist is gezakt van `10` naar `2%`, de verbeteraar is vervangen door boter, het zoutgehalte is verhoogd van `1.4` naar `1.6%`, en er is uiteraard een voordeeg op basis van zuurdesem toegevoegd. \nl
 Sandwiches worden gekenmerkt door luchtigheid en zoetheid. Die twee karakteristieke eigenschappen heb ik geprobeerd aan te houden door het voordeeg niet te lang te fermenteren en nog steeds wat extra gist toe te voegen.\nl

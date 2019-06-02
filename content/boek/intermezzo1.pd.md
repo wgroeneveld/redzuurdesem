@@ -1,6 +1,8 @@
 
 ## Intermezzo
 
+\label{intermezzo}
+
 ### Juli 2018
 
 In Venteuil, een klein dorpje in de Champagne streek te Frankrijk dat vijfhonderd hele inwoners telt, ligt wijnmaker Autréau-Lasnot[^lasnot]. Er zijn honderden grote en kleine champagneboeren gevestigd in de streek - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkorven. \nl

@@ -100,7 +100,7 @@ Het woord _trog_ klinkt hier misschien onaantrekkelijk, maar via de demonstratie
 Samen bekrachtigen ze Peter Schoofs zijn tip om een goede partner te zoeken. \nl 
 'Als je dat niet hebt, begin je er beter gewoon niet aan.' Dat was duidelijk.
 
-Voordat ik vertrek krijg ik van Willy een versgebakken brood verpakt in een broodzak van zijn vroegere bakkerij, 'Natuurbakkerij W. Herteleer'. \nl
+Voordat ik vertrek krijg ik van Willy een vers gebakken brood verpakt in een broodzak van zijn vroegere bakkerij, 'Natuurbakkerij W. Herteleer'. \nl
 ‘Ik bak nog elke week thuis en leg de meeste broden in de diepvries om toe te komen.’ Eens een bakker, altijd een bakker - dat krijg je er nooit meer uit, zoveel is zeker. En dan nog, waarom zou je? \nl
 'Ja Wouter, zo een _goed stevig deeg_... Als ik er aan denk krijg ik er terug zin in!' Willy, en bijgevolg Peter, zijn beiden bakkers die, net zoals de meeste andere Vlaamse bakkers, de voorkeur geven aan stevigheid in plaats van het erg slap deeg dat ik tegen zou komen tijdens mijn stage. Ik had er ook aan gedacht om zelfgebakken brood mee te nemen dat dankbaar in ontvangst genomen werd. \nl
 'Ja...' zei Willy toen hij het brood een aantal keren ronddraaide om langs alle kanten te kunnen inspecteren. \nl

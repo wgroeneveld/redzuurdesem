@@ -125,7 +125,7 @@ Mijn steenoven stelt me in de mogelijkheid om zes grote broden tegelijkertijd te
 
 #### Geroosterd brood
 
-De eenvoudigste manier om overschot te verwerken is door brood te roosteren. Brood roosteren haalt een deel van die versgebakken broodgeuren terug in de keuken die zelfs de meest weerbarstige maag laat grommelen van de honger. Een simpele toast kan gepaard gaan met wat confituur of boter. Een complexere toast met kaas krijgt de naam _croque monsieur_. Gooi er een gebakken ei bovenop en het geslacht verandert naar _croque madame_. Roosteren kan gewoon in de pan met of zonder olie, in de oven met of zonder grill, of in gespecialiseerde _croque_- of toastmachines. 
+De eenvoudigste manier om overschot te verwerken is door brood te roosteren. Brood roosteren haalt een deel van die vers gebakken broodgeuren terug in de keuken die zelfs de meest weerbarstige maag laat grommelen van de honger. Een simpele toast kan gepaard gaan met wat confituur of boter. Een complexere toast met kaas krijgt de naam _croque monsieur_. Gooi er een gebakken ei bovenop en het geslacht verandert naar _croque madame_. Roosteren kan gewoon in de pan met of zonder olie, in de oven met of zonder grill, of in gespecialiseerde _croque_- of toastmachines. 
 
 Ben je de sneetjes brood vergeten in de oven? Geen probleem, laat het nog wat langer liggen, tot het pikzwart ziet en je misschien een raam of twee moet open zetten om de verbrande lucht te bevrijden. Het resultaat is _burnt bread_, een smaakmaker gebruikt door de mensen van Bar Tartine [@bartartine]. Ook zij zitten soms met overschot dat gereduceerd wordt tot poeder om te gebruiken in kruidenmengsels en in '_burnt bread sauce_'. Hun instructies zijn erg duidelijk:
 

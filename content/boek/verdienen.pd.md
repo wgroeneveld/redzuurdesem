@@ -229,8 +229,8 @@ We komen aan in een bakkerij die als testlab fungeert om te kunnen experimentere
 ‘Sommige producten worden als algemeen rijsmiddel verkocht. Anderen fungeren als specialist: die moeten dienen voor baguettes of voor zachte luxe. Door te spelen met de organismen kunnen we blijven proberen tot we de ideale combinatie ontdekt hebben.’ Mijn verwonderde blik doet Karl glimlachen. \nl
 ‘We hebben hier regelmatig bezoekers over de vloer die onder de indruk zijn. Hier komen bakkers op zoek naar de heilige graal om hun proces te optimaliseren, maar ook Aziatische managers van enorme ketens die smaak en technologie wensen te combineren.’ \nl
 ‘Kan ik ook een stuk brood proeven in plaats van de desem zelf? Dat geeft een completer beeld’, zeg ik, wijzend naar de netjes geordende stapel afkoelende broden in het rek. Karl schudt zijn hoofd. \nl
-‘Sorry, die zijn voor een belangrijke demonstratie weggelegd. Ik had misschien iets extra moeten laten bakken… Maar hier, pak een zak van onze O-Tenic mee om thuis te proberen!’ Hij overhandigt me een zak van `2 kg` en ik bedank hem uitvoerig. \nl
-Op de zak staat ‘_O-Tenic DURUM - Dosage: `4%`_’. De hoeveelheid geeft aan hoe je dit product dient te gebruiken. Het werkt als een vervanger voor gedroogde gist en voegt tegelijkertijd smaken van verschillende gecombineerde bacteriën toe die ontdekt zijn door de Marco Polo’s van zuurdesem. Ik heb er verschillende keren mee gebakken toen ik terug thuis kwam en moet bekennen dat het op korte tijd toch aardig wat smaak weet te introduceren. Die producten zijn immers gemaakt voor degen die onder de vier uur klaar zijn. \nl
+‘Sorry, die zijn voor een belangrijke demonstratie weggelegd. Ik had misschien iets extra moeten laten bakken… Maar hier, pak een zak van onze O-Tentic mee om thuis te proberen!’ Hij overhandigt me een zak van `2 kg` en ik bedank hem uitvoerig. \nl
+Op de zak staat ‘_O-Tentic DURUM - Dosage: `4%`_’. De hoeveelheid geeft aan hoe je dit product dient te gebruiken. Het werkt als een vervanger voor gedroogde gist en voegt tegelijkertijd smaken van verschillende gecombineerde bacteriën toe die ontdekt zijn door de Marco Polo’s van zuurdesem. Ik heb er verschillende keren mee gebakken toen ik terug thuis kwam en moet bekennen dat het op korte tijd toch aardig wat smaak weet te introduceren. Die producten zijn immers gemaakt voor degen die onder de vier uur klaar zijn. \nl
 Er zijn op internet nog andere bronnen om aan wereldculturen te geraken zoals Sourdoughs International[^sdnat]. Via die website is iedereen maar één klik verwijderd van een Finse, Russische of Australische gedroogde zuurdesemcultuur.
 
 [^sdnat]: [https://www.sourdo.com](https://www.sourdo.com)
@@ -243,7 +243,7 @@ Ik heb moeite om Karl te begrijpen door het lawaai van de machines. Puratos verk
 Vanuit België vertrekken dus liters aan vloeibare desem die naar binnen- en buitenland stromen. Hoe kan Puratos wel de versheid garanderen die ik niet kon met mijn Desem Doos? Tijdens het wandelen van machine naar machine, antwoordt Karl: \nl
 ‘Goede vraag! Zuurdesems kan je opdelen in verschillende categorieën. Type I[^types] is de typische traditionele desem die door verversen in leven gehouden wordt.’ Dit is het type van desem die ik gebruikte in mijn doos. \nl
 ‘Dan heb je onze vloeibare desems, dat is type II. Een speciale fermentatie stap boven de `30° C` gecombineerd met een langere periode van rust zorgt voor een stabiele samenstelling die beter bewaart. Type II wordt gebruikt als natuurlijke verbeteraar. Je hebt nog altijd gist nodig die wij toevoegen aan het product.’ De stabilisatie van een desem vereist het gebruik van speciale apparatuur zoals grote drukketels. Ik kan thuis niet zomaar type II desem maken, ook al zou ik het willen. Het verlies aan goede rijskracht maakt voor mij deze soort zuurdesem niet erg aantrekkelijk. \nl
-‘Dan heb je nog type III, dat is de gedroogde versie van type II. De bacterieculturen verschillen wel degelijk door het droogproces.‘ Het product dat ik meekreeg, O-Tenic, bevat ook gedroogde gist. 
+‘Dan heb je nog type III, dat is de gedroogde versie van type II. De bacterieculturen verschillen wel degelijk door het droogproces.‘ Het product dat ik meekreeg, O-Tentic, bevat ook gedroogde gist. 
 
 [^types]: Lees hier meer over in een verslag over functionele en technologische aspecten van zuurdesem fermentatie [@yazar2012functional]. 
 
@@ -270,8 +270,87 @@ Bij elke koelkast hangt een plaatje met uitleg: origine, soort bloem, methode om
 ‘Het is een _non-profit_ initiatief’, verzekert Karl mij, ‘het enige wat wij eisen is een jaarlijkse hoeveelheid bloem om te gebruiken bij het verversen.’
 
 Puratos verkoopt niet alleen desem. Ook conventionele gedroogde gist wordt er gefabriceerd. Hun gamma aan producten beperkt zich niet tot brood: een bakker kan er ook kersenvulling aankopen voor zijn taarten. Zelfs chocolatiers zijn bekend met het merk, van _compound_ tot praliné en chocolade zelf. Dit is een internationaal bedrijf met wereldwijd meer dan 7000 mensen in dienst. Op zo'n schaal is het niet meer dan logisch dat het merendeel van hun cliënteel bestaat uit industriële bedrijven. \nl
-En toch doen ze de moeite om hobbyisten zoals mij met plezier te ontvangen en de tijd te nemen om me rond te leiden. Mijn oordeel over de industrie heb ik na mijn bezoek toch een beetje moeten herzien. De aandacht en liefde voor zuurdesem binnen Puratos kan alleen maar betekenen dat - zoals ik ook wens - desem meer onder de mensen gebracht wordt. Er zijn immers meerdere wegen die leiden naar eenzelfde doel. De producten van Puratos doen de bakker kennis maken met zuurdesem, ook al wordt het voornamelijk gebruikt als smaakmaker in combinatie met conventionele gist. \nl
-Misschien werkt het zoals mijn broodbakmachine: een deur die opent naar een  wereld boordevol pittige smaken, nieuwe texturen, en oneindige mogelijkheden…
+En toch doen ze de moeite om hobbyisten zoals mij met plezier te ontvangen en de tijd te nemen om me rond te leiden. Mijn oordeel over de industrie heb ik na mijn bezoek grondig moeten herzien. De aandacht en liefde voor zuurdesem binnen Puratos kan alleen maar betekenen dat, zoals ook mijn wens is, desem meer onder de mensen gebracht wordt. Er zijn immers meerdere wegen die leiden naar eenzelfde doel. Zoals Karl zei: 'wij wensen zuurdesem terug op de markt te zetten'. De producten van Puratos doen de bakker kennis maken met zuurdesem, ook al wordt het voornamelijk gebruikt als smaakmaker in combinatie met conventionele gist. \nl
+Misschien werkt het zoals mijn broodbakmachine: een deur die opent naar een  wereld boordevol pittige smaken, nieuwe texturen, en oneindig veel mogelijkheden…
+
+### Mei 2019
+
+Vijf jaar later spreken Karl en ik in context van mijn boek opnieuw af in Saint-Vith. Het was een leuk weerzien waaruit bleek dat Puratos niet heeft stilgezeten. De culturen in de bibliotheek zijn uitgebreid tot meer dan 120, er zijn nieuwe producten ontwikkeld, en er is zelfs een nieuw gebouw bijgekomen dat de geschiedenis van brood en desem uit de doeken doet in de vorm van een privémuseum. \nl
+We brachten deze keer al bakkend samen twee dagen tijd door. Ik wilde al doende een beter beeld krijgen van mogelijke toepassingen van hun zuurdesem producten. Dimitri vergezelde me de eerste dag en keek zijn ogen uit.
+
+'En, wat willen jullie bakken?' vraagt Karl ons. \nl
+'Dat Altamura brood waar we het vorige keer over hadden, dat zou ik eens graag willen maken. Maar dat gaat niet zonder die Italiaanse bloem, zeker?' Karl glimlacht breed. \nl
+'Natuurlijk gaat dat! Jullie zijn hier bij Puratos hé, hier gaat alles. We zullen straks eens kijken of er nog genoeg in stock is. En wat nog?' Ik keek naar Dimitri, die niet onmiddellijk iets kon verzinnen. \nl
+'Wat dacht je van baguettes?' stelde ik voor. 'Ik heb altijd moeite met de juiste vormgeving als er veel water an de pas komt.' \nl
+'Goed, baguettes, kunnen we zeker doen. Wat nog?' \nl
+'Een typisch San Francisco brood zou ook wel leuk zijn, om te kunnen vergelijken met wat wij gebruikelijk thuis doen.' \nl
+'Zeer goed. _Let's get started then!_'. Op naar de test bakkerij. 
+
+Na het aantrekken van de nodige haarnetjes en witte jassen, betreden we de bakkerij. Zoals vorige keer hangt in het hele centrum een aangename, complexe geur van gebakken gist. Heerlijk om zo elke dag op je werk toe te komen. Dat is iets heel anders dan de muffe geur van een slecht verlucht klaslokaal. \nl
+Karl laat ons telkens `2 kg` bloem en `40 gr` zout afwegen. We beginnen met het iconische Italiaanse brood, waar een speciale soort zeer fijn gemalen durum tarwe voor gebruikt wordt, genaamd '_semolina rimacinata di grano duro_'. Op de zak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die van een échte Altamura zuurdesemcultuur teruggevonden zijn. \nl
+'Dit is gedroogde desem met toegevoegde gist, vitamine C, en enzymen. Dat is natuurlijk niet hetzelfde als een vloeibare desem, in het droogproces gaan veel organismen verloren. Dit is een kant-en-klare oplossing voor een bakker die meer smaak wilt toevoegen, zonder van zijn gekend schema te moeten afwijken. Het is kiezen natuurlijk, begrijp je?' Wij knikken en wegen de aanbevolgen dosering van `4%` af. 
+
+'Hoeveel water gaan we hiervoor gebruiken?' vraag ik, terwijl Karl alles in een spiraalkneder kiepert. \nl
+'Semolina drinkt enorm veel. Misschien tot `80%`, we gaan zien. We gaan zien. Voeg nooit aan het begin in één keer al het water toe, dat kan je tot `65%`. Vanaf dan laten kneden, en gradueel toevoegen. Dan heeft het gluten netwerk ook de tijd om het water op te nemen, en kunnen we alles beter controleren.' De autolyse stap die ik thuis hanteer heeft hetzelfde doel. \nl
+Na een grondige windowpane test verdelen we het deeg in vier. Het deeg is plakkerig, maar niet onhandelbaar. \nl
+'Dat is nu wat ze _Velvet_ noemen, mannen,' glundert Karl. Fluweelzacht deeg dat aangenaam is om mee te werken. Het gevolg van lang en intensief kneden, dat deze harde tarwesoort gemakkelijk kan doorstaan. \nl
+'We gaan dat even laten rusten en in de koeling zetten tot morgen om verder te vormen en dan onmiddellijk te bakken.' Het met DOP[^dop] beschermde Altamura brood is alles behalve zuur en rijst dan ook veel korter dan mijn tarwe boerenbrood. De tweede dag bakten we het een uur op `240 °C`. Dit brood heeft een dikke korst die een romige, dichte gele structuur verbergt, ondanks de grote hoeveelheid water. 
+
+[^dop]: Een '_Denominazione di Origine Protetta_' certificaat, ofwel een bescherming van oorsprong, bepaalt dat producten lokaal gekweekt en verpakt worden. IGP, of '_Indicazione Geografica Protetta_', is een ander label dat minder strikt is. Bekende DOP producten zijn Balsamico (di Moderna), San Marzano tomaten, en uiteraard Parmezaanse kaas. 
+
+Daarna volgde het baguette deeg. \nl
+'Hiervoor gaan we een vloeibare desem gebruiken met rogge.' Karl haalt een grote plastieken container uit de koeling en weegt `15%` af. \nl
+'Amai, dat is érg vloeibaar! Heeft dat een bepaalde reden?' vraagt Dimitri. \nl
+'Hier zit twee derde water in. Dat is nodig voor de verpompbaarheid. Een vastere desem kan niet door onze systemen verwerkt worden.' \nl
+'Mijn zuurdesem bewaar ik thuis ook in de koelkast, maar heeft na een dag of drie reeds honger, ook al is het gekoeld. Hoe lang kan je dit product bewaren?' \nl
+'Twee maanden. Dat komt door de erg hoge zuurtegraad. Dit is gestabiliseerde zuurdesem, type II. Neem morgen uw cultuur eens mee, dan kunnen we de pH en de totale aciditeit eens meten.' De vloeibare desem ruikt ondanks de zuurtegraad toch nog redelijk zoet. Het roggemeel kleurt het vloeibare mengsel tot een grijsbruine massa, vol met duidelijk zichtbare tikjes zemelen. \nl
+'We moeten hier wel een beetje verse gist aan toevoegen. Door die verzuring is de rijskracht zo goed als weg. Dat zou misschien gaan als we drie dagen tijd hebben. Het is weer kiezen hé.' In de gedroogde O-Tentic oplossing zit reeds toegevoegde gist, terwijl je met de vloeibare desem zelf de verhoudingen kan bepalen. 
+
+Voor het baguettedeeg gebruikten we '_farine de tradition_', een Franse crèmekleurige bloem met toegevoegde diastatische mout. Dit komt ruwweg overeen met T65, waar de mout helpt met de kleuring en rijskracht. \nl
+'Dat wordt toegevoegd voordat de zakken bloem vertrekken bij de molen. Veel bakkers weten niet eens wat er nu precies in hun bloem zit, maar ze vervloeken wel onze producten omdat het chemisch of ongezond zou zijn. Ascorbinezuur, enzymen, of mout zijn erg frequente en natuurlijke additieven die wij ook gebruiken. De O-Tentic is niet meer dan een gedroogde vorm van een van onze vloeibare desems, met die extra's. Daar is niets chemisch of slecht aan. Als een bio bakker stoeft met zijn '100% natuurlijk' label, vergeet hij meestal de toevoegingen van de molenaar. Dat is soms wel frustrerend voor ons,' verklaart Karl. \nl
+'Het is zelfs zo dat we merken dat consumenten meer bezig zijn met wat er op het etiket staat. Dingen als emulgatoren schrikken af, en worden meer en meer vervangen door enzymen, ook al bereik je daar nooit hetzelfde resultaat mee, zeker niet met vetter deeg als een brioche.' \nl
+'Zijn dat recente trends die jullie ontdekken?' \nl
+'In zekere zin wel, en wij zijn daar erg bewust mee bezig. Toen aangetoond werd dat bromaat kankerverwekkend kon zijn, hebben wij onmiddellijk geslist om daarmee te stoppen. In veel Amerikaanse staten wordt dat nog veelvuldig toegepast om deeg op te blazen. Het is niet alleen een kwestie van de markt te volgen, maar ook om op een verantwoorde manier de voedingsindustrie te kunnen helpen. Zie je, met enzymen kan je fantastische dingen doen.' Ondertussen controleert Karl het baguettedeeg door de kneder stil te leggen en er eens aan te trekken. De tweede snelheid wordt ingezet en nog wat water toegevoegd. \nl
+'Ik geloof eigenlijk niet in een toekomst van de industriële bakker versus de artisanale, maar in een snelle of een trage bakker. Als het op een industriële schaal mogelijk is om consumenten te bedienen van betaalbaar brood dat smaak heeft, en dat lang genoeg gerezen heeft om nutriënten eenvoudiger te kunnen opnemen, wat kan je daartegen hebben?' Niets, neem ik aan?
+'Als artisanale bakker kan je je nog genoeg onderscheiden van de grote mannen met een eigen verse desem, met variatie, en met sneller in te spelen op de vraag. Voor een productielijn duurt het immers maanden om iets aan te passen.'
+
+We beginnen aan het derde deeg, het legendarische Amerikaanse brood van de westkust. \nl
+'Hier staat '_high gluten flour_' op, hoeveel eiwitten zitten daar dan in, Karl?' vraag ik, terwijl ik opnieuw `2 kg` bloem afweeg. \nl
+'Dat kan tot `15%` gaan, dat weet ik niet vanbuiten.' \nl
+'Is dat Canadese bloem?' \nl
+'Zeer waarschijnlijk.' \nl
+'Wauw, zoveel eiwitten in bloem?' vraagt Dimitri verwonderlijk. 'Zou dat ook lukken om lokaal te telen?' Karl schudt zijn hoofd. \nl
+'Onmogelijk. De meeste Belgische bloem is niet bakwaardig en bestemd als veevoeder. Het klimaat laat dat simpelweg niet toe. Die grote hoeveelheid gluten ga je straks en morgen zien werken. Dat ontploft in de oven en de warme rijskast. Drinkt ook erg veel.' Hij neemt een andere vloeibare zuurdesem uit de koeling om hierbij te gebruiken, op basis van tarwe. Deze desem is nog zoeter dan de vorige, en doet denken aan het aroma van groene appels. Ook hier wordt een minimale hoeveelheid verse gist in het deeg verwerkt. \nl
+'Er is natuurlijk ook iets te vinden voor lokaal geteelde tarwe. Ik werk graag met bloem waarvan ik weet dat ze vijf kilometer verder groeide. Daar pas ik mijn methode graag voor aan. Canadese bloem, of die van Altamura, is ook niet zomaar te verkrijgen' leg ik uit. \nl
+'Ik begrijp helemaal wat je bedoelt, Wouter. Ik werk thuis graag met Duitse spelt, en maal dat zelf met een klein molentje. Geweldig, en verslavend om te doen. Maar bakkers moeten volledige controle over het proces hebben, ook als de oogst eens tegen zit. Mariette van op de hoek wilt immers dagelijks hetzelfde brood. Vandaar de toegevoegde enzymen bij de molenaar. Als we in ons deeg hier nog verbeteraar zouden toevoegen, kunnen we met onze ogen toe bakken. Maar ik heb het gevoel dat jullie niet zo'n verbeteraar mannen zijn...' lacht Karl. \nl
+'Ik neem aan dat mensen als Chad Robertson ook zo'n bloem hanteren?' vraag ik. \nl
+'Natuurlijk. Je ziet in zijn boeken en op Internet zo'n mooie opengebarsten broden, met belachelijke hoeveelheden water. Mensen proberen dat ook en krijgen dan soep in de plaats van deeg. Wat ze niet weten, en nergens duidelijk staat uitgelegd, is dat die bloem totaal anders reageert op water, zie je. Dat is erg hip tegenwoordig, _high hydration_. Ik zie het nut er eigenlijk niet van in. Het moet nog steeds werkbaar zijn. In een bakkerij moet alles eenvoudig hanteerbaar zijn. En zo'n smaakverschil geeft het niet hoor.' \nl
+In het kader van dezelfde hanteerbaarheid leert Karl ons om natter deeg een beetje te laten verkorsten voordat we verder gaan met het opbollen. Dat, samen met enige behendigheid met een deegsteker, en het probleem is opgelost. 
+
+De volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo enkele metingen uit te voeren. Karl mengt `10 gr` van mijn zuurdesem met `100 gr` gedestilleerd water om het pH niveau te meten. Een klein magneetje in een magnetisch veld zorgt voor het mengen, terwijl een sonde de zuurtegraad registreert. De meting stopt op `3.5`. \nl
+'Oef. Dat is erg weinig. Hij rook ook erg zuur. Laten we nu eens de TTA meten om te zien hoe zuur dit effectief ervaren wordt.' Ik had op vraag van Karl mijn cultuur ongevoed meegebracht, dus dat laag getal verbaasde me niet. \nl
+'TTA?' vraag ik. \nl
+'_Total Titratable Acid_. Daarmee meten we de aanwezige zuren. Dat is niet hetzelfde als pH. Voedsel kan een lage pH hebben, maar toch nog relatief weinig totale zuren bevatten, zodat de sensatie van het zuur in de mond minder hard aankomt. Als je dit hier volledig onder controle hebt, dan kan je in de bakkerij alles. TTA is enorm belangrijk om fermentatie goed te kunnen controleren.' Ondertussen voegt hij druppel per druppel natriumhydroxide toe aan de zuurdesem oplossing, zodat het pH stijgt tot `8.5`. De hoeveelheid toegevoegde hydroxide, `9`, is de TTA eenheid. \nl
+'Amai, dat valt goed mee. Ik had veel erger verwacht.' \nl
+'Dus mijn desem heeft een erg lage pH maar is niet zo zuur als verwacht?' \nl
+'Juist. Die vloeibare desem die we in het San Francisco deeg gestoken hebben? Die heeft een TTA van `25`.' \nl
+'Wow. Maar dat is vanwege het stabilisatieproces van zo'n type II zuurdesem, neem ik aan'. Karl knikt. \nl
+'Ik neem aan dat opkweken een grote invloed heeft op deze waardes?' \nl
+'Absoluut, het resultaat is telkens anders, en op die manier kan je het fermentatieproces beter inschatten en controleren.'
+
+We meten daarna dezelfde waardes voor brood dat ik drie dagen geleden bakte met diezelfde zuurdesemcultuur. Dat had een pH van `4.5` en TTA van ongeveer `7`[^ttarye]. Het brood was al wat uitgedroogd, waardoor het zuurder proefde dan de dag waarop het gebakken was. \nl
+Het pH niveau van mijn zuurdesem ligt op de grens van de aanvaarde normale waardes (tussen de `3.57` en `6`), terwijl de TTA wel redelijk oké was (tussen de `2` en `12`) [@paramithiotis2005application]. De zuurtegraad stabiliseert terug door tijdens het verversen zo goed als alles weg te gooien en in verhouding veel bloem en water te gebruiken. Dat is nu eenmaal het leven van een cultuur in de koelkast. Ik vraag Karl voor wat tips om verzuring tegen te gaan. \nl
+'Wel, ik zou een tijdje een vastere desem maken, en het in water bewaren. Dat neemt de zuren op, zoals bij een Italiaanse panettone desem. Chinezen voegen alkali toe voor hun gestoomde broodjes, die willen absoluut geen zure smaak. Maar gewoon een aantal keer vaker verversen op kortere tijdstippen zal ook al helpen. Om de vier uur bijvoorbeeld. En 's nachts ook opstaan hé!' Dat laatste advies volg ik al door enkele dagen voor het bakken de cultuur terug op te kweken. 
+
+[^ttarye]: Het betrof een `80%` tarwebloem, `20%` roggemeel, `5%` boekweit brood met `70%` water en `2.3%` zout. Een typische pH waarde voor roggebrood met `70%` rogge of meer is `4.4`, en `4.7` voor gemengd brood met ongeveer `30%` rogge. Een typische TTA waarde voor roggebrood met `70%` rogge of meer is `8`, en `6.5` voor tarwebrood met minder dan `50%` rogge [@katina2014process]. Dat komt dus keurig overeen.
+
+Als afscheidscadeau duikt Karl de opslagruimte in om een zak `25 kg` durum bloem uit Altamura te halen. \nl
+'Hier, pak dat maar mee, dan kan je nog wat experimenteren voor je boek.' De zak verdwijnt samen met de gebakken producten in de koffer van de auto en ik bedank Karl uitvoerig. De rit naar huis was een ware kwelling: de onweerstaanbare geur van vers gebakken brood doordringt mijn neusgaten en herinnert me er aan wat voor een stom idee het was om alles buiten handbereik te leggen... 
+
+De baguettes belegd met een karaktervolle kaas waren simpelweg heerlijk. Zoals verwacht gaf de rogge in de vloeibare desem geeft meer pit dat ik altijd op prijs stel. \nl
+Het goudgele Altamura brood had dankzij de durum tarwe een nootachtige, granige smaak die door de O-Tentic verder onderstreept werd, hetzij iets te weinig naar mijn zin. Het kruim was vast, egaal, en enorm zacht: perfect voor degenen die van sneetjes brood houden. \nl
+Van het San Francisco brood was ik het minste enthousiast. Ik verdenk de Canadese bloem van de taaiheid en de te korte eerste rijstijd van het gebrek aan smaak. \nl
+Gek genoeg, maar niet helemaal onverwacht, verkozen mijn ouders het Californische brood, omdat dat het beste overeen kwam met wat ze gewoon zijn. Onderschat nooit de psychologie van voedsel! 
 
 \newpage
 
@@ -293,3 +372,5 @@ Misschien werkt het zoals mijn broodbakmachine: een deur die opent naar een  wer
 * Gedroogde zuurdesem kan samen met gist gebruikt worden als smaakmaker én rijsmiddel. 
 * Zuurdesem is op te delen in drie verschillende categorieën waarvan Type II en III commercieel op grote schaal verkocht kunnen worden. 
 * Laat mensen gradueel wennen aan de smaak van zuurdesem. Begin met korte rijstijden op een hogere temperatuur. 
+* Voedsel is meer dan ingrediënten, bereiding, en vertering. Denk ook altijd aan de cultuur, de psychologie, en de filosofie ervan. 
+
