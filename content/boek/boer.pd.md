@@ -7,11 +7,46 @@
 
 ### De boer
 
-TODO eiwitgehalte van granen variëert van `6` tot `20%` [@gobbetti2012handbook]. p18
+Ik ken de akkers op de site van Herkenrode al mijn hele leven, maar ik stond er nooit bij stil wat er precies geteeld werd. Het geeft een speciaal gevoel om zelfgebakken brood te eten dat, buiten het Franse zout, honderd procent aan lokale ingrediënten bevat. En met lokaal bedoel ik _lokaal_: het graan groeit in vogelvlucht één kilometer van ons huis. Toen ik Pieter Coopmans, de Herkenrodeboer, leerde kennen, was de Stevoortse molen nog niet gecertificeerd en werd er dus noodgedwongen gemalen in Wallonië. Ondertussen zijn er van het proces heel wat onnodige kilometers afgeschraapt. \nl
+Mijn bloem kocht ik jaren bij Pieter aan huis, waarbij we ondertussen een praatje maakten over (soms letterlijk) koetjes en kalfjes. Voor workshops bestelde ik er af en toe in grotere hoeveelheden. \nl
+Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe die tarwekorrel van zaadje tot fijngemalen bakmateriaal in mijn meelzak belandde. Omdat ik Pieter zijn kant van het bloem verhaal beter wilde begrijpen, spraken we op een avond af om de koetjes en kalfjes achterwege te laten. 
 
-TODO most evolved species Triticum durum en Triticum aestivum - hoogtechnologische evolutie, gekweekt voor maximale opbrengst. Belangrijkste = lokaal kweken, oogsten, en kopen, VS biologisch, VS oudere granen
+'Wat wil je weten, Wouter?' vraagt Pieter, terwijl hij me een lokaal appelsapje inschenkt. \nl
+'Ik zou graag willen weten hoe je bakwaardige tarwe teelt, hoe dat proces in elkaar zit, en welke soorten graan waar gekweekt worden' begin ik. \nl
+'Bakwaardig hé? De meeste Belgische tarwe is dat niet. We hebben één jaar geluk gehad en een eiwitgehalte van `14.5%` gehaald. Maar de zandgrond hier is er eigenlijk niet zo geschikt voor. Voor eiwit heb je stikstof nodig.' \nl
+'Mest, dus' vul ik aan. \nl
+'Juist. Maar de grond mag niet te doorlatend zijn. De kleigrond van Zeeland is ideaal, bijvoorbeeld. En als biologische boer moet je je aan heel wat regeltjes houden op gebied van bemesting. De meeste andere boeren trekken zich daar niets van aan en spuiten op verschillende momenten vloeibare stikstof op het blad, samen met pesticiden. Of ze gebruiken capsules met een harslaag die na zoveel maanden pas de stoffen vrijgeeft. Dan heb je volledige controle en is alles heel wat eenvoudiger.' 
 
-TODO p28 supply with minerals during growing is essential for optimal plant development. Nitrogen fertilization, important to high flour protein content, and thus, increased bread volume. gliadine meer beïnvloed dan glutenine
+'Laat me je eens vertellen wat ik allemaal moet doen om een zak bloem te produceren. Om te beginnen moeten de akkers bemest worden. Dat komt van de boerderij in Lummen, en die moet ik eerst nog drie weken laten liggen en keren. Dan de bedding omploegen. Zaaien, en onkruid regelmatig bijhouden totdat de plantjes te groot zijn om door te rijden. Stro en graan oogsten en dorsen, en laten kuisen in Tongeren. Daarna opnieuw wegrijden naar de opslagruimte, waar het regelmatig gecontroleerd wordt op temperatuur en vochtigheid. Dan hebben we het nog niet over het malen gehad.' \nl
+'Waarom wordt alles niet onmiddellijk gemalen?' \nl
+'In Stevoort is er niet genoeg opslagruimte om bloem te bewaren, en wij mogen dat niet. De Voedselveiligheid is daar veel strenger rond dan de opslag van mijn oogst, omdat het om 'risico voedsel' gaat.' \nl
+'Hoezo?' \nl
+'Wij eten voor bijna `50%` zetmeel in de vorm van graan hé. Dat is eigenlijk enorm veel.' \nl
+'Maar een molenaar mag dat wel stockeren?' vraag ik. \nl
+'Als je maar betaalt... Certificaten kosten geld. Wij malen gewoon op het moment dat er besteld wordt.' \nl
+'Dan moet je je ook geen zorgen maken over oxidatie, neem ik aan.' \nl
+'Verkocht meel is vers gemalen. De koper doet er dan mee wat hij of zij wilt. Of dat nu opslaan of onmiddellijk verwerken is, dat is mijn zorg niet. Ik heb het hier trouwens over groothandel, niet de kleine zakjes van `5 kg` die we aan particulieren verkopen.'
+
+'En het telen van spelt bijvoorbeeld, volgt dat hetzelfde proces?' \nl
+'Wel', zegt Pieter nadat hij een slok van zijn appelsap had genomen, 'ja en neen. Om te beginnen is het zaad al véél duurder, wat zich natuurlijk ook vertaalt in de verkoopprijs. Spelt is vervelend om te dorsen. Het kafblad moet gepeld worden, waarbij het graan kan barsten. De korrel met kaf is groter dan tarwe, en verstopt daardoor regelmatig mijn zaaimachine. De tractor stoppen kost tijd, daar heb je eigenlijk twee mensen voor nodig. Soms zaaien we daardoor te veel op een hoopje. En de opbrengst is veel minder. Sommige rassen tarwe brengen tot acht ton per hectare op. Met spelt kom ik nauwelijks aan twee ton, begrijp je.' \nl
+'Maar dat is omdat ze tarwe selectief telen op zo'n eigenschappen.' \nl
+'Denk je dat ze dat met spelt niet doen? Er wordt geselecteerd op grootte van de korrel, eiwitgehalte, lengte van stro, resistentie tegen vanalles en nog wat, noem maar op. Sommige tarwe rassen brengen zo binnen de vijf jaar bijna het dubbele op, voor dezelfde oppervlakte. Ik kruis zelf ook wat. Dingen door elkaar zaaien, maar niet overdrijven.'
+
+Spelt (_Triticum spelta_) wordt ook wel een oergraan genoemd en is daardoor erg in trek tegenwoordig. De vraag naar spelt is de laatste jaren enorm gestegen omdat goedkope tarwe niet altijd even goed verteert. In feite delen spelt en gewone 'zachte' tarwe (_Triticum aestivum_) de genomen `AABBDD`. \nl
+De échte oergranen zijn emmer of tweekoren (_Triticum dicoccum_) en eenkoorn (_Triticum monococcum_). Emmer deelt de `AABB` genomen met 'harde' durumtarwe (_Triticum durum_) en khorasantarwe (_Triticum turanicum_). Dat laatste is bij ons gekend als 'Kamut', een variant waar een patent op genomen is door een Amerikaan met commerciëel inzicht. \nl
+Spelt is ontstaan door emmer, waar ook een kafblad aan vastzit, te kruisen met wild geitengras, dat het genoom `DD` bijdraagt. Het wordt tegenwoordig met tarwe gekruist om een hogere opbrengst en homogeniteit te garanderen, wat resulteert in onzuivere rassen. Wees dus niet zo naïef door te denken dat speltbloem zoveel beter is. De beste oplossing voor een betere vertering is niet een bepaald graan, maar een trage vergisting. \nl
+Emmer en eenkoorn worden nog nauwelijks geteeld. Artificiële selectie van emmer kruisingen leidden tot een gemakkelijker te dorsen graan: durum. Durumtarwe is in de vorm van pasta erg populair in het Middellandse zeegebied. Het is de op een na meest geteelde soort tarwe, ook al vertegenwoordigt het slechts `10%` van de totale productie. Durum bevat typisch meer eiwitten dan tarwe.
+
+De helpende hand van manuele selectie heeft een grote invloed op de biologische samenstelling van het graan. Oudere, en dus minder intensief gekruiste graansoorten, bevatten over het algemeen meer mineralen, vetten en vitaminen. Er zijn echter weinig studies die deze zogezegde gezondheidsvoordelen kunnen hard maken. \nl
+Daar zijn een aantal redenen voor, volgens onderzoekers Shewry en Hey. Ten eerste worden oude tarwesoorten meestal gekweekt in organische of traditionele landbouwsystemen, terwijl moderne tarwesoorten meestal worden gekweekt met het oog op opbrengst. Ten tweede is het noodzakelijk om voldoende aantallen te analyseren die op meerdere locaties zijn gekweekt. Hun conclusie toont weinig verschil in samenstelling, behalve carotenoïden die kleur aan de bloem geven [@shewry2015ancient]. \nl
+Wat ik hier vooral uit concludeer is dat de manier waarop graan geteeld wordt minstens even belangrijk is als de soort. 
+
+'En hoe zit dat dan precies met winter- en zomertarwe, Pieter? Brengte het ene meer op als het andere?' Ik wist dat sommige soorten granen beter gedijen in bepaalde seizoenen, en dat wintertarwe het meeste eiwitten oplevert. \nl
+'Wintertarwe moet het echt koud gehad hebben en wordt in de herfst gezaaid. Die brengt het meeste op. Die langere periode kan je met zomertarwe onmogelijk nog inhalen. Dat staat al tien centimeter hoog in het vroege voorjaar. Het probleem is dat ik daar met mijn tractor niet meer door kan om te bemesten of je loopt het gevaar de plantjes kapot te rijden. Dan moet je dus sproeien, en dat mag ik niet. Ik plant dus praktisch gezien liever zomertarwe.' \nl
+'En het eiwitgehalte?' vraag ik. Pieter leunt naar voren en zet zijn glas op tafel. \nl
+'Weet je hoe ze dat doen, die grotere molens? Ze kopen alles op en mengen. Als een bakker dan zegt, ik moet `12.5%` hebben, bon, dan zullen die daarvoor zorgen. Maar die bloem komt niet van één akker, vergeet het maar. Winter, zomer, dat maakt dan niets meer uit. Ze kopen bijvoorbeeld _blé dûr_ uit Zuid-Frankrijk en mengen met een beetje Belgisch meel om aan de vraag te kunnen voldoen.' Ik vraag me plots af hoeveel procent van die 'Belgische tarwebloem' in supermarkten effectief Belgisch is... \nl
+'Het resultaat is zoals goedkope honing dan?' \nl
+'Heel juist. Gemengd met suikerstroop. Goedkope rommel.' 
 
 ### De molenaar
 
@@ -98,13 +133,13 @@ Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brou
 'Wat voor u misschien interessanter is om mee te bakken is de draf[^draf].'\nl
 'Draf?' \nl
 'Overschot na het _maischen_. Met het klaren scheiden we vloeistof van ingrediënten als mout en gerst. Het resultaat is langs de ene kant wort, dat verwerkt wordt tot bier, en draf, waar ik niets mee kan doen. Als we hier brouwen om een product te ontwikkelen, zit ik met `30` kg aan draf. Daar zitten nog veel granen besjes in. Bakkers komen dat ophalen om in brood te doen. Meng het wel met genoeg meel, want anders krijg je een hele zware boterham.' Gert klopte met zijn hand op zijn buik om duidelijk te maken dat het brood niet bepaald licht verteert.\nl
-'De bakkerij in Genk aan de rotonde gebruikt dat bijvoorbeeld.' ging hij verder. \nl
+'Die bakkerij op het einde van de Hasseltweg in Genk gebruikt dat bijvoorbeeld.' ging hij verder. \nl
 'Koek en Brood? Leuk, die ken ik. Die hebben wel goed brood, en werken ook met zuurdesem. Dan moet ik daar zeker nog eens naartoe gaan.'\nl
-'Dat is er niet altijd hé. We brouwen hier niet elke week. Pieter is het ook al komen ophalen voor zijn dieren. Grote brouwerijen zitten met tonnen aan draf, dat is allemaal dierenvoeder. Het gist wordt gebruikt door duivenmelkers als krachtvoer. De vogels beschikken over de kracht van de gist als ze dat opeten.' Dat klinkt alsof Gert de Panoramix van de duiven is, die toverdrank in plaats van bier brouwt. \nl
+'Dat is er niet altijd hé. We brouwen hier niet elke week. Pieter is het ook al komen ophalen voor zijn dieren. Grote brouwerijen zitten met tonnen aan draf, dat is allemaal dierenvoeder. Het wordt gebruikt door duivenmelkers als krachtvoer. De vogels beschikken over de kracht van de granen als ze dat opeten.' Het klinkt alsof Gert de Panoramix van de duiven is, die toverdrank in plaats van bier brouwt. \nl
 'Zou ik ook eens een beetje draf mogen gebruiken, om mee te experimenteren in brood?'\nl
 'Natuurlijk. Ik zal u iets laten weten als er beschikbaar is.'
 
-[^draf]: Beter bekend als _bierbostel_. 
+[^draf]: Ook bekend als _bierbostel_. 
 
 Ik wist dat ook het graan van Pieter door Gert gebruikt werd om bier te brouwen: Arvum, Belgisch Blond Bier met een natuurlijk karakter. Op de label van de flesjes staat:
 
@@ -150,9 +185,9 @@ _Storage Recommendations: Store in the fridge._
 
 Recensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken te bakken. In ieder geval ga ik geen `23 l` deeg maken om dit te proberen. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies gebruikt wordt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. 
 
-Ik kocht een Jessenhofke 'TRPL' en gebruikte het bier in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met enkel `100 gr` bloem en `100 gr` bier, dat een nacht op `24 °C` de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg van `200 gr` op basis van zuurdesem. \nl
-De volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit, terwijl de bottelgist van het bier duidelijk nog geen zin had om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. \nl
-Een tweede experiment waarin het water volledig vervangen werd door dit zware bier van `8 °` leerde me dat de relatief hoge alcoholgraad de rijskracht van mijn zuurdesem wel degelijk in de weg zit. Na 4 uur rijzen op een warme dag was er nauwelijks sprake van een luchtig deeg. \nl
+Ik kocht een Jessenhofke 'TRPL' en gebruikte het bier in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met enkel `100 gr` bloem en `100 gr` bier, dat een nacht de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg op basis van zuurdesem. \nl
+De volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit, terwijl de bottelgist van het bier duidelijk nog geen zin had om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. Deze gisten zijn niet gemaakt om op korte tijd te fermenteren. \nl
+Een tweede experiment waarin het water volledig vervangen werd door dit zware bier van `8°` leerde me dat de relatief hoge alcoholgraad de rijskracht van mijn zuurdesem wel degelijk in de weg zit. Na 4 uur rijzen op een warme dag was er nauwelijks sprake van een luchtig deeg. \nl
 Niet alle gisten zijn even tolerant voor alcohol en elke zuurdesemcultuur is uniek. Om het zekere voor het onzekere te nemen gebruik je best een bier/water ratio van 1/1, of grijp je naar bakkersgist. 
 
 Het werd mij duidelijk dat bier voornamelijk smaak aanlevert, en niet rijskracht, ook al gebruik je bier met hergisting op fles. De balans tussen het aroma van bier en de complexiteit van zuurdesem is erg moeilijk om aan te houden. Mijn methode van brood bakken, verder uitgediept in deel III, voorziet meer dan voldoende smaak, aangebracht door zuurdesem, die snel overweldigend werkt op de verdienstelijke bijdrage van het bier. \nl
@@ -176,8 +211,10 @@ Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten 
 
 ### Bier brood met draf
 
-Gert was zo vriendelijk me een beetje draf te geven om uit te proberen in brood. Als je geen toegang hebt tot dit restproduct van bierbrouwen, kan je in de plaats hele tarwe- of gerstgranen grof malen en een uur koken. Deze grote stukken zemelen werken als naalden in het deeg en doorprikken constant de zorgvuldig opgebouwde glutenstructuur. Hoe meer van deze ingrediënten gebruikt worden, hoe moeilijker het wordt om een luchtig brood te bakken. Een andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Gekookte granen leveren immers zelf ook water aan. \nl
-Om in het thema van brouwen te blijven heb ik in deze formule toch bier gebruikt, hetzij met mate. Door de totale rijstijd te reduceren en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
+Gert was zo vriendelijk me een beetje draf te geven om uit te proberen in brood. Als je geen toegang hebt tot dit restproduct van het bierbrouwen, kan je in plaats daarvan hele tarwe- of gerstgranen grof malen en een uur koken. \nl
+Deze grote stukken zemelen werken als naalden in het deeg en doorprikken constant de zorgvuldig opgebouwde glutenstructuur. Hoe meer van deze ingrediënten gebruikt worden, hoe moeilijker het wordt om een luchtig brood te bakken. Door deze grove granen niet aan het begin van het kneden toe te voegen, maar halverwege de eerste rijs, omzeilen we dit probleem gedeeltelijk. \nl
+Een andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Gekookte granen leveren immers zelf ook water aan. \nl
+Om in het thema van brouwen te blijven, is een deel van het water vervangen door bier. Gebruik eender welk lokaal beschikbaar karaktervol bier van hoge gisting. Door de totale rijstijd te reduceren en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
 
 | Hoeveelheid | Percentage | Beschrijving                         |
 |:-----------:|:----------:|:-------------------------------------|

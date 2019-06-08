@@ -3,6 +3,8 @@
 
 > '_For it is we who must pray for our daily bread, and if He grants it to us, it is only through our labour, our skill and preparation._' - Paracelsus
 
+\label{desemdoos}
+
 ### Januari 2015
 
 Een regelmatig wederkerend onderwerp in mijn notitieboekjes is het idee om zuurdesem (terug) onder de mensen te brengen. De website [redzuurdesem.be](https://redzuurdesem.be/) was een eerste logische aanzet. Op die manier kon ik mijn enthousiasme voor brood bakken met de wereld delen. Demonstraties en later uitgebreidere workshops waren stap twee. \nl
@@ -221,7 +223,7 @@ Veel geld verdienen kan dus met behulp van automatisatie en opzet van filialen, 
 
 \index{Lactobacillus!sanfranciscensis}
 
-Het ‘Puratos Center for Bread Flavour’ ligt in Duitstalig België, in een klein heuvelachtig dorpje genaamd Saint-Vith. De naam van het centrum belooft alvast veel. Ik werd er hartelijk ontvangen door Karl De Smedt, de communicatiemanager van de bakkerij afdeling. Karl reist heel de wereld rond op zoek naar nieuwe soorten zuurdesemculturen. Dit zijn mensen die uren kunnen blijven praten over bloem en gist. Ik was aan het juiste adres. \nl
+Het '_Puratos Center for Bread Flavour_' ligt in Duitstalig België, in een klein heuvelachtig dorpje genaamd Saint-Vith. De naam van het centrum belooft alvast veel. Ik werd er hartelijk ontvangen door Karl De Smedt, de communicatiemanager van de bakkerij afdeling. Karl reist heel de wereld rond op zoek naar nieuwe soorten zuurdesemculturen. Dit zijn mensen die uren kunnen blijven praten over bloem en gist. Ik was aan het juiste adres. \nl
 ‘Er zijn veel zuurdesem tradities over heel de wereld. De Grieken fermenteren hun desem met basilicum. In San Francisco werken ze met natte, warme desems. Die cultuur is uniek en bevat de melkzuurbacterie _Lactobacillus Sanfranciscensis_. In Alaska is het erg koud en werd desem vroeger tegen het lichaam gedragen. Lichaamstemperatuur geeft dan weer een andere bacteriecultuur. De omgevingsvariabelen samen met de bloem zorgen voor een unieke smaak.’ Puratos stuurt mensen zoals Karl op ontdekkingstocht om nieuwe bacteriesoorten mee naar huis te brengen. \nl
 ‘Wij werken samen met professor Marco Gobbetti die in zijn laboratorium in Italië alle gisten en bacteriën isoleert. Een rijke cultuur bevat meer dan duizend verschillende soorten. De volgende stap is de geïsoleerde organismen van verschillende culturen te combineren en zo de ideale nieuwe cultuur op te kweken. Zo ontwikkelen wij onze eigen zuurdesem producten. We beschikken momenteel over meer dan vierhonderd verschillende melkzuurbacteriën.’ 
 

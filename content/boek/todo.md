@@ -3,8 +3,8 @@
 
 HIGH PRIO
 
-[ ] Puratos feedback Karl aanpassen
-[ ] Puratos 2de bezoek herschrijven
+[/] Puratos feedback Karl aanpassen
+[X] Puratos 2de bezoek herschrijven
 [ ] Boer hoofdstuk: triticale, granen, telen, ...
 [ ] Boer hoofdstuk: molenaar
 [ ] Peter Schoofs nog niet goedgekeurd
@@ -12,9 +12,9 @@ HIGH PRIO
 [/] Johan Brijosh Tongeren nog niet goedgekeurd
 [ ] Voorwoord door Dimitri laten schrijven
 [X] Synopsis voor indienen bij uitgeverijen
-[ ] Recept einde HF: boer-molenaar-brouwer HF6; draf/bierbrood
+[X] Recept einde HF: boer-molenaar-brouwer HF6; draf/bierbrood
 [ ] Recept einde HF: echte leerschool HF5; high-hydra tarwe/spelt? 
-[ ] Recept einde HF: dagelijks brood verdienen HF7; iets met gedroogd zuurdesem?
+[ ] Recept einde HF: dagelijks brood verdienen HF7; Altamura brood
 
 MEDIUM PRIO
 
@@ -26,6 +26,7 @@ MEDIUM PRIO
 [ ] Nadenken over subtitels datums, wijzigen?
 [/] Goedkeuring schilderij, Worcester Art Museum
 [ ] Dankwoord (pas na inzending)
+[ ] Formule tabellen consequent doen (doeltemp, totale tijd, ... - layouting?)
 
 LOW PRIO
 

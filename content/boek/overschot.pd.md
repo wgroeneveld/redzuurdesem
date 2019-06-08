@@ -65,7 +65,7 @@ Ook cake bakken met overschot van zuurdesem is een geweldige manier om complexit
 
 We ontdekten in hoofdstuk \ref{microbio} dat het gebruik van zuurdesem niet alleen smaak toevoegt, maar ook voedsel beter verteerbaar, en dus misschien zelfs wel gezonder, maakt. Onderzoek heeft aangetoond dat mensen die gluten moeilijk verteren dit plots wel beter konden in de aanwezigheid van verschillende soorten bacteriën en gisten [@poutanen2009sourdough]. Er is geen wetenschap nodig om te bevestigen dat een groot bord spaghetti opeten snel tot een opgeblazen gevoel leidt. Dat komt omdat gekookte tarwebloem geen kans heeft gekregen om te fermenteren, terwijl dat heel anders ligt bij gegist deeg. Er is geen 'tweede maag' aan de pas gekomen die het eten voor ons heeft voorgekauwd. Denk aan het snel rijzende Iers sodabrood, ten opzichte van traag rijzend zuurdesembrood. Om dat probleem gedeeltelijk op te lossen kan je buiten minder eten zuurdesem toevoegen aan pastadeeg. Het is uiteraard niet de bedoeling om het deeg te doen rijzen, maar om een deel te fermenteren zodat het voor onze maag en darmen iets minder zwaar wordt. Pastadeeg is in vergelijking met brooddeeg erg droog, dus vochtig overschot van desem toevoegen kan maar in beperkte mate. Een alternatief is een gedeelte of het geheel aan bloem op voorhand te fermenteren met minder dan `50%` water. Zoals bij de pannenkoeken worden eieren pas daarna toegevoegd indien nodig. 
 
-#### Als smaakmaker voor ontbijtgranen
+#### Als beter verteerbare ontbijtgranen
 
 \index{Porridge}
 \index{Ontbijtgranen}
@@ -116,6 +116,16 @@ Zeg nu nog eens dat die stinkende pot azijn in de koelkast niet veelzijdig kan z
 > _To tan small hides such as mink, rabbit, ermine or muskrat, first wash the hide with lukewarm soapy water, using a mild soap. Lay the skin on a  at board, hair side down. Cover it with a thick batter of sourdough. When dough begins to dry, start working the skin. Rub it with a circular motion against the palm of the left hand. Rub and knead the skin until it is dry and soft._[^uaf]
 
 Volgens diezelfde bronnen zou zuurdesem ook gebruikt worden om lijm te maken, maar die bewering was nog moeilijker te verifiëren. Dat het plakkerig is ligt voor de hand, maar of het blijft hangen is een andere zaak. 
+
+#### Gedroogd als smaakversterker
+
+Deze manier om gedroogde desem als smaakversterker te gebruiken heb ik via Karl De Smedt van Puratos leren kennen. Hij noemt het '_fleur de levain_'. In plaats van het zoute _fleur de sel_ kan ook dit zure poeder propvol umami gebruikt worden om gerechten af te werken[^fleurlevain]. \nl
+Het is eenvoudig zelf te maken door verdunde desem in de oven te laten drogen. Hoe hoger de temperatuur van de oven, hoe donkerder het eindresultaat, en hoe nootachtiger en gebrander de smaak. Ook met de hoeveelheid water en de fermentatietijd kan je spelen om de intensiteit van het poeder te bepalen. \nl
+Karl raadde me aan om dit te gebruiken in plaats van gewone tarwebloem om een werkoppverlvak te bebloemen, bij het maken van pizza's bijvoorbeeld. De smaak van de eerste hap wordt versterkt door dit veelzijdig poeder, dat plakt aan de korst tijdens het bakken. 
+
+Dit proces wordt bij Puratos op grote schaal gebruikt om hun gedroogde type III desems mee te produceren. Het kan dan dienen als smaakmaker, maar niet als rijsmiddel. Edelgistvlokken, dat onder andere verkocht wordt in natuurvoedingswinkels als veganistisch alternatief voor Parmezaan, is dan _fleur de levure_, een gedeactiveerde giststam van _Saccharomyces cerevisiae_. 
+
+[^fleurlevain]: In feite kan _fleur de levain_ gebruikt worden om het zoutgehalte in brood te verlagen. De zure smaak met zoute toetsen geeft dezelfde sensatie in de mond, ook al zit er helemaal geen zout in. 
 
 ### Te veel gebakken brood
 
