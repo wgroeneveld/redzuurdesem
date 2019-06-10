@@ -393,7 +393,7 @@ Waarvan voor het voordeeg (`10%` van de bloem):
 Methode:
 
 - _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
-- _Dag 1, 23u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
+- _Dag 1, 23u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 07u00_: 10min. kneden op hoge snelheid. Doeltemperatuur: `24 °C`.
 - _Dag 2, 07u10_: 2,5u. bolrijs
 - _Dag 2, 09u40_: 10min. Vormgeven, twee keer bestrijken met eigeel.

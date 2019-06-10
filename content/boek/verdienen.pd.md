@@ -376,3 +376,39 @@ Gek genoeg, maar niet helemaal onverwacht, verkozen mijn ouders het Californisch
 * Laat mensen gradueel wennen aan de smaak van zuurdesem. Begin met korte rijstijden op een hogere temperatuur. 
 * Voedsel is meer dan ingrediënten, bereiding, en vertering. Denk ook altijd aan de cultuur, de psychologie, en de filosofie ervan. 
 
+\newpage
+
+### Altamura brood
+
+Dit is zonder twijfel een van de lastigste formules die ik ooit heb geprobeerd. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in tabel \ref{tabledurum}. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum 'drinkt veel', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. \nl
+Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 gr` verse gist toe en verminder je de eerste rijstijd met de helft. 
+
+| Hoeveelheid | Percentage | Beschrijving                    |
+|:-----------:|:----------:|:--------------------------------|
+| `1000 gr`   | `100%`     | _durum_ tarwebloem, fijngemalen |
+| `740 gr`    | `74%`      | Water                           |
+| `20 gr`     | `2%`       | Grijs zeezout                   |
+
+Table: Formule voor gouden Altamura brood met _Triticum durum_. \label{tabledurum}
+
+Waarvan voor het voordeeg (`20%`):
+
+> `200 gr` _durum_ tarwebloem \newline
+> `200 gr` water \newline
+> `1 el` zuurdesem starter 
+
+Methode:
+
+- _Dag 1, 19u00_: Starter uit koeling. Verversen op kamertemperatuur.
+- _Dag 1, 23u00_: Tweede keer verversen. 
+- _Dag 2, 07u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
+- _Dag 2, 12u00_: Voordeeg in koeling.
+- _Dag 2, 16u00_: Intensief kneden. Eerste rijs aanvankelijk op `24 °C`.
+- _Dag 2, 23u00_: Vorm geven. Tweede rijs in koeling op `6 °C`.
+- _Dag 3, 08u00_: Bakken.
+- _Dag 3, 08u50_: Afkoelen en proberen wachten met proeven.
+
+De werkwijze wijkt op een aantal vlakkan af van de standaard methode op pagina \ref{bakkenhf}. Om te beginnen hanteer ik frequente voedertijden om de vier uur om de starter zo jong mogelijk te houden, voordat een stukje daarvan verdwijnt in het voordeeg. Op die manier verlaagt de aciditeit en stijgt de potentiële rijskracht. Het is niet nodig om een zuurdesemcultuur vanaf nul op te kweken op basis van durumtarwe, je huidige desem omzetten zoals beschreven op pagina \ref{desemswap} werkt net zo goed.\nl
+Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 gr` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. 
+
+Dit goudgele brood heeft geen zemelen en rijst daardoor erg traag in vergelijking met andere formules. Zeven uur fermenteren lijkt erg lang, maar zonder gist heeft dit deeg zo'n tijd zeker nodig. De tweede rijs in de koeling is relatief kort. Het resultaat is een prachtige explosie in de oven en een aangenaam zachte maar toch complexe nootachtige smaak in de mond. 

@@ -78,16 +78,16 @@ Van oudsher wordt tarwebrood voornamelijk in Frankrijk gebakken, en roggebrood i
 
 Table: Formule voor tarwe boerenbrood. `15%` volkoren, `70%` hydratatie.
 
-Waarvan voor het voordeeg (`15%`):
+Waarvan voor het voordeeg (`10%`):
 
-> `150 gr` roggemeel, volkoren \newline
-> `150 gr` water \newline
+> `100 gr` roggemeel, volkoren \newline
+> `100 gr` water \newline
 > `1 el` zuurdesem starter 
 
 Methode:
 
 - _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
-- _Dag 1, 20u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
+- _Dag 1, 20u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 10u00_: Autolyse. 
 - _Dag 2, 10u30_: Zout toevoegen. Kneden. Eerste rijs op `24 °C`.
 - _Dag 2, 15u00_: Vorm geven. Tweede rijs in koeling op `6 °C`.
@@ -135,7 +135,7 @@ En voor het weken (`30%`):
 Methode:
 
 - _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
-- _Dag 1, 20u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. Een deel van het meel weken in kokend water. 
+- _Dag 1, 20u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. Een deel van het meel weken in kokend water. 
 - _Dag 2, 10u00_: Kneden. Eerste rijs op `26 °C`.
 - _Dag 2, 13u00_: Vorm geven. Tweede rijs op `26 °C`.
 - _Dag 2, 14u30_: Bakken.
@@ -166,9 +166,9 @@ Rogge gaat geweldig goed gepaard met noten en zaden. `50%` volkoren rogge met `2
 
 \label{valsspelen}
 
-Bakken met zuurdesem hoeft niet te betekenen dat commerciële varianten van gist verafschuwd moeten worden. In feite kunnen beide rijsmiddelen de perfecte combinatie vormen voor de drukbezette bakker die toch smaak wenst te injecteren in zijn of haar deeg. Dit principe hanteer ik ook als ik zelf workshops van enkele uren geef, zoals het demonstratiebrood uit hoofdstuk \ref{demonstratiebrood}. \nl
+Bakken met zuurdesem hoeft niet te betekenen dat commerciële varianten van gist verafschuwd moeten worden. Zoals we gezien hebben in deel I, kunnen in feite beide rijsmiddelen de perfecte combinatie vormen voor de drukbezette bakker die toch smaak wenst te injecteren in zijn of haar deeg. Dit principe hanteer ik ook als ik zelf workshops van enkele uren geef, zoals het demonstratiebrood uit hoofdstuk \ref{demonstratiebrood}. \nl
 In tegenstelling tot veel 'beginners recepten voor zuurdesem' is het géén goed idee om hier onmiddellijk mee van start te gaan voordat voldoende broden met alleen maar desem gebakken zijn. Gist schudt immers je hele tijdsschema door elkaar, zelfs de kleinste toevoeging van gedroogde korrelgist kan een fiasco betekenen. \nl
-Brood wordt zeer frequent met gist én desem gemaakt om de productie te kunnen opdrijven zonder te veel aan smaakverlies te lijden. Ik zou er altijd voor kiezen om deeg voldoende rusttijd te geven. Jeffrey Hamelman gebruikt in elk rogge zuurdesembrood ook gist om het brood voldoende te laten opkomen bij gebrek aan gluten. Mij maakt het minder uit hoe goed roggebrood rijst, zolang het maar geen baksteen is (dat is op te lossen met voldoende water). 
+Brood wordt zeer frequent met gist én desem gemaakt om de productie te kunnen opdrijven zonder te veel aan smaakverlies te lijden. Ik zou er altijd voor kiezen om het deeg voldoende rusttijd te geven. Jeffrey Hamelman gebruikt in elk rogge zuurdesembrood ook gist om het brood voldoende te laten opkomen bij gebrek aan gluten. Mij maakt het minder uit hoe goed roggebrood rijst, zolang het maar geen baksteen is (dat is op te lossen met voldoende water). 
 
 Door de combinatie van gist en zuurdesem wordt het deeg ook wel een _hybride_ deeg genoemd. Als je, in tegenstelling tot wat ik in hoofdstuk \ref{kabouter} gedaan heb, de kabouter in de broodbakmachine nog niet op pensioen hebt geplaatst, is dit de aangeraden methode om zuurdesembrood te bakken met de machine. Bakprogramma's liggen vaak vast op vier uur. Op die tijd smaak kweken is moeilijk, tenzij met de toevoeging van een zuurdesem voordeeg. Op vier uur tijd is volume kweken met enkel zuurdesem moeilijk, tenzij met de toevoeging van commerciële gist. \nl
 In dit geval vullen beide rijsmiddelen elkaar aan. De smaak komt van het voordeeg en het volume van de gist. Om het maximum uit het voordeeg te halen fermenteer je best zo veel mogelijk op voorhand, waarvan bij voorkeur volkoren granen. De formule van het tarwe boerenbrood ziet er dan als volgt uit:
@@ -193,7 +193,7 @@ Waarvan voor het voordeeg (`30%`):
 Methode:
 
 - _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
-- _Dag 1, 20u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
+- _Dag 1, 20u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 10u00_: Voordeeg en rest van ingrediënten in bakmachine en starten. 
 - _Dag 2, 12u00_: Afkoelen.
 
@@ -204,7 +204,7 @@ De royale hoeveelheid zout in de originele formule is nodig om de gisten en melk
 
 [^maal3]: Dat betekent `1.2%` in plaats van `0.4%` ten opzichte van het totaal gewicht van bloem. 
 
-Typische rijstijden voor hybride deeg zonder de broodbakmachine zijn anderhalf uur als eerste rijs en een uur als tweede rijs. Deze methode wordt vaak toegepast voor onder andere baguettes. Soms komt er echter geen zuurdesem aan de pas. In dat geval is de aangenomen manier om smaak toe te voegen nog steeds een voordeeg gebruiken, maar dan in de vorm van een _poolish_ of _biga_: bloem en water dat met een minimale hoeveelheid aan gist een nacht heeft gerezen. Bovenstaande formule verandert niet. \nl
+Typische rijstijden voor hybride deeg zonder de broodbakmachine zijn anderhalf uur als eerste rijs en een uur als tweede rijs. Deze methode wordt vaak toegepast voor onder andere baguettes. Soms komt er echter geen zuurdesem aan de pas. In dat geval is de aangewezen manier om smaak toe te voegen nog steeds een voordeeg, maar dan in de vorm van een _poolish_ of _biga_: bloem en water dat met een minimale hoeveelheid aan gist een nacht heeft gerezen. Bovenstaande formule verandert niet. \nl
 De methode wordt dan nog eenvoudiger:
 
 - _Dag 1, 20u00_: Voordeeg met gist maken op kamertemperatuur. 
@@ -212,7 +212,7 @@ De methode wordt dan nog eenvoudiger:
 - _Dag 2, 12u00_: Afkoelen.
 
 Hoeveel van de totale hoeveelheid gist je nu precies nodig hebt voor het voordeeg hangt af van het type brood dat je wenst te bakken. Meestal is dat érg weinig, waardoor vagere instructies zoals '_een snuifje_' de kop op steken in receptenboeken. Mijn ervaring leert me dat `1 gr` van die `4 gr` vaak al te veel is, maar dat hangt ook af van temperatuurschommelingen in mijn keuken. \nl
-Ik gebruik deze methode nauwelijks, omdat ik toch wekelijks mijn zuurdesemcultuur moet verversen, dus waarom niet het gewoon gebruiken? \nl
+Ik gebruik deze methode nauwelijks, omdat ik toch wekelijks mijn zuurdesemcultuur moet verversen, dus waarom het niet gewoon gebruiken? \nl
 In De Superette wordt voor croissantdeeg twee soorten voordeeg gebruikt, zowel op basis van desem als op basis van gist. Croissantdeeg heeft veel ondersteuning van gisten nodig om die boterlaagjes naar boven te laten rijzen. Een _poolish_ bevat meer gistcellen dan melkzuurbacteriën in vergelijking met een typische zuurdesemcultuur. Dat is vrij logisch, aangezien je enkel gist gebruikt hebt om het op te kweken. 
 
 Met de 30 uur van het tarwe boerenbrood kan dus gerust gespeeld worden. De toevoeging van gist hoeft niet te betekenen dat de tweede rijs niet in de koeling kan plaatsvinden. Gebruik gewoon (veel) minder dan `4 gr` en houd het zoutpercentage hoog genoeg. Gedroogde gist die in de winkelrekken in individueel verpakte zakjes verkocht wordt bevat meestal `7 gr`. Gebruik nooit het hele zakje voor één brood, ook al staat dit aangegeven. Het merk 'Dr. Oetker' instrueert bijvoorbeeld om op `500 gr` bloem de inhoud van het hele zakje te gebruiken, omgerekend `1.4%` gedroogde gist. Die hoeveelheid zal je brood bijna even snel doen rijzen als de sandwiches van Syntra uit hoofdstuk \ref{leerschool}.
@@ -237,6 +237,8 @@ Wat ook ten strengste verboden zou zijn is zout rechtstreeks op gist strooien. V
 Bakken met zuurdesem betekent niet dat brood ook effectief _zuur_ moet zijn. Die aversie voor een pittige smaak komt onwaarschijnlijk van een slechte ervaring met Duits roggebrood. Deze bewering hebben we al voldoende ontkracht in hoofdstuk \ref{microbio}. Een aantal mogelijke oplossingen zijn je zuurdesemcultuur vaker voeden en sneller gebruiken, minder lang gekoeld fermenteren, en minder volkoren granen gebruiken. Franse _Levain_ is dankzij de werkwijze typisch minder zuur dan Amerikaanse _Sourdough_, niet dankzij de lokale bloem.
 
 Een cultuur opstarten heeft geen 'extra' toegevoegde gisten of bacteriën nodig in de vorm van fruit of fruitsap. De schil van een druif bevat inderdaad ook organismen, maar daar zijn er meer dan genoeg van nature aanwezig in het meel. Gebruik in ieder geval zo veel mogelijk biologisch materiaal. Pesticiden zijn niet alleen slecht voor je eigen gezondheid, maar ook voor de micro-organismen die je wenst te vangen. Een 'zeer oude' cultuur die al jaren gevoed wordt is helemaal niet beter dan een pas opgestarte. De nieuwe cultuur heeft enkele weken nodig om te stabiliseren. Daarna is die mogelijks zelfs actiever dan de oude. De levensverwachting van gisten en melkzuurbacteriën is veel minder dan een jaar. Een regelmatig onderhouden 'oude' cultuur bevat in feite afstammelingen of concurrenten van de originele organismen. 
+
+\label{desemswap}
 
 Als een recept voor zuurdesem op basis van rogge vraagt, maar die van jou is op basis van tarwe, dan is het niet altijd nodig om opnieuw vanaf nul op te kweken. Gebruik gewoon je tarwe starter om de rogge cultuur een kickstart te geven. Na twee dagen verversen zal er nog nauwelijks iets overblijven van de tarwe. Tegenwoordig doe ik zelfs die moeite niet meer. Slechts één eetlepel van mijn actieve desem is voldoende om een grote hoeveelheid deeg te fermenteren. Of dat nu op basis van tarwe, rogge, of kikkererwten is doet er dan maar weinig toe. Wat wel klopt is dat de samenstelling van de micro-organismen zal verschillen afhankelijk van het graan waar je je desem mee hebt opgestart. De wisselwerking tussen gisten en melkzuurbacteriën stabiliseert na een tijdje, dat zelfs jarenlang dezelfde samenstelling kan blijven[^kanbl] [@de2005sourdough]. Dat betekent dat _die-hards_ die voor elke situatie een nieuwe desem samenstellen misschien toch een unieke _Lactobacillus_ of twee extra weten te vangen, ten opzichte van de luierikken zoals ik. 
 

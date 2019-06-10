@@ -39,7 +39,7 @@ Emmer en eenkoorn worden nog nauwelijks geteeld. Artificiële selectie van emmer
 
 De helpende hand van manuele selectie heeft een grote invloed op de biologische samenstelling van het graan. Oudere, en dus minder intensief gekruiste graansoorten, bevatten over het algemeen meer mineralen, vetten en vitaminen. Er zijn echter weinig studies die deze zogezegde gezondheidsvoordelen kunnen hard maken. \nl
 Daar zijn een aantal redenen voor, volgens onderzoekers Shewry en Hey. Ten eerste worden oude tarwesoorten meestal gekweekt in organische of traditionele landbouwsystemen, terwijl moderne tarwesoorten meestal worden gekweekt met het oog op opbrengst. Ten tweede is het noodzakelijk om voldoende aantallen te analyseren die op meerdere locaties zijn gekweekt. Hun conclusie toont weinig verschil in samenstelling, behalve carotenoïden die kleur aan de bloem geven [@shewry2015ancient]. \nl
-Wat ik hier vooral uit concludeer is dat de manier waarop graan geteeld wordt minstens even belangrijk is als de soort. 
+Zoals gewoonlijk manen wetenschappelijke publicaties ons tot voorzichtigheid, in plaats van één graansoort als dé oplossing te beschouwen. Wat ik hier vooral uit concludeer is dat de manier waarop graan geteeld wordt minstens even belangrijk is als de soort. 
 
 'En hoe zit dat dan precies met winter- en zomertarwe, Pieter? Brengte het ene meer op als het andere?' Ik wist dat sommige soorten granen beter gedijen in bepaalde seizoenen, en dat wintertarwe het meeste eiwitten oplevert. \nl
 'Wintertarwe moet het echt koud gehad hebben en wordt in de herfst gezaaid. Die brengt het meeste op. Die langere periode kan je met zomertarwe onmogelijk nog inhalen. Dat staat al tien centimeter hoog in het vroege voorjaar. Het probleem is dat ik daar met mijn tractor niet meer door kan om te bemesten of je loopt het gevaar de plantjes kapot te rijden. Dan moet je dus sproeien, en dat mag ik niet. Ik plant dus praktisch gezien liever zomertarwe.' \nl
@@ -236,7 +236,7 @@ Waarvan voor het voordeeg (`10%` van de bloem):
 Methode:
 
 - _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
-- _Dag 1, 23u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. 
+- _Dag 1, 23u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24 °C`.
 - _Dag 2, 07u10_: 1u. Bolrijs I.
 - _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bolrijs II.
