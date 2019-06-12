@@ -520,24 +520,49 @@
 	"buffers":
 	[
 		{
-			"contents": "\n## De esthetiek van brood\n\n> '_The human soul needs actual beauty more than bread._' - D.H. \\mbox{Lawrence}\n\n### Structuur\n\n'Amai, deze is echt mooi!'\\nl\n'Ja, en groot. Wat een _joekel_. Raak eens aan?' \\nl\n'Neenee, nog niet, anders is het al besmeurd.' \\nl\n'Je weet dat je het wilt... Het ziet er hard uit.' \\nl\n'Oké, heel even dan.'\\nl\n'Ik zal niet kijken!'\n\n\\index{Poilâne}\n\\index{Miche}\n\nVoordat iemand de verkeerde conclusie trekt: we bevinden ons in het hartje van Parijs, in één van de legendarische Poilâne bakkerijen. Dimitri, Tom en ik schuimden dat weekend alle bakkerijen in kleine en grote straten af, op zoek naar geweldig uitziend en smakend brood (en croissants, en vooral ook aardbeienbavarois). Poilâne staat bekend om zijn _miches_, een heel groot rustiek rond brood versierd met een prachtige bebloemde '`P`'. Dat groot en hard ding dat we aan het bewonderen waren, was een zopas aangekochte _demi_ miche. De broden zijn zo groot (meer dan `2 kg`) dat ze in halven of kwarten verkocht worden. Het brood is niet ingesneden, en heeft dus geen mooie opengebloeide korst. Het is evenmin prachtig van kleur of vorm. En toch doet het zicht van de uitgestalde miches je 'wow' zeggen als je voorbij de vitrine van de bakkerij wandelt. De reden is niet alleen ruwe kracht en eenvoud, maar ook respect. Als bakker herken je immers of er veel of weinig water bij aan de pas kwam, dus of het moeilijk of makkelijk was om zo'n deeg de baas te blijven. \n\nBrooddeeg heeft buiten de belangrijke gistingtijden namelijk ook nog een vorm nodig, als je niet wilt dat het als een platte pannenkoek uit de oven valt. Brood vorm geven is voor mij dé moeilijkste stap in het hele broodbakproces. Tijdens het bakken ondergaat het deeg een metamorfose die de structuur, vorm en kleur mee bepaalt. Deze veranderingen worden in de oven op gang gezet door expansie van volume, verdampen van water, vorming van een poreuze structuur die wij 'kruim' noemen, verandering van eiwitstructuur, gelatinisatie van\nzetmeel, korstvorming en bruiningsreacties [@miguel2013enzymes]. Iedereen koopt graag een brood dat er 'goed' uit ziet. Wat is het verschil tussen een sterrenrestaurant en een gewone zaak? Het éérste verschil, wat onmiddellijk opvalt, is de presentatie. Voordat je ook maar iets naar binnen kan werken, hebben je ogen al gegeten. Presenteren is voor een bakker minstens even belangrijk als voor een chef. Top patissiers zijn erg goed in het variëren van smaak en vorm. Patisserie wordt om een of andere reden kritischer beoordeeld met het oog dan brood. Ik neem aan dat brood meer aanschouwd wordt als een noodzakelijk kwaad. 'Ik moet nu eenmaal iets eten.' Wanneer je een brood koopt, en er is geld over voor een éclair, dan 'verwen je jezelf'. Als je enkel dat brood koopt, dan 'moet een mens nu eenmaal eten'. Waarom zou je jezelf niet kunnen verwennen met brood? \n\nIn de praktijk heeft het natuurlijk te maken met de grootte en de ingrediënten. Met suiker worden enorme pronkstukken gemaakt, maar dat wil ik niet op mijn brood hebben. De eindeloze combinaties die verkocht worden bij 'L’Éclair de Génie' in het vierde arrondissement zijn mogelijk doordat men kan spelen met onder andere de toplaag (ganache, aardbeien, munt, citroen, ...), de pudding (vanille, pistache, caramel, amandel, ...), en de vorm. En toch is _less_ vaak ook _more_, zoals de miches van Poilâne. \n\n\\index{Calvel, Raymond}\n\\index{Autolyse}\n\nOm te begrijpen hoe brood zijn vorm behoudt blijven we nog even in Frankrijk. Professor Raymond Calvel heeft de tweede wereldoorlog meegemaakt. Na de oorlog is het industrialisatieproces van brood in vierde versnelling geschoten. Zelfs in zijn geliefd Frankrijk werd brood nog nauwelijks _a l'ancienne_ gemaakt: hoe meer gebakken op korte tijd, hoe beter. Bakkers werden verleid door het ingeburgerd kapitalistisch wereldbeeld en de dalende prijs van machinerie. Wat er echter nog daalde, was de kwaliteit en de smaak van het typisch Frans brood. Professor Calvel is een van de beroemdste voorvechters verantwoordelijk voor de heropleving van oude tradities in het broodbakken. Zijn boek 'Le Goût du Pain' puilt uit van de technische informatie over gluten structuren, tarwesoorten en vorm van brood [@calvel]. Calvel is vandaag vooral gekend om de ontwikkeling van de _autolyse_ techniek. \n\nTarwedeeg heeft twee fysiek waarneembare eigenschappen: _elasticiteit_ en _uitrekbaarheid_. Dit is te danken aan twee groepen van gluten eiwitten in tarwe: _glutenine_ zorgt voor de elasticiteit, en _gliadine_ voor de uitrekbaarheid. De juiste balans tussen deze twee eigenschappen zorgt voor een superieur brood op gebied van kruim en vorm [@barak2013relationship]. \\nl\nHet totale eiwitgehalte van bloem is niet de enige indicator om volume van brood te voorspellen. Te weinig elasticiteit kan tot een gebakken baksteen leiden. Te veel elasticiteit belemmert de uitzetting van gascellen. Opnieuw een baksteen. \\nl\nNa decennia gekibbel zijn wetenschappers het nog steeds niet eens wat de juiste verhouding tussen glutenine en gliadine zou moeten zijn om hét perfecte brood uit de oven te toveren. Wat wel zeker is, is dat zout inspeelt op de ionische bindingen van deze twee eiwitten, en dus een grote invloed heeft op de kracht van het deeg [@gobbetti2012handbook]. \n\n\\index{Gluten}\n\\index{Gluten!Glutenine}\n\\index{Gluten!Gliadine}\n\nDeze eiwitten haken zich aan elkaar vast zodat lucht gevangen wordt en brood kan rijzen. Dit vasthaken is echter ook een vervelend probleem om met het deeg te werken. Kneden wordt dankzij diezelfde gluten moeilijker. De enzymen die we leerden kennen in hoofdstuk \\ref{microbio} spelen hier een grote rol in. Amylase is niet het enige belangrijke enzym dat in bloem zit. Voor de structuur van het deeg zijn de volgende enzymen belangrijk:\n\n\\label{enzym}\n\\index{Enzymen}\n\\index{Enzymen!Protease}\n\\index{Enzymen!Lipase}\n\\index{Enzymen!Xylanase}\n\\index{Enzymen!Glucose-oxidase}\n\\index{Hydrolyse}\n\n* _Protease_. Dit enzym breekt aminozuren tussen eiwitten af. Dat klinkt niet goed, aangezien de zorgvuldig opgebouwde gluten structuur juist nodig is om brood te doen rijzen. Gelukkig genoeg zijn deze jongens vrij bescheiden in hun werk. Ze maken het voor de bakker gemakkelijker om deeg te kunnen kneden. \n* _Glucose-oxidase_. Maakt door een oxidatiereactie met de gluten het deeg krachtiger en elastischer. \n* _Lipase_. Lipase helpt de luchtigheid er in te houden wanneer het deeg te lang gerezen heeft. Dit enzym versnelt de opneembaarheid van aanwezige vetten[^hydro] (lipiden).\n* _Xylanase_. Een typische 'conditioner' die het deeg handelbaarder maakt. Hiermee wordt vaak een verbeterde mechanische bewerkbaarheid[^bewerk] bedoeld.\n\n[^hydro]: Dit proces noemt men _hydrolyse_, de splitsing van een chemische verbinding onder opname van water. Hydrolyse werkt als het omgekeerde van condensatie, de vrijgave van water. \n\n\\index{Pentose}\n\nDe autolyse fase zorgt er via protease voor dat het deeg werkbaar is. Deze fase is niets meer dan een rust fase voordat gist, desem en zout toegevoegd wordt aan het deeg. Bloem en water worden heel kort gemengd, totdat er geen droge bloem meer zichtbaar is. De kneedmachine wordt stilgelegd om de bloem tijd te geven het water op te nemen. Bevochtigd bloem betekent de start van gluten vorming, maar ook de activatie van protease die deze gluten enigszins verzacht. Een autolyse fase invoeren betekent extra tijd vrijmaken. Industriële processen hebben die tijd niet, en gebruiken onder andere toegevoegde pentosen[^pentose] om meer water te kunnen opnemen. Hoe meer tijd deeg krijgt, hoe meer gluten gevormd worden zonder manuele interventie in de vorm van kneden. Het voordeeg van een zuurdesemdeeg heeft uren nodig gehad om smaak en gisten te ontwikkelen. Calvel's autolyse marginaliseert de nood aan kneden nog meer. \n\n[^bewerk]: _Machinability_ is een belangrijk onderwerp van wetenschappelijk onderzoek naar brood. Jammer genoeg heeft dit maar één reden: opbrengst. \n[^pentose]: Een polysacharide. Zie hoofdstuk \\ref{microbio:suikers}.\n\n_No-knead bread_ is een erg populaire zoekterm in Google. Goede recepten zullen zeker een autolyse stap bevatten. Maar dat is niet de enige manier om deeg meer kracht en structuur te geven zonder veel te moeten kneden. Soms is het deeg zo nat, dat het bijna niet kneedbaar is. In die gevallen wordt er niet gekneed, maar _gevouwen_. Inderdaad: vouwen, zoals een brief of de was. Het deeg wordt uitgestort op een werkoppervlakte, waarna één derde naar binnen gevouwen wordt. Het ander uiteinde wordt daarop gevouwen, en men herhaalt de stappen na 90° draaien. Die hoop gevouwen deeg wordt met enkele snelle bewegingen terug in de container geplaatst om verder te rijzen. Dit proces herhaalt zich een aantal keer tijdens de eerste rijs. Bij het opbollen voel je duidelijke opgebouwde spanning dankzij dat vouwproces. Zonder vouwen komt slap deeg als een pannenkoek uit de oven. \n\nEen laag of hoog eiwitgehalte is dus niet het grootste verschil tussen een plat of een mooi gerezen brood. In Frankrijk worden sommige broden met een laag eiwitgehalte gebakken. Tarwe met minder dan `10%` eiwit wordt aanschouwd als _zachte_, of _zwakke_ tarwe. _Harde_ tarwe bevat meer eiwitten. Ook de oogsttijd beïnvloedt het eiwitgehalte. Tarwe geplant in het najaar en geoogst na de lente noemt men (zachte of harde) _wintertarwe_. Tarwe geplant in het voorjaar en geoogst in datzelfde najaar noemt men (zachte of harde) _lentetarwe_. Harde wintertarwe heeft een eiwitgehalte van `10` tot `12%`. Voor harde lentetarwe is dit `12` tot `14%`. Werken met zachte tarwe voelt zelfs voor een leek heel anders aan dan werken met harde tarwe. \n\nZachte of harde tarwe heeft niets te maken met de gekende Italiaanse '`00`' bloem! _Tipo `00`_ is een aanduiding voor uitmalingsgraad, zoals de Franse `T65`. Dit is de fijnste graad van bloem in Italië en heeft de consistentie vergelijkbaar met talkpoeder. In Nederland is deze bloem verkrijgbaar onder de naam 'Zeeuwse bloem'. `00` bloem is beschikbaar in verschillende eiwitgehaltes en dient vaak eerder voor pasta of pizza te maken dan voor brood. De methode voor pizzadeeg is inderdaad exact hetzelfde als voor brooddeeg, maar met deze bloem heb je veel minder water nodig. Na het zeven blijft er enkel nog een deel van het kiemwit van de tarwe bes over. De uitgezeefde (restjes van) zemelen helpen om vocht te absorberen. De hoofdredenen om `00` bloem te gebruiken in pizzadeeg is het verminderen van de taaiheid van de korst, en de uitrekbaarheid tot de limiet kunnen drijven. De elasticiteit van brooddeeg zit soms in de weg bij het maken van een goede pizza. In dat geval is voldoende rusttijd belangrijk. \n\nIk gebruik nooit erg uitgezeefde bloem. Zoals Sarah in De Superette ook al zei: '`T65` is zo wit als ik wil gaan'. Een bijkomend voordeel is plaats in de kast. Ik hoef geen patentbloem te kopen voor cakes en taarten, en geen Italiaanse `00` bloem voor pizza. Overal gaat `T65` (of hoger) in. Dat betekent dat mijn cake niet zo mals is als zou moeten, en dat mijn pizza niet zo knapperig is als zou moeten. Langs de andere kant betekent dit ook dat mijn cake meer voedingsstoffen bevat dan de luchtigere variant. Net zoals de `00` notatie, garandeert `T65` geen hoog eiwitgehalte. Meelzakken in supermarkten beschrijven nooit over welk soort tarwe het gaat, laat staan in welk seizoen het geoogst zou worden. Je mag al van geluk spreken dat je kan achterhalen in welk land het graan geteeld werd. Sommige labels, zoals het wettelijk vastgelegde EU biolabel[^bio], verplichten de aanwezigheid van die informatie. Een goede inschatting gebaseerd op de hoeveelheid aanwezige eiwitten is accuraat genoeg. Nog een reden om bij een lokale molenaar bloem te kopen. \n\nOp moment van schrijven bevinden zich een aantal meelzakken in mijn voorraadkast, waarvan de volgende eigenschappen af te lezen zijn:\n\n* Molens van Oudenaarde 'Witte bio Tarwebloem `T65`'. Beschrijving: Witte bloem gemalen van Belgische bio tarwe (`T65`). Max. vochtgehalte: `15.5%`. `11,4 g` eiwitten.\n* Kortweg Natuur biomeel 'roggemeel'. Beschrijving: Biologisch roggemeel. Inclusief informatie over landbouwers, de molen, in pak en verwerker. `10 g` eiwitten.\n* Decollogne 'Farine de Blé Bio Meules de Pierre `T110`'. Beschrijving: `100%` farine de blé tendre issu de l'agriculture biologique. Inclusief informatie over de molen. `12 g` eiwitten.\n* Seitenbacher 'Odenwälder Bauernbrot' Brotbackmischung. Beschrijving: Weizenmehl `T812`, Roggenmehl `T1370`. \n\nHet is duidelijk dat Frankrijk en Duitsland veel informatiever zijn op gebied van meel dan België. De Franse zak beschrijft zelfs de zachtheid (_tendre_). Duitse type notaties komen niet mooi overeen met de Franse. In Duitsland wordt de hoeveelheid as per `100 g` droge massa van het meel gemeten, terwijl dit per `10 g` is in Frankrijk. Duitse `T812` zou dus overeen moeten komen met Franse `T80`.\n\n[^bio]: [https://www.labelinfo.be/label/biologische-landbouw-eu-biolabel](https://www.labelinfo.be/label/biologische-landbouw-eu-biolabel)\n\n\\index{Gluten!Gliadine}\n\\index{Roggemeel}\n\\label{rogge}\n\nHoe zit dat dan met de precieze inhoud van rogge? Iedereen die al ooit roggebrood met de hand gekneed heeft weet dat dit kleverig goedje opmerkelijk verschilt met een typisch tarwedeeg. Om te beginnen beschikt rogge maar over één van de twee gluten eiwitten: gliadine. Geen elasticiteit dus, en dat zorgt automatisch voor een veel dichter kruim. Dankzij de gliadine is er nog wel iets van de gascellen aanwezig in de oven die het brood doen rijzen, maar niet veel. In de praktijk wordt roggebrood altijd gemengd met tarwebloem om dit gemis te kunnen compenseren. Een brood met `100%` roggemeel zal altijd een baksteen zijn.\n\n\\index{Pentose}\n\nRoggebloem bevat veel pentosen (`4` tot `7%`), een soort koolhydraat dat minder prominent aanwezig is bij tarwe. De gekende kleverigheid van het deeg is te danken aan pentose. Door dit kleverig vochtabsorberend goedje geeft roggedeeg toch nog de illusie om te rijzen. Het zorgt voor de nodige ondersteuning in afwezigheid van een sterke gluten structuur. Rogge wordt dankzij die plakkerigheid ook gebruikt in de lijm-, match- en kunststofindustrie [@kent1994kent][^kleverig]. \\nl\nZetmeel is veel belangrijker in roggebloem dan in tarwebloem. Roggebloem neemt veel meer water op dan tarwe door het hoger volume van aanwezige zetmelen en pentosen. Omdat het eiwitgehalte van rogge minder relevant is dan bij tarwe, worden er niet zo'n grote indelingen gemaakt voor dit graan. \n\n\\index{Sacharide!Polysacharide}\n\\index{Polysacharide}\n\n[^kleverig]: Als je weet dat kleverige polysacharides zorgen voor een betere wateropname, wat doe je dan als slimme bakker? Dit als additief gebruiken, natuurlijk! Dat is zelfs een aparte categorie in de lijst met E nummers, onder '_Emulgatoren, stabilisatoren, verdikkingsmiddelen en geleermiddelen_'. Guar-, Xanthaan- en taragom, lecithine, pectine, cellulose, ... \n\n\\index{Amylase}\n\nAlle degen met meer dan de helft roggemeel moeten worden aangezuurd omdat zure omstandigheden de zwelkracht van de pentosanen verbeteren. Dit kan met zuurdesem, maar ook met toegevoegd azijn. Onder de juiste omstandigheden wordt pentose door de organismen in zuurdesem omgezet in azijnzuur, waardoor brood met veel rogge van nature zuurder smaakt dan tarwebrood. \\nl\nDe vereiste aciditeit heeft als tweede belangrijke reden dat amylase minder actief wordt [@seibel1991sourdough]. Weet je nog dat amylase complexe suikers helpt opknippen in simpele stranden? Juist omdat zetmeel belangrijker is in roggemeel, moet ook amylase beter onder controle gehouden worden bij deze soorten deeg. Roggebrood met commerciële gist (en zonder toegevoegde azijn) zal daardoor sneller inzakken tijdens het rijzen dan tarwebrood. Enzymatische activiteit van alfa-amylase wordt via gelatinisatie in laboratoria gemeten met speciale apparatuur om de kwaliteit op voorhand te kunnen inschatten. Veel verkocht roggebrood helemaal geen echt roggebrood: het bevat nog geen `30%` aan rogge. Vraag bij afwezigheid van een duidelijke ingrediëntenlijst altijd naar de technische fiche.\n\nUniformiteit van de structuur van het kruim is voor fans van chocopasta een belangrijke eigenschap van brood. Een sneetje met choco, wie houdt daar nu niet van? Mensen die op zoek zijn naar rustiek brood met een mooie, open kruim. Grote gaten zijn niets dat een plakje kaas niet weggewerkt krijgt. Daar dan ook nog chocopasta op smeren lijkt mij een brug te ver. Een open kruim verkrijg je onder andere door veel water te gebruiken, en niet te veel te kneden. Een verdeelde, dichte kruim verkrijg je door een intensieve kneedmethode. Het kruim wordt nog zachter gemaakt door toevoeging van boter en melk. Denk maar aan het melkbrood en de sandwiches van hoofdstuk \\ref{leerschool}. \n\n\\index{Kaliumbromaat}\n\\index{Ascorbinezuur}\n\\label{vitc}\n\nEen modernere manier om een mooie rijs en even kruim is te bereiken door opnieuw terug te grijpen naar verbeteraars. Enzymen zijn in hoofdstuk \\ref{microbio} reeds aan bod gekomen. Nog een vaak gebruikte techniek om zwakke bloem op te krikken en de structuur en het volume van brood te verbeteren, is vitamine C toevoegen. Als dat niet gezond is, dan weet ik het ook niet meer... Vitamine C, of _ascorbinezuur_, is een oxidatiemiddel. Door deze oxidatie verandert de moleculaire structuur van gluten in tarwebrood. Het gevolg is een sterker deeg. Sommige middelen reageren snel, zodra alle ingrediënten gemengd worden. Andere middelen zoals kaliumbromaat worden pas wakker in de rijskast. Ascorbinezuur heeft zuurstof nodig om van een reductiemiddel omgevormd te worden naar een oxidatiemiddel. Vitamine C werd pas ontdekt in 1912, dus het spreekt voor zich dat het hier om een van de technische trucjes van de industrie gaat. \n\nWe zijn nog niet klaar met verbeteraars (Ik hoop jullie wel na het lezen van dit boek). De laatste grote groep zijn _emulgatoren_. Verschillende soorten emulgatoren hebben elk een eigen functie: van een uniforme kruim, betere gluten vorming, verminderen van de kneedtijd tot verhoogde zachtheid en waterabsorptie. Brood gebakken met emulgatoren blijven langer goed, hebben een zachtere korst en een even kruim. Het verzachtend effect is nog meer uitgesproken bij volkoren brood [@indrani2008functions]. Een andere leuke bijwerking in gegist deeg is het verlaten van korstvorming tijdens het bakken. Brood `2.0`: een 'betere' versie van zichzelf. Een emulgator verzorgt het homogeen vermengen van vloeistoffen en vetten, zoals in melk. Blijkbaar is het goedje een soort van wondermiddel in brood, behalve dat ik juist een onevenredige kruim wil mét een goed knapperige korst. Voorbeelden van veel gebruikte emulgatoren zijn lecithine (terug te vinden in eidooiers) en mono- en diglyceriden.\n\nOm tot een échte zijdezachte korst en kruim te komen, heeft men in Japan een 'water roux' techniek bedacht, genaamd _yudane_ (_湯種_), of in het Chinees _tangzhong_. Een deel van de bloem wordt gekookt met water of melk om de textuur van het brood te verbeteren. Rond de `65 °C` gelatineert het zetmeel [@chen]. Net zoals de pentosen van roggebloem, houdt dit gegelatineerd goedje het vocht veel beter vast. Het gevolg is een heel zacht brood. Deze techniek heb ik nog nooit in Europese bakkerijen toegepast gezien. Blijkbaar zouden veel Japanse bedrijven een patent hebben op een variant van de methode. Het is niet alleen een kwestie van rechten, maar ook van praktische haalbaarheid. Het gelatineren van zetmeel voor een deeg van `50 kg` vereist een grote ketel om het boeltje in te koken. Dat betekent dan weer inboeten aan kostbare ruimte in de bakkerij. In de praktijk wordt voor een zacht brood te maken een beetje vetstof toegevoegd, en een intensieve kneedmethode gebruikt. Hoe meer vet, hoe meer kneden nodig is om de vetten evenredig te verdelen. Hoe meer kneden, hoe zachter het kruim. Sandwiches zijn daarom dé referentie op gebied van vet én een zacht kruim. Mijn tientallen pogingen om sandwiches met de hand te kneden draaien altijd uit op een lichte teleurstelling bij het open snijden van een broodje. De zachte structuur is onmogelijk te bereiken zonder intensief machinaal te kneden. Eigenaars van een keukenrobot moeten opletten met hun interpretatie van het woord 'intensief': dat betekent niet automatisch op de hoogste stand, maar wel lang genoeg totdat de gluten volledig ontwikkeld zijn. Om dat te controleren is de _windowpane_ methode uitgevonden. \n\n### Vorm\n\nEen populaire versie van brood gemaakt met de _yudane_ methode is '_Hokkaido_'  of '_Shokupan (食パン)_' brood. Een prachtig Japans zeidezacht wit '_busbrood_', verrijkt met room, boter, eieren en een schadelijke hoeveelheid suiker. Dit is de Aziatische tegenhanger van onze _brioche_. Zoals de naam aangeeft, worden deze broden meestal gebakken in een langwerpig bakblik. In Frankrijk kan je dit brood kopen als '_pain de mie_'. Het sponzige Amerikaanse 'Wonder Bread' (en andere industriële verwanten) komt ook uit een bakblik. Oven ruimte moet gemaximaliseerd worden. Een bakblik zorgt er niet alleen voor dat het brood zijn structuur behoudt door naar boven te rijzen in plaats van opzij, maar ook dat ze makkelijker naast elkaar te plaatsen zijn in de oven. In fabrieken rollen deze broodvormen het meeste van de band. \n\n\\index{Preshaping}\n\\index{Voorvormen}\n\nHet is eigenlijk heel simpel. Brood is ofwel rond (zoals een _boule_), ofwel lang (zoals een _bâtard_). Alle andere vormen zijn hier afgeleiden van. Dit heeft te maken met de vormtechniek van brood. Het opbollen van deeg is in veel bakkerijen maar één snelle fysieke handeling. Deeg wordt gewogen, verdeeld, opgebold en in bakvormen gezet, klaar voor de tweede rijs. Als je die bakvormen uit de vergelijking haalt kom je in de problemen. De vorm garandeert een volumineus brood: het kan immers geen andere kant op. Op steen gebakken brood wordt rechtstreeks op de hete steen in de oven geplaatst, zonder dat metaal, glas of silicone een tussenlaag vormt. Te slap deeg heeft dan nog een kans om verticaal uit te dijnen, voordat de hitte het de lucht in jaagt. Om dat te vermijden voeren we een tussenstap in: voorvormen of _preshaping_. Deeg wordt gewogen, verdeeld, en rond gemaakt. In die ronde vorm rust het deeg totdat de gluten ontspannen genoeg zijn om opnieuw gevormd te worden. De tweede vorm is de échte vorm. Ondertussen is het rond bolletje terug plat geworden. Een tweede keer aanspannen is zeker geen overbodige luxe. \n\nOm puristen niet boos te maken moet ik er bij zeggen dat een _bâtard_ niet zomaar lang is, maar puntige randen heeft. In essentie is het een kleine dikke _baguette_. In de praktijk houdt elke bakker er zijn eigen vormingstechniek op na die altijd uit gaan van de twee basisvormen. De een rolt het deeg simpelweg op, de ander vouwt het op zoals een brief. Types van brood volgen vaak trends. De lange vorm van baguettes zijn bijvoorbeeld een vrij recente verschijning, ontstaan in het einde van de 18de eeuw. Er zijn veel betere handleidingen beschikbaar om vormingsmethodes toe te lichten dan dat ik dat hier zou kunnen doen. Sommige technieken zijn handiger bij tarwebrood, andere bij rogge. Brood dat we bakten bij De Superette was dankzij het hoog watergehalte zo goed als onhandelbaar (voor onwetende stagiaires zoals ik). Snelheid is niet alleen nodig om veel broden op korte tijd te kunnen verwerken, maar ook om geen plakkerige handen te krijgen. Een goede tip die ik van het internet geplukt heb, is te doen alsof het deeg te heet is om lang vast te nemen. Doorwerken gegarandeerd, niemand wil brandwonden oplopen. Als ik mij te veel liet meeslepen ('Vlug Kristien, ik sta in brand! Waar is de emmer?' Gevolgd door 'Hou op _onnozelaar_.') verloor ik kwaliteit uit het oog en was het eindresultaat niet bepaald geweldig. Daarna heb ik dan maar geleerd om efficiënt te werken met een deegschraper.\n\nHet opbouwen van oppervlaktespanning is het belangrijkste doel van opbollen. Hoe je dat precies doet (de vorm), maakt niet uit. De Parijse topbakkerij 'Du Pain et Des Idées' verkoopt _pain des amis_[^amis], door hun beschreven als 'Een plat brood met dikke korst en nootachtig karakter'. Pain des amis lijkt te zijn ontstaan toen de bakker per ongeluk zijn deeg uitstortte in de oven in plaats van op het werkoppervlak. Spanning opbouwen is belangrijk, maar niet voor iedereen - en ook niet voor elk type brood. De elasticiteit (en in mindere mate uitrekbaarheid) van gluten worden hier gebruikt om de buitenkant van het deeg op te rekken. Door de uitrekbaarheid is dit mogelijk zonder te scheuren. Door de elasticiteit blijft de spanning constant waardoor het deeg tijdens de tweede rijs naar boven rijst in plaats van opzij. Bij rogge ontbreekt glutenine, de belangrijkste groep van eiwitten om deze spanning op te zetten. Uit onderzoek is zelfs gebleken dat gliadine op gebied van oppervlaktespanning een negatieve factor kan zijn [@li2004surface]. Dat is erg voelbaar bij brood met meer dan `30%` rogge. Vormgeven is in dat geval meer een kwestie van het deeg in een rijsmandje te dumpen in de plaats van het mooi op te vouwen. Hoe beter tarwebrood opgespannen is, hoe mooier het omhoog komt in de oven.\n\n[^amis]: De naam heeft volgens hun website zelfs een copyright. [https://dupainetdesidees.com/en/produits.html](https://dupainetdesidees.com/en/produits.html)\n\nHitte in contact met gerezen deeg start een aantal fysische, chemische en biologische reacties. Voordat het deeg verkorst en omgezet wordt in brood is het zaak om een laatste keer te rijzen, en liefst naar boven. Zorgvuldig opgebouwde micro-organismen sterven uit met een knal. Op dat moment bepaalt oppervlaktespanning hoe het brood in de oven rijst. De Engelse term '_oven spring_' klinkt veel beter dan de Nederlandse vertaling 'oven rijs'. Door de toenemende hitte zetten de CO~2~ cellen uit en stijgt de druk. Rond de `50 °C` gaan gisten dood die voor een laatste groei aan gascellen zorgen. Fysische bestanddelen met een laag kookpunt veranderen in hun gasvorm op `80 °C` dat nog meer druk oplevert. Boven de `90 °C` begint de korst te vormen [@fan1999model]. De druk doet de celwanden bezwijken waardoor cellen nog meer uitzetten en de korst doen open breken. Dit gebeurt allemaal de eerste tien minuten in het bakproces. De exacte plaats van het scheuren kan een bakker beïnvloeden door op voorhand het deeg in te snijden. Omdat de celwanden op die plaatsen al gescheurd zijn, verliest het deeg op die plekken de druk tijdens het opwarmen. Tenminste, als de sneden goed geplaatst zijn. Erg vochtig deeg heeft door de plakkerigheid nogal eens de neiging om zichzelf te genezen voordat de temperatuur van het deeg hoog genoeg is om genoeg druk op te bouwen. De hoek waarin het mes gehouden wordt om de snede te maken speelt samen met de diepte een rol in het al dan niet breken van de korst op die bepaalde plek. \n\n\\index{Stoom}\n\nZodra de korst volledig gevormd is, kan het brood niet meer rijzen. Op dat moment kan je in de oven kijken naar de duidelijke vorm van brood in plaats van deeg. Er is echter een manier om korstvorming nog wat langer uit te stellen, zodat het deeg nog nét iets hoger kan rijzen. Die manier is de toevoeging van stoom. Stoom verleent het oppervlak van deeg beetje extra rekbaarheid tijdens de _oven spring_ fase. Stoom voeg je aan het begin van het broodbakproces toe. Het hete water condenseert op het nog koelere deegoppervlak. Na een aantal minuten schakelt het water over van condensatie naar verdamping. Professionele ovens beschikken over 'dampsleutels' die na de kritieke fase van het bakproces geopend worden om het teveel aan vocht in de oven weg te laten ontsnappen. Het extra vocht geïntroduceerd door middel van stoom zorgt anders voor problemen waardoor de korst niet krokant genoeg wordt. Open dus nooit de oven tijdens de eerste minuten van het bakken. \n\n\\index{Viennois, pain}\n\nStoom zorgt niet alleen voor een betere rijs. De typische glans van de korst van brood is ook een gevolg van stoom. Het zetmeel aan de buitenkant van het deeg lost gedeeltelijk op in de condens. Dit papje geeft een mooie glans af. Het papje dat bakkers op deeg smeren om 'tijgerbrood' te maken heeft hetzelfde effect als de blinkende, krakerige korst vanwege de toegevoegde stoom. Deze glans geeft de korst een donkerdere, karakteristieke kleur. Als laatste voordeel zorgt stoom voor een evenredige en snellere hitte penetratie. Verdampen gaat altijd gepaard met hitte verlies: op die manier koelt ons lichaam door middel van zweet af. De toegevoegde warmte in de vorm van stoom minimaliseert dit verlies. Niet alle bakkers houden van stoom. Bakkerij Herteleer geeft de voorkeur aan een natuurlijk bakproces, wat voor hen bakken zonder stoom betekent. Volkoren roggebrood wordt vaak zonder stoom gebakken. Zonder gluten valt er toch niet veel te rijzen. Gebruik maken van stoom is een vrij recente gewoonte. De eerste 'Boulangerie _Viennoise_' in Parijs, geopend door de Oostenrijkse journalist August Zang, gebruikte een inventieve manier om voor de eerste keer in Frankrijk korst glazig te maken. Hij deed dat door een hoop goed gewassen natte hooi op de boden van de oven te plaatsen, die voor de productie van een wolk van stoom zorgt [@payen1859precis]. Ik neem aan dat zijn klanten de rokerige smaak er graag bij namen. Een mechanische stoom oven werd pas enkele eeuwen na Zang's nat hooi in 1840 uitgevonden. De invloed van de Wenen op traditioneel Frans brood is nog steeds voelbaar. _Pain viennois_ was een van de eerste zoete broden gemaakt met biergist in plaats van oud deeg (zuurdesem).\n\nGenooeg stoom creëren in een keukenoven is bijna onmogelijk. Ik heb veel verschillende manieren geprobeerd, maar geen enkele gaf hetzelfde effect als de zware stoombakken van mijn Rofco oven. Een kannetje met water in de oven plaatsen is nutteloos: het water warmt geleidelijk aan mee op en geeft nauwelijks stoom. Vergeet niet dat we in de tweede helft van het bakproces geen water meer willen. Een zware gietijzeren plaat mee opwarmen waar koud water op gegooid wordt geeft weliswaar stoom, maar die kleine hoeveelheid ontsnapt altijd terwijl ik probeer om zo snel mogelijk de oven terug te sluiten. Toen kreeg ik het lumineus idee om een plantensproeier te gebruiken. Eentje met pomp die goed veel druk weet op te bouwen. Brood in oven, vernevelen, deur dicht. Dat werkte. De korst blinkt meer dan zonder enige vorm van stoom. Daar ben ik echter ook mee moeten stoppen. Het bleek namelijk dat een slecht gemikte straal van mijn sproeier het oven lampje deed springen. Brood besprenkeld met stukjes glas heb ik dan toch maar weggegooid. Het grote temperatuurverschil tussen het water in mijn vernevelaar en het gloeiend hete glas in de oven zorgde voor ongewenste bijwerkingen. \n\nBakboeken van Ken Forkish [@forkish] en Chad Robertson [@tartine] raden daarom aan om brood thuis te bakken in een gesloten gietijzeren pot. Het vocht van het brood zorgt in de kleine ruimte zelf voor voldoende stoom. Een mooie korstvorming vereist wel het verwijderen van de deksel na twintig minuten. Gietijzer is zwaar en absorbeert zeer goed warmte. Zo'n voorverwarmde pot is daardoor gevaarlijk en onhandig om je deeg in te leggen. Een bijkomend nadeel is de plaats die het inneemt in de oven. De stoombakken van de Rofco bevatten hitte absorberende lava stenen die heel goed zijn in het omzetten van water naar stoom. Een sauna in de oven nabouwen is hier geen probleem. Ik heb nog niet geprobeerd om er enkele druppels lavendelolie in te laten vallen. Misschien stopt dan het geklaag van Kristien dat de oven stinkt. Residu van vorige baksessies kleeft soms nog aan de bakstenen die na veelvuldig gebruik inbranden. Dat brengt altijd een geur met zich mee. Bak trouwens nooit vetrijk deeg rechtstreeks op de steen. Die plek krijg je er niet alleen nooit meer uit, de onaangename lucht van sterk verbrande boter vergezelt je nog maanden daarna. \n\n\\index{Hydrolyse}\n\\index{Blaren}\n\nAls de goden het willen, verandert de vorm van brooddeeg niet als het door de oven getransformeerd wordt in gebakken brood. Soms, echter, zit verandering in iets kleins: aan het oppervlak van de korst bijvoorbeeld. Is het je al eens opgevallen dat bij sommige zuurdesembroden de korst vol blaren zit? Dit zijn kleine luchtbelletjes die gebarsten zijn bij verkorsting tijdens het bakproces. Hoe langer het deeg gekoeld heeft gerezen, hoe meer uitbarstingen van blaren op de korst. Voor mij is dat een kwaliteitsteken, maar voor veel Franse bakkers is dat een reden om _merde!_ te roepen. Deze blaren duiden op een langdurig aangezuurd deeg waarbij de gassen de tijd hebben gekregen om bij lagere temperaturen zich te vermengen met het vocht van het deeg. Gekoelde frisdrank bruist om dezelfde reden meer dan drank op kamertemperatuur[^vochtd]. De plotse aanraking van een voorverwarmde steen doet het gas naar het deegoppervlak sijpelen en verdwijnen, waardoor afgesloten stukken koolstofdioxide gevormd worden. Het resultaat na het bakken zijn zichtbare blaren op de korst, een teken van lang, gekoeld rijzen - en dus onherroepelijk ook van zuurder brood. Hoe langer het brood heeft gerezen, hoe meer gassen opgebouwd zijn in het deeg, en dus hoe meer de korst bedekt wordt door een vrolijk patroon van kleine luchtbelletjes. Daarom wordt dit in Frankrijk niet zo op prijs gesteld, waar bakkers de zuurdesemcultuur vaker verversen en zeer lang rijzen eerder vermijden. \n\n[^vochtd]: Ook hier is _hydrolyse_ verantwoordelijk voor dit effect. Er zit niet plots meer of minder CO~2~ in je frisdrank. Koude vloeistof kan meer opgelost gas opslaan.\n\n### Vorm op doek\n\nEen hoofdstuk over esthetiek kan niet compleet zijn zonder een teen in het erg diepe water der schilderijen te steken. Stilleven met eten vind ik niet alleen leuk om naar te kijken, maar geeft ook een accuraat beeld over het geserveerd brood van toen[^broodsch]. Het bekende melkmeisje van Johannes Vermeer toont, buiten de kan met melk, op de voorgrond een mand met een stevig, rond brood, gedecoreerd met iets dat kan doorgaan als zaadjes of haver. In Nederland leefde men in de 17de eeuw voornamelijk van brood en melk. Experten suggereren dat het meisje de voorbereidingen trof voor broodpudding omdat het zogezegd over oud brood zou gaan. Volgens mij had Vermeer op een bepaalde dag in 1657 gewoon honger. \n\n[^broodsch]: Er is zelfs een categorie '_Still-life painting of bread_' op Wikimedia die een aantal werken samenbrengt: [https://commons.wikimedia.org/wiki/Category:Still-life_paintings_of_bread](https://commons.wikimedia.org/wiki/Category:Still-life_paintings_of_bread).\n\nNederlandse stellevens van de 17de eeuw zijn erg boeiend op die manier, alsook het werk van Pieter Claesz met de haring, wijn, en brood. Dit rijkelijk tafereel koppelt brood aan een maaltijd met vis. We krijgen een deel van het droog uitziend wit kruim te zien omdat het rond brood in de oven te kort tegen een ander brood aan gedrukt was. Dit wordt nu nog soms door bakkers gedaan om het oppervlak aan korst te verkleinen. Of dat toen dezelfde reden had, daar hebben we nu alleen maar het raden naar. De optimalisatie van ovenruimte lijkt me een meer aannemelijke uitleg. Het is duidelijk dat het voedsel op dit schilderij niet voor boeren bestemd was. De vis en wijn stralen luxe uit, dat verder bevestigd wordt door wit brood. In die tijd was fijn gezeefde tarwebloem weggelegd voor rijkere fijnproevers, terwijl de lagere klassen zich moesten tevreden stellen met grof gemalen mengelingen van tarwe met andere granen. Jan Davidsz de Heem zijn stilleven met kreeft en een overvloed aan exotisch fruit verbergt linksonder hetzelfde soort wit rond brood.\n\nKaas is een ander wederkerig onderwerp dat graag kortbij brood geschilderd wordt. Kleiner brood dat lijkt op een voorganger van de Keizerbroodjes is terug te vinden in stilleven van Alexander Adriaenssen, voltooid in dezelfde periode. Het brood, rustend op een bord met linnen doek, is in proportie iets kleiner dan de aangesneden vis. Dit broodje is opvallend mooi in het midden opengebarsten, een duidelijk gebruik van inkerving in brood. Claesz zijn volumineuzer brood vertoond ook een indruk voordat het gebakken werd. Tijdens de 18de eeuw geraakte kleinere individueel gebakken broodjes[^kleinbr] pas echt in trek. Van te kijken naar sommige geschilderde broden krijg ik spontaan tandpijn, zoals dat van Michelangelo Caravaggio. Zijn anders zo expressieve gelaatsuitdrukkingen en sterke speling met licht moet wijken voor stilleven dat er precies uit ziet als een misvormde blok beton. Ik neem aan dat het water in die karaf in de achtergrond nodig is om door te spoelen...\n\n[^kleinbr]: Het juiste woord hanteren hier is een uitdaging. Het Engelse '_bread rolls_' kennen we hier nergens, en tegenwoordig betekent _broodje_ een belegd broodje in de vorm van een stokbrood. Tijdens de bakkersopleiding maakten we kennis met _zachte_ en _harde luxe_, kleiner individueel gebakken brood zoals sandwiches, pistolets, en Keizerbroodjes, dat in andere landen dan weer onbekend is onder die naam. \n\nEen van de weinige broden van 17de-eeuwse schilderijen dat geen ronde vorm heeft, wordt door George Flegel in 1630 op doek gezet in '_stilleven met brood en suikergoed_'. Suikergoed is hier het juiste woord, het rechthoekige gele brood lijkt me meer cake dan brood te zijn. Latere impressionistisch getinte werken met brood verraden de evolutie van de ronde vorm naar meer variatie. Paul Cézanne schilderde in 1865 '_brood en eieren_', waarbij het grootste voorwerp van het schilderij twee baguetten zijn. Uiteraard schildert een Fransman een symbool voor Frankrijk, wat had je gedacht. De Duitser Albert Anker durft als een van de weinige kunstenaars in zijn '_nieuwe wijn_' (circa 1890) een tarwebrood weer te geven met een open kruim. Datzelfde brood met gaatjes komt terug in verschillende andere stillevens van zijn hand, waaronder eentje in de kenmerkende _bâtard_ vorm. Een erg open structuur, te danken aan het gebruik van veel water, is in recente schilderijen vaker terug te vinden, zoals François Barraud's brood met wijn en bril in 1930. \n\n\\includepdf[\n    scale=1.1,\n    addtolist={1, figure, {Job Adriaenszoon Berckheyde, 1681. De bakker.}, img:thebaker}\n]{thebaker.jpg}\n\nDe (alweer) Nederlandse schilder Job Adriaenszoon Berckheyde gooide het over een compleet andere boeg. In plaats van stilleven te tekenen waar brood meestal een bijrolletje krijgt, opteerde hij resoluut voor de bakker zelf, met op de voorgrond  twee grote _miches_, pretzels, en een mand vol verschillende andere soorten kleinere broodjes. Grappig genoeg schildert hij geen bakker, die rond 1681 zeker niet moeilijk te vinden was in Nederland, maar zichzelf. Misschien nog iemand die stiekem graag professionele bakker wilde worden. Job plaatst in tegenstelling tot zijn broer Gerrit de mens met zijn dagelijkse bezigheid binnenshuis[^binnensh]. Zo komen we in zijn werken regelmatig het interieur van de bakkerswinkel tegen, al dan niet met een kantklosster achter de toonbank. Vroeger blies de bakker op een hoorn om de dorpelingen aan te sporen zijn vers brood te kopen. Het opstoken van het vuur en de onvoorspelbare rijstijden van zuurdesem zijn in onze moderne tijd onder controle zodat we met een gerust hart om klokslag negen uur kunnen aanschuiven. \n\n[^binnensh]: Volgens de uitleg van het Worchester Art Museum waar het stuk tentoongesteld wordt, opereerden handelaren uit de 17de eeuw, zoals deze bakker, vanuit zijn of haar eigen huis. Men denkt dat de zuilen in steen zijn afgebeeld om aan te geven dat bakkers in een stenen huis moesten wonen, vanwege het mogelijk brandgevaar van de houtoven.\n\nEn toch is brood, aanzien als een alledaags product, is niet bepaald het populairste onderwerp als het op maaltijden schilderen aan komt. Wetenschappers onderzochten 140 voedsel-gerelateerde schilderijen tussen 1500 en 2000 en concludeerden dat brood slechts bij `41%` van de onderzochte werken voorkomt [@wansink2016food]. Het voornaamste onderwerp van stilleven is fruit, in `76%` van de gevallen. Kunstenaars die toch opteerden voor brood kwamen voornamelijk van Nederland (`62%`), gevolgd door Italië en Duitsland (beiden `40%`). Naarmate het verstrijken van de tijd, verloor brood aan populariteit. In de Verlichting was het nog op net iets meer dan de helft van de schilderijen terug te vinden, om na de Industriële revolutie terug te zakken naar `17%`. De onderzoekers ontdekten verder dat de afgebeelde broodgrootte over een millennium gestaag is toegenomen. Groter brood, maar minder frequent aanwezig, dus. De publicatie sluit af met de bewering dat de aanwezigheid van voedsel in kunst niet altijd de eetgewoontes van toen reflecteert. Over de jaren heen is de consumptie van brood en appels bijvoorbeeld niet sterk gewijzigd, terwijl dit wel gebeurde bij het afbeelden ervan: appels komen `302%` vaker voor en de aanwezigheid van brood zakte met `74%`.\n\nIn ieder geval weet je volgende keer toch wat te doen in het museum. \n\nMiddeleeuwse schilderijen met brood vinden blijkt heel wat moeilijker te zijn, aangezien de grootmeesters van toen eerder geïnteresseerd waren in een eerbetoon aan god. Pas (veel) later ontdekte men dat het goddelijke niet gezocht moet worden boven ons, maar in simpele pleziertjes, zoals een goed brood. Er zijn wel veel kleinere afbeeldingen bewaard gebleven van bakkers, bakkerijen, en brood, die ons vertellen dat er toen al redelijk wat variatie in vorm bestond. In de 10de eeuw at het gemiddeld middeleeuws gezin dagelijks meer dan `1 kg` brood. Brood werd niet alleen gegeten, maar zelfs in geplette vorm gebruikt als bord waar vlees op geserveerd werd. Geen bord aflikken, maar opeten, dus. Vreemd dat dit gebruik op een of andere manier verdwenen is. In die tijd stond simpel voedsel als brood veel meer centraal dan nu, omdat er lange periodes weinig ander voedsel beschikbaar of betaalbaar was. De middeleeuwen kende geen belangrijke nieuwigheden op gebied van brood, door de involutie van landbouw en uitbraken van epidemieën en oorlogen. _Geef ons heden ons dagelijks brood_ was vaak letterlijk een kwestie van leven of dood. \n\nHet kostte meesters in de schilderkunst soms jaren om één schilderij tot in de perfectie af te werken. Tegenwoordig is elke foto van brood slechts een _klik_ van het digitaal fotoapparaat (of de smartphone) verwijderd van sociale media. Niet bepaald verwonderlijk dan, dat wij als moderne mens nauwelijks onze aandacht langer dan een minuut bij een schilderij kunnen houden tijdens een museumbezoek, als we in digitale wereld overspoeld worden. De mooiste foto's van kont-euh, korst, kruim, en soms ook bakker (dus toch kont?), zijn te vinden op Instagram onder `#breadporn`. Of deze kiekjes daadwerkelijk zo wellustig werken als de hashtag doet vermoeden, laat ik aan jullie over. \n\nTODO John Walldinges Vitus desem zelf geschilderd volgens Karl enige, klopt dat? \n\n### Kleur\n\nDe kleur van korst en kruim wordt niet alleen bepaald door de aanwezige suikers en eiwitten die in aanraking komen met hitte. Tijdens het groeien ontwikkelen tarwe bessen in de zemel laag bepaalde pigmenten die een rode kleur afgeven. Die pigmenten zijn in feite _carotenoïden_, een groep van moleculen die verantwoordelijk zijn voor de gele tot roodachtige kleurstoffen. De groep kleurstoffen is op te delen in _xanthofyl_ (zuurstofhoudend, aanwezig in meel) en _caroteen_ (niet-zuurstofhoudend). Caroteen komt, zoals het woord al zegt, veel voor in wortel. Dit pigment brengt naast kleur ook smaak met zich mee. _Rode_ tarwe bevat meer van deze pigmenten dan _witte_ tarwe. Tarwe is dus in te delen in combinaties van hard of zacht, winter of lente, en rood of wit. De indeling in kleur is iets wat we in Europa niet zo goed kennen. Gek genoeg wordt zachte rode wintertarwe en harde rode lentetarwe geïmporteerd vanuit Amerika. Tarwe kwekers maken handig gebruik van technologie om de geoogste granen automatisch te sorteren op kleur. Op die manier wordt de puurheid van de kleur, net zoals een hele hoop andere eigenschappen, door de mensheid bepaald. Selectie, maar alles behalve een natuurlijke. \n\n\\index{Mout}\n\\index{Enzymen!Lipoxygenase}\n\\index{Xanthofyl}\n\\index{Diastatische mout}\n\\label{mout}\n\nIn de praktijk beïnvloeden bakkers de kleur van de korst en het kruim via... Rara? Verbeteraars. Mengelingen die verkocht worden als 'woudmeel' verraden de aanwezigheid van toegevoegde kleurstoffen door de erg donkerbruine kleur van het meel. Een kleurstof hoeft niet een ongezond product te betekenen. Veel gebruikte additieven om de kleur te beïnvloeden zijn sojabloem, gebrande mout, en natuurlijk extra suikers. Het enzym _lipoxygenase_ aanwezig in sojabloem bleekt de xanthofyl kleurstoffen in de tarwe, wat een wittere kruim oplevert [@optionalsoy]. Ik heb geen flauw idee waarom dat spierwit brood vandaag de dag nog zo aanspreekt bij mensen. Ooit was dit een uniform symbool van status. Gevangenen kregen vies bruin volkoren tarwebrood, of nog erger, grijs roggebrood te eten. Witte bloem kost meer moeite door het zeven. Als trotste eter van een witte snee brood (chocopasta bestond toen nog niet) liet je andere mensen duidelijk verstaan wie er waardig was en wie niet. '_The medium is the message_' zei Marshall McLuhan ooit. Dat geldt nu ook nog, maar dan omgekeerd. Met een witte snee uit de boterhamdoos te halen riskeer je tegenwoordig uitgelachen te worden als onbewuste eter. De ene vindt wit brood een pure vorm van suikers [@broodbuik], de andere vindt dat zemelen de oorzaak van alle ellende zijn [@menace]. Het is een kwestie van goed op de hoogte te blijven van de laatste trends om vol zelfvertrouwen in een drukke cafetaria die boterhamdoos te durven openen.\n\nMout is ontkiemd en daarna gedroogd graan. Dit is een veel gebruikt 'geheim' ingrediënt dat een betere rijs, textuur en kleur oplevert [@nechita2009strong]. Waarom is dit goedje een wondermiddel? Juist omdat het ontkiemd is. Op dat moment worden de van nature aanwezige enzymen geactiveerd in de korrel, om het plantje te doen groeien. Dit ontketent op zijn beurt opgeslagen suikers. In het Engels kom je dit tegen als '_diastatic malt_'. Het diastatisch gehalte is een maat voor het vermogen van meel om maltose te produceren uit zijn zetmeel. In feite meet men dan de amylase activiteit. Deze mout is makkelijk zelf te maken door eender welke graansoort te laten kiemen, drogen op een lage temperatuur en fijn te malen. De toevoeging van mout aan meel voor de prestatie van gisten te verhogen dateert van het einde van de negentiende eeuw. Soms worden de granen geroosterd, of 'gebrand', voor het malen. In dat geval komt de kleur voornamelijk van het branden, en niet van de werking van de meegeleverde enzymen. Een temperatuur boven de `50 °C` beschadigt de enzymen. Dat is de '_non-diastatic malt_'. Erg vetrijke degen zoals gelamineerd croissantdeeg kan veel voordelen halen uit een beetje mout. De boter laagjes maken het immers extra moeilijk voor het deeg om goed te kunnen rijzen. Merk op dat de toevoeging van veel enzymen aan een al redelijk actieve cultuur ongewenste gevolgen als een taai en slecht gerezen brood kan uitlokken. Te veel mout geeft ook een bittere smaak af aan het brood. \n\nHet gebruik van enzymen en andere additieven in brood kent een ongelofelijke groei sinds de introductie vlak na de tweede wereldoorlog. Dankzij de industrialisatie en wetenschappelijke vooruitgang van microbiologie en biochemie werd het alsmaar eenvoudiger om onder andere amylase in een laboratorium te kweken, gebaseerd op genetisch gemodificeerde organismen. De typische ingrediënten van een verbeteraar zijn uiteraard niet schadelijk voor de mens, en vinden hun oorsprong in de natuur. Ik vind het belangrijk om te begrijpen waar welke component voor gebruikt wordt, en welk effect dit heeft op het deeg. Het is echter minstens even belangrijk om ook eens te kijken naar de economische kant van het plaatje. Voedsel technologie is iets moois. We vinden belachelijk lang houdbare voeding in blik uit. We wijzigen het tarwe ras zo dat de opbrengst gemaximaliseerd wordt. We kweken enzymen in Petri schaaltjes. Dat steekt voornamelijk héél veel geld in de zakken van grote bedrijven. Om dat 'heel veel' te kwantificeren, citeer ik uit een rapport van Ângelo Samir Melim Miguel en anderen, over de trends van enzymen in de bakkerij [@miguel2013enzymes]:\n\n> _The world enzyme market is in evolution and a growth of 6.8% per year is expected. The world food and beverage enzymes demand requires attention, because it represented $1,220 million dollars in 2010, around 36.5% of the total world industrial enzyme demand, estimated in $3,345 million dollars. Moreover, the world food and beverages enzymes demand is expected to be responsible for 40.1% of the world industrial enzyme demand in 2020, accounting for $2,520 of $6,280 million dollars of the world industrial enzyme market._\n\nIk was met stomheid geslagen toen ik het verslag voor de eerste keer las. Er valt niet alleen de rode kleur van korst te winnen bij het gebruik van enzymen. Ook groen manifesteert zich in de vorm van katoenen briefjes. Figuur \\ref{enzymenvraag} toont de enzymen markt specifiek voor gebakken producten zoals brood.\n\n![Een illustratie van de enzymen markt voor gebakken producten, afgebeeld op jaren 2000 tot 2020\\label{enzymenvraag}](img/enzymenvraag.png){ width=80% }\n\nDe gegevens komen van het Amerikaanse 'Freedonia Group' gespecialiseerd in marktonderzoek, maar ik zie geen reden om aan te nemen waarom de vraag in Europa minder drastisch zou stijgen. De balken geven de vraag naar bakkerij producten aan. De lijn in de grafiek toont de relatieve stijging in Amerikaanse populatie in diezelfde jaren[^stijging]. De populatie steeg sinds 2000 met factor `1.2`. De vraag naar enzymen steeg met factor `6.4`. Deze twee grafieken op elkaar leggen duidt verband noch correlatie aan. Wat ik wel kan afleiden is dat het 'iedereen kunnen voeden' argument zeker niet de hoofdrol speelt in deze miljoenen industrie. Het verslag van Miguel beschrijft de groeiende trend om chemische additieven te vervangen door enzymen gewonnen uit natuurlijke bronnen. Hoe natuurlijk dat nu precies is, zal ieder voor zich moeten uitmaken.\n\n[^stijging]: Deze populatie gegevens komen van het US Census Bureau, via Statista.\n\n### Een enzymen experiment\n\n\\index{Amylase}\n\nWetenschappelijke studies lezen is leuk tot op het moment waarop mijn handen beginnen te jeuken. Toen ik las dat koji samen met mout een veel gebruikte bron is van alfa-amylase, besloot ik dit in de vorm van een experiment in mijn eigen keuken na te bootsen. Ik wilde wel eens zien hoe sterk dat effect van toegevoegde amylase is vergeleken met brood dat ik gebruikelijk bak. Om de proef een minimale wetenschappelijke waarde te geven had ik nood aan extra uitrusting: een rijskast. Een afgebakende omgeving waarin ik de temperatuur tot op de graad zelf kan bepalen, en constant kan houden. Dat was slechts een kwestie van een ongebruikte koelkast om te bouwen van koelen naar verwarmen. Het enige wat ik daar voor nodig bleek te hebben was een lamp en een thermostaat tussenstekker. De geïsoleerde ruimte houdt de warmte van de lamp vast, die door de thermostaat tussen vooraf ingesteld interval aan- en uitgeschakeld wordt. De lamp in kwestie moet genoeg hitte kunnen genereren verspreid over een relatief grote ruimte, dus een `40W` halogeenspot is de beste optie. Om de warmte snel te kunnen verdelen monteerde ik, met hulp van mijn schoonvader als elektronica-expert, een `12V` ventilator van een oude desktop PC achter de lamp. \n\n\\index{Koji}\n\\index{Aspergillus oryzae}\n\nDie incubatieruimte gebruik ik sindsdien met groot succes om tempeh en koji mee te maken, volgens het stappenplan van Sandor Katz [@katz]. Het grootste probleem is echter de juiste soort van _Rhizopus oligosporus_ in het geval van tempeh en _Aspergillus oryzae_ in het geval van koji vast te krijgen. In België is koji zo goed als onbekend. Met héél veel geluk kun je het voorverpakt vinden in een biologische speciaalzaak. Ik wilde echter geen kant-en-klare koji kopen, maar sporen van de schimmel zelf. Op naar een obscure Japanse online winkeltje dus - of gewoon eBay. '_Koji Kin_', de sporen, of 'starter', zijn verkrijgbaar in verschillende vormen en maten: voor sake of amazake te maken, voor miso, voor sojasaus, enzovoort. In het ene geval heb je meer zoet nodig, dus simpele suikers. In het andere geval maken de sporen meer protease aan die eiwitten afbreekt. Ik maak mijn eigen koji voornamelijk voor _shio koji_[^shiok], miso en amazake, en had geen zin om verschillende zakjes te kopen die na een bepaalde tijd hun kracht verliezen. Een wilde gok ('_Kairyo Chohaku Kin Tane Koji_') bleek toch effectief te zijn. \n\n[^shiok]: _塩麹_, Een gemalen combinatie van koji, zout en water, gebruikt om te marineren. \n\nAls ik geen schimmels kweek in mijn eigen koelkast die niet koelt, gebruik ik de ruimte om deeg te laten rijzen op een constante temperatuur. Het enige vervelende zijn de afmetingen van de schappen vergeleken met de bakplaten van mijn oven. Croissants moet ik noodgedwongen laten rijzen op stukjes bakpapier, om het daarna voorzichtig over te hevelen naar de platen om te kunnen bakken. Het systeem werkt goed genoeg om als hobbyist mee te knoeien. Het koji kweekproces bestaat uit in vier stappen:\n\n1. Graan een nacht laten weken. (12u)\n2. Graan nét niet beetgaar stomen. (30min)\n3. Graan inoculeren met de schimmel (5min)\n4. Graan incuberen op `32 °C` om de schimmel te laten groeien (40u)\n\nIk heb expres het woord 'graan' in plaats van 'rijst' gebruikt om aan te geven dat _Aspergillus oryzae_ ook groeit op andere granen zoals gerst. Wanneer de schimmel helemaal rond elke graankorrel gegroeid is zal die omgeven zijn met een minuscuul wit harig laagje. Als ik de rijskast open en een zoete geur me tegenmoet komt weet ik dat het tijd is om de stekker uit te trekken. 53 uur later heb ik mijn alfa-amylase, maar wat moet ik er nu mee? De sporen zijn niet dood maar groeien trager onder de `27 °C`. Vaak volgt nu nog een laatste pasteurisatiestap, maar dan vernietig ik waarschijnlijk mogelijke enzymen die juist nodig zijn voor mijn experiment. De verse koji laat ik enkele uren uit de rijskast drogen om daarna tot poeder fijn te malen. Een eerste vorm van amylase ben ik toch al rijker. \n\nIn mijn experiment beoogde ik om een gewoon gistbrood als controlegroep te vergelijken met brood met koji en brood met commerciële broodverbeteraar. Om het aantrekkelijker te maken de drie broden helemaal op te eten na afloop fermenteerde ik `20%` van de bloem op voorhand in de vorm van een poolish. Dit is het exact recept:\n\n| Hoeveelheid | Percentage | Beschrijving        |\n|:-----------:|:----------:|:--------------------|\n| `500 gr`    | `100%`     | Tarwebloem, T65     |\n| `330 gr`    | `66%`      | Water               |\n| `4 gr`      | `0.8%`     | gedroogde gist      |\n| `10 gr`     | `2%`       | Grijs zeezout       |\n| `12 gr`     | `2.4%`     | toegevoegde stoffen |\n\nTable: Formule voor brood van het enzymen experiment. `66%` hydratatie.\n\nWaarvan voor het voordeeg (`20%`):\n\n> `100 gr` tarwebloem, T65 \\newline\n> `100 gr` water \\newline\n> `0.7 gr` gedroogde gist \\newline\n\nHet voordeeg heeft 12 uur gefermenteerd met een initiële temperatuur van `25 °C` die terugzakte tot `19.3 °C`. Als deel van het experiment is consistentie in het broodbakproces belangrijk, anders wordt misschien de verkeerde conclusie getrokken. Het deeg zou `24 °C` moeten zijn, maar het voordeeg was al afgekoeld. De enige temperatuur die ik kan beïnvloeden is de temperatuur van het water. Om te berekenen hoe warm dit precies moet zijn kan je de '_Desired Dough Temperature_' techniek toepassen. Meet de temperatuur van alle aanwezige factoren (ingrediënten, kamertemperatuur), trek die af van de gewenste temperatuur maal het aantal factoren, en wat overblijft is de doeltemperatuur van het water:\n\n| Factor       | Temperatuur in Fahrenheit | Temperatuur in Celsius |\n|:-------------|:---------------------------:|:------------------------:|\n| Kamer        | `69.5 °F`                   | `20.8 °C`              |\n| Bloem        | `65.3 °F`                   | `18.5 °C`              |\n| Voordeeg     | `66.8 °F`                   | `19.3 °C`              |\n| Vrijving     | `20.0 °F`                   | /                      |    \n| Water        | ?                           | ?                      |\n\nTable: Waargenomen factoren die de temperatuur van brooddeeg beïnvloeden. \\label{temptable}\n\nDe gewenste deegtemperatuur (`24 °C`) maal 4 is `304 °F`, verminderd met de temperaturen uit tabel \\ref{temptable} is `82.4 °F` of ongeveer `28 °C`. Kneden doet de temperatuur van het deeg ook stijgen door middel van kinetische energie die mee in rekening gebracht moet worden[^rekeningbr]. Dit verschil is te klein om in Celsius te kunnen berekenen. Ik vergat echter dat dit effect helemaal niet zo groot is als voorzien wanneer je met de hand kneedt. Een tweede probleem is het kneedoppervlak: de koude marmeren steen steelt energie tijdens het kneden. Na exact 6 minuten intensief handwerk voor elk deeg heb ik ik nog iets meer dan `22 °C` gemeten - dat is twee volle graden er naast. Al een geluk dat dit probleem zich bij alle degen stelde. De incubatieruimte werd ingesteld tussen de `24.5` en `25.5 °C`.\n\n[^rekeningbr]: De `20 °F` komt uit een referentietabel en gaat uit van het gebruik van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn hangen nooit kunnen voortbrengen. \n\nRijstijden zijn waar te nemen in tabel \\ref{rijstable}:\n\n| Type deeg   | Eerste rijstijd | Tweede rijstijd | Bakken |\n|:------------|:----------------|:----------------|:-------|\n| Controle    | 11u30 (2u)      | 13u30 (37min)   | 14u07  |\n| Koji        | 12u00 (2u21min) | 14u21 (27min)   | 14u48  |\n| Verbeteraar | 12u13 (1u50)    | 14u03 (32min)   | 14u35  |\n\nTable: Rijstijden voor elk type deeg in het experiment. \\label{rijstable}\n\nIk werkte niet parallel, dus nadat het controledeeg als eerste in de rijskast verdween kon ik aan het tweede deeg beginnen. Om te oordelen op welk moment de eerste rijstijd onderbroken moet worden, liet ik `150 gr` van het deeg rijzen in doorzichtige cilindervormige containers. Op het begin en het einde van de eerste fermentatie werd met plakband aangeduid tot op welke hoogte het stukje deeg stond. Het controledeeg verdriedubbelde in grootte na exact twee uur rijzen. Op dat moment besliste ik het deeg in een _boule_ te vormen en in een rijsmandje opnieuw te laten rijzen. De andere types deeg werden gevormd op het moment dat in elke aparte container duidelijk zichtbaar was dat ze even hoog stonden als het controledeeg. Zoals af te leiden is uit tabel \\ref{rijstable}, racete het deeg met de commerciële verbeteraar beduidend sneller naar de finish dan het controledeeg. Tien minuten op twee uur tijd is ongeveer `8.3%` sneller. Dat is leuk, maar niet indrukwekkend. De verbeteraar bevat nog een aantal andere ingrediënten buiten enzymen die deze verhoogde rijstijd kunnen verklaren, zoals emulgatoren en plantaardige vetstoffen. \n\nDe traagheid waarmee het koji deeg op gang kwam is wel indrukwekkend. Hoe kan dat, was het niet de bedoeling dat dit deeg sneller zijn suikers afbreekt en vrijgeeft aan de gisten dankzij de extra amylase? Ik besefte al tijdens het kneden dat ik iets had mis gedaan: het deeg voelde erg korrelig aan. De met de vijzel fijngestampte koji rijst was dus niet fijn genoeg gemalen om volledig opgenomen te worden door het deeg. De minuscule harde rijstkorrels werken als vlijmscherpe messen en sneden constant de opgebouwde gluten netwerken doormidden. Het gevolg is deeg dat erg slecht rijst, zoals zichtbaar in de doorzichtige container. Het was echter niet zo'n slim idee om enkel op basis van volume te controleren of het deeg klaar was voor de volgende stap. De enzymen deden wel degelijk hun werk. Toen ik het deeg uit de mengkom haalde, voelde en rook ik dat het in feite te lang gerezen had. De wetenschappelijke waarde van dit experiment zakte naar nul, ik haalde mijn schouders op (na een vloek of twee), en werkte gewoon verder. Dat was trouwens niet de eerste fout die ik maakte: het controledeeg kreeg per ongeluk `560 gr` water in plaats van `320 gr` omdat ik gewoon ben om met kilo's te werken. Ik besefte dit juist voordat ik ging mengen, dus wat prutswerk met lepeltjes later gaf de weegschaal toch nog het juiste gewicht aan. \n\nAlle factoren die het experiment kunnen beïnvloeden volledig onder controle hebben in eigen keuken lukt nooit. Mijn dure weegschaal beweert precies te zijn tot op `0.1 gr`, maar gaf er toch de brui aan tijdens het afwegen van de gedroogde gist. Hoe meet je exact `0.7 gr` gist? Daarvoor was de weegschaal blijkbaar niet duur genoeg. Een voedselthermometer die ook gebruikt kan worden om gaartijd van vlees in de gaten te houden werkt wel verrassend accuraat. Het brood werd telkens met stoom gebakken, maar de stoombakken koelen af na herhaaldelijk gebruik, wat gradueel minder stoom teweeg bracht. In principe geldt hetzelfde voor de steen waarop gebakken werd. Ik heb de temperatuur van de oven zelf niet gemeten dus subtiele fluctuaties zijn onopgemerkt gebleven. Na ongeveer een halfuur tweede rijs, vijfenveertig minuten bakken, en meer dan twee uur koelen later kon ik uiteindelijk het resultaat proeven. \n\nHet experten paneel bestaande uit Kristien en mezelf verkozen unaniem het natuurlijke (controle-)brood als winnaar op basis van zintuiglijke input. Het brood met de verbeteraar rook en smaakte het meeste _gistig_ van de drie. Het controlebrood proefde zoeter. Het verschil tussen beiden was echter subtiel, zowel op gebied van smaak als op gebied van presentatie. Beide broden rezen even goed in de oven en barstten heel mooi open op de ingesneden plekken. De korst van het brood met verbeteraar was iets bruiner, maar dat kan evengoed aan een toevallige minuut langere baktijd gelegen hebben. Wij vonden beiden geen enkele reden om naar de winkel te hollen om kilo's verbeteraar in te slaan. De toevoeging van het spul gaf geen enkele meerwaarde aan het brood. Misschien dat we onze mening moeten herzien zonder het gebruik van een voordeeg, ook al twijfel ik daar sterk aan. De snelheidswinst als voornaamste reden aanhalen is erg kortzichtig denken over voedsel. Goede (en lekkere) dingen kosten nu eenmaal tijd. De `4 gr` of `0.8 %`[^percgist] gist voelt al als valsspelen aan. \n\n[^percgist]: Dit is érg weinig, zelfs voor gedroogde gist. Een typisch brooddeeg bestaand uit `6 kg` bloem bij de avondles vereiste `480 gr` verse gist, ofwel `8%`. Dit percentage delen door drie om de verse gist om te zetten naar gedroogde is nog hoger dan onze procentuele waarde van minder dan één! En dan te bedenken dat er vaak nog suiker wordt toegevoegd...\n\nDe interessantste ontdekking was echter de smaak van het brood met koji. Het is moeilijk om met woorden te beschrijven hoe iets proeft dus ik ga het gewoon houden op _anders_. De actieve enzymen hebben de eenvoudige, zoetachtig gistige smaak van het controlebrood omgebogen tot een complexere vorm met invloeden van umami. Door karamelisatie en de Maillard reactie is de smaak en geur van de korst minder afwijkend dan het kruim. Het verbaasde me hoe sterk koji de smaak van het kruim beïnvloedde. Achteraf gezien was dit helemaal niet zo verwonderlijk, aangezien ik al jaren gebakken tofu gemarineerd met shio koji verkies boven ongemarineerde tofu. De marinade, waar dezelfde rijst met _Aspergillus_ schimmel in zit, transformeert de anders ietwat platte smaak van tofu volledig, dankzij de productie van glutaminezuur. In het deeg met toegevoegde koji is iets gelijkaardig gebeurd. De smaak deed me denken aan het brood wat ik ooit maakte met het O-Tentic product van Puratos. En toch verkozen we beiden het controlebrood boven deze versie. De smaak was té sterk voor een simpel wit tarwebrood. Misschien dat spelen met de verhoudingen koji ten opzichte van bloem een meer gewenst resultaat oplevert. \n\nVoorlopig verdwijnt de zelfgekweekte koji in conventioneler voedsel. \n\n\\newpage\n\n### Samenvatting\n\n* Je eet ook met je ogen. Elegant brood smaakt beter.\n* Geef meel de kans om water op te nemen, voordat je begint met kneden. Voeg daarna pas zout toe. \n* Gluten van tarwe zorgt voor uitrekbaarheid en elasticiteit. Rogge beschikt maar over één van beide eigenschappen. \n* Enzymen spelen een belangrijke rol in het vormen van brood. \n* Geef deeg tijd. Vorm het deeg in twee stappen.\n* Kneden is niet verplicht. Intensief kneden zorgt voor een evenredige, dichte kruim. Nauwelijks kneden en veel water gebruiken zorgt voor een open kruim.\n* Het eiwitgehalte bepaalt de opneembaarheid van water.\n* Er is een verschil tussen winter en lentetarwe, en tussen zachte en harde tarwe. Dit heeft niets te maken met de uitmalingsgraad. \n* Probeer altijd gebaseerd op de informatie op de meelzak te bepalen over welk soort meel het gaat.\n* De opneembaarheid van water kan verder verhoogd worden door langer te wachten, extra enzymen te gebruiken, of in twee keer water toe te voegen.\n* Er valt héél veel geld te verdienen met de productie en verkoop van additieven. \n* Rogge staat gelijk aan plakkerigheid door de aanwezigheid van pentosen.\n* Gebruik altijd zuurdesem in combinatie met rogge.\n* Er zit vaak toegevoegd vitamine C in brood, en niet vanwege je gezondheid.\n* De Japanse _yudane_ methode creëert in combinatie met een beetje melk een zijdezacht kruim. \n* Iedere bakker heeft zijn eigen vormingstechniek. In de praktijk komt het neer op ofwel een bolletje, ofwel een langwerpig brood.\n* Oppervlaktespanning is nodig om brood mooi naar boven te laten rijzen in afwezigheid van een bakvorm.\n* Te veel glutaminezuur verandert de typische broodsmaak in negatieve zin. \n\n",
-			"file": "content/boek/structuur.pd.md",
-			"file_size": 65797,
-			"file_write_time": 132036822420000000,
+			"file": "content/boek/boer.pd.md",
 			"settings":
 			{
-				"buffer_size": 65746,
+				"buffer_size": 35469,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "\n## De boer, de molenaar, en de brouwer\n\n\\label{boer}\n\n> '_Heute back ich, morgen brau ich_' - Rumpelstilzchen (Repelsteeltje)\n\n### De boer\n\nTODO eiwitgehalte van granen variëert van `6` tot `20%` [@gobbetti2012handbook]. p18\n\nTODO most evolved species Triticum durum en Triticum aestivum - hoogtechnologische evolutie, gekweekt voor maximale opbrengst. Belangrijkste = lokaal kweken, oogsten, en kopen, VS biologisch, VS oudere granen\n\nTODO p28 supply with minerals during growing is essential for optimal plant development. Nitrogen fertilization, important to high flour protein content, and thus, increased bread volume. gliadine meer beïnvloed dan glutenine\n\n### De molenaar\n\nTODO industriële milling p49\n\nTODO \"oxidatie\" p30 moderne molens L-ascobric acid (indirect) \n\nTODO mineralen en vitaminen zitten aan de buitenste lagen van de graan, waardoor bij het uitfilteren deze verloren gaan [@gobbetti2012handbook]. \n\n### De brouwer\n\nDe bakker en de brouwer hadden vroeger een hechte relatie. In feite was die relatie in de middeleeuwen zo intiem dat de bakker de brouwer ingedeeld werden in dezelfde gilde, of zelfs vaak éénzelfde persoon waren. Repelsteeltje was een van die meesters van de gist, die 's nachts tijdens de arbeid graag een liedje zong:\n\n> _Heute back ich, morgen brau ich,\\newline\nübermorgen hol ich der Königin ihr Kind;\\newline\nach, wie gut, dass niemand weiß,\\newline\ndass ich Rumpelstilzchen heiß!_\n\nDie klaarblijkelijk al oude verbintenis tussen bakker en brouwer wekte mijn nieuwsgierigheid naar de wereld van het bier. Die bakker kende ik al vrij goed. Die brouwer daarentegen, als zonderlinge geheelonthouder van alcohol, helemaal niet. Mijn vader maakte in mijn kindertijd wijn van eigen druiven, zoals zijn vader dat deed. De onmiskenbare geur van rottende druiven en het gepruttel van _dame-jeanne_ flessen met een waterslot zijn de enige levende herinneringen die daarvan zijn overgebleven. Toen de serre, waar de druiven in geteeld werden, werd vervangen door een groter exemplaar, verdwenen ook de druiven, en daarmee het hele wijnmaakproces. Hoe goed mijn ouders ook hun best deden om de zelfgemaakte wijn op te drinken, de keurig gelabelde flessenstapel in de kelder leek eerder aan te dikken dan te slinken. Ik neem aan dat dat een goede reden was om er dan maar mee op te houden. Wijn of bier brouw je immers niet in kleine hoeveelheden. \n\nVan bier ken ik echter helemaal niets, behalve dat (naar het schijnt) Nederlandse pils naar afwaswater proeft. Zoiets wordt alle leerlingen ingeprent in scholen te België, hét uitgelezen land van het bier[^lvhb]. Toen ik te weten kwam dat een mede Hasselaar bier brouwde van onder andere Hasselts geteelde graan, kon ik niet anders dan nader kennis te maken met de wereld van de ontucht en het hedonisme. Schol. \n\n[^lvhb]: Volgens de '_Trivial Pursuit: België - Land van het Bier_' editie toch.\n\nIk ontmoette Gert Jordens op een dinsdagavond in zijn testlabo aan het Kanaal. \n'Kom binnen! Kan ik u een biologisch fruitsapje aanbieden?' Ik begon te lachen. \\nl\n'Dankuwel. Rare gewoonte om ook iets niet-alcoholisch in een brouwerij aan te kunnen bieden.' Ik had Gert al op de hoogte gebracht van mijn voorkeur wat betreft alcohol. \\nl\n'Oh, hier komen alle soorten mensen over de vloer hoor.' En daarmee was de trend gezet. \\nl\n'Die mensen brengen meestal iemand anders mee die wel graag iets drinkt. En zo is iedereen tevreden.' We zetten ons aan een hoge tafel waarvan de onderkant van het doorzichtig tafelblad bezaaid is met krantenartikelen over Jessenhofke, de biologische brouwerij van Gert. De tafel straalde een zekere autoriteit uit, en ik was er best van onder de indruk, behalve dat ze ook plakte. Juist ja, bier. \n\nWe praatten wat, Gert over bier brouwen, en ik over brood bakken. \\nl\n'Ik heb thuis een aantal keren Kvass[^kva] gemaakt met zuurdesem, wat je misschien een soort van tafelbier kan noemen. Wat ik mij voornamelijk afvroeg, hoe zit dat met gisten en bacteriën in bier? Heb jij ook melkzuurbacteriën nodig, of alleen maar gisten?' Gert knikte. \\nl\n'Ja, brouwen met zuur, dat vereist een volledig andere installatie. Wij gebruiken hier alleen maar gist. Bacteriën gebruiken, dat is de richting van Geuze uit gaan. Die krijg je nooit meer uit je installatie. Je kan niet zuur bier brouwen, én iets als gistend bier.' \n\n\\index{Pils}\n\\index{Lager}\n\\index{Ale}\n\\index{Bovenfermentatie}\n\\index{Onderfermentatie}\n\\index{Saccharomyces}\n\\index{Saccharomyces!pastorianus}\n\\index{Saccharomyces!cerevisiae}\n\nIk leerde achteraf dat pils, beter bekend in het Vlaams als een _pintje_ (of _dagschotel_), een soort _lager_ is. Bier kan over het algemeen ingedeeld worden in twee grote klassen: die van onderfermentatie (_bottom-fermenting_ of anaerobische fermentatie), zoals lager, en die van bovenfermentatie (_top-fermenting_ of aerobische fermentatie), zoals _ale_. Bovenfermentatie gebeurt op hogere temperaturen (tussen de `15` en `24 °C`) en gaat gepaard met het gevaar van inoculatie van (on-)gewenste bacteriën. Schuim bovenop vloeistof verraadt de aanwezigheid van aerobische gisten, zoals _Saccharomyces cerevisiae_. Op het label van het bierflesje prijkt vaak 'hoge gisting', een ander woord voor deze bovengisting. Onderfermentatie daarentegen gebeurt op lagere temperaturen (onder de `10 °C`). In dat geval werkt men met gistsoort _Saccharomyces pastorianus_[^past]. \n\n[^past]: Zoals de naam doet vermoeden is deze soort vernoemd naar Louis Pasteur. Deze gist heette voordien _Saccharomyces carlsbergensis_ dankzij Dane Emil Hansen's onderzoek aan de Carlsberg brouwerij in Kopenhagen.\n\nGeuze, of algemener _lambiek_, is niet zomaar in onder- of bovenfermentatieve bieren te categoriseren. Hier is spontane gisting de belangrijkste factor, die bij niet-industriële brouwerijen nog in koperen koelschepen op de zolder plaatsvinden. Met die blootstelling aan de plaatstelijke buitenlucht hopen brouwers _Brettanomyces lambicus_ te vangen, en in een latere fase ook soorten _Lactobacillus_. Zelfs de eikenhouten vaten waar lambiek nog jaren in verder gist blijken een grote invloed te hebben op de aanwezige micro-organismen in het bier [@spitaels2014microbial]. Lambiek is een van de laatst overgebleven oerbieren, en sluit het beste aan bij zuurdesem als fermentatie methode. \n\nHistorisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de 19de eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak is de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op bovenfermentatie. Met zuiver theoretische classificaties kom je maar zo ver. \n\n\\index{Esters}\n\\index{Esters!Ethylbutyraat}\n\n'Ik heb een collega die met een _Do It Yourself_ kit thuis enkele liters bier brouwt. Ik heb hem gevraagd naar welke organismen hij gebruikt, en het antwoord was 'een pakje gist'. Doen jullie dat ook?' \\nl\n'Nee, nee, helemaal niet. Kijk, ik vergelijk dat altijd met soep maken. Wil je _pakjessoep_, of wil je de volle smaak van een goede bouillon? Pakjessoep is het zakje gedroogde gist, _Saccharomyces cerevisiae_, maar gigantisch veel in aantal. Dat gaat snel, maar heeft geen smaak. Nog een reden voor uw collega om voor die gedroogde gist te kiezen is de prijs. Dat kost ongeveer 2 EUR, terwijl de vloeibare gist die ik koop gemakkelijk 9 EUR kan zijn.' \\nl\n'_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welke gisten zitten er dan nog in bier?' onderbrak ik hem. \\nl\n'Ha,' zei Gert, 'dat hangt van de biersoort af die je wilt brouwen hé. Ik koop in Brouwland[^brwl] een soort van twee-componenten pakketje aan dat ik opkweek. Dat is die vloeibare gist. Het ene component bevat de gisten in, en de andere de starter, voeding voor de organismen. Elk pakket is specifiek voor een soort bier, gaande van een gewoon licht blond biertje tot iets Westmalle-achtig met het aroma van banaan.' \\nl\n'Banaan?' Ik trok een vies gezicht. \\nl\n'Banaan, ja. Als je dat ruikt, dan weet je, ze hebben die soort gist gebruikt.' Wetenschappers vermoeden dat gisten zulke _esters_, een chemische klasse van organische verbindingen, produceren om insecten aan te trekken, die zorgen voor verdere verspreiding van de gisten [@saerens2010production]. Een bepaalde ester genaamd Ethylbutyraat is verantwoordelijk voor de banaan-achtige geur. \n\n'Maar je kweekt geen gisten zelf op, vanaf nul, zoals ik met mijn desem doe?' Ik nam een flinke slok van mijn appelsap. Lekker, minder zuur dan ik verwachtte. Misschien geen goed idee in combinatie met de frieten die ook nog aan het fermenteren zijn in mijn maag. \\nl\n'Neen, da's zuiver labo werk. Daar hou ik mij niet mee bezig. Er zijn zoveel manieren om nog extra smaak toe te voegen voordat bier gedronken kan worden. Neem nu de mout. Hoeveel water gebruikt wordt bij het ontkiemen van de granen, de kiemduur, hoe dit terug gedroogd wordt, noem maar op: alles heeft invloed op de smaak. Of de hop die meegekookt wordt. Die komt van Joris Cambie uit Poperinge, trouwens.' Vloeibare gist. Ik vermoedde dat het hier om een gelijkaardig product ging dat ook verkocht wordt door Puratos, maar dan op maat gemaakt voor brouwers. \n\n[^kva]: Zie hoofdstuk \\ref{kvass}.\n[^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. \n\n\\index{Lageren}\n\\index{Bottelgist}\n\nHet zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brouwerij waar zure bieren met bacteriën worden gemaakt. Gert leidde me ondertussen rond in zijn brouwerij. \\nl\n'Deze ruimte is niet meer dan een opslagplaats. Het bier moet nog rijpen na de hergisting. Dit hier is een gecertifieerde mini brouwerij, waar we productontwikkeling doen. Ik brouw niet meer dan `100` liter hier. Als het product op punt staat, dan gaat het naar verschillende grotere brouwerijen die we bepaalde periodes huren om op grote schaal te produceren. Bijvoorbeeld in Halen.' We liepen voorbij de rijen metershoog gestapelde bakken bier. Daarvoor diende die heftruck dus. Bovenop de vijfde rij pronkten een paar fietsen. \\nl\n'Die heb ik te veel.' Gert haalde zijn schouders op. 'Zo staan ze in ieder geval niet in de weg.' We liepen terug naar de enige verwarmde ruimte.\\nl\n'Hoe werkt die hergisting precies?' vroeg ik. \\nl\n'Na het _lageren_ voegen we opnieuw gist toe om hier bier te laten gisten op fles. Die bottelgist is trouwens meestal andere gist dan de opgekweekte starter. Pils van grote merken verlaat de brouwerij 'dood', dat wil zeggen, ze wordt niet beter met bewaren. Ons bier kan je tot vijf jaar bewaren.' Lageren is het opslaan van 'jong' bier in een grote tank, zodat het kan rijpen. Dit is in feite een tweede gistingsstop. Na het koken, koelen, en klaren van de wort, vindt de 'hoofdgisting' plaats, die drie dagen tot meer dan een week kan duren. \\nl\n'Gebruiken jullie dan drie gistingsfases?' Ik begreep het verschil tussen lageren en hergisten niet goed. \\nl\n'We lageren gedeeltelijk op fles, om het zo te zeggen.'\\nl\n'Wil dat zeggen dat ik brood zou kunnen bakken met jullie bier, aangezien er nog actieve gist in zit?' Gert knikte. \\nl\n'Zeker. Lekker. Dat gaat werken. Ik weet niet hoeveel gist je dan moet toevoegen.' Dat was ik helemaal niet van plan. Met een voordeeg en langere rijstijden valt veel op te oplossen. \n\n\\index{Maischen}\n\\index{Draf}\n\n'Wat voor u misschien interessanter is om mee te bakken is de draf[^draf].'\\nl\n'Draf?' \\nl\n'Overschot na het _maischen_. Met het klaren scheiden we vloeistof van ingrediënten als mout en gerst. Het resultaat is langs de ene kant wort, dat verwerkt wordt tot bier, en draf, waar ik niets mee kan doen. Als we hier brouwen om een product te ontwikkelen, zit ik met `30` kg aan draf. Daar zitten nog veel granen besjes in. Bakkers komen dat ophalen om in brood te doen. Meng het wel met genoeg meel, want anders krijg je een hele zware boterham.' Gert klopte met zijn hand op zijn buik om duidelijk te maken dat het brood niet bepaald licht verteert.\\nl\n'Die bakkerij op het einde van de Hasseltweg in Genk gebruikt dat bijvoorbeeld.' ging hij verder. \\nl\n'Koek en Brood? Leuk, die ken ik. Die hebben wel goed brood, en werken ook met zuurdesem. Dan moet ik daar zeker nog eens naartoe gaan.'\\nl\n'Dat is er niet altijd hé. We brouwen hier niet elke week. Pieter is het ook al komen ophalen voor zijn dieren. Grote brouwerijen zitten met tonnen aan draf, dat is allemaal dierenvoeder. Het gist wordt gebruikt door duivenmelkers als krachtvoer. De vogels beschikken over de kracht van de gist als ze dat opeten.' Dat klinkt alsof Gert de Panoramix van de duiven is, die toverdrank in plaats van bier brouwt. \\nl\n'Zou ik ook eens een beetje draf mogen gebruiken, om mee te experimenteren in brood?'\\nl\n'Natuurlijk. Ik zal u iets laten weten als er beschikbaar is.'\n\n[^draf]: Beter bekend als _bierbostel_. \n\nIk wist dat ook het graan van Pieter door Gert gebruikt werd om bier te brouwen: Arvum, Belgisch Blond Bier met een natuurlijk karakter. Op de label van de flesjes staat:\n\n> _Net als de akker moet de geest soms rusten om weer vruchtbaar te worden._\n\nIk ken Pieter niet onmiddellijk als een filosoof, maar ik vond het wel erg goed gevonden. Ik vroeg Gert naar de oorsprong van zijn grondstoffen, of hij alle ingrediënten bij één boer haalde.\\nl\n'Nee, zeker niet. Risicospreiding noem ik dat. De granen worden gemout in Antwerpen, maar kunnen afkomstig zijn van Engeland, België, Nederland, Denemarken, Noord-Frankrijk, of zelfs uit Bamberg in Duitsland voor de gebrande mouten, die minder beschikbaar zijn bij ons. Sommige kruiden komen van West-Vlaanderen, Wallonië, Maastricht, of van Duitsland. Alles is biologisch, dat wel. ' Het bio-logo prijkt ook op alle flessen. Ik kijk naar wat uitleg over de producten van Jessenhofke, onder het doorzichtig tafelblad. \\nl\n'We gaan binnenkort ook voor een _vegan_ label, onze bieren zijn ook veganistisch.' \\nl\n'Veganistisch? Bier bevat toch geen dierlijke stoffen?' Gert knijpt zijn ogen samen tot een afkeurende blik. \\nl\n'Toch wel. Grote spelers gebruiken gemalen beenderen of visolie om de niet-oplosbare deeltjes gemakkelijker uit het bier te kunnen filteren. Door de toevoegingen plakken die deeltjes samen. Daarom staat er op het einde van onze ingrediëntenlijst 'en niets anders'. Je wilt niet weten wat voor E-nummers er allemaal in zo'n bier zit, en dat moeten ze niet eens op het label zetten.' Met bier is het dus niet bepaald beter gesteld dan met brood, op gebied van de ambacht zelf. Erg jammer om te horen. Volgens de EU zijn alcoholproducenten niet verplicht om ingrediënten te vermelden op dranken. Dat lekker donkerbruin bier waar je zo van houdt? Karamel als kleuring, en zoetstoffen als smaakmakers. Daar gaat het ideaal. Een andere trend in de bierindustrie is _high gravity brewing_. Pils wordt gebrouwen met een sterker alcoholpercentage dan `5°`, om daarna verdund met water op de fles te gaan. Weer een van die economische overwinningen, waar gelukkig genoeg Jessenhofke evenveel afkeer van heeft als ikzelf.\n\n'Hoe ben je hier eigenlijk mee begonnen?' Gert kijkt me strak aan.\\nl\n'Door te drinken.' We barstten allebei in lachen uit. \\nl\n'Stomme vraag, zeker?' \\nl\n'Hoe begint een mens hiermee? Op een bierfestival zag ik een flyertje liggen waarop stond 'brouw je eigen bier'. Toen dacht ik, hé, waarom ook niet. Ik kocht een ketel, begon te koken, en de rest is geschiedenis. Ik ben hier al negentien jaar mee bezig, waarvan dertien professioneel. Mijn grootvader, op die foto daar, was een Hasseltse jeneverstoker.' Hij wees naar een zwart-wit foto van een oudere man die nauwkeurig een rij eikenhouten vaten inspecteert.\\nl\n'Voor jenever heb je trouwens geen speciale gisten nodig. Dan ben je niet geïnteresseerd in smaak, maar in de alcohol. Smaak komt daarna pas. In dat geval is het gedroogd zakje van uw collega goed genoeg.'\\nl\n'En dan?'\\nl\n'En dan heb je alcohol. Kruiden en zo worden door de dampen van de alcohol gehaald. Het resultaat is jenever.'\\nl\n'Die alcohol filteren uit het bier, dat kunnen jullie ook?'\\nl\n'Gedestilleerd' corrigeerde Gert mij. 'Ja, dan heb je een _eau-de-bière_, een soort van gin.' Ik herinnerde me de brouwerij en stokerij van Wilderen in de buurt van Sint-Truiden, waar fietsers vaak stoppen om hun geliefd goudkleurig bier van hoge gisting naar binnen te werken. Ze verwerken daar hun tripel van bier (`8.2°`) naar gin (`32°`).\n\nBij het afscheid vertelde Gert terloops over zijn overvolle agenda. Workshops geven, producten ontwikkelen, inkoop van grondstoffen en verkoop van bier, afspraken maken voor reservaties, noem maar op. Toen ik vroeg of hij dit full-time deed, bleek ik weer te maken hebben met een techneut.\n'Het is erg druk, ik doe dit bijna voltijds. Maar in feite ben ik test manager. Wat jullie ontwikkelen, moet ik testen!' Ik had mezelf voorgesteld als softwareontwikkelaar met een passie voor brood bakken. De volgende keer laat ik het eerste stuk achterwege... \n\nDe belangrijkste gist voor (modern) brood, is dus ook de belangrijkste voor de bierindustrie: _Saccharomyces cerevisiae_. Die twee-componenten pakketjes met vloeibare gist bleven in mijn hoofd spoken. Hoe zou het zijn om daarmee een brood te bakken? En het gebruik van draf, en niet-gepasteuriseerd hergist bier. Er was werk aan de winkel. Ik besloot om met het makkelijkste het eerste te beginnen: Brouwland zelf gaan verkennen. \n\nJe moet moeite doen om in de koelkasten een product met melkzuurbacteriën te vinden. Ik heb er slechts één gevonden, met 'een miljoen _Lactobacillus plantarum_ cellen' in, volgens het etiket. Dat zou geschikt moeten zijn om zuur bier te brouwen. Voor de rest was het _Saccharomyces_ waar de klok slaat, ook al lukte het me niet om de onderfermentatieve _pastorianus_ soort te lokaliseren. \\nl\nElk pakketje gist dat ik vast nam, of het nu gedroogd was of niet, bevatte maar één gistsoort, namelijk _cerevisiae_. Hoe kan dat? Zou Gert zijn pakjessoep uitleg niet helemaal kloppen, of begrijp ik nog te weinig van de taxonomie van deze gist? \\nl\n_Cerevisiae_ is de soort die behoort tot het geslacht _Saccharomyces_[^gesl]. Ik heb tot nu toe het woord 'stam' (veel hoger in de taxonomie) verkeerd geïnterpreteerd, en bedoelde in feite telkens 'soort'. Van deze ene soort bakkersgist worden er door slimme mensen met witte jassen via 'aangemoedigde natuurlijke selectie' andere stammen gekweekt [@steensels2014improving]. Deze microbiologische 'stam' heeft niets te maken met het begrip 'stam' uit de taxonomie. Het is een verzameling van organismen die af'stamt' (aha!) van één enkel geïsoleerd micro-organisme. \n\n[^gesl]: Dat geslacht behoort om precies te zijn tot de familie _Saccharomycetaceae_, die behoort tot orde _Saccharomycetales_, die behoort tot onderklasse _Saccharomycetidae_, die behoort tot klasse _Saccharomycetes_, die behoort tot stam _Ascomycota_, die behoort tot het rijk der _Fungi_. Jezus. \n\nHet resultaat van die gekruiste gisten is duidelijk zichtbaar in de koelkasten van Brouwland. Ik begreep er maar weinig van, en kocht op goed geluk wat zakjes gedroogde gist, samen met zo'n vloeibare variant. Safale S-04, _dry ale yeast_. Ontworpen in Frankrijk, geproduceerd in België. Mangrove Jack's M47 _Belgian abbey yeast_. Geproduceerd in Verenigd Koninkrijk? Wyeast Premium Liquid Yeast 1214 _Belgian Abbey_, _100 billion yeast cells, inoculates up to 5 gallons_. Misschien wat veel. Geproduceerd in Oregon, Verenigde Staten? Verse, vloeibare gist, dat wij dan als trots bierland terug importeren, om te verkopen aan Belgische brouwers. Vreemd systeem, die kapitalistische economie. \n\nDe al even vreemde nummers naast de merknaam duiden een specifieke giststam aan. Ondanks Gert zijn pakjessoep verhaal, vind ik op het pakje vloeibare gist geen enkele aanwijzing op aanwezigheid van meerdere stammen. Wyeastlab spreekt zelfs van enkelvoud (_This strain produces a nice ester profile as well as slightly spicy alcohol notes_). Mangrove Jack beschrijft hun M47 variant als volgt op hun website:\n\n> _Moderately alcohol tolerant with fewer phenols than Belgian Ale, this yeast is exceptionally fruity with hugely complex esters and is highly flocculant._ \\newline\n_Suitable for Belgian Pale Ales and Abbey Ales_ \\newline\n_Attenuation: High_ \\newline\n_Flocculation: High_ \\newline\n_Usage Directions: Sprinkle directly on up to 23 L (6 US Gal) of wort. For best results, ferment at 18-25 degrees C (64-77 degrees F)._ \\newline\n_Storage Recommendations: Store in the fridge._\n\nRecensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken te bakken. In ieder geval ga ik geen `23 l` deeg maken om dit te proberen. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies gebruikt wordt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. \n\nIk kocht een Jessenhofke 'TRPL' en gebruikte het bier in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met enkel `100 gr` bloem en `100 gr` bier, dat een nacht de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg op basis van zuurdesem. \\nl\nDe volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit, terwijl de bottelgist van het bier duidelijk nog geen zin had om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. Deze gisten zijn niet gemaakt om op korte tijd te fermenteren. \\nl\nEen tweede experiment waarin het water volledig vervangen werd door dit zware bier van `8°` leerde me dat de relatief hoge alcoholgraad de rijskracht van mijn zuurdesem wel degelijk in de weg zit. Na 4 uur rijzen op een warme dag was er nauwelijks sprake van een luchtig deeg. \\nl\nNiet alle gisten zijn even tolerant voor alcohol en elke zuurdesemcultuur is uniek. Om het zekere voor het onzekere te nemen gebruik je best een bier/water ratio van 1/1, of grijp je naar bakkersgist. \n\nHet werd mij duidelijk dat bier voornamelijk smaak aanlevert, en niet rijskracht, ook al gebruik je bier met hergisting op fles. De balans tussen het aroma van bier en de complexiteit van zuurdesem is erg moeilijk om aan te houden. Mijn methode van brood bakken, verder uitgediept in deel III, voorziet meer dan voldoende smaak, aangebracht door zuurdesem, die snel overweldigend werkt op de verdienstelijke bijdrage van het bier. \\nl\nDrink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten op zich. \n\n\\newpage\n\n### Wat ik geleerd heb\n\n* Bakker en brouwer waren vroeger vaak één en dezelfde persoon. \n* Bier brouwen doe je ofwel met enkel gisten, ofwel met bacteriën. In dat geval is een aparte installatie sterk aan te raden. \n* Er zijn honderden verschillende door mens ontworpen giststammen die afgeleid zijn van éénzelfde soort micro-organisme, namelijk Saccharomyces cerevisiae_.\n* Een bijproduct van het brouwen, draf, bevat nog restanten van actieve gist die gebruikt kan worden om brood te helpen rijzen. \n* Bier dat hergist is op fles, bevat nauwelijks genoeg gist om brood te doen rijzen. \n* Bier is in het algemeen op te delen in twee grote categorieën: onderfermentatieve en bovenfermentatieve. In de praktijk kunnen beide technieken gecombineerd worden. \n* Vroeger werd in België en Nederland voornamelijk bier van hoge gisting gedronken. De opkomst van koeltechnieken deed de balans kantelen naar onderfermentatieve pils. \n* Bakkersgist is geselecteerd op snelheid. Biergist op alcohol en aroma. \n* Bier in brooddeeg zorgt voor smaak, niet voor rijskracht. Die smaak kan overweldigd worden door zuurdesem. \n\n\\newpage\n\n### Bier brood met draf\n\nGert was zo vriendelijk me een beetje draf te geven om uit te proberen in brood. Als je geen toegang hebt tot dit restproduct van het bierbrouwen, kan je in plaats daarvan hele tarwe- of gerstgranen grof malen en een uur koken. \\nl\nDeze grote stukken zemelen werken als naalden in het deeg en doorprikken constant de zorgvuldig opgebouwde glutenstructuur. Hoe meer van deze ingrediënten gebruikt worden, hoe moeilijker het wordt om een luchtig brood te bakken. Door deze grove granen niet aan het begin van het kneden toe te voegen, maar halverwege de eerste rijs, omzeilen we dit probleem gedeeltelijk. \\nl\nEen andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Gekookte granen leveren immers zelf ook water aan. \\nl\nOm in het thema van brouwen te blijven, is een deel van het water vervangen door bier. Gebruik eender welk lokaal beschikbaar karaktervol bier van hoge gisting. Door de totale rijstijd te reduceren en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. \n\n| Hoeveelheid | Percentage | Beschrijving                         |\n|:-----------:|:----------:|:-------------------------------------|\n| `900 gr`    | `90%`      | T65 tarwebloem                       |\n| `100 gr`    | `10%`      | Tarwemeel, volkoren (fijngemalen)    |\n| `200 gr`    | `20%`      | Draf                                 |\n| `330 gr`    | `33%`      | Jessenhofke 'TRPL' (1 flesje)        |\n| `350 gr`    | `35%`      | Water                                |\n| `20 gr`     | `2%`       | Zout                                 |           \n\nTable: Formule voor bier brood met draf.\n\nWaarvan voor het voordeeg (`10%` van de bloem):\n\n> `100 gr` tarwebloem \\newline\n> `100 gr` water \\newline\n> `1 el` zuurdesem starter \n\nMethode:\n\n- _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.\n- _Dag 1, 23u00_: Starter in koeling. Voordeeg maken op kamertemperatuur. \n- _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24 °C`.\n- _Dag 2, 07u10_: 1u. Bolrijs I.\n- _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bolrijs II.\n- _Dag 2, 09u10_: 1,5u. Opnieuw vouwen. Bolrijs III.\n- _Dag 2, 10u40_: 10min. Vormgeven.\n- _Dag 2, 10u50_: 1,5u. narijs op `24 °C`.\n- _Dag 2, 12u20_: 55min. bakken op `240 °C`.\n\nDe grove granen zorgen voor een iets vastere structuur die het brood extra voedzaam maakt. Door pas halverwege de bolrijs de draf toe te voegen, zorgen we voor een goed ontwikkeld deeg dat toch mooi kan openbloeien in de oven. \\nl\nStort het deeg na het eerste bolrijs uit op een werkoppverlvak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht er uit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant, en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het een laatste keer anderhalf uur te laten rusten. \\nl\nLaat het brood zeker lang genoeg bakken. \n",
-			"file": "content/boek/boer.pd.md",
-			"file_size": 27430,
-			"file_write_time": 132040194370000000,
+			"file": "content/boek/de-leerschool.pd.md",
 			"settings":
 			{
-				"buffer_size": 27397,
+				"buffer_size": 63822,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/recept.pd.md",
+			"settings":
+			{
+				"buffer_size": 38416,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n## Je dagelijks brood met brood verdienen\n\n> '_For it is we who must pray for our daily bread, and if He grants it to us, it is only through our labour, our skill and preparation._' - Paracelsus\n\n\\label{desemdoos}\n\n### Januari 2015\n\nEen regelmatig wederkerend onderwerp in mijn notitieboekjes is het idee om zuurdesem (terug) onder de mensen te brengen. De website [redzuurdesem.be](https://redzuurdesem.be/) was een eerste logische aanzet. Op die manier kon ik mijn enthousiasme voor brood bakken met de wereld delen. Demonstraties en later uitgebreidere workshops waren stap twee. \\nl\nErgens tussen analoog en digitaal zat echter nog een gat, een gat dat ik op een of andere manier probeerde op te vullen. Internet surfers aanzetten om brood te bakken vereist interesse, anders blijft het bij een kort bezoekje of in het beste geval het lezen van een artikel. Cursisten die deelnemen aan de workshop tonen die interesse door deel te nemen. Het is voor velen niet de eerste keer dat ze brood bakken. De beste leerschool is er eentje die beide werelden weet te combineren: theorie en praktijk. \n\nHet resultaat was ‘Desem Doos’: een tweemaandelijkse thuiscursus voor de ambitieuze broodbakker. Desem Doos was een concept dat beginnende bakkers in staat stelt in hun eigen keuken kennis te maken met zuurdesem. Het systeem werkte zoals andere bekende voedselpakketten die aan huis geleverd worden. Denk hierbij aan ‘Hello Fresh’ of ‘Supercraft’. Elke twee maanden werden er een aantal nieuwe recepten rond een centraal thema uitgedacht waar men mee aan de slag kan, geholpen met extra materiaal en video's. \\nl\nDankzij de doos werd het mogelijk om thuis te experimenteren met zuurdesem. Ik wou de kennis die ik had opgedaan met iedereen delen in de vorm van een aantal digitale lessen. Desem Doos maakt integraal deel uit van mijn persoonlijke queeste naar beter brood.\n\nHet idee om een doos te versturen klinkt misschien simpel, maar de uitwerking ervan heeft heel wat maanden werk gekost. Om mijn product op de markt te kunnen brengen moest ik een aantal belangrijke vragen beantwoord hebben. Hoe verstuur ik een actieve zuurdesemcultuur? Ik probeerde desem te drogen door veel water toe te voegen en het uit te smeren op een bakplaat. Na een dag is het water vedampt en kon ik met een vijzel de droge koek tot fijne poeder stampen. Het probleem met dit poeder is echter de activatiekost. Hier moet opnieuw water bij gemengd worden, mogelijks met nog een dag extra opkweek. Dat zou te ingewikkeld zijn voor cursisten. \\nl\nIk moest er dus voor zorgen het pakketje zo snel mogelijk bij de ontvanger te krijgen. Weekends werden mijn grootste vijand. Er is niets zo rampzalig als een pakketje dat enkele nachten doorbrengt in een of ander pakhuis waardoor de desem te veel verzuurt. Achteraf gezien was het misschien toch beter geweest om zuurdesem te drogen. \\nl\nZuurdesem was maar één dimensie van de logistieke puzzel. Ik moest aan een regelmatige, betrouwbare bron van bloem zien te geraken. Lotnummers, hygiëne, extra materiaal, een nieuwe website en betaalmethodes voorzien, reclame maken, wettelijk gezien in orde zijn, genoeg variatie aan leerstof voorzien, recepten testen en filmpjes maken, ... Ook al mikte ik maar op een dertigtal vaste klanten, toch bleek de uitwerking van Desem Doos veel tijd en energie te kosten. \n\nEn bracht het iets op?\n\nHier komen we in de problemen. Het onderhoud van de website, het FAVV certificaat, en de sociale lasten zijn grote bedragen voor klein opstartend bedrijf in bijberoep. Een minimale winstmarge per doos maakte van mij niet bepaald een miljonair. Kortingen voor verpakkingsmateriaal, daar kwam ik niet voor in aanmerking: die beginnen pas vanaf een minimale afname van `1000` stuks. Dat maakte de doos met een sticker van het logo al snel erg duur, zelfs zonder inhoud. \\nl\nDe verkoopprijs per doos was `30 EUR`. Gemiddeld werden er rond de 15 dozen gekocht om de twee maanden, of `450 EUR`. Verminder dat met `84 EUR` aan vaste kosten, en `273 EUR` aan totale verzendkosten. Dat leverde uiteindelijk `93 EUR` op. De balans is nog positief, maar nu vergeten we er eenmalige kosten bij op te tellen zoals de aanschaf van software, kosten aan materiaal om recepten uit te werken, de tijd zelf om alles samen te stellen, de aanschaf labeling- en lamineermachines, enzovoort. \\nl\nIk heb verschillende keren getwijfeld om de verkoopprijs per doos te verhogen. Uiteindelijk zag ik af van die beslissing omdat ik van collega’s en vrienden de opmerking kreeg dat het niet goedkoop was voor ‘gewoon wat bloem’. Wat iedereen over het hoofd zag is de eigenlijke inhoud: _de leerstof_. Bloem is overal te koop, het was hem voornamelijk om de desem en de lessen te doen. \\nl\nEen marktonderzoek leverde mij misschien meer inzicht op over de bereidwilligheid van mensen om hier meer voor te betalen, maar zo slim was ik toen niet. \n\nAdministratie verslond tijd die ik liever in het maken van recepten stak. Ik was alleen nog maar bezig met verpakken, mails te beantwoorden, en verloren zendingen terug te zoeken (bedankt DPD!). Als ik die feiten combineerde met de balans van mijn boekhouding was de conclusie snel gemaakt. \\nl\nNa een jaar break-even draaien gaf ik er de brui aan. Zo’n concept in leven blijven houden moet voor mij persoonlijk ook nog motiverend genoeg blijven om het na mijn uren als programmeur te willen blijven doen. Ik ben heel tevreden met het afgelegde traject. Zeker als ik kijk naar het aantal mensen die ik heb leren kennis maken met zuurdesem en de extra workshops die ik heb mogen geven dankzij dit initiatief. \\nl\nEen lepe verkoper vertelde mij eens ‘_ondernemen is de markt lezen_’. Ik had helemaal niets gelezen, en moest ik dat wel gedaan hebben, dan was ik er waarschijnlijk nooit aan begonnen. \n\nMijn ‘eerst doen, dan denken’ attitude heeft me al veel rijke ervaringen zoals deze opgebracht. Ik probeer er een gewoonte van te maken om zo vaak mogelijk te vallen. Anders kan je toch ook niet terug opstaan? \\nl\nIk ben er zeker van dat ik het slimmer had kunnen aanpakken door beter mijn huiswerk te doen. Ik kende niets van marketing, verkooptechnieken, en administratie van een zelfstandig bijberoep. Nu kan ik zeggen dat ik (nauwelijks) iets ken van marketing, verkooptechnieken, en administratie van een zelfstandig bijberoep. Ik ken er weinig van en ik ben er niet goed in, maar tevreden klanten die dit op Facebook posten geven me de kracht om het te blijven doen:\n\n> ‘_Hey Wouter, sinds jouw workshop bak ik wekelijks mijn zuurdesembrood, en ik wil zelfs geen ander (gist)brood meer. Het is zoveel smaakvoller en beter verteerbaar dan alle gist-varianten. Ik kan het iedereen aanraden!_’\n\nIk wilde meer leren over het commerciële aspect van de bakker. Tijdens de avondschool kwamen we hier heel vluchtig in aanraking mee: inkoopprijzen, verkoopprijzen, winstmarges. Maar hoe duur moet een brood zijn om van te kunnen leven? Hoeveel broden per dag moet een bakker verkopen om met een gerust hart te kunnen gaan slapen? Ik had een vaag idee van aantallen door mijn stage en interviews met bakkers. \\nl\nIk herinnerde me het bezoek van Dimitry Lysens en Johan Haiverlain aan De Superette. Dimitry baat samen met zijn vrouw Aagje Moens restaurant Magis uit in Tongeren. Johan is verantwoordelijk voor de bistro boven het restaurant, genaamd Bis. Ze waren reeds een tijdje aan het experimenteren met zuurdesembrood. Ik besloot te polsen naar hun vooruitgang om een bakkerij concept uit de grond te stampen. \n\n### Februari 2016\n\nBij te veel restaurants wordt een snee boerenbrood geserveerd waarvan het zicht en de smaak afbreuk doet aan het eigenlijk gerecht. Wie kiest er nu voor een smaakloze 'afgebakken' _baguette_ bij zijn pasta als er veel betere opties beschikbaar zijn? Gaat je honger ook spontaan over als je een plat broodje voorgeschoteld krijgt dat 'ik ben smaakloos!' schreeuwt? Wegwerken met genoeg boter is een optie. In de betere restaurants, zoals de sterrenzaak Magis, zijn de verwachtingen veel hoger. \n\n‘Ook gebeten door het zuurdesem virus heb ik gehoord?’ vraagt Johan terwijl we kennis maken. Zo zou je het kunnen noemen, ja. \\nl\n‘We willen voedzaam brood serveren. Brood met pit, met karakter. Zoals dit brood met kamut dat je lichaam helemaal zuivert!’ Johan overhandigt mij een stuk brood. Ik bevind mij in de bistro waar we afspraken om wat te praten over brood. \\nl\n‘Erg lekker. Plakt ook goed. Veel water gebruikt?’ vraag ik. Het doet me denken aan een combinatie van De Superette en Tilburg Sourdough[^tilb]. Niet verwonderlijk, aangezien ze met een slap deeg werken en bloem aankopen van de Commandeursmolen[^cmolen], net zoals in Tilburg. \\nl\n‘Goh ja, `70` tot `80%`. Het hangt erg van de bloemmengeling af. Kamut pakt gigantisch veel water op!’ Johan zijn lichaamstaal spreekt boekdelen: deze man straalt passie uit. Hij is chef, maar een echte bakker in hart en nieren, zegt hij trots. \\nl\n‘Ik heb er al veel over gelezen, over de gezondheidsvoordelen van oude granen als kamut. Ongelofelijk. Het is heel voedzaam, niet zoals een doorsnee wit brood.’ Als ervaren chefs beschikken Johan en Dimitry over een grondige achtergrond in de voedingsindustrie. Ik had zelf een brood gebakken en vroeg Johan wat hij ervan vond. Het was een redelijk donker roggebrood wat onmogelijk te vergelijken is met iets als tarwe of kamut. \\nl\n‘Ook goed zeg!’ Mompelt hij tussen het knabbelen door. \\nl\n‘Kom, we zullen eens beneden naar de keuken gaan. Dimitry is net bezig met het vormen van het brood.’ Hij pakt mijn brood mee en samen lopen we naar de keuken van Magis. Daar maak ik kennis met Dimitry, die volop bezig is met deeg.\n\n[^tilb]: 'Tilburg Sourdough' was een bakkerij concept gestart door twee uitgebluste ITers, dat ondertussen uitgebreid werd naar lunchroom 'Pig & Rye'.\n[^cmolen]: De Commandeursmolen ligt in Nederlands Mechelen, achter Maastricht. Het is aangedreven door water, en een van de weinige molens in de buurt die grote hoeveelheden op steen gemalen meel kan leveren, inclusief roggebloem. \n\nMijn handen jeuken. Ik zie een twintigtal rieten rijsmandjes naast hem op de inoxen werktafel. Het is er druk: koks zijn volop bezig met de voorbereidingen van de avondservice. \\nl\n‘Dit gebeurt letterlijk tussen de soep en de patatten. We hebben nog wat moeite om de juiste plaats te vinden om het brood te doen rijzen. Het tocht te veel op die plek en het is te warm op een andere plek. We hebben niet zoveel ruimte tot onze beschikking, dit is immers een keuken, en geen bakkerij.’ Dimitry geeft een korte rondleiding. \\nl\n‘Hier vanachter hebben we plaats voor het kneden en bakken.’ Voorbij de gasvuren, de heteluchtovens, en de koelkasten kom ik in een ruimte terecht waar een spiraalkneder en een steenoven met twee verdiepen staat. \\nl\n‘De oven is nog nieuw voor ons, pas aangeschaft. We zijn nu aan het zoeken hoe we die het beste kunnen instellen voor ons brood.’ \\nl\n‘Zijn jullie pas begonnen met brood bakken dan?’ vraag ik. Dimitry schudt zijn hoofd.\n‘Al enkele jaren, maar op heel kleine schaal. In gietijzeren potten in de heteluchtoven. Daar gaan er maar 6 tegelijk in. Teveel gedoe. We willen dit verder uitbreiden naar 36 broden bakken per keer.’ Johan laat me de lunchmenu van de bistro zien. \\nl\n‘Hier zijn we onlangs mee begonnen. Er is lunch voorzien op vrijdag- en zondagmiddag. Het is momenteel nog aftasten en enkel op reservatie. We zijn normaal ‘s middags niet open.’ Ik zie zuurdesem pizza en een bescheiden variatie van open sandwiches op het menu staan. \n\nEr wordt twee keer per week gebakken om voldoende brood te kunnen hebben voor het restaurant en de bistro. Er zijn ook plannen om het brood te verkopen als het experiment succes blijkt te hebben. Het idee is ontstaan toen Dimitry en Johan een fermentatie workshop volgden in Stockholm. Er werd niet alleen over groenten inleggen gepraat, maar ook een excursie gemaakt naar ‘Bageriet Brød’[^bag], een zuurdesem bakkerij in de buurt. Eenmaal de smaak te pakken (letterlijk dan) zijn Dimitry en Johan begonnen met experimenteren in Tongeren, met behulp van de bekende boeken van Chad Robertson [@tartine]. \\nl\nHun desem starter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is redelijk loperig. Die wordt op een zeer hoge temperatuur gehouden: tussen de `30` en `35° C`. De hoge temperatuur en humiditeit is verantwoordelijk voor die typische zoete melkzuur geur. Ze maken ook gebruik van een nachtelijke fermentatie in de koelkast, in rijsmandjes. \\nl\n‘Johan is twee dagen gaan meedraaien in de bakkerij in Stockholm. Er is superveel goed brood in die stad[^diestad]. Hun moederdeeg is heel warm. Ik zoek altijd een geschikte plek om onze starter de juiste temperatuur te geven.’ Dimitry haalt het potje van de kast en laat mij er aan ruiken. \\nl\n‘Dit ruikt zoals de gefermenteerde degen van De Superette, die waren ook redelijk warm. Zoet.’ Ze waren tijdens mijn stage op bezoek in Gent om Sarah wat tips te vragen. \n\n[^bag]: [https://www.instagram.com/bagerietbrod/](https://www.instagram.com/bagerietbrod/)\n[^diestad]: Lees hier meer over in het artikel '_Why is Stockholm obsessed with sourdough_': [https://www.norwegian.com/magazine/features/2013/02/why-is-stockholm-obsessed-with-sourdough](https://www.norwegian.com/magazine/features/2013/02/why-is-stockholm-obsessed-with-sourdough)\n\n‘Er zijn nog een hoop dingen waar we meer controle over willen krijgen’, zegt Dimitry, terwijl hij zijn kamut broden vormt en in mandjes legt. \\nl\n‘De koelkast van het restaurant staat op `1` tot `2° C`, het brood rijst veel moeilijker zo. Ik kan het niet maken om dit hoger te zetten vanwege vlees en we hebben nog geen aparte koelkast’. Brood dat ik thuis bak laat ik bijvoorbeeld een nacht rijzen op `7° C`, maar dat is natuurlijk mijn eigen koelkast, en ik heb geen restaurant (en vlees noch vis). \\nl\n‘Ons kneedmachine kan maar een deeg van `4 kg` aan, dus we moeten dingen in twee-drie keer doen als we een ander brood willen bakken.’ Het is een beetje goochelen met beschikbare ruimte in de keuken. De Superette is ook een restaurant, maar heeft een afgebakend stuk gereserveerd als bakkerij, wat bij Magis ontbreekt. \\nl\n‘Worden alle broden verwerkt in jullie gerechten?’ vraag ik. 36 broden twee keer per week bakken lijkt me een grote hoeveelheid gegeven de beperkte openingstijden. \\nl\n‘Nee, het brood is ook zo te koop.’ Aha. \\nl\n‘En hoe bepaal je de prijs van een zuurdesembrood? Daar steekt toch wel wat tijd in...’ vraag ik. \\nl\n‘Tja, het brood onder de `4 EUR` verkopen is waanzin. We stoppen er inderdaad veel tijd in, en de lokale biologische bloem van de Commandeursmolen heeft ook zijn prijs. Hier in Tongeren is er nog niet veel vraag naar. Niet iedereen is bereid om meer te betalen dan in de twee Vangrootloon winkels[^vgl] hier in de buurt. Ik wil er genoeg voor hebben. We zullen zien.’ Dat klinkt alsof een marktonderzoek aan de orde is. \\nl\n‘Daar zijn we niet mee bezig. Bakken is een passie voor Johan en mij, en het brood gebruiken we in eerste instantie zelf in onze eigen zaken. Wij zijn onze eigen grootste afnemer. De rest komt later wel.’ \n\n[^vgl]: Een industriële koude bakker. Ter vergelijking: anno 2019 kost een gemiddeld brood van `900 gr` daar `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder geweest zijn. \n\nIk heb hetzelfde dilemma in Gent gezien. Het brood is er ook veel duurder dan de gemiddelde bakkerij: `4.5 EUR`. In Hasselt wordt tegenwoordig datzelfde Superette brood, gebakken in Genk, verkocht voor `6 EUR`. En dat is niet onlogisch gezien de duur van het proces en de prijs van lokaal biologisch meel. Zuurdesembrood van dat kaliber is een compleet ander product dan gistbrood. De smaak, geur, en textuur zijn onvergelijkbaar, dus waarom zou de prijs dan vergelijkbaar moeten zijn? Mensen moeten echter wel bereid zijn om dit te willen betalen. Veel vrienden en familie zijn dit niet. Ik ken in feite maar weinig mensen die bereid zijn om veel geld uit te geven aan goed voedsel in het algemeen. \\nl\nDat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Statistische rapporten tonen aan dat de gemiddelde Amerikaan tegenwoordig ongeveer `10 %` van zijn inkomen uitgeeft aan voedsel [@clauson2008despite]. Figuur \\ref{percincome} visualiseert gespendeerd inkomen aan eten de laatste 60 jaar[^figincome]. Volgens Eurostat is dit in 2017 met `12.2%` voor de gemiddelde Europeaan niet erg verschillend. In 1960 was dit percentage rond de `20%`, en in 1900 kwam dit ruim boven de `40%`. Hoe komt het dan in honderd jaar tijd dit zo sterk gedaald is? Dat heeft niet alleen te maken met de overvloed van tegenwoordige vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Voor een groot deel is dit gewoon omdat men vroeger _bewuster_ omging met voedsel. \n\n![Gespeendeerd inkomen aan eten de laatste 60 jaar. Volle lijn: totaal gespendeerd aan voedsel. Stippellijn: gespendeerd in huis. Dikke stippellijn: gespendeerd buitenshuis. \\label{percincome}](img/inkomen.png){ width=80% }\n\n[^figincome]: Dit is ruwweg gebaseerd op gegevens van het USDA, Economic Research Service, Food Expenditure Series, tabel 7. [http://www.ers.usda.gov/data-products/food-expenditures.aspx](http://www.ers.usda.gov/data-products/food-expenditures.aspx)\n\nOok al kosten luxe producten als een geïmporteerde avocado (`1.40 EUR`), een doosje hand geplukte Bosnische cantharellen (`5.50 EUR`) en zuurdesembrood (`6 EUR`) proportioneel gezien véél meer dan vroeger, toch zijn we er om een of andere reden in geslaagd om het budget dat naar voedsel gaat te halveren. We kopen tegenwoordig meer voedsel voor minder geld, en we spenderen er minder van ons inkomen aan. De vraag is alleen of dat 'voedsel' ook echt _voedsel_ is. Hoe meer we verdienen, hoe meer er beschikbaar is om te besteden aan eten. \\nl\nToch zullen we een kleiner deel van ons totaal inkomen uitgeven. Als middenklassers zijn de meeste van mijn kennissen niet bereid om `6 EUR` te betalen voor goed brood. We worden niet alleen rijker, maar ook gieriger - en zieker. Dit heeft niet alleen te maken met de bereidwilligheid om een redelijk deel van je inkomen te spenderen aan gezond eten, maar ook met de hoeveelheid tijd die je steekt in de bereiding van dat eten. Een vragenlijst samengesteld door Pablo Monsivais en anderen geeft aan dat meer tijd spenderen aan de bereiding van voedsel gepaard ging met een verhoogde kwaliteit van je dieet [@monsivais2014time]. Dat werd gebaseerd op inname van groeten en fruit. Minder dan een uur per dag besteden betekende vaak meer bezoekjes brengen aan fastvoodrestaurants. Hun conclusie? \n\n> _Time might be an essential ingredient in the production of healthier eating habits among adults._\n\nDe beste oplossing is dus gewoon om de tijd te nemen je brood zelf te bakken.\n\nHet meeste brood van De Superette wordt in de verschillende zaken van Kobe Desramaults zelf verwerkt. Dat slim systeem overtuigt klanten van het restaurant gedeelte, die hoe dan ook brood voorgeschoteld krijgen, om na de maaltijd toch nog even te stoppen aan de toonbank van het bakkerij gedeelte. Sarah vertelde dat de bakkerij waarschijnlijk niet kon overleven zonder het restaurant. Deze twee concepten met succes weten te combineren levert niet alleen lekkere gerechten op, maar zorgt er ook voor dat brood verkocht geraakt. \n\nVoor de welvarende mens van West Europa stelt de kostprijs van een brood niet veel meer voor, of het nu over twee of zes euro gaat (het geld effectief _willen_ besteden is een andere zaak). \\nl\nDat is niet altijd het geval geweest, en zorgde vaak voor nationale crisissen, uitbraken van rellen en zelfs moorden. Er zijn bibliotheken vol boeken geschreven over de broodbakgeschiedenis van gildes in Parijs [@kaplanbakersparis] tot invloed op de Britse economie [@petersen2017bread]. Het veiligstellen van een voldoende aanbod aan brood was tot voor kort een zaak van algemeen belang. De woorden van de Romeinse dichter Juvenalis, _panem et circenses_ of brood en spelen, zijn eeuwenoud maar nog steeds erg actueel. Het gaat niet over vlees, vis, eieren of melk. Het gaat over brood: ons dagelijks brood. We vergeten de dag van vandaag welke implicaties de verandering van technieken in het malen en bakken hebben gehad op de maatschappij.\n\n### April 2019\n\nIn april 2019 leerde ik toevallig via een voedselbewuste vriendin van Kristien dat Johan inmiddels zijn eigen bakkerij in Tongeren heeft geopend, genaamd '\\mbox{Brijosh}'. Dat was voor mij reden genoeg om er opnieuw naartoe te rijden. Johan renoveerde een aanpalende ruimte van zijn woning om er twee ovens en een koelkast in te kunnen plaatsen zonder verlies van te veel werkoppervlakte. De bakkerij is open van donderdag tot en met zondag, en er wordt uiteraard voornamelijk zuurdesembrood verkocht.\n\n'Hey Wouter, kom binnen jong!' Johan stond op het punt om roggebrood uit een van de ovens te toveren. Zijn joviale en uitnodigende persoonlijkheid moedigde aan om me onmiddellijk op mijn gemak te voelen, en we praatten wat. Ik vroeg hem naar de ovens die ik van formaat herkende. Het waren kleine, ronde houtovens met twee horizontaal roteerbare stenen verdiepen. Onze vroegere overbuur bakte brood in zijn schuur, waar exact dezelfde oven stond. \\nl\n'Moet je de assen eruit halen voordat je kan bakken?' vroeg ik, denkend aan de oude houtoven van Bokrijk. \\nl\n'Nee, in de onderste klep steek je het hout. Ik kan het u laten zien hoor, wacht.' Johan opende de klep zodat ik de gloeiende kolen kon zien. Hij gooide er wat hout bij op. Een metertje op de oven gaf iets meer dan `200 °C` aan. \\nl\n'Dit hout is echt geweldig. Ik ken een trappenmaker hier in de buurt, die mij overschot aan hoge kwaliteit eikenhout kan leveren. Dat brandt volledig op, geeft het langste en meeste hitte af, en het minste roetdeeltjes.' Hij glimlachte breed. \\nl\n'Andere mensen zouden nogal opkijken, wat ik hier opstook kan in feite nog dienen om meubels mee te maken!' \\nl\n'Stralingshitte is wat ik nodig heb,' gaat Johan verder. 'Ik begin bij rond de `280 °C` en zak stilletjesaan tot in de `200`. Dan is het tijd om bij te stoken. ' \\nl\n'Maar dat duurt misschien lang om op te stoken?' \\nl\n'Drie kwartier.' \\nl\n'Amai dat is snel. Mijn elektrische oven heeft anderhalf uur nodig.' Johan begint te lachen. \\nl\n'Daar gaat uw stroomleverancier blij mee zijn.' \\nl\n'Niet bepaald, we hebben zonnepanelen gelegd' grijns ik. \n\n'En die _deck oven_ in Magis, gebruiken jullie die niet meer?' \\nl\n'Jawel hoor, die staat daar nog. Ik bak hier brood, ook voor de bistro, en Dimi bakt zijn eigen brood. Ik doe dit hier in bijberoep. Nu heb ik mijn eigen ruimte, dat ging niet in het restaurant. Klanten die een brood komen kopen moeten dan door de keuken lopen, dat gaat toch niet? Er was ook te weinig ruimte, dus besliste ik om het gewoon thuis te doen.' Johan haalt zijn schouders op en kijkt rond. Ik volg zijn voorbeeld. \\nl\n'Genoeg ruimte hier!' glimlacht hij. Inderdaad. \\nl\n'En verkoop je ondertussen genoeg? Is het populair, hier in een deelgemeente van Tongeren?' \\nl\n'Weet je, eens als je wat naamsbekendheid hebt opgebouwd, dan volgt uw harde kern van vaste klanten wel. Ik ben begonnen als traitteur, en ben ondertussen zeven jaar met bistro Bis bezig. Daar is reclame maken belangrijk. Alles moet _flashy_ zijn om de aandacht te trekken. Dit hier is iets anders, mijn eigen ding. Ik zou het graag willen uitbreiden, met een lange tafel of zo. Dingen serveren voor bij het brood. Daarvoor moeten we eerst nog meer verbouwen.' \\nl\n'Ja, want die combinatie tussen verbruiken en verkopen blijkt goed te gaan hé, zo deden ze het ook in Gent. Je krijgt een gerecht met lekker brood, en denkt, dat moet ik meenemen naar huis!' herinnerde ik mij. \\nl\n'Zeer zeker! Dat wil ik ook nog doen, maar op kleine schaal. We zien wel.' zegt Johan.\n\n'Hoeveel broden krijg je gebakken in deze ovens?' Ik wijs naar beide ovens. Eentje ziet er veel nieuwer uit. Die blijkt beter geïsoleerd te zijn. Ik sta korter bij de oudere oven, die duidelijk meer hitte afgeeft. Alle warmte is welkom, het is buiten `10 °C` en het regent. \\nl\n'Ik bak ongeveer 20 broden per uur. Dat gaat goed. Er staat nog deeg klaar in rijsmandjes in de koeling. Het is voorlopig genoeg. We zien wel.' De ontwapenende glimlach bekrachtigd zijn gemoedelijke _we zien wel_. \\nl\n'Lukt het ondertussen al beter met de _high hydration_ methode?' vraag ik. \\nl\n'Behalve dat spelt hier,' begint Johan, terwijl hij klopt op een erg plat gebakken brood op het koelrek. ', gaat het goed. Weet je, ik sta al veel verder sinds uw vorig bezoek. Toen bakten we echt volgens stricte regeltjes, om te kunnen bijsturen als er iets misloopt. Dan dat, zoveel van dat, _tjak tjak_. Nu doe ik veel meer op mijn gevoel. Ik weet zelfs niet eens exact hoeveel van wat er in gaat.' Ik knik, denkend aan mijn eigen evolutie in de stiel. \\nl\n'Behalve dat spelt dus. Vorige zomer, in 2018, was veel te heet. Ik bak nu met die oogst, en heb al vanalles geprobeerd. Veel minder water en zo. Maar het is zo rekbaar, en zo snel té ver gegist. Da's te plat hé. _Overfermentatie_ is dat hé.' Ik zie achterin zakken van de Commandeursmolen liggen. Johan knikt. \\nl\n'Ja, nog steeds. Dat meel is echt goed. Maar ik heb nu contact met een lokale boer die spelt teelt. Misschien kunnen we het lokaal malen.' _We zien wel._\n\nToen ik vroeg naar zijn zuurdesem, was Johan zelfs zo vriendelijk om zijn hele broodbakmethode gedetailleerd te beschrijven. \\nl\n'Kijk, Da's is mijn _leaven_. Die staat nu ongeveer twee uur. Bijna klaar, zie ik.' Hij opent een grote doos vol loperige zuurdesem. Ik ruik voornamelijk de zoete toets van tarwe, en nauwelijks een spoortje van azijnzuur. \\nl\n'Twee uur? Wow die is snel klaar! Ik laat die thuis twaalf uur staan.' Maar daar is het veel kouder dan in deze warme bakkerij. \\nl\n'Is dat volledig volkoren tarwe, of nog steeds half/half?' vraag ik. \\nl\n'Dat hangt af van het seizoen, omdat het in de zomer nog sneller werkt. Ik wissel de verhoudingen af tussen de `80:20` en `50:50`.' \\nl\n'En de rijstijden?' \\nl\n'Eerste rijs twee tot drie uur met een keer of twee plooien tussenin. Ik begin dadelijk te kneden als dit hier op punt staat.' Johan schudt met de doos vol zuurdesem. \\nl\n'Rond vier of vijf uur in de namiddag gaat alles in rijsmandjes de koeling in, om 's morgens vroeg te bakken.' \n\nJohan zijn broden zijn tien uur sneller klaar dan de mijne, vanwege de erg snelle gisting van het voordeeg. Dit proefde ik ook in de broden die ik kocht van hem. De uitgesproken maar aangename zoete smaak van gegiste tarwe overheerst. Geen nasmaak, en geen azijn. Mijn brood is vanwege de extra rijstijd en de gekoelde zuurdesemcultuur heel wat pittiger. Ik denk dat brood van Brijosh gepast is om mensen te leren zuurdesem eten. De veelzijdige smaak is ook geschikter om in gerechten van zijn bisto in Tongeren centrum verwerkt te worden. \n\n'En jij Wouter, nog veel aan het bakken?' vraagt Johan. Ik vertel over mijn plannen voor het boek, en mijn voorliefde om anderen iets bij te leren. \\nl\n'Ken je _The Sourdough School_ van Vanessa Kimbell?' Ik knik, en Johan gaat verder. \\nl\n'Zoiets, zo bezig zijn met mensen iets bij te leren, als dat eens uw _core business_ is... Voor mij is een workshop eerder iets vervelends dat ik tussendoor doe. Ik geef soms dingen mee met de instructies het thuis dan maar zelf af te bakken omdat er hier geen tijd voor is. Maar als je van begin tot einde het hele zuurdesem traject kan laten zien, en de tijd neemt om daar een dag aan te spenderen... Dat zou toch geweldig zijn!' Dat zou het zeker... \n\n### November 2016\n\nMijn zoektocht naar commercieel inzicht leidde me tot in Bunnik, dichtbij Utrecht. Op het landgoed van Nieuw-Amelisweerd ligt bakkerij en keuken De Veldkeuken. Hier bakken René van der Veer en Juliette Borggreve hun biologisch brood. De naam ‘Veldkeuken’ is heel toepasselijk: de zaak ligt in een prachtig gebied omgeven door bossen, velden en wandelpaadjes. \\nl\nHet landgoed is opgedeeld in verschillende gebouwen. De bakkerij staat hier dus echt los van de keuken en ligt tien minuten stappen van elkaar af. De keuken neemt een stuk van het koetshuis in beslag waar aan de linkerkant een museum in gevestigd is. Het trekt veel hongerige bezoekers aan die tussen het wandelen door even willen uitrusten. \\nl\nWe werden hartelijk ontvangen door Juliette en bestelden thee om de kou van de gure herfstdag uit onze botten te jagen. Na een blik op het menu zag ik dat de Veldkeuken zich toelegt op brunch, lunch, koffie en taart. \\nl\n‘Ik zal even René bellen die aan het werk is in de bakkerij, dan kan je er zo even langs gaan.’ Ik krijg als voorsmaakje een _levain couronne_ toegestopt, zuurdesembrood in de vorm van een kroon. De korst zag er alvast veelbelovend uit: diep bruin gebakken, en mooi opengebloeid in de oven. \\nl\n‘Kijk schat, mooi hè?’ Ik kon het niet laten om er eens aan te ruiken. Kristien trok een gezicht. \\nl\n‘Daar hangt zoveel bloem aan de bovenkant?’ wees ze. Dat duidt op het gebruik van rijsmandjes die slap deeg de nodige ondersteuning bieden bij het rijzen. \\nl\nOp de broodzak staat de volgende tekst:\n\n> ‘_De Veldkeuken op Amelisweerd. Smaak, kwaliteit, ambacht en eenvoud. Dat vinden wij op het landgoed en in de streek. Groente, fruit en kruiden komen zo veel mogelijk uit de moestuinen van het landgoed. Kaas, melk, eieren, boter, kwark en (slag)room komen uit de directe omgeving van Amelisweerd.\nDe Veldkeuken gebruikt 100% biologische grondstoffen._’\n\n‘Het is hier wel leuk om te zitten na die wandeling’ zei Kristien. Ik had haar gevraagd of ze het zag zitten om een uitstapje te maken naar een mooi natuurgebied in Nederland. Kon ik er wat aan doen dat daar toevallig ook een bakkerij lag? We dronken snel onze thee uit en vertrokken op aanwijzingen van Juliette naar de bakkerij. \n\nHet bakkerij gebouw vlak naast een wandelpad heeft grote ramen die bezoekers doen staren naar zwoegende bakkers. René zag ons staan en wuifde. Zijn handen waren lekker vuil van het plakkerig deeg. Hij schoof het raam open om ons binnen te laten. Er is niet zo veel bewegingsruimte in de huidige bakkerij[^plan]. René geeft ons een korte rondleiding en toont verschillende moederdegen die netjes onderhouden worden. \\nl\nOok hij werkt met bloem van de Commandeursmolen die je in indrukwekkende stapels achterin de ruimte kan zien liggen. Er zijn nog twee andere bakkers aan het werk. Al fluitend worden er cakes in de oven geschoven en krentenbollen in de rijskast gepropt. Er hangt een ontspannen, gezellige sfeer. Ik ben onmiddellijk jaloers: de hectische sfeer die ik kende van De Superette is hier volledig afwezig. Ik neem aan dat dit komt door de strikte scheiding van keuken en bakkerij samen met de bekwaamheid van dit goed geolied team. \n\nIk vraag René naar zijn grote kneder met één arm. \\nl\n‘Oh, die gebruiken wij nauwelijks. Die spiraalkneder daar wordt gebruikt.’ Hij wijst naar een hoek kortbij de oven. \\nl\n‘Is dat niet handiger omdat er meer in kan? En omdat het minder ruw werkt dan de snelheid van zo’n spiraalkneder?’ vraag ik. De spiraalkneder die we in de avondles gebruikten gaf gevaarlijk veel warmte af aan het gekneed deeg. \\nl\n‘Dat klopt, maar wegens plaatsgebrek is dat voor ons momenteel niet de beste optie. Deze muur staat in de weg en aan de oven hebben wij geen centimeter ruimte meer vrij.’ Altijd zeulen met zoveel deeg is niet leuk. \\nl\n‘Hetzelfde probleem met de rijskast in feite. We kunnen het instellen als remkast op lage temperatuur, of als rijskast op hoge temperatuur. Maar we hebben er zo maar ééntje. Het is een beetje puzzelen om alles perfect in elkaar te laten passen.’ \\nl\n‘En hoe gaat de verkoop? Dit landgoed ligt niet erg centraal, het is toch even fietsen vanuit Utrecht. Merken jullie daar iets van?’ vraag ik. René knikt. \\nl\n‘Het brood wordt verkocht in het gebouw van de keuken zoals jullie ongetwijfeld al gezien hebben.’ \\nl\n‘Ja, ’ onderbreek ik, ‘en de prijzen vallen heel goed mee. Volgens mij mag het gerust duurder geprijsd worden hoor. `3.60` EUR voor een desem brood van `900 gr`?’ \\nl\n‘Eerder `800`. Welja, we verkopen het brood via andere verkooppunten. Die winkels nemen hun eigen winstmarge daar nog eens op dus dat is weer net iets duurder. Ik wil het niet te duur maken voor de mensen die de moeite nemen om tot bij ons te komen. We hebben zo heel wat vaste klanten, tegen alle verwachtingen in.’ \n\n[^plan]: Er waren toen wij De Veldkeuken bezochten in 2016 plannen om aan uitbreiding te doen, eventueel op een andere locatie. \n\nDe Veldkeuken combineert verschillende ideeën om het brood te verkopen. Om te beginnen is de keuken opnieuw een grote afnemer van hun eigen brood, zoals bij Magis in Tongeren of De Superette in Gent. Ondertussen ben ik ervan overtuigd dat voor deze zaken die bepaalde combinatie de belangrijkste factor voor hun succes is. Ook hier vertrekken veel wandelaars niet alleen met een gevulde maag, maar ook met een broodzak onder de arm. \\nl\nDaarnaast wordt het brood verder gedistribueerd door winkels in het centrum van Utrecht. Die bestelwagen met het logo van De Veldkeuken staat niet voor niets op de oprit van het bakkerij gebouw. René en Juliette hielden er trouwens twee vestigingen op na: in het domein te Amelisweerd waar de bakkerij ligt, en in het forthuis van Werk aan het Spoel te Culemborg. De laatste locatie sluit eind 2016 om alle aandacht te kunnen richten op de uitbreidingsplannen van de biologische bakkerij.\n\nIk ben onder de indruk van de hoeveelheid desems die René en zijn team actief onderhouden. Ze maken een onderscheid tussen _zuurdesem_ en _desem_: een _zuurdesem_ is in hun ogen een natuurlijke gisting van de bloem met melk- en azijnzuren, en een _desem_ is datzelfde zonder de azijnzuren. Dat is opmerkelijk omdat de naam 'desem' vaak gebruikt wordt om een droge volkoren tarwedesem aan te duiden die meer azijn- dan melkzuren bevat. \\nl\nDe professionele desem wordt in grote flessen aangekocht en is bijna zo vloeibaar als room. Ik vermoed dat deze desem van een handelaar als Puratos komt. Het ander moederdeeg, de _zuurdesem_, is zelf opgekweekt. Net als veel andere bakkers heeft René de kneepjes van het vak in Frankrijk geleerd. \nAls we het hebben over de leerstof, bevestigt René mijn ervaring. \\nl\n‘Dat is hetzelfde hier in Nederland, ’ knikt hij. \\nl\n‘De opleiding stelt weinig voor.’ Het is jammer om te horen dat dit probleem zich ook buiten België stelt. \\nl\n‘In Duitsland komt zuurdesembrood vaker voor. Maar veel bakkerijen gebruiken industriële zuurdesempoeder als smaakmaker in combinatie met gewone gist. Soms wordt zelfs azijn toegevoegd om de roggebroden die karakteristieke zure smaak te geven. Dat is niet bakken, dat is bedriegen.’ Consumenten worden constant belazerd, of het nu in de supermarkt is of in de bakkerij.  \n\nDe enige oplossing die ik zie is bewust bezig zijn met voeding. Zo veel mogelijk te weten komen over wat er nu precies je maag binnen komt. Kritische vragen stellen als 'Wil ik dit wel eten als ik weet dat het op die manier gemaakt wordt?' of 'Sta ik hier wel achter?' Het is niet enkel een gezondheidskwestie, maar ook een belangrijke morele keuze. \\nl\nIk eet graag brood, dus ik leerde wat goed brood was en wat niet. Op die manier kan ik beter de keuze maken om iets op te eten of het te laten liggen. Bakkerijen als De Veldkeuken verkopen hun brood duurder, maar als je weet wat daarachter zit ga je hopelijk wel bereid zijn om een euro meer te betalen. En dan zijn er altijd afzetters die hun brood aanprijzen als hét gezondheidsmiddeltje, terwijl het eigenlijk geen haar beter is als brood van de supermarkt. Ik wapen mij tegen die oplichters met kennis. \\nl\nSoftwareontwikkelaars zeggen vaak ‘meten is weten’ om de nadruk te leggen op het onderzoekende aspect voordat actie ondernomen wordt. In de context van voedsel kan ik ook zeggen: _weten is eten_. \n\nDe bakkerswereld blijkt trouwens een erg klein wereldje te zijn. René en ik praatten over goede andere bakkerijen en we kwamen tot de conclusie dat onze voorkeur op één lijn ligt. Als het woord ‘Parijs’ valt, komt direct ‘Du Pain et Des Idées’ ter sprake. \\nl\n‘We zijn een paar keer in De Superette geweest. We hebben een boek en brood van ons geruild met exemplaren van hun. Dan heb je zeker een goede basis gelegd met je stage daar te doen.’ Daar denken we hetzelfde over. De Veldkeuken is dan misschien een kleine bakkerij en ligt dan misschien op een landgoed in plaats van in een hip stadscentrum, toch komen er regelmatig internationale collega’s over de vloer om kennis uit te wisselen. \nRené vertelt dat hij wel eens met het idee gespeeld heeft om een conventie uit de grond te stampen. \\nl\n‘Maar dat kost erg veel energie. Voorlopig blijft het bij wilde ideeën. Eerst hier uitbreiden.’ Ik vind het geweldig dat er zo’n sympathieke mensen zijn die naast hun veeleisende job ook nog bezig zijn met kennisverspreiding. Dit is verre van de norm in die wereld. Veel bakkers reageren heel defensief wanneer ik vraag om een kijkje te mogen nemen in hun bakkerij. ‘Ik heb ook alles zelf moeten leren, niemand moet mijn kennis komen stelen!’ is de standaard reactie. Daar wordt niemand beter van... \n\nTot nu toe heb ik verschillende strategieën van bakkers gezien om desem meer onder de mensen te brengen. Met behulp van een eetgelegenheid aan de bakkerij zelf, via kleinhandelaars en markten, en natuurlijk zelf verkopen. \\nl\nNaamsbekendheid speelt vast en zeker ook een rol. Zowel De Superette als De Veldkeuken hebben ondertussen een kookboek uitgebracht waar een groot aantal pagina’s exclusief gereserveerd zijn voor zuurdesembrood. Elke zichzelf respecterende chef-kok verkoopt zijn restaurant in de boekhandel en zorgt op die manier voor een extra toestroming van klanten. \\nl\nBakkers met een duidelijke visie zijn actief bezig met kennisverspreiding. Niet alleen door een boek te schrijven, maar ook door nieuwe concepten uit de grond te stampen, workshops te geven, open te staan voor stages, bakkerijen van collega’s te bezoeken en samen te komen om tips te delen. \n\nIk heb mijn zoektocht bewust beperkt tot bescheiden biologische bakkerijen. Om écht inzicht te verwerven in het commerciële aspect werd het tijd om me te wenden tot de industrie. De voornaamste reden om iets op groter niveau aan te pakken is om meer te kunnen verkopen met minder moeite - en dus minder geld. Mijn nieuwsgierigheid won het tijdelijk van mijn weigerachtigheid om kennis te maken met enorme ruimtes die hele rekken sandwiches tegelijkertijd bakken.\n\n### November 2013\n\nIn het industriepark van Sint-Truiden ligt Vangrootloon, een bescheiden bedrijfje die na honderd jaar uitgroeide tot dé grootste bakkerij van Belgisch Limburg. Het gebouw bestaat uit een gigantische hal, opgedeeld in secties waar men vlaaien, sandwiches, speculaas, en brood aan de lopende band (letterlijk en figuurlijk) produceert. Die band loopt van de productiehal tot in de vertrekhal waar het lekkers verdeeld en verpakt wordt om met behulp van tientallen vrachtwagens tot bij de verdeelpunten gebracht te worden. \\nl\nVangrootloon levert niet alleen aan zijn eigen zaken, maar ook aan supermarkten en andere koude bakkers. Een Vangrootloon winkel is deels een koude bakkerij en deels een tearoom. De scherpe prijzen zorgen voor een constante toestroom van klanten die graag koffie bij hun stukje vlaai willen. \\nl\nDe website trakteert ons op slagzinnen als ‘Ruim assortiment van producten: ieder zijn smaak’ en 'Een uitgebreid aanbod aan broden: proef ze allemaal’. En dat is niet gelogen: dit is een traditionele Belgische bakkerij zoals wij Vlamingen ze graag hebben. Veel geluk met het maken van je keuze. De fabriek is best indrukwekkend: bij elke stap van het bakken van taart komt een andere machine kijken, allemaal verbonden met dezelfde band. Het deeg rolt uit de ene machine en wordt keurig uitgestoken door de andere. Een gigantische drukketel kookt de banketbakkersroom en perst de vulling op de bodem. Niet te veel, niet te weinig. De band loopt verder tot aan de oven en hup: weer een vlaai gebakken!\n\nVangrootloon is een familiebedrijf dat in 1918 gebak verkocht met paard en kar. Ondertussen telt het bedrijf in 2019 meer dan 300 werknemers met 23 vestigingen in Limburg en Vlaams-Brabant. Het woord 'ambachtelijk' betekent voor hun werken met streekgebonden en seizoensgebonden producten. Een aardbeientaart wordt in tegenstelling tot bij veel bakkers enkel tijdens het seizoen verkocht. Het gebak wordt om vijf uur 's morgens in vrachtwagens geladen om diezelfde morgen in vitrines van lokale winkels te pronken. \\nl\nVanwege de afstand wil Vangrootloon voorlopig niet verder weg leveren dan Leuven. Toch hebben ze klanten over heel België die indien het écht nodig is voorzien kunnen worden van diepgevroren producten, eerder als uitzondering dan als regel. \n\nProfessionele kneedmachines zijn niet nieuw voor mij, maar grote hoeveelheden deeg zien voorbij rollen op een band om daarna netjes verdeeld en opgebold te worden wel. Zelfs de grote hoeveelheden die Sarah en haar team uit de oven in Gent tovert, stelt weinig voor in vergelijking met wat hier per uur gebeurt.\\nl\nEr komt geen kwastje aan de pas wanneer de sandwiches bestreken worden met ei: ze worden met behulp van perslucht besproeid in grote rekken, om daarna automatisch in ovens gerold te worden. Alles is tot in de puntjes verzorgd en overal is rekening gehouden met hygiëne. De verkoop van grote hoeveelheden maakt het mogelijk voor Vangrootloon om te kiezen voor een lagere prijsklasse. \\nl\nDat lager prijskaartje komt echter toch met een verborgen kost: deze broden zijn gemaakt op _snelheid_, en niet op _smaak_. \n\nIn principe kan men ook op grote schaal met enkel water, bloem, gist en zout lekker brood bakken. Het probleem zit hem in de totale doorvoer van de machines. Traag kneden betekent tijd verliezen, dus minder bolletjes deeg voorbij zien rollen op de band. Snel kneden en machinaal vormgeven oefent grote druk uit op het deeg dat het gluten netwerk doet scheuren. Dat is meestal een van de momenten waarop er vertrouwd kan worden op de toegevoegde additieven. \\nl\nInconsistentie is de grootste vijand van de bakker die geen kans krijgt door frequente, hetzij minimale, wijzigingen aan het proces. De ene oogst is de andere niet. Handwerk, gevoel en ervaring spelen hier veel beter op in dan een lopende band. In dat geval is het weer de verbeteraar die de dag redt. \n\nGelukkig is niet alles is volledig geautomatiseerd. Getalenteerde bakkershanden komen aan de pas bij onder andere het maskeren van taarten met _crème au beurre_ in de koude sectie. Bakkers in dienst bij grotere fabrieken zijn specialisten die zich toeleggen op één onderdeel van het proces. Vacatures worden niet uitgeschreven als 'broodbakker gezocht', maar als 'kneed expert gezocht' of 'verdeler gevraagd'. Die industrie trekt ook verdacht veel ingenieurs aan die de verantwoordelijkheid krijgen om het productieproces nog verder te 'optimaliseren'.\n\nVeel geld verdienen kan dus met behulp van automatisatie en opzet van filialen, gegeven een voorafgaande grote investering. Ook al weten de machines een zekere indruk te maken, toch verliest 'ambachtelijk' bakken op zo'n grote schaal een groot stuk van zijn karakteristieke charme, ook al is de grootste bakkerij van Belgisch Limburg niets in vergelijking met volautomatische fabrieken die zo groot zijn als enkele voetbalvelden. Er ontbrak één belangrijk ding in de fabriek dat ik wel hoopte te vinden zo'n honderd kilometer meer naar het zuidoosten: _zuurdesem_. \n\n\n### Februari 2014 \n\n\\index{Lactobacillus!sanfranciscensis}\n\nHet '_Puratos Center for Bread Flavour_' ligt in Duitstalig België, in een klein heuvelachtig dorpje genaamd Saint-Vith. De naam van het centrum belooft alvast veel. Ik werd er hartelijk ontvangen door Karl De Smedt, de communicatiemanager van de bakkerij afdeling. Karl reist heel de wereld rond op zoek naar nieuwe soorten zuurdesemculturen. Dit zijn mensen die uren kunnen blijven praten over bloem en gist. Ik was aan het juiste adres. \\nl\n‘Er zijn veel zuurdesem tradities over heel de wereld. De Grieken fermenteren hun desem met basilicum. In San Francisco werken ze met natte, warme desems. Die cultuur is uniek en bevat de melkzuurbacterie _Lactobacillus Sanfranciscensis_. In Alaska is het erg koud en werd desem vroeger tegen het lichaam gedragen. Lichaamstemperatuur geeft dan weer een andere bacteriecultuur. De omgevingsvariabelen samen met de bloem zorgen voor een unieke smaak.’ Puratos stuurt mensen zoals Karl op ontdekkingstocht om nieuwe bacteriesoorten mee naar huis te brengen. \\nl\n‘Wij werken samen met professor Marco Gobbetti die in zijn laboratorium in Italië alle gisten en bacteriën isoleert. Een rijke cultuur bevat meer dan duizend verschillende soorten. De volgende stap is de geïsoleerde organismen van verschillende culturen te combineren en zo de ideale nieuwe cultuur op te kweken. Zo ontwikkelen wij onze eigen zuurdesem producten. We beschikken momenteel over meer dan vierhonderd verschillende melkzuurbacteriën.’ \n\nWe komen aan in een bakkerij die als testlab fungeert om te kunnen experimenteren met de gisten in het broodbakproces. Karl laat me verschillende poeder- en vloeibare desems ruiken en proeven. Ik ben verrast van het scala aan kleuren en smaken: van zoet naar zuur, van donkerbruin gekarameliseerd naar lichtgeel. \\nl\n‘Sommige producten worden als algemeen rijsmiddel verkocht. Anderen fungeren als specialist: die moeten dienen voor baguettes of voor zachte luxe. Door te spelen met de organismen kunnen we blijven proberen tot we de ideale combinatie ontdekt hebben.’ Mijn verwonderde blik doet Karl glimlachen. \\nl\n‘We hebben hier regelmatig bezoekers over de vloer die onder de indruk zijn. Hier komen bakkers op zoek naar de heilige graal om hun proces te optimaliseren, maar ook Aziatische managers van enorme ketens die smaak en technologie wensen te combineren.’ \\nl\n‘Kan ik ook een stuk brood proeven in plaats van de desem zelf? Dat geeft een completer beeld’, zeg ik, wijzend naar de netjes geordende stapel afkoelende broden in het rek. Karl schudt zijn hoofd. \\nl\n‘Sorry, die zijn voor een belangrijke demonstratie weggelegd. Ik had misschien iets extra moeten laten bakken… Maar hier, pak een zak van onze O-Tentic mee om thuis te proberen!’ Hij overhandigt me een zak van `2 kg` en ik bedank hem uitvoerig. \\nl\nOp de zak staat ‘_O-Tentic DURUM - Dosage: `4%`_’. De hoeveelheid geeft aan hoe je dit product dient te gebruiken. Het werkt als een vervanger voor gedroogde gist en voegt tegelijkertijd smaken van verschillende gecombineerde bacteriën toe die ontdekt zijn door de Marco Polo’s van zuurdesem. Ik heb er verschillende keren mee gebakken toen ik terug thuis kwam en moet bekennen dat het op korte tijd toch aardig wat smaak weet te introduceren. Die producten zijn immers gemaakt voor degen die onder de vier uur klaar zijn. \\nl\nEr zijn op internet nog andere bronnen om aan wereldculturen te geraken zoals Sourdoughs International[^sdnat]. Via die website is iedereen maar één klik verwijderd van een Finse, Russische of Australische gedroogde zuurdesemcultuur.\n\n[^sdnat]: [https://www.sourdo.com](https://www.sourdo.com)\n\nDe gebouwen in Saint-Vith zijn overgenomen van een oude veehouderij. Wanneer Karl me verder leidt naar een van de bijgebouwen waar hun producten geproduceerd worden, vertelt hij: \\nl\n‘Dit was vroeger een boerderij. De machines die je nu hier ziet werden toen gebruikt om het teveel aan melk te verwerken tot melkpoeder. Dat is ideaal voor ons: wij verwerken het teveel aan zuurdesem ook tot poeder. Klanten kunnen kiezen of ze de desems vloeibaar kopen of niet. Door de grote luchtstroming droogt elk deeltje heel snel uit en bekomen we zo uiteindelijk het poeder.’ Sommige klanten kunnen niet kiezen als het op de wetgeving aankomt: in Frankrijk is er een wet die het gebruik van actieve desems verplicht. Puratos exporteert dan hun vloeibare producten. In Duitsland werken veel bakkers met wat Karl ‘opstartdesem’ noemt: desempoeder dat ook verkocht wordt in Duitse supermarkten. René van bakkerij De Veldkeuken bevestigde dit verhaal. \\nl\nIk heb moeite om Karl te begrijpen door het lawaai van de machines. Puratos verkoopt geen vastere desems: alles is meer water dan bloem, over de `100%` hydratatie. Vloeibare desem maakt de verpakking en transportatie eenvoudiger. \n\n‘De meeste bakkers die onze desems kopen maken gebruik van een speciale machine om die op te kweken en op temperatuur te houden. Dat is eigenlijk een grote incubatie kast van inox met een kraan om desem af te tappen die in het brooddeeg gekneed wordt.’ Die machine had ik zien staan in hun bakkerij. Het is een groot ding dat door groothandelaars verkocht wordt onder de naam ‘zuurdesem productie machine’. Het inoxen ding schreeuwt industrie. \\nl\nVanuit België vertrekken dus liters aan vloeibare desem die naar binnen- en buitenland stromen. Hoe kan Puratos wel de versheid garanderen die ik niet kon met mijn Desem Doos? Tijdens het wandelen van machine naar machine, antwoordt Karl: \\nl\n‘Goede vraag! Zuurdesems kan je opdelen in verschillende categorieën. Type I[^types] is de typische traditionele desem die door verversen in leven gehouden wordt.’ Dit is het type van desem die ik gebruikte in mijn doos. \\nl\n‘Dan heb je onze vloeibare desems, dat is type II. Een speciale fermentatie stap boven de `30° C` gecombineerd met een langere periode van rust zorgt voor een stabiele samenstelling die beter bewaart. Type II wordt gebruikt als natuurlijke verbeteraar. Je hebt nog altijd gist nodig die wij toevoegen aan het product.’ De stabilisatie van een desem vereist het gebruik van speciale apparatuur zoals grote drukketels. Ik kan thuis niet zomaar type II desem maken, ook al zou ik het willen. Het verlies aan goede rijskracht maakt voor mij deze soort zuurdesem niet erg aantrekkelijk. \\nl\n‘Dan heb je nog type III, dat is de gedroogde versie van type II. De bacterieculturen verschillen wel degelijk door het droogproces.‘ Het product dat ik meekreeg, O-Tentic, bevat ook gedroogde gist. \n\n[^types]: Lees hier meer over in een verslag over functionele en technologische aspecten van zuurdesem fermentatie [@yazar2012functional]. \n\nEr hangen verschillende informatieve bordjes in de ruimtes over fermenteren. Een bondige samenvatting in de vorm van een grafiek blijft me bij. De x-as gaat van droog naar nat en de y-as gaat van koud naar warm. Rechtsboven stond ‘LAB+’: meer _Lactic Acid Bacteria_ of melkzuren. Linksonder stond ‘AAB+’: meer _Acetic Acid Bacteria_. Hoe warmer en natter je desem, hoe meer melkzuren. Hoe kouder en harder, hoe meer azijnzuren. \\nl\nZowel René als Sarah van De Superette maken handig gebruik van dit feit door hun desem op een lekker warm plaatsje te laten staan. Thuis heb ik er meer moeite mee omdat ik niet zoals professionele bakkers elke dag gebruik maak van mijn desem. Die leeft door de week in de koelkast op `7° C`. Azijnzuur is het logische gevolg daarvan. Dat los ik op door een dag op voorhand de desem verschillende keren aan te lengen met bloem en water. \n\nIk vertel Karl over mijn opleiding en mijn ideaalbeeld om desem terug alledaags te maken. Hoe overtuig ik iemand van zuurdesem? \\nl\n‘Daar heb ik wel advies voor, moest je ooit beginnen met een micro bakkerij. Begin zoet. Mensen zijn geen complexe smaakpaletten meer gewoon. Probeer gradueel over te schakelen. Ververs je desem met korte periodes in een warme omgeving. Leer het ze eten!’ Hij neemt het potje met mijn zuurdesemcultuur dat ik had meegebracht nog eens vast en ruikt eraan. Een denkpauze volgt. \\nl\n‘Zoals je desem hier. Te veel azijnzuur. Zet hem eens op `24` tot `25 °C` en ververs vaker. Ook bij het verkopen van brood hebben mensen nog te veel het idee van een klassieke _boterham_ in hun hoofd. Brood moet voor hen gebakken zijn in een bakvorm en smeerbaar zijn. Geen grote gaten, oh nee, daar valt de chocopasta uit! Bak dan ook zo’n brood, maar dan met desem. Stapje per stapje overschakelen naar een rijke smaak.’ \\nl\n‘Bak jij thuis ook zelf brood met zuurdesem?’ vraag ik. Hij knikt bevestigend. \\nl\n‘Maar mijn vrouw heeft graag _sneekes_, zoals veel Vlamingen. Dus bak ik gewoon in een bakvorm. Maar wel met desem!’ Een knipoog. Lepe kerels, die managers. \n\nDe kers op de taart is natuurlijk de bibliotheek in het Brood Centrum. Dit is geen gewone bibliotheek waar je boeken kan lezen, maar een zuurdesem bibliotheek waar unieke desemculturen tentoon gesteld staan. \\nl\n‘Ben je er klaar voor?’ vraagt Karl, de klink van de deur vasthoudend. Ik neem aan dat iedereen erg trots is op de eerste bibliotheek in de wereld van zuurdesem. We stappen een donkere ruimte in die piekfijn afgewerkt is met hout. \\nl\n‘In deze koelcellen bewaren we desems van bakkerijen over de hele wereld. Een bakker kan een stukje desem afstaan dat wij verder onderhouden. Hij moet dan jaarlijks ook zijn bloem leveren. De omgeving wordt exact zoals in hun bakkerij nagebootst om de cultuur identiek te houden. Als hun bakkerij bijvoorbeeld afbrandt, sturen wij de desem terug op. Zo verliest de bakker nooit zijn unieke smaak!’ \\nl\n‘Dus elke bakker kan zijn desem bij jullie in bewaring laten houden?’ \\nl\n‘Dat zou betekenen dat we plaats moeten maken voor elke bakker op de hoek. Nee, dat gaat niet. Wij zijn natuurlijk geïnteresseerd in unieke culturen die wij nog niet hebben. Variëren is de boodschap. Maar hier staan ook desems van bekende bakkers zoals Eric Kayser van Parijs.’ \n\nBij elke koelkast hangt een plaatje met uitleg: origine, soort bloem, methode om te onderhouden. Sommige desems zijn heel vloeibaar, maar de meesten zijn vaster. De luchtbellen en het verschil in kleur van de bloem zorgt voor een fraai schouwspel. Veel Italiaanse desems verklappen de samenwerking met een Italiaanse professor. De gouden kleur van harde durum tarwe is leuker om naar te kijken dan saaie gebleekte bloem. \\nl\n‘Betekent dit dat jullie elke dag deze desems moeten verversen?’ Karl schudt zijn hoofd. \\nl\n‘Dat zou ook te veel werk vergen. Om de paar maanden doorlopen we een aantal uitgebreide opkweek fases, waarna ze teruggeplaatst worden hier in de glazen potten.’ Karl gaat zitten achter een bureau en zet de beamer aan. Een projectie over de geschiedenis van de bibliotheek vult de witte muur. \\nl\n‘Dit is een bibliotheek. Betekent dit dat ik een desem kan uitlenen?’ Opnieuw hoofdschudden. \\nl\n‘Het doel van de bibliotheek is om de biodiversiteit van zuurdesem culturen te bewaren. Niet om ze zomaar uit te lenen. We zijn begonnen met 43 verschillende culturen en hebben er ondertussen meer dan 80. Zoals ik al zei zijn we geïnteresseerd in variatie. Elk jaar concentreren we ons op specifieke regio’s. Die culturen worden eerst door professor Gobbetti geanalyseerd.’ Dat klinkt als een win-win situatie: de bakkerij zijn desem is gered van een potentiële ondergang, en Puratos heeft er weer een paar bacteriestammen bij. \\nl\n‘Het is een _non-profit_ initiatief’, verzekert Karl mij, ‘het enige wat wij eisen is een jaarlijkse hoeveelheid bloem om te gebruiken bij het verversen.’\n\nPuratos verkoopt niet alleen desem. Ook conventionele gedroogde gist wordt er gefabriceerd. Hun gamma aan producten beperkt zich niet tot brood: een bakker kan er ook kersenvulling aankopen voor zijn taarten. Zelfs chocolatiers zijn bekend met het merk, van _compound_ tot praliné en chocolade zelf. Dit is een internationaal bedrijf met wereldwijd meer dan 7000 mensen in dienst. Op zo'n schaal is het niet meer dan logisch dat het merendeel van hun cliënteel bestaat uit industriële bedrijven. \\nl\nEn toch doen ze de moeite om hobbyisten zoals mij met plezier te ontvangen en de tijd te nemen om me rond te leiden. Mijn oordeel over de industrie heb ik na mijn bezoek grondig moeten herzien. De aandacht en liefde voor zuurdesem binnen Puratos kan alleen maar betekenen dat, zoals ook mijn wens is, desem meer onder de mensen gebracht wordt. Er zijn immers meerdere wegen die leiden naar eenzelfde doel. Zoals Karl zei: 'wij wensen zuurdesem terug op de markt te zetten'. De producten van Puratos doen de bakker kennis maken met zuurdesem, ook al wordt het voornamelijk gebruikt als smaakmaker in combinatie met conventionele gist. \\nl\nMisschien werkt het zoals mijn broodbakmachine: een deur die opent naar een  wereld boordevol pittige smaken, nieuwe texturen, en oneindig veel mogelijkheden…\n\n### Mei 2019\n\nVijf jaar later spreken Karl en ik in context van mijn boek opnieuw af in Saint-Vith. Het was een leuk weerzien waaruit bleek dat Puratos niet heeft stilgezeten. De culturen in de bibliotheek zijn uitgebreid tot meer dan 120, er zijn nieuwe producten ontwikkeld, en er is zelfs een nieuw gebouw bijgekomen dat de geschiedenis van brood en desem uit de doeken doet in de vorm van een privémuseum. \\nl\nWe brachten deze keer al bakkend samen twee dagen tijd door. Ik wilde al doende een beter beeld krijgen van mogelijke toepassingen van hun zuurdesem producten. Dimitri vergezelde me de eerste dag en keek zijn ogen uit.\n\n'En, wat willen jullie bakken?' vraagt Karl ons. \\nl\n'Dat Altamura brood waar we het vorige keer over hadden, dat zou ik eens graag willen maken. Maar dat gaat niet zonder die Italiaanse bloem, zeker?' Karl glimlacht breed. \\nl\n'Natuurlijk gaat dat! Jullie zijn hier bij Puratos hé, hier gaat alles. We zullen straks eens kijken of er nog genoeg in stock is. En wat nog?' Ik keek naar Dimitri, die niet onmiddellijk iets kon verzinnen. \\nl\n'Wat dacht je van baguettes?' stelde ik voor. 'Ik heb altijd moeite met de juiste vormgeving als er veel water an de pas komt.' \\nl\n'Goed, baguettes, kunnen we zeker doen. Wat nog?' \\nl\n'Een typisch San Francisco brood zou ook wel leuk zijn, om te kunnen vergelijken met wat wij gebruikelijk thuis doen.' \\nl\n'Zeer goed. _Let's get started then!_'. Op naar de test bakkerij. \n\nNa het aantrekken van de nodige haarnetjes en witte jassen, betreden we de bakkerij. Zoals vorige keer hangt in het hele centrum een aangename, complexe geur van gebakken gist. Heerlijk om zo elke dag op je werk toe te komen. Dat is iets heel anders dan de muffe geur van een slecht verlucht klaslokaal. \\nl\nKarl laat ons telkens `2 kg` bloem en `40 gr` zout afwegen. We beginnen met het iconische Italiaanse brood, waar een speciale soort zeer fijn gemalen durum tarwe voor gebruikt wordt, genaamd '_semolina rimacinata di grano duro_'. Op de zak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die van een échte Altamura zuurdesemcultuur teruggevonden zijn. \\nl\n'Dit is gedroogde desem met toegevoegde gist, vitamine C, en enzymen. Dat is natuurlijk niet hetzelfde als een vloeibare desem, in het droogproces gaan veel organismen verloren. Dit is een kant-en-klare oplossing voor een bakker die meer smaak wilt toevoegen, zonder van zijn gekend schema te moeten afwijken. Het is kiezen natuurlijk, begrijp je?' Wij knikken en wegen de aanbevolgen dosering van `4%` af. \n\n'Hoeveel water gaan we hiervoor gebruiken?' vraag ik, terwijl Karl alles in een spiraalkneder kiepert. \\nl\n'Semolina drinkt enorm veel. Misschien tot `80%`, we gaan zien. We gaan zien. Voeg nooit aan het begin in één keer al het water toe, dat kan je tot `65%`. Vanaf dan laten kneden, en gradueel toevoegen. Dan heeft het gluten netwerk ook de tijd om het water op te nemen, en kunnen we alles beter controleren.' De autolyse stap die ik thuis hanteer heeft hetzelfde doel. \\nl\nNa een grondige windowpane test verdelen we het deeg in vier. Het deeg is plakkerig, maar niet onhandelbaar. \\nl\n'Dat is nu wat ze _Velvet_ noemen, mannen,' glundert Karl. Fluweelzacht deeg dat aangenaam is om mee te werken. Het gevolg van lang en intensief kneden, dat deze harde tarwesoort gemakkelijk kan doorstaan. \\nl\n'We gaan dat even laten rusten en in de koeling zetten tot morgen om verder te vormen en dan onmiddellijk te bakken.' Het met DOP[^dop] beschermde Altamura brood is alles behalve zuur en rijst dan ook veel korter dan mijn tarwe boerenbrood. De tweede dag bakten we het een uur op `240 °C`. Dit brood heeft een dikke korst die een romige, dichte gele structuur verbergt, ondanks de grote hoeveelheid water. \n\n[^dop]: Een '_Denominazione di Origine Protetta_' certificaat, ofwel een bescherming van oorsprong, bepaalt dat producten lokaal gekweekt en verpakt worden. IGP, of '_Indicazione Geografica Protetta_', is een ander label dat minder strikt is. Bekende DOP producten zijn Balsamico (di Moderna), San Marzano tomaten, en uiteraard Parmezaanse kaas. \n\nDaarna volgde het baguette deeg. \\nl\n'Hiervoor gaan we een vloeibare desem gebruiken met rogge.' Karl haalt een grote plastieken container uit de koeling en weegt `15%` af. \\nl\n'Amai, dat is érg vloeibaar! Heeft dat een bepaalde reden?' vraagt Dimitri. \\nl\n'Hier zit twee derde water in. Dat is nodig voor de verpompbaarheid. Een vastere desem kan niet door onze systemen verwerkt worden.' \\nl\n'Mijn zuurdesem bewaar ik thuis ook in de koelkast, maar heeft na een dag of drie reeds honger, ook al is het gekoeld. Hoe lang kan je dit product bewaren?' \\nl\n'Twee maanden. Dat komt door de erg hoge zuurtegraad. Dit is gestabiliseerde zuurdesem, type II. Neem morgen uw cultuur eens mee, dan kunnen we de pH en de totale aciditeit eens meten.' De vloeibare desem ruikt ondanks de zuurtegraad toch nog redelijk zoet. Het roggemeel kleurt het vloeibare mengsel tot een grijsbruine massa, vol met duidelijk zichtbare tikjes zemelen. \\nl\n'We moeten hier wel een beetje verse gist aan toevoegen. Door die verzuring is de rijskracht zo goed als weg. Dat zou misschien gaan als we drie dagen tijd hebben. Het is weer kiezen hé.' In de gedroogde O-Tentic oplossing zit reeds toegevoegde gist, terwijl je met de vloeibare desem zelf de verhoudingen kan bepalen. \n\nVoor het baguettedeeg gebruikten we '_farine de tradition_', een Franse crèmekleurige bloem met toegevoegde diastatische mout. Dit komt ruwweg overeen met T65, waar de mout helpt met de kleuring en rijskracht. \\nl\n'Dat wordt toegevoegd voordat de zakken bloem vertrekken bij de molen. Veel bakkers weten niet eens wat er nu precies in hun bloem zit, maar ze vervloeken wel onze producten omdat het chemisch of ongezond zou zijn. Ascorbinezuur, enzymen, of mout zijn erg frequente en natuurlijke additieven die wij ook gebruiken. De O-Tentic is niet meer dan een gedroogde vorm van een van onze vloeibare desems, met die extra's. Daar is niets chemisch of slecht aan. Als een bio bakker stoeft met zijn '100% natuurlijk' label, vergeet hij meestal de toevoegingen van de molenaar. Dat is soms wel frustrerend voor ons,' verklaart Karl. \\nl\n'Het is zelfs zo dat we merken dat consumenten meer bezig zijn met wat er op het etiket staat. Dingen als emulgatoren schrikken af, en worden meer en meer vervangen door enzymen, ook al bereik je daar nooit hetzelfde resultaat mee, zeker niet met vetter deeg als een brioche.' \\nl\n'Zijn dat recente trends die jullie ontdekken?' \\nl\n'In zekere zin wel, en wij zijn daar erg bewust mee bezig. Toen aangetoond werd dat bromaat kankerverwekkend kon zijn, hebben wij onmiddellijk geslist om daarmee te stoppen. In veel Amerikaanse staten wordt dat nog veelvuldig toegepast om deeg op te blazen. Het is niet alleen een kwestie van de markt te volgen, maar ook om op een verantwoorde manier de voedingsindustrie te kunnen helpen. Zie je, met enzymen kan je fantastische dingen doen.' Ondertussen controleert Karl het baguettedeeg door de kneder stil te leggen en er eens aan te trekken. De tweede snelheid wordt ingezet en nog wat water toegevoegd. \\nl\n'Ik geloof eigenlijk niet in een toekomst van de industriële bakker versus de artisanale, maar in een snelle of een trage bakker. Als het op een industriële schaal mogelijk is om consumenten te bedienen van betaalbaar brood dat smaak heeft, en dat lang genoeg gerezen heeft om nutriënten eenvoudiger te kunnen opnemen, wat kan je daartegen hebben?' Niets, neem ik aan?\n'Als artisanale bakker kan je je nog genoeg onderscheiden van de grote mannen met een eigen verse desem, met variatie, en met sneller in te spelen op de vraag. Voor een productielijn duurt het immers maanden om iets aan te passen.'\n\nWe beginnen aan het derde deeg, het legendarische Amerikaanse brood van de westkust. \\nl\n'Hier staat '_high gluten flour_' op, hoeveel eiwitten zitten daar dan in, Karl?' vraag ik, terwijl ik opnieuw `2 kg` bloem afweeg. \\nl\n'Dat kan tot `15%` gaan, dat weet ik niet vanbuiten.' \\nl\n'Is dat Canadese bloem?' \\nl\n'Zeer waarschijnlijk.' \\nl\n'Wauw, zoveel eiwitten in bloem?' vraagt Dimitri verwonderlijk. 'Zou dat ook lukken om lokaal te telen?' Karl schudt zijn hoofd. \\nl\n'Onmogelijk. De meeste Belgische bloem is niet bakwaardig en bestemd als veevoeder. Het klimaat laat dat simpelweg niet toe. Die grote hoeveelheid gluten ga je straks en morgen zien werken. Dat ontploft in de oven en de warme rijskast. Drinkt ook erg veel.' Hij neemt een andere vloeibare zuurdesem uit de koeling om hierbij te gebruiken, op basis van tarwe. Deze desem is nog zoeter dan de vorige, en doet denken aan het aroma van groene appels. Ook hier wordt een minimale hoeveelheid verse gist in het deeg verwerkt. \\nl\n'Er is natuurlijk ook iets te vinden voor lokaal geteelde tarwe. Ik werk graag met bloem waarvan ik weet dat ze vijf kilometer verder groeide. Daar pas ik mijn methode graag voor aan. Canadese bloem, of die van Altamura, is ook niet zomaar te verkrijgen' leg ik uit. \\nl\n'Ik begrijp helemaal wat je bedoelt, Wouter. Ik werk thuis graag met Duitse spelt, en maal dat zelf met een klein molentje. Geweldig, en verslavend om te doen. Maar bakkers moeten volledige controle over het proces hebben, ook als de oogst eens tegen zit. Mariette van op de hoek wilt immers dagelijks hetzelfde brood. Vandaar de toegevoegde enzymen bij de molenaar. Als we in ons deeg hier nog verbeteraar zouden toevoegen, kunnen we met onze ogen toe bakken. Maar ik heb het gevoel dat jullie niet zo'n verbeteraar mannen zijn...' lacht Karl. \\nl\n'Ik neem aan dat mensen als Chad Robertson ook zo'n bloem hanteren?' vraag ik. \\nl\n'Natuurlijk. Je ziet in zijn boeken en op Internet zo'n mooie opengebarsten broden, met belachelijke hoeveelheden water. Mensen proberen dat ook en krijgen dan soep in de plaats van deeg. Wat ze niet weten, en nergens duidelijk staat uitgelegd, is dat die bloem totaal anders reageert op water, zie je. Dat is erg hip tegenwoordig, _high hydration_. Ik zie het nut er eigenlijk niet van in. Het moet nog steeds werkbaar zijn. In een bakkerij moet alles eenvoudig hanteerbaar zijn. En zo'n smaakverschil geeft het niet hoor.' \\nl\nIn het kader van dezelfde hanteerbaarheid leert Karl ons om natter deeg een beetje te laten verkorsten voordat we verder gaan met het opbollen. Dat, samen met enige behendigheid met een deegsteker, en het probleem is opgelost. \n\nDe volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo enkele metingen uit te voeren. Karl mengt `10 gr` van mijn zuurdesem met `100 gr` gedestilleerd water om het pH niveau te meten. Een klein magneetje in een magnetisch veld zorgt voor het mengen, terwijl een sonde de zuurtegraad registreert. De meting stopt op `3.5`. \\nl\n'Oef. Dat is erg weinig. Hij rook ook erg zuur. Laten we nu eens de TTA meten om te zien hoe zuur dit effectief ervaren wordt.' Ik had op vraag van Karl mijn cultuur ongevoed meegebracht, dus dat laag getal verbaasde me niet. \\nl\n'TTA?' vraag ik. \\nl\n'_Total Titratable Acid_. Daarmee meten we de aanwezige zuren. Dat is niet hetzelfde als pH. Voedsel kan een lage pH hebben, maar toch nog relatief weinig totale zuren bevatten, zodat de sensatie van het zuur in de mond minder hard aankomt. Als je dit hier volledig onder controle hebt, dan kan je in de bakkerij alles. TTA is enorm belangrijk om fermentatie goed te kunnen controleren.' Ondertussen voegt hij druppel per druppel natriumhydroxide toe aan de zuurdesem oplossing, zodat het pH stijgt tot `8.5`. De hoeveelheid toegevoegde hydroxide, `9`, is de TTA eenheid. \\nl\n'Amai, dat valt goed mee. Ik had veel erger verwacht.' \\nl\n'Dus mijn desem heeft een erg lage pH maar is niet zo zuur als verwacht?' \\nl\n'Juist. Die vloeibare desem die we in het San Francisco deeg gestoken hebben? Die heeft een TTA van `25`.' \\nl\n'Wow. Maar dat is vanwege het stabilisatieproces van zo'n type II zuurdesem, neem ik aan'. Karl knikt. \\nl\n'Ik neem aan dat opkweken een grote invloed heeft op deze waardes?' \\nl\n'Absoluut, het resultaat is telkens anders, en op die manier kan je het fermentatieproces beter inschatten en controleren.'\n\nWe meten daarna dezelfde waardes voor brood dat ik drie dagen geleden bakte met diezelfde zuurdesemcultuur. Dat had een pH van `4.5` en TTA van ongeveer `7`[^ttarye]. Het brood was al wat uitgedroogd, waardoor het zuurder proefde dan de dag waarop het gebakken was. \\nl\nHet pH niveau van mijn zuurdesem ligt op de grens van de aanvaarde normale waardes (tussen de `3.57` en `6`), terwijl de TTA wel redelijk oké was (tussen de `2` en `12`) [@paramithiotis2005application]. De zuurtegraad stabiliseert terug door tijdens het verversen zo goed als alles weg te gooien en in verhouding veel bloem en water te gebruiken. Dat is nu eenmaal het leven van een cultuur in de koelkast. Ik vraag Karl voor wat tips om verzuring tegen te gaan. \\nl\n'Wel, ik zou een tijdje een vastere desem maken, en het in water bewaren. Dat neemt de zuren op, zoals bij een Italiaanse panettone desem. Chinezen voegen alkali toe voor hun gestoomde broodjes, die willen absoluut geen zure smaak. Maar gewoon een aantal keer vaker verversen op kortere tijdstippen zal ook al helpen. Om de vier uur bijvoorbeeld. En 's nachts ook opstaan hé!' Dat laatste advies volg ik al door enkele dagen voor het bakken de cultuur terug op te kweken. \n\n[^ttarye]: Het betrof een `80%` tarwebloem, `20%` roggemeel, `5%` boekweit brood met `70%` water en `2.3%` zout. Een typische pH waarde voor roggebrood met `70%` rogge of meer is `4.4`, en `4.7` voor gemengd brood met ongeveer `30%` rogge. Een typische TTA waarde voor roggebrood met `70%` rogge of meer is `8`, en `6.5` voor tarwebrood met minder dan `50%` rogge [@katina2014process]. Dat komt dus keurig overeen.\n\nAls afscheidscadeau duikt Karl de opslagruimte in om een zak `25 kg` durum bloem uit Altamura te halen. \\nl\n'Hier, pak dat maar mee, dan kan je nog wat experimenteren voor je boek.' De zak verdwijnt samen met de gebakken producten in de koffer van de auto en ik bedank Karl uitvoerig. De rit naar huis was een ware kwelling: de onweerstaanbare geur van vers gebakken brood doordringt mijn neusgaten en herinnert me er aan wat voor een stom idee het was om alles buiten handbereik te leggen... \n\nDe baguettes belegd met een karaktervolle kaas waren simpelweg heerlijk. Zoals verwacht gaf de rogge in de vloeibare desem geeft meer pit dat ik altijd op prijs stel. \\nl\nHet goudgele Altamura brood had dankzij de durum tarwe een nootachtige, granige smaak die door de O-Tentic verder onderstreept werd, hetzij iets te weinig naar mijn zin. Het kruim was vast, egaal, en enorm zacht: perfect voor degenen die van sneetjes brood houden. \\nl\nVan het San Francisco brood was ik het minste enthousiast. Ik verdenk de Canadese bloem van de taaiheid en de te korte eerste rijstijd van het gebrek aan smaak. \\nl\nGek genoeg, maar niet helemaal onverwacht, verkozen mijn ouders het Californische brood, omdat dat het beste overeen kwam met wat ze gewoon zijn. Onderschat nooit de psychologie van voedsel! \n\n\\newpage\n\n### Wat ik geleerd heb\n\n* De professionele kant van brood bakken betekent ook de nodige administratieve werken doorploeteren. \n* Er zijn verschillende manieren om mensen kennis te laten maken met zuurdesem. \n* Voedselveiligheid is belangrijk, maar kost ook geld. \n* Lekker brood heeft weinig waarde als het onverkocht in de vitrine blijft liggen. \n* Slimme combinaties van bijvoorbeeld restaurant en bakkerij, bakkerij en natuurgebied, of bakkerij en aparte verkooppunten zorgen voor een automatische toestroming van klanten. \n* Chefs met passie voor voedsel kunnen ook bakkers met passie voor brood worden, en omgekeerd. \n* Consistentie is de grootste uitdaging van een professionele bakker. \n* Wij spenderen de laatste jaren minder en minder aan voedsel, terwijl onze koopkracht stijgt. \n* Niet iedereen is bereid om duurder brood te kopen.\n* Hoe meer tijd we nemen om goed voedsel te kopen en bereiden, hoe gezonder onze eetgewoontes zullen zijn. \n* Niet alle bakkers zijn eerlijk in hun toegevoegde ingrediënten. \n* Bakken op schaal met verdeling naar verschillende filialen is indrukwekkend, maar moeilijk nog ambachtelijk te noemen. \n* De industrialisatie van het broodbakproces vereist het gebruik van additieven om de machinale krachten aan te kunnen. \n* Gedroogde zuurdesem kan samen met gist gebruikt worden als smaakmaker én rijsmiddel. \n* Zuurdesem is op te delen in drie verschillende categorieën waarvan Type II en III commercieel op grote schaal verkocht kunnen worden. \n* Laat mensen gradueel wennen aan de smaak van zuurdesem. Begin met korte rijstijden op een hogere temperatuur. \n* Voedsel is meer dan ingrediënten, bereiding, en vertering. Denk ook altijd aan de cultuur, de psychologie, en de filosofie ervan. \n\n\\newpage\n\n### Altamura brood\n\nDit is zonder twijfel een van de lastigste formules die ik ooit heb geprobeerd. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in tabel \\ref{tabledurum}. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum '_drinkt veel_', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. \\nl\nHet zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 gr` verse gist toe en verminder je de eerste rijstijd met de helft. \n\n| Hoeveelheid | Percentage | Beschrijving                    |\n|:-----------:|:----------:|:--------------------------------|\n| `1000 gr`   | `100%`     | _durum_ tarwebloem, fijngemalen |\n| `740 gr`    | `74%`      | Water                           |\n| `20 gr`     | `2%`       | Grijs zeezout                   |\n\nTable: Formule voor gouden Altamura brood met _Triticum durum_. \\label{tabledurum}\n\nWaarvan voor het voordeeg (`20%`):\n\n> `200 gr` _durum_ tarwebloem \\newline\n> `200 gr` water \\newline\n> `1 el` zuurdesem starter \n\nMethode:\n\n- _Dag 1, 19u00_: Starter uit koeling. Verversen op kamertemperatuur.\n- _Dag 1, 23u00_: Tweede keer verversen. \n- _Dag 2, 07u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. \n- _Dag 2, 12u00_: Voordeeg in koeling.\n- _Dag 2, 16u00_: Intensief kneden. Eerste rijs aanvankelijk op `24 °C`.\n- _Dag 2, 23u00_: Vorm geven. Tweede rijs in koeling op `6 °C`.\n- _Dag 3, 08u00_: Bakken.\n- _Dag 3, 08u50_: Afkoelen en proberen wachten met proeven.\n\nDe werkwijze wijkt op een aantal vlakkan af van de standaard methode op pagina \\ref{bakkenhf}. Om te beginnen hanteer ik frequente voedertijden om de vier uur om de starter zo jong mogelijk te houden, voordat een stukje daarvan verdwijnt in het voordeeg. Op die manier verlaagt de aciditeit en stijgt de potentiële rijskracht. Het is niet nodig om een zuurdesemcultuur vanaf nul op te kweken op basis van durumtarwe, je huidige desem omzetten zoals beschreven op pagina \\ref{desemswap} werkt net zo goed.\\nl\nDaarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 gr` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. \\nl\n\nDit goudgele brood heeft geen zemelen en rijst daardoor erg traag in vergelijking met andere formules. Zeven uur fermenteren lijkt erg lang, maar zonder gist heeft dit deeg zo'n tijd zeker nodig. De tweede rijs in de koeling is relatief kort. Het resultaat is een prachtige explosie in de oven en een aangenaam zachte maar toch complexe nootachtige smaak in de mond. \n",
+			"file": "content/boek/verdienen.pd.md",
+			"file_size": 76553,
+			"file_write_time": 132046663830000000,
+			"settings":
+			{
+				"buffer_size": 76083,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/boek/kabouters.pd.md",
+			"settings":
+			{
+				"buffer_size": 21294,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -644,13 +669,15 @@
 	],
 	"file_history":
 	[
-		"/Users/jefklak/development/redzuurdesem/content/boek/synopsis.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
-		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
 		"/Users/jefklak/development/redzuurdesem/content/boek/verdienen.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boek.bib",
+		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/boer.pd.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/synopsis.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/_index.md",
+		"/Users/jefklak/development/redzuurdesem/content/boek/Makefile",
 		"/Users/jefklak/development/redzuurdesem/content/boek/geur.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/todo.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/boer.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/overschot.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/recept.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/alles-vergeten-dat-geleerd-is.pd.md",
@@ -658,10 +685,8 @@
 		"/Users/jefklak/development/redzuurdesem/content/boek/kabouters.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/intermezzo1.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/de-leerschool.pd.md",
-		"/Users/jefklak/development/redzuurdesem/content/boek/structuur.pd.md",
 		"/Users/jefklak/development/redzuurdesem/content/leren/2015-04-18-42015-uitgesteld-bakken-met-het-broodbakmachine.md",
 		"/Users/jefklak/development/redzuurdesem/content/boek/metadata.yml",
-		"/Users/jefklak/development/redzuurdesem/content/boek/_index.md",
 		"/Users/jefklak/development/redzuurdesem/.gitignore",
 		"/Users/jefklak/development/redzuurdesem/content/boek/temp_tergoedkeuring.pd.md",
 		"/Users/jefklak/Library/Logs/IntelliJIdea2019.1/idea.log",
@@ -790,6 +815,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"saint-v",
+			"durumtarwe",
+			"intensief kneden",
+			"Starter in koeling. Voordeeg maken op kamertemperatuur. ",
+			"fijngema",
+			"in feite",
+			"FAVV",
+			"gecertifi",
+			"bierbost",
+			"duiv",
 			"zoektoch",
 			"queest",
 			"Doeltemperatuur: ",
@@ -907,17 +942,7 @@
 			" bla ",
 			"'bla'",
 			"puratos",
-			"bakerij",
-			"software ont",
-			"vedrampt ",
-			"Celcius",
-			"ilusie ",
-			"tarwebes",
-			"onmiddelijk",
-			"zowieso",
-			"prakijk",
-			"strict",
-			"grontst"
+			"bakerij"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -925,6 +950,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Voordeeg maken op kamertemperatuur. Starter terug in koeling. ",
 			"vers gebakken brood",
 			" vers gebakken brood ",
 			"O-Tentic",
@@ -960,24 +986,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/boek/structuur.pd.md",
+					"file": "content/boek/boer.pd.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 65746,
+						"buffer_size": 35469,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								42766,
-								42766
+								32400,
+								32434
 							]
 						],
 						"settings":
@@ -1001,21 +1027,21 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -1026,36 +1052,36 @@
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_tag_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -1074,6 +1100,36 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -1089,26 +1145,70 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/boek/de-leerschool.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1119,6 +1219,228 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/boek/recept.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34512,
+								34503
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										34512,
+										34513
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										34502,
+										34503
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1141,27 +1463,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "content/boek/boer.pd.md",
+					"buffer": 3,
+					"file": "content/boek/verdienen.pd.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 27397,
+						"buffer_size": 76083,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								25710,
-								25721
+								74659,
+								74659
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": -1,
+								"changes": 0,
+								"count": 12412,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -1186,6 +1509,36 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -1201,36 +1554,6 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1246,27 +1569,116 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										25721,
-										25722
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										25709,
-										25710
-									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 26464.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content/boek/kabouters.pd.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6105,
+								6105
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
 								},
 								"unmatched":
 								{
@@ -1279,56 +1691,56 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
@@ -1337,7 +1749,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1400,6 +1812,34 @@
 		"selected_items":
 		[
 			[
+				"rece",
+				"content/boek/recept.pd.md"
+			],
+			[
+				"kabou",
+				"content/boek/kabouters.pd.md"
+			],
+			[
+				"verid",
+				"content/boek/verdienen.pd.md"
+			],
+			[
+				"boer.",
+				"content/boek/boer.pd.md"
+			],
+			[
+				"syno",
+				"content/boek/synopsis.md"
+			],
+			[
+				"boek",
+				"content/boek/boek.bib"
+			],
+			[
+				"verdie",
+				"content/boek/verdienen.pd.md"
+			],
+			[
 				"boer",
 				"content/boek/boer.pd.md"
 			],
@@ -1410,10 +1850,6 @@
 			[
 				"over",
 				"content/boek/overschot.pd.md"
-			],
-			[
-				"rece",
-				"content/boek/recept.pd.md"
 			],
 			[
 				"make",
@@ -1460,10 +1896,6 @@
 				"content/boek/alles-vergeten-dat-geleerd-is.pd.md"
 			],
 			[
-				"kabou",
-				"content/boek/kabouters.pd.md"
-			],
-			[
 				"syn",
 				"content/boek/synopsis.md"
 			],
@@ -1482,14 +1914,6 @@
 			[
 				"alles",
 				"content/boek/alles-vergeten-dat-geleerd-is.pd.md"
-			],
-			[
-				"boek",
-				"content/boek/boek.bib"
-			],
-			[
-				"verdie",
-				"content/boek/verdienen.pd.md"
 			],
 			[
 				"intro",
@@ -1898,18 +2322,6 @@
 			[
 				"_ind",
 				"content/_index.md"
-			],
-			[
-				"hypo",
-				"content/src/concepten/onderzoeksvragen_hypotheses.md"
-			],
-			[
-				"links",
-				"content/src/links.md"
-			],
-			[
-				"brains",
-				"content/src/verslagen/20181017_brainstorm_prato.md"
 			]
 		],
 		"width": 0.0

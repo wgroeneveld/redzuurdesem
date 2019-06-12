@@ -45,7 +45,7 @@ Werken met de Salva oven was puur plezier: hij is heel accuraat. Dat betekent da
 ‘Werkt dat wel makkelijk?’ vraag ik. Sarah klapt de oven terug dicht en een wolkje bloem vult de lucht rond de oven. 
 ‘We krijgen niet zoveel stoom in de oven als we zouden willen. Het opstoken is een vak apart. We verbruiken veel hout dat hier om de twee weken geleverd wordt.’ De houtblokken worden simpelweg tegen een binnenmuur van de zaal gestapeld. Bezoekers op zoek naar het toilet moeten eerst een grote berg gekapt hout beklimmen.
 ‘Zoiets moet je écht, echt leren. Dat gaat niet op een paar maanden. Jij werkt vanachter met de Salva. Die is veel eenvoudiger.’ Ik knik. Ik had niet bepaald verwacht dat ze een stagiair de verantwoordelijkheid zouden geven om hun pronkstuk te besturen. Zeker niet onder de ogen van de gasten. 
-‘Croissants en zo zal je daar ook in moeten bakken. Vanonder op `225° C`. _Canelés_[^canele] en _twice bakes_[^twice] ook. Al de rest vanboven op `190° C.`’
+‘Croissants en zo zal je daar ook in moeten bakken. Vanonder op `225° C`. _Canelés_[^canele] en _twice bakes_[^twice] ook. Al de rest bovenaan op `190° C.`’
 
 [^canele]: Een Frans gebakje met rum en vanille, in de typische vorm van een parallel gegroefd cilindertje. Belachelijk moeilijk om _au point_ gebakken te krijgen. 
 [^twice]: Dubbel gebakken zoet of hartig belegde croissants.

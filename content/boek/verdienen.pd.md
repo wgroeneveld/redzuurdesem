@@ -380,7 +380,7 @@ Gek genoeg, maar niet helemaal onverwacht, verkozen mijn ouders het Californisch
 
 ### Altamura brood
 
-Dit is zonder twijfel een van de lastigste formules die ik ooit heb geprobeerd. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in tabel \ref{tabledurum}. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum 'drinkt veel', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. \nl
+Dit is zonder twijfel een van de lastigste formules die ik ooit heb geprobeerd. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in tabel \ref{tabledurum}. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum '_drinkt veel_', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. \nl
 Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 gr` verse gist toe en verminder je de eerste rijstijd met de helft. 
 
 | Hoeveelheid | Percentage | Beschrijving                    |
@@ -409,6 +409,6 @@ Methode:
 - _Dag 3, 08u50_: Afkoelen en proberen wachten met proeven.
 
 De werkwijze wijkt op een aantal vlakkan af van de standaard methode op pagina \ref{bakkenhf}. Om te beginnen hanteer ik frequente voedertijden om de vier uur om de starter zo jong mogelijk te houden, voordat een stukje daarvan verdwijnt in het voordeeg. Op die manier verlaagt de aciditeit en stijgt de potentiële rijskracht. Het is niet nodig om een zuurdesemcultuur vanaf nul op te kweken op basis van durumtarwe, je huidige desem omzetten zoals beschreven op pagina \ref{desemswap} werkt net zo goed.\nl
-Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 gr` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. 
+Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 gr` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. \nl
 
 Dit goudgele brood heeft geen zemelen en rijst daardoor erg traag in vergelijking met andere formules. Zeven uur fermenteren lijkt erg lang, maar zonder gist heeft dit deeg zo'n tijd zeker nodig. De tweede rijs in de koeling is relatief kort. Het resultaat is een prachtige explosie in de oven en een aangenaam zachte maar toch complexe nootachtige smaak in de mond. 

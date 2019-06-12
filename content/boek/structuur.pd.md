@@ -45,7 +45,7 @@ Deze eiwitten haken zich aan elkaar vast zodat lucht gevangen wordt en brood kan
 \index{Enzymen!Glucose-oxidase}
 \index{Hydrolyse}
 
-* _Protease_. Dit enzym breekt aminozuren tussen eiwitten af. Dat klinkt niet goed, aangezien de zorgvuldig opgebouwde gluten structuur juist nodig is om brood te doen rijzen. Gelukkig genoeg zijn deze jongens vrij bescheiden in hun werk. Ze maken het voor de bakker gemakkelijker om deeg te kunnen kneden. 
+* _Protease_. Dit enzym breekt aminozuren tussen eiwitten af. Dat klinkt niet goed, aangezien de zorgvuldig opgebouwde gluten structuur juist nodig is om brood te doen rijzen. gelukkig zijn deze jongens vrij bescheiden in hun werk. Ze maken het voor de bakker gemakkelijker om deeg te kunnen kneden. 
 * _Glucose-oxidase_. Maakt door een oxidatiereactie met de gluten het deeg krachtiger en elastischer. 
 * _Lipase_. Lipase helpt de luchtigheid er in te houden wanneer het deeg te lang gerezen heeft. Dit enzym versnelt de opneembaarheid van aanwezige vetten[^hydro] (lipiden).
 * _Xylanase_. Een typische 'conditioner' die het deeg handelbaarder maakt. Hiermee wordt vaak een verbeterde mechanische bewerkbaarheid[^bewerk] bedoeld.
