@@ -92,7 +92,7 @@ Zetmeel is veel belangrijker in roggebloem dan in tarwebloem. Roggebloem neemt v
 \index{Sacharide!Polysacharide}
 \index{Polysacharide}
 
-[^kleverig]: Als je weet dat kleverige polysacharides zorgen voor een betere wateropname, wat doe je dan als slimme bakker? Dit als additief gebruiken, natuurlijk! Dat is zelfs een aparte categorie in de lijst met E nummers, onder '_Emulgatoren, stabilisatoren, verdikkingsmiddelen en geleermiddelen_'. Guar-, Xanthaan- en taragom, lecithine, pectine, cellulose, ... 
+[^kleverig]: Als je weet dat kleverige polysacharides zorgen voor een betere wateropname, wat doe je dan als slimme bakker? Dit als additief gebruiken, natuurlijk! Dat is zelfs een aparte categorie in de lijst met E-nummers, onder '_Emulgatoren, stabilisatoren, verdikkingsmiddelen en geleermiddelen_'. Guar-, Xanthaan- en taragom, lecithine, pectine, cellulose, ... 
 
 \index{Amylase}
 

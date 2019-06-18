@@ -6,7 +6,7 @@
 
 \label{kabouter}
 
-> '_Eat (good) food. Mostly plants. Not too much._' - David Pollan, In Defense of Food
+> '_Eat (good) food. Mostly plants. Not too much._' - Michael Pollan, In Defense of Food
 
 ### Augustus 2010
 

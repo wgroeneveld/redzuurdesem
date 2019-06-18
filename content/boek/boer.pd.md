@@ -9,7 +9,7 @@
 
 Ik ken de akkers op de site van Herkenrode al mijn hele leven, maar ik stond er nooit bij stil wat er precies geteeld werd. Het geeft een speciaal gevoel om zelfgebakken brood te eten dat, buiten het Franse zout, honderd procent aan lokale ingrediënten bevat. En met lokaal bedoel ik _lokaal_: het graan groeit in vogelvlucht één kilometer van ons huis. Toen ik Pieter Coopmans, de Herkenrodeboer, leerde kennen, was de Stevoortse molen nog niet gecertificeerd en werd er dus noodgedwongen gemalen in Wallonië. Ondertussen zijn er van het proces heel wat onnodige kilometers afgeschraapt. \nl
 Mijn bloem kocht ik jaren bij Pieter aan huis, waarbij we ondertussen een praatje maakten over (soms letterlijk) koetjes en kalfjes. Voor workshops bestelde ik er af en toe in grotere hoeveelheden. \nl
-Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe die tarwekorrel van zaadje tot fijngemalen bakmateriaal in mijn meelzak belandde. Omdat ik Pieter zijn kant van het bloem verhaal beter wilde begrijpen, spraken we op een avond af om de koetjes en kalfjes achterwege te laten. 
+Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe die tarwekorrel van zaadje tot fijngemalen bakmateriaal in mijn meelzak belandde. Omdat ik Pieter zijn kant van het verhaal beter wilde begrijpen, spraken we op een avond af om de koetjes en kalfjes achterwege te laten. 
 
 'Wat wil je weten, Wouter?' vraagt Pieter, terwijl hij me een lokaal appelsapje inschenkt. \nl
 'Ik zou graag willen weten hoe je bakwaardige tarwe teelt, hoe dat proces in elkaar zit, en welke soorten graan waar gekweekt worden' begin ik. \nl

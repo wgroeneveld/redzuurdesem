@@ -20,7 +20,7 @@ _Red Zuurdesem_ is een met liefde gebakken boek waarin traag gefermenteerde idee
 
 ## Over de auteur
 
-Wouter Groeneveld is een software ingenieur en onderzoeker verbonden aan \mbox{KU Leuven} die zichzelf ook gediplomeerd brood- en banketbakker mag noemen. Naast zijn nauwelijks controleerbare obsessie voor brood heeft hij een passie om kennis te delen. Hij bakt en schrijft in Hasselt met zijn vrouw, Kristien, en kater Muesli, die zuurdesembrood boven kattenbrokken verkiest. 
+Wouter Groeneveld is software ingenieur en onderzoeker verbonden aan \mbox{KU Leuven} die zichzelf ook gediplomeerd brood- en banketbakker mag noemen. Naast zijn nauwelijks controleerbare obsessie voor brood heeft hij een passie om kennis te delen. Hij bakt en schrijft in Hasselt met zijn vrouw, Kristien, en kater Muesli, die zuurdesembrood boven kattenbrokken verkiest. 
 
 ## Korte synthese
 
@@ -42,17 +42,17 @@ Het boek wordt afgesloten met een epiloog en aanbevolen literatuur voor de nieuw
 
 De volgende punten beschrijven sterktes van het boek ten opzichte van anderen in het genre:
 
-- Het is absoluut géén klassiek broodbakboek, waarin recepten en de vormgeving errond een centrale plaats krijgen. De nadruk ligt op het avontuur, de ervaring van het leren bakken, en de gepassioneerde mensen die ik gedurende die weg ontmoette. \newline Het is een persoonlijke culinaire reportage, zoals mijn idolen Michael Booth (Sacre Cordon Bleu) en Michael Pollan (Cooked).
+- Het is géén klassiek broodbakboek, waarin recepten en de vormgeving errond een centrale plaats krijgen. De nadruk ligt op het avontuur, de ervaring van het leren bakken, en de gepassioneerde mensen die gedurende die weg ontmoet worden. \newline Het is een persoonlijke culinaire reportage, zoals mijn idolen Michael Booth (Sacre Cordon Bleu) en Michael Pollan (Cooked).
 - Alle praktische bevindingen worden onderbouwd met een stevige theoretische achtergrond. Ik ben nog nooit een bakboek tegengekomen waarin er voldoende diep ingegaan wordt op de microbiologie van gisten en melkzuurbacteriën, of de chemische reacties die in de oven plaats vinden. Zonder té diep in de materie te duiken, leg ik stap voor stap, op een wetenschappelijke manier, het hele broodbakproces uit. 
 - Het boek vormt de perfecte metgezel voor broodbak handleidingen, waar het recept en de methode centraal staat, maar de filosofie en de achtergrond ontbreekt.
 
 ## Doelgroep
 
-In de eerste plaats is dit boek geschreven voor iedereen die nieuwsgierig is naar de wetenschap van brood bakken, of naar fermenteren en gezonde voeding in het algemeen. Het is tevens ook een ode aan bewust omgaan met voeding. Ik wil mensen met mijn '_weet wat je eet_' boodschap graag prikkelen om terug meer grip te krijgen op hun eigen eetgewoontes, in plaats van die keuzes passief over te laten aan de industrie.
+In de eerste plaats is dit boek geschreven voor iedereen die nieuwsgierig is naar de wetenschap van brood bakken, en naar fermenteren en gezonde voeding in het algemeen. Het is een ode aan bewust omgaan met voeding. Ik wil mensen met mijn '_weet wat je eet_' boodschap graag prikkelen om terug meer grip te krijgen op hun eigen eetgewoontes, in plaats van die keuzes passief over te laten aan de industrie.
 
 Daarnaast wil ik met mijn boek zuurdesem ontdoen van de mystiek. Ik merk via mijn workshops dat de interesse in thuis zelf bakken sterk aan het toenemen is. Bakken met zuurdesem blijft echter een grote drempel, omdat het iets relatief onbekend is. Onduidelijke uitleg en gebrek aan diepgang, zowel op het internet als in broodbak boeken, helpen hier niet mee. Die hulpbehoevende thuisbakkers wens ik met dit boek te begeleiden. 
 
-Als laatste wil ik met mijn technische achtergrond en persoonlijk verhaal ook graag mensen enthousiasmeren door te laten zien dat iets oeroud als brood bakken met al zijn facetten ook veel voldoening kan bieden. Reflecteren op de handelingen als broodbakker, en alles wat daarbij komt kijken, is een wederkerend thema.
+Als laatste wil ik met mijn sterke technische achtergrond en persoonlijk verhaal ook graag mensen enthousiasmeren door te laten zien dat iets oeroud als brood bakken met al zijn facetten ook veel voldoening kan bieden. Reflecteren op de handelingen als broodbakker, en alles  wat daarbij komt kijken, is een wederkerend thema.
 
 ## Gewenste vormgeving
 
