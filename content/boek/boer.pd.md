@@ -62,14 +62,61 @@ De wisselwerking tussen twee ambachten werd in tijden van hongersnood aan banden
 
 'Een mooi voorbeeld van een terroir graan is _masteluin_' legt Jeroen uit wanneer ik vraag naar typische lokale granen. 'Tijdens de middeleeuwen werd in deze streek tarwe en rogge door elkaar gezaaid. Als de weersomstandigheden het toelieten was de tarwe opbrengst goed. In het slechtste geval had de boer nog steeds aardig wat rogge, dat beter bestand is tegen het barre weer. De samenstelling verschilde oogst na oogst. Of dat nu spelt was of niet maakt niet veel uit.' \nl
 'Is masteluin een kruising tussen rogge en tarwe dan?' \nl
-'Niet in de stricte zin van het woord. Het werd gewoon samen gezaaid en geoogst. Het masteluinbrood van toen is eigenlijk het roggebrood van nu: dat is ook altijd een mengeling.' \nl
+'Niet in de stricte zin van het woord. Het werd gewoon samen gezaaid en geoogst. Het masteluinbrood van toen is eigenlijk het roggebrood van nu, dat is ook altijd een mengeling.' \nl
 'Inderdaad, tenzij je in Duitsland roggebrood koopt' vul ik aan.
 'Klopt. Roggebloem wordt hier alleen maar gebruikt in peperkoek. Het woord masteluin komt van het Franse _mestillon_, dat op zijn beurt komt van het Latijnse _mixtellum_ - mengen dus. De Benelux is geografisch gezien perfect gelegen tussen het zuidelijke tarweland en noordoostelijke roggeland.'
 
-Broodtarwe werd voor de negentiende eeuw nauwelijks puur geteeld maar eerder gecombineerd met andere Triticum soorten. Regionale verschillen, zoals klei- of zandgrond, hebben ook invloed in de verschillende gekweekte tarwevariëteiten en combinaties met andere granen [@maat2001genetics]. Tarwe was dus zeker niet overal een luxe product. Zelfs voor kleine landen als België en Nederland was de variatie groot, die door de moderne globalisatie langzaam maar zeker vervaagt.
+Broodtarwe werd voor de negentiende eeuw nauwelijks puur geteeld maar eerder gecombineerd met andere Triticum soorten. Regionale verschillen, zoals klei- of zandgrond, hebben ook invloed in de verschillende gekweekte tarwevariëteiten en combinaties met andere granen [@maat2001genetics]. Tarwe was dus zeker niet overal een luxe product. Zelfs voor kleine landen als België en Nederland was de variatie groot, die door de moderne globalisatie langzaam maar zeker vervaagt. 
 
+Pieter en Jeroen verschaften me inzicht in alles wat met het telen van graan te maken heeft. Maar daarmee kom ik nog niet tot een volle meelzak. Hoe zit dat nu precies met oxidatie en opslag, met al dan niet malen op een steen, en met het mengen van verschillende soorten bloem? Die antwoorden vond ik in een piepklein dorpje genaamd Poeke, een deelgemeente van Aalter. 
 
 ### De molenaar
+
+In het midden van letterlijk niets, ligt de tweehonderd jaar oude Artemeersmolen van Poeke. Om de windmolen te bereiken moet je tien minuten zigzaggend door de velden rijden op veel te kleine betonnen wegen, onderweg biddend dat er niet nog iemand uitgerekend nu bloem nodig heeft. Net als je begint te wennen aan het platteland van het Meetjesland, moet je op je rem trappen. Kristien en ik waren op terugreis van een weekje uitwaaien aan de Belgische Kust. Voor eender wat dat met brood te maken heeft maak ik graag een omweg (en ik had beloofd dat het niet te lang ging duren). \nl
+We ontmoetten Mike Ekelschot en zijn partner in crime Soetkin Kuypers op een snikhete maandagmiddag.  
+
+Laat je niet misleiden door de afmetingen van de molen: Mike maalt er tweehonderd ton per jaar. \nl
+'Ik zou tot vierhonderd kunnen gaan. We hebben twee maalstenen tot onze beschikking, maar eentje ligt momenteel uit. Hoe meer we malen, hoe meer we tijdelijk moeten opslaan, en we kampen momenteel met wat ruimtetekort. De bedoeling is om op termijn verschillende silo's in te molen te integreren.' \nl
+'Hoe zit dat precies met opslag en bloem? Voegen jullie iets toe om de bloem langer te kunnen bewaren?' Mike schudt zijn hoofd. \nl
+'Nee. Wat we malen moet gewoon zo snel mogelijk verkocht worden. Het meeste verdwijnt tussen de één en twee weken. We voegen niets toe, en we verwijderen geen componenten uit de bloem die het langer houdbaar maakt. In tegenstelling tot giganten zoals Ceres, waar de bloem een jaar houdtbaar is. Onze T65 is crèmekleurig. Fijner wordt er niet gezeefd.' \nl
+'Jullie zeven ter plaatse veronderstel ik?' vraag ik. 'Bij een plaatselijke watermolen werd dat aanvankelijk niet gedaan, maar werd er een machine geïnstalleerd om aan die wensen te voldoen.' \nl
+'Dat is hier ook zo' bevestigt Mike. 'We hebben een builmachine aangekocht. Die zeeft honderdvijftig kilo per uur.' \nl
+'Raken de filters van de zeef soms verstopt?' \nl
+'Die machine is een centrifugaalzeef. Daarin draaien cilindervormige zeven met verschillende maasgroottes rond waar de meel door gedrukt wordt. Door dat draaien voorkom je verstoppingen. Ik zal jullie dadelijk een rondleiding geven, dan kunnen jullie alles eens in werking zien.' \nl
+'Hebben jullie eerst zin in iets fris?' vraagt Soetkin. 'We kunnen met die warme weer buiten onder de paraplu verder praten.' Daar zeggen we geen nee tegen. 
+
+We wisselen tussen het drinken door wat verhalen uit over malen en bakken. \nl
+'Het is wel leuk dat we onze klanten kennen en die persoonlijke band hebben' vertelt Soetkin. 'Dat is wel een meerwaarde ten opzichte van grotere spelers op de markt. We leveren heel wat bloem aan grote bakkerijen in en ver buiten Gent, zoals De Superette, maar ook aan kleinere zaken die bakken in bijberoep. Een ambtenaar die halftijds met zijn handen bezig is vond dat de perfecte combinatie. Een muzikant die ook brood bakt. Mensen uit Antwerpen die verschillende workshops geven. Het geeft ons voldoening om die mensen zo gepassioneerd te zien omgaan met onze producten.' \nl
+'En de boeren? Kopen jullie bijvoorbeeld zo veel mogelijk graan van lokale boeren hier in Aalst en omstreken? En wordt er dan gemengd of niet?' We waren enkele tarwevelden tegengekomen op weg naar de Artemeersmolen, maar de meeste velden werden bezet door koeien. Ik had zo mijn twijfels bij de hoeveelheden - zeker toen ik hoorde dat er tweehonderd ton gemalen werd. \nl
+'We proberen grote hoeveelheden van één partij op te kopen. Ik heb nu met één boer de afspraak om genoeg spelt af te nemen voor het hele jaar. Op die manier garanderen we de kwaliteit. Dat gaat jammer genoeg niet altijd in de buurt. Niet alle ingekochte granen zijn Vlaams of zelfs Belgisch. Mengen proberen we zo te vermijden.' \nl
+'En is alles volledig biologisch dan?' vraagt Kristien. \nl
+'Twee derde van het graan heeft een bio label.' \nl
+'Waarom niet alles volledig biologisch doen? Maakt dat het niet eenvoudiger?' \nl
+'Daar is momenteel geen markt voor. Niet-biologische bloem wordt ook nog redelijk goed verkocht. Meer mag altijd natuurlijk, maar het moet hier ook nog gemakkelijk buiten geraken!' lacht Mike. 
+
+'We hebben hier eens boeren en bakkers samengebracht, met een hapje en een drankje' vertelt Soetkin. 'Dat was wel een leuke manier om kennis te delen hé.' \nl
+'Dat is inderdaad heel leuk, als molenaar staan jullie eigenlijk tussen beide partijen in, als soort van relatietherapeut' grapte ik. \nl
+'Nu misschien wel ja, maar daar moet je als molenaar ook goed mee opletten. Wij zijn het altijd geweest hé. De boer te weinig betaald, de bakker te veel aangerekend, zodat die op zijn beurt het brood te duur moet verkopen. Soms werd er zelfs geknoeid met meelzakken door zand toe te voegen. De molenaar was vroeger de duivel.' \nl
+In de achttiende eeuw waren Parijse bakkers ervan overtuigd dat de molenaars als groep oneerlijk waren (door bakker Jean Dumas zelfs bestempeld als 'dieven') [@kaplanbakersparis]. De molen was een valstrik waar dubieuze praktijken als valsspelen met schalen en gewichten dagelijkse kost was. Een groep van juryleden werd verkozen die politionele rechten kregen toebedeeld om molenaars dagelijks te controleren. Uiteraard werd die macht consequent misbruikt door de _jurés_. \nl
+Gelukkig zijn er in de eenentwintigste eeuw molenaars die boer en bakker dichter bij elkaar brengen. 
+
+
+Mike leidt ons langs smalle trappen mee naar de binnenkamers van de molen. Er hangt een karakteristieke sfeer in de molen die moeilijk in woorden uit te drukken is. De geur van gemalen bloem, het zacht gezoem van de roterende wieken, de wirwar van mechanische installaties die Mike één voor één kort beschrijft. Ik beeld mij in hoeveel plezier en genoegen het zou scheppen om hier te kunnen en mogen werken. \nl
+'Dat is wat anders als die IKEA-molens die je soms in Nederland ziet hé!' zegt Mike grijnzend. Hij legt uit dat het binnenwerk van slecht onderhouden windmolens vaak volledig vervangen wordt. 'Vaak door architecten die denken het beter te weten. Het gevolg is iets dat werkt, maar sfeer mist. Die typische geur zoals hier, dat zal je daar nooit terugvinden.' \nl
+Het is duidelijk dat Mike en Soetkin erg trots zijn op wat ze bereikt hebben, en terecht. Die passie voor het vak stralen ze beiden uit. Mike is al van kleins af gebeten door molens, en heeft voor hij de Artemeersmolen overnam het onderhoud van verschillende molens, waaronder zijn huidige, voor zijn rekening genomen. \nl
+'De builer staat hier achter. Het gemalen meel gaat via deze transportbuizen automatisch naar de machine. Vroeger deed een molenaar niets anders dan zakken vullen. Door processen te automatiseren kan ik ondertussen met andere dingen bezig zijn. Er zijn hier veel dingen die mijn aandacht nog opeisen.' De indrukwekkende graan- en meellift zorgt tussen het malen en builen in voor de nodige afkoeling. \nl
+Ik wijs naar de builmachine. 'Zeven jullie alles hierin? Ik bedoel, verkopen jullie ook roggebloem? Dat is moeilijk te vinden in België.' \nl
+'Met kleine hoeveelheden. Rogge is echt een ramp op gebied van stof. Af en toe doen we dat wel, maar dan met alles open en stofafzuiging op maximum. Ik heb vroeger vaak genoeg rogge gezeefd en ben daar allergisch aan geworden. In de Vondelmolen[^vondel] zie je soms geen hand meer voor ogen, zoveel stof geeft dat. Erg ongezond voor de molenaar!'
+
+[^vondel]: Een stenen windmolen naast de Vondelbeek in Lebbeke, die uitgroeide tot een moderne installatie voor het bakken van peperkoek. Het voornaamste ingrediënt is roggebloem. 
+
+We stijgen nog een verdieping. 'Dit zijn de pletstenen. De rechtse is nu elektrisch aangedreven. Het probleem met windenergie is dat die niet constant is. Dat beïnvloedt het maalproces, en dus het eindproduct. Vroeger moest ik altijd na het malen en zeven nog mengen om consistentie te kunnen garanderen. Ik kan het niet maken om een bakker twee zakken meel te verkopen die niet op dezelfde manier gemalen zijn. We gaan daarom windenergie omzetten in stroom, zodat de steen stabieler maalt. Grotere maalderijen die op steen malen zoals de Commandeursmolen doen dit trouwens ook.' \nl
+'Moet je de steen vaak bijslijpen?' vraag ik. \nl
+'Dat moet maar één keer per jaar. En maar goed ook, dat ding weegt enorm veel, en er is hier geen plaats om met een kraan te werken. Dat moet allemaal op spierkracht getild worden. Deze steen hier is kwarts, dat is ideaal om tarwe op te malen. Dat is harder dan een blauwe maalsteen die uit basalt bestaat. Basalt is goed voor gerst, voor dierenvoer. Kwarts is harder en slijt minder snel.' \nl
+'Is dat één stuk?' \nl
+'Gegoten, maar intern niet. De binnenste laag wordt gebruikt om te breken, en de lagen naar buiten malen van grof naar fijn. In principe zou ik op voorhand kunnen breken, dan kan de steen meer malen in minder tijd. Dat is nog iets om uit te zoeken. Door die lagen verschilt het gewicht en is het nog vervelender om op te nemen.' \nl
+'Al goed dat het niet vaak moet dan!' Mijn bovenarmen doen plos pijn als ik kijk naar de grote ijzeren klemmen die tegen de muur hangen.
+
 
 TODO industriële milling p49
 
