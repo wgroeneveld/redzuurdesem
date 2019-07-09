@@ -258,7 +258,7 @@ Ik vertel Karl over mijn opleiding en mijn ideaalbeeld om desem terug alledaags 
 ‘Bak jij thuis ook zelf brood met zuurdesem?’ vraag ik. Hij knikt bevestigend. \nl
 ‘Maar mijn vrouw heeft graag _sneekes_, zoals veel Vlamingen. Dus bak ik gewoon in een bakvorm. Maar wel met desem!’ Een knipoog. Lepe kerels, die managers. 
 
-De kers op de taart is natuurlijk de bibliotheek in het Brood Centrum. Dit is geen gewone bibliotheek waar je boeken kan lezen, maar een zuurdesem bibliotheek waar unieke desemculturen tentoon gesteld staan. \nl
+De kers op de taart is natuurlijk de bibliotheek in het Puratos Center. Dit is geen gewone bibliotheek waar je boeken kan lezen, maar een zuurdesem bibliotheek waar unieke desemculturen tentoon gesteld staan. \nl
 ‘Ben je er klaar voor?’ vraagt Karl, de klink van de deur vasthoudend. Ik neem aan dat iedereen erg trots is op de eerste bibliotheek in de wereld van zuurdesem. We stappen een donkere ruimte in die piekfijn afgewerkt is met hout. \nl
 ‘In deze koelcellen bewaren we desems van bakkerijen over de hele wereld. Een bakker kan een stukje desem afstaan dat wij verder onderhouden. Hij moet dan jaarlijks ook zijn bloem leveren. De omgeving wordt exact zoals in hun bakkerij nagebootst om de cultuur identiek te houden. Als hun bakkerij bijvoorbeeld afbrandt, sturen wij de desem terug op. Zo verliest de bakker nooit zijn unieke smaak!’ \nl
 ‘Dus elke bakker kan zijn desem bij jullie in bewaring laten houden?’ \nl

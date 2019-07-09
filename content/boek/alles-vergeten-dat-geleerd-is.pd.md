@@ -136,6 +136,8 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 
 ### Stevig Granenbrood
 
+\label{granenbrood}
+
 Deze formule ontwikkelde ik als ode aan Willy Herteleer, die zijn klanten resoluut heeft leren gezonder eten, door terug te vallen op de smaak en de kracht van de granen zelf. \nl
 De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbrood_ dat Peter nog steeds dagelijks bakt. Een '_goed, stevig deeg_', zoals Willy het zou hebben gewild. 
 

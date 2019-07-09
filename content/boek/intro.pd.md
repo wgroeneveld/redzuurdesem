@@ -7,7 +7,7 @@
 
 ## Voorwoord
 
-Dimitri?
+TODO
 
 ## Inleiding
 

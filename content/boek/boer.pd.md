@@ -68,12 +68,12 @@ De wisselwerking tussen twee ambachten werd in tijden van hongersnood aan banden
 
 Broodtarwe werd voor de negentiende eeuw nauwelijks puur geteeld maar eerder gecombineerd met andere Triticum soorten. Regionale verschillen, zoals klei- of zandgrond, hebben ook invloed in de verschillende gekweekte tarwevariëteiten en combinaties met andere granen [@maat2001genetics]. Tarwe was dus zeker niet overal een luxe product. Zelfs voor kleine landen als België en Nederland was de variatie groot, die door de moderne globalisatie langzaam maar zeker vervaagt. 
 
-Pieter en Jeroen verschaften me inzicht in alles wat met het telen van graan te maken heeft. Maar daarmee kom ik nog niet tot een volle meelzak. Hoe zit dat nu precies met oxidatie en opslag, met al dan niet malen op een steen, en met het mengen van verschillende soorten bloem? Die antwoorden vond ik in een piepklein dorpje genaamd Poeke, een deelgemeente van Aalter. 
+Pieter en Jeroen verschaften me inzicht in alles wat met het telen van graan te maken heeft, maar daarmee kom ik nog niet tot een volle meelzak. Hoe zit dat nu precies met oxidatie en opslag, met het al dan niet malen op een steen, en met het mengen van verschillende soorten bloem? Die antwoorden vond ik in een piepklein Belgisch dorpje genaamd Poeke, een deelgemeente van Aalter. 
 
 ### De molenaar
 
-In het midden van letterlijk niets, ligt de tweehonderd jaar oude Artemeersmolen van Poeke. Om de windmolen te bereiken moet je tien minuten zigzaggend door de velden rijden op veel te kleine betonnen wegen, onderweg biddend dat er niet nog iemand uitgerekend nu bloem nodig heeft. Net als je begint te wennen aan het platteland van het Meetjesland, moet je op je rem trappen. Kristien en ik waren op terugreis van een weekje uitwaaien aan de Belgische Kust. Voor eender wat dat met brood te maken heeft maak ik graag een omweg (en ik had beloofd dat het niet te lang ging duren). \nl
-We ontmoetten Mike Ekelschot en zijn partner in crime Soetkin Kuypers op een snikhete maandagmiddag.  
+In het midden van niets ligt de tweehonderd jaar oude Artemeersmolen van Poeke. Om de windmolen te bereiken moet je tien minuten zigzaggend door de velden rijden op veel te kleine betonnen wegen, onderweg biddend dat er niet nog iemand uitgerekend nu bloem nodig heeft. Net als je begint te wennen aan de glooiende omgeving van het Meetjesland, moet je op je rem trappen. Kristien en ik waren op terugreis van een weekje uitwaaien aan de Belgische Kust. Voor eender wat dat met brood te maken heeft maak ik graag een omweg (en ik had beloofd dat het niet te lang ging duren). \nl
+We ontmoetten Mike Ekelschot en zijn partner in crime Soetkin Kuypers op een warme maandagmiddag. In 2014 kocht beroepsmolenaar Mike deze molen om er terug een professionele bakkersmolen van te maken, onder de bedrijfsnaam Flour Power.
 
 Laat je niet misleiden door de afmetingen van de molen: Mike maalt er tweehonderd ton per jaar. \nl
 'Ik zou tot vierhonderd kunnen gaan. We hebben twee maalstenen tot onze beschikking, maar eentje ligt momenteel uit. Hoe meer we malen, hoe meer we tijdelijk moeten opslaan, en we kampen momenteel met wat ruimtetekort. De bedoeling is om op termijn verschillende silo's in te molen te integreren.' \nl
@@ -115,8 +115,14 @@ We stijgen nog een verdieping. 'Dit zijn de pletstenen. De rechtse is nu elektri
 'Dat moet maar één keer per jaar. En maar goed ook, dat ding weegt enorm veel, en er is hier geen plaats om met een kraan te werken. Dat moet allemaal op spierkracht getild worden. Deze steen hier is kwarts, dat is ideaal om tarwe op te malen. Dat is harder dan een blauwe maalsteen die uit basalt bestaat. Basalt is goed voor gerst, voor dierenvoer. Kwarts is harder en slijt minder snel.' \nl
 'Is dat één stuk?' \nl
 'Gegoten, maar intern niet. De binnenste laag wordt gebruikt om te breken, en de lagen naar buiten malen van grof naar fijn. In principe zou ik op voorhand kunnen breken, dan kan de steen meer malen in minder tijd. Dat is nog iets om uit te zoeken. Door die lagen verschilt het gewicht en is het nog vervelender om op te nemen.' \nl
-'Al goed dat het niet vaak moet dan!' Mijn bovenarmen doen plos pijn als ik kijk naar de grote ijzeren klemmen die tegen de muur hangen.
+'Al goed dat het niet vaak moet dan!' Mijn bovenarmen doen plos pijn als ik kijk naar de grote ijzeren klemmen die tegen de muur hangen. 
 
+'Is er naar jouw mening een groot verschil in malen met een steen of met een wals? Speelt warmteopwekking bijvoorbeeld een rol?' Mike haalt zijn schouders op. \nl
+'Je kan ook slecht malen op een steen hoor. Je hoort vaak mensen zeggen dat enkel zogezegd ambachtelijk malen op steen goed en gezond is, maar dat is flauwekul. De maaltechniek is maar één onderdeel van het hele maalproces. Te veel nutriënten verwijderen bij het zeven, te snel malen, vreemde dingen toevoegen na het zeven, onjuist vochtigheidsgehalte bij opslag, noem maar op - dat zijn dingen die bij eender welke maalderij kunnen misgaan. Hitte is trouwens een groter probleem bij steenmolens dan bij walsmolens.' \nl
+Om op grote schaal te kunnen produceren moeten uiteraard compromissen worden gesloten. Houdbaarheid van volkoren meel is korter in vergelijking met witte bloem vanwege de aanwezigheid van lipiden (vetten) en lipidenafbrekende enzymen [@doblado2012key]. Bloem wordt daarom door middel van verschillende technieken gestabiliseerd[^stab]. Omdat hun producten snel genoeg worden verkocht zijn ze daar bij Flour Power niet mee bezig. \nl
+De slogan '_Gemalen op steen_' is tegenwoordig een heuse commerciële zaak geworden. Sommige molens pletten het graan met behulp van een steenmolen, waarvan de platen ver genoeg uit elkaar geplaatst zijn om geen overtollige hitte te genereren. De grof geplette tarwe wordt vervolgens gereduceerd tot fijngemalen meel op een walsmolen. Op deze manier kan de gewenste slogan op de meelzak worden afgedrukt zonder morele twijfels. 
+
+[^stab]: Alle zemelen volledig uitzeven lost het probleem ook op: in 2000 was in de VS de productie van volkoren meel ongeveer `2%` van de totale productie van tarwebloem. Een andere techniek is tarwesoorten selecteren en kweken op broosheid van zemelen, het vermogen om te worden gereduceerd tot kleine deeltjes. Echt alle parameters van een tarwekorrel zijn tegenwoordig geoptimaliseerd. De productie van volkoren meel bij moderne walsmolens is ook vreemd. De zemelen, de kiem en het endosperma worden gescheiden, waarna het endosperma gereduceerd wordt tot fijne bloem. Daarna voegt men alles terug samen en tadaa: volkoren bloem! Op die manier is er geen aparte productielijn nodig om meel te produceren. 
 
 TODO industriële milling p49
 
@@ -282,14 +288,14 @@ Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten 
 Gert was zo vriendelijk me een beetje draf te geven om uit te proberen in brood. Als je geen toegang hebt tot dit restproduct van het bierbrouwen, kan je in plaats daarvan hele tarwe- of gerstgranen grof malen en een uur koken. \nl
 Deze grote stukken zemelen werken als naalden in het deeg en doorprikken constant de zorgvuldig opgebouwde glutenstructuur. Hoe meer van deze ingrediënten gebruikt worden, hoe moeilijker het wordt om een luchtig brood te bakken. Door deze grove granen niet aan het begin van het kneden toe te voegen, maar halverwege de eerste rijs, omzeilen we dit probleem gedeeltelijk. \nl
 Een andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Gekookte granen leveren immers zelf ook water aan. \nl
-Om in het thema van brouwen te blijven, is een deel van het water vervangen door bier. Gebruik eender welk lokaal beschikbaar karaktervol bier van hoge gisting. Door de totale rijstijd te reduceren en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
+Om in het thema van brouwen te blijven, is een deel van het water vervangen door bier. Gebruik eender welk lokaal beschikbaar karaktervol bier van hoge gisting dat niet té veel alcohol bevat. Door de totale rijstijd te reduceren en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
 
 | Hoeveelheid | Percentage | Beschrijving                         |
 |:-----------:|:----------:|:-------------------------------------|
 | `900 gr`    | `90%`      | T65 tarwebloem                       |
 | `100 gr`    | `10%`      | Tarwemeel, volkoren (fijngemalen)    |
 | `200 gr`    | `20%`      | Draf                                 |
-| `330 gr`    | `33%`      | Jessenhofke 'TRPL' (1 flesje)        |
+| `330 gr`    | `33%`      | Speciaalbier                         |
 | `350 gr`    | `35%`      | Water                                |
 | `20 gr`     | `2%`       | Zout                                 |           
 
@@ -313,6 +319,6 @@ Methode:
 - _Dag 2, 10u50_: 1,5u. narijs op `24 °C`.
 - _Dag 2, 12u20_: 55min. bakken op `240 °C`.
 
-De grove granen zorgen voor een iets vastere structuur die het brood extra voedzaam maakt. Door pas halverwege de bolrijs de draf toe te voegen, zorgen we voor een goed ontwikkeld deeg dat toch mooi kan openbloeien in de oven. \nl
+De grove granen zorgen voor een iets vastere structuur die het brood extra voedzaam maakt. Door pas halverwege de bolrijs de draf toe te voegen, zorgen we voor een goed ontwikkeld deeg dat toch mooi kan openbloeien in de oven. Deze techniek staat in schril contrast met de manier waarop het granenbrood uit hoofdstuk \ref{granenbrood} gemaakt wordt. Alles hangt af van je intentie. Wil je een stevig brood bakken met een evenredige kruim, of wil je voor een luchtiger brood gaan met een open karakter? \nl
 Stort het deeg na het eerste bolrijs uit op een werkoppverlvak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht er uit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant, en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het een laatste keer anderhalf uur te laten rusten. \nl
 Laat het brood zeker lang genoeg bakken. 
