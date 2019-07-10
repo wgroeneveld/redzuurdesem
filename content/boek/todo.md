@@ -3,18 +3,22 @@
 
 HIGH PRIO
 
-[/] Puratos feedback Karl aanpassen
 [X] Puratos 2de bezoek herschrijven
-[ ] Boer hoofdstuk: triticale, granen, telen, ...
-[ ] Boer hoofdstuk: molenaar
-[ ] Peter Schoofs nog niet goedgekeurd
+[X] Boer hoofdstuk: triticale, granen, telen, ...
+[X] Boer hoofdstuk: molenaar
 [X] Gert Jessenhofke nog niet goedgekeurd
-[/] Johan Brijosh Tongeren nog niet goedgekeurd
 [ ] Voorwoord door Dimitri laten schrijven
 [X] Synopsis voor indienen bij uitgeverijen
 [X] Recept einde HF: boer-molenaar-brouwer HF6; draf/bierbrood
-[ ] Recept einde HF: echte leerschool HF5; high-hydra tarwe/spelt? 
-[ ] Recept einde HF: dagelijks brood verdienen HF7; Altamura brood
+[ ] Recept einde HF: echte leerschool HF5; pizza! 
+[X] Recept einde HF: dagelijks brood verdienen HF7; Altamura brood
+
+[ ] Goedkeuring Peter Schoofs
+[/] Goedkeuring Johan Brijosh Tongeren
+[/] Goedkeuring Jeroen De Foodarcheoloog
+[/] Goedkeuring Mike Flour Power
+[/] Goedkeuring Karl 1ste en 2de bezoek
+[/] Goedkeuring Ghislain
 
 MEDIUM PRIO
 
@@ -24,14 +28,13 @@ MEDIUM PRIO
 [X] Sourdough Biotechnology aanduidingen verwerken
 [X] Quote bij verdienen toevoegen
 [ ] Nadenken over subtitels datums, wijzigen?
-[/] Goedkeuring schilderij, Worcester Art Museum
-[ ] Dankwoord (pas na inzending)
+[/] Goedkeuring schilderij, Worcester Art Museum => herinnering gestuurd
 [ ] Formule tabellen consequent doen (doeltemp, totale tijd, ... - layouting?)
 
 LOW PRIO
 
+[ ] Dankwoord (pas na inzending)
 [ ] Enzymen activiteit in theorie HF herlezen, goed genoeg uitgelegd?
-[ ] Boer hoofdstuk: bakken met S. Cerevisiae van biergist, verslagje
 [X] Layouting '\nl' overal goed zetten
 [ ] Sourdough Biotechnology verder uitlezen
 [X] Brijosh Tongeren bezoeken en sectie toevoegen in 'verdienen'

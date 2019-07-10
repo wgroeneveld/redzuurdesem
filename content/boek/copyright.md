@@ -16,7 +16,7 @@ As a professional baker with a passion for bread, I am in the process of writing
 
 During my research for the book, I came across Job Adriaenszoon Berckheyde's magnificent paintings of bakers and bakeries during the 17th century. One of those particular paintings, '_The Baker_' (1681), is exibited in the Worchester Art Museum. Since this painting displays an assortment of different forms of bread, I was hoping to embed this work into my book, in a chapter about different kinds of bread. 
 
-I hereby request permission to duplicate the work in printed media, in the form of a published book, and would like to be informed on the possible reproduction fees. Since a book about the world of sourdough bread is a niche (waiting to be filled) in our country, I do not expect it to sell more than 10.000 copies, before translating it into English. 
+I hereby request permission to duplicate the work in printed media, in the form of a published book, and would like to be informed on the possible reproduction fees. Since a book about the world of sourdough bread is a niche (waiting to be filled) in our country, I do not expect it to sell more than a few thousand copies. 
 
 Please do not hesitate to contact me if you have any further questions or concerns. You can reach me via email at [wouter.groeneveld@gmail.com](mailto:wouter.groeneveld@gmail.com) or:
 
