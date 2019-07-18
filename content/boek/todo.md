@@ -16,7 +16,7 @@ HIGH PRIO
 [ ] Goedkeuring Peter Schoofs
 [/] Goedkeuring Johan Brijosh Tongeren
 [/] Goedkeuring Jeroen De Foodarcheoloog
-[/] Goedkeuring Mike Flour Power
+[X] Goedkeuring Mike Flour Power
 [/] Goedkeuring Karl 1ste en 2de bezoek
 [/] Goedkeuring Ghislain
 
