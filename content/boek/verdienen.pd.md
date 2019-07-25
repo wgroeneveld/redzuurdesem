@@ -76,7 +76,7 @@ Hun desem starter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is
 ‘Tja, het brood onder de `4 EUR` verkopen is waanzin. We stoppen er inderdaad veel tijd in, en de lokale biologische bloem van de Commandeursmolen heeft ook zijn prijs. Hier in Tongeren is er nog niet veel vraag naar. Niet iedereen is bereid om meer te betalen dan in de twee Vangrootloon winkels[^vgl] hier in de buurt. Ik wil er genoeg voor hebben. We zullen zien.’ Dat klinkt alsof een marktonderzoek aan de orde is. \nl
 ‘Daar zijn we niet mee bezig. Bakken is een passie voor Johan en mij, en het brood gebruiken we in eerste instantie zelf in onze eigen zaken. Wij zijn onze eigen grootste afnemer. De rest komt later wel.’ 
 
-[^vgl]: Een industriële koude bakker. Ter vergelijking: anno 2019 kost een gemiddeld brood van `900 gr` daar `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder geweest zijn. 
+[^vgl]: Een industriële koude bakker. Ter vergelijking: anno 2019 kost een gemiddeld brood van `800 gr` daar `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder geweest zijn. 
 
 Ik heb hetzelfde dilemma in Gent gezien. Het brood is er ook veel duurder dan de gemiddelde bakkerij: `4.5 EUR`. In Hasselt wordt tegenwoordig datzelfde Superette brood, gebakken in Genk, verkocht voor `6 EUR`. En dat is niet onlogisch gezien de duur van het proces en de prijs van lokaal biologisch meel. Zuurdesembrood van dat kaliber is een compleet ander product dan gistbrood. De smaak, geur, en textuur zijn onvergelijkbaar, dus waarom zou de prijs dan vergelijkbaar moeten zijn? Mensen moeten echter wel bereid zijn om dit te willen betalen. Veel vrienden en familie zijn dit niet. Ik ken in feite maar weinig mensen die bereid zijn om veel geld uit te geven aan goed voedsel in het algemeen. \nl
 Dat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Statistische rapporten tonen aan dat de gemiddelde Amerikaan tegenwoordig ongeveer `10 %` van zijn inkomen uitgeeft aan voedsel [@clauson2008despite]. Figuur \ref{percincome} visualiseert gespendeerd inkomen aan eten de laatste 60 jaar[^figincome]. Volgens Eurostat is dit in 2017 met `12.2%` voor de gemiddelde Europeaan niet erg verschillend. In 1960 was dit percentage rond de `20%`, en in 1900 kwam dit ruim boven de `40%`. Hoe komt het dan in honderd jaar tijd dit zo sterk gedaald is? Dat heeft niet alleen te maken met de overvloed van tegenwoordige vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Voor een groot deel is dit gewoon omdat men vroeger _bewuster_ omging met voedsel. 
@@ -382,7 +382,7 @@ Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Can
 
 ### Altamura brood
 
-\label{altamuraboord}
+\label{altamurabrood}
 
 Dit is zonder twijfel een van de moeilijkere broden om te bakken. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in tabel \ref{tabledurum}. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum '_drinkt veel_', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. \nl
 Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 gr` verse gist toe en verminder je de eerste rijstijd met de helft. 

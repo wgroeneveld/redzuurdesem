@@ -120,6 +120,8 @@ Volgens diezelfde bronnen zou zuurdesem ook gebruikt worden om lijm te maken, ma
 
 #### Gedroogd als smaakversterker
 
+\index{Pizza}
+
 Deze manier om gedroogde desem als smaakversterker te gebruiken heb ik via Karl De Smedt van Puratos leren kennen. Hij noemt het '_fleur de levain_'. In plaats van het zoute _fleur de sel_ kan ook dit zure poeder propvol umami gebruikt worden om gerechten af te werken[^fleurlevain]. \nl
 Het is eenvoudig zelf te maken door verdunde desem in de oven te laten drogen. Hoe hoger de temperatuur van de oven, hoe donkerder het eindresultaat, en hoe nootachtiger en gebrander de smaak. Ook met de hoeveelheid water en de fermentatietijd kan je spelen om de intensiteit van het poeder te bepalen. \nl
 Karl raadde me aan om dit te gebruiken in plaats van gewone tarwebloem om een werkoppverlvak te bebloemen, bij het maken van pizza's bijvoorbeeld. De smaak van de eerste hap wordt versterkt door dit veelzijdig poeder, dat plakt aan de korst tijdens het bakken. 

@@ -317,13 +317,13 @@ Methode:
 - _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 23u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24 °C`.
-- _Dag 2, 07u10_: 1u. Bolrijs I.
-- _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bolrijs II.
-- _Dag 2, 09u10_: 1,5u. Opnieuw vouwen. Bolrijs III.
+- _Dag 2, 07u10_: 1u. Bulkrijs I.
+- _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bulkrijs II.
+- _Dag 2, 09u10_: 1,5u. Opnieuw vouwen. Bulkrijs III.
 - _Dag 2, 10u40_: 10min. Vormgeven.
 - _Dag 2, 10u50_: 1,5u. narijs op `24 °C`.
 - _Dag 2, 12u20_: 55min. bakken op `240 °C`.
 
-De grove granen zorgen voor een iets vastere structuur die het brood extra voedzaam maakt. Door pas halverwege de bolrijs de draf toe te voegen, zorgen we voor een goed ontwikkeld deeg dat toch mooi kan openbloeien in de oven. Deze techniek staat in schril contrast met de manier waarop het granenbrood uit hoofdstuk \ref{granenbrood} gemaakt wordt. Alles hangt af van je intentie. Wil je een stevig brood bakken met een evenredige kruim, of wil je voor een luchtiger brood gaan met een open karakter? \nl
-Stort het deeg na het eerste bolrijs uit op een werkoppverlvak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht er uit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant, en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het een laatste keer anderhalf uur te laten rusten. \nl
+De grove granen zorgen voor een iets vastere structuur die het brood extra voedzaam maakt. Door pas halverwege de bulkrijs de draf toe te voegen, zorgen we voor een goed ontwikkeld deeg dat toch mooi kan openbloeien in de oven. Deze techniek staat in schril contrast met de manier waarop het granenbrood uit hoofdstuk \ref{granenbrood} gemaakt wordt. Alles hangt af van je intentie. Wil je een stevig brood bakken met een evenredige kruim, of wil je voor een luchtiger brood gaan met een open karakter? \nl
+Stort het deeg na het eerste bulkrijs uit op een werkoppverlvak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht er uit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant, en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het een laatste keer anderhalf uur te laten rusten. \nl
 Laat het brood zeker lang genoeg bakken. 

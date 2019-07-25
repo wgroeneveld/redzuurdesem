@@ -78,6 +78,9 @@ Maar ik moet dan weer kiezen voor optie twee: doe alsof je neus bloedt en bak he
 Plannen wanneer je je deeg laat rijzen is dus zeker niet onbelangrijk. In een professionele bakkerij zijn er machines om dit te vergemakkelijken, zoals een remkast. In je eigen keuken kan je dat redelijk eenvoudig door gebruik te maken van je koelkast. \nl
 Voorlopig kunnen we concluderen dat mijn eerste focaccia niet bepaald een succes was. De typische vorm van zo'n brood nabootsen was me wel gelukt: het was plat. 
 
+\index{Pizza}
+\index{Focaccia}
+
 Buiten de schommelende rijstijd zat ik nog met een ander probleem: mijn '_combi_' oven. Die broodbakmachines zijn speciaal ontwikkeld om te bakken in het bakblik zelf[^ding]. Dat legt onmiddellijk ook beperkingen op qua vormgeving van je bakkunst: voor sandwiches of stokbrood zal een korte rit tot de 'echte' bakker nog steeds nodig zijn. \nl
 Op mijn appartement beschikte ik enkel over een microgolfoven die ook als traditionele oven moest dienen. De bakplaat is klein, en de microgolf had de grootste moeite om de temperatuur boven `180° C` constant te houden. \nl
 Tegenwoordig bak ik graag brood in een gloeiend hete oven van `250° C` om daarna te zakken in temperatuur. Dat was toen dus onmogelijk. En toch lukte het me aardig om simpele cakes en taarten te bakken, maar pizza of brood vereisen een hogere initiële temperatuur. \nl 
@@ -109,7 +112,7 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een
 * Hou een dagboek bij, waar recepten, experimenten, en gedachten in terecht kunnen. Dit kan analoog of digitaal. Ervaringen kan je zo eenvoudiger delen met andere enthousiastelingen. 
 * Brood bakken doet geen pijn. Het kost ook minder moeite dan je denkt. 
 * De absolute basis van brood bakken bestaat uit drie stappen: kneden, rijzen, bakken. 
-* Het absoluut minimum aan ingrediënten van brood bestaat uit drie componenten: bloem, water, zout[^min]. 
+* De absolute minimale hoeveelheid aan ingrediënten van brood bestaat uit drie componenten: bloem, water, zout[^min]. 
 * Het vochtgehalte van brood kan beïnvloed worden door extra toevoegingen. 
 * Investeer in een goede oven. 
 * Kabouters wassen niet af.

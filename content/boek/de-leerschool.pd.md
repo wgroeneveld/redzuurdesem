@@ -21,10 +21,10 @@ De ruimte werd voornamelijk in beslag genomen door twee grote marmeren werkopper
 ‘Het deeg koelt anders veel te snel af door de steen.’\nl
 ‘Juist. Waarom is dit dan van marmer?’ Het oppervlak voelde heel glad aan. Het leek me wel eenvoudig om te onderhouden. \nl
 ‘Andere zaken zoals bladerdeeg en alles met chocolade heeft het wel graag koud. Ideaal zou geweest zijn één van hout en één van marmer, maar bon.’ Schouders werden opgehaald, en de plooien van het doek werden glad gestreken.
-In de hoek naast het vuur stond nog een kleinere vierkante werktafel, ook van marmer. Die werd gebruikt voor zaken als de verwerking van botercrème, en de uitstorting van kokende banketbakkersroom. Die room moet de koelkast in, dus de temperatuur moet zo snel mogelijk zakken. Aan alles wordt niet alleen gedacht, maar de meest efficiënte weg voor uitgedokterd. De eerste maanden liepen mijn medestudenten en ik er maar wat verloren bij. Elke seconde telt, maar je weet de spatula's niet liggen en bent iets vergeten af te wegen. Er zijn weer bakvormen te kort, en het zout staat niet op zijn vaste plek. Welkom bij de avondschool tot _professionele brood- en banketbakker_. 
+In de hoek naast het vuur stond nog een kleinere vierkante werktafel, ook van marmer. Die werd gebruikt voor zaken als de verwerking van botercrème, en de uitstorting van kokende banketbakkersroom. Die room moet de koelkast in, dus de temperatuur moet zo snel mogelijk zakken. Aan alles wordt niet alleen gedacht, maar de meest efficiënte weg voor uitgedokterd. De eerste maanden liepen mijn medestudenten en ik er maar wat verloren bij. Elke seconde telt, maar je weet de spatel's niet liggen en bent iets vergeten af te wegen. Er zijn weer bakvormen te kort, en het zout staat niet op zijn vaste plek. Welkom bij de avondschool tot _professionele brood- en banketbakker_. 
 
 ‘Ik vind de derde weegschaal niet!’ klaagde Patrick. \nl
-‘Die is weer kapot, gebruik de andere twee maar.’ Als je in een bakkerij met 15 leerlingen tegelijkertijd verschillende dingen wil maken, dan kan het nogal eens uitdraaien op chaos. De leerkracht raadde ons meestal aan om in groepjes te werken om sneller dingen gedaan te krijgen. Het was elke vrijdagavond een grote race tegen de klok. De les begon om kwart voor 7 ‘s avonds, en eindigde om kwart na 10. Dat lijkt lang genoeg, maar is het helemaal niet. Grondstoffen als bloem en water correct afwegen neemt al snel een kwartier in beslag. Voeg daar nog een paar minuten aan toe als er wat discussie ontstaat over de accuraatheid van weegschaal nummer één versus weegschaal nummer twee. Dan werd het deeg gekneed in de snelkneder. Een bolrijs, tussendoor opbollen, de stukken verdelen, opnieuw opbollen, nog een uur rijzen en bakken. Dat zijn dan enkel de sandwiches.
+‘Die is weer kapot, gebruik de andere twee maar.’ Als je in een bakkerij met 15 leerlingen tegelijkertijd verschillende dingen wil maken, dan kan het nogal eens uitdraaien op chaos. De leerkracht raadde ons meestal aan om in groepjes te werken om sneller dingen gedaan te krijgen. Het was elke vrijdagavond een grote race tegen de klok. De les begon om kwart voor 7 ‘s avonds, en eindigde om kwart na 10. Dat lijkt lang genoeg, maar is het helemaal niet. Grondstoffen als bloem en water correct afwegen neemt al snel een kwartier in beslag. Voeg daar nog een paar minuten aan toe als er wat discussie ontstaat over de accuraatheid van weegschaal nummer één versus weegschaal nummer twee. Dan werd het deeg gekneed in de snelkneder. Een bulkrijs, tussendoor opbollen, de stukken verdelen, opnieuw opbollen, nog een uur narijs en bakken. Dat zijn dan enkel de sandwiches.
 In één les wordt er natuurlijk meer dan één gebak gemaakt. Voordat we daar aan kunnen beginnen, geeft Ghislain eerst nog wat theorie maar die wordt beperkt tot het minimum. \nl
 ‘Ik leg liever al doende uit dan aan het bord. Dan zien jullie ook wat er moet gebeuren en zo verliezen we geen kostbare tijd.’ Hij laat ons zien hoe we het deeg makkelijk uit de snelkneder halen en hoe het verdeeld kan worden met een deegsteker. 
 
@@ -99,7 +99,7 @@ Zelfs het iconisch 'San Francisco brood' wordt door Frank Deldaele omgevormd naa
 
 > _Despite the numerous advantages, L. sanfranciscensis sourdough fermentation provides, sourdough bread production is a challenging process due to the need for long-time fermentation. However, as it has been stated before that a pasteurized San Francisco sourdough in liquid form is currently available on the market, it is possible to produce breads with the specific full flavour and also to shorten the fermentation time via the addition of more yeast using this liquid sourdough. Thus, a San Francisco bread having most of the characteristics of the traditional product may be produced in less than 3 h._
 
-Het ene San Francisco brood is dus duidelijk het andere niet. Laat je ook niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helf aan volkoren granen in. Dan heb je ook nog namen met een auteursrechtelijke  bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. Het maakt het er in ieder geval enorm moeilijk op om exact te weten te komen wat er nu _precies_ in je brood zit. Tenzij... je het zelf maakt. 
+Het ene San Francisco brood is dus duidelijk het andere niet. Laat je ook niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helft aan volkoren granen in. Dan heb je ook nog namen met een auteursrechtelijke  bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. Het maakt het er in ieder geval enorm moeilijk op om exact te weten te komen wat er nu _precies_ in je brood zit. Tenzij... je het zelf maakt. 
 
 Soms heeft een naam wel degelijk (ooit) een betekenis (gehad). Een voorbeeld hiervan is het 'roggeverdommeke'. Dit is roggebrood wat de 'verdoemden' (de gevangenen) te eten kregen omdat rogge goedkoper dan tarwe is. Er werden pas later krenten aan het deeg toegevoegd. Natuurlijk kan iedere bakker hier zijn eigen interpretatie aan geven, en er is geen brood politie die de bakker arresteert als een 'roggeverdommeke' geen grammetje rogge bevat. Sommige bakkerijen doen de moeite niet om hun creaties een unieke naam te geven, en beperken het tot de naam van het gebruikte graan, of zelfs zoveel procent van dit, zoveel procent van dat. Dat is niet zo origineel, maar de boodschap naar de klant is wel zeer duidelijk. Iemand met allergische reacties kan zo met een gerust hart brood kopen.
 
@@ -146,15 +146,17 @@ Het leukste (en meest uitdagende) aan brood bakken is juist leren omgaan met die
 
 [^14]: Geloof de uitleg van Jeroen Meus niet, die het verschil tussen boerenboter (of hoeveboter) en melkerijboter toeschrijft aan een artisanaal of industrieel product. Beiden zijn synoniemen die afhankelijk van de marketingsstrategie van het product gebruikt worden. In boter vervaardigd uit melk zit tenminste `82%` vet. Geklaarde boter, of '_ghee_', is puur botervet zonder de overgebleven `18%` water. Dat laatste is niet geschikt voor een bakker, maar wel om te bakken in de pan: het kan hogere temperaturen aan dan `180° C`, voordat het vet aanbrandt. 
 
-Wist je trouwens dat het vet-, eier- en suikergehalte in een ‘_product voor de fijnbakkerij_’ (zachte luxe als sandwichen) wettelijk is vastgelegd, met een minimum en maximum?[^15] 
+Wist je trouwens dat het vet-, eier- en suikergehalte van producten die de label ‘_fijnbakkerij_’ dragen wettelijk is vastgelegd, met een minimum en maximum?[^15] 
 
-[^15]: Zie de Autocontrolegids bij brood- en banketbakkerij van het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) op [http://www.favv.be/professionelen/autocontrole/](http://www.favv.be/professionelen/autocontrole/).
+[^15]: Zie de Kruispuntbank van de Belgische Wetgeving, 2 september 1985 - Koninklijk besluit betreffende brood en andere bakkerijprodukten ([http://www.ejustice.just.fgov.be/eli/besluit/1985/09/02/1985013286/justel
+](http://www.ejustice.just.fgov.be/eli/besluit/1985/09/02/1985013286/justel
+)).
 
 De gezondheidsproblematiek rond het gebruik van margarines als botervervanger is nog steeds een actueel agendapunt. Michael Pollan heeft een heel leuk trucje om jezelf aan te herinneren wat te eten en wat niet [@pollanfood]:
 
 > '_Eet alleen zaken die je grootmoeder ook zou herkennen_.'
 
-Hij past dit idee toe bij het winkelen door de samenstelling op alle pakketten te lezen, en zo ingrediënt per ingrediënt te onderwerpen aan de grootmoeder-regel. Een andere regel die hij zichzelf oplegt geldt voor bereide producten, zoals confituur of diepvriespizza’s. Als er meer dan zeven ingrediënten in zitten, blijft het liggen in de winkel. In confituur hoort alleen maar fruit en suiker te zitten, eventueel vergezeld met kruiden of verdikkingsmiddel. In sandwiches horen alleen maar bloem, melk, eieren, boter en gist te zitten. 
+Hij past dit idee toe bij het winkelen door de samenstelling op alle pakketten te lezen, en zo ingrediënt per ingrediënt te onderwerpen aan de grootmoeder-regel. Een andere regel die hij zichzelf oplegt geldt voor bereide producten, zoals confituur of diepvriespizza’s. Als er meer dan zeven ingrediënten in zitten, blijft het liggen in de winkel. In confituur hoort alleen maar fruit en suiker te zitten, eventueel vergezeld met kruiden of verdikkingsmiddel. In sandwiches horen alleen maar bloem, melk, eieren, suiker, boter en gist te zitten. 
 
 Grootwarenhuizen verkopen enorme hoeveelheden bereide voedingsmiddelen die niet compatibel zijn met deze regel. Dat geldt niet enkel voor de vanzelfsprekende diepvriespizza, maar ook voor de bakkerij afdeling. De 'boter' in die sandwiches is net als margarines een samengesteld product, met tientallen ingrediënten die mijn grootmoeder totaal onbekend zijn. Een veganist op zoek naar croissants kan beter overschakelen naar haver als ontbijt. Emulsies van plantaardige oliën zijn helemaal niet gezonder dan melkerijboter. Het is aangetoond dat planten sterolen cholesterol verlagende effecten hebben, maar dat wil niet zeggen dat het samengesteld product een goed alternatief is [@nestel2001cholesterol]. 
 
@@ -185,11 +187,11 @@ Houd er rekening mee dat de kwaliteitsnormen van de EU niet dezelfde zijn als di
 
 [^anderewater]: Andere factoren spelen ook een grote rol, zoals we later zullen zien. 
 
-Het is uitzonderlijk om een ‘gezonde’ sandwich vinden die met 'gewone boter' gemaakt is. Croissants en chocoladebroodjes kom je sneller tegen in twee soorten, gelabeld als ‘_croissant_’, en ‘_botercroissant_’. De eerste variant bevat waarschijnlijk ‘Deb’, of een ander merk van industriële _toerboter_ dat gebruikt wordt om consistent tot een mooi gelaagd resultaat te komen[^flex]. Toerboter is margarine en verbeteraar in één. Gerezen bladerdeeg met roomboter ‘toeren’[^17] klinkt simpeler dan het is. Toerboter heeft een hoger smeltpunt: je croissants kan je met een gerust hart de rijskast in schuiven op `30° C` om ze nog geen uurtje daarna af te bakken. Doe hetzelfde met de roomboter croissants, en je kan ze in de vuilbak kieperen omdat de boter begint te smelten. \nl
+Het is uitzonderlijk om een ‘gezonde’ sandwich vinden die met 'gewone boter' gemaakt is. Croissants en chocoladebroodjes kom je sneller tegen in twee soorten, gelabeld als ‘_croissant_’, en ‘_botercroissant_’. De eerste variant bevat waarschijnlijk 'Debco Alfa', een industriële _toerboter_ die wordt gebruikt om keer op keer een mooi gelaagd resultaat te bereiken[^flex]. Toerboter is margarine en verbeteraar in één. Gerezen bladerdeeg met roomboter ‘toeren’[^17] klinkt simpeler dan het is. Toerboter heeft een hoger smeltpunt: je croissants kan je met een gerust hart de rijskast in schuiven op `30° C` om ze nog geen uurtje daarna af te bakken. Doe hetzelfde met de roomboter croissants, en je kan ze in de vuilbak kieperen omdat de boter begint te smelten. \nl
 Toerboter geef de bakker de mogelijkheid om sneller het deeg te toeren door niet te secuur te werk te gaan op de uitroltafel: het deeg kan heel wat verdragen voordat het scheurt. Doe hetzelfde met de roomboter en je deeg is gegarandeerd gescheurd, waardoor de felbegeerde gelaagdheid verdwijnt. 
 Koop de volgende keer in je lokale bakkerij eens beide croissants om ze te kunnen vergelijken. Let eens op de smaak, de kleur, de geur en de textuur. Je zal onmiddellijk begrijpen wat ik bedoel. De 'gewone' croissants ruiken heel chemisch. Zelfs onze kippen tonen weinig interesse in stukjes van deze croissant. Als dat geen teken aan de wand is, dan weet ik het ook niet meer...
 
-De volgende ingrediëntenlijst komt van de technische fiche van het product 'Deb'[^fiche], een '_margarine voor cake en gistdeeg, makkelijk te verwerken in diverse toepassingen._':
+De volgende ingrediëntenlijst komt van de technische fiche van het product 'Debco Mira'[^mirafiche], een '_margarine voor cake en gistdeeg, makkelijk te verwerken in diverse toepassingen._':
 
 > Plantaardige vetten: Palm, Geheel geharde palmpit, Kokos, Geheel geharde palm; Water; Plantaardige olie: Raapzaad; Emulgator: Lecithinen (E 322), Mono- en diglyceriden van vetzuren (E 471); Zout; Conserveermiddel: Kaliumsorbaat (E 202); Zuurteregelaar: Citroenzuur (E 330); Aroma's; Vitamines: Vitamine A
 palmitaat, Vitamine D3; Kleurstof: Caroteen (E 160a).
@@ -198,7 +200,7 @@ Al een geluk dat er vitamine in zit! Het zou houdbaar zijn voor exact 182 dagen 
 
 [^17]: De boter in het deeg vrouwen in een aantal stappen.
 [^flex]: Deze producten worden gefabriceerd door ketens als CSM Bakery Solutions en Puratos. Groothandelaars als Ranson en Panesco varen hier ook goed bij. 
-[^fiche]: [http://bakwinkel.be/media/1586/mira.pdf](http://bakwinkel.be/media/1586/mira.pdf)
+[^mirafiche]: [http://fiches.ranson.be/00004020nl-be.pdf](http://fiches.ranson.be/00004020nl-be.pdf)
 
 Die dingen had ik allemaal niet ontdekt als ik de avondschool niet gevolgd had. Op een bepaalde manier ben ik wel dankbaar dat ik mocht kennis maken met deze producten. Vanaf het ogenblik dat je begint aandacht te geven aan de smaak of de geur van iets als een croissant, begin je dingen te herkennen. Wat aandacht krijgt, groeit. Ben je al ooit eens op huizenjacht geweest? Daarvoor was nog geen enkel huis te koop - althans niet voor een ongeoefend oog. Plots lijkt het alsof elk huis in de buurt te koop staat, ongelofelijk! Dat gevoel werkt als een spier: hoe meer je het traint, hoe meer het je opvalt en je er op kan vertrouwen. De drie jaren als brood- en banketbakker in spé werden onze 'botergeur-spieren' enorm hard getraind. De armspieren zijn relatief gespaard gebleven dankzij intensief gebruik van de snelkneder. 
 
@@ -236,14 +238,14 @@ Er zijn veel ongevallen gebeurd gedurende die jaren. Het einde van de werkweek g
 
 Als er één recept is wat mij is bijgebleven, is het toch wel de pudding of banketbakkersroom[^19]. Zo goed als elke vrijdag werd er pudding gekookt. Pudding voor in de éclairs, pudding voor tussen de koffiekoeken, pudding voor de vlaaien mee op te vullen, pudding voor de Berlijnse bollen, pudding pudding pudding. Het koken van pudding is niet zo moeilijk, maar vereist wel redelijk wat concentratie: zodra de massa begint te ‘blubberen’ (het verdikkingsproces door het maïszetmeel) moet je goed opletten, of het spul is aangebrand. Het uitstorten van pudding op een marmeren werktafel is heerlijk om naar te kijken: een plakkerig geel goedje, met in het beste geval veel zwarte tikjes van een goede vanillestok of twee, dat zich gestaag een weg weet te banen uit de kookpot. 
 
-Misschien beslis je om met een spatula het laatste restje uit de pot te schrapen, om op de rest van de hoop te leggen. Of misschien is het een zware week geweest, en heb je best nood aan het verzachtend gevoel van warme pudding dat tegen je gehemelte plakt, voordat het je keelgat in verdwijnt. In dat geval is het oké om de spatula naar de mond te brengen, nadat je jezelf ervan verzekert hebt dat je collega’s allemaal druk bezig zijn. Dimitri herinnert mij nog steeds hoe vaak ik niet aan die verleiding kon weerstaan. Mijn naam is haas. 
+Misschien beslis je om met een spatel het laatste restje uit de pot te schrapen, om op de rest van de hoop te leggen. Of misschien is het een zware week geweest, en heb je best nood aan het verzachtend gevoel van warme pudding dat tegen je gehemelte plakt, voordat het je keelgat in verdwijnt. In dat geval is het oké om de spatel naar de mond te brengen, nadat je jezelf ervan verzekert hebt dat je collega’s allemaal druk bezig zijn. Dimitri herinnert mij nog steeds hoe vaak ik niet aan die verleiding kon weerstaan. Mijn naam is haas. 
 
-Pudding is voor mij, naast brood, iets nostalgisch. Mijn moeder maakte vroeger af en toe pudding als dessert. Het was een kwestie van goed opletten om de restjes die nog tegen de rand van de pot kleefden te kunnen bemachtigen. Er is niets beter dan glunderend met een spatula pudding naar binnen te werken, terwijl uw zussen jaloers toekijken omdat ze te laat waren! 
+Pudding is voor mij, naast brood, iets nostalgisch. Mijn moeder maakte vroeger af en toe pudding als dessert. Het was een kwestie van goed opletten om de restjes die nog tegen de rand van de pot kleefden te kunnen bemachtigen. Er is niets beter dan glunderend met een spatel pudding naar binnen te werken, terwijl uw zussen jaloers toekijken omdat ze te laat waren! 
 Het hoeft ook niet altijd de eentonige vanille pudding te zijn: je kan hier best veel mee variëren. 
 
 Pudding wordt in België meestal met enkel melk gekookt. Een alternatief wat ik vaak terugvind in buitenlandse recepten is, de helft melk en de helft room gebruiken [@tartine]. Het gevolg is een rijkere, vettere structuur. Melk hoeft ook niet altijd koemelk te zijn: notenmelk geeft de pudding een heel andere smaak. Vervang die bekende vanillestokjes eens door een kaneelstok of twee met wat kruidnagels. Een recente favoriet is pudding geïnfuseerd met Ceylon thee. Kook in dat geval de melk met thee of kruiden, en laat dit mengsel minstens een halfuur trekken. 
 
-[^19]: Wat is het verschil tussen '_pudding_' en '_banketbakkersroom_'? Voor ons in de les was er geen verschil. Soms worden eieren vervangen door puddingpoeder. Daardoor wordt met 'pudding' vaak de lichtere variant bedoelt. Soms is de dikte een factor. 
+[^19]: Wat is het verschil tussen '_pudding_' en '_banketbakkersroom_'? Om een lichtere variant van het heerlijke maar zware banketbakkersroom te maken, worden de eieren vervangen door puddingpoeder, vandaar het woord 'pudding'. Bakkers gebruiken jammer genoeg te vaak beide termen door elkaar. 
 
 | Hoeveelheid   | Percentage | Beschrijving        |
 |:-------------:|:----------:|:--------------------|
@@ -253,13 +255,13 @@ Pudding wordt in België meestal met enkel melk gekookt. Een alternatief wat ik 
 | `90 gr` (`5`) | `9%`       | Eidooiers           |
 | /             | /          | Smaakmaker          |
 
-Table: Formule voor standaard pudding.
+Table: Formule voor standaard banketbakkersroom.
 
 
 Methode:
 
 * Melk[^melkkg] met smaakmaker (thee, vanille, kaneel, ...) en de helft van de suiker koken en laten infuseren. In geen geval roeren, anders brandt de suiker aan. Smaakmaker scheiden van de melk met een zeef.
-* Zetmeel met eidooiers en de helft van de suiker mengen. Halveer het zetmeel indien de pudding uitgespreid moet worden op bijvoorbeeld bladerdeeg.
+* Zetmeel met eidooiers en de helft van de suiker mengen. Halveer het zetmeel indien de banketbakkersroom uitgespreid moet worden op bijvoorbeeld bladerdeeg.
 * Dit mengsel temperen door een beetje van het hete vocht hier op te gieten en te roeren. Dit daarna aan de melk al roerend toevoegen.
 * Laten doorkoken om het zetmeel zijn werk te laten doen.
 * Afkoelen, door bijvoorbeeld uit te storten op een werkoppervlak. In dat geval bedekken met folie om velvorming te voorkomen. Insmeren met een beetje boter werkt ook.
@@ -267,11 +269,15 @@ Methode:
 [^melkkg]: De dichtheid van melk is ongeveer `1.O3` kg per liter, dus een liter weegt zo afgerond naar onder `1 kg`. In de formule zijn de percentages relatief ten opzichte van de melk, het hoofdingrediënt.
 
 Terug naar het brood bakken. \nl
-Het aangeleerd basisrecept bevat `1.5%` zout, tussen de `55` en `60%` water, tussen de `5` en `10%` verse gist, en `3%` vet. Net als vet heeft de toevoeging van zout ook wettelijk bepaalde minima en maxima. Het soort bloem bepaalt hoeveel water het deeg kan opnemen. Tijdens de lessen werd er nooit met een nat deeg gewerkt. Uitzonderingen op de regel zijn ciabatta, dat volgens het recept in onze handleiding `70%` water moet bevatten. 
+Het aangeleerd basisrecept bevatte `1.5%` zout, tussen de `55` en `60%` water, tussen de `4` en `10%` verse gist en `3%` vet. De maximum hoeveelheid zout in brood is in België wettelijk vastgelegd op `1.7%`, en is verplicht gejodeerd. Voor Nederland dicteert Artikel 3 uit het Warenwetbesluit Meel en Brood een hoeveelheid van `1.8%`, zonder enige vermelding van jodium[^wetnl]. Het soort bloem bepaalt hoeveel water het deeg kan opnemen. Tijdens de lessen werd er nooit met een nat deeg gewerkt. Uitzonderingen op de regel zijn ciabatta, dat volgens het recept in onze handleiding `70%` water moet bevatten. 
+
+[^wetnl]: [https://wetten.overheid.nl/BWBR0009669/2017-10-01](https://wetten.overheid.nl/BWBR0009669/2017-10-01)
 
 Het brood bak proces dat wij leerden bestaat uit de volgende stappen. Als eerste wordt alles zeer snel gekneed, met het oog op een bepaalde deegtemperatuur. De temperatuur bepaalt hoe snel het brood verder rijst. De temperatuur stijgt ongeveer `1° C` per tien minuten kneden in een spiraalkneder door de wrijving. Dit wordt _intensief kneden_ genoemd. Intensief kneden is de aangewezen manier om op korte tijd de beste gluten structuur en een evenredig verdeeld kruim te verkrijgen. In de zomer instrueerde Ghislain ons voor sommige degen om ijswater te gebruiken: de omgevingstemperatuur van de bakkerij zelf speelt natuurlijk ook een rol. Die kan immers al snel oplopen tot `30° C` als de ovens voorverwarmd zijn. Kneden kost je zo’n tien tot twintig minuten, afhankelijk van het soort deeg.
 
-De tweede stap is de voorrijs of _bolrijs_, waarbij het deeg in zijn geheel (als ‘_bol_’) kan rusten. Dit rusten ontspant het deeg, en geeft het tijd om te rijzen. Wanneer de gluten ontspannen is het voor ons eenvoudiger om het deeg te verdelen in de juiste proporties, om het daarna de juiste vorm te kunnen geven. Een te gespannen deeg werkt tegen. Deze stap neemt ongeveer twintig minuten in beslag. Je leest dat goed: twintig minuten. Belachelijk kort, waarbij het deeg onvoldoende tijd krijgt om smaak te ontwikkelen.
+\index{Bulkrijs}
+
+De tweede stap is de voorrijs of _bulkrijs_, waarbij het deeg in zijn geheel (vandaar de naam ‘_bulk_’) kan rusten. Dit rusten ontspant het deeg, en geeft het tijd om te rijzen. Wanneer de gluten ontspannen is het voor ons eenvoudiger om het deeg te verdelen in de juiste proporties, om het daarna de juiste vorm te kunnen geven. Een te gespannen deeg werkt tegen. Deze stap neemt ongeveer twintig minuten in beslag. Je leest dat goed: twintig minuten. Belachelijk kort, waarbij het deeg onvoldoende tijd krijgt om smaak te ontwikkelen.
 
 De derde stap is het verdelen. Het deeg wordt platgeslagen, en die o zo voorzichtig opgebouwde lucht wordt er volledig uitgedrukt. Dan wordt het met de hand of met een opbolmachine vorm te geven. Er bestaan ook grote machines om degen van `800 gr` automatisch vorm te geven, maar die hadden wij niet in onze bakkerij. Wij gebruikten de opbolmachine enkel voor sandwiches en pistolets. 
 
@@ -283,7 +289,7 @@ Als laatste wordt het brood effectief gebakken. Bakken kost je veertig minuten. 
 
 Ingrediënten afwegen kostte ons telkens meer tijd dan we dachten, ook al doen we dit met een aantal mensen samen voor verschillende degen. Onderschat het niet, en tel hier zeker vijf minuten voor. Een gemiddeld brood bakken vanaf nul kostte ons ongeveer twee uur. Dat is belachelijk snel als je dit vergelijkt met wat ik thuis nodig heb om mijn zuurdesem broden te bakken. Op die tijd is mijn deeg dan nog steeds aan zijn eerste rijs toe. 
 
-Daniel Leader beschrijft in zijn boek ‘Local Breads’ verschillende recepten van baguettes, waaronder de Parijse ‘_baguette normal_’ [@leaderlocalbreads]. Deze baguettes worden elke 4 uur gebakken, tot sluitingstijd. Dit deeg wordt ook wel ‘_straight_’ of ‘direct’ genoemd, vanwege het gebrek aan een voordeeg of '_preferment_'. Daniel mixt zijn deeg totdat het water en bloem genoeg verdeeld is om een ruwe deegbal te vormen, en laat dan het deeg rusten voor twintig minuten. Dit noemt men een ‘_autolyse_’ - geef het meel de tijd om het water op te nemen, en al wat gluten te ontwikkelen. De bolrijs duurt ook wat langer: halverwege wordt het deeg als een brief samengevouwen. Dit vouwen geeft het deeg de nodige kracht. Het wordt vaak gedaan vanwege een hogere vochtigheidsgraad (`68%`). Die vier uur komt dus ruwweg overeen met onze tijdlijn. 
+Daniel Leader beschrijft in zijn boek ‘Local Breads’ verschillende recepten van baguettes, waaronder de Parijse ‘_baguette normal_’ [@leaderlocalbreads]. Deze baguettes worden elke 4 uur gebakken, tot sluitingstijd. Dit deeg wordt ook wel ‘_straight_’ of ‘direct’ genoemd, vanwege het gebrek aan een voordeeg of '_preferment_'. Daniel mixt zijn deeg totdat het water en bloem genoeg verdeeld is om een ruwe deegbal te vormen, en laat dan het deeg rusten voor twintig minuten. Dit noemt men een ‘_autolyse_’ - geef het meel de tijd om het water op te nemen, en al wat gluten te ontwikkelen. De bulkrijs duurt ook wat langer: halverwege wordt het deeg als een brief samengevouwen. Dit vouwen geeft het deeg de nodige kracht. Het wordt vaak gedaan vanwege een hogere vochtigheidsgraad (`68%`). Die vier uur komt dus ruwweg overeen met onze tijdlijn. 
 
 De directe methode is de meest gebruikte methode om brood te bakken. Het is dan ook logisch dat tijdens de opleiding tot bakker hier het meeste aandacht aan geschonken wordt. De meest gebruikte betekent echter niet de methode die de meeste smaak opbrengt...
 
@@ -311,7 +317,7 @@ Het laatste jaar van de opleiding is in feite een grote aanloop naar de ultieme 
 
 Per groepje van drie leerlingen stel je een actieplan op. De opdracht is vrij in te vullen maar er moeten bepaalde producten gemaakt worden zoals mousses, amandelbeslag, harde en zachte luxe, en bladerdeeg. Je kan het jezelf zo makkelijk of moeilijk maken als je maar wil. De keuzes beïnvloeden uiteraard de evaluaties van de jury. Een bavarois is tijdsintensiever dan een chocolademousse. Een javanais kost meer moeite dan een frangipanetaart. De twee soorten luxe kun je met één gezamenlijk deeg maken, door bijvoorbeeld op het laatste moment het deeg op te delen om een ander eindproduct te komen. 
 
-Patrick, Dimitri en ik kozen ervoor om thuis een voordeeg met zuurdesem te maken dat op de dag van het examen verwerkt werd in het brooddeeg. We lieten ook alle verbeteraars achterwege en gebruikten melkerijboter in plaats van margarines. De gebakken producten krijg je op het einde van de dag mee naar huis: het zou zonde zijn om ze zelf niet op te eten. In plaats van het klassieke amandelbeslag als frangipane, koos ik voor pistachenoten en pudding. Ik leerde van Michel Suas pudding te combineren met een klassiek frangipanebeslag om een tot een zachter, voller resultaat te komen. 
+Patrick, Dimitri en ik kozen ervoor om thuis een voordeeg met zuurdesem te maken dat op de dag van het examen verwerkt werd in het brooddeeg. We lieten ook alle verbeteraars achterwege en gebruikten melkerijboter in plaats van margarines. De gebakken producten krijg je op het einde van de dag mee naar huis: het zou zonde zijn om ze zelf niet op te eten. In plaats van het klassieke amandelbeslag als frangipane, koos ik voor een mengeling van pistachenoten met banketbakkersroom. Ik leerde van Michel Suas de room te combineren met een klassiek frangipanebeslag om een tot een zachter, voller resultaat te komen. 
 
 Achteraf gezien hebben we het ons onbewust moeilijker gemaakt. De jury beoordeelde ons gebak gebaseerd op wat voor hun bekend is. Jammer genoeg kreeg ik de commentaar dat de frangipane taartjes niet goed gebakken waren (typische Belgische frangipane is harder en droger), en dat de sandwiches niet zacht genoeg waren (natuurlijk niet, de verbeteraar ontbrak!). Non-conformiteit heeft ons toen heel wat punten gekost. Laat studenten dan niet vrij in hun keuze, als er enkel geoordeeld wordt op basis van de standaard.
 
@@ -330,7 +336,7 @@ De volgende keer dat ik naar een feestje ga, kan ik mijzelf voorstellen als prof
 
 * De snelheid van het kneden beïnvloed de deegtemperatuur. 
 * De temperatuur beïnvloed de rijstijd: hoe warmer, hoe sneller. 
-* Het absoluut minimum aan tijd van bloem tot brood is 2 uur. Hoe meer tijd, hoe meer smaak. 
+* De absolute minimale hoeveelheid tijd van bloem tot brood is drie tot vier uur. Hoe meer tijd, hoe meer smaak. 
 * De absolute basis van brood bakken bestaat uit niet uit drie, maar uit vijf stappen: kneden, eerste rijs, verdelen en opbollen, tweede rijs, bakken. 
 * Een '_ambachtelijke_' bakker is meestal een leugenaar[^namaakambacht]. Er is niets ambachtelijk aan additieven die het mogelijk maken om het hele proces te industrialiseren. 
 * Een professioneel (Belgisch) diploma behalen als brood- en banketbakker levert je weinig kennis over brood bakken op. 
@@ -367,7 +373,7 @@ Table: Formule voor sandwiches, gebaseerd op het standaardrecept van de basisopl
 Methode:
 
 - _Dag 1, 10u00_: 15min. kneden op hoge snelheid. Doeltemperatuur: `25 °C`.
-- _Dag 1, 10u15_: 20min. bolrijs
+- _Dag 1, 10u15_: 20min. bulkrijs
 - _Dag 1, 10u35_: 10min. Vormgeven, twee keer bestrijken met eigeel.
 - _Dag 1, 10u45_: 60min. narijs op `32 °C`.
 - _Dag 1, 11u45_: 10min. bakken op `250 °C`.
@@ -398,7 +404,7 @@ Methode:
 - _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 23u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 07u00_: 10min. kneden op hoge snelheid. Doeltemperatuur: `24 °C`.
-- _Dag 2, 07u10_: 2,5u. bolrijs
+- _Dag 2, 07u10_: 2,5u. bulkrijs
 - _Dag 2, 09u40_: 10min. Vormgeven, twee keer bestrijken met eigeel.
 - _Dag 2, 09u50_: 1,5u. narijs op `24 °C`.
 - _Dag 2, 11u20_: 10min. bakken op `250 °C`.

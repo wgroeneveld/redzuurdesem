@@ -24,10 +24,10 @@ Het probleem met deze methode is een gebrek aan consistentie. Ik bak vaak pizza 
 Consistentie is geen primair doel in mijn eigen keuken: ik baat immers geen pizzeria uit. \nl
 'Dit proeft toch anders als vorige keer Wouter, wat is er veranderd?' Ik glimlach dan en haal mijn schouders op. Exact dezelfde smaak opnieuw tevoorschijn toveren lukt alleen maar met exact dezelfde condities.  
 
-\index{Bolrijs}
+\index{Narijs}
 
 Het bakproces bestaat uit een aantal stappen waarvan er maar twee nooit weggelaten kunnen worden: _mengen_ en _bakken_. Rijzen kan met soda weggelaten worden, een tweede rijs of voordeeg met genoeg gist, en vorm geven met het uitstorten van deeg in een bakvorm. \nl
-De Nederlandstalige terminologie om elke stap in het proces te identificeren klinkt eerlijk gezegd erg slap in vergelijking met de bewoording in het Engels, Duits, en Frans, die in goede internationale bakboeken terug te vinden is. Het was mij vroeger zelfs niet eens duidelijk wat een '_bolrijs_' nu precies betekende. Om verdere verwarring te vermijden som ik in tabel \ref{terms} de meest gebruikte terminologie op:
+De Nederlandstalige terminologie om elke stap in het proces te identificeren klinkt eerlijk gezegd erg slap in vergelijking met de bewoording in het Engels, Duits, en Frans, die in goede internationale bakboeken terug te vinden is. Het was mij vroeger zelfs niet eens duidelijk wat een '_narijs_' nu precies betekende. Om verdere verwarring te vermijden som ik in tabel \ref{terms} de meest gebruikte terminologie op:
 
 | Stap | Term EN/NL     | Term FR/DE  | Beschrijving                          |
 |:----:|:---------------|:----------------|:----------------------------------|
@@ -35,7 +35,7 @@ De Nederlandstalige terminologie om elke stap in het proces te identificeren kli
 |  2   | _Mixing_ \newline Mengen        | _Mélanger_ \newline Mischen       | De ingrediënten samen brengen.
 |  3   | _Autolyse_ \newline /     | / \newline /         | Bloem de kans geven om water te absorberen. |
 |  4   | _Kneading_ \newline Kneden     | _Pétrissage_ \newline Kneten        | Kneden om gluten te ontwikkelen.       |
-|  5   | _Bulk ferment_ \newline Bolrijs | _Première pousse_ \newline Stockgare       | Eerste rijstijd.                      |
+|  5   | _Bulk ferment_ \newline Bulkrijs | _Première pousse_ \newline Stockgare       | Eerste rijstijd.                      |
 |  6   | _Preshaping_ \newline Voorvormen  | _Préforme_ \newline Vorformen | Afwegen. Een eerste ruwe vorm geven.  |
 |  7   | _Bench rest_ \newline Rusten   | _Repos_ \newline Zwischengare        | Gluten laten relaxen voor tweede vorm.|
 |  8   | _Final shaping_ \newline Vormgeven | _Mise en forme_ \newline Formen    | Ruwe vorm herweken tot boule/bâtard   |
@@ -47,7 +47,7 @@ Table: De terminologie van het bakproces. \label{terms}
 \index{Double Hydration}
 
 De voor de hand liggende stappen zoals afwegen en de oven op het juiste moment voorverwarmen heb ik weggelaten. Als je met érg nat deeg werkt, kan je voor het kneden voor een tweede keer water toevoegen. Dat noemt men '_double hydration_': het deeg krijgt zowel bij de autolyse stap de kans om water op te nemen, als tijdens de kneedfase. Het deeg laten rusten tussen de vormgeving stappen 6 en 8 dient enkel om de gluten voldoende te laten ontspannen, om het daarna makkelijker terug op te spannen. \nl
-In de praktijk sla ik die stap vaak over. Bij Syntra sprak men ook nog van een '_voorrijs_', dat gek genoeg niets te maken heeft met een voordeeg, maar met het laten rijzen van het deeg in de mengkuip van de kneedmachine, voordat het in grote stukken op het werkoppervlak verdeeld werd. Een professionele bakker kan zich de langdurige bezetting van die machine niet veroorloven. 
+In de praktijk sla ik die stap vaak over. Bij Syntra sprak men ook nog van een '_voorrijs_', dat gek genoeg niets te maken heeft met een voordeeg, maar met het laten rijzen van het deeg in de mengkuip van de kneedmachine, voordat het in grote stukken op het werkoppervlak verdeeld werd als voorbereiding op de bulkrijs. Een professionele bakker kan zich de langdurige bezetting van een machine meestal niet veroorloven. 
 
 \index{Baker's Percentage}
 
@@ -104,14 +104,17 @@ Dag twee, zaterdag, gebeurt het meeste werk, zoals kneden, rijzen, en vorm geven
 Daar kan ik mij alleen maar bij aansluiten.
 
 De eerste rijs duurt minstens 4 uur, liefst iets meer. Vanwege andere sporadische activiteiten op een op een zaterdagmiddag speel ik hier meestal mee. In tegenstelling tot het roggebrood hieronder, is het tarwedeeg redelijk flexibel wat betreft de voorgeschreven rijstijd.  \nl
-De `2.2%` zout klinkt misschien veel, maar is vereist wanneer het deeg een lange tijd in de koeling rijst. Minder zout betekent te veel activiteit en een kans op instorten bij het bakken. Als zout inname een probleem is, verkort dan de tweede rijstijd. \nl
+De `2.2%` aan zout klinkt misschien veel, en ik negeer even de ondoordachte Belgische wetgeving, maar dit is vereist wanneer het deeg een lange tijd in de koeling rijst. Minder zout betekent te veel activiteit en een kans op instorten bij het bakken. Als zout inname een probleem is, verkort dan de tweede rijstijd. \nl
 Mijn koelkast is ingesteld op `6 °C` in plaats van het conventionele `2 °C`. Dat verschil gaat zeker ook een impact hebben op de maximum rijstijd die het deeg aankan. Erg lange rijstijden van meer dan 24 uur zijn alleen maar mogelijk met meer dan `2.5%` zout. 
 
 Laat je niet afschrikken door de grote hoeveelheid water aanwezig in deze formule. Goede (lokale) bloem van Type `65` neemt veel meer water op dan patentbloem. De aanwezigheid van redelijk wat volkoren roggemeel in combinatie met de autolyse stap helpen hier ook in. \nl
 Meestal durf ik tot `75%` hydratatie te gaan, afhankelijk van mijn gemoedstoestand. In dat geval is extra elasticiteit opbouwen met vouwen een vereiste. Als je niet gewend bent om te werken met nat deeg, bouw dit waterpercentage dan geleidelijk op, startend met een veilige `65%`. De meeste Belgische en Nederlandse bakkerijen, inclusief Natuurbakkerij Schoofs & Herteleer uit hoofdstuk \ref{vergeten}, werken met een vaster deeg van `55` tot `60%` water.
 
+\index{Pizza}
+\index{Focaccia}
+
 Dimitri gebruikt graag meer volkoren tarwe dan rogge in zijn befaamd olijvenbrood. De umami smaak van `15%` toegevoegde olijven passen erg goed bij dit tarwebrood. Omdat olijven meestal ingelegd zijn in zout is het aan te raden om minder in het deeg te gebruiken. Gebruik in ieder geval nooit in azijn ingelegde olijven die de smaak van het brood verpesten. \nl
-Ik voeg nooit vetstoffen toe aan mijn brood, zelfs niet als het om pizza- of focacciadeeg[^focaccia] gaat. Bovenstaande formule kan ook perfect gebruikt worden om pizza mee te maken, net als de Altamura formule uit hoofdstuk \ref{altamuraboord}. In dat geval vorm ik kleine bolletjes van rond de `220 gr` die geolied in een container in de koelkast rusten tot er gebakken wordt. \nl
+Ik voeg nooit vetstoffen toe aan mijn brood, zelfs niet als het om pizza- of focacciadeeg[^focaccia] gaat. Bovenstaande formule kan ook perfect gebruikt worden om pizza mee te maken, net als de Altamura formule uit hoofdstuk \ref{altamurabrood}. In dat geval vorm ik kleine bolletjes van rond de `220 gr` die geolied in een container in de koelkast rusten tot er gebakken wordt. \nl
 Bij pizzadeeg wordt meestal met een minimale hoeveelheid gist in plaats van desem gebruikt waarna het deeg de kans krijgt om over een tijdsspanne van enkele dagen smaak te ontwikkelen zonder dat de aciditeit gaat overheersen. Ik vind het echter zonde om mijn potje met desem niet boven te halen. Eender welk excuus is goed genoeg. 
 
 [^focaccia]: Bij focaccia is het de bedoeling om een hoop olijfolie _op_ het deeg (en niet erin) te gieten die in de met de vingers gemaakte gaatjes trekt. Vergeet het grof zout en de rozemarijn niet. 

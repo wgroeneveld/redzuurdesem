@@ -79,6 +79,8 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
 
 ### Voor alternatieve bakkers
 
+\index{Pizza}
+
 * _Flour Water Salt Yeast: The fundamentals of artisan bread and pizza_ door Ken Forkish [@forkish].
     - Leuke achtergrondverhalen over een ingenieur (weeral een?) die beslist om iets totaal anders te gaan doen. Zulke verhalen raken een gevoelige snaar.
     - Ken heeft recepten van zijn bakkerij aangepast om thuis te kunnen bakken, met eigen visie over stomen en hydratatie.

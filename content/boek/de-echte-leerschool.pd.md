@@ -159,7 +159,7 @@ Ik kende voor mijn stage totaal niets van het reilen en zeilen in de horeca.  Mi
 
 Ik schakel de hulp van Sophia in om mijn argwaan tegen de perfecte baktijd van die vervloekte canelés onder controle te krijgen. Toch slagen we er samen in om de oven een paar seconden te lang uit het oog te verliezen. 
 
-> Hard werken bij voorbereidingsdagen, al vond ik dat het minder stressvol aanvoelde dan als De Superette zelf open is en er van alles tegelijkertijd aan de hand is. Ben vergeten te kijken naar de shortbreads... Frangipane zonder melk en bloem? Speciaal. _Pastry cream_[^cream] met 15 g zout blijf ik vies vinden, of heeft alleszins een speciale smaak waar ik niet snel aan zal wennen. Ghislain zijn recept met vanille is zoeter, maar valt zwaarder.
+> Hard werken bij voorbereidingsdagen, al vond ik dat het minder stressvol aanvoelde dan als De Superette zelf open is en er van alles tegelijkertijd aan de hand is. Ben vergeten te kijken naar de shortbreads... Frangipane zonder melk en bloem? Speciaal. _Pastry cream_[^cream] met 15 g zout blijf ik vies vinden, of heeft alleszins een speciale smaak waar ik niet snel aan zal wennen. Ghislain zijn recept met vanille is zoeter, en daar ben ik mee opgegroeid.
 
 [^cream]: Banketbakkersroom.
 
@@ -176,8 +176,9 @@ Dimitri en Patrick kwamen me die middag een hart onder de riem te steken. Het dr
 
 Sarah liet me zien hoe het volkoren roggebrood gemaakt wordt. Het zit tjokvol zaden en volle granen die eerst geweekt en gekiemd worden. Een intensief proces om op zo’n schaal uit te voeren. Dankzij de warmte van de bakkerij worden de sluitingsdagen gebruikt om de zaal om te bouwen in een grote incubator, waar de rogge zaadjes de kans krijgen om te kiemen. 
 Ik kwam ook te weten dat de hoeveelheid water van elk deeg dagelijks wijzigt, gebaseerd op de bevindingen van de ervaren bakkers. De laatste oogst van de bloem verdraagt plots minder water. Hoe verser de bloem gemalen is, hoe minder water hij opneemt[^water]. De meeste bloem bij De Superette wordt binnen de 2 tot 3 weken na het malen gebruikt. Ook de eerste en tweede rijs wijzigt dagelijks van duur. Vandaag werd het brood een vol uur langer gerezen, door de plotse daling van buitentemperatuur die inspeelt op de binnentemperatuur van de bakkerij. Het is dus een kwestie van _voelen_, en niet van voorschriften volgen! Om hier telkens juist over te kunnen oordelen moet je zoiets jaren doen. \nl
-Om de volgende dag sneller van start te kunnen gaan, wordt bloem op voorhand afgewogen, en in zakken in de mixer gelegd. Kleine optimalisaties als dit doorvoeren zorgt ervoor dat de bakkerij in zijn geheel vlotter blijft draaien. Sophia leerde me om tussendoor de koelkast op orde te brengen en alles netjes te labelen. Iedereen die tussen de opdrachten door even tijd heeft, vult die tijd nuttig op door zoiets te doen. Dat is iets heel anders dan doelloos te surfen naar nieuwtjes op Facebook.
+Om de volgende dag sneller van start te kunnen gaan, wordt bloem op voorhand afgewogen, en in zakken in de mixer gelegd[^gelegd]. Kleine optimalisaties als dit doorvoeren zorgt ervoor dat de bakkerij in zijn geheel vlotter blijft draaien. Sophia leerde me om tussendoor de koelkast op orde te brengen en alles netjes te labelen. Iedereen die tussen de opdrachten door even tijd heeft, vult die tijd nuttig op door zoiets te doen. Dat is iets heel anders dan doelloos te surfen naar nieuwtjes op Facebook.
 
+[^gelegd]: Een tweede belangrijke reden om dit te doen is de bloem op kamertemperatuur laten komen. 
 [^water]: Hoe verser de gemalen granen, hoe meer vocht ze nog bevatten, dus hoe minder water ze kunnen bij opnemen. 
 
 Ook op vrije dagen reed ik terug naar huis. Na verschillende rotslechte nachten door de stress en een slechte matras, keek ik er toch naar uit om in mijn eigen bed te kunnen slapen. Ik heb jammer genoeg de stad Gent zelf nauwelijks kunnen verkennen. Als ik nog fit genoeg zou zijn na mijn shift (_ha!_), was het al pikkedonker, en de gure novembermaand bracht elke dag regen. 
@@ -202,7 +203,7 @@ Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn r
 ### Wat ik geleerd heb
 
 * De temperatuur beïnvloed nog steeds de rijstijd, maar ook omgekeerd: hoe kouder, hoe trager. 
-* Het absoluut minimum aan tijd van bloem tot _smaakvol_ brood is 30 uur. Die lange tijd bereik je met een combinatie van voordeeg en lang rijsproces. 
+* De absolute minimale hoeveelheid tijd van bloem tot _smaakvol_ brood is subjectief en kan gaan tot meer dan 30 uur. 
 * Technieken als autolyse en _double hydration_[^double] vereenvoudigen het hanteren van een nat deeg.
 * Gebruik nooit patentbloem, ook niet voor taarten of cakes.
 * Werken in de horeca is zwaar, en niet alleen fysiek. Dit is onmogelijk in woorden uit te drukken. Om een idee te hebben hoe zwaar, vraag je best een stage aan. 
@@ -215,3 +216,40 @@ Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn r
 
 [^double]: Het deeg in feite twee keer hydrateren, door na een korte kneed- en rustfase meer water toe te voegen. 
 
+### Pizza deeg
+
+\index{Pizza}
+
+Mijn meest dierbare herinneringen aan De Superette hebben niets te maken met brood, maar met pizza. Elke zaterdagavond was het _pizza night_. Om in de sfeer te komen werden geroosterde champignons ingelegd, een half kaaswiel met de hand geraspt, olijventapenade met goed veel look gemaakt, en deegballen een dag op voorhand gekneed om ze de kans te geven genoeg smaak te ontwikkelen. Als er zondag nog deeg over was, gebruikten we die om een variant van belegd platbrood te bakken. Die extra dag gaf het gerecht op zondag nog meer smaak, ook al droeg het niet meer de iconische naam. \newline
+De korte maar intense baktijd geeft de knisperige korst zijn kenmerkende structuur en houdt het kruim zacht. Een luchtige _cornicione_ bereiken zonder de korst te hard te bakken is erg belangrijk in Italië. 
+
+| Hoeveelheid | Percentage | Beschrijving                         |
+|:-----------:|:----------:|:-------------------------------------|
+| `900 gr`    | `90%`      | T65 tarwebloem                       |
+| `100 gr`    | `10%`      | Tarwemeel, volkoren (fijngemalen)    |
+| `200 gr`    | `20%`      | Draf                                 |
+| `330 gr`    | `33%`      | Speciaalbier                         |
+| `350 gr`    | `35%`      | Water                                |
+| `20 gr`     | `2%`       | Zout                                 |           
+
+Table: Formule voor bier brood met draf.
+
+Waarvan voor het voordeeg (`10%` van de bloem):
+
+> `100 gr` tarwebloem \newline
+> `100 gr` water \newline
+> `1 el` zuurdesem starter 
+
+Methode:
+
+- _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
+- _Dag 1, 23u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
+- _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24 °C`.
+- _Dag 2, 07u10_: 1u. Bulkrijs I.
+- _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bulkrijs II.
+- _Dag 2, 09u10_: 1,5u. Opnieuw vouwen. Bulkrijs III.
+- _Dag 2, 10u40_: 10min. Vormgeven.
+- _Dag 2, 10u50_: 1,5u. Narijs op `24 °C`.
+- _Dag 2, 12u20_: 55min. Bakken op `240 °C`.
+
+TODO

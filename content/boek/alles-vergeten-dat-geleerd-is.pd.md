@@ -59,7 +59,7 @@ Aan de natuurbakkerij is ook een winkeltje verbonden waar biologische producten 
 ‘Ik heb die olie zelf gekozen en ben naar de pers geweest in Italië om hem te proeven. Geweldige boel, proef zelf maar eens!’ Hij brak een aantal pistolets en deed er wat olie op om ons zelf te laten oordelen. De olie was intens en de smaak van sinaasappel blijft lang hangen. Zoiets past goed bij een pistolet die zelf eerder de drager dan de smaakmaker is. Schoofs is een veel opzichten een typische Vlaamse bakkerij: je kan er sandwiches, pistolets, en enorm veel soorten brood krijgen maar ook wafels, taartjes en seizoensgebak. Het grootste verschil zit hem in de ingrediënten, of het gebrek daarvan. 
 
 Peter maalt ook zijn eigen bloem, die vers verwerkt wordt in zijn producten. \nl
-‘Hier ben ik nog volop mee aan het experimenteren. Deze molen kan één zak `25 kg` granen vrij snel verwerken maar het is een gigantische stofboel en ik heb niet altijd de tijd om alle granen zelf te malen. Twintig tot dertig procent van een brod bestaat uit zelfgemalen meel.’ In het midden van een aparte kamer rechts van de toog staat een mobiele elektrisch aangedreven steenmolen. De kamer is voorzien van een groot raam zodat mensen vanuit de winkel kunnen meegenieten van de show. 
+‘Hier ben ik nog volop mee aan het experimenteren. Deze molen kan één zak `25 kg` granen vrij snel verwerken maar het is een gigantische stofboel en ik heb niet altijd de tijd om alle granen zelf te malen. Twintig tot dertig procent van een brood bestaat uit zelfgemalen meel.’ In het midden van een aparte kamer rechts van de toog staat een mobiele elektrisch aangedreven steenmolen. De kamer is voorzien van een groot raam zodat mensen vanuit de winkel kunnen meegenieten van de show. 
 
 ‘Pas op, naar achteren!’ waarschuwt hij. We lopen terug tot aan de deur terwijl Peter een zak spelt in de molen giet en deze activeert. \nl
 ‘De wrijving van de stenen zorgen ervoor dat de granen geplet worden maar ook dat alles verhit wordt. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt maar de kamer wordt desalniettemin bekleed met een mooi laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. \nl
@@ -123,7 +123,7 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 * Er is een groot gat tussen de principes die je aangeleerd krijgt tijdens een opleiding, en de principes die je je eigen maakt in het werkveld. 
 * Veel 'natuurlijke' ingrediënten in ons dagelijks brood komen inderdaad van de natuur, maar zijn alles behalve van nature aanwezig in granen. 
 * Bakken is nog steeds een fysiek erg zwaar beroep.
-* Zuurdesem kan ook gemaakt worden met overschotjes aan gegist deeg. 
+* Overschotjes aan gegist deeg kunnen worden gerecycleerd tot een zuur brood, ook al is dit geen zuurdesembrood. 
 * Trage kneedmachines benaderen het kneden met de hand, om het deeg zachtjes en met respect te behandelen.
 * Snelle (spiraal-)kneedmachines zijn beter geschikt voor vetter deeg.
 * De efficiëntie van een bakkerij wordt deels bepaald door de praktische indeling. 

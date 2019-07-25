@@ -1,5 +1,5 @@
 
-[X] => Done, [/] => Initiated, [ ] => TODO
+[X] => Done, [/] => Initiated, [ ] => TODO, [Z] => Ga ik niet doen
 
 HIGH PRIO
 
@@ -13,12 +13,49 @@ HIGH PRIO
 [ ] Recept einde HF: echte leerschool HF5; pizza! 
 [X] Recept einde HF: dagelijks brood verdienen HF7; Altamura brood
 
-[ ] Goedkeuring Peter Schoofs
-[/] Goedkeuring Johan Brijosh Tongeren
-[/] Goedkeuring Jeroen De Foodarcheoloog
-[X] Goedkeuring Mike Flour Power
-[/] Goedkeuring Karl 1ste en 2de bezoek
-[/] Goedkeuring Ghislain
+Betrokken partijen:
+
+I DE PRAKTIJK
+
+1. Kabouters
+2. Mutsaard
+  - [Z] Bokrijk
+  - [X] Vrijwilliger: M. (anonymized)
+3. De Leerschool
+  - [Z] Syntra
+  - [/] Ghislain
+  - [/] Dimitri
+  - [ ] Patrick
+4. Alles vergeten wat je geleerd hebt
+  - [ ] Peter
+  - [X] Willy
+5. De échte leerschool
+  - [Z] De Superette
+  - [ ] Sarah
+  - [ ] (Anderen die ik toen kende)
+6. De boer, de molenaar en de brouwer
+  - [/] Pieter
+  - [/] Jeroen
+  - [X] Mike
+  - [X] Gert
+7. Je dagelijks brood met brood verdienen
+  - [X] Dimitry & Johan
+  - [/] Johan
+  - [Z] Vangrootloon
+  - [/] Puratos, Karl
+  - [X] René
+8. Intermezzo
+
+II DE THEORIE
+
+9. De microbiologie van brood
+10. De estethiek van brood
+11. De geur van brood
+
+III DE METHODE
+
+12. Bakken
+13. Overschot
 
 MEDIUM PRIO
 
