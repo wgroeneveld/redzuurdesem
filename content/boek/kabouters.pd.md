@@ -16,7 +16,7 @@
 
 Wanneer je aan die bepaalde geluiden went, schakelt onze kabouter over naar versnelling twee: een onophoudelijk gebonk. Vanaf dan volgt een zalige periode van rust. Maar niet getreurd, de kabouter is namelijk zeker niet ontheven van zijn taak! Na een uurtje een dutje gedaan te hebben, herinnert hij zich waarschijnlijk dat hij brood aan het kneden was dat nu dringend de oven in moet. De kabouter steekt de open haard aan en jij hoort een zacht getik, afkomstig van het verwarmingselement in de machine. \nl
 Na drie kwartier vult het huis zich met de zachte geur van vers gebakken brood en meldt de kabouter trots zijn werk met een '_piep, piep, piep_', gecombineerd met een flikkerend rood lampje. Na een druk op de start/stop knop neem je afscheid van hem met een laatste '_piep_'. \nl
-Het is dan aan jou als om als teken van dankbaarheid om de kabouter zijn zwaar werk uit zijn huisje te nemen en te laten afkoelen, om het enige tijd daarna smakelijk naar binnen te kunnen werken. Liefst met beleg natuurlijk, want op die korte tijd krijgt de kabouter er nauwelijks wat smaak in. 
+Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit zijn huisje te nemen en te laten afkoelen, om het enige tijd daarna smakelijk naar binnen te kunnen werken. Liefst met beleg natuurlijk, want op die korte tijd krijgt de kabouter er nauwelijks wat smaak in. 
 
 \index{Baker's Percentage}
 
@@ -28,18 +28,18 @@ Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer d
 
 [^1]: Deze '_baker's percentage_' kan groter dan `100%` zijn. Deel de totale hoeveelheid water door de totale hoeveelheid bloem. Als je brood bestaat uit verschillende soorten bloem, tel je die allemaal samen. 
 
-Sommige toestellen bieden voor hun meerprijs verschillende kneedhaken aan. Laat je niet misleiden: dit heeft geen enkel nut. De standaard kneedhaak komt in de vorm van een haaienvin, waarvan geadviseerd wordt deze enkel in combinatie met tarwe te hanteren. \nl
+Sommige toestellen bieden voor hun meerprijs verschillende kneedhaken aan. De standaard kneedhaak komt in de vorm van een haaienvin, waarvan geadviseerd wordt deze enkel in combinatie met tarwe te hanteren. \nl
 De tweede kneedhaak heeft de vorm van een kam, en is een zelfbenoemde specialist in het kneden van rogge. Deze vreemde opsplitsing was in feite mijn eerste kennismaking met het groot verschil tussen de twee deegsoorten, die later nog een grote rol zullen spelen. \nl
-Na het nauwkeurig bestuderen van die vreemde kam haalde ik mijn schouders op, en smeet ik het in de hoek van een donkere kast. Wat ik toen nog niet wist was dat de vorm en de snelheid waarmee gekneed wordt van fundamenteel belang zijn bij het vormen van een soepel deeg. 
+Na het nauwkeurig bestuderen van die vreemde kam haalde ik mijn schouders op, en smeet ik het in de hoek van een donkere kast. De vorm van de kneedhaak zou van belang moeten zijn bij het vormen van een soepel deeg, maar in zo'n kleine machinetjes heeft dit buiten commerciële aantrekkingskracht geen enkel effect. 
 
-Er is slechts één minpuntje verbonden aan zo’n haak in de machine: gezien het hele proces automatisch geprogrammeerd is, bak je in dezelfde kuip als waar je kneed. Stel je voor dat in de bakkerij dit systeem ook wordt toegepast. Wat valt er je op? De spiraal of of arm zit in de weg. Juist. Die blijft dus mooi in uw gebakken brood hangen. Op dat punt gooit uw kabouter de handdoek in de ring, roept '_foert!_', en moet je het zelf maar uitzoeken. \nl
+Er is slechts één minpuntje verbonden aan zo’n haak in de machine: gezien het hele proces automatisch geprogrammeerd is, bak je in dezelfde kuip als waar je in kneedt. Stel je voor dat in de bakkerij dit systeem ook wordt toegepast. Wat valt er je op? De spiraal of de arm zit in de weg. Juist. Die blijft dus mooi in je gebakken brood hangen. Op dat punt gooit je kabouter de handdoek in de ring, roept '_foert!_', en moet je het zelf maar uitzoeken. \nl
 Mijn grootvader heeft nog meer pech met zijn exemplaar: die heeft een dubbele kneedhaak, en bijgevolg dus twee gapende gaten onderaan zijn brood. Dat heeft dan weer als voordeel dat hij tot `800 gr` bloem kan gaan, vier sneetjes meer dan mijn beperktere `550 gr`. \nl
 Wanneer je dan, dankzij het zweet van je persoonlijke kabouter, ‘s morgens wakker gemaakt wordt met de geur van gebakken brood, zorg er dan voor dat je eerst koffie of thee gedronken hebt. Ik heb al een aantal keren het brood gesneden met mijn elektrisch snijmachine terwijl ik vergat de haak uit het brood te halen. Het onaangename lawaai van het contact tussen het snijblad en de metalen kneedhaak vergeet je niet snel. De plekken waar het blad een slappe poging heeft ondernomen om de haak in twee te slijpen gaan trouwens roesten.
 
 De kneedhaak verwijderen is een kunst op zich. In het uitzonderlijk geval, als de maan goed staat, valt het brood prompt uit het bakblik tijdens mijn verwoede geschud. Als ook de goden mij goedgezind zijn, blijft de kneedhaak netjes in het blik steken. \nl
 Veelgemaakte fouten zijn het niet laten afkoelen van het brood, of vergeten goed isolerende handschoenen te gebruiken. Dat tweede leer je heel snel af. Maar aangezien ik nooit brood bak tijdens volle maan, lukt deze schud methode zelden zonder dat de haak aan het brood blijft plakken. In de plaats daarvan heb ik mijzelf gespecialiseerd in het gebruik van eetstokjes om met wat gepruts aan de onderkant van het brood de haak met chirurgische precisie te verwijderen. 
 
-Misschien heb je over het hoofd gezien dat het brood klaar was, of kom je pas veel later thuis. In dat geval is het brood in een gesloten machine afgekoeld. Omdat het vocht geen kant op kon, heeft heeft de korst alle hardheid verloren. \nl
+Misschien heb je over het hoofd gezien dat het brood klaar was, of kom je pas veel later thuis. In dat geval is het brood in een gesloten machine afgekoeld. Omdat het vocht geen kant op kon, heeft de korst alle hardheid verloren. \nl
 Gefaalde experimenten zijn de beste bron van ervaring. In dit geval leerde ik dat korstvorming gepaard moet gaan met verdamping. Het vocht van een beetje deeg dat is blijven hangen rond de kneedhaak in bakblik kan ook volledig verdampen, met als gevolg dat de haak volledig vast zit. Dat maakt de afwas van deze kaboutertjes er niet bepaald plezanter op.
 
 \includepdf[
@@ -49,9 +49,9 @@ Gefaalde experimenten zijn de beste bron van ervaring. In dit geval leerde ik da
 
 Een broodbakmachine kan dienen als een leuke inleiding tot de broodbak wereld. Zonder verdere interesse blijft het echter bij een introductie. Het kostte mij een jaar, en verschillende andere invallen van toeval, voordat ik mij afvroeg wat ik eigenlijk aan het doen was bij het starten van het proces. \nl
 Er gebeurt iets magisch als je bloem, water, gist en zout samen kapt en op '_start_' drukt. Maar wat dat iets nu precies is, daar had ik geen flauw benul van. In ieder geval is het een goed systeem om kennis te maken met de basis stappen van het broodbakproces: kneden, rusten en bakken. En dat allemaal zonder de handen zelf vuil te maken. \nl
-Wat ik eigenlijk wil duidelijk maken is dat er niets mis is met zulke machines, integendeel: het kan de perfecte springplank zijn, gegeven dat je voldoende interesse toont en durft verder te kijken dan je neus lang is. 
+Er niets mis is met het gebruik van broodbakmachines, integendeel: het kan dienen als de perfecte springplank naar de wondere wereld van gisting. 
 
-Het eerste jaar dat ik alleen was gaan wonen, werd ik verplicht om me te begeven in de erg diepe en vooral onbekende waters van het koken en bakken. Mijn vader is een ervaren duiker wat dat betreft. Mij heeft het echter nooit weten te boeien, totdat ik wel moest. Koudwatervrees? Het is altijd eenvoudiger om gewoon de voeten onder tafel te schuiven wanneer het eten klaar is. Gaan werken, een appartement proper houden, op- en af rijden naar mijn vriendin die later mijn vrouw zou worden, mezelf voorzien van eten, ergens proberen vrije tijd te vinden om oude hobby’s terug op te pikken, ... Waar is daartussen nog plaats om brood te bakken? \nl
+Het eerste jaar dat ik alleen woonde, werd ik verplicht om me te begeven in de erg diepe en vooral onbekende waters van het koken en bakken. Mijn vader is een ervaren duiker wat dat betreft. Mij heeft het echter nooit weten te boeien, totdat ik wel moest. Koudwatervrees? Het is altijd eenvoudiger om gewoon de voeten onder tafel te schuiven wanneer het eten klaar is. Gaan werken, een appartement proper houden, op- en afrijden naar mijn vriendin die later mijn vrouw zou worden, mezelf voorzien van eten, ergens proberen vrije tijd te vinden om oude hobby’s terug op te pikken, ... Waar is daartussen nog plaats om brood te bakken? \nl
 Die jaren zijn onbewust een belangrijk keerpunt geweest in mijn interesses. Ik vroeg mijn vader om advies over koken en durfde op een vrijdagavond al eens zelf een gerecht samen te stellen. Wie weet, misschien werden er wel eens vrienden uitgenodigd op een diner. 
 
 In diezelfde periode ontdekte ik op een boekenbeurs een aantal boeken over brood bakken met de broodbakmachine. De boeken zelf stelden eerlijk gezegd weinig voor, maar ze boden een alternatief. Ik kon eens iets anders bakken dan mijn standaard tarwebrood van `550 gr`. Voeg misschien eens gemalen walnoten toe, of meng wat verschillende meelsoorten. \nl
@@ -59,9 +59,9 @@ Het boek liet me ook zien dat je je machine kan gebruiken om enkel deeg te knede
 
 Door mijn nieuwe interesse in voeding te combineren met mijn oude interesse in boeken, kwam ik meer en meer in contact met kook- en baktechnieken waar ik nog nooit van gehoord had. \nl
 Dankzij onder andere Jonathan Safran Foer werd ik vegetariër en voorstander van lokaal, verantwoord voedsel. Door die stap te maken, en mijn eetpatroon te beperken, werd ik genoodzaakt om nog meer bij te leren over eten. Ik had nog nooit kikkererwten, linzen, seitan of tofu gegeten en had geen flauw idee wat '_tempeh_' of '_koji_' was. \nl
-Niet iedereen in mijn directe omgeving toonde evenveel begrip maar ik hield vol en heb nooit meer omgekeken. Er ging een hele nieuwe wereld voor me open. Het veranderde mijn mening over voeding in het algemeen, wat ook een grote impact had op brood bakken. Leven als vegetariër beperkt de opties niet: die _vergroot_ ze net. Ik werd verplicht om uit mijn comfort zone te stappen, iets waar veel mensen liever in blijven. 
+Niet iedereen in mijn directe omgeving toonde evenveel begrip, maar ik hield vol en heb nooit meer omgekeken. Er ging een hele nieuwe wereld voor me open. Het veranderde mijn mening over voeding in het algemeen, wat ook een grote impact had op brood bakken. Leven als vegetariër beperkt de opties niet: die _vergroot_ ze net. Ik werd verplicht om uit mijn comfort zone te stappen, iets waar veel mensen liever in blijven. 
 
-Ik begon te experimenteren met speciale broden, zoals het toevoegen van spinazie of kiwi's in brood. Dat laatste liep iets minder goed af. Ik stond er niet bij stil dat fruit ook een hoop extra vocht toevoegt, en stelde het water onbewust niet bij. \nl
+Ik begon te experimenteren met speciale broden, zoals het toevoegen van spinazie of kiwi's in brood. Dat laatste liep iets minder goed af. Ik stond er niet bij stil dat fruit ook extra vocht toevoegt, en stelde het water onvoldoende bij. \nl
 Op die dagen dat het brood mislukte moest ik toch nog op zoek gaan naar een bakkerij. De smaak van mijn dagelijks brood veranderde meerdere keren per week, tot grote ergernis van Kristien. Het waren echter de smaken van de toegevoegde ingrediënten die doorkwamen, en niet de smaak van het brood zelf. Een belangrijk nuanceverschil. \nl
 In die periode ontdekte ik op het internet een aantal blogs over brood bakken, en maakte ik voor de eerste keer kennis met vreemde termen als '_sourdough_' en '_no-knead bread_'. 
 
@@ -108,7 +108,7 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een
 
 ### Wat ik geleerd heb
 
-* Wil je leren brood te bakken, maar heb je geen idee waar te beginnen? Koop een broodbakmachine. 
+* Wil je leren brood bakken, maar heb je geen idee waar te beginnen? Koop een broodbakmachine. 
 * Hou een dagboek bij, waar recepten, experimenten, en gedachten in terecht kunnen. Dit kan analoog of digitaal. Ervaringen kan je zo eenvoudiger delen met andere enthousiastelingen. 
 * Brood bakken doet geen pijn. Het kost ook minder moeite dan je denkt. 
 * De absolute basis van brood bakken bestaat uit drie stappen: kneden, rijzen, bakken. 

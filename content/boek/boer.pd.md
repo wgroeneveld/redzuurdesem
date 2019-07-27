@@ -62,7 +62,7 @@ De wisselwerking tussen twee ambachten werd in tijden van hongersnood aan banden
 
 [^rein]: Deze omstreden wet werd sinds 1516 verschillende keren herwerkt, maar houdt tot op de dag van vandaag nog steeds stand. Ondertussen zijn er een aantal ingrediënten aan toegevoegd, en is het type graan minder strikt. Sommige deskundigen beweren dat dit de Duitse bierindustrie enorm heeft vertraagd terwijl anderen spreken van een groot commercieel succes.
 
-'Een mooi voorbeeld van een _terroir_ graan is masteluin' legt Jeroen uit wanneer ik vraag naar typische lokale granen. 'Tijdens de middeleeuwen werd in deze streek tarwe en rogge door elkaar gezaaid. Als de weersomstandigheden het toelieten was de tarwe opbrengst goed. In het slechtste geval had de boer nog steeds aardig wat rogge, dat beter bestand is tegen het barre weer. De samenstelling verschilde oogst na oogst. Of dat nu spelt was of niet maakt niet veel uit.' \nl
+'Een mooi voorbeeld van een _terroir_ graan is masteluin' legt Jeroen uit wanneer ik vraag naar typische lokale granen. 'Tijdens de Middeleeuwen werd in deze streek tarwe en rogge door elkaar gezaaid. Als de weersomstandigheden het toelieten was de tarwe opbrengst goed. In het slechtste geval had de boer nog steeds aardig wat rogge, dat beter bestand is tegen het barre weer. De samenstelling verschilde oogst na oogst. Of dat nu spelt was of niet maakt niet veel uit.' \nl
 'Is masteluin een kruising tussen rogge en tarwe dan?' \nl
 'Niet in de strikte zin van het woord. Het werd gewoon samen gezaaid en geoogst. Het masteluinbrood van toen is eigenlijk het roggebrood van nu, dat is ook altijd een mengeling.' \nl
 'Inderdaad, tenzij je in Duitsland roggebrood koopt' vul ik aan.
@@ -132,7 +132,7 @@ Op de terugweg in de auto is het een tijdje heel stil. De passie en openheid van
 
 ### De brouwer
 
-De bakker en de brouwer hadden vroeger een hechte relatie. In feite was die relatie in de middeleeuwen zo intiem dat de bakker de brouwer ingedeeld werden in dezelfde gilde, of zelfs vaak éénzelfde persoon waren. Repelsteeltje was een van die meesters van de gist, die 's nachts tijdens de arbeid graag een liedje zong:
+De bakker en de brouwer hadden vroeger een hechte relatie. In feite was die relatie in de Middeleeuwen zo intiem dat bakkers en brouwers ingedeeld werden in dezelfde gilde, of zelfs vaak éénzelfde persoon waren. Repelsteeltje was één van die meesters van de gist, die 's nachts tijdens de arbeid graag een liedje zong:
 
 > _Heute back ich, morgen brau ich,\newline
 übermorgen hol ich der Königin ihr Kind;\newline
@@ -141,7 +141,7 @@ dass ich Rumpelstilzchen heiß!_
 
 Die klaarblijkelijk al oude verbintenis tussen bakker en brouwer wekte mijn nieuwsgierigheid naar de wereld van het bier. Die bakker kende ik al vrij goed. Die brouwer daarentegen, als zonderlinge geheelonthouder van alcohol, helemaal niet. Mijn vader maakte in mijn kindertijd wijn van eigen druiven, zoals zijn vader dat deed. De onmiskenbare geur van rottende druiven en het gepruttel van _dame-jeanne_ flessen met een waterslot zijn de enige levende herinneringen die daarvan zijn overgebleven. Toen de serre, waar de druiven in geteeld werden, werd vervangen door een groter exemplaar, verdwenen ook de druiven, en daarmee het hele wijnmaakproces. Hoe goed mijn ouders ook hun best deden om de zelfgemaakte wijn op te drinken, de keurig gelabelde flessenstapel in de kelder leek eerder aan te dikken dan te slinken. Ik neem aan dat dat een goede reden was om er dan maar mee op te houden. Wijn of bier brouw je immers niet in kleine hoeveelheden. 
 
-Van bier ken ik echter helemaal niets, behalve dat (naar het schijnt) Nederlandse pils naar afwaswater proeft. Zoiets wordt alle leerlingen ingeprent in scholen te België, hét uitgelezen land van het bier[^lvhb]. Toen ik te weten kwam dat een mede Hasselaar bier brouwde van onder andere Hasselts geteelde graan, kon ik niet anders dan nader kennis te maken met de wereld van de ontucht en het hedonisme. Schol. 
+Van bier ken ik echter helemaal niets, behalve dat (naar het schijnt) Nederlandse pils naar afwaswater proeft. Zoiets wordt alle leerlingen ingeprent in scholen te België, hét uitgelezen land van het bier[^lvhb]. Toen ik te weten kwam dat een mede Hasselaar bier brouwde van onder andere Hasselts graan, kon ik niet anders dan nader kennis te maken met de wereld van de ontucht en het hedonisme. Schol. 
 
 [^lvhb]: Volgens de '_Trivial Pursuit: België - Land van het Bier_' editie toch.
 
@@ -185,7 +185,7 @@ Historisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderf
 'Maar je kweekt geen gisten zelf op, vanaf nul, zoals ik met mijn desem doe?' Ik nam een flinke slok van mijn appelsap. Lekker, minder zuur dan ik verwachtte. Misschien geen goed idee in combinatie met de frieten die ook nog aan het fermenteren zijn in mijn maag. \nl
 'Neen, da's zuiver labo werk. Daar hou ik mij niet mee bezig. Er zijn zoveel manieren om nog extra smaak toe te voegen voordat bier gedronken kan worden. Neem nu de mout. Hoeveel water gebruikt wordt bij het ontkiemen van de granen, de kiemduur, hoe dit terug gedroogd wordt, noem maar op: alles heeft invloed op de smaak. Of de hop die meegekookt wordt. Die komt van Joris Cambie uit Poperinge, trouwens.' Vloeibare gist. Ik vermoedde dat het hier om een gelijkaardig product ging dat ook verkocht wordt door Puratos, maar dan op maat gemaakt voor brouwers. 
 
-[^kva]: Zie hoofdstuk \ref{kvass}.
+[^kva]: Het brouwen van kvass is beschreven in hoofdstuk \ref{kvass}.
 [^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. 
 
 \index{Lageren}
@@ -206,7 +206,7 @@ Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brou
 
 'Wat voor u misschien interessanter is om mee te bakken is de draf[^draf].'\nl
 'Draf?' \nl
-'Overschot na het _maischen_. Met het klaren scheiden we vloeistof van ingrediënten als mout en gerst. Het resultaat is langs de ene kant wort, dat verwerkt wordt tot bier, en draf, waar ik niets mee kan doen. Als we hier brouwen om een product te ontwikkelen, zit ik met `30` kg aan draf. Daar zitten nog veel granen besjes in. Bakkers komen dat ophalen om in brood te doen. Meng het wel met genoeg meel, want anders krijg je een hele zware boterham.' Gert klopte met zijn hand op zijn buik om duidelijk te maken dat het brood niet bepaald licht verteert.\nl
+'Overschot na het _maischen_. Met het klaren scheiden we vloeistof van ingrediënten als mout en gerst. Het resultaat is langs de ene kant wort, dat verwerkt wordt tot bier, en draf, waar ik niets mee kan doen. Als we hier brouwen om een product te ontwikkelen, zit ik met `30` kg aan draf. Daar zitten nog veel granen en besjes in. Bakkers komen dat ophalen om in brood te doen. Meng het wel met genoeg meel, want anders krijg je een hele zware boterham.' Gert klopte met zijn hand op zijn buik om duidelijk te maken dat het brood niet bepaald licht verteert.\nl
 'Die bakkerij op het einde van de Hasseltweg in Genk gebruikt dat bijvoorbeeld.' ging hij verder. \nl
 'Koek en Brood? Leuk, die ken ik. Die hebben wel goed brood, en werken ook met zuurdesem. Dan moet ik daar zeker nog eens naartoe gaan.'\nl
 'Dat is er niet altijd hé. We brouwen hier niet elke week. Pieter is het ook al komen ophalen voor zijn dieren. Grote brouwerijen zitten met tonnen aan draf, dat is allemaal dierenvoeder. Het wordt gebruikt door duivenmelkers als krachtvoer. De vogels beschikken over de kracht van de granen als ze dat opeten.' Het klinkt alsof Gert de Panoramix van de duiven is, die toverdrank in plaats van bier brouwt. \nl
@@ -238,7 +238,7 @@ Ik ken Pieter niet onmiddellijk als een filosoof, maar ik vond het wel erg goed 
 Bij het afscheid vertelde Gert terloops over zijn overvolle agenda. Workshops geven, producten ontwikkelen, inkoop van grondstoffen en verkoop van bier, afspraken maken voor reservaties, noem maar op. Toen ik vroeg of hij dit full-time deed, bleek ik weer te maken hebben met een techneut.
 'Het is erg druk, ik doe dit bijna voltijds. Maar in feite ben ik test manager. Wat jullie ontwikkelen, moet ik testen!' Ik had mezelf voorgesteld als softwareontwikkelaar met een passie voor brood bakken. De volgende keer laat ik het eerste stuk achterwege... 
 
-De belangrijkste gist voor (modern) brood, is dus ook de belangrijkste voor de bierindustrie: _Saccharomyces cerevisiae_. Die twee-componenten pakketjes met vloeibare gist bleven in mijn hoofd spoken. Hoe zou het zijn om daarmee een brood te bakken? En het gebruik van draf, en niet-gepasteuriseerd hergist bier. Er was werk aan de winkel. Ik besloot om met het makkelijkste het eerste te beginnen: Brouwland zelf gaan verkennen. 
+De belangrijkste gist voor (modern) brood, is dus ook de belangrijkste voor de bierindustrie: _Saccharomyces cerevisiae_. Die twee-componenten pakketjes met vloeibare gist bleven in mijn hoofd spoken. Hoe zou het zijn om daarmee een brood te bakken? En het gebruik van draf, en niet-gepasteuriseerd hergist bier. Er was werk aan de winkel. Ik besloot om met het eenvoudigste als eerste te beginnen: Brouwland zelf gaan verkennen. 
 
 Je moet moeite doen om in de koelkasten een product met melkzuurbacteriën te vinden. Ik heb er slechts één gevonden, met 'een miljoen _Lactobacillus plantarum_ cellen' in, volgens het etiket. Dat zou geschikt moeten zijn om zuur bier te brouwen. Voor de rest was het _Saccharomyces_ waar de klok slaat, ook al lukte het me niet om de onderfermentatieve _pastorianus_ soort te lokaliseren. \nl
 Elk pakketje gist dat ik vast nam, of het nu gedroogd was of niet, bevatte maar één gistsoort, namelijk _cerevisiae_. Hoe kan dat? Zou Gert zijn pakjessoep uitleg niet helemaal kloppen, of begrijp ik nog te weinig van de taxonomie van deze gist? \nl
@@ -246,7 +246,11 @@ _Cerevisiae_ is de soort die behoort tot het geslacht _Saccharomyces_[^gesl]. Ik
 
 [^gesl]: Dat geslacht behoort om precies te zijn tot de familie _Saccharomycetaceae_, die behoort tot orde _Saccharomycetales_, die behoort tot onderklasse _Saccharomycetidae_, die behoort tot klasse _Saccharomycetes_, die behoort tot stam _Ascomycota_, die behoort tot het rijk der _Fungi_. Jezus. 
 
-Het resultaat van die gekruiste gisten is duidelijk zichtbaar in de koelkasten van Brouwland. Ik begreep er maar weinig van, en kocht op goed geluk wat zakjes gedroogde gist, samen met zo'n vloeibare variant. Safale S-04, _dry ale yeast_. Ontworpen in Frankrijk, geproduceerd in België. Mangrove Jack's M47 _Belgian abbey yeast_. Geproduceerd in Verenigd Koninkrijk? Wyeast Premium Liquid Yeast 1214 _Belgian Abbey_, _100 billion yeast cells, inoculates up to 5 gallons_. Misschien wat veel. Geproduceerd in Oregon, Verenigde Staten? Verse, vloeibare gist, dat wij dan als trots bierland terug importeren, om te verkopen aan Belgische brouwers. Vreemd systeem, die kapitalistische economie. 
+Het resultaat van die gekruiste gisten is duidelijk zichtbaar in de koelkasten van Brouwland. Ik begreep er maar weinig van, en kocht op goed geluk wat zakjes gedroogde en vloeibare gist:
+
+* Safale S-04, _dry ale yeast_. Ontworpen in Frankrijk, geproduceerd in België. 
+* Mangrove Jack's M47 _Belgian abbey yeast_. Geproduceerd in Verenigd Koninkrijk? 
+* Wyeast Premium Liquid Yeast 1214 _Belgian Abbey_, _100 billion yeast cells, inoculates up to 5 gallons_. Misschien wat veel. Geproduceerd in Oregon, Verenigde Staten? Verse, vloeibare gist, dat wij dan als trots bierland terug importeren, om te verkopen aan Belgische brouwers. Vreemd systeem, die kapitalistische economie. 
 
 De al even vreemde nummers naast de merknaam duiden een specifieke giststam aan. Ondanks Gert zijn pakjessoep verhaal, vind ik op het pakje vloeibare gist geen enkele aanwijzing op aanwezigheid van meerdere stammen. Wyeastlab spreekt zelfs van enkelvoud (_This strain produces a nice ester profile as well as slightly spicy alcohol notes_). Mangrove Jack beschrijft hun M47 variant als volgt op hun website:
 
@@ -278,7 +282,7 @@ Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten 
 * Malen op een steen of op een wals is niet zo relevant als de rest van het maalproces.
 * Bakker en brouwer waren vroeger vaak één en dezelfde persoon. 
 * Bier brouwen doe je ofwel met enkel gisten, ofwel met bacteriën. In dat geval is een aparte installatie sterk aan te raden. 
-* Er zijn honderden verschillende door mens ontworpen giststammen die afgeleid zijn van éénzelfde soort micro-organisme, namelijk Saccharomyces cerevisiae_.
+* Er zijn honderden verschillende door mens ontworpen giststammen die afgeleid zijn van éénzelfde soort micro-organisme, namelijk _Saccharomyces cerevisiae_.
 * Een bijproduct van het brouwen, draf, bevat nog restanten van actieve gist die gebruikt kan worden om brood te helpen rijzen. 
 * Bier dat hergist is op fles, bevat nauwelijks genoeg gist om brood te doen rijzen. 
 * Bier is in het algemeen op te delen in twee grote categorieën: onderfermentatieve en bovenfermentatieve. In de praktijk kunnen beide technieken gecombineerd worden. 

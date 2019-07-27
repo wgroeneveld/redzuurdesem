@@ -20,7 +20,7 @@ Wees bereid om een slechte oogst onherroepelijk weg te kappen: het gaat dan om h
 \index{Bottelgist}
 
 '_Time is money_' - het klinkt als een zielloze one-liner zonder context. En dat is het ook. \nl
-In de champagne wereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om genoeg flessen per jaar te produceren om goed van te kunnen leven (laten we zeggen zo'n `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). \nl
+In de champagne wereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om genoeg flessen per jaar te produceren om goed van te kunnen leven (onze gids schatte rond de `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). \nl
 De druivenpers is een gedrocht dat in de grote garage staat bij Autréau, waarna het sap naar de kelder gepompt wordt om in inoxen vaten gedurende 15 maanden omgevormd te worden naar witte wijn. In tientallen vaten zijn verschillende soorten druiven van verschillende jaren opgeslagen. \nl
 Daarna wordt suiker en 'bottelgist' in individuele flessen toegevoegd om de bubbels te creëren. \nl
 Dat vereist plaats in een tweede kelder. Die flessen moeten regelmatig gedraaid worden om het residu van de gist te kunnen verwijderen en daarna te herkurken. \nl
@@ -37,8 +37,8 @@ Ik denk het niet.
 Het is tegenwoordig voor velen al een hel om vijf jaar hetzelfde te moeten doen. Het klinkt voor de moderne mens onmogelijk om zo'n lange periode voor hetzelfde te reserveren. Het Dreyfus model schrijft een decennium voor als de tijd die nodig is om exceptionaliteit te kweken - daarna wordt het tijd voor iets anders. De geïncarneerde Jezus in de film 'The Man from Earth' doet ook elke 10 jaar iets anders - wat moet een mens anders als hij eeuwig leeft? 
 
 Champagne maken bijvoorbeeld. \nl
-Ook al betekenen jaren niets voor onze gids, toch weet hij bij het proeven van champagne zich exact te herinneren welke _blend_ dat was, hoe de oogst dat jaar was, en in welke ton het sap aan het gegist heeft. \nl
-De ontmoeting leerde mij veel gematigder te zijn als het gaat over het spenderen van tijd. Een groot project van zes jaar (enkelvoud) doorploeteren hoeft helemaal niets met ploeteren te maken hebben. Die zes jaren (meervoud) zullen zo ook wel voorbij vliegen. 
+Ook al betekenen jaren niets voor onze gids, toch weet hij bij het proeven van champagne zich exact te herinneren welke _blend_ dat was, hoe de oogst dat jaar was, en in welke ton het sap gistte. \nl
+De ontmoeting leerde mij veel gematigder te zijn als het gaat over het spenderen van tijd. Een groot project van zes jaar doorploeteren hoeft helemaal niets met ploeteren te maken hebben. Die zes jaren zullen zo ook wel voorbij vliegen. 
 
 '_Waar zie je jezelf over vijf jaar?_' klinkt plots als een erg domme vraag.
 
