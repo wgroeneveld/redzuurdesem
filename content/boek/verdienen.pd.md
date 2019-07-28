@@ -5,7 +5,11 @@
 
 \label{desemdoos}
 
-### Januari 2015
+### Desem Doos
+
+\begin{flushright}
+Januari 2015
+\end{flushright}
 
 Een regelmatig wederkerend onderwerp in mijn notitieboekjes is het idee om zuurdesem (terug) onder de mensen te brengen. De website [redzuurdesem.be](https://redzuurdesem.be/) was een eerste logische aanzet. Op die manier kon ik mijn enthousiasme voor brood bakken met de wereld delen. Demonstraties en later uitgebreidere workshops waren stap twee. \nl
 Ergens tussen analoog en digitaal zat echter nog een gat, een gat dat ik op een of andere manier probeerde op te vullen. Internet surfers aanzetten om brood te bakken vereist interesse, anders blijft het bij een kort bezoekje of in het beste geval het lezen van een artikel. Cursisten die deelnemen aan de workshop tonen die interesse door deel te nemen. Het is voor velen niet de eerste keer dat ze brood bakken. De beste leerschool is er eentje die beide werelden weet te combineren: theorie en praktijk. 
@@ -36,7 +40,11 @@ Ik ben er zeker van dat ik het slimmer had kunnen aanpakken door beter mijn huis
 Ik wilde meer leren over het commerciële aspect van de bakker. Tijdens de avondschool kwamen we hier heel vluchtig in aanraking mee: inkoopprijzen, verkoopprijzen, winstmarges. Maar hoe duur moet een brood zijn om van te kunnen leven? Hoeveel broden per dag moet een bakker verkopen om met een gerust hart te kunnen gaan slapen? Ik had een vaag idee van aantallen door mijn stage en interviews met bakkers. \nl
 Ik herinnerde me het bezoek van Dimitry Lysens en Johan Haiverlain aan De Superette. Dimitry baat samen met zijn vrouw Aagje Moens restaurant Magis uit in Tongeren. Johan is verantwoordelijk voor de bistro boven het restaurant, genaamd Bis. Ze waren reeds een tijdje aan het experimenteren met zuurdesembrood. Ik besloot te polsen naar hun vooruitgang om een bakkerij concept uit de grond te stampen. 
 
-### Februari 2016
+### Brood bakken in een sterrenzaak
+
+\begin{flushright}
+Februari 2016
+\end{flushright}
 
 Bij te veel restaurants wordt een snee boerenbrood geserveerd waarvan het zicht en de smaak afbreuk doet aan het eigenlijk gerecht. Wie kiest er nu voor een smaakloze 'afgebakken' _baguette_ bij zijn pasta als er veel betere opties beschikbaar zijn? Gaat je honger ook spontaan over als je een plat broodje voorgeschoteld krijgt dat 'ik ben smaakloos!' schreeuwt? Wegwerken met genoeg boter is een optie. In de betere restaurants, zoals de sterrenzaak Magis, zijn de verwachtingen veel hoger. 
 
@@ -79,7 +87,7 @@ Hun desem starter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is
 [^vgl]: Een industriële koude bakker. Ter vergelijking: anno 2019 kost een gemiddeld brood van `800 gr` daar `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder geweest zijn. 
 
 Ik heb hetzelfde dilemma in Gent gezien. Het brood is er ook veel duurder dan de gemiddelde bakkerij: `4.5 EUR`. In Hasselt wordt tegenwoordig datzelfde Superette brood, gebakken in Genk, verkocht voor `6 EUR`. En dat is niet onlogisch gezien de duur van het proces en de prijs van lokaal biologisch meel. Zuurdesembrood van dat kaliber is een compleet ander product dan gistbrood. De smaak, geur, en textuur zijn onvergelijkbaar, dus waarom zou de prijs dan vergelijkbaar moeten zijn? Mensen moeten echter wel bereid zijn om dit te willen betalen. Veel vrienden en familie zijn dit niet. Ik ken in feite maar weinig mensen die bereid zijn om veel geld uit te geven aan goed voedsel in het algemeen. \nl
-Dat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Statistische rapporten tonen aan dat de gemiddelde Amerikaan tegenwoordig ongeveer `10 %` van zijn inkomen uitgeeft aan voedsel [@clauson2008despite]. Figuur \ref{percincome} visualiseert gespendeerd inkomen aan eten de laatste 60 jaar[^figincome]. Volgens Eurostat is dit in 2017 met `12.2%` voor de gemiddelde Europeaan niet erg verschillend. In 1960 was dit percentage rond de `20%`, en in 1900 kwam dit ruim boven de `40%`. Hoe komt het dan in honderd jaar tijd dit zo sterk gedaald is? Dat heeft niet alleen te maken met de overvloed van tegenwoordige vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Voor een groot deel is dit gewoon omdat men vroeger _bewuster_ omging met voedsel. 
+Dat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Statistische rapporten tonen aan dat de gemiddelde Amerikaan tegenwoordig ongeveer `10 %` van zijn inkomen uitgeeft aan voedsel [@clauson2008despite]. Figuur \ref{percincome} visualiseert gespendeerd inkomen aan eten de laatste 60 jaar[^figincome]. Volgens Eurostat is dit in 2017 met `12.2%` voor de gemiddelde Europeaan niet erg verschillend. In 1960 was dit percentage rond de `20%`, en in 1900 kwam dit ruim boven de `40%`. Hoe komt het dan in honderd jaar tijd dit zo sterk gedaald is? Dat heeft niet alleen te maken met de overvloed van tegenwoordige vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Een andere oorzaak zou kunnen zijn dat men vroeger _bewuster_ omging met voedsel. 
 
 ![Gespeendeerd inkomen aan eten de laatste 60 jaar. Volle lijn: totaal gespendeerd aan voedsel. Stippellijn: gespendeerd in huis. Dikke stippellijn: gespendeerd buitenshuis. \label{percincome}](img/inkomen.png){ width=80% }
 
@@ -97,7 +105,9 @@ Het meeste brood van De Superette wordt in de verschillende zaken van Kobe Desra
 Voor de welvarende mens van West Europa stelt de kostprijs van een brood niet veel meer voor, of het nu over twee of zes euro gaat (het geld effectief _willen_ besteden is een andere zaak). \nl
 Dat is niet altijd het geval geweest, en zorgde vaak voor nationale crisissen, uitbraken van rellen en zelfs moorden. Er zijn bibliotheken vol boeken geschreven over de broodbakgeschiedenis van gildes in Parijs [@kaplanbakersparis] tot invloed op de Britse economie [@petersen2017bread]. Het veiligstellen van een voldoende aanbod aan brood was tot voor kort een zaak van algemeen belang. De woorden van de Romeinse dichter Juvenalis, _panem et circenses_ of brood en spelen, zijn eeuwenoud maar nog steeds erg actueel. Het gaat niet over vlees, vis, eieren of melk. Het gaat over brood: ons dagelijks brood. We vergeten de dag van vandaag welke implicaties de verandering van technieken in het malen en bakken hebben gehad op de maatschappij.
 
-### April 2019
+\begin{flushright}
+April 2019
+\end{flushright}
 
 In april 2019 leerde ik toevallig via een voedselbewuste vriendin van Kristien dat Johan inmiddels zijn eigen bakkerij in Tongeren heeft geopend, genaamd '\mbox{Brijosh}'. Dat was voor mij reden genoeg om er opnieuw naartoe te rijden. Johan renoveerde een aanpalende ruimte van zijn woning om er twee ovens en een koelkast in te kunnen plaatsen zonder verlies van te veel werkoppervlakte. De bakkerij is open van donderdag tot en met zondag, en er wordt uiteraard voornamelijk zuurdesembrood verkocht.
 
@@ -145,7 +155,11 @@ Johan zijn broden zijn tien uur sneller klaar dan de mijne, vanwege de erg snell
 'Ken je _The Sourdough School_ van Vanessa Kimbell?' Ik knik, en Johan gaat verder. \nl
 'Zoiets, zo bezig zijn met mensen iets bij te leren, als dat eens uw _core business_ is... Voor mij is een workshop eerder iets vervelends dat ik tussendoor doe. Ik geef soms dingen mee met de instructies het thuis dan maar zelf af te bakken omdat er hier geen tijd voor is. Maar als je van begin tot einde het hele zuurdesem traject kan laten zien, en de tijd neemt om daar een dag aan te spenderen... Dat zou toch geweldig zijn!' Dat zou het zeker... 
 
-### November 2016
+### De velden, de keuken, en de bakkerij
+
+\begin{flushright}
+Januari 2016
+\end{flushright}
 
 Mijn zoektocht naar commercieel inzicht leidde me tot in Bunnik, dichtbij Utrecht. Op het landgoed van Nieuw-Amelisweerd ligt bakkerij en keuken De Veldkeuken. Hier bakken René van der Veer en Juliette Borggreve hun biologisch brood. De naam ‘Veldkeuken’ is heel toepasselijk: de zaak ligt in een prachtig gebied omgeven door bossen, velden en wandelpaadjes. \nl
 Het landgoed is opgedeeld in verschillende gebouwen. De bakkerij staat hier dus echt los van de keuken en ligt tien minuten stappen van elkaar af. De keuken neemt een stuk van het koetshuis in beslag waar aan de linkerkant een museum in gevestigd is. Het trekt veel hongerige bezoekers aan die tussen het wandelen door even willen uitrusten. \nl
@@ -160,10 +174,10 @@ De Veldkeuken gebruikt 100% biologische grondstoffen._’
 
 ‘Het is hier wel leuk om te zitten na die wandeling’ zei Kristien. Ik had haar gevraagd of ze het zag zitten om een uitstapje te maken naar een mooi natuurgebied in Nederland. Kon ik er wat aan doen dat daar toevallig ook een bakkerij lag? We dronken snel onze thee uit en vertrokken op aanwijzingen van Juliette naar de bakkerij. 
 
-Het bakkerij gebouw vlak naast een wandelpad heeft grote ramen die bezoekers doen staren naar zwoegende bakkers. René zag ons staan en wuifde. Zijn handen waren lekker vuil van het plakkerig deeg. Hij schoof het raam open om ons binnen te laten. Er is niet zo veel bewegingsruimte in de huidige bakkerij[^plan]. René geeft ons een korte rondleiding en toont verschillende moederdegen die netjes onderhouden worden. \nl
-Ook hij werkt met bloem van de Commandeursmolen die je in indrukwekkende stapels achterin de ruimte kan zien liggen. Er zijn nog twee andere bakkers aan het werk. Al fluitend worden er cakes in de oven geschoven en krentenbollen in de rijskast gepropt. Er hangt een ontspannen, gezellige sfeer. Ik ben onmiddellijk jaloers: de hectische sfeer die ik kende van De Superette is hier volledig afwezig. Ik neem aan dat dit komt door de strikte scheiding van keuken en bakkerij samen met de bekwaamheid van dit goed geolied team. 
+Het gebouw vlak grenzend aan een wandelpad heeft grote ramen die bezoekers doen staren naar zwoegende bakkers. René zag ons staan en wuifde. Zijn handen waren lekker vuil van het plakkerige deeg. Hij schoof het raam open om ons binnen te laten. Er is niet zo veel bewegingsruimte in de huidige bakkerij[^plan]. \nl
+Ook René werkt met bloem van de Commandeursmolen die je in indrukwekkende stapels achterin de ruimte kan zien liggen. Er waren nog twee andere bakkers aan het werk. Al fluitend werden er cakes in de oven geschoven en krentenbollen in de rijskast gepropt. Er hing een ontspannen, gezellige sfeer. Ik was onmiddellijk jaloers: de hectische sfeer die ik kende van De Superette is was volledig afwezig. Ik neem aan dat dit komt door de strikte scheiding van keuken en bakkerij samen met de bekwaamheid van dit goed geolied team. René was zo vriendelijk om ons tussen zijn werk door een korte rondleiding te geven.
 
-Ik vraag René naar zijn grote kneder met één arm. \nl
+Ik vraag René naar de grote kneder met één arm die in een hoek kortbij de oven staat. \nl
 ‘Oh, die gebruiken wij nauwelijks. Die spiraalkneder daar wordt gebruikt.’ Hij wijst naar een hoek kortbij de oven. \nl
 ‘Is dat niet handiger omdat er meer in kan? En omdat het minder ruw werkt dan de snelheid van zo’n spiraalkneder?’ vraag ik. De spiraalkneder die we in de avondles gebruikten gaf gevaarlijk veel warmte af aan het gekneed deeg. \nl
 ‘Dat klopt, maar wegens plaatsgebrek is dat voor ons momenteel niet de beste optie. Deze muur staat in de weg en aan de oven hebben wij geen centimeter ruimte meer vrij.’ Altijd zeulen met zoveel deeg is niet leuk. \nl
@@ -178,7 +192,7 @@ Ik vraag René naar zijn grote kneder met één arm. \nl
 De Veldkeuken combineert verschillende ideeën om het brood te verkopen. Om te beginnen is de keuken opnieuw een grote afnemer van hun eigen brood, zoals bij Magis in Tongeren of De Superette in Gent. Ondertussen ben ik ervan overtuigd dat voor deze zaken die bepaalde combinatie de belangrijkste factor voor hun succes is. Ook hier vertrekken veel wandelaars niet alleen met een gevulde maag, maar ook met een broodzak onder de arm. \nl
 Daarnaast wordt het brood verder gedistribueerd door winkels in het centrum van Utrecht. Die bestelwagen met het logo van De Veldkeuken staat niet voor niets op de oprit van het bakkerij gebouw. René en Juliette hielden er trouwens twee vestigingen op na: in het domein te Amelisweerd waar de bakkerij ligt, en in het forthuis van Werk aan het Spoel te Culemborg. De laatste locatie sluit eind 2016 om alle aandacht te kunnen richten op de uitbreidingsplannen van de biologische bakkerij.
 
-Ik ben onder de indruk van de hoeveelheid desems die René en zijn team actief onderhouden. Ze maken een onderscheid tussen _zuurdesem_ en _desem_: een _zuurdesem_ is in hun ogen een natuurlijke gisting van de bloem met melk- en azijnzuren, en een _desem_ is datzelfde zonder de azijnzuren. Dat is opmerkelijk omdat de naam 'desem' vaak gebruikt wordt om een droge volkoren tarwedesem aan te duiden die meer azijn- dan melkzuren bevat. \nl
+Ik ben onder de indruk van de hoeveelheid desems die René en zijn team actief onderhouden. Ze maken een onderscheid tussen _zuurdesem_ en _desem_: een _zuurdesem_ is in hun ogen een natuurlijke gisting van de bloem met melk- en azijnzuren, en een _desem_ is datzelfde zonder de azijnzuren. Dat is opmerkelijk omdat de naam 'desem' vaak wordt gebruikt om een droge volkoren tarwedesem aan te duiden die meer azijn- dan melkzuren bevat. \nl
 De professionele desem wordt in grote flessen aangekocht en is bijna zo vloeibaar als room. Ik vermoed dat deze desem van een handelaar als Puratos komt. Het ander moederdeeg, de _zuurdesem_, is zelf opgekweekt. Net als veel andere bakkers heeft René de kneepjes van het vak in Frankrijk geleerd. 
 Als we het hebben over de leerstof, bevestigt René mijn ervaring. \nl
 ‘Dat is hetzelfde hier in Nederland, ’ knikt hij. \nl
@@ -198,9 +212,13 @@ Tot nu toe heb ik verschillende strategieën van bakkers gezien om desem meer on
 Naamsbekendheid speelt vast en zeker ook een rol. Zowel De Superette als De Veldkeuken hebben ondertussen een kookboek uitgebracht waar een groot aantal pagina’s exclusief gereserveerd zijn voor zuurdesembrood. Elke zichzelf respecterende chef-kok verkoopt zijn restaurant in de boekhandel en zorgt op die manier voor een extra toestroming van klanten. \nl
 Bakkers met een duidelijke visie zijn actief bezig met kennisverspreiding. Niet alleen door een boek te schrijven, maar ook door nieuwe concepten uit de grond te stampen, workshops te geven, open te staan voor stages, bakkerijen van collega’s te bezoeken en samen te komen om tips te delen. 
 
-Ik heb mijn zoektocht bewust beperkt tot bescheiden biologische bakkerijen. Om écht inzicht te verwerven in het commerciële aspect werd het tijd om me te wenden tot de industrie. De voornaamste reden om iets op groter niveau aan te pakken is om meer te kunnen verkopen met minder moeite - en dus minder geld. Mijn nieuwsgierigheid won het tijdelijk van mijn weigerachtigheid om kennis te maken met enorme ruimtes die hele rekken sandwiches tegelijkertijd bakken.
+Ik heb mijn zoektocht bewust beperkt tot bescheiden biologische bakkerijen. Om écht inzicht te verwerven in het commerciële aspect werd het tijd om me te wenden tot de industrie, waar de zaken worden aangepakt op grotere schaal om meer te kunnen verkopen. Mijn nieuwsgierigheid won het tijdelijk van mijn weigerachtigheid om kennis te maken met enorme ruimtes die hele rekken sandwiches tegelijkertijd bakken.
 
-### November 2013
+### Van kleine bakkerij naar grote productiehal
+
+\begin{flushright}
+November 2013
+\end{flushright}
 
 In het industriepark van Sint-Truiden ligt Vangrootloon, een bescheiden bedrijfje dat na honderd jaar uitgroeide tot dé grootste bakkerij van Belgisch Limburg. Het gebouw bestaat uit een gigantische hal, opgedeeld in secties waar men vlaaien, sandwiches, speculaas, en brood aan de lopende band (letterlijk en figuurlijk) produceert. Die band loopt van de productiehal tot in de vertrekhal waar het lekkers verdeeld en verpakt wordt om met behulp van tientallen vrachtwagens tot bij de verdeelpunten gebracht te worden. \nl
 Vangrootloon levert niet alleen aan zijn eigen zaken, maar ook aan supermarkten en andere koude bakkers. Een Vangrootloon winkel is deels een koude bakkerij en deels een tearoom. De scherpe prijzen zorgen voor een constante toestroom van klanten die graag koffie bij hun stukje vlaai willen. \nl
@@ -220,8 +238,11 @@ Gelukkig is niet alles volledig geautomatiseerd. Getalenteerde bakkershanden kom
 
 Veel geld verdienen kan dus met behulp van automatisatie en opzet van filialen, gegeven een voorafgaande grote investering. Ook al weten de machines een zekere indruk te maken, toch verliest 'ambachtelijk' bakken op zo'n grote schaal een groot stuk van zijn karakteristieke charme, ook al is de grootste bakkerij van Belgisch Limburg niets in vergelijking met volautomatische fabrieken die zo groot zijn als enkele voetbalvelden. Er ontbrak één belangrijk ding in de fabriek dat ik wel hoopte te vinden zo'n honderd kilometer meer naar het zuidoosten: _zuurdesem_. 
 
+### Productontwikkeling met wetenschappelijke precisie
 
-### Februari 2014 
+\begin{flushright}
+Februari 2014
+\end{flushright}
 
 \index{Lactobacillus!sanfranciscensis}
 
@@ -278,7 +299,9 @@ Puratos verkoopt niet alleen desem. Ook conventionele gedroogde gist wordt er ge
 En toch doen ze de moeite om hobbyisten zoals mij met plezier te ontvangen en de tijd te nemen om me rond te leiden. Mijn oordeel over de industrie heb ik na mijn bezoek grondig moeten herzien. De aandacht en liefde voor zuurdesem binnen Puratos kan alleen maar betekenen dat, zoals ook mijn wens is, desem meer onder de mensen gebracht wordt. Er zijn immers meerdere wegen die leiden naar eenzelfde doel. Zoals Karl zei: 'wij wensen zuurdesem terug op de markt te zetten'. De producten van Puratos doen de bakker kennis maken met zuurdesem, ook al wordt het voornamelijk gebruikt als smaakmaker in combinatie met conventionele gist. \nl
 Misschien werkt het zoals mijn broodbakmachine: een deur die opent naar een  wereld boordevol pittige smaken, nieuwe texturen, en oneindig veel mogelijkheden…
 
-### Mei 2019
+\begin{flushright}
+Mei 2019
+\end{flushright}
 
 Vijf jaar later spreken Karl en ik in context van mijn boek opnieuw af in Saint-Vith. Het was een leuk weerzien waaruit bleek dat Puratos niet heeft stilgezeten. De culturen in de bibliotheek zijn uitgebreid tot meer dan 120, er zijn nieuwe producten ontwikkeld, en er is zelfs een nieuw gebouw bijgekomen dat de geschiedenis van brood en desem uit de doeken doet in de vorm van een privé museum. \nl
 We brachten deze keer al bakkend samen twee dagen tijd door. Ik wilde al doende een beter beeld krijgen van mogelijke toepassingen van hun zuurdesem producten. Dimitri vergezelde me de eerste dag en keek zijn ogen uit.
@@ -376,7 +399,7 @@ Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Can
 * Niet alle bakkers zijn eerlijk in hun toegevoegde ingrediënten. 
 * Bakken op schaal met verdeling naar verschillende filialen is indrukwekkend, maar moeilijk nog ambachtelijk te noemen. 
 * De industrialisatie van het broodbakproces vereist het gebruik van additieven om de machinale krachten aan te kunnen. 
-* Gedroogde zuurdesem kan samen met gist gebruikt worden als smaakmaker én rijsmiddel. 
+* Gedroogde zuurdesem kan samen met gist worden gebruikt als smaakmaker én rijsmiddel. 
 * Zuurdesem is op te delen in drie verschillende categorieën waarvan Type II en III commercieel op grote schaal verkocht kunnen worden. 
 * Laat mensen gradueel wennen aan de smaak van zuurdesem. Begin met korte rijstijden op een hogere temperatuur. 
 * Voedsel is meer dan ingrediënten, bereiding, en vertering. Denk ook altijd aan de cultuur, de psychologie, en de filosofie ervan. 

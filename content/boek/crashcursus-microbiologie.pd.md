@@ -2,11 +2,6 @@
 
 \label{theorie}
 
-\includepdf[
-    scale=2.0,
-    addtolist={1, figure, {Een mooi gegelatineerde, open kruim.}, img:boterham}
-]{boterham.jpg}
-
 ## De microbiologie van brood
 
 \label{microbio}
@@ -29,7 +24,7 @@ Wist je echter dat de volgende producten ook gefermenteerd waren:
 Commerciële varianten worden op een andere manier geproduceerd. Een blik groenten op de schappen van je lokale supermarkt wordt ingelegd met azijn. De erg zure omgeving is niet leefbaar voor organismen. Dat is iets heel anders dan groenten inleggen in water (en eventueel zout). 
 
 [^olijf]: Rauwe olijven zijn oneetbaar door de aanwezigheid van bittere stoffen.
-[^cocolade]: Verse cacaobonen, uit de peul, zijn slijmerig en paars, zoals lychees. Na het fermenteren verliezen ze vocht, en krijgen ze die typische bruine kleur, klaar om verder geroosterd te worden. Hetzelfde principe geldt voor koffiebonen, waar fermentatie gebruikt wordt om het vruchtvlees van het zaadje te scheiden. 
+[^cocolade]: Verse cacaobonen, uit de peul, zijn slijmerig en paars, zoals lychees. Na het fermenteren verliezen ze vocht, en krijgen ze die typische bruine kleur, klaar om verder geroosterd te worden. Hetzelfde principe geldt voor koffiebonen, waar fermentatie wordt gebruikt om het vruchtvlees van het zaadje te scheiden. 
 [^amazake]: Het zoetere, niet-alcoholische alternatief voor sake.
 [^thee]: Zwarte thee is geoxideerd (in aanwezigheid van zuurstof), niet gefermenteerd.
 
@@ -45,10 +40,10 @@ Het opkweken van de juiste organismen duurt een paar weken. De eerste belletjes 
 
 \index{Saccharomyces!cerevisiae}
 
-Deze combinatie van gisten en bacteriën vormen na verloop van tijd een stabiele symbiose. Je kan het een beetje vergelijken met kombucha zwammen. Dit noemt men een _SCOBY_, een '_Symbiotic Culture of Bacteria and Yeast_'. Er zijn honderden verschillende soorten van beide organismes aanwezig. Commerciële gist bevat maar één giststam van de gistsoort _Saccharomyces cerevisiae_, ook wel bakkersgist genoemd. Een zuurdesemcultuur bevat veel meer variatie. Het aantal cellen van eenzelfde stam is echter minder groot dan in bakkersgist, waar miljareden[^milj] cellen maar één doel hebben: zo veel mogelijk suikers omzetten in CO~2~. \nl
+Deze combinatie van gisten en bacteriën vormen na verloop van tijd een stabiele symbiose. Je kan het een beetje vergelijken met kombucha zwammen. Dit noemt men een _SCOBY_, een '_Symbiotic Culture of Bacteria and Yeast_'. Er zijn honderden verschillende soorten van beide organismes aanwezig. Commerciële gist bevat maar één giststam van de gistsoort _Saccharomyces cerevisiae_, ook wel bakkersgist genoemd. Een zuurdesemcultuur bevat veel meer variatie. Het aantal cellen van eenzelfde stam is echter minder groot dan in bakkersgist, waar miljarden[^milj] cellen maar één doel hebben: zo veel mogelijk suikers omzetten in CO~2~. \nl
 Zowel gist als bacterie teert op energie in de vorm van suiker. Dat betekent een beetje gezonde competitie. Bacteriën zijn enkel aanwezig in zuurdesem, en niet in bakkersgist. Deze bacteriën zijn de voornaamste veroorzakers van _smaak_. Aha, nu geraken we ergens!
 
-[^milj]: Een theelepel zuurdesem bevat naar verluid rond de 50 miljoen gisten en 5 miljard melkzuurbacteriën. Een theelepel moderne gedroogde gist bevat 60 miljard gistcellen, die onder de juiste condities om de honderd minuten verdubbelen. 
+[^milj]: Een theelepel zuurdesem bevat rond de 50 miljoen gisten en 5 miljard melkzuurbacteriën. Een theelepel moderne gedroogde gist bevat 60 miljard gistcellen, die onder de juiste condities om de honderd minuten verdubbelen [@gobbetti2012handbook]. 
 
 We hebben dus twee soorten van organismen nodig in brooddeeg, niet één. Bacteriën komen vanzelf, als je maar lang genoeg wacht. Een professionele bakker heeft echter geen tijd: hoe meer broden op korte tijd gebakken kunnen worden, hoe meer geld op de bankrekening. Deze kortzichtige visie levert middelmatige producten op, en nauwelijks bacteriën. Dat is de reden waarom je in drie uur onmogelijk smaak op een natuurlijke manier krijgt toegevoegd aan brood. \nl
 Een industriële bakker lost dit 'probleem' op met smaakstoffen en verbeteraars. Een bakker die begaan is met wat hij verkoopt, zet de deur open voor bacteriën door het rijsproces te verlengen. Wat bedoelen we nu eigenlijk als we het hebben over smaak? Om daar op te kunnen antwoorden, moeten we eerst kijken welke classificaties van organismen typisch aanwezig zijn in een zuurdesemcultuur:
@@ -70,7 +65,7 @@ Figuur \ref{activityvstemp}[^figactivitysrc] visualiseert de activiteit in funct
 
 ![De activiteit in functie van temperatuur voor gist (stippellijn) en melkzuurbacterie (volle lijn)\label{activityvstemp}](img/activity_vs_temp.png){ width=80% }
 
-De verhoogde activiteit kan maar enkele uren op hoge temperaturen volgehouden worden, totdat het deeg onherroepelijk instort. Wil je de diepgang van zuurdesem zonder het zure, gebruik dan een jonge, natte cultuur op hogere temperatuur. Heb je graag de uitgesproken scherpte, wissel dan af met langere rijstijden in de koeling. Een zure omgeving is niet alleen goed om pathogenen buiten te weren, maar ook om sommige gewilde melkzuurbacteriën aan te trekken, zoals _Lactobacillus sanfranciscensis_, die weigert te groeien onder een pH van `3.8` [@de2005sourdough]. Gisten zijn minder gevoelig voor pH schommelingen.
+De verhoogde activiteit kan maar enkele uren op hoge temperaturen worden volgehouden, totdat het deeg onherroepelijk instort. Wil je de diepgang van zuurdesem zonder het zure, gebruik dan een jonge, natte cultuur op hogere temperatuur. Heb je graag de uitgesproken scherpte, wissel dan af met langere rijstijden in de koeling. Een zure omgeving is niet alleen goed om pathogenen buiten te weren, maar ook om sommige gewilde melkzuurbacteriën aan te trekken, zoals _Lactobacillus sanfranciscensis_, die weigert te groeien onder een pH van `3.8` [@de2005sourdough]. Gisten zijn minder gevoelig voor pH schommelingen.
 
 [^fermentatief]: Dit is het verschil tussen homofermentatieve en heterofermentatieve melkzuurbacteriën. Dat eerste gebeurt ook in spieren als we sneller energie nodig hebben dan het bloed zuurstof kan aanleveren. Naslagwerken over metabolische routes bevatten meer informatie. 
 [^figactivitysrc]: Deze gegevens komen uit een onderzoek naar de groei van bepaalde stammen in zuurdesem fermentatie [@ganzle1998modeling].
@@ -182,11 +177,6 @@ Het fermentatieproces kan je dus beschouwen als een schaar die de lange ketting 
 Het soort van suiker speelt dus ook een rol [@gobbetti1994sourdough]. Gisten eten graag gevarieerd. _Candida milleri_ en _Saccharomyces exiguus_ zijn bijvoorbeeld het gelukkigste wanneer ze verschillende soorten enkelvoudige en dubbelvoudige suikers voorgeschoteld krijgen. _Lactobacillus sanfranciscensis_ en andere melkzuurbacteriën eten dan weer liever maltose. Door het opknipproces van de suikerkettingen verandert de samenstelling in het deeg, waarbij plots bepaalde bacteriën sneller reproduceren dan voorheen. Een (verplicht) samenwerkingsproces dus, waarbij het contract vergeten werd te ondertekenen. Culturen waar geen gisten in zitten die maltose vrijmaken zullen geen uitnodigende omgeving zijn voor de geliefde San Francisco bacterie. \nl
 Na een tijdje zijn de meeste suikers omgezet, en verzuurt de omgeving door een teveel aan azijnzuur. Dat punt herken je doordat het gerezen deeg begint in te storten. De gluten structuur breekt, de lucht is weg, en je blijft met een baksteen zitten. 
 
-\includepdf[
-    scale=2.0,
-    addtolist={1, figure, {Zichtbare activiteit in een rogge zuurdesem starter.}, img:broebel}    
-]{broebel.jpg}
-
 \index{Glycemische Index}
 \index{Glychemische Index!G. Lading}
 
@@ -236,7 +226,7 @@ Tegenwoordig onderhoud ik slechts één cultuur op basis van tarwe. Mijn vertrou
 Meerdere culturen betekent meer tijd nodig om ze te onderhouden. Dat onderhoud kan ook uitbesteed worden. Aan bakkerij _RC Chocolat_[^rc] te Stockholm bijvoorbeeld, die reizigers de mogelijkheid biedt om tegen een klein bedrag op een zuurdesemcultuur te babysitten. De Zweden zijn op dat vlak heel wat progressiever dan wij: in supermarkten ligt ‘_surdeg_’ gewoon in de rekken, naast de gedroogde gist. Dankzij de stijgende populariteit van zuurdesem ontstaan er hotel services die aanbieden om je cultuur tijdig te voeden wanneer jij aan het strand ligt te luieren. Ik heb ook al verhalen gehoord van mensen die een beetje desem overal mee naartoe zeulen, ook op vakantie. Je weet maar nooit! \nl
 Het heeft weinig nut om de cultuur actief te houden als er niet elke dag gebakken wordt. In dat geval houd ik mijn potje in slaapstand, in de koelkast. 
 
-[^pseudo]: Pseudogranen zijn niet-grassoorten die op dezelfde manier gebruikt worden als granen door bijvoorbeeld de zaadjes te malen tot bloem. Hieronder vallen quinoa, boekweit, amaranth, en chia.
+[^pseudo]: Pseudogranen zijn niet-grassoorten die op dezelfde manier worden gebruikt als granen door bijvoorbeeld de zaadjes te malen tot bloem. Hieronder vallen quinoa, boekweit, amaranth, en chia.
 [^rc]: [https://rcchocolat.se](https://rcchocolat.se)
 
 \index{Soda}
@@ -292,15 +282,15 @@ Ik vertel over mijn zuurdesemcultuur die ik meebracht. 'Als ik nu zou willen wet
 Om gisten te isoleren is er dus een stappenplan nodig dat de onderzoeker in staat stelt gebaseerd op unieke eigenschappen een organisme te isoleren. \nl
 'Heb je enig idee welke micro-organismen er in je zuurdesem kunnen zitten? Misschien kunnen we hier een leuke oefening voor de studenten van maken. Momenteel moeten ze uit putwater bepaalde gisten identificeren. Dat is eigenlijk een beetje saai.' Kristel inspecteert het potje met zuurdesem dat ik voor haar meebracht. \nl
 'Ik had gehoopt dat jij me dat zou kunnen vertellen...' begin ik. \nl
-'Voor de huidige oefening gokken we dat bijvoorbeeld _Saccharomyces cerevisiae_ aanwezig zou zijn in het water. Dan prepareren we het medium voor die gist, terwijl we de groei van de rest tegen houden. Als je een lijst kan aanleveren met mogelijke gisten en bacteriën, kan ik de studenten wel aan het werk zetten om alle mogelijkheden af te gaan. Wat identificatie betreft, baseren we ons op standaard kits die ook door geneeskundigen gebruikt worden om pathogene gisten als _Candida_ te ontdekken. Kom, ik zal je in het ander labo een voorbeeld laten zien.'
+'Voor de huidige oefening gokken we dat bijvoorbeeld _Saccharomyces cerevisiae_ aanwezig zou zijn in het water. Dan prepareren we het medium voor die gist, terwijl we de groei van de rest tegen houden. Als je een lijst kan aanleveren met mogelijke gisten en bacteriën, kan ik de studenten aan het werk zetten om alle mogelijkheden af te gaan. Wat identificatie betreft, baseren we ons op standaard kits die ook door geneeskundigen worden gebruikt om pathogene gisten als _Candida_ te ontdekken. Kom, ik zal je in het ander labo een voorbeeld laten zien.'
 
 De posters in de gang vatten verschillende biochemisch-getinte experimenten samen. \nl
 'Kijk,' wijst Kristel. Een poster over het aroma van brood beschrijft in verschillende chemische formules de karakteristieken van vluchtige geuren. Mijn oog valt op het woord _sourdough_. Bingo. Er staat '_LAB:Yeast 100:1_'. \nl
 'Voor elke gist zijn er honderden bacteriën? Dat wist ik niet.'[^honderd1] Ik had nooit gedacht ooit zoveel interesse te tonen in iets dat tegen de muur van het departement chemie hangt. \nl
-'Ik ook niet. Het is me nooit opgevallen dat hier ook iets over zuurdesem staat. Ik kende het zo niet echt.' In het ander lokaal opent ze een doos om mij het test kit te laten zien. \nl
+'Ik ook niet. Het is me nooit opgevallen dat hier ook iets over zuurdesem staat. Ik kende het niet echt.' In het ander lokaal opent ze een doos om mij het test kit te laten zien. \nl
 'Deze methode is eigenlijk te eenvoudig. De vloeistof verdeelt zich over deze kleine testjes, en de uiteinden kleuren rood, groen, of geel. Op basis van dit papiertje geef je aan welke test welke kleur heeft, en voilà.' Het ziet er uit als een test om de zuurtegraad of het chloorgehalte van water te identificeren. \nl
 'Dus een simpele ziel die niets van microbiologie of chemie kent, zoals ik, kan dat ook?' Kristel lacht.
-\nl 'Ja, ja, inderdaad! Dus wij passen dat wel aan. Maar een voorwaarde is isolatie, zonder dat is er geen identificatie mogelijk. Dan kleurt van alles zonder te weten waardoor.' Ik kan mij moeilijk inbeelden dat professionele laboratoria dezelfde moeizame procedure doorlopen. \nl
+\nl 'Ja, ja, inderdaad! Wij veranderen de moeilijkheidsgraad afhankelijk van de cursus. Maar een voorwaarde voor identificatie is isolatie, zonder dat is er geen identificatie mogelijk. Dan kleurt van alles zonder te weten waardoor.' Ik kan mij moeilijk inbeelden dat professionele laboratoria dezelfde moeizame procedure doorlopen. \nl
 'Meestal wordt er gekozen voor DNA analyse. Maar dan moet je ook exact weten waar in de DNA string te knippen.' Beide methodes vereisen een databank van gegevens: de ene met fenotypische eigenschappen, en de andere met genotypische. 
 
 [^honderd1]: Deze ratio hangt van cultuur tot cultuur af, en varieert van `100:1` tot `10:1`, waarbij bacteriën altijd in de meerderheid zijn. Hoe groter het eerste getal, hoe zuurder, en hoe minder snel het brood zal rijzen. 
@@ -311,11 +301,11 @@ De posters in de gang vatten verschillende biochemisch-getinte experimenten same
 \index{Candida!humilis}
 \index{Lactobacillus}
 
-Kristel en ik wisselden bedankjes uit, zij voor het roggebrood dat ik meebracht, en ik voor de rondleiding en hulp. Terug thuis ontdekte ik verschillende bestudeerde werken later dat er inderdaad veel minder variatie van gisten in zuurdesem zit, ten opzichte van melkzuurbacteriën [@de2005sourdough;@yazar2012functional]. Rond de `80%` van alle zuurdesemculturen bevat hoofdzakelijk één gistsoort. Als er een tweede of derde soort aanwezig is, dan is dat slechts met kleine hoeveelheden. De meest voorkomende gisten zijn _Saccharomyces cerevisiae_, _Candida milleri_, en _Candida humilis_. \nl
+Kristel en ik wisselden bedankjes uit, zij voor het roggebrood dat ik meebracht, en ik voor de rondleiding en hulp. Terug thuis ontdekte ik verschillende bestudeerde studies later dat er inderdaad veel minder variatie van gisten in zuurdesem zit, ten opzichte van melkzuurbacteriën [@de2005sourdough;@yazar2012functional]. Rond de `80%` van alle zuurdesemculturen bevat hoofdzakelijk één gistsoort. Als er een tweede of derde soort aanwezig is, dan is dat slechts met kleine hoeveelheden. De meest voorkomende gisten zijn _Saccharomyces cerevisiae_, _Candida milleri_, en _Candida humilis_. \nl
 Op gebied van melkzuurbacteriën varieert een typische cultuur veel meer. Het geslacht _Lactobacillus_ komt het meeste voor, en is ook verantwoordelijk voor de breedste waaier aan soorten. De _Leuconostoc_, _Pediococcus_, en _Weissella_ families worden ook vaak geïdentificeerd in zuurdesem. Op basis van die informatie bezorgde ik Kristel een lijst met mogelijk aanwezige organismen die ze gaat omvormen tot een concrete opdracht voor de studenten, verspreid over verschillende semesters. Ik weet nu nog niet welke stammen er exact in mijn desem zitten, maar we zijn al een stap dichter bij de waarheid. \nl
 Er moet in ieder geval geen saai putwater meer onderzocht worden. 
 
-Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met het blote oog niet waarneembare oorlog in mijn keuken. Door te spelen met principes als vocht- en zoutgehalte, zuurtegraad, temperatuur en tijd bepaal ik als bakker hoe mijn brood smaakt. Er is echter nog een probleem. Het oog wil namelijk ook wel wat. Hoe krijg ik genoeg volume in mijn deeg, zonder dat het plat valt zodra het uit het rijsmandje komt? Niet te kort of te lang laten rijzen is één ding, maar geen structuur betekent geen vorm. En geen vorm vermindert ook smaak: niemand eet alleen maar met de mond [@delwiche2012you]. 
+Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met het blote oog niet waarneembare oorlog in mijn keuken. Door te spelen met principes als vocht- en zoutgehalte, zuurtegraad, temperatuur en tijd bepaal ik als bakker hoe mijn brood smaakt. Er is echter nog een probleem. Het oog wil namelijk ook wel wat. Hoe krijg ik genoeg volume in mijn deeg, zonder dat het plat valt als het uit het rijsmandje komt? Niet te kort of te lang laten rijzen is één ding, maar geen structuur betekent geen vorm. En geen vorm vermindert ook smaak: niemand eet alleen maar met de mond [@delwiche2012you]. 
 
 \newpage
 
@@ -323,7 +313,7 @@ Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met 
 
 * Fermenteren en rijzen: twee woorden voor hetzelfde idee.
 * (Ongeveer) hetzelfde proces dat wij gebruiken om ons voedsel te verteren wordt ook gebruikt om brood mee te maken. 
-* Een bakker is eigenlijk een God, die het lot bepaald over duizenden organismen. 
+* Een bakker is eigenlijk een God, die het lot bepaalt over duizenden organismen. 
 * Die organismen zijn te beïnvloeden door te spelen met vochtigheid, zuurtegraad, zoutgehalte, temperatuur en tijd. 
 * Smaak komt niet van één giststam, maar van veel melkzuurbacteriën. 
 * Elke zuurdesemcultuur is uniek en permanent verbonden aan de regio.
@@ -334,7 +324,7 @@ Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met 
 * Open nooit een blik gefermenteerde haring op een openbare plaats - en misschien best ook niet in een gesloten ruimte. 
 * Zuurdesembrood houdt langer dan gistbrood.
 * Staat er een waterlaagje op je starter, of ruikt hij erg naar azijn? 90% weggooien en minstens twee keer bijvoeden. 
-* Staat er gekleurde schimmel laag op je starter? Pech gehad, alles weggooien! 
+* Staat er gekleurde schimmellaag op je starter? Pech gehad, alles weggooien! 
 * Gedroogde zuurdesem is niet hetzelfde als actieve zuurdesem.
 * Bakpoeder haalt tijd uit de vergelijking, en dat zal je voelen aan je maag. 
 * Wees consistent.

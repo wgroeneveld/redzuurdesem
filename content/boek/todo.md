@@ -1,4 +1,18 @@
 
+Mogelijk images?
+
+* Bakkerij Schoofs bij beschrijving machines?
+* grafiek puratos xas yas lab+/-?
+
+Grammatica
+
+* zo veel vs zoveel
+* "een hoop" wegwerken
+* mix verleden tijd/tegenwoordige tijd
+* fel -> stekr
+* worden ww: 'worden aangepakt' ipv 'aangepakt worden' overal?
+* "zodra"
+
 [X] => Done, [/] => Initiated, [ ] => TODO, [Z] => Ga ik niet doen
 
 HIGH PRIO
@@ -64,12 +78,14 @@ MEDIUM PRIO
 [/] Laten nalezen microbiologie hoofdstuk door Kristel
 [X] Sourdough Biotechnology aanduidingen verwerken
 [X] Quote bij verdienen toevoegen
-[ ] Nadenken over subtitels datums, wijzigen?
+[X] Nadenken over subtitels datums, wijzigen?
 [/] Goedkeuring schilderij, Worcester Art Museum => herinnering gestuurd
 [ ] Formule tabellen consequent doen (doeltemp, totale tijd, ... - layouting?)
 
 LOW PRIO
 
+[ ] Alle boeken titels in zelfde '' of italics
+[ ] graden in °C zonder spatie?
 [ ] Dankwoord (pas na inzending)
 [ ] Enzymen activiteit in theorie HF herlezen, goed genoeg uitgelegd?
 [X] Layouting '\nl' overal goed zetten

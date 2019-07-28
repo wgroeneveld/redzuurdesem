@@ -1,10 +1,5 @@
 \frontmatter
 
-\includepdf[
-    scale=2.0,
-    addtolist={1, figure, {Een mooi opengebloeide korst na het bakken.}, img:korst}
-]{korst.jpg}
-
 ## Voorwoord
 
 TODO
@@ -13,7 +8,9 @@ TODO
 
 > '_Happiness is bread baking._' - KC, [Sourdough.com](https://sourdough.com)
 
-### Februari 2019
+\begin{flushright}
+Februari 2019
+\end{flushright}
 
 Niet iedereen voelt van kleins af aan wat hij wil worden later. Dat was bij mij niet zo. De constante aanwezigheid van een beeldscherm, hetzij een computer, hetzij een Game Boy, verraadde mijn toekomstige interesse in softwareontwikkeling. Ik had weinig hobby's als kind, maar zolang het '_bleep_' zei, en mijn ogen er slechter van werden, was ik stil. \nl
 Eten was leuk, maar hield me niet bezig. Dacht ik. Maar toch, op een of andere manier, zijn een aantal smaken in mijn onderbewustzijn terecht gekomen die mij nooit meer zullen loslaten. \nl

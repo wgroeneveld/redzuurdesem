@@ -8,7 +8,11 @@
 
 > '_Eat (good) food. Mostly plants. Not too much._' - Michael Pollan, In Defense of Food
 
-### Augustus 2010
+### Dagelijks brood met een druk op de knop
+
+\begin{flushright}
+Augustus 2010
+\end{flushright}
 
 'Het kaboutertje is weer bezig' glimlachte mijn vrouw, toen ze opkeek van haar boek. Dat leek haar wel een gepaste manier om het plotse achtergrondlawaai te identificeren. Deze mini mens wordt verkocht inclusief huisje: een broodbakmachine. Die machine die je kan programmeren om op een bepaald moment te starten en dan te vergeten. Wanneer je dan weer helemaal vergeten bent dat er iets geprogrammeerd is om voor jou in actie te schieten, vult de keuken zich met een licht gebrom. \nl
 '_Rammel, rammel, klots, klots_'. Stilte. \nl
@@ -21,7 +25,7 @@ Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit
 \index{Baker's Percentage}
 
 Zo'n kabouter in huis halen brengt heel wat voordelen met zich mee. Afhankelijk van zijn expertise, kan je hem bijvoorbeeld vragen om ‘s morgens een vers brood klaar te hebben. Wat is er nu zaliger dan te worden gewekt door de geur van vers gebakken brood? Er zijn verschillende rassen van kabouters die grotere en kleinere broden kunnen bakken. \nl
-Mijn Panasonic kabouter werkte het liefste met `550 gr` bloem en `320 gr` water - dat is een '_baker's percentage_' of water/bloem verhouding van `58%` [^1]. Het resultaat is een mooi broodje van iets minder dan `800 gr`. Als je een groot gezin hebt is dat nauwelijks voldoende, en zal je elke dag een grote kabouter moeten laten zweten. Al een geluk dat slavenarbeid bij kabouters nog is toegestaan, ook al geven ze na een aantal jaar trouwe dienst de geest... 
+Mijn Panasonic kabouter werkte het liefste met `550 gr` bloem en `320 gr` water - dat is een '_baker's percentage_' of water/bloem verhouding van `58%` [^1]. Het resultaat is een mooi broodje van iets minder dan `800 gr`. Als je een groot gezin hebt is dat nauwelijks voldoende, en zal elke dag je grote kabouter moeten zweten. Al een geluk dat slavenarbeid bij kabouters nog is toegestaan, ook al geven ze na een aantal jaar trouwe dienst de geest... 
 
 Als het even meezit is je kabouter ook voorzien van een manier om extra’s als noten en zaden toe te voegen aan je brood. De Panasonic had bovenaan een aparte laadklep om zulke ingrediënten in te bewaren. Het programma beslist dan zelf, nét voordat het klaar is met kneden, om de klep naar beneden te laten. Op die manier zijn je rozijnen niet stuk gekneed maar toch nog mooi verdeeld over je brood. \nl
 Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer doordacht in elkaar gezet hebben. Dat werkte in de praktijk vrij goed en werd begeleid met een bevredigend '_klonk_' geluid wanneer de rozijnen op je deeg belandden. 
@@ -41,11 +45,6 @@ Veelgemaakte fouten zijn het niet laten afkoelen van het brood, of vergeten goed
 
 Misschien heb je over het hoofd gezien dat het brood klaar was, of kom je pas veel later thuis. In dat geval is het brood in een gesloten machine afgekoeld. Omdat het vocht geen kant op kon, heeft de korst alle hardheid verloren. \nl
 Gefaalde experimenten zijn de beste bron van ervaring. In dit geval leerde ik dat korstvorming gepaard moet gaan met verdamping. Het vocht van een beetje deeg dat is blijven hangen rond de kneedhaak in bakblik kan ook volledig verdampen, met als gevolg dat de haak volledig vast zit. Dat maakt de afwas van deze kaboutertjes er niet bepaald plezanter op.
-
-\includepdf[
-    scale=2.5,
-    addtolist={1, figure, {Zuurdesembrood van de broodbakmachine, met zichtbaar gat van de kneedhaak.}, img:gat}
-]{gat.jpg}
 
 Een broodbakmachine kan dienen als een leuke inleiding tot de broodbak wereld. Zonder verdere interesse blijft het echter bij een introductie. Het kostte mij een jaar, en verschillende andere invallen van toeval, voordat ik mij afvroeg wat ik eigenlijk aan het doen was bij het starten van het proces. \nl
 Er gebeurt iets magisch als je bloem, water, gist en zout samen kapt en op '_start_' drukt. Maar wat dat iets nu precies is, daar had ik geen flauw benul van. In ieder geval is het een goed systeem om kennis te maken met de basis stappen van het broodbakproces: kneden, rusten en bakken. En dat allemaal zonder de handen zelf vuil te maken. \nl
@@ -91,7 +90,11 @@ Twee jaar later ging het echte broodbak werk pas van start: we kochten een huis,
 [^2]: Een persoon die een pizza maakt in pizzeria's. Pizza + -aiolo, gebruikt om de namen te vormen van degenen die een beroep of activiteit uitoefenen. Plus, het klinkt ongelofelijk hip. 
 [^ding]: Er is zelfs onderzoek uitgevoerd naar de halogeenlamp-magnetroncombinatie bij het bakken op kwaliteit van brood, en deze te vergelijken met andere bakmethoden [@keskin2004bread]. Het gebrek aan een rechtstreekse, conventionele warmtebron betekent immers dat je korst steevast moet inboeten aan volume en kleur. 
 
-### Juni 2012
+### De ontdekking van iets meer
+
+\begin{flushright}
+Juni 2012
+\end{flushright}
 
 Het mislukte focaccia experiment weerhield me er niet van op zoek te gaan naar meer. Ik vloek graag als er iets mis gaat, maar ik leer er ook graag iets uit. Waarom was dat zo plat en zuur geworden, op zo'n relatief korte tijd? \nl
 Tijdens mijn zoektocht naar informatie kwam ik een blog tegen waar een bijzonder ingewikkelde werkwijze uit de doeken werd gedaan om een '_zuurdesem starter_' aan te maken [^3]. Die starter werd gradueel opgekweekt door op regelmatige tijdstippen een beetje water en een beetje meel toe te voegen. Na enkele weken zou de aanwezigheid van luchtbelletjes een teken moeten zijn van witte rook. Ik had geen flauw idee wat ik aan het doen was, maar het werkte wel. Op dat moment reikte mijn kennis maar net zover dat ik juist in staat was alle instructies letterlijk op te volgen, en blijkbaar met succes. Ik was wat ze in het Dreyfus model een '_novice_' noemen, iemand zonder eigen oordeelvermogen die nog nood heeft aan strikte regels [@dreyfus1980five]. 

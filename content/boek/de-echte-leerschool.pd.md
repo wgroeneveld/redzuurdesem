@@ -2,7 +2,11 @@
 
 > ‘_Bread baking is making water stand up._’ - Een vakman aan het woord.
 
-### November 2015
+### Een ontdekking van fysieke arbeid
+
+\begin{flushright}
+November 2015
+\end{flushright}
 
 ‘Dit is jouw kamer voor de komende weken.’ Rose drukt op de lichtknop en ik kijk de kamer rond. Een ingezakt tweepersoonsbed dat zijn beste tijd gehad heeft, een aftandse zetel, een lege garderobe en een leeslamp. 
 ‘Perfect, meer heb ik niet nodig. Bedankt!’ Ik laat mijn tas vallen en kijk even uit het raam. Aan de overkant van de straat kan je recht in andere appartementen kijken. Gordijnen ontbreken aan beide kanten. Een onbehaaglijk gevoel overvalt mij.\nl
@@ -63,11 +67,6 @@ Ik kreeg mijn eerste werkdag een _TODO_ lijst toegestoken. Snelle krabbels, niet
 ‘Roep maar als er iets niet lukt!’ schreeuwde ze me na, terwijl ze naar voren liep om daar te beginnen aan haar eigen werk. 
 
 En zo begon ik mijn eerste dag met mijn mouwen op te stropen, de weegschaal in het stopcontact te steken, en bloem af te wegen. 
-
-\includepdf[
-    scale=1.1,
-    addtolist={1, figure, {Mijn beste vriend: de Salva patisserie oven.}, img:salva}    
-]{salva.jpg}
 
 #### Dag 2
 
@@ -150,12 +149,6 @@ Sofie en ik kletsen graag over thuis, en eindigen dan meestal met een bespreking
 
 Ik kende voor mijn stage totaal niets van het reilen en zeilen in de horeca.  Mijn respect voor de sector steeg met de dag. Het was voor mij een hele nieuwe wereld die open ging. Of ik die wereld op lange termijn geweldig zou blijven vinden, kon ik niet beantwoorden. Dankzij het restaurant gedeelte van de zaak leerde ik niet alleen in een bakkerij mee te draaien, maar ook de interne werking van een (top-)restaurant. 
 
-
-\includepdf[
-    scale=1.7,
-    addtolist={1, figure, {Houtvezel rijsmandjes in rekken.}, img:mandjes}
-]{superette.jpg}
-
 #### Dag 6
 
 Ik schakel de hulp van Sophia in om mijn argwaan tegen de perfecte baktijd van die vervloekte canelés onder controle te krijgen. Toch slagen we er samen in om de oven een paar seconden te lang uit het oog te verliezen. 
@@ -222,8 +215,9 @@ Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn r
 \index{Pizza}
 
 Mijn meest dierbare herinneringen aan De Superette hebben niets te maken met brood, maar met pizza. Elke zaterdagavond was het _pizza night_. Om in de sfeer te komen werden geroosterde champignons ingelegd, een half kaaswiel met de hand geraspt, olijventapenade met een ongezonde hoeveelheid look gemaakt, en deegballen een dag op voorhand gekneed om ze de kans te geven genoeg smaak te ontwikkelen. Als er zondag nog deeg over was, gebruikten we die om een variant van platbrood te bakken. Die extra dag geeft het gerecht nog meer smaak, ook al draagt het niet de iconische naam 'pizza'. 
-De korte maar intense baktijd geeft de knisperige korst zijn kenmerkende structuur en houdt het kruim zacht. Een luchtige _cornicione_ (korstrand) bereiken zonder de korst te hard te bakken is erg belangrijk in Italië. \newline
-Wat is het verschil tussen pizzadeeg en brooddeeg? Dat is een strikvraag. Er is helemaal geen verschil, de principes zijn identiek. Zeg dit nooit tegen een Italiaan, want die zal bij hoog en bij laag beweren dat het hem om de speciale zachte _Tipo `00`_ bloem te doen is, of om dat geutje (uiteraard Italiaanse) toegevoegde olijfolie. Dat zijn slechts details die formule per formule verschillen. Het allerbelangrijkste principe, de controle van fermentatie, is een gemeenschappelijk doel voor brood en pizza. Elke op tarwe gebaseerde formule zal een smakelijk gerecht produceren, of het nu wordt gebakken als brood of wordt platgeslagen en belegd als pizza. 
+De korte maar intense baktijd geeft de knisperige korst zijn kenmerkende structuur en houdt het kruim zacht. Een luchtige _cornicione_ (korstrand) bereiken zonder de korst te hard te bakken is iets waar _pizzaiolo's_ naar streven. \nl
+Wat is het verschil tussen pizzadeeg en brooddeeg? Dat is een strikvraag. Er is helemaal geen verschil, de principes zijn identiek. Zeg dit nooit tegen een Italiaan, want die zal bij hoog en bij laag beweren dat het hem om de speciale zachte _Tipo `00`_ bloem te doen is, of om dat geutje (uiteraard Italiaanse) toegevoegde olijfolie. Dat zijn slechts details die formule per formule verschillen. Het allerbelangrijkste principe, de controle van fermentatie, is een gemeenschappelijk doel voor brood en pizza. Elke op tarwe gebaseerde formule zal een smakelijk gerecht produceren, of het nu wordt gebakken als brood of wordt platgeslagen en belegd als pizza. \nl
+De volgende formule is samen met het Altamura deeg uit hoofdstuk \ref{altamurabrood} een van de favorieten van ons gezin.
 
 | Hoeveelheid | Percentage | Beschrijving                         |
 |:-----------:|:----------:|:-------------------------------------|
@@ -232,7 +226,7 @@ Wat is het verschil tussen pizzadeeg en brooddeeg? Dat is een strikvraag. Er is 
 | `670 gr`    | `67%`      | Water                                |
 | `20 gr`     | `2%`       | Zout                                 |           
 
-Table: Formule voor pizza.
+Table: Formule voor pizza.\label{pizzaformule}
 
 Waarvan voor het voordeeg (`10%` van de bloem):
 
@@ -242,14 +236,13 @@ Waarvan voor het voordeeg (`10%` van de bloem):
 
 Methode:
 
-- _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
-- _Dag 1, 23u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
-- _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24 °C`.
-- _Dag 2, 07u10_: 1u. Bulkrijs I.
-- _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bulkrijs II.
-- _Dag 2, 09u10_: 1,5u. Opnieuw vouwen. Bulkrijs III.
-- _Dag 2, 10u40_: 10min. Vormgeven.
-- _Dag 2, 10u50_: 1,5u. Narijs op `24 °C`.
-- _Dag 2, 12u20_: 55min. Bakken op `240 °C`.
+- _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
+- _Dag 1, 20u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
+- _Dag 2, 10u00_: Kneden. Eerste rijs op `24 °C`
+- _Dag 2, 14u00_: Vorm geven. Tweede rijs in koeling op `6 °C`.
+- _Dag 2, 18u00_: Uit koeling halen en laten rusten.
+- _Dag 2, 19u00_: Beleggen en onmiddellijk bakken.
 
-Het crèmekleurige `T65` gecombineerd met een klein beetje meel geeft voldoende kracht zonder het beleg te overweldigen. 
+Het crèmekleurige `T65` gecombineerd met een klein beetje meel geeft voldoende smaak zonder het beleg te overweldigen. Weeg bij het vormen stukjes van ongeveer `230 gr`. \nl
+Ik hou van pizza met een dunne bodem maar dikke korstrand. Het is een kwestie van bewuste keuzes maken tijdens het beleggen om dat te kunnen bereiken. Te veel beleg geeft te veel vocht af, wat de kansen op een krokante bodem verkleint. Peter Reinhart schrijft in zijn liefdesverklaring voor pizza, '_American Pie_', een goede tip wat dat betreft: '_the rule of three_' [@reinhartpizza]. Beleg maximum drie verschillende dingen. Je mag zelf kiezen of je de saus meetelt of niet. \nl
+Deze formule is perfect om op vrijdag te beginnen, om op zaterdagavond te kunnen bakken. Het is echter nog beter als je de deegballejes een dag later uit de koelkast haalt, zoals het zondagse platbrood van De Superette. 

@@ -3,7 +3,11 @@
 
 \label{intermezzo}
 
-### Juli 2018
+### Het leven van een champagneboer
+
+\begin{flushright}
+Juli 2018
+\end{flushright}
 
 In Venteuil, een klein dorpje in de Champagne streek te Frankrijk dat vijfhonderd hele inwoners telt, ligt wijnmaker Autréau-Lasnot[^lasnot]. Er zijn honderden grote en kleine champagneboeren gevestigd in de streek - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkorven. \nl
 Ik drink geen alcohol, maar dat is geen reden om een uitgebreid bezoek aan deze streek af te slaan. Ik hou van alles wat met fermentatie te maken heeft. Het alcoholisch bijproduct is dan voor mij natuurlijk jammer, maar terwijl iedereen zich bezat aan de verschillende proeverijen kan ik vrolijk wat rondkijken. 

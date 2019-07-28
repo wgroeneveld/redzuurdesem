@@ -56,8 +56,8 @@ Als laatste wil ik met mijn sterke technische achtergrond en persoonlijk verhaal
 
 ## Gewenste vormgeving
 
-Aangezien het hier eerder over een leesboek gaat dan een praktische handleiding, zijn er geen expliciete wensen op gebied van vormgeving, behalve de inclusie van eigen gemaakte foto's, die thematisch perfect bij elk hoofdstuk passen. Een foto zou één complete pagina in beslag kunnen nemen, en één keer om de 10 tot 20 pagina's, of per hoofdstuk, verschijnen. \newline
-Het opgestuurde manuscript bevat omwille van beperkingen in bestandsgrootte geen foto's. 
+De inclusie van eigen gemaakte foto's, die thematisch perfect bij elk hoofdstuk passen, zal een grote meerwaarde betekenen. Een foto zou één complete pagina in beslag kunnen nemen, en één keer om de 10 tot 20 pagina's, of per hoofdstuk, verschijnen. \newline
+Het opgestuurde manuscript bevat omwille van beperkingen in bestandsgrootte geen voorbeelden van foto's. 
 
 Voetnoten vormen samen met referenties een belangrijk onderdeel van het boek. Om de lezer niet te verwarren verwacht ik de met superscript aangeduide voetnoten op dezelfde pagina terug te vinden, en referenties op het einde van het boek, zoals momenteel vormgegeven in het manuscript.
 

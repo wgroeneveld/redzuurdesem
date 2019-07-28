@@ -10,7 +10,7 @@ Voedsel verspillen is nooit leuk, en met een beetje creativiteit hoeft het ook n
 
 ### Te veel desem
 
-Het onderhouden van een zuurdesemcultuur vereist regelmatige opkweekfases waarin een deel van de verzuurde desem weggegooid wordt. Dat wegwerpen is goed voor de composthoop, maar kan ook voor andere doeleinden gebruikt worden. Het te veel van zuurdesem tijdens het opkweken gooi ik meestal weg omdat de zuurtegraad de smaak en rijskracht te zeer beïnvloedt. Het is heel eenvoudig om 'te veel' aan actieve desem te hebben, door gewoon wat meer bloem en water te gebruiken. Veel bakboeken spreken over het onderhouden van meer dan `100 gr` desem. Dat is absurd: meer dan de helft daarvan is plots overschot. Ik houd mijn starter altijd zo klein mogelijk. Een eetlepel toevoegen aan voordeeg is meer dan voldoende om de dag erna hevig borrelend verwerkt te worden in brooddeeg. Als alles is opgebruikt en de nood er toch is om een beetje zuurdesem ergens toe te voegen, gebruik dan gewoon wat van je starter zelf. 
+Het onderhouden van een zuurdesemcultuur vereist regelmatige opkweekfases waarin een deel van de verzuurde desem weggegooid wordt. Dat wegwerpen is goed voor de composthoop, maar kan ook voor andere doeleinden worden gebruikt. Het te veel van zuurdesem tijdens het opkweken gooi ik meestal weg omdat de zuurtegraad de smaak en rijskracht te zeer beïnvloedt. Het is heel eenvoudig om 'te veel' aan actieve desem te hebben, door gewoon wat meer bloem en water te gebruiken. Veel bakboeken spreken over het onderhouden van meer dan `100 gr` desem. Dat is absurd: meer dan de helft daarvan is plots overschot. Ik houd mijn starter altijd zo klein mogelijk. Een eetlepel toevoegen aan voordeeg is meer dan voldoende om de dag erna hevig borrelend verwerkt te worden in brooddeeg. Als alles is opgebruikt en de nood er toch is om een beetje zuurdesem ergens toe te voegen, gebruik dan gewoon wat van je starter zelf. 
 
 #### Om zoetigheid te bakken
 
@@ -116,19 +116,19 @@ Zeg nu nog eens dat die stinkende pot azijn in de koelkast niet veelzijdig kan z
 
 > _To tan small hides such as mink, rabbit, ermine or muskrat, first wash the hide with lukewarm soapy water, using a mild soap. Lay the skin on a  at board, hair side down. Cover it with a thick batter of sourdough. When dough begins to dry, start working the skin. Rub it with a circular motion against the palm of the left hand. Rub and knead the skin until it is dry and soft._[^uaf]
 
-Volgens diezelfde bronnen zou zuurdesem ook gebruikt worden om lijm te maken, maar die bewering was nog moeilijker te verifiëren. Dat het plakkerig is ligt voor de hand, maar of het blijft hangen is een andere zaak. 
+Volgens diezelfde bronnen zou zuurdesem ook worden gebruikt om lijm te maken, maar die bewering was nog moeilijker te verifiëren. Dat het plakkerig is ligt voor de hand, maar of het blijft hangen is een andere zaak. 
 
 #### Gedroogd als smaakversterker
 
 \index{Pizza}
 
-Deze manier om gedroogde desem als smaakversterker te gebruiken heb ik via Karl De Smedt van Puratos leren kennen. Hij noemt het '_fleur de levain_'. In plaats van het zoute _fleur de sel_ kan ook dit zure poeder propvol umami gebruikt worden om gerechten af te werken[^fleurlevain]. \nl
+Deze manier om gedroogde desem als smaakversterker te gebruiken heb ik via Karl De Smedt van Puratos leren kennen. Hij noemt het '_fleur de levain_'. In plaats van het zoute _fleur de sel_ kan ook dit zure poeder propvol umami worden gebruikt om gerechten af te werken[^fleurlevain]. \nl
 Het is eenvoudig zelf te maken door verdunde desem in de oven te laten drogen. Hoe hoger de temperatuur van de oven, hoe donkerder het eindresultaat, en hoe nootachtiger en gebrander de smaak. Ook met de hoeveelheid water en de fermentatietijd kan je spelen om de intensiteit van het poeder te bepalen. \nl
 Karl raadde me aan om dit te gebruiken in plaats van gewone tarwebloem om een werkoppverlvak te bebloemen, bij het maken van pizza's bijvoorbeeld. De smaak van de eerste hap wordt versterkt door dit veelzijdig poeder, dat plakt aan de korst tijdens het bakken. 
 
 Dit proces wordt bij Puratos op grote schaal gebruikt om hun gedroogde type III desems mee te produceren. Het kan dan dienen als smaakmaker, maar niet als rijsmiddel. Edelgistvlokken, dat onder andere verkocht wordt in natuurvoedingswinkels als veganistisch alternatief voor Parmezaan, is dan _fleur de levure_, een gedeactiveerde giststam van _Saccharomyces cerevisiae_. 
 
-[^fleurlevain]: In feite kan _fleur de levain_ gebruikt worden om het zoutgehalte in brood te verlagen. De zure smaak met zoute toetsen geeft dezelfde sensatie in de mond, ook al zit er helemaal geen zout in. 
+[^fleurlevain]: In feite kan _fleur de levain_ worden gebruikt om het zoutgehalte in brood te verlagen. De zure smaak met zoute toetsen geeft dezelfde sensatie in de mond, ook al zit er helemaal geen zout in. 
 
 ### Te veel gebakken brood
 
@@ -148,7 +148,7 @@ Dat rokerige, aardse aroma komt van verbrande stukjes toast, die daarna verder g
 
 #### Als verdikkingsmiddel in sauzen
 
-Verbrand of niet verbrand: gebakken brood in gemalen vorm is een prima kandidaat om veel vocht op te nemen. Dat maakt het de ideale kandidaat als verdikkingsmiddel in koude sauzen die tijd nodig hebben om smaak te ontwikkelen, zoals _aioli_. In plaats van een aardappel kan een sneetje brood in soep gebruikt worden om de soep te binden. Het traditioneel Belgisch gerecht, stoofvlees, wordt vaak gebonden met een boterham besmeerd met mosterd. Gebruik de volgende keer eens een dik stuk zuurdesembrood in plaats van een sponzig smaakloos brood. Plots is je saus nog lekkerder, zonder te moeten grijpen naar dat blokje bouillon vol artificiële smaakversterkers. 
+Verbrand of niet verbrand: gebakken brood in gemalen vorm is een prima kandidaat om veel vocht op te nemen. Dat maakt het de ideale kandidaat als verdikkingsmiddel in koude sauzen die tijd nodig hebben om smaak te ontwikkelen, zoals _aioli_. In plaats van een aardappel kan een sneetje brood in soep worden gebruikt om de soep te binden. Het traditioneel Belgisch gerecht, stoofvlees, wordt vaak gebonden met een boterham besmeerd met mosterd. Gebruik de volgende keer eens een dik stuk zuurdesembrood in plaats van een sponzig smaakloos brood. Plots is je saus nog lekkerder, zonder te moeten grijpen naar dat blokje bouillon vol artificiële smaakversterkers. 
 
 #### Broodpudding
 
@@ -173,7 +173,7 @@ Mijn ervaring met kvass maken leerde me die additieven een nacht mee te laten we
 
 Kvass is, net zoals brood, waarschijnlijk 'per ongeluk' uitgevonden, door een stukje brood dat toevallig in een teil water belandde, zoals zo poëtisch omschreven op de website van Troggeling[^troggeling], Gents bier gebrouwen met zuurdesembrood. _Rechtstreeks van de oven naar de ketel_, klinkt het. Het brood vervangt een deel van de gerstemout tijdens het koken van de wort. De rest van het bierbrouwproces blijft ongewijzigd.
 
-Het Britse Wild Beer Co brouwt bier met een zuurdesemcultuur in eikenhouten vaten[^wildbeer]. Dus niet alleen oud brood, maar zelfs een teveel aan zuurdesem zelf, kan gebruikt worden om mee te brouwen. In dit geval zijn het de melkzuurbacteriën die zorgen voor een bier in de stijl van lambiek. Volgens Wild Beer Co zit er geen hop in om de 'extra verfrissende' smaak van zuurdesem naar boven te laten komen. 
+Het Britse Wild Beer Co brouwt bier met een zuurdesemcultuur in eikenhouten vaten[^wildbeer]. Dus niet alleen oud brood, maar zelfs een teveel aan zuurdesem zelf, kan worden gebruikt om mee te brouwen. In dit geval zijn het de melkzuurbacteriën die zorgen voor een bier in de stijl van lambiek. Volgens Wild Beer Co zit er geen hop in om de 'extra verfrissende' smaak van zuurdesem naar boven te laten komen. 
 
 [^wildbeer]: [https://www.wildbeerco.com/item/277/Beer/Sourdough.html](https://www.wildbeerco.com/item/277/Beer/Sourdough.html)
 [^troggeling]: [http://troggeling.be/](http://troggeling.be/)

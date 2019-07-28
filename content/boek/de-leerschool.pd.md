@@ -4,7 +4,11 @@
 
 > '_Mensen koken niet meer maar stellen gerechten samen. Potje hier, flesje daar. Ze halen geen vijzel meer bij maar halen hun masala uit een kant-en-klaar zakje!_' - De Smaak Van De Verovering, Michael Krondl
 
-### September, 2014: Jaar 1
+### Jaar 1
+
+\begin{flushright}
+September 2014
+\end{flushright}
 
 ‘Ja mensen! Laten we er aan beginnen, want het is _pompen_ vandaag! Als iemand alle grondstoffen afweegt en iemand het sandwich deeg draait in de spiraalmixer, kan de rest de taartvormpjes bekleden.’ We bevinden ons in de kelders van het Syntra gebouw te Hasselt. De bakkerij ligt naast de slagerij, tegenover de cafetaria. \nl
 ‘Hoe moet dat weer, sandwiches?’ vraagt iemand. \nl
@@ -31,7 +35,7 @@ In één les wordt er natuurlijk meer dan één gebak gemaakt. Voordat we daar a
 ‘Ghislain! Help!’ Aan die kreet wen je heel snel op een vrijdagavond. Als het ene groepje aan het worstelen is met het sandwich deeg, dan is het andere groepje waarschijnlijk pudding aan het laten aanbranden of room tot boter aan het kloppen. Het is een spelletje ping-pong, waarbij de leraar constant van het ene probleem naar het andere moet lopen. gelukkig dalen het aantal problemen per avond naargelang de jaren verstrijken en wij basistechnieken onder de knie krijgen. 
 
 Het eerste jaar is echt spannend: er zijn zoveel nieuwe dingen om te ontdekken. De oven is uniek en net zoals alle andere ovens, wispelturig. Je kan naast de temperatuur ook de vochtigheidsgraad instellen van de grote rijskast. In een hoekje jongleren we met hete pudding. Twee koelkasten vol aan eieren, melk en boter. Zes lockers aan ingrediënten zoals verschillende soorten en vormen suiker, noten, kruiden en smaakstoffen. Er zijn drie kneders om te verkennen: twee van Sinmag met verschillende koppelstukken en één snelkneder met spiraal waar makkelijk `5 kg` aan deeg in verdwijnt. De kneedmachines zijn wel veel minder indrukwekkend dan die van de bakkerijen die ik al bezocht voordat ik aan de opleiding begon, maar deze mochten we tenminste zelf hanteren! \nl
-Dan heb ik het nog niet over de magistrale uitroltafel gehad, die gebruikt wordt om `5 kg` bladerdeeg in een handomdraai te fabriceren. 
+Dan heb ik het nog niet over de magistrale uitroltafel gehad, die wordt gebruikt om `5 kg` bladerdeeg in een handomdraai te fabriceren. 
 
 De bergen afwas die er elke avond bij kwamen kijken wekte iets minder enthousiasme op. \nl
 ‘We werken met een beurtrol elke les mensen: één iemand is _chef_ en is verantwoordelijk om te kijken of de rest zijn werk heeft gedaan. Per twee ben je van dienst aan de afwas, het proper maken van de machines of borstelen.’ legde Ghislain uit. Het rotatie systeem werkte zo goed dat iedereen na een paar weken genoeg verantwoordelijkheidsgevoel had om spontaan die taken op zich te nemen. Dat ik in een super sympathieke groep terecht gekomen ben helpt daar ook veel bij. 
@@ -61,11 +65,6 @@ Als beginnende leerling romantiseer je de stiel: je stelt je een gelukkige bakke
 De meeste van mijn medestudenten hadden zich ingeschreven als hobby. Het instituut hoopt natuurlijk dat je later ook effectief iets gaat doen met je verkregen diploma. Toch bestaan avondopleidingen voornamelijk uit hobbyisten, en dagopleidingen uit professionelen in spé. Er waren mensen die al verschillende andere langdurige cursussen achter de rug hadden, en mee deden om iets te doen te hebben op een avond. Misschien om het gezeur van thuis te ontlopen. Ik hoop dat Kristien in mijn geval wel beter weet. Er waren ook mensen die reeds in een taartenwinkel werkten, en misschien later hun eigen zaak wilden opstarten. Iedereen had zijn eigen verwachtingspatroon en dat van mij bestond uit één doel: meer leren over _brood bakken_. 
 
 Dat is niet gebeurd.
-
-\includepdf[
-    scale=1.1,
-    addtolist={1, figure, {'Zwaantjes': kunstig gevormd soezenbeslag met te veel slagroom.}, img:zwaantjes}    
-]{syntra2.jpg}
 
 De opleiding bestaat uit verschillende grote modules zoals beslagen, taarten, zachte luxe, harde luxe, bladerdeeg en chocolade. Er was veel variatie, maar één ding ontbrak: de nadruk op brood bakken. Als afgestudeerde krijg je de titel van '_brood- en banketbakker_’, met klaarblijkelijk een duidelijke nadruk op dat laatste. 
 
@@ -146,7 +145,7 @@ Het is inderdaad zo dat het gebruik van verbeteraars het proces vergemakkelijkt.
 Wanneer je drie jaar werkt met verbeteraars en dan zelf een bakkerij zou beginnen, krijg je onmogelijk een standvastig resultaat in je eigen bakkerij zonder die toevoegingen. Nooit leren werken zonder hulpmiddel werkt verslavend. Meer dan de helft van de Belgische bakkerijen werkt altijd met die producten, inclusief de niet-industriële. Laat je niets anders wijsmaken: ik heb de plastieken dozen zien staan in zo goed als alle bakkerijen die ik bezocht. \nl
 Het leukste (en meest uitdagende) aan brood bakken is juist leren omgaan met die variabelen. De temperatuur van het deeg en de omgeving, de hoeveelheid gluten in je bloem, de rekbaarheid en plakkerigheid van je deeg, de juiste rijstijd, ...  
 
-[^14]: Geloof de uitleg van Jeroen Meus niet, die het verschil tussen boerenboter (of hoeveboter) en melkerijboter toeschrijft aan een artisanaal of industrieel product. Beiden zijn synoniemen die afhankelijk van de marketingsstrategie van het product gebruikt worden. In boter vervaardigd uit melk zit tenminste `82%` vet. Geklaarde boter, of '_ghee_', is puur botervet zonder de overgebleven `18%` water. Dat laatste is niet geschikt voor een bakker, maar wel om te bakken in de pan: het kan hogere temperaturen aan dan `180° C`, voordat het vet aanbrandt. 
+[^14]: Geloof de uitleg van Jeroen Meus niet, die het verschil tussen boerenboter (of hoeveboter) en melkerijboter toeschrijft aan een artisanaal of industrieel product. Beiden zijn synoniemen die afhankelijk van de marketingsstrategie van het product worden gebruikt. In boter vervaardigd uit melk zit tenminste `82%` vet. Geklaarde boter, of '_ghee_', is puur botervet zonder de overgebleven `18%` water. Dat laatste is niet geschikt voor een bakker, maar wel om te bakken in de pan: het kan hogere temperaturen aan dan `180° C`, voordat het vet aanbrandt. 
 
 Wist je trouwens dat het vet-, eier- en suikergehalte van producten die de label ‘_fijnbakkerij_’ dragen wettelijk is vastgelegd, met een minimum en maximum?[^15] 
 
@@ -166,7 +165,7 @@ Laat ons eens de individuele componenten van een verbeteraar onder de loep nemen
 
 - _Suikers_: voeding voor de gist en om het brood beter te kleuren. Sommige soorten suikers worden sneller dan anderen omgezet door de gist. Daarom bevatten de meeste bereidingsmiddelen meer dan één soort suiker.[^meerhfx]
 - _Enzymen_: een enzym is een eiwit dat zorgt voor een stofwisseling dat afgescheiden wordt door een micro-organisme. De meeste Westerlingen hebben lactase in hun darmstelsel om lactose om te zetten. Toegevoegde amylasen zetten de suikers sneller om in zetmeel waardoor het brood sneller rijst. Pentosaan-afbrekende enzymen binden het water beter en zorgen voor een soepeler deeg[^meerhfy].
-- _Melk_: melkpoeder of melkeiwitpoeder kleurt het brood en geeft het dat karakteristiek zachte kruim. Dit wordt niet gebruikt in harde luxe verbeteraar. Soja bestanddelen kunnen ook gebruikt worden om meer eiwitten toe te voegen in het brood.
+- _Melk_: melkpoeder of melkeiwitpoeder kleurt het brood en geeft het dat karakteristiek zachte kruim. Dit wordt niet gebruikt in harde luxe verbeteraar. Soja bestanddelen kunnen ook worden gebruikt om meer eiwitten toe te voegen in het brood.
 - _Oxidoredactoren_: onder andere ascorbinezuur of vitamine C versnelt de ontwikkeling van het deeg tijdens het kneden.
 - _Vetstoffen_: geeft een beter kruim en onder andere een langere houdbaarheid. 
 - _Emulgatoren_:  zorgen voor een betere verdeling (‘_emulgeren_’) van vloeistoffen die normaal niet zo makkelijk mengbaar zijn, zoals vetten. Monoglyceriden en lecithine zijn hier voorbeelden van.
@@ -181,7 +180,7 @@ Het komt erop neer dat als ik als consument niet weet welke stoffen exact in mij
 [^16]: Zie [http://www.unifa.be/start/publicaties/nl](http://www.unifa.be/start/publicaties/nl). [http://www.classofoods.com](http://www.classofoods.com) gaat dieper in op deze stoffen en hun chemische reacties. 
 
 Door gebruik te maken van een verbeteraar is de bakker beschermd tegen de onfortuinlijke problematiek van mogelijke schommelingen op temperatuur, kneedtijd, kwaliteit van bloem, vochtigheidsgraad, en rijstijden. Het wordt verkocht als een soort super middel, en dat is niet gelogen: er zijn in de lessen vaak dingen fout gelopen, waarvan er niets meer te zien was na het bakken. \nl
-De aanwezige kleurstoffen wekken de indruk dat eieren of roomboter gebruikt zijn. Wat mensen die het gebruik van E-nummers ophemelen vergeten te erkennen is dat het op grote schaal gebruikt wordt om consumenten te misleiden. 
+De aanwezige kleurstoffen wekken de indruk dat eieren of roomboter gebruikt zijn. Wat mensen die het gebruik van E-nummers ophemelen vergeten te erkennen is dat het op grote schaal wordt gebruikt om consumenten te misleiden. 
 
 Het gevolg van leunen op de kwaliteiten van een verbeteraar is de totale industrialisatie van het bakproces. Op het moment dat een bakker zo’n product gebruikt durf ik niet meer te spreken van een echte _ambacht_. 
 De meeste componenten vormen inderdaad geen bedreiging voor je gezondheid. Het zijn stoffen die terug te vinden zijn in natuurlijke grondstoffen. Melkpoeder is niets meer dan gedroogde melk. Het lecithine in een eidooier zorgt bij het maken van mayonaise voor de noodzakelijke binding met de vette olie. De vraag is in hoeverre er nog het woord ‘natuurlijk’ op geplakt kan worden als deze stoffen in een reactor worden geproduceerd om vervolgens te worden verwerkt tot bijvoorbeeld een verbeteraar. 
@@ -209,12 +208,11 @@ Al een geluk dat er vitamine in zit! Het zou houdbaar zijn voor exact 182 dagen 
 
 Die dingen had ik allemaal niet ontdekt als ik de avondschool niet gevolgd had. Op een bepaalde manier ben ik wel dankbaar dat ik mocht kennis maken met deze producten. Vanaf het ogenblik dat je begint aandacht te geven aan de smaak of de geur van iets als een croissant, begin je dingen te herkennen. Wat aandacht krijgt, groeit. Ben je al ooit eens op huizenjacht geweest? Daarvoor was nog geen enkel huis te koop - althans niet voor een ongeoefend oog. Plots lijkt het alsof elk huis in de buurt te koop staat, ongelofelijk! Dat gevoel werkt als een spier: hoe meer je het traint, hoe meer het je opvalt en je er op kan vertrouwen. Die drie jaren als brood- en banketbakker in spé werden onze 'botergeur-spieren' enorm hard getraind. De armspieren zijn relatief gespaard gebleven dankzij intensief gebruik van de snelkneder. 
 
-\includepdf[
-    scale=1.9,
-    addtolist={1, figure, {Sandwichdeeg met geweekte rozijnen.}, img:rozijnen}
-]{syntra.jpg}
+### Jaar 2
 
-### September, 2015: Jaar 2
+\begin{flushright}
+September 2015
+\end{flushright}
 
 ‘Als de eieren niet dezelfde temperatuur als de boter hebben, gaan ze de boter doen klonteren. Zet het krat maar in de oven Wouter, we gaan ze dadelijk nodig hebben.’ Ghislain wijst naar de kapotte onderste verdieping die wij misbruiken als verwarmingselement om boter en eieren tot kamertemperatuur te brengen. \nl
 ‘Mag ik de boter ook al smelten?’ vraagt Patrick.\nl
@@ -311,9 +309,11 @@ Vullen of voeden, jij kiest...
 
 [^20]: Dat betekent nog niet dat bakkers die speculaas verkopen zich hier aan houden. 
 
-\includepdf[scale=1.7]{syntra3.jpg}
+### Jaar 3
 
-### September, 2016: Jaar 3
+\begin{flushright}
+September 2016
+\end{flushright}
 
 Het laatste jaar van de opleiding is in feite een grote aanloop naar de ultieme test: het examen. Er worden drie eindexamens afgenomen: bedrijfsbeheer (de meeste mensen beschikken al over dit diploma door hun middelbaar af te werken), beroepskennis (de theorie) en praktijk (de C-proef). Het theoretisch examen test je kennis rond onder andere de wetgeving, hygiëne in de bakkerij en verhoudingen in formules. Het praktijkexamen vormt een hele leuke uitdaging: de hele dag bakken! Het was toegestaan om afwashulp in te schakelen, maar ik kreeg Kristien niet overtuigd om een dag verlof hiervoor te nemen. \nl
 'Dan kan je de hele dag proeven en ons zien werken, is dat niet geweldig?'\nl

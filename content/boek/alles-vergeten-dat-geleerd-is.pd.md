@@ -5,7 +5,11 @@
 
 > ‘_Food made with love is good. \newline Food made without is not._’ - Maurizio Negrini
 
-### Februari 2014
+### Van ingenieur naar bakker
+
+\begin{flushright}
+Februari 2014
+\end{flushright}
 
 ‘Heb je enig idee wat voor vuiligheid daar allemaal in zit?’ Peter kijkt ons even ongeduldig aan en hervat daarna zijn taak om de bakkerij op orde te brengen. \nl
 ‘Weet jij wat voor een rommel mensen tegenwoordig allemaal eten?’ Pannen worden op elkaar gestapeld, bloemresten bij elkaar geveegd.\nl
@@ -77,7 +81,11 @@ We bedanken Peter hartelijk voor zijn tijd en krijgen nog een brood mee om te pr
 
 Dat was mijn eerste kennismaking met een échte volledig operationele bakkerij, los van de ruimte in de avondschool. Maar mijn persoonlijke queeste naar zuurdesem, eenvoud, en het natuurlijke bracht me naar deze ene bakkerij in Genk. Ik was ervan overtuigd dat er nog veel meer te leren viel van andere openhartige bakkers. De wilde ideeën om misschien zelf ooit zo zot te zijn maakte zulke bezoekjes best wel spannend. Terug onderweg naar mijn écht werk probeer ik zoveel mogelijk die gedachten te verdringen, zonder veel succes. Door de toestroom van nog meer vragen dikte die obsessie met brood alleen maar aan. Ik besloot daarom om Willy Herteleer te bezoeken, de leermeester die Peter zijn kennis en bakkerij heeft nagelaten. 
 
-### Oktober 2014
+### Van gewone naar biologische bakkerij
+
+\begin{flushright}
+Oktober 2014
+\end{flushright}
 
 Willy heeft de bakkerij van zijn vader overgenomen, dat toen gevestigd was in een ander pand op dezelfde André Dumontlaan te Genk. \nl
 ‘Ik heb er een natuurbakkerij van gemaakt’ klinkt het trots. Ik zit samen met Willy en zijn vrouw in de living bij hun thuis, op een gure doordeweekse oktoberavond. Toen hij hoorde dat ik zo enthousiast was over brood en natuurlijke ingrediënten, nodigde hij me uit voor een gezellig gesprek over zijn gloriejaren. \nl

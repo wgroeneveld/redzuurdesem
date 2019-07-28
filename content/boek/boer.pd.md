@@ -7,6 +7,10 @@
 
 ### De boer
 
+\begin{flushright}
+Juni 2019
+\end{flushright}
+
 Ik ken de velden op de site van Herkenrode mijn hele leven, maar ik stond er nooit bij stil wat er precies geteeld werd. Het geeft een speciaal gevoel om zelfgebakken brood te eten dat, buiten het Franse zout, honderd procent aan lokale ingrediënten bevat. En met lokaal bedoel ik _lokaal_: het graan groeit in vogelvlucht één kilometer van ons huis. Toen ik Pieter Coopmans, de Herkenrodeboer, leerde kennen, was de Stevoortse molen nog niet gecertificeerd en werd er dus noodgedwongen gemalen in Wallonië. Ondertussen zijn er van het proces heel wat onnodige kilometers afgeschraapt. \nl
 Mijn bloem kocht ik jaren bij Pieter aan huis, waarbij we ondertussen een praatje maakten over (soms letterlijk) koetjes en kalfjes. Voor workshops bestelde ik er af en toe in grotere hoeveelheden. \nl
 Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe die tarwekorrel van zaadje tot fijngemalen bakmateriaal in mijn meelzak belandde. Omdat ik Pieter zijn kant van het verhaal beter wilde begrijpen, spraken we op een avond af om de koetjes en kalfjes achterwege te laten. 
@@ -57,7 +61,7 @@ Via Pieter kwam ik in contact met Jeroen van Vaerenbergh, die zijn passie voor a
 'Dus daar kan weer verder mee gekruist worden om onze gewassen diezelfde resistentie te geven?' vraag ik. \nl
 'Natuurlijk, maar dan heb je na een aantal jaren hetzelfde probleem met een andere ziekte. Die gewassen zijn op dit moment erg populair vanwege hun verhaal. Dat kan dan weer duurder worden verkocht. Het is goed om af en toe terug te blikken naar technieken van het verleden om te gebruiken in de toekomst. Maar die verandering, daar moet zowel de organische boer als de grootschalige industrie voor open staan.'
 
-Jeroen geeft enkele voorbeelden uit het verleden. 'Neem nu de deeleconomie waarbij brouwersgist door de bakker gebruikt werd. Mensen denken dat er maar twee grote stromingen bestaan: industrieel brood met commerciële gist, en het de oude werking met zuurdesem. Voor 1800 werd de bovenste schuimlaag bij het vergisten van graan door bakkers gebruikt als gist. De gekookte granen die de brouwer anders weggooide, werden door de bakker verder verwerkt in brood. Tegenwoordig is het hip om zulke dingen te hergebruiken. Vroeger was dat uit pure noodzaak.' \nl
+Jeroen geeft enkele voorbeelden uit het verleden. 'Neem nu de deeleconomie waarbij brouwersgist door de bakker werd gebruikt. Mensen denken dat er maar twee grote stromingen bestaan: industrieel brood met commerciële gist, en het de oude werking met zuurdesem. Voor 1800 werd de bovenste schuimlaag bij het vergisten van graan door bakkers gebruikt als gist. De gekookte granen die de brouwer anders weggooide, werden door de bakker verder verwerkt in brood. Tegenwoordig is het hip om zulke dingen te hergebruiken. Vroeger was dat uit pure noodzaak.' \nl
 De wisselwerking tussen twee ambachten werd in tijden van hongersnood aan banden gelegd. Het Duitse _Reinheitsgebot_[^rein] stelt dat er enkel water, hop en gerst gebruikt mag worden voor de productie van bier. Als de brouwer alle tarwe in de bierproductie verbruikt, blijft er voor de bakker (en uiteindelijk het hongerige volk) niets meer over. Hetzelfde gelde voor de peperkoekproductie die door gildes in steden nauwgezet in de gaten werd gehouden. Peperkoek was toen een luxeproduct dat soms te snel door graanreserves sneed door het gebruik van grote hoeveelheden rogge.
 
 [^rein]: Deze omstreden wet werd sinds 1516 verschillende keren herwerkt, maar houdt tot op de dag van vandaag nog steeds stand. Ondertussen zijn er een aantal ingrediënten aan toegevoegd, en is het type graan minder strikt. Sommige deskundigen beweren dat dit de Duitse bierindustrie enorm heeft vertraagd terwijl anderen spreken van een groot commercieel succes.
@@ -73,6 +77,10 @@ Broodtarwe werd voor de negentiende eeuw nauwelijks puur geteeld maar eerder gec
 Pieter en Jeroen verschaften me inzicht in alles wat met het telen van graan te maken heeft, maar daarmee kom ik nog niet tot een volle meelzak. Hoe zit dat nu precies met oxidatie en opslag, met het al dan niet malen op een steen, en met het mengen van verschillende soorten bloem? Die antwoorden vond ik in een piepklein Belgisch dorpje genaamd Poeke, een deelgemeente van Aalter. 
 
 ### De molenaar
+
+\begin{flushright}
+Juli 2019
+\end{flushright}
 
 In het midden van niets ligt de tweehonderd jaar oude Artemeersmolen van Poeke. Om de windmolen te bereiken moet je tien minuten zigzaggend door de velden rijden op veel te kleine betonnen wegen, onderweg biddend dat er niet nog iemand uitgerekend nu bloem nodig heeft. Net als je begint te wennen aan de glooiende omgeving van het Meetjesland, moet je op je rem trappen. Kristien en ik waren op terugreis van een weekje uitwaaien aan de Belgische Kust. Voor eender wat dat met brood te maken heeft maak ik graag een omweg (en ik had beloofd dat het niet te lang ging duren). \nl
 We ontmoetten Mike Ekelschot en zijn partner in crime Soetkin Kuypers op een warme maandagmiddag. In 2014 kocht beroepsmolenaar Mike deze molen om er terug een professionele bakkersmolen van te maken, onder de bedrijfsnaam Flour Power.
@@ -132,6 +140,10 @@ Op de terugweg in de auto is het een tijdje heel stil. De passie en openheid van
 
 ### De brouwer
 
+\begin{flushright}
+April 2019
+\end{flushright}
+
 De bakker en de brouwer hadden vroeger een hechte relatie. In feite was die relatie in de Middeleeuwen zo intiem dat bakkers en brouwers ingedeeld werden in dezelfde gilde, of zelfs vaak éénzelfde persoon waren. Repelsteeltje was één van die meesters van de gist, die 's nachts tijdens de arbeid graag een liedje zong:
 
 > _Heute back ich, morgen brau ich,\newline
@@ -170,7 +182,7 @@ Ik leerde achteraf dat pils, beter bekend in het Vlaams als een _pintje_ (of _da
 
 Geuze, of algemener _lambiek_, is niet zomaar in onder- of bovenfermentatieve bieren te categoriseren. Hier is spontane gisting de belangrijkste factor, die bij niet-industriële brouwerijen nog in koperen koelschepen op de zolder plaatsvinden. Met die blootstelling aan de plaatstelijke buitenlucht hopen brouwers _Brettanomyces lambicus_ te vangen, en in een latere fase ook soorten _Lactobacillus_. Zelfs de eikenhouten vaten waar lambiek nog jaren in verder gist blijken een grote invloed te hebben op de aanwezige micro-organismen in het bier [@spitaels2014microbial]. Lambiek is een van de laatst overgebleven oerbieren, en sluit het beste aan bij zuurdesem als fermentatie methode. 
 
-Historisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de 19de eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak is de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op bovenfermentatie. Met zuiver theoretische classificaties kom je maar zo ver. 
+Historisch gezien brouwt men in Noord-Europa reeds sinds de veertiende eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de negentiende eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak is de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op bovenfermentatie. Met zuiver theoretische classificaties kom je maar zo ver. 
 
 \index{Esters}
 \index{Esters!Ethylbutyraat}
@@ -180,10 +192,10 @@ Historisch gezien brouwt men in Noord-Europa reeds sinds de 14de eeuw via onderf
 '_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welke gisten zitten er dan nog in bier?' onderbrak ik hem. \nl
 'Ha,' zei Gert, 'dat hangt van de biersoort af die je wilt brouwen hé. Ik koop in Brouwland[^brwl] een soort van twee-componenten pakketje aan dat ik opkweek. Dat is die vloeibare gist. Het ene component bevat de gisten in, en de andere de starter, voeding voor de organismen. Elk pakket is specifiek voor een soort bier, gaande van een gewoon licht blond biertje tot iets Westmalle-achtig met het aroma van banaan.' \nl
 'Banaan?' Ik trok een vies gezicht. \nl
-'Banaan, ja. Als je dat ruikt, dan weet je, ze hebben die soort gist gebruikt.' Wetenschappers vermoeden dat gisten zulke _esters_, een chemische klasse van organische verbindingen, produceren om insecten aan te trekken, die zorgen voor verdere verspreiding van de gisten [@saerens2010production]. Een bepaalde ester genaamd Ethylbutyraat is verantwoordelijk voor de banaan-achtige geur. 
+'Banaan, ja. Als je dat ruikt, dan weet je, ze hebben die soort gist gebruikt.' Wetenschappers vermoeden dat gisten zulke _esters_, een chemische klasse van organische verbindingen, produceren om insecten aan te trekken, die zorgen voor verdere verspreiding van de gisten [@saerens2010production]. Een bepaalde ester genaamd '_Ethylbutyraat_' is verantwoordelijk voor de banaan-achtige geur. 
 
 'Maar je kweekt geen gisten zelf op, vanaf nul, zoals ik met mijn desem doe?' Ik nam een flinke slok van mijn appelsap. Lekker, minder zuur dan ik verwachtte. Misschien geen goed idee in combinatie met de frieten die ook nog aan het fermenteren zijn in mijn maag. \nl
-'Neen, da's zuiver labo werk. Daar hou ik mij niet mee bezig. Er zijn zoveel manieren om nog extra smaak toe te voegen voordat bier gedronken kan worden. Neem nu de mout. Hoeveel water gebruikt wordt bij het ontkiemen van de granen, de kiemduur, hoe dit terug gedroogd wordt, noem maar op: alles heeft invloed op de smaak. Of de hop die meegekookt wordt. Die komt van Joris Cambie uit Poperinge, trouwens.' Vloeibare gist. Ik vermoedde dat het hier om een gelijkaardig product ging dat ook verkocht wordt door Puratos, maar dan op maat gemaakt voor brouwers. 
+'Neen, da's zuiver labo werk. Daar hou ik mij niet mee bezig. Er zijn zoveel manieren om nog extra smaak toe te voegen voordat bier gedronken kan worden. Neem nu de mout. Hoeveel water wordt gebruikt bij het ontkiemen van de granen, de kiemduur, hoe dit terug gedroogd wordt, noem maar op: alles heeft invloed op de smaak. Of de hop die meegekookt wordt. Die komt van Joris Cambie uit Poperinge, trouwens.' Vloeibare gist. Ik vermoedde dat het hier om een gelijkaardig product ging dat ook verkocht wordt door Puratos, maar dan op maat gemaakt voor brouwers. 
 
 [^kva]: Het brouwen van kvass is beschreven in hoofdstuk \ref{kvass}.
 [^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. 
@@ -215,7 +227,7 @@ Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brou
 
 [^draf]: Ook bekend als _bierbostel_. 
 
-Ik wist dat ook het graan van Pieter door Gert gebruikt werd om bier te brouwen: Arvum, Belgisch Blond Bier met een natuurlijk karakter. Op de label van de flesjes staat:
+Ik wist dat ook het graan van Pieter door Gert werd gebruikt om bier te brouwen: Arvum, Belgisch Blond Bier met een natuurlijk karakter. Op de label van de flesjes staat:
 
 > _Net als de akker moet de geest soms rusten om weer vruchtbaar te worden._
 
@@ -261,7 +273,7 @@ _Flocculation: High_ \newline
 _Usage Directions: Sprinkle directly on up to 23 L (6 US Gal) of wort. For best results, ferment at 18-25 degrees C (64-77 degrees F)._ \newline
 _Storage Recommendations: Store in the fridge._
 
-Recensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken om te bakken. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies gebruikt wordt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. 
+Recensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken om te bakken. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies wordt gebruikt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. 
 
 Ik kocht een Jessenhofke speciaalbier en gebruikte het in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met enkel `100 gr` bloem en `100 gr` bier, dat een nacht de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg op basis van zuurdesem. \nl
 De volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit, terwijl de bottelgist van het bier duidelijk nog geen zin had om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. Deze gisten zijn duidelijk niet gekweekt om op relatief korte tijd te fermenteren. \nl
@@ -295,7 +307,7 @@ Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten 
 ### Bier brood met draf
 
 Gert was zo vriendelijk me een beetje draf te geven om uit te proberen in brood. Als je geen toegang hebt tot dit restproduct van het bierbrouwen, kan je in plaats daarvan hele tarwe- of gerstgranen grof malen en een uur koken. \nl
-Deze grote stukken zemelen werken als naalden in het deeg en doorprikken constant de zorgvuldig opgebouwde glutenstructuur. Hoe meer van deze ingrediënten gebruikt worden, hoe moeilijker het wordt om een luchtig brood te bakken. Door deze grove granen niet aan het begin van het kneden toe te voegen, maar halverwege de eerste rijs, omzeilen we dit probleem gedeeltelijk. \nl
+Deze grote stukken zemelen werken als naalden in het deeg en doorprikken constant de zorgvuldig opgebouwde glutenstructuur. Hoe meer van deze ingrediënten worden gebruikt, hoe moeilijker het wordt om een luchtig brood te bakken. Door deze grove granen niet aan het begin van het kneden toe te voegen, maar halverwege de eerste rijs, omzeilen we dit probleem gedeeltelijk. \nl
 Een andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Gekookte granen leveren immers zelf ook water aan. \nl
 Om in het thema van brouwen te blijven, is een deel van het water vervangen door bier. Gebruik eender welk lokaal beschikbaar karaktervol bier van hoge gisting dat niet té veel alcohol bevat. Door de totale rijstijd te reduceren en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
 
