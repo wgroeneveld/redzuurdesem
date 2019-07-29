@@ -8,7 +8,9 @@ date: 2019-07-29
 ---
 # Synopsis
 
-Dit document bevat een korte synopsis van het boek '_Red Zuurdesem: Een persoonlijke zoektocht naar de smaak en wetenschap van brood_', geschreven door [Wouter Groeneveld](https://brainbaking.com/about/). 
+Dit document bevat een korte synopsis van het boek '_Red Zuurdesem: Een persoonlijke zoektocht naar de smaak en wetenschap van brood_', geschreven door [Wouter Groeneveld](https://brainbaking.com/about/)[^wogr]. 
+
+[^wogr]: Contactgegevens: \newline Adres: Wouter Groeneveld, X, BE-X, België. \newline Email: `wouter.groeneveld@gmail.com` \newline Telefoon: `+32`
 
 ## Flaptekst
 
@@ -61,5 +63,5 @@ Als laatste wil ik met mijn sterke technische achtergrond en persoonlijk verhaal
 De inclusie van eigen gemaakte foto's, die thematisch perfect bij elk hoofdstuk passen, zal een grote meerwaarde betekenen. Een foto zou één complete pagina in beslag kunnen nemen, en één keer om de 10 tot 20 pagina's, of per hoofdstuk, verschijnen. \newline
 Het opgestuurde manuscript bevat omwille van beperkingen in bestandsgrootte geen voorbeelden van foto's. 
 
-Voetnoten vormen samen met referenties een belangrijk onderdeel van het boek. Om de lezer niet te verwarren verwacht ik de met superscript aangeduide voetnoten op dezelfde pagina terug te vinden, en referenties op het einde van het boek, zoals momenteel vormgegeven in het manuscript. pre
+Voetnoten vormen samen met referenties een belangrijk onderdeel van het boek. Om de lezer niet te verwarren verwacht ik de met superscript aangeduide voetnoten op dezelfde pagina terug te vinden, en referenties op het einde van het boek, zoals momenteel vormgegeven in het manuscript. 
 

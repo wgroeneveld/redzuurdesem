@@ -9,6 +9,14 @@ pre: "<i class='fa fa-leanpub'></i> "
 
 # Uitgeverijen
 
+[X] NL Kosmos - opgestuurd manuscripten@kosmosuitgevers.nl
+
+[X] NL Atlas Contact - opgestuurd manuscripten@atlascontact.nl
+
+[X] BE Lannoo - opgestuurd culinair&sport@lannoo.be
+
+[X] BE Standaard Uitgeverij - opgestuurd info@standaarduitgeverij.be
+
 - https://www.singeluitgeverijen.nl -> neemt niets meer aan
 - http://www.unieboekspectrum.nl/pagina/faq -> Amsterdam, aanvaart niets per e-mail, opletten formaat
 - https://www.kosmosuitgevers.nl/manuscripten/ -> nonfictie eten & drinken/gezondheid, past goed, 50pag samenvatting sturen, NU
