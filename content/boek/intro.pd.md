@@ -2,7 +2,7 @@
 
 ## Voorwoord
 
-TODO
+Wordt geschreven na acceptatie van het manuscript.
 
 ## Inleiding
 
@@ -12,10 +12,10 @@ TODO
 Februari 2019
 \end{flushright}
 
-Niet iedereen voelt van kleins af aan wat hij wil worden later. Dat was bij mij niet zo. De constante aanwezigheid van een beeldscherm, hetzij een computer, hetzij een Game Boy, verraadde mijn toekomstige interesse in softwareontwikkeling. Ik had weinig hobby's als kind, maar zolang het '_bleep_' zei, en mijn ogen er slechter van werden, was ik stil. \nl
+Als iemand me vroeg wat ik later wilde worden, hoefde ik daar nooit lang over na te denken. Ik bracht erg veel tijd door in het gezelschap van gameboys en computers. Zolang het maar '_bleep_' zei en mijn ogen er slechter van werden, was ik stil. \nl
 Eten was leuk, maar hield me niet bezig. Dacht ik. Maar toch, op een of andere manier, zijn een aantal smaken in mijn onderbewustzijn terecht gekomen die mij nooit meer zullen loslaten. \nl
 Een van die smaken is eentje van Spaans brood. Zuurdesembrood, weet ik nu. De jaarlijkse familievakanties naar Spanje hebben buiten een fascinatie voor cactussen dus toch nog iets anders opgebracht: een ijzersterke herinnering van _geur_ en _smaak_. \nl
-Dat ik meer dan 10 jaar later op zoek zou gaan naar de oorsprong van die geur en smaak, kon ik me toen onmogelijk inbeelden. Het zaadje was geplant. 
+Dat ik meer dan tien jaar later op zoek zou gaan naar de oorsprong van die geur en smaak, kon ik me toen onmogelijk inbeelden. Het zaadje was geplant. 
 
 Mijn vader heeft zolang als ik me kan herinneren altijd zelf brood gemaakt, net zoals zijn vader. Zondag mochten mijn zussen en ik langer slapen, totdat je bruut werd gewekt door het helse gepiep van de kneedmachine, die onverstoorbaar een paar kilo deeg tegen de randen van de kom sloeg. Enkele uren later rook het hele huis naar vers gebakken brood ter compensatie: dat maakte veel goed. \nl
 Het was extra opletten geblazen wanneer de snijmachine werd aangezet om het brood in sneetjes te verdelen. Voordat het merendeel in de diepvries verdween was het een kwestie van vechten - en hopelijk winnen - om het korstje (of, stel u voor, misschien zelfs twee korstjes) te kunnen bemachtigen. We leken wel kippen die vochten om een stukje brood en elkaar daarna achterna liepen. 
@@ -54,7 +54,7 @@ Hoe meer ik bijleerde over het effect van tijd op voedsel, hoe meer ik gefascine
 Ik probeer altijd de zo traag mogelijke route te nemen op gebied van eten, omdat ik ondertussen uit ervaring weet dat het niet alleen beter zal smaken, maar ook beter zal zijn voor mijn darmen. Dat laatste gaat voor speculaas helaas blijven pijn doen na het verorberen van de derde...
 
 Het enige juiste alternatief is hoge standaarden hanteren als het op voedsel aankomt. Mijn interesse in brood ontstond uit noodzaak en groeide uit tot een ware obsessie. Ik wil daarom graag mijn bewustwording en enthousiasme met jullie delen. \nl
-Het boek is opgedeeld in drie delen: praktijk (I), theorie (II), en methode (III). Net zoals bij programmeren, komt het er op aan om zo veel mogelijk te falen. Falen, vloeken, deeg weggooien, en opnieuw proberen. Dit komt uitvoerig aan bod in deel \ref{praktijk}. Zoals Jeffrey Hamelman zegt: '_Experiment, play, realize that failure isn’t really failure, it’s an edible part of your evolution as a baker._' En net zoals bij programmeren, moet dat oefenen onderbouwd worden met een stevige theoretische basis. Onvoldoende inzicht betekent onvoldoende kansen kunnen grijpen om te kunnen leren van al dat falen (of omgekeerd). Die theorie bewaren we voor deel \ref{theorie}. \nl
+Het boek is opgedeeld in drie delen: praktijk (I), theorie (II), en methode (III). Net zoals bij programmeren, komt het er op aan om zoveel mogelijk te falen. Falen, vloeken, deeg weggooien, en opnieuw proberen. Dit komt uitvoerig aan bod in deel \ref{praktijk}. Zoals Jeffrey Hamelman zegt: '_Experiment, play, realize that failure isn’t really failure, it’s an edible part of your evolution as a baker._' En net zoals bij programmeren moet dat oefenen worden onderbouwd met een stevige theoretische basis. Onvoldoende inzicht betekent onvoldoende kansen kunnen grijpen om te kunnen leren van al dat falen (of omgekeerd). Die theorie bewaren we voor deel \ref{theorie}. \nl
 De praktische hoofdstukken worden vergezeld met een recept dat aansluit bij het centraal thema van elk deel. Uitleg over het gebruik van deze recepten is terug te vinden in hoofdstuk \ref{bakkenhf}, aan het begin van deel III.
 
 Waarom zou iemand de wetenschap van het bakken van brood willen leren? De meeste wetenschappelijke experimenten bereikten pas tractie in de twintigste eeuw. Brood wordt al zesduizend jaar door de mens gebakken, zonder enige kennis van microbiologie of chemie. \nl

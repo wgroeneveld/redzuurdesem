@@ -60,7 +60,7 @@ Bij te veel restaurants wordt een snee boerenbrood geserveerd waarvan het zicht 
 [^cmolen]: De Commandeursmolen ligt in Nederlands Mechelen, achter Maastricht. Het is aangedreven door water, en een van de weinige molens in de buurt die grote hoeveelheden op steen gemalen meel kan leveren, inclusief roggebloem. 
 
 Mijn handen jeuken. Ik zie een twintigtal rieten rijsmandjes naast hem op de inoxen werktafel. Het is er druk: koks zijn volop bezig met de voorbereidingen van de avondservice. \nl
-‘Dit gebeurt letterlijk tussen de soep en de patatten. We hebben nog wat moeite om de juiste plaats te vinden om het brood te doen rijzen. Het tocht te veel op die plek en het is te warm op een andere plek. We hebben niet zoveel ruimte tot onze beschikking, dit is immers een keuken, en geen bakkerij.’ Dimitry geeft een korte rondleiding. \nl
+‘Dit gebeurt letterlijk _tussen de soep en de patatten_. We hebben nog wat moeite om de juiste plaats te vinden om het brood te doen rijzen. Het tocht te veel op die plek en het is te warm op een andere plek. We hebben niet zoveel ruimte tot onze beschikking, dit is immers een keuken, en geen bakkerij.’ Dimitry geeft een korte rondleiding. \nl
 ‘Hier vanachter hebben we plaats voor het kneden en bakken.’ Voorbij de gasvuren, de heteluchtovens, en de koelkasten kom ik in een ruimte terecht waar een spiraalkneder en een steenoven met twee verdiepen staat. \nl
 ‘De oven is nog nieuw voor ons, pas aangeschaft. We zijn nu aan het zoeken hoe we die het beste kunnen instellen voor ons brood.’ \nl
 ‘Zijn jullie pas begonnen met brood bakken dan?’ vraag ik. Dimitry schudt zijn hoofd.
@@ -68,14 +68,14 @@ Mijn handen jeuken. Ik zie een twintigtal rieten rijsmandjes naast hem op de ino
 ‘Hier zijn we onlangs mee begonnen. Er is lunch voorzien op vrijdag- en zondagmiddag. Het is momenteel nog aftasten en enkel op reservatie. We zijn normaal ‘s middags niet open.’ Ik zie zuurdesem pizza en een bescheiden variatie van open sandwiches op het menu staan. 
 
 Er wordt twee keer per week gebakken om voldoende brood te kunnen hebben voor het restaurant en de bistro. Er zijn ook plannen om het brood te verkopen als het experiment succes blijkt te hebben. Het idee is ontstaan toen Dimitry en Johan een fermentatie workshop volgden in Stockholm. Er werd niet alleen over groenten inleggen gepraat, maar ook een excursie gemaakt naar ‘Bageriet Brød’[^bag], een zuurdesem bakkerij in de buurt. Eenmaal de smaak te pakken (letterlijk dan) zijn Dimitry en Johan begonnen met experimenteren in Tongeren, met behulp van de bekende boeken van Chad Robertson [@tartine]. \nl
-Hun desem starter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is redelijk loperig. Die wordt op een zeer hoge temperatuur gehouden: tussen de `30` en `35° C`. De hoge temperatuur en humiditeit is verantwoordelijk voor die typische zoete melkzuur geur. Ze maken ook gebruik van een nachtelijke fermentatie in de koelkast, in rijsmandjes. \nl
+Hun desem starter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is redelijk loperig. Die wordt op een zeer hoge temperatuur gehouden: tussen `30` en `35° C`. De hoge temperatuur en humiditeit is verantwoordelijk voor die typische zoete melkzuur geur. Ze maken ook gebruik van een nachtelijke fermentatie in de koelkast, in rijsmandjes. \nl
 ‘Johan is twee dagen gaan meedraaien in de bakkerij in Stockholm. Er is superveel goed brood in die stad[^diestad]. Hun moederdeeg is heel warm. Ik zoek altijd een geschikte plek om onze starter de juiste temperatuur te geven.’ Dimitry haalt het potje van de kast en laat mij er aan ruiken. \nl
 ‘Dit ruikt zoals de gefermenteerde degen van De Superette, die waren ook redelijk warm. Zoet.’ Ze waren tijdens mijn stage op bezoek in Gent om Sarah wat tips te vragen. 
 
 [^bag]: [https://www.instagram.com/bagerietbrod/](https://www.instagram.com/bagerietbrod/)
 [^diestad]: Lees hier meer over in het artikel '_Why is Stockholm obsessed with sourdough_': [https://www.norwegian.com/magazine/features/2013/02/why-is-stockholm-obsessed-with-sourdough](https://www.norwegian.com/magazine/features/2013/02/why-is-stockholm-obsessed-with-sourdough)
 
-‘Er zijn nog een hoop dingen waar we meer controle over willen krijgen’, zegt Dimitry, terwijl hij zijn kamut broden vormt en in mandjes legt. \nl
+‘Er zijn nog heel wat dingen waar we meer controle over willen krijgen’, zegt Dimitry, terwijl hij zijn kamut broden vormt en in mandjes legt. \nl
 ‘De koelkast van het restaurant staat op `1` tot `2° C`, het brood rijst veel moeilijker zo. Ik kan het niet maken om dit hoger te zetten vanwege vlees en we hebben nog geen aparte koelkast’. Brood dat ik thuis bak laat ik bijvoorbeeld een nacht rijzen op `7° C`, maar dat is natuurlijk mijn eigen koelkast, en ik heb geen restaurant (en vlees noch vis). \nl
 ‘Onze kneedmachine kan maar een deeg van `4 kg` aan, dus we moeten dingen in twee-drie keer doen als we een ander brood willen bakken.’ Het is een beetje goochelen met beschikbare ruimte in de keuken. De Superette is ook een restaurant, maar heeft een afgebakend stuk gereserveerd als bakkerij, wat bij Magis ontbreekt. \nl
 ‘Worden alle broden verwerkt in jullie gerechten?’ vraag ik. 36 broden twee keer per week bakken lijkt me een grote hoeveelheid gegeven de beperkte openingstijden. \nl
@@ -113,10 +113,10 @@ In april 2019 leerde ik toevallig via een voedselbewuste vriendin van Kristien d
 
 'Hey Wouter, kom binnen jong!' Johan stond op het punt om roggebrood uit een van de ovens te toveren. Zijn joviale en uitnodigende persoonlijkheid moedigde aan om me onmiddellijk op mijn gemak te voelen, en we praatten wat. Ik vroeg hem naar de ovens die ik van formaat herkende. Het waren kleine, ronde houtovens met twee horizontaal roteerbare stenen verdiepen. Onze vroegere overbuur bakte brood in zijn schuur, waar exact dezelfde oven stond. \nl
 'Moet je de assen eruit halen voordat je kan bakken?' vroeg ik, denkend aan de oude houtoven van Bokrijk. \nl
-'Nee, in de onderste klep steek je het hout. Ik kan het u laten zien hoor, wacht.' Johan opende de klep zodat ik de gloeiende kolen kon zien. Hij gooide er wat hout bij op. Een metertje op de oven gaf iets meer dan `200 °C` aan. \nl
+'Nee, in de onderste klep steek je het hout. Ik kan het u laten zien hoor, wacht.' Johan opende de klep zodat ik de gloeiende kolen kon zien. Hij gooide er wat hout bij op. Een metertje op de oven gaf iets meer dan `200°C` aan. \nl
 'Dit hout is echt geweldig. Ik ken een trappenmaker hier in de buurt, die mij overschot aan hoge kwaliteit eikenhout kan leveren. Dat brandt volledig op, geeft het langste en meeste hitte af, en het minste roetdeeltjes.' Hij glimlachte breed. \nl
 'Andere mensen zouden nogal opkijken, wat ik hier opstook kan in feite nog dienen om meubels mee te maken!' \nl
-'Stralingshitte is wat ik nodig heb,' gaat Johan verder. 'Ik begin bij rond de `280 °C` en zak stilletjesaan tot in de `200`. Dan is het tijd om bij te stoken. ' \nl
+'Stralingshitte is wat ik nodig heb,' gaat Johan verder. 'Ik begin bij rond de `280°C` en zak stilletjesaan tot in de `200`. Dan is het tijd om bij te stoken. ' \nl
 'Maar dat duurt misschien lang om op te stoken?' \nl
 'Drie kwartier.' \nl
 'Amai dat is snel. Mijn elektrische oven heeft anderhalf uur nodig.' Johan begint te lachen. \nl
@@ -142,7 +142,7 @@ Toen ik vroeg naar zijn zuurdesem, was Johan zelfs zo vriendelijk om zijn broodb
 'Kijk, Da's mijn _leaven_[^leavenjoh]. Die staat nu ongeveer twee uur. Bijna klaar, zie ik.' Hij opent een grote doos vol loperige zuurdesem. Ik ruik voornamelijk de zoete toets van tarwe, en nauwelijks een spoortje van azijnzuur. \nl
 'Twee uur? Wow die is snel klaar! Ik laat die thuis twaalf uur staan.' Maar daar is het veel kouder dan in deze warme bakkerij. \nl
 'Is dat volledig volkoren tarwe, of nog steeds half/half?' vraag ik. \nl
-'Dat hangt af van het seizoen, omdat het in de zomer nog sneller werkt. Ik wissel de verhoudingen af tussen de `80:20` en `50:50`.' \nl
+'Dat hangt af van het seizoen, omdat het in de zomer nog sneller werkt. Ik wissel de verhoudingen af tussen `80:20` en `50:50`.' \nl
 'En de rijstijden?' \nl
 'Eerste rijs twee tot drie uur met een keer of twee plooien tussenin. Ik begin dadelijk te kneden als dit hier op punt staat.' Johan schudt met de doos vol zuurdesem. \nl
 'Rond vier of vijf uur in de namiddag gaat alles in rijsmandjes de koeling in, om 's morgens vroeg te bakken.' 
@@ -169,7 +169,7 @@ We werden hartelijk ontvangen door Juliette en bestelden thee om de kou van de g
 ‘Daar hangt zoveel bloem aan de bovenkant?’ wees ze. Dat duidt op het gebruik van rijsmandjes die slap deeg de nodige ondersteuning bieden bij het rijzen. \nl
 Op de broodzak staat de volgende tekst:
 
-> ‘_De Veldkeuken op Amelisweerd. Smaak, kwaliteit, ambacht en eenvoud. Dat vinden wij op het landgoed en in de streek. Groente, fruit en kruiden komen zo veel mogelijk uit de moestuinen van het landgoed. Kaas, melk, eieren, boter, kwark en (slag)room komen uit de directe omgeving van Amelisweerd.
+> ‘_De Veldkeuken op Amelisweerd. Smaak, kwaliteit, ambacht en eenvoud. Dat vinden wij op het landgoed en in de streek. Groente, fruit en kruiden komen zoveel mogelijk uit de moestuinen van het landgoed. Kaas, melk, eieren, boter, kwark en (slag)room komen uit de directe omgeving van Amelisweerd.
 De Veldkeuken gebruikt 100% biologische grondstoffen._’
 
 ‘Het is hier wel leuk om te zitten na die wandeling’ zei Kristien. Ik had haar gevraagd of ze het zag zitten om een uitstapje te maken naar een mooi natuurgebied in Nederland. Kon ik er wat aan doen dat daar toevallig ook een bakkerij lag? We dronken snel onze thee uit en vertrokken op aanwijzingen van Juliette naar de bakkerij. 
@@ -184,7 +184,7 @@ Ik vraag René naar de grote kneder met één arm die in een hoek kortbij de ove
 ‘Hetzelfde probleem met de rijskast in feite. We kunnen het instellen als remkast op lage temperatuur, of als rijskast op hoge temperatuur. Maar we hebben er zo maar ééntje. Het is een beetje puzzelen om alles perfect in elkaar te laten passen.’ \nl
 ‘En hoe gaat de verkoop? Dit landgoed ligt niet erg centraal, het is toch even fietsen vanuit Utrecht. Merken jullie daar iets van?’ vraag ik. René knikt. \nl
 ‘Het brood wordt verkocht in het gebouw van de keuken zoals jullie ongetwijfeld al gezien hebben.’ \nl
-‘Ja, ’ onderbreek ik, ‘en de prijzen vallen heel goed mee. Volgens mij mag het gerust duurder geprijsd worden hoor. `3.60` EUR voor een desem brood van `900 gr`?’ \nl
+‘Ja, ’ onderbreek ik, ‘en de prijzen vallen heel goed mee. Volgens mij mag het gerust duurder worden geprijsd hoor. `3.60` EUR voor een desem brood van `900 gr`?’ \nl
 ‘Eerder `800`. Welja, we verkopen het brood via andere verkooppunten. Die winkels nemen hun eigen winstmarge daar nog eens op dus dat is weer net iets duurder. Ik wil het niet te duur maken voor de mensen die de moeite nemen om tot bij ons te komen. We hebben zo heel wat vaste klanten, tegen alle verwachtingen in.’ 
 
 [^plan]: Er waren toen wij De Veldkeuken bezochten in 2016 plannen om aan uitbreiding te doen, eventueel op een andere locatie. 
@@ -199,7 +199,7 @@ Als we het hebben over de leerstof, bevestigt René mijn ervaring. \nl
 ‘De opleiding stelt weinig voor.’ Het is jammer om te horen dat dit probleem zich ook buiten België stelt. \nl
 ‘In Duitsland komt zuurdesembrood vaker voor. Maar veel bakkerijen gebruiken industrieel zuurdesempoeder als smaakmaker in combinatie met gewone gist. Soms wordt zelfs azijn toegevoegd om de roggebroden die karakteristieke zure smaak te geven. Dat is niet bakken, dat is bedriegen.’ Consumenten worden constant belazerd, of het nu in de supermarkt is of in de bakkerij.  
 
-De enige oplossing die ik zie is bewust bezig zijn met voeding. Zo veel mogelijk te weten komen over wat er nu precies je maag binnen komt. Kritische vragen stellen als 'Wil ik dit wel eten als ik weet dat het op die manier gemaakt wordt?' of 'Sta ik hier wel achter?' Het is niet enkel een gezondheidskwestie, maar ook een belangrijke morele keuze. \nl
+De enige oplossing die ik zie is bewust bezig zijn met voeding. Zoveel mogelijk te weten komen over wat er nu precies je maag binnen komt. Kritische vragen stellen als 'Wil ik dit wel eten als ik weet dat het op die manier gemaakt wordt?' of 'Sta ik hier wel achter?' Het is niet enkel een gezondheidskwestie, maar ook een belangrijke morele keuze. \nl
 Ik eet graag brood, dus ik leerde wat goed brood was en wat niet. Op die manier kan ik beter de keuze maken om iets op te eten of het te laten liggen. Bakkerijen als De Veldkeuken verkopen hun brood duurder, maar als je weet wat daarachter zit ga je hopelijk wel bereid zijn om een euro meer te betalen. En dan zijn er altijd afzetters die hun brood aanprijzen als hét gezondheidsmiddeltje, terwijl het eigenlijk geen haar beter is als brood van de supermarkt. Ik wapen mij tegen die oplichters met kennis. \nl
 Softwareontwikkelaars zeggen vaak ‘meten is weten’ om de nadruk te leggen op het onderzoekende aspect voordat actie ondernomen wordt. In de context van voedsel kan ik ook zeggen: _weten is eten_. 
 
@@ -225,13 +225,13 @@ Vangrootloon levert niet alleen aan zijn eigen zaken, maar ook aan supermarkten 
 De website trakteert ons op slagzinnen als ‘Ruim assortiment van producten: ieder zijn smaak’ en 'Een uitgebreid aanbod aan broden: proef ze allemaal’. En dat is niet gelogen: dit is een traditionele Belgische bakkerij zoals wij Vlamingen ze graag hebben. Veel geluk met het maken van je keuze. De fabriek is best indrukwekkend: bij elke stap van het bakken van taart komt een andere machine kijken, allemaal verbonden met dezelfde band. Het deeg rolt uit de ene machine en wordt keurig uitgestoken door de andere. Een gigantische drukketel kookt de banketbakkersroom en perst de vulling op de bodem. Niet te veel, niet te weinig. De band loopt verder tot aan de oven en hup: weer een vlaai gebakken!
 
 Vangrootloon is een familiebedrijf dat in 1918 gebak verkocht met paard en kar. Ondertussen telt het bedrijf in 2019 meer dan 300 werknemers met 23 vestigingen in Limburg en Vlaams-Brabant. Het woord 'ambachtelijk' betekent voor hun werken met streekgebonden en seizoensgebonden producten. Een aardbeientaart wordt in tegenstelling tot bij veel bakkers enkel tijdens het seizoen verkocht. Het gebak wordt om vijf uur 's morgens in vrachtwagens geladen om diezelfde morgen in vitrines van lokale winkels te pronken. \nl
-Vanwege de afstand wil Vangrootloon voorlopig niet verder weg leveren dan Leuven. Toch hebben ze klanten over heel België die indien het écht nodig is voorzien kunnen worden van diepgevroren producten, eerder als uitzondering dan als regel. 
+Vanwege de afstand wil Vangrootloon voorlopig niet verder weg leveren dan Leuven. Toch hebben ze klanten over heel België die indien het écht nodig is kunnen worden voorzien van diepgevroren producten, eerder als uitzondering dan als regel. 
 
-Professionele kneedmachines zijn niet nieuw voor mij, maar grote hoeveelheden deeg zien voorbij rollen op een band om daarna netjes verdeeld en opgebold te worden wel. Zelfs de grote hoeveelheden die Sarah en haar team uit de oven in Gent tovert, stelt weinig voor in vergelijking met wat hier per uur gebeurt.\nl
-Er komt geen kwastje aan de pas wanneer de sandwiches bestreken worden met ei: ze worden met behulp van perslucht besproeid in grote rekken, om daarna automatisch in ovens gerold te worden. Alles is tot in de puntjes verzorgd en overal is rekening gehouden met hygiëne. De verkoop van grote hoeveelheden maakt het mogelijk voor Vangrootloon om te kiezen voor een lagere prijsklasse. \nl
+Professionele kneedmachines zijn niet nieuw voor mij, maar grote hoeveelheden deeg zien voorbij rollen op een band was dat wel. Zelfs de grote hoeveelheden die Sarah en haar team uit de oven in Gent tovert, stelt weinig voor in vergelijking met wat hier per uur gebeurt.\nl
+Er komt geen kwastje aan de pas wanneer de sandwiches worden bestreken met ei: ze worden met behulp van perslucht besproeid in grote rekken, om daarna automatisch in ovens gerold te worden. Alles is tot in de puntjes verzorgd en overal is rekening gehouden met hygiëne. De verkoop van grote hoeveelheden maakt het mogelijk voor Vangrootloon om te kiezen voor een lagere prijsklasse. \nl
 Dat lager prijskaartje komt echter toch met een verborgen kost: deze broden zijn gemaakt op _snelheid_, en niet op _smaak_. 
 
-In principe kan men ook op grote schaal met enkel water, bloem, gist en zout lekker brood bakken. Het probleem zit hem in de totale doorvoer van de machines. Traag kneden betekent tijd verliezen, dus minder bolletjes deeg voorbij zien rollen op de band. Snel kneden en machinaal vormgeven oefent grote druk uit op het deeg dat het gluten netwerk doet scheuren. Dat is meestal een van de momenten waarop er vertrouwd kan worden op de toegevoegde additieven. \nl
+In principe kan men ook op grote schaal met enkel water, bloem, gist en zout lekker brood bakken. Het probleem zit hem in de totale doorvoer van de machines. Traag kneden betekent tijd verliezen, dus minder bolletjes deeg voorbij zien rollen op de band. Snel kneden en machinaal vormgeven oefent grote druk uit op het deeg dat het gluten netwerk doet scheuren. Dat is meestal een van de momenten waarop er kan worden vertrouwd op de toegevoegde stoffen. \nl
 Inconsistentie is de grootste vijand van de bakker die geen kans krijgt door frequente, hetzij minimale, wijzigingen aan het proces. De ene oogst is de andere niet. Handwerk, gevoel en ervaring spelen hier veel beter op in dan een lopende band. In dat geval is het weer de verbeteraar die de dag redt. 
 
 Gelukkig is niet alles volledig geautomatiseerd. Getalenteerde bakkershanden komen aan de pas bij onder andere het maskeren van taarten met _crème au beurre_ in de koude sectie. Bakkers in dienst bij grotere fabrieken zijn specialisten die zich toeleggen op één onderdeel van het proces. Vacatures worden niet uitgeschreven als 'broodbakker gezocht', maar als 'kneed expert gezocht' of 'verdeler gevraagd'. Die industrie trekt ook verdacht veel ingenieurs aan die de verantwoordelijkheid krijgen om het productieproces nog verder te 'optimaliseren'.
@@ -278,7 +278,7 @@ Zowel René als Sarah van De Superette maken handig gebruik van dit feit door hu
 
 Ik vertel Karl over mijn opleiding en mijn ideaalbeeld om desem terug alledaags te maken. Hoe overtuig ik iemand van zuurdesem? \nl
 ‘Daar heb ik wel advies voor, moest je ooit beginnen met een micro bakkerij. Begin zoet. Mensen zijn geen complexe smaakpaletten meer gewoon. Probeer gradueel over te schakelen. Ververs je desem met korte periodes in een warme omgeving. Leer het ze eten!’ Hij neemt het potje met mijn zuurdesemcultuur dat ik had meegebracht nog eens vast en ruikt eraan. Een denkpauze volgt. \nl
-‘Zoals je desem hier. Te veel azijnzuur. Zet hem eens op `24` tot `25 °C` en ververs vaker. Ook bij het verkopen van brood hebben mensen nog te veel het idee van een klassieke _boterham_ in hun hoofd. Brood moet voor hen gebakken zijn in een bakvorm en smeerbaar zijn. Geen grote gaten, oh nee, daar valt de chocopasta uit! Bak dan ook zo’n brood, maar dan met desem. Stapje per stapje overschakelen naar een rijke smaak.’ \nl
+‘Zoals je desem hier. Te veel azijnzuur. Zet hem eens op `24` tot `25°C` en ververs vaker. Ook bij het verkopen van brood hebben mensen nog te veel het idee van een klassieke _boterham_ in hun hoofd. Brood moet voor hen gebakken zijn in een bakvorm en smeerbaar zijn. Geen grote gaten, oh nee, daar valt de chocopasta uit! Bak dan ook zo’n brood, maar dan met desem. Stapje per stapje overschakelen naar een rijke smaak.’ \nl
 ‘Bak jij thuis ook zelf brood met zuurdesem?’ vraag ik. Hij knikt bevestigend. \nl
 ‘Maar mijn vrouw heeft graag _sneekes_, zoals veel Vlamingen. Dus bak ik gewoon in een bakvorm. Maar wel met desem!’ Een knipoog. Lepe kerels, die managers. 
 
@@ -290,7 +290,7 @@ De kers op de taart is natuurlijk de bibliotheek in het Puratos Center. Dit is g
 
 Bij elke koelkast hangt een plaatje met uitleg: origine, soort bloem, methode om te onderhouden. Sommige desems zijn heel vloeibaar, maar de meesten zijn vaster. De luchtbellen en het verschil in kleur van de bloem zorgt voor een fraai schouwspel. Veel Italiaanse desems verklappen de samenwerking met een Italiaanse professor. De gouden kleur van harde durum tarwe is leuker om naar te kijken dan saaie gebleekte bloem. \nl
 ‘Betekent dit dat jullie elke dag deze desems moeten verversen?’ Karl schudt zijn hoofd. \nl
-‘Dat zou ook te veel werk vergen. Om de paar maanden doorlopen we een aantal uitgebreide opkweek fases, waarna ze teruggeplaatst worden hier in de glazen potten.’ Karl gaat zitten achter een bureau en zet de beamer aan. Een projectie over de geschiedenis van de bibliotheek vult de witte muur. \nl
+‘Dat zou ook te veel werk vergen. Om de paar maanden doorlopen we een aantal uitgebreide opkweek fases, waarna ze worden teruggeplaatst hier in de glazen potten.’ Karl gaat zitten achter een bureau en zet de beamer aan. Een projectie over de geschiedenis van de bibliotheek vult de witte muur. \nl
 ‘Dit is een bibliotheek. Betekent dit dat ik een desem kan uitlenen?’ Opnieuw hoofdschudden. \nl
 ‘Het doel van de bibliotheek is om de biodiversiteit van zuurdesem culturen te bewaren. Niet om ze zomaar uit te lenen. We zijn begonnen met 43 verschillende culturen en hebben er ondertussen meer dan 80. Zoals ik al zei zijn we geïnteresseerd in variatie. Elk jaar concentreren we ons op specifieke regio’s. Die culturen worden eerst door professor Gobbetti geanalyseerd.’ Dat klinkt als een win-win situatie: de bakkerij zijn desem is gered van een potentiële ondergang, en Puratos heeft er weer een paar bacteriestammen bij. \nl
 ‘Het is een _non-profit_ initiatief’, verzekert Karl mij, ‘het enige wat wij eisen is een jaarlijkse hoeveelheid bloem om te gebruiken bij het verversen.’
@@ -322,7 +322,7 @@ Karl laat ons telkens `2 kg` bloem en `40 gr` zout afwegen. We beginnen met het 
 'Semolina drinkt enorm veel. Misschien tot `80%`, we gaan zien. We gaan zien. Voeg nooit aan het begin in één keer al het water toe, dat kan je tot `65%`. Vanaf dan laten kneden, en gradueel toevoegen. Dan heeft het gluten netwerk ook de tijd om het water op te nemen, en kunnen we alles beter controleren.' De autolyse stap die ik thuis hanteer heeft hetzelfde doel. \nl
 Na een grondige windowpane test verdelen we het deeg in vier. Het deeg is plakkerig, maar niet onhandelbaar. \nl
 'Dat is nu wat ze _Velvet_ noemen, mannen,' glundert Karl. Fluweelzacht deeg dat aangenaam is om mee te werken. Het gevolg van lang en intensief kneden, dat deze harde tarwesoort gemakkelijk kan doorstaan. \nl
-'We gaan dat even laten rusten en in de koeling zetten tot morgen om verder te vormen en dan onmiddellijk te bakken.' Het met DOP[^dop] beschermde Altamura brood is alles behalve zuur en rijst dan ook veel korter dan mijn tarwe boerenbrood. De tweede dag bakten we het een uur op `240 °C`. Dit brood heeft een dikke korst die een romige, dichte gele structuur verbergt, ondanks de grote hoeveelheid water. 
+'We gaan dat even laten rusten en in de koeling zetten tot morgen om verder te vormen en dan onmiddellijk te bakken.' Het met DOP[^dop] beschermde Altamura brood is alles behalve zuur en rijst dan ook veel korter dan mijn tarwe boerenbrood. De tweede dag bakten we het een uur op `240°C`. Dit brood heeft een dikke korst die een romige, dichte gele structuur verbergt, ondanks de grote hoeveelheid water. 
 
 [^dop]: Een '_Denominazione di Origine Protetta_' certificaat, ofwel een bescherming van oorsprong, bepaalt dat producten lokaal gekweekt en verpakt worden. IGP, of '_Indicazione Geografica Protetta_', is een ander label dat minder strikt is. Bekende DOP producten zijn Balsamico (di Moderna), San Marzano tomaten, en uiteraard Parmezaanse kaas. 
 
@@ -370,7 +370,7 @@ De volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo e
 'Absoluut, het resultaat is telkens anders, en op die manier kan je het fermentatieproces beter inschatten en controleren.'
 
 We meten daarna dezelfde waardes voor brood dat ik drie dagen geleden bakte met diezelfde zuurdesemcultuur. Dat had een pH van `4.5` en TTA van ongeveer `7`[^ttarye]. Het brood was al wat uitgedroogd, waardoor het zuurder proefde dan de dag waarop het gebakken was. \nl
-Het pH niveau van mijn zuurdesem ligt op de grens van de aanvaarde normale waardes (tussen de `3.57` en `6`), terwijl de TTA wel redelijk oké was (tussen de `2` en `12`) [@paramithiotis2005application]. De zuurtegraad stabiliseert terug door tijdens het verversen zo goed als alles weg te gooien en in verhouding veel bloem en water te gebruiken. Dat is nu eenmaal het leven van een cultuur in de koelkast. Ik vraag Karl voor wat tips om verzuring tegen te gaan. \nl
+Het pH niveau van mijn zuurdesem ligt op de grens van de aanvaarde normale waardes (tussen `3.57` en `6`), terwijl de TTA wel redelijk oké was (tussen `2` en `12`) [@paramithiotis2005application]. De zuurtegraad stabiliseert terug door tijdens het verversen zo goed als alles weg te gooien en in verhouding veel bloem en water te gebruiken. Dat is nu eenmaal het leven van een cultuur in de koelkast. Ik vraag Karl voor wat tips om verzuring tegen te gaan. \nl
 'Wel, ik zou een tijdje een vastere desem maken, en het in water bewaren. Dat neemt de zuren op, zoals bij een Italiaanse panettone desem. Chinezen voegen alkali toe voor hun gestoomde broodjes, die willen absoluut geen zure smaak. Maar gewoon een aantal keer vaker verversen op kortere tijdstippen zal ook al helpen. Om de vier uur bijvoorbeeld. En 's nachts ook opstaan hé!' Dat laatste advies volg ik al door enkele dagen voor het bakken de cultuur terug op te kweken. 
 
 [^ttarye]: Het betrof een `80%` tarwebloem, `20%` roggemeel, `5%` boekweit brood met `70%` water en `2.3%` zout. Een typische pH waarde voor roggebrood met `70%` rogge of meer is `4.4`, en `4.7` voor gemengd brood met ongeveer `30%` rogge. Een typische TTA waarde voor roggebrood met `70%` rogge of meer is `8`, en `6.5` voor tarwebrood met minder dan `50%` rogge [@katina2014process]. Dat komt dus keurig overeen.
@@ -433,8 +433,8 @@ Methode:
 - _Dag 1, 23u00_: Tweede keer verversen. 
 - _Dag 2, 07u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 12u00_: Voordeeg in koeling.
-- _Dag 2, 16u00_: Intensief kneden. Eerste rijs aanvankelijk op `24 °C`.
-- _Dag 2, 23u00_: Vorm geven. Tweede rijs in koeling op `6 °C`.
+- _Dag 2, 16u00_: Intensief kneden. Eerste rijs aanvankelijk op `24°C`.
+- _Dag 2, 23u00_: Vorm geven. Tweede rijs in koeling op `6°C`.
 - _Dag 3, 08u00_: Bakken.
 - _Dag 3, 08u50_: Afkoelen en proberen wachten met proeven.
 

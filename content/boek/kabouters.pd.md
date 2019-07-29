@@ -33,7 +33,7 @@ Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer d
 [^1]: Deze '_baker's percentage_' kan groter dan `100%` zijn. Deel de totale hoeveelheid water door de totale hoeveelheid bloem. Als je brood bestaat uit verschillende soorten bloem, tel je die allemaal samen. 
 
 Sommige toestellen bieden voor hun meerprijs verschillende kneedhaken aan. De standaard kneedhaak komt in de vorm van een haaienvin, waarvan geadviseerd wordt deze enkel in combinatie met tarwe te hanteren. \nl
-De tweede kneedhaak heeft de vorm van een kam, en is een zelfbenoemde specialist in het kneden van rogge. Deze vreemde opsplitsing was in feite mijn eerste kennismaking met het groot verschil tussen de twee deegsoorten, die later nog een grote rol zullen spelen. \nl
+De tweede kneedhaak heeft de vorm van een kam, en is een zelfbenoemde specialist in het kneden van rogge. Deze vreemde opsplitsing was in feite mijn eerste kennismaking met het groot verschil tussen twee deegsoorten, die later nog een grote rol zullen spelen. \nl
 Na het nauwkeurig bestuderen van die vreemde kam haalde ik mijn schouders op, en smeet ik het in de hoek van een donkere kast. De vorm van de kneedhaak zou van belang moeten zijn bij het vormen van een soepel deeg, maar in zo'n kleine machinetjes heeft dit buiten commerciële aantrekkingskracht geen enkel effect. 
 
 Er is slechts één minpuntje verbonden aan zo’n haak in de machine: gezien het hele proces automatisch geprogrammeerd is, bak je in dezelfde kuip als waar je in kneedt. Stel je voor dat in de bakkerij dit systeem ook wordt toegepast. Wat valt er je op? De spiraal of de arm zit in de weg. Juist. Die blijft dus mooi in je gebakken brood hangen. Op dat punt gooit je kabouter de handdoek in de ring, roept '_foert!_', en moet je het zelf maar uitzoeken. \nl
@@ -116,7 +116,7 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een
 * Brood bakken doet geen pijn. Het kost ook minder moeite dan je denkt. 
 * De absolute basis van brood bakken bestaat uit drie stappen: kneden, rijzen, bakken. 
 * De absolute minimale hoeveelheid aan ingrediënten van brood bestaat uit drie componenten: bloem, water, zout[^min]. 
-* Het vochtgehalte van brood kan beïnvloed worden door extra toevoegingen. 
+* Het vochtgehalte van brood kan worden beïnvloed door extra toevoegingen. 
 * Investeer in een goede oven. 
 * Kabouters wassen niet af.
 

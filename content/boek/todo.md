@@ -4,15 +4,6 @@ Mogelijk images?
 * Bakkerij Schoofs bij beschrijving machines?
 * grafiek puratos xas yas lab+/-?
 
-Grammatica
-
-* zo veel vs zoveel
-* "een hoop" wegwerken
-* mix verleden tijd/tegenwoordige tijd
-* fel -> stekr
-* worden ww: 'worden aangepakt' ipv 'aangepakt worden' overal?
-* "zodra"
-
 [X] => Done, [/] => Initiated, [ ] => TODO, [Z] => Ga ik niet doen
 
 HIGH PRIO
@@ -21,10 +12,9 @@ HIGH PRIO
 [X] Boer hoofdstuk: triticale, granen, telen, ...
 [X] Boer hoofdstuk: molenaar
 [X] Gert Jessenhofke nog niet goedgekeurd
-[ ] Voorwoord door Dimitri laten schrijven
 [X] Synopsis voor indienen bij uitgeverijen
 [X] Recept einde HF: boer-molenaar-brouwer HF6; draf/bierbrood
-[ ] Recept einde HF: echte leerschool HF5; pizza! 
+[X] Recept einde HF: echte leerschool HF5; pizza! 
 [X] Recept einde HF: dagelijks brood verdienen HF7; Altamura brood
 
 Betrokken partijen:
@@ -37,16 +27,16 @@ I DE PRAKTIJK
   - [X] Vrijwilliger: M. (anonymized)
 3. De Leerschool
   - [Z] Syntra
-  - [/] Ghislain
+  - [X] Ghislain
   - [/] Dimitri
-  - [ ] Patrick
+  - [Z] Patrick
 4. Alles vergeten wat je geleerd hebt
-  - [ ] Peter
+  - [/] Peter
   - [X] Willy
 5. De échte leerschool
   - [Z] De Superette
-  - [ ] Sarah
-  - [ ] (Anderen die ik toen kende)
+  - [Z] Sarah
+  - [Z] (Anderen die ik toen kende)
 6. De boer, de molenaar en de brouwer
   - [/] Pieter
   - [/] Jeroen
@@ -85,11 +75,10 @@ MEDIUM PRIO
 LOW PRIO
 
 [ ] Alle boeken titels in zelfde '' of italics
-[ ] graden in °C zonder spatie?
+[X] graden in °C zonder spatie?
+[ ] Voorwoord (pas na inzending)
 [ ] Dankwoord (pas na inzending)
-[ ] Enzymen activiteit in theorie HF herlezen, goed genoeg uitgelegd?
 [X] Layouting '\nl' overal goed zetten
-[ ] Sourdough Biotechnology verder uitlezen
 [X] Brijosh Tongeren bezoeken en sectie toevoegen in 'verdienen'
 [X] Eigen boekjes herlezen (#5) om te zien of ik nog iets wil toevoegen
 

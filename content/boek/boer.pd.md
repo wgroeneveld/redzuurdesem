@@ -58,11 +58,11 @@ Industriële landbouw staat garant voor hoge opbrengsten die vele hongerige mond
 
 Via Pieter kwam ik in contact met Jeroen van Vaerenbergh, die zijn passie voor archeologie en koken vorm geeft als De Foodarcheoloog. Ik belde hem op in de hoop iets bij te leren op gebied van lokale oude granen. \nl
 'We vinden soms wel eens oude graankorrels in putten tijdens opgravingen. Over welke subsoort van graan het dan precies gaat is erg moeilijk te zeggen' vertelt Jeroen. 'Hoe dat precies gekruist werd vroeger, daar spreken botanici zich niet over uit. Zo'n synthese onderzoek is er nauwelijks in Vlaanderen. In Engeland staan ze daar al veel verder mee. Daar is bijvoorbeeld een oude graankorrel met nog wat kiemkracht opgekweekt om mee te experimenteren. Dat type is resistent gevonden tegen een aantal ziektes waartegen gespoten wordt.' \nl
-'Dus daar kan weer verder mee gekruist worden om onze gewassen diezelfde resistentie te geven?' vraag ik. \nl
+'Dus daar kan weer verder mee worden gekruist om onze gewassen diezelfde resistentie te geven?' vraag ik. \nl
 'Natuurlijk, maar dan heb je na een aantal jaren hetzelfde probleem met een andere ziekte. Die gewassen zijn op dit moment erg populair vanwege hun verhaal. Dat kan dan weer duurder worden verkocht. Het is goed om af en toe terug te blikken naar technieken van het verleden om te gebruiken in de toekomst. Maar die verandering, daar moet zowel de organische boer als de grootschalige industrie voor open staan.'
 
 Jeroen geeft enkele voorbeelden uit het verleden. 'Neem nu de deeleconomie waarbij brouwersgist door de bakker werd gebruikt. Mensen denken dat er maar twee grote stromingen bestaan: industrieel brood met commerciële gist, en het de oude werking met zuurdesem. Voor 1800 werd de bovenste schuimlaag bij het vergisten van graan door bakkers gebruikt als gist. De gekookte granen die de brouwer anders weggooide, werden door de bakker verder verwerkt in brood. Tegenwoordig is het hip om zulke dingen te hergebruiken. Vroeger was dat uit pure noodzaak.' \nl
-De wisselwerking tussen twee ambachten werd in tijden van hongersnood aan banden gelegd. Het Duitse _Reinheitsgebot_[^rein] stelt dat er enkel water, hop en gerst gebruikt mag worden voor de productie van bier. Als de brouwer alle tarwe in de bierproductie verbruikt, blijft er voor de bakker (en uiteindelijk het hongerige volk) niets meer over. Hetzelfde gelde voor de peperkoekproductie die door gildes in steden nauwgezet in de gaten werd gehouden. Peperkoek was toen een luxeproduct dat soms te snel door graanreserves sneed door het gebruik van grote hoeveelheden rogge.
+De wisselwerking tussen twee ambachten werd in tijden van hongersnood aan banden gelegd. Het Duitse _Reinheitsgebot_[^rein] stelt dat er enkel water, hop en gerst mag wordne gebruikt voor de productie van bier. Als de brouwer alle tarwe in de bierproductie verbruikt, blijft er voor de bakker (en uiteindelijk het hongerige volk) niets meer over. Hetzelfde gelde voor de peperkoekproductie die door gildes in steden nauwgezet in de gaten werd gehouden. Peperkoek was toen een luxeproduct dat soms te snel door graanreserves sneed door het gebruik van grote hoeveelheden rogge.
 
 [^rein]: Deze omstreden wet werd sinds 1516 verschillende keren herwerkt, maar houdt tot op de dag van vandaag nog steeds stand. Ondertussen zijn er een aantal ingrediënten aan toegevoegd, en is het type graan minder strikt. Sommige deskundigen beweren dat dit de Duitse bierindustrie enorm heeft vertraagd terwijl anderen spreken van een groot commercieel succes.
 
@@ -88,7 +88,7 @@ We ontmoetten Mike Ekelschot en zijn partner in crime Soetkin Kuypers op een war
 Laat je niet misleiden door de afmetingen van de molen: Mike maalt er tweehonderd ton per jaar. \nl
 'Ik zou tot vierhonderd kunnen gaan. We hebben twee maalstenen tot onze beschikking, maar eentje ligt momenteel uit. Hoe meer we malen, hoe meer we tijdelijk moeten opslaan, en we kampen momenteel met wat ruimtetekort. De bedoeling is om op termijn verschillende silo's in de molen te integreren.' \nl
 'Hoe zit dat precies met opslag en bloem? Voegen jullie iets toe om de bloem langer te kunnen bewaren?' Mike schudt zijn hoofd. \nl
-'Nee. Wat we malen moet gewoon zo snel mogelijk verkocht worden. Het meeste verdwijnt tussen de één en twee weken. We voegen niets toe, en we verwijderen geen componenten uit de bloem die het langer houdbaar maakt. In tegenstelling tot giganten zoals Ceres, waar de bloem een jaar houdbaar is. Die verwijderen de kiem volledig. Onze `T65` is crèmekleurig, fijner wordt er niet gezeefd.' \nl
+'Nee. Wat we malen moet gewoon zo snel mogelijk verkocht worden. Het meeste verdwijnt tussen één en twee weken. We voegen niets toe, en we verwijderen geen componenten uit de bloem die het langer houdbaar maakt. In tegenstelling tot giganten zoals Ceres, waar de bloem een jaar houdbaar is. Die verwijderen de kiem volledig. Onze `T65` is crèmekleurig, fijner wordt er niet gezeefd.' \nl
 'Jullie zeven ter plaatse veronderstel ik?' vraag ik. 'Bij een plaatselijke watermolen werd dat aanvankelijk niet gedaan, maar werd er een machine geïnstalleerd om aan die wensen te voldoen.' \nl
 'Dat is hier ook zo' bevestigt Mike. 'We hebben een buil[^zeefm] aangekocht. Die zeeft honderdvijftig kilo per uur.' \nl
 'Dat klinkt indrukwekkend! Die installatie verstopt soms als ze tot `T65` zeven, hebben jullie daar ook last van?' Mike schudt zijn hoofd. \nl
@@ -99,7 +99,7 @@ Laat je niet misleiden door de afmetingen van de molen: Mike maalt er tweehonder
 
 Tijdens het drinken wisselen we wat verhalen uit over malen en bakken. \nl
 'Het is wel leuk dat we onze klanten kennen en die persoonlijke band hebben' vertelt Soetkin. 'Dat is wel een meerwaarde ten opzichte van grotere spelers op de markt. We leveren heel wat bloem aan grote bakkerijen in en ver buiten Gent, zoals De Superette, maar ook aan kleinere zaken die bakken in bijberoep. Een ambtenaar die halftijds met zijn handen bezig is vond dat de perfecte combinatie. Een muzikant die ook brood bakt. Zaken uit Antwerpen die zich specialiseren in het geven van workshops. Het geeft ons voldoening om die mensen zo gepassioneerd te zien omgaan met onze producten.' \nl
-'En de boeren? Kopen jullie bijvoorbeeld zo veel mogelijk graan van lokale boeren hier in Aalter en omstreken? En wordt er dan gemengd of niet?' We waren enkele tarwevelden tegengekomen op weg naar de Artemeersmolen, maar de meeste velden werden bezet door koeien. Ik had zo mijn twijfels bij de hoeveelheden - zeker toen ik hoorde dat er tweehonderd ton gemalen werd. \nl
+'En de boeren? Kopen jullie bijvoorbeeld zoveel mogelijk graan van lokale boeren hier in Aalter en omstreken? En wordt er dan gemengd of niet?' We waren enkele tarwevelden tegengekomen op weg naar de Artemeersmolen, maar de meeste velden werden bezet door koeien. Ik had zo mijn twijfels bij de hoeveelheden - zeker toen ik hoorde dat er tweehonderd ton gemalen werd. \nl
 'We proberen grote hoeveelheden van één partij op te kopen. Ik heb nu met een boer uit het Brusselse de afspraak om genoeg spelt af te nemen voor het hele jaar. Op die manier garanderen we de kwaliteit. Dat gaat jammer genoeg niet altijd in de buurt. Niet alle ingekochte granen zijn Vlaams of zelfs Belgisch. Mengen proberen we zo te vermijden.' \nl
 'En is alles volledig biologisch dan?' vraagt Kristien. \nl
 'Drie vierde van het graan heeft een bio label.' \nl
@@ -128,7 +128,7 @@ We stijgen nog een verdieping tot op de zolder. 'Dit zijn de maalstenen. De rech
 'Gegoten, maar intern niet. De binnenste laag wordt gebruikt om te breken, en de lagen naar buiten malen van grof naar fijn. In principe zou ik op voorhand kunnen breken, dan kan de steen meer malen in minder tijd. Dat is nog iets om uit te zoeken.'
 
 'Is er naar jouw mening een groot verschil in malen met een steen of met een wals? Speelt warmteopwekking bijvoorbeeld een rol?' Mike haalt zijn schouders op. \nl
-'Je kan ook slecht malen op een steen hoor. Je hoort vaak mensen zeggen dat enkel zogezegd ambachtelijk malen op steen goed en gezond is, maar dat is flauwekul. De maaltechniek is maar één onderdeel van het hele maalproces. Te veel nutriënten verwijderen bij het zeven, te snel malen, vreemde dingen toevoegen na het zeven, onjuist vochtigheidsgehalte bij opslag, noem maar op - dat zijn dingen die bij eender welke maalderij kunnen misgaan. Hitte is trouwens een groter probleem bij het malen op steen dan bij walsen.' \nl
+'Je kan ook slecht malen op een steen hoor. Je hoort vaak mensen zeggen dat enkel zogezegd ambachtelijk malen op steen goed en gezond is, maar dat is flauwekul. De maaltechniek is maar één onderdeel van het hele maalproces. Te veel nutriënten verwijderen bij het zeven, te snel malen, vreemde dingen toevoegen na het zeven, onjuist vochtgehalte bij opslag, noem maar op - dat zijn dingen die bij eender welke maalderij kunnen misgaan. Hitte is trouwens een groter probleem bij het malen op steen dan bij walsen.' \nl
 Om op grote schaal te kunnen produceren moeten uiteraard compromissen worden gesloten. Houdbaarheid van volkoren meel is korter in vergelijking met witte bloem vanwege de aanwezigheid van lipiden (vetten) en lipide-afbrekende enzymen [@doblado2012key]. Meel wordt daarom door middel van verschillende technieken gestabiliseerd[^stab]. Omdat hun producten snel genoeg worden verkocht zijn ze daar bij Flour Power niet mee bezig. \nl
 De slogan '_Gemalen op steen_' is tegenwoordig een heuse commerciële zaak geworden. Sommige molens malen het graan met behulp van maalstenen, waarvan de platen ver genoeg uit elkaar geplaatst zijn om geen overtollige hitte te genereren. De grof geplette tarwe wordt vervolgens gereduceerd tot fijngemalen meel op een walsmolen. Op deze manier kan de gewenste slogan op de meelzak worden afgedrukt zonder morele twijfels. Dan laten we nog molens buiten beschouwing die gewoon alles op walsen malen en de steen als sierraad tegen de gevel plaatsen - ook zonder morele twijfels... \nl
 Mineralen en vitaminen zitten in de buitenste lagen van de graankorrel, waardoor bij het uitfilteren deze verloren gaan [@gobbetti2012handbook]. Tegenwoordig weet iedereen wel dat volle granen voedzamer zijn voor je lichaam. De productie van dit volkoren meel is bij moderne walsenmolens erg opmerkelijk. De zemelen, de kiem en het endosperm (kiemwit) worden gescheiden en apart gemalen. Daarna voegt men alles terug samen en _tadaa_: volkoren meel! Op die manier is er geen aparte productielijn nodig. 
@@ -176,7 +176,7 @@ We praatten wat, Gert over bier brouwen, en ik over brood bakken. \nl
 \index{Saccharomyces!pastorianus}
 \index{Saccharomyces!cerevisiae}
 
-Ik leerde achteraf dat pils, beter bekend in het Vlaams als een _pintje_ (of _dagschotel_), een soort _lager_ is. Bier kan over het algemeen ingedeeld worden in twee grote klassen: die van onderfermentatie (_bottom-fermenting_ of anaerobische fermentatie), zoals lager, en die van bovenfermentatie (_top-fermenting_ of aerobische fermentatie), zoals _ale_. Bovenfermentatie gebeurt op hogere temperaturen (tussen de `15` en `24 °C`) en gaat gepaard met het gevaar van inoculatie van (on-)gewenste bacteriën. Schuim bovenop vloeistof verraadt de aanwezigheid van aerobische gisten, zoals _Saccharomyces cerevisiae_. Op het label van het bierflesje prijkt vaak 'hoge gisting', een ander woord voor deze bovengisting. Onderfermentatie daarentegen gebeurt op lagere temperaturen (onder de `10 °C`). In dat geval werkt men met gistsoort _Saccharomyces pastorianus_[^past]. 
+Ik leerde achteraf dat pils, beter bekend in het Vlaams als een _pintje_ (of _dagschotel_), een soort _lager_ is. Bier kan over het algemeen ingedeeld worden in twee grote klassen: die van onderfermentatie (_bottom-fermenting_ of anaerobische fermentatie), zoals lager, en die van bovenfermentatie (_top-fermenting_ of aerobische fermentatie), zoals _ale_. Bovenfermentatie gebeurt op hogere temperaturen (tussen `15` en `24°C`) en gaat gepaard met het gevaar van inoculatie van (on-)gewenste bacteriën. Schuim bovenop vloeistof verraadt de aanwezigheid van aerobische gisten, zoals _Saccharomyces cerevisiae_. Op het label van het bierflesje prijkt vaak 'hoge gisting', een ander woord voor deze bovengisting. Onderfermentatie daarentegen gebeurt op lagere temperaturen (onder de `10°C`). In dat geval werkt men met gistsoort _Saccharomyces pastorianus_[^past]. 
 
 [^past]: Zoals de naam doet vermoeden is deze soort vernoemd naar Louis Pasteur. Deze gist heette voordien _Saccharomyces carlsbergensis_ dankzij Dane Emil Hansen's onderzoek aan de Carlsberg brouwerij in Kopenhagen.
 
@@ -218,7 +218,7 @@ Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brou
 
 'Wat voor u misschien interessanter is om mee te bakken is de draf[^draf].'\nl
 'Draf?' \nl
-'Overschot na het _maischen_. Met het klaren scheiden we vloeistof van ingrediënten als mout en gerst. Het resultaat is langs de ene kant wort, dat verwerkt wordt tot bier, en draf, waar ik niets mee kan doen. Als we hier brouwen om een product te ontwikkelen, zit ik met `30` kg aan draf. Daar zitten nog veel granen en besjes in. Bakkers komen dat ophalen om in brood te doen. Meng het wel met genoeg meel, want anders krijg je een hele zware boterham.' Gert klopte met zijn hand op zijn buik om duidelijk te maken dat het brood niet bepaald licht verteert.\nl
+'Overschot na het _maischen_. Met het klaren scheiden we vloeistof van ingrediënten als mout en gerst. Het resultaat is langs de ene kant wort, dat wordt verwerkt tot bier, en draf, waar ik niets mee kan doen. Als we hier brouwen om een product te ontwikkelen, zit ik met `30` kg aan draf. Daar zitten nog veel granen en besjes in. Bakkers komen dat ophalen om in brood te doen. Meng het wel met genoeg meel, want anders krijg je een hele zware boterham.' Gert klopte met zijn hand op zijn buik om duidelijk te maken dat het brood niet bepaald licht verteert.\nl
 'Die bakkerij op het einde van de Hasseltweg in Genk gebruikt dat bijvoorbeeld.' ging hij verder. \nl
 'Koek en Brood? Leuk, die ken ik. Die hebben wel goed brood, en werken ook met zuurdesem. Dan moet ik daar zeker nog eens naartoe gaan.'\nl
 'Dat is er niet altijd hé. We brouwen hier niet elke week. Pieter is het ook al komen ophalen voor zijn dieren. Grote brouwerijen zitten met tonnen aan draf, dat is allemaal dierenvoeder. Het wordt gebruikt door duivenmelkers als krachtvoer. De vogels beschikken over de kracht van de granen als ze dat opeten.' Het klinkt alsof Gert de Panoramix van de duiven is, die toverdrank in plaats van bier brouwt. \nl
@@ -254,7 +254,7 @@ De belangrijkste gist voor (modern) brood, is dus ook de belangrijkste voor de b
 
 Je moet moeite doen om in de koelkasten een product met melkzuurbacteriën te vinden. Ik heb er slechts één gevonden, met 'een miljoen _Lactobacillus plantarum_ cellen' in, volgens het etiket. Dat zou geschikt moeten zijn om zuur bier te brouwen. Voor de rest was het _Saccharomyces_ waar de klok slaat, ook al lukte het me niet om de onderfermentatieve _pastorianus_ soort te lokaliseren. \nl
 Elk pakketje gist dat ik vast nam, of het nu gedroogd was of niet, bevatte maar één gistsoort, namelijk _cerevisiae_. Hoe kan dat? Zou Gert zijn pakjessoep uitleg niet helemaal kloppen, of begrijp ik nog te weinig van de taxonomie van deze gist? \nl
-_Cerevisiae_ is de soort die behoort tot het geslacht _Saccharomyces_[^gesl]. Ik heb tot nu toe het woord 'stam' (veel hoger in de taxonomie) verkeerd geïnterpreteerd, en bedoelde in feite telkens 'soort'. Van deze ene soort bakkersgist worden er door slimme mensen met witte jassen via 'aangemoedigde natuurlijke selectie' andere stammen gekweekt [@steensels2014improving]. Deze microbiologische 'stam' heeft niets te maken met het begrip 'stam' uit de taxonomie. Het is een verzameling van organismen die af'stamt' (aha!) van één enkel geïsoleerd micro-organisme. 
+_Cerevisiae_ is de soort die behoort tot het geslacht _Saccharomyces_[^gesl]. Ik heb tot nu toe het woord 'stam' (veel hoger in de taxonomie) verkeerd geïnterpreteerd, en bedoelde in feite telkens 'soort'. Van deze ene soort bakkersgist worden er door slimme mensen met witte jassen andere stammen gekweekt via 'aangemoedigde natuurlijke selectie' [@steensels2014improving]. Deze microbiologische 'stam' heeft niets te maken met het begrip 'stam' uit de taxonomie. Het is een verzameling van organismen die af'stamt' (aha!) van één enkel geïsoleerd micro-organisme. 
 
 [^gesl]: Dat geslacht behoort om precies te zijn tot de familie _Saccharomycetaceae_, die behoort tot orde _Saccharomycetales_, die behoort tot onderklasse _Saccharomycetidae_, die behoort tot klasse _Saccharomycetes_, die behoort tot stam _Ascomycota_, die behoort tot het rijk der _Fungi_. Jezus. 
 
@@ -295,12 +295,12 @@ Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten 
 * Bakker en brouwer waren vroeger vaak één en dezelfde persoon. 
 * Bier brouwen doe je ofwel met enkel gisten, ofwel met bacteriën. In dat geval is een aparte installatie sterk aan te raden. 
 * Er zijn honderden verschillende door mens ontworpen giststammen die afgeleid zijn van éénzelfde soort micro-organisme, namelijk _Saccharomyces cerevisiae_.
-* Een bijproduct van het brouwen, draf, bevat nog restanten van actieve gist die gebruikt kan worden om brood te helpen rijzen. 
+* Een bijproduct van het brouwen, draf, bevat nog restanten van actieve gist die kan worden gebruikt om brood te helpen rijzen. 
 * Bier dat hergist is op fles, bevat nauwelijks genoeg gist om brood te doen rijzen. 
 * Bier is in het algemeen op te delen in twee grote categorieën: onderfermentatieve en bovenfermentatieve. In de praktijk kunnen beide technieken gecombineerd worden. 
 * Vroeger werd in België en Nederland voornamelijk bier van hoge gisting gedronken. De opkomst van koeltechnieken deed de balans kantelen naar onderfermentatieve pils. 
 * Bakkersgist is geselecteerd op snelheid. Biergist op alcohol en aroma. 
-* Bier in brooddeeg zorgt voor smaak, niet voor rijskracht. Die smaak kan overweldigd worden door zuurdesem. 
+* Bier in brooddeeg zorgt voor smaak, en niet voor rijskracht, die makkelijk kan worden overweldigd door zuurdesem. 
 
 \newpage
 
@@ -332,13 +332,13 @@ Methode:
 
 - _Dag 1, 14u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 23u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
-- _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24 °C`.
+- _Dag 2, 07u00_: 10min. Alles toevoegen behalve draf. Kneden. Doeltemperatuur: `24°C`.
 - _Dag 2, 07u10_: 1u. Bulkrijs I.
 - _Dag 2, 08u10_: 1u. Met vouwen draf aan deeg toevoegen. Bulkrijs II.
 - _Dag 2, 09u10_: 1,5u. Opnieuw vouwen. Bulkrijs III.
 - _Dag 2, 10u40_: 10min. Vormgeven.
-- _Dag 2, 10u50_: 1,5u. narijs op `24 °C`.
-- _Dag 2, 12u20_: 55min. bakken op `240 °C`.
+- _Dag 2, 10u50_: 1,5u. narijs op `24°C`.
+- _Dag 2, 12u20_: 55min. bakken op `240°C`.
 
 De grove granen zorgen voor een iets vastere structuur die het brood extra voedzaam maakt. Door pas halverwege de bulkrijs de draf toe te voegen, zorgen we voor een goed ontwikkeld deeg dat toch mooi kan openbloeien in de oven. Deze techniek staat in schril contrast met de manier waarop het granenbrood uit hoofdstuk \ref{granenbrood} gemaakt wordt. Alles hangt af van je intentie. Wil je een stevig brood bakken met een evenredige kruim, of wil je voor een luchtiger brood gaan met een open karakter? \nl
 Stort het deeg na het eerste bulkrijs uit op een werkoppverlvak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht er uit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant, en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het een laatste keer anderhalf uur te laten rusten. \nl

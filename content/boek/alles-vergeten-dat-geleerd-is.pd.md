@@ -44,7 +44,7 @@ Rechts van de steenoven staat een grote kneedmachine. \nl
 ‘De plaatsing van de machines past allemaal in mijn eigen optimaal systeem: ik werk van links naar rechts, zie je. Eerst kneden, dan opschuiven naar de verdeeltafel, dan naar de opbollers of lamineren, en zo eindigen in de oven. Alles staat afgesteld op mijn eigen ritme.’ Ik wijs naar de spiraalkneder, rechts van zijn grote broer. \nl
 ‘Kneed je daar alles in?’ \nl
 ‘God neen,’ schudt Peter, ‘het merendeel van het deeg wordt in de Tonnaer gekneed. Die spiraalkneder is voor taarten en ander vetter deeg. Deze Tonnaer is van 1957 en krijg je niet kapot. Het is nog aangedreven met een riem die redelijk simpel zelf te herstellen is.’ De machine ziet er voor het ongetrainde oog misschien niet zo indrukwekkend uit, maar wij werden er toch behoorlijk warm van. De grote kuip bevat één kneedhaak die een trage op- en neerwaartse beweging maakt. \nl
-‘Zo wordt het kneden met de hand het best benaderd door een machine. Mijn deeg mag niet snel gekneed worden of het gaat stuk. Een volkoren- of roggedeeg houdt de snelheid van een spiraalkneder niet lang vol, daar zitten niet genoeg gluten in en ik gebruik geen heel sterke bloem’ legt Peter verder uit. Hij zet ter demonstratie de machines even aan, om ons het verschil in snelheid te laten zien. De enkele kneedhaak gaat gestaag op- en neer met een constante '_hum... hum... hum..._' die ik veel later, tijdens mijn stage, leer liefkozen. De snellere kneder stoot een krachtigere maar vervelende '_njng njng njng_' kreet uit. Nu is het mij ook meteen duidelijk waarom er een veiligheidsbarrière voor hangt: als je daar nog snel een restje deeg wilt uithalen terwijl de kneder aan staat, breek je onmiddellijk je hand...
+‘Zo wordt het kneden met de hand het best benaderd door een machine. Mijn deeg mag niet snel worden gekneed of het gaat stuk. Een volkoren- of roggedeeg houdt de snelheid van een spiraalkneder niet lang vol, daar zitten niet genoeg gluten in en ik gebruik geen heel sterke bloem’ legt Peter verder uit. Hij zet ter demonstratie de machines even aan, om ons het verschil in snelheid te laten zien. De enkele kneedhaak gaat gestaag op- en neer met een constante '_hum... hum... hum..._' die ik veel later, tijdens mijn stage, leer liefkozen. De snellere kneder stoot een krachtigere maar vervelende '_njng njng njng_' kreet uit. Nu is het mij ook meteen duidelijk waarom er een veiligheidsbarrière voor hangt: als je daar nog snel een restje deeg wilt uithalen terwijl de kneder aan staat, breek je onmiddellijk je hand...
 
 Het moeilijkste aan Peter zijn systeem lijkt me het deeg uit de grote mengkom halen en op de tafel leggen om verder te verdelen en opbollen. \nl
 ‘Alles tillen op de rug is inderdaad dodelijk.’ Peter haalt zijn schouders op. Weer iets om mee rekening te houden. Ik voel al een pijnlijke steek aan mijn onderrug als ik nog maar kijk naar die kneder. Ik herinner me plots Ghislain, onze leerkracht, vertellen dat hij een paar keer in zijn bakcarrière een hernia had opgelopen omwille van exact hetzelfde probleem. Bakkers verkwisten ook niet graag tijd en heffen daarom vaak meer dan ze aankunnen. De klok tikt immers, niet alleen om hun werk in het algemeen gedaan te krijgen, maar ook omdat eens het rijsmiddel is toegevoegd aan het deeg, alles begint te leven. Een bakker voert elke dag (of in Peter zijn geval, nacht) als het ware een strijd tegen de tijd. 
@@ -54,26 +54,24 @@ Wij bewonderen Peter allemaal omwille van zijn carrièreswitch en volharding die
 
 Misschien is fietsenmaker meer iets voor mij.
 
-‘De winkel boven moet ook bijgevuld worden, het brood moet hier verkocht worden en wordt nog doorverkocht[^cal] aan winkels zoals het Calorietje in Hasselt. Dat is allemaal erg veel om rekening mee te houden. Ik denk dat ik in de toekomst een aantal dingen ga moeten schrappen want het is zo nauwelijks uit te houden… ‘ \nl
+‘De winkel boven moet ook bijgevuld worden en het brood wordt zowel hier als elders verkocht. Dat is allemaal erg veel om rekening mee te houden. Ik denk dat ik in de toekomst een aantal dingen ga moeten schrappen want het is zo nauwelijks uit te houden… ‘ \nl
 De aftandse zetel die in de hoek naast een oven staat zegt veel. Peter zag dat ik er naar staarde en zei ‘voor dutjes tussendoor, wanneer het echt niet meer gaat. Kerst en Pasen zijn nog erger, voor velen is dat de leukste periode van het jaar. Voor ons is dat hard werken.’ \nl
 ‘Ik zal een tip geven. Als jullie van plan zijn ooit een bakkerij te openen, zoek dan een goede partner die u steunt door dik en dun. Als jij op het punt staat op te geven, motiveert die u om te blijven gaan. Als je iets vergeet te bestellen, regelt die dat voor u. Zonder mijn vrouw kon ik dit onmogelijk doen.’ Ik hoop dat mijn vrouw dit nooit leest...
-
-[^cal]: Wegens de werkdruk is Peter daar ondertussen mee gestopt. 
 
 Aan de natuurbakkerij is ook een winkeltje verbonden waar biologische producten verkocht worden zoals sinaasappel olijfolie uit Italië en verschillende soorten granen, thee, en andere natuurlijke producten. \nl
 ‘Ik heb die olie zelf gekozen en ben naar de pers geweest in Italië om hem te proeven. Geweldige boel, proef zelf maar eens!’ Hij brak een aantal pistolets en deed er wat olie op om ons zelf te laten oordelen. De olie was intens en de smaak van sinaasappel blijft lang hangen. Zoiets past goed bij een pistolet die zelf eerder de drager dan de smaakmaker is. Schoofs is in veel opzichten een typische Vlaamse bakkerij: je kan er sandwiches, pistolets, en enorm veel soorten brood krijgen maar ook wafels, taartjes en seizoensgebak. Het grootste verschil zit hem in de ingrediënten, of het gebrek daarvan. 
 
-Peter maalt ook zijn eigen bloem, die vers verwerkt wordt in zijn producten. \nl
+Peter maalt ook zijn eigen bloem, die vers wordt verwerkt in zijn producten. \nl
 ‘Hier ben ik nog volop mee aan het experimenteren. Deze molen kan één zak `25 kg` granen vrij snel verwerken maar het is een gigantische stofboel en ik heb niet altijd de tijd om alle granen zelf te malen. Twintig tot dertig procent van een brood bestaat uit zelfgemalen meel.’ In het midden van een aparte kamer rechts van de toog staat een mobiele, elektrisch aangedreven, steenmolen. De kamer is voorzien van een groot raam zodat mensen vanuit de winkel kunnen meegenieten van de show. 
 
 ‘Pas op, naar achteren!’ waarschuwt hij. We lopen terug tot aan de deur terwijl Peter een zak spelt in de molen giet en deze activeert. \nl
-‘De wrijving van de stenen zorgen ervoor dat de granen geplet worden maar ook dat alles verhit wordt. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt maar de kamer wordt desalniettemin bekleed met een mooi laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. \nl
+‘De wrijving van de stenen zorgen ervoor dat de granen worden geplet, maar ook dat alles wordt verhit. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt maar de kamer wordt desalniettemin bekleed met een mooi laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. \nl
 ‘Laat je dit dan rusten of gebruik je dit onmiddellijk?’ vraag ik. \nl
 ‘Vers gemalen bloem moet je een aantal uren laten rusten en kan je niet _groen_ verwerken. Bij bloem is dat anders. Ik laat het meestal 12 uren staan en dan gaat het deze nacht in het deeg.’ De zak wordt dichtgeknoopt en afgekoppeld van de molen. Ik noteer in mijn hoofd dat ik ooit eens zelf graan wil malen[^zelfm].\nl
 ‘Maar waar haal je je graan dan vandaan?’ We hadden veel zakken graan, zaden, bloem, en meel zien liggen in de opslagplaats naast de bakkerij.  \nl
 ‘Die wordt besteld vanuit een molen in Oudenaarde. Dat is een van de enige molens in België die mij biologisch lokaal geteeld materiaal kan leveren.’ Op dat moment was de voor mij nabijgelegen molen te Stevoort nog niet gecertifieerd en konden nabijgelegen boeren niet voldoen aan de grotere  hoeveelheden die Schoofs elke nacht verwerkt. \nl
 Een vreemd object valt me op in de andere hoek van de kamer waar de molen staat. \nl
-‘Oh, dat is een oude zeef die gebruikt kan worden om meel tot bloem te verwerken. De zemelen die gescheiden worden kan ik dan weer gebruiken in bijvoorbeeld het _pottenbrood_. Niets gaat hier verloren!’ De zeef ziet er klein uit, ik denk niet dat die `25 kg` even snel verwerkt gaat worden als van graan tot meel. Peter gebruikt meestal zijn meel zonder zeven. 
+‘Oh, dat is een oude zeef die kan woren gebruikt om meel tot bloem te verwerken. De zemelen die worden gescheiden kan ik dan weer gebruiken in bijvoorbeeld het _pottenbrood_. Niets gaat hier verloren!’ De zeef ziet er klein uit. Peter verwerkt meestal het meel zonder te zeven. 
 
 [^zelfm]: Dat is nog steeds genoteerd.
 
@@ -178,8 +176,8 @@ Methode:
 - _Dag 1, 20u01_: Laat `200 gr` roggemeel met `300 gr` kokend water en `2 gr` zout afgedekt een nacht weken.
 - _Dag 1, 20u02_: Laat `100 gr` lijnzaad samen met `125 gr` onverhit water afgedekt een nacht weken.
 - _Dag 1, 20u03_: Meng `50 gr` rijst en `50 gr` speltgranen met `1 el` zuurdesem starter en `125 gr` water op kamertemperatuur.
-- _Dag 2, 08u00_: Voeg alles samen met de resterende `200 gr` water. Kneden. 2u Eerste rijs op `24 °C`.
-- _Dag 2, 10u00_: Vorm geven. 1.5u Tweede rijs op `24 °C`.
+- _Dag 2, 08u00_: Voeg alles samen met de resterende `200 gr` water. Kneden. 2u Eerste rijs op `24°C`.
+- _Dag 2, 10u00_: Vorm geven. 1.5u Tweede rijs op `24°C`.
 - _Dag 2, 11u30_: Bakken zonder stoom.
 - _Dag 2, 12u20_: Afkoelen.
 

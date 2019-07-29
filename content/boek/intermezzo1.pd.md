@@ -25,9 +25,9 @@ Wees bereid om een slechte oogst onherroepelijk weg te kappen: het gaat dan om h
 
 '_Time is money_' - het klinkt als een zielloze one-liner zonder context. En dat is het ook. \nl
 In de champagne wereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om genoeg flessen per jaar te produceren om goed van te kunnen leven (onze gids schatte rond de `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). \nl
-De druivenpers is een gedrocht dat in de grote garage staat bij Autréau, waarna het sap naar de kelder gepompt wordt om in inoxen vaten gedurende 15 maanden omgevormd te worden naar witte wijn. In tientallen vaten zijn verschillende soorten druiven van verschillende jaren opgeslagen. \nl
+De druivenpers is een gedrocht dat in de grote garage staat bij Autréau, waarna het sap naar de kelder gepompt wordt om in inoxen vaten gedurende 15 maanden te worden omgevormd naar witte wijn. In tientallen vaten zijn verschillende soorten druiven van verschillende jaren opgeslagen. \nl
 Daarna wordt suiker en 'bottelgist' in individuele flessen toegevoegd om de bubbels te creëren. \nl
-Dat vereist plaats in een tweede kelder. Die flessen moeten regelmatig gedraaid worden om het residu van de gist te kunnen verwijderen en daarna te herkurken. \nl
+Dat vereist plaats in een tweede kelder. Die flessen moeten regelmatig worden gedraaid om het residu van de gist te kunnen verwijderen en daarna te herkurken. \nl
 Dat vereist plaats in een derde kelder. Voeg daar nog wat meer tijd (en dus nog meer ruimte) aan toe voor de beste combinaties van smaak te laten versmelten. Het leek alsof heel Venteuil onderkelderd was, voorzien van genoeg flessen voor de komende drie generaties. 
 
 Een wijnmaker draait zijn hand niet om voor een jaar meer of minder. Wij in de moderne bedrijfswereld durven zelfs binnen het jaar meerdere keren van werkgever te veranderen. Als je nu zegt dat je 5 jaar voor dezelfde firma hebt gewerkt krijg je samen met gelukwensen het label '_ancien_' opgeplakt, en als het even kan een extra verlofdag. 10 jaar voor kwaliteit. 5 jaar voor een label. 
@@ -46,7 +46,7 @@ De ontmoeting leerde mij veel gematigder te zijn als het gaat over het spenderen
 
 '_Waar zie je jezelf over vijf jaar?_' klinkt plots als een erg domme vraag.
 
-En toch leven deze boeren ook van moment tot moment: wijn maken vereist een constante bijsturing van het hele proces. Geen enkele dag is hetzelfde. Er moet constant geproefd en aangepast worden. De globale opwarming van de aarde zorgt voor een verschuiving van oogsttijd die voor hun heel voelbaar is. 
+En toch leven deze boeren ook van moment tot moment: wijn maken vereist een constante bijsturing van het hele proces. Geen enkele dag is hetzelfde. Er wordt constant geproefd en bijgesteld. De globale opwarming van de aarde zorgt voor een verschuiving van oogsttijd die voor hun heel voelbaar is. 
 
 Ik ben ondersteboven van mijn eigen bekrompenheid over tijdsbesef na dit bezoek. Het zal nog jaren duren - en enkele extra bezoeken - eerdat het besef er volledig is. En dat is niet erg, dan kan het idee nog wat rijpen. \nl
 Nu nog heelhuids thuis geraken, want mijn vrienden beginnen al wat vrolijker te worden na de vierde fles, die jaren nodig had om te rijpen, en luttele minuten om op te drinken. 
