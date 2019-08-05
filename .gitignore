@@ -1,7 +1,7 @@
 .DS_Store
 
 *.log
-*.sublime-workspace
+**/*.sublime-workspace
 
 content/boek/boek.tex
 content/boek/boek.pdf
