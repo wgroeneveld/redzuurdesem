@@ -20,6 +20,7 @@ X = Opgestuurd
 [-] 08/2019 BE Lannoo - opgestuurd culinair&sport@lannoo.be
 [/] 08/2019 BE Standaard Uitgeverij - info@standaarduitgeverij.be
 [X] 01/2020 NL Karakter Uitgevers - info@karakteruitgevers.nl
+[X] 01/2020 BE Borgerhoff Lamberigts - info@borgerhoff-lamberigts.be
 
 ## Anderen
 

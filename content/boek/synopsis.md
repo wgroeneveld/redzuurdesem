@@ -4,7 +4,7 @@ author: 'Een persoonlijke zoektocht naar de smaak en wetenschap van brood'
 geometry: "paperheight=11in,paperwidth=8.5in,left=1.1in,right=1.1in,top=1.5in,bottom=1.5in"
 header-includes:
   - \hypersetup{colorlinks=true}
-date: 2020-01-12
+date: 2020-01-24
 ---
 # Synopsis
 
