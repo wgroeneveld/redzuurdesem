@@ -24,7 +24,7 @@ Omdat een bakker nu eenmaal vroeger dan een gemiddelde bediende aan zijn dag beg
 Ik had geen flauw benul wat ik moest verwachten. De Superette is een uniek concept: het is een bakkerij én een restaurant, met een duidelijke focus op fermenteren. In de keuken met ingelegde groenten, zoals zuurkolen en kimchi. In de bakkerij met zuurdesem. Mijn verkennend gesprek met Sarah leverde mij het gevoel op dat ik eigenlijk geen enkel idee had van hoe het er in een horeca-zaak als deze effectief aan toe gaat. \nl
 Een stage volgen duurt normaal gezien zes weken. Ik heb wat moeten onderhandelen om met mijn werk genoeg verlof te kunnen krijgen en heb de verkorte versie van twee weken gevolgd. Veel stagiaires komen van het buitenland of van een gespecialiseerde school. Geen enkele softwareontwikkelaar haalt het in zijn hoofd om tijdens zijn welverdiend verlof twee weken lang op te staan om half 6 om croissants te bakken tot hij erbij neervalt. Die stelling gaan we nu toch moeten herzien... 
 
-Ik wil mijn stage ervaring niet verbloemen[^verbloem], omdat het één van de belangrijkste weken uit mijn leven is geweest. Dat komt niet omdat het brood dat we daar bakten zo geweldig was dat ik er emotioneel van werd (het was wél erg goed), maar omdat ik daar enkele levenslessen geleerd heb die in feite helemaal niets te maken hebben met bakken. Het is iets erg persoonlijk dat ik graag wil delen. \nl
+Ik wil mijn stage ervaring niet verbloemen[^verbloem], omdat het één van de belangrijkste weken uit mijn leven is geweest. Dat komt niet omdat het brood dat we daar bakten zo geweldig was dat ik er emotioneel van werd (het was wél erg goed), maar omdat ik daar enkele levenslessen heb geleerd die in feite helemaal niets te maken hebben met bakken. Het is iets erg persoonlijk dat ik graag wil delen. \nl
 Daarom neem ik stukken van mijn dagboek hier letterlijk over. Niet alles was even interessant om te publiceren. Hieronder volgt een greep uit mijn dagelijks leven van toen.
 
 [^verbloem]: Prachtige verwoording voor een bakker.
@@ -90,7 +90,7 @@ Vooral dat laatste is meer vervelend dan leuk. Het is een mes dat langs twee kan
 
 Gelukkig is iedereen heel begripvol, en vraagt Margaux constant aan mij of het oké is om een plaatsje in de oven te gebruiken. Ik vind het geweldig om te werken in een onderneming waar alles gebaseerd is op wederzijds respect. Het exacte gevoel is moeilijk te omschrijven. Omdat koks en bakkers zo nauw met elkaar samenwerken, leek het mij logisch dat er regelmatig discussies ontstaan. Ik heb er geen enkele meegemaakt. Ik nam ook aan dat ik als nieuweling niet zonder slag of stoot zou worden aanvaard door de groep. Dat had ik ook mis. Ik werd aangenaam verrast door de vriendelijkheid en openheid van iedereen. De enige die terughoudend was, was ikzelf, omdat ik niet goed wist hoe ik moest reageren. 
 
-Achteraf bekeken heb ik spijt dat ik die toffe mensen niet beter heb leren kennen. Er zijn momenten genoeg geweest waarop ik die kans had, maar door de combinatie van te veel prikkels van het werk en mijn persoonlijkheid heb ik die jammer genoeg laten liggen. Ik werd bijvoorbeeld elke avond uitgenodigd om voor de avondservice mee te eten met iedereen. De eerste dagen was ik zo moe dat ik dat vriendelijk afgeslagen heb. De latere dagen moest ik dringend Gent centrum gaan verkennen ‘voordat de winkels gaan sluiten’, en de laatste dagen keek ik te zeer uit om terug naar huis te gaan. Ik verzon excuses om niet te laten blijken dat ik veel moeite had om aan dit erg stresserend werk te wennen. De koks waren zelfs zo attent dat ze speciaal voor mij enkele vegetarische bijgerechten klaar maakten, waar ik ‘s middags dankbaar gebruik van maakte. 
+Achteraf bekeken heb ik spijt dat ik die toffe mensen niet beter heb leren kennen. Er zijn momenten genoeg geweest waarop ik die kans had, maar door de combinatie van te veel prikkels van het werk en mijn persoonlijkheid heb ik die jammer genoeg laten liggen. Ik werd bijvoorbeeld elke avond uitgenodigd om voor de avondservice mee te eten met iedereen. De eerste dagen was ik zo moe dat ik dat vriendelijk heb afgeslagen. De latere dagen moest ik dringend Gent centrum gaan verkennen ‘voordat de winkels gaan sluiten’, en de laatste dagen keek ik te zeer uit om terug naar huis te gaan. Ik verzon excuses om niet te laten blijken dat ik veel moeite had om aan dit erg stresserend werk te wennen. De koks waren zelfs zo attent dat ze speciaal voor mij enkele vegetarische bijgerechten klaar maakten, waar ik ‘s middags dankbaar gebruik van maakte. 
 
 Ik miste Kristien enorm[^mueslimis]. We zijn nog nooit meer dan een paar dagen gescheiden geweest van elkaar. Ik reed in het weekend op- en af naar huis, maar dat verhoogde alleen maar het aantal pijnlijke afscheidsmomenten. Ik was zo bezig met mijn eigen gevoelens, dat ik onvoldoende open stond om écht van anderen te kunnen leren. Niet alleen over bakken, maar hoe ze in het leven staan. Waarom ze dit belachelijk zwaar werk doen, en niet achter een PC zitten. Waarom ze zwetend glimlachen, in plaats van te fronsen. 
 
@@ -102,14 +102,14 @@ Sam is een geweldige Londenaar die in shifts werkt als afwasser. De job als afwa
 ‘Ah, en dit is onze afwasser voor vandaag’ zei Eline. 
 ‘Hallo, ik ben John’. Ik schudde zijn hand en stelde mijzelf voor. John was net aan het worstelen met zijn groot waterbestendig schort. John glimlachte breed. \nl
 ‘Laten we er maar een stevig invliegen, hè Wouter!’ Wij als bakkers zijn de eersten die zo vroeg zorgen voor een overvloedige stapel afwas. Geen enkele andere bakkerij die ik ken heeft een afwasser, wat een mazzel zeg. \nl
-‘Goedemorgen Wouter. Ik zie dat je Sam ook al ontmoet hebt’. Sarah loopt naar achteren om mij te begroeten en John begint hard te lachen.\nl
-‘Wie?’ Ik moet toen heel dwaas moeten gekeken hebben. \nl
+‘Goedemorgen Wouter. Ik zie dat je Sam ook al hebt ontmoet’. Sarah loopt naar achteren om mij te begroeten en John begint hard te lachen.\nl
+‘Wie?’ Ik moet toen heel dwaas moeten hebben gekeken. \nl
 ‘Oh Sarah, moet je het zo snel al verknoeien? Goed goed, ik ben Sam, en niet John!’ \nl
 Sindsdien noemen wij elkaar steevast John. Elke morgen riepen we opgewekt tegen elkaar ‘_morning John, how are you today?_’ gevolgd door ‘_couldn’t be better!_’
 
 Van Sam heb ik geleerd om op een andere manier tegen dingen aan te kijken. Om altijd uit te gaan van het beste in de mens. Ik vroeg hem eens of hij het niet vervelend vond om als afwasser te werken, terwijl bakkers en koks voor de producten zorgen die door onze klanten zo gewild zijn. Ik zei hem dat ik hem bewonderde om zijn hard werk, in vergelijking met dat van ons. \nl
 ‘Weet je, iedereen doet hier enorm zijn best. Iedereen levert zijn bijdrage. Ik vind mijn werk als afwasser niet zwaarder als wat jullie moeten doen. De godganse dag die oven open- en dichtdoen, met bakplaten zeulen en bloem afwegen: neen bedankt. Ik doe heel graag wat ik doe!’ Iedereen respecteerde Sam ook om wat hij deed. De serveersters bedanken hem wanneer borden en bestek aan de afwas geplaatst worden, waarop hij vrolijk ‘_no problem!_’ antwoordt. Als je dringend juist die ene mengkom nodig had, bedekt onder een berg andere vaat, was Sam er om je uit de nood te helpen. \nl
-Het is jammer dat ik pas ten volle besefte wat ik van mensen als Sam geleerd heb toen de stage er op zat. 
+Het is jammer dat ik pas ten volle besefte wat ik van mensen als Sam heb geleerd toen de stage er op zat. 
 
 \index{Windowpane, kneden tot}
 \index{Autolyse}
@@ -185,8 +185,8 @@ Ik heb het geluk gehad om tot dit besef te komen zonder de wereld te moeten rond
 
 En Sarah zei dat ik het toch goed overleefd had. 
 
-‘Je werkt heel methodisch en kan goed multitasken. Dat zijn essentiële eigenschappen als bakker.’ Ze knikt goedkeurend. Wekkers die constant aflopen die aandacht eisen tussen het maken van verschillende degen door - het is inderdaad een kwestie van uw hoofd erbij te houden. Ik word gevleid met de vraag of ik het zie zitten om af en toe in het weekend bij te springen, maar sla het vriendelijk af. Eerst wat ik hier geleerd heb verwerken. En misschien terug wat niksen. Het is verleidelijk. 
-Terug thuis duurde het maanden om volledig te vatten wat ik allemaal geleerd heb. Het kostte me eerlijk gezegd wat moeite om mijn dagelijks leven terug op te pikken. Er leek geen dynamiek te zitten in mijn huidig werk, in vergelijking met het avontuur in Gent. Ik begon nog meer dan anders te fantaseren over een eigen bakkerij. 
+‘Je werkt heel methodisch en kan goed multitasken. Dat zijn essentiële eigenschappen als bakker.’ Ze knikt goedkeurend. Wekkers die constant aflopen die aandacht eisen tussen het maken van verschillende degen door - het is inderdaad een kwestie van uw hoofd erbij te houden. Ik word gevleid met de vraag of ik het zie zitten om af en toe in het weekend bij te springen, maar sla het vriendelijk af. Eerst wat ik hier heb geleerd verwerken. En misschien terug wat niksen. Het is verleidelijk. 
+Eenmaal thuis duurde het maanden om het avontuur volledig te vatten. Het kostte me eerlijk gezegd wat moeite om mijn dagelijks leven terug op te pikken. Er leek geen dynamiek te zitten in mijn huidig werk, in vergelijking met het avontuur in Gent. Ik begon nog meer dan anders te fantaseren over een eigen bakkerij. 
 
 > _'Ge moet het graag doen om het graag te doen.'_
 
@@ -194,7 +194,7 @@ Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn r
 
 \newpage
 
-### Wat ik geleerd heb
+### Wat ik heb geleerd
 
 * De temperatuur beïnvloedt nog steeds de rijstijd, maar ook omgekeerd: hoe kouder, hoe trager. 
 * De absolute minimale hoeveelheid tijd van bloem tot _smaakvol_ brood is subjectief en kan gaan tot meer dan 30 uur. 

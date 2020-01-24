@@ -50,7 +50,7 @@ In de praktijk sla ik die stap vaak over. Bij Syntra sprak men ook nog van een '
 
 \index{Baker's Percentage}
 
-Het is een mythe dat bakken exacte hoeveelheden vereist, ook al is patisserie hier uiteraard gevoeliger voor dan brood. Ik ken bakkers die volledig op hun gevoel werken en niet eens weten hoeveel water ze nu exact gebruikt hebben. Daar schrok ik behoorlijk van: hoe kan je dat als verantwoordelijke bakker nu niet weten? Het _baker's percentage_ was voor mij toen heilig: `65%` water is `65%` water en niet `66%`. \nl
+Het is een mythe dat bakken exacte hoeveelheden vereist, ook al is patisserie hier uiteraard gevoeliger voor dan brood. Ik ken bakkers die volledig op hun gevoel werken en niet eens weten hoeveel water ze nu exact hebben gebruikt. Daar schrok ik behoorlijk van: hoe kan je dat als verantwoordelijke bakker nu niet weten? Het _baker's percentage_ was voor mij toen heilig: `65%` water is `65%` water en niet `66%`. \nl
 Na mijn stage besefte ik dat consistent zijn kan betekenen dat er soms meer en soms minder water nodig is, afhankelijk van de oogst van het graan. Hetzelfde geldt voor rijstijden. Dat maakt het strikt volgen van een recept nog gevaarlijker. Een broodformule tekent de kantlijnen uit, de inkleuring doe je als bakker zelf en kan variëren van dag tot dag. Probeer dus eerst alle stappen in het broodbakproces zo goed mogelijk te begrijpen. Vanaf dan is stap voor stap experimenteren mogelijk. 
 
 Het is onbegrijpelijk dat zoveel boeken vreemde hoeveelheden hanteren zonder relatieve hoeveelheden te vermelden. Als ik wil weten hoeveel water of zout in brood zit ten opzichte van de totale hoeveelheid bloem moet ik mijn rekenmachine zoeken. Enkel percentages vermelden verwart dan weer beginnende bakkers. \nl
@@ -119,7 +119,7 @@ Ik voeg nooit vetstoffen toe aan mijn brood, zelfs niet als het om pizza- of foc
 
 ### Pittig Roggebrood
 
-Ik hou van die erg geurige, donkerbruine, plakkerige sneetjes roggebrood. Hoe meer rogge gebruikt in de formule, hoe krachtiger de smaak, en hoe sneller een voldaan gevoel. In tegenstelling tot het tarwebrood laat ik het percentage aan rogge vaker schommelen, meestal tussen `50` en `80%`. Als je nog nooit gebakken hebt met rogge, is het een slimme zet om te beginnen met de helft en na een aantal geslaagde experimenten gestaag de hoeveelheid op te krikken. Dankzij de pentosen in rogge gaat het deeg veel sneller plakken dan een typisch tarwedeeg. 
+Ik hou van die erg geurige, donkerbruine, plakkerige sneetjes roggebrood. Hoe meer rogge gebruikt in de formule, hoe krachtiger de smaak, en hoe sneller een voldaan gevoel. In tegenstelling tot het tarwebrood laat ik het percentage aan rogge vaker schommelen, meestal tussen `50` en `80%`. Als je nog nooit hebt gebakken met rogge, is het een slimme zet om te beginnen met de helft en na een aantal geslaagde experimenten gestaag de hoeveelheid op te krikken. Dankzij de pentosen in rogge gaat het deeg veel sneller plakken dan een typisch tarwedeeg. 
 
 | Hoeveelheid | Percentage | Beschrijving        |
 |:-----------:|:----------:|:--------------------|
@@ -187,7 +187,7 @@ Bakken met zuurdesem hoeft niet te betekenen dat commerciële varianten van gist
 In tegenstelling tot veel 'beginners recepten voor zuurdesem' is het géén goed idee om hier onmiddellijk mee van start te gaan voordat voldoende broden met alleen maar desem gebakken zijn. Gist schudt immers je hele tijdsschema door elkaar. Zelfs de kleinste toevoeging van gedroogde korrelgist kan gecombineerd met lange rijstijden een fiasco betekenen. \nl
 Brood wordt zeer frequent met gist én desem gemaakt om de productie te kunnen opdrijven zonder te veel aan smaakverlies te lijden. Ik zou er altijd voor kiezen om het deeg voldoende rusttijd te geven. Jeffrey Hamelman gebruikt in elk rogge zuurdesembrood ook gist om het brood voldoende te laten opkomen bij gebrek aan gluten. Mij maakt het minder uit hoe goed roggebrood rijst, zolang het maar geen baksteen is (dat is op te lossen met voldoende water). 
 
-Deze combinatie van gist en zuurdesem wordt ook wel een _hybride_ deeg genoemd. Als je, in tegenstelling tot wat ik in hoofdstuk \ref{kabouter} gedaan heb, de kabouter in de broodbakmachine nog niet op pensioen hebt geplaatst, is dit de aangeraden methode om zuurdesembrood te bakken met de machine. Bakprogramma's liggen vaak vast op vier uur. In die korte periode is smaak en volume kweken moeilijk, tenzij met een zuurdesem voordeeg (voor de smaak) en toegevoegde gist (voor het volume). \nl
+Deze combinatie van gist en zuurdesem wordt ook wel een _hybride_ deeg genoemd. Als je, in tegenstelling tot wat ik in hoofdstuk \ref{kabouter} heb gedaan, de kabouter in de broodbakmachine nog niet op pensioen hebt geplaatst, is dit de aangeraden methode om zuurdesembrood te bakken met de machine. Bakprogramma's liggen vaak vast op vier uur. In die korte periode is smaak en volume kweken moeilijk, tenzij met een zuurdesem voordeeg (voor de smaak) en toegevoegde gist (voor het volume). \nl
 In dit geval vullen beide rijsmiddelen elkaar aan. De smaak komt van het voordeeg en het volume van de gist. Om het maximum uit het voordeeg te halen fermenteer je best zoveel mogelijk op voorhand, waarvan bij voorkeur volkoren granen. De formule van het tarwe boerenbrood ziet er dan als volgt uit:
 
 | Hoeveelheid | Percentage | Beschrijving        |
@@ -244,7 +244,7 @@ De keuzes die worden gemaakt bij de samenstelling van een deeg reflecteert de un
 
 ### Iets over misvattingen
 
-Hopelijk is het ondertussen duidelijk dat de mystiek die rond zuurdesem hangt eenvoudig doorprikt kan woorden door de juiste kritische vragen te stellen. Er blijven echter nog te veel hardnekkige fabeltjes leven, ook op gebied van methodiek. Ik presenteer een greep van de onzin die ik het meeste gehoord heb, en hopelijk in de toekomst minder ga horen.
+Hopelijk is het ondertussen duidelijk dat de mystiek die rond zuurdesem hangt eenvoudig doorprikt kan woorden door de juiste kritische vragen te stellen. Er blijven echter nog te veel hardnekkige fabeltjes leven, ook op gebied van methodiek. Ik presenteer een greep van de onzin die ik het meeste heb gehoord, en hopelijk in de toekomst minder ga horen.
 
 Om te beginnen mag je zogezegd geen voordeeg mengen met een metalen lepel, of laten rijzen in een metalen kom, omdat het zuur kan reageren met het metaal. Niet alle metalen zijn even gevoelig voor de inwerking van zuur voedsel. Koper en aluminium zijn de grootste kanshebbers op schade. \nl
 Het zuur moet echter zeer geconcentreerd zijn om te kunnen inwerken op deze soorten metaal. Lange blootstelling kan wel problematisch zijn. Je zuurdesemcultuur zelf bewaren in een koperen container is dus geen goed idee, maar mengen en fermenteren is onschadelijk, en al zeker een minuutje mengen met een lepel. Hol dus niet naar de winkel voor een houten lepel want dat is een fabeltje. De zuurtegraad van desem haalt de lage waardes van puur melk- en azijnzuur trouwens nooit[^zuurgr].

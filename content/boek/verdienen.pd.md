@@ -30,7 +30,7 @@ Een marktonderzoek leverde mij misschien meer inzicht op over de bereidwillighei
 
 Administratie verslond tijd die ik liever in het maken van recepten stak. Ik was alleen nog maar bezig met verpakken, mails te beantwoorden, en verloren zendingen terug te zoeken (bedankt DPD!). Als ik die feiten combineerde met de balans van mijn boekhouding was de conclusie snel gemaakt. \nl
 Na een jaar break-even draaien gaf ik er de brui aan. Zo’n concept in leven blijven houden moet voor mij persoonlijk ook nog motiverend genoeg blijven om het na mijn uren als programmeur te willen blijven doen. Ik ben heel tevreden met het afgelegde traject. Zeker als ik kijk naar het aantal mensen die ik heb leren kennis maken met zuurdesem en de extra workshops die ik heb mogen geven dankzij dit initiatief. \nl
-Een lepe verkoper vertelde mij eens ‘_ondernemen is de markt lezen_’. Ik had helemaal niets gelezen, en moest ik dat wel gedaan hebben, dan was ik er waarschijnlijk nooit aan begonnen. 
+Een lepe verkoper vertelde mij eens ‘_ondernemen is de markt lezen_’. Ik had helemaal niets gelezen, en moest ik dat wel hebben gedaan, dan was ik er waarschijnlijk nooit aan begonnen. 
 
 Mijn ‘eerst doen, dan denken’ attitude heeft me al veel rijke ervaringen zoals deze opgebracht. Ik probeer er een gewoonte van te maken om zo vaak mogelijk te vallen. Anders kan je toch ook niet terug opstaan? \nl
 Ik ben er zeker van dat ik het slimmer had kunnen aanpakken door beter mijn huiswerk te doen. Ik kende niets van marketing, verkoopstechnieken, en administratie van een zelfstandig bijberoep. Nu kan ik zeggen dat ik (nauwelijks) iets ken van marketing, verkoopstechnieken, en administratie van een zelfstandig bijberoep. Ik ken er weinig van en ik ben er niet goed in, maar tevreden klanten die dit op Facebook posten geven me de kracht om het te blijven doen:
@@ -183,7 +183,7 @@ Ik vraag René naar de grote kneder met één arm die in een hoek kortbij de ove
 ‘Dat klopt, maar wegens plaatsgebrek is dat voor ons momenteel niet de beste optie. Deze muur staat in de weg en aan de oven hebben wij geen centimeter ruimte meer vrij.’ Altijd zeulen met zoveel deeg is niet leuk. \nl
 ‘Hetzelfde probleem met de rijskast in feite. We kunnen het instellen als remkast op lage temperatuur, of als rijskast op hoge temperatuur. Maar we hebben er zo maar ééntje. Het is een beetje puzzelen om alles perfect in elkaar te laten passen.’ \nl
 ‘En hoe gaat de verkoop? Dit landgoed ligt niet erg centraal, het is toch even fietsen vanuit Utrecht. Merken jullie daar iets van?’ vraag ik. René knikt. \nl
-‘Het brood wordt verkocht in het gebouw van de keuken zoals jullie ongetwijfeld al gezien hebben.’ \nl
+‘Het brood wordt verkocht in het gebouw van de keuken zoals jullie ongetwijfeld al hebben gezien.’ \nl
 ‘Ja, ’ onderbreek ik, ‘en de prijzen vallen heel goed mee. Volgens mij mag het gerust duurder worden geprijsd hoor. `3.60` EUR voor een desem brood van `900 gr`?’ \nl
 ‘Eerder `800`. Welja, we verkopen het brood via andere verkooppunten. Die winkels nemen hun eigen winstmarge daar nog eens op dus dat is weer net iets duurder. Ik wil het niet te duur maken voor de mensen die de moeite nemen om tot bij ons te komen. We hebben zo heel wat vaste klanten, tegen alle verwachtingen in.’ 
 
@@ -251,7 +251,7 @@ Het '_Puratos Center for Bread Flavour_' ligt in Duitstalig België, in een klei
 ‘Wij werken samen met professor Marco Gobbetti die in zijn laboratorium in Italië alle gisten en bacteriën isoleert. Een rijke cultuur bevat meer dan duizend verschillende soorten. De volgende stap is de geïsoleerde organismen van verschillende culturen te combineren en zo de ideale nieuwe cultuur op te kweken. Zo ontwikkelen wij onze eigen zuurdesem producten. We beschikken momenteel over meer dan vierhonderd verschillende melkzuurbacteriën.’ 
 
 We komen aan in een bakkerij die als testlab fungeert om te kunnen experimenteren met de gisten in het broodbakproces. Karl laat me verschillende poeder- en vloeibare desems ruiken en proeven. Ik ben verrast van het scala aan kleuren en smaken: van zoet naar zuur, van donkerbruin gekarameliseerd naar lichtgeel. \nl
-‘Sommige producten worden als algemeen rijsmiddel verkocht. Anderen fungeren als specialist: die moeten dienen voor baguettes of voor zachte luxe. Door te spelen met de organismen kunnen we blijven proberen tot we de ideale combinatie ontdekt hebben.’ Mijn verwonderde blik doet Karl glimlachen. \nl
+‘Sommige producten worden als algemeen rijsmiddel verkocht. Anderen fungeren als specialist: die moeten dienen voor baguettes of voor zachte luxe. Door te spelen met de organismen kunnen we blijven proberen tot we de ideale combinatie hebben ontdekt.’ Mijn verwonderde blik doet Karl glimlachen. \nl
 ‘We hebben hier regelmatig bezoekers over de vloer die onder de indruk zijn. Hier komen bakkers op zoek naar de heilige graal om hun proces te optimaliseren, maar ook Aziatische managers van enorme ketens die smaak en technologie wensen te combineren.’ \nl
 ‘Kan ik ook een stuk brood proeven in plaats van de desem zelf? Dat geeft een completer beeld’, zeg ik, wijzend naar de netjes geordende stapel afkoelende broden in het rek. Karl schudt zijn hoofd. \nl
 ‘Sorry, die zijn voor een belangrijke demonstratie weggelegd. Ik had misschien iets extra moeten laten bakken… Maar hier, pak een zak van onze O-Tentic mee om thuis te proberen!’ Hij overhandigt me een zak van `2 kg` en ik bedank hem uitvoerig. \nl
@@ -384,7 +384,7 @@ Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Can
 
 \newpage
 
-### Wat ik geleerd heb
+### Wat ik heb geleerd
 
 * De professionele kant van brood bakken betekent ook de nodige administratieve werken doorploeteren. 
 * Er zijn verschillende manieren om mensen kennis te laten maken met zuurdesem. 

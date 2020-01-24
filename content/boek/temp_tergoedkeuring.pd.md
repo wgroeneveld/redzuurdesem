@@ -48,7 +48,7 @@ Zoals gewoonlijk manen wetenschappelijke publicaties ons tot voorzichtigheid, in
 [^concl]: Het spreekt voor zich dat elke graansoort zijn eigen karakteristieke smaak heeft. Spelt is heeft een zoete nootachtige smaak die iets subtieler is dan het gele durum. Kamut wordt daan weer ervaren als boterachtig.
 
 'En hoe zit dat dan precies met winter- en zomertarwe, Pieter? Brengt het ene meer op als het andere?' Ik wist dat sommige soorten granen beter gedijen in bepaalde seizoenen, en dat wintertarwe het meeste eiwitten oplevert. \nl
-'Wintertarwe moet het echt koud gehad hebben en wordt in de herfst gezaaid. Die brengt het meeste op. Die langere periode kan je met zomertarwe onmogelijk nog inhalen. Dat staat al tien centimeter hoog in het vroege voorjaar. Het probleem is dat ik daar met mijn tractor niet meer door kan om te bemesten of je loopt het gevaar de plantjes kapot te rijden. Dan moet je dus sproeien, en dat mag ik niet. Ik plant dus praktisch gezien liever zomertarwe.' \nl
+'Wintertarwe moet het echt koud hebben gehad en wordt in de herfst gezaaid. Die brengt het meeste op. Die langere periode kan je met zomertarwe onmogelijk nog inhalen. Dat staat al tien centimeter hoog in het vroege voorjaar. Het probleem is dat ik daar met mijn tractor niet meer door kan om te bemesten of je loopt het gevaar de plantjes kapot te rijden. Dan moet je dus sproeien, en dat mag ik niet. Ik plant dus praktisch gezien liever zomertarwe.' \nl
 'En het eiwitgehalte?' vraag ik. Pieter leunt naar voren en zet zijn glas op tafel. \nl
 'Weet je hoe ze dat doen, die grotere molens? Ze kopen alles op en mengen. Als een bakker dan zegt, ik moet `12.5%` hebben, bon, dan zullen die daarvoor zorgen. Maar die bloem komt niet van één akker, vergeet het maar. Winter, zomer, dat maakt dan niets meer uit. Ze kopen bijvoorbeeld _blé dûr_ uit Zuid-Frankrijk en mengen met een beetje Belgisch meel om aan de vraag te kunnen voldoen.' Ik vraag me plots af hoeveel procent van de 'Belgische tarwebloem' in supermarkten effectief Belgisch is... \nl
 'Het resultaat is zoals goedkope honing dan?' \nl
@@ -114,7 +114,7 @@ Gelukkig zijn er in de eenentwintigste eeuw molenaars die boer en bakker dichter
 
 Mike leidt ons langs smalle trappen mee naar de binnenkamers van de molen. Er hangt een karakteristieke sfeer in de molen die moeilijk in woorden uit te drukken is. De geur van gemalen graan, het zacht gezoem van de roterende wieken, de wirwar van mechanische installaties die Mike één voor één kort beschrijft. Ik beeld mij in hoeveel plezier en genoegen het zou scheppen om hier te kunnen en mogen werken. \nl
 'Dat is wat anders als die IKEA-molens die je soms in Nederland en Vlaanderen ziet hé!' zegt Mike grijnzend. Hij legt uit dat het binnenwerk van slecht onderhouden windmolens vaak volledig vervangen wordt. 'Vaak door architecten die denken het beter te weten. Het gevolg is iets dat werkt, maar sfeer mist, of gewoon helemaal niet werkt. Die typische geur zoals hier, dat zal je daar nooit terugvinden.' \nl
-Het is duidelijk dat Mike en Soetkin erg trots zijn op wat ze bereikt hebben, en terecht. Die passie voor het vak stralen ze beiden uit. Mike is al van kleins af gebeten door molens, en heeft voor hij de Artemeersmolen overnam het onderhoud van verschillende molens, waaronder zijn huidige, voor zijn rekening genomen. \nl
+Het is duidelijk dat Mike en Soetkin erg trots zijn op wat ze hebben bereikt, en terecht. Die passie voor het vak stralen ze beiden uit. Mike is al van kleins af gebeten door molens, en heeft voor hij de Artemeersmolen overnam het onderhoud van verschillende molens, waaronder zijn huidige, voor zijn rekening genomen. \nl
 'De buil staat hier achter. Het gemalen graan gaat automatisch via deze transportbuizen naar de machine. Vroeger deed een molenaar niets anders dan zakken vullen. Door processen te automatiseren kan ik ondertussen met andere dingen bezig zijn. Er zijn hier veel andere dingen die ook mijn aandacht opeisen.' De indrukwekkende graan- en meelelevator zorgt tussen het malen en builen in voor de nodige afkoeling. \nl
 Ik wijs naar de builmachine. 'Zeven jullie alles hierin? Ik bedoel, verkopen jullie ook roggebloem? Dat is moeilijk te vinden in België.' \nl
 'Met kleine hoeveelheden. Rogge is echt een ramp op gebied van stof. Af en toe doen we dat wel, maar dan met alles open en stofafzuiging op maximum. Ik heb vroeger vaak genoeg rogge gezeefd voor de Vondelmolen[^vondel] en ben daar allergisch aan geworden. Je zag bij wijze van spreken soms geen hand meer voor ogen, zoveel stof geeft dat. Erg ongezond voor de molenaar!'
@@ -135,7 +135,7 @@ Mineralen en vitaminen zitten in de buitenste lagen van de graankorrel, waardoor
 
 [^stab]: Alle zemelen volledig uitzeven lost het probleem ook op: in 2000 was in de VS de productie van volkoren meel ongeveer `2%` van de totale productie van tarwebloem. Een andere techniek is tarwesoorten selecteren en kweken op broosheid van zemelen, het vermogen om te worden gereduceerd tot kleine deeltjes. Werkelijk alle parameters van een tarwekorrel zijn geoptimaliseerd. 
 
-Om niet met lege handen naar huis te gaan kopen we verschillende zakken tarwe- en speltbloem. Op het etiket staan niet alleen de gebruikelijke ingrediënten en houdbaarheidsdatum, maar ook de herkomst van het graan. Het is wel leuk om te weten van welke boer je het graan gekocht hebt. Een duidelijk voelbaar gevolg van de relatie tussen bakker, molenaar en boer die Mike en Soetkin graag persoonlijk houden. \nl
+Om niet met lege handen naar huis te gaan kopen we verschillende zakken tarwe- en speltbloem. Op het etiket staan niet alleen de gebruikelijke ingrediënten en houdbaarheidsdatum, maar ook de herkomst van het graan. Het is wel leuk om te weten van welke boer je het graan hebt gekocht. Een duidelijk voelbaar gevolg van de relatie tussen bakker, molenaar en boer die Mike en Soetkin graag persoonlijk houden. \nl
 Op de terugweg in de auto is het een tijdje heel stil. De passie en openheid van deze mensen overdonderde ons. Door hun hele gezin tot in Poeke te verhuizen en lange dagen te maken geven ze veel op. In plaats van te klagen, zoals we allemaal al eens durven te doen, stralen ze. Je kan gerust zeggen dat Flour Power hun roeping is.
 
 ### De brouwer
@@ -285,7 +285,7 @@ Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten 
 
 \newpage
 
-### Wat ik geleerd heb
+### Wat ik heb geleerd
 
 * Een bio label gaat niet alleen gepaard met een administratieve rompslomp, maar kost de boer en de molenaar veel extra moeite in vergelijking met conventioneel telen en malen.
 * Spelt is evenzeer een onderwerp van manuele selectie als moderne tarwesoorten.

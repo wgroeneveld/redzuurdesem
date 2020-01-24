@@ -1,5 +1,5 @@
 
-## Alles vergeten wat je geleerd hebt
+## Alles vergeten wat je hebt geleerd
 
 \label{vergeten}
 
@@ -14,8 +14,8 @@ Februari 2014
 ‘Heb je enig idee wat voor vuiligheid daar allemaal in zit?’ Peter kijkt ons even ongeduldig aan en hervat daarna zijn taak om de bakkerij op orde te brengen. \nl
 ‘Weet jij wat voor een rommel mensen tegenwoordig allemaal eten?’ Pannen worden op elkaar gestapeld, bloemresten bij elkaar geveegd.\nl
 ‘Euhm...’ Ik had er geen idee van, en natuurlijk heeft hij gelijk. We kijken elkaar vragend aan, enigszins verrast door de vurige reacties. Het is tien uur ‘s morgens en Patrick, Dimitri, en ik staan in de kelder en bakkerij van Peter Schoofs te Genk. Patrick, die Peter nog kende van vroeger, heeft voor ons een kijkje in de bakkerij geregeld. We zijn alledrie razend enthousiast en proberen iedere centimeter informatie uit de bakker zijn neus te peuteren. Peter heeft namelijk dezelfde opleiding achter de rug als wij, in dezelfde avondschool, met dezelfde leerkracht. Het lijkt ons dus niet meer dan logisch dat hij ons enkele nuttige tips kan geven als beginners. \nl
-‘Pas je veel zaken toe die je geleerd hebt van de opleiding?’ vraag ik voorzichtig. \nl
-‘De opleiding? _Hmpf_. Het eerste wat ik gedaan heb toen ik mijn diploma had, was alles vergeten wat ik geleerd heb.’ Gekletter van meer pannen die op elkaar gestapeld worden. Snel op- en af geloop, terwijl wij er wat schaapachtig bij staan te kijken. \nl
+‘Pas je veel zaken toe die je hebt geleerd van de opleiding?’ vraag ik voorzichtig. \nl
+‘De opleiding? _Hmpf_. Het eerste wat ik heb gedaan toen ik mijn diploma had, was alles vergeten wat ik heb geleerd.’ Gekletter van meer pannen die op elkaar gestapeld worden. Snel op- en af geloop, terwijl wij er wat schaapachtig bij staan te kijken. \nl
 'Ik heb jaren in combinatie met de avondschool mijn échte opleiding gevolgd in deze bakkerij zelf, bij Willy' legt Peter uit. 
 
 Het verhaal van Peter als bakker is een atypisch, maar frequenter voorkomend fenomeen: hij heeft jaren als industrieel ingenieur gewerkt en heeft in 1999 de beslissing genomen om zijn carrière volledig om te gooien. De bakkerij, genaamd ‘Natuurbakkerij Schoofs & Herteleer’, heeft hij samen met zijn vrouw, na een lange stage en het behalen van het wettelijk verplicht diploma, overgenomen van zijn voorganger Willy Herteleer. Zoals de naam reeds doet vermoeden, wordt er enkel met zuivere, honderd procent natuurlijke producten gewerkt. Peter weigert bijvoorbeeld suiker in zijn veel voorkomende vormen te gebruiken en experimenteert in de plaats daarvan met rijststroop. 
@@ -127,7 +127,7 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 
 \newpage
 
-### Wat ik geleerd heb
+### Wat ik heb geleerd
 
 * Er is een groot gat tussen de principes die je aangeleerd krijgt tijdens een opleiding, en de principes die je je eigen maakt in het werkveld. 
 * Veel 'natuurlijke' ingrediënten in ons dagelijks brood komen inderdaad van de natuur, maar zijn alles behalve van nature aanwezig in granen. 

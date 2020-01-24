@@ -18,7 +18,7 @@ Augustus 2010
 '_Rammel, rammel, klots, klots_'. Stilte. \nl
 '_Rammel, rammel, klots, klots_'. Stilte. 
 
-Wanneer je aan die bepaalde geluiden went, schakelt onze kabouter over naar versnelling twee: een onophoudelijk gebonk. Vanaf dan volgt een zalige periode van rust. Maar niet getreurd, de kabouter is namelijk zeker niet ontheven van zijn taak! Na een uurtje een dutje gedaan te hebben, herinnert hij zich waarschijnlijk dat hij brood aan het kneden was dat nu dringend de oven in moet. De kabouter steekt de open haard aan en jij hoort een zacht getik, afkomstig van het verwarmingselement in de machine. \nl
+Wanneer je aan die bepaalde geluiden went, schakelt onze kabouter over naar versnelling twee: een onophoudelijk gebonk. Vanaf dan volgt een zalige periode van rust. Maar niet getreurd, de kabouter is namelijk zeker niet ontheven van zijn taak! Na een uurtje een dutje te hebben gedaan, herinnert hij zich waarschijnlijk dat hij brood aan het kneden was dat nu dringend de oven in moet. De kabouter steekt de open haard aan en jij hoort een zacht getik, afkomstig van het verwarmingselement in de machine. \nl
 Na drie kwartier vult het huis zich met de zachte geur van vers gebakken brood en meldt de kabouter trots zijn werk met een '_piep, piep, piep_', gecombineerd met een flikkerend rood lampje. Na een druk op de start/stop knop neem je afscheid van hem met een laatste '_piep_'. \nl
 Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit zijn huisje te nemen en te laten afkoelen, om het enige tijd daarna smakelijk naar binnen te kunnen werken. Liefst met beleg natuurlijk, want op die korte tijd krijgt de kabouter er nauwelijks wat smaak in. 
 
@@ -28,7 +28,7 @@ Zo'n kabouter in huis halen brengt heel wat voordelen met zich mee. Afhankelijk 
 Mijn Panasonic kabouter werkte het liefste met `550 gr` bloem en `320 gr` water - dat is een '_baker's percentage_' of water/bloem verhouding van `58%` [^1]. Het resultaat is een mooi broodje van iets minder dan `800 gr`. Als je een groot gezin hebt is dat nauwelijks voldoende, en zal elke dag je grote kabouter moeten zweten. Al een geluk dat slavenarbeid bij kabouters nog is toegestaan, ook al geven ze na een aantal jaar trouwe dienst de geest... 
 
 Als het even meezit is je kabouter ook voorzien van een manier om extra’s als noten en zaden toe te voegen aan je brood. De Panasonic had bovenaan een aparte laadklep om zulke ingrediënten in te bewaren. Het programma beslist dan zelf, nét voordat het klaar is met kneden, om de klep naar beneden te laten. Op die manier zijn je rozijnen niet stuk gekneed maar toch nog mooi verdeeld over je brood. \nl
-Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer doordacht in elkaar gezet hebben. Dat werkte in de praktijk vrij goed en werd begeleid met een bevredigend '_klonk_' geluid wanneer de rozijnen op je deeg belandden. 
+Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer doordacht in elkaar hebben gezet. Dat werkte in de praktijk vrij goed en werd begeleid met een bevredigend '_klonk_' geluid wanneer de rozijnen op je deeg belandden. 
 
 [^1]: Deze '_baker's percentage_' kan groter dan `100%` zijn. Deel de totale hoeveelheid water door de totale hoeveelheid bloem. Als je brood bestaat uit verschillende soorten bloem, tel je die allemaal samen. 
 
@@ -68,7 +68,7 @@ In die periode ontdekte ik op het internet een aantal blogs over brood bakken, e
 
 Dat klinkt inderdaad eenvoudig genoeg. Het ging over een half volkoren focaccia recept, dat ik diezelfde avond natuurlijk nog moest uitproberen. Een minieme hoeveelheid gist wordt toegevoegd aan een redelijk slap deeg, dat ‘s nachts de tijd krijgt om zich volledig te ontwikkelen. 
 
-Vanaf het moment dat ik een mengkom met rijzend deeg ergens heb staan, word ik enorm nerveus. Elk uur gaan kijken of alles nog leeft. Zijn die belletjes normaal? Staat het te koud of te warm? Moet ik nu verder gaan met de volgende stap, of nog wachten? Afwijken van het recept of blindelings volgen? Het lijkt een beetje op kijken naar een spannende film: wie weet hoe het einde eruit ziet. Snuif de geur eens op: is het te zuur? Of ruikt het nog naar niets? Druk er eens in. Blijft je vinger te lang hangen en is het te nat? Zit er genoeg druk op? Springt je vingerafdruk terug uit het deeg? Blijf vooral geconcentreerd, laat de aandacht niet verslappen! 
+Vanaf het moment dat er ergens in mijn buurt deeg rijst, word ik enorm nerveus. Elk uur gaan kijken of alles nog leeft. Zijn die belletjes normaal? Staat het te koud of te warm? Moet ik nu verder gaan met de volgende stap, of nog wachten? Afwijken van het recept of blindelings volgen? Het lijkt een beetje op kijken naar een spannende film: wie weet hoe het einde eruit ziet. Snuif de geur eens op: is het te zuur? Of ruikt het nog naar niets? Druk er eens in. Blijft je vinger te lang hangen en is het te nat? Zit er genoeg druk op? Springt je vingerafdruk terug uit het deeg? Blijf vooral geconcentreerd, laat de aandacht niet verslappen! 
 
 En dan gebeurt het ondenkbare. Ik moest dringend even weg. Zou ik de kom in de koelkast plaatsen? (Op dat moment beschikte ik nog niet over voldoende kennis om te weten wat de temperatuur doet met je deeg) Ik ben toch dadelijk terug thuis, het deeg zal wel oké zijn. \nl
 Drie uur later, na als een gek op de baan gereden te hebben, constant denkend aan het rijzend deeg, sta ik vol ongeloof terug te kijken in de kom. De vergadering is uitgelopen - en mijn deeg ook. Het ziet er uit als een krater, volledig in elkaar gezakt, zuurder ruikend dan voor mijn vertrek. Op dat moment zijn er nog twee opties. \nl
@@ -109,7 +109,7 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een
 
 \newpage
 
-### Wat ik geleerd heb
+### Wat ik heb geleerd
 
 * Wil je leren brood bakken, maar heb je geen idee waar te beginnen? Koop een broodbakmachine. 
 * Hou een dagboek bij, waar recepten, experimenten, en gedachten in terecht kunnen. Dit kan analoog of digitaal. Ervaringen kan je zo eenvoudiger delen met andere enthousiastelingen. 

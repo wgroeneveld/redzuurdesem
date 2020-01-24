@@ -73,7 +73,7 @@ Dit is een vicieuze cirkel: zolang er geen nieuwe bakkers worden opgeleid om sma
 
 [^6]: Luister eens naar het liedje van _Big Bill_: '_Ene me Hesp of ene me Kees_'.
 
-Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onze opleiding allemaal gebakken hebben [^7]. Ik voeg ze hier toe om aan te tonen dat het Belgisch Bakboek er niet ver naast zit. De exacte producten variëren van jaar tot jaar, maar de inhoud van de les blijft hetzelfde. 
+Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onze opleiding allemaal hebben gebakken [^7]. Ik voeg ze hier toe om aan te tonen dat het Belgisch Bakboek er niet ver naast zit. De exacte producten variëren van jaar tot jaar, maar de inhoud van de les blijft hetzelfde. 
 
 **Jaar 1:**
 
@@ -113,7 +113,7 @@ Nederlandse bakkers bevestigen het verhaal. En toch is er nog hoop: kijk maar na
 
 [^12]: Natuurlijk heb ik niet gesproken met de gemiddelde bakker, die zijn aanbod voor 95% overeenkomt met wat wij leerden uit de opleiding. 
 
-Betekent dit nu dat je de opleiding best niet volgt? Helemaal niet. Je leert er nog steeds veel cruciale basisprincipes zoals een soezenbeslag correct maken, manieren om bladerdeeg efficiënt te toeren en andere relevante technieken. Je leert er samen te werken met andere gelijkgezinden, die goede  vrienden worden. Je leert unieke tips van super joviale en bereidwillige leerkrachten die jaren in een bakkerij gewerkt hebben. Dit zijn de belangrijkste dingen die mij de rest van mijn leven zullen bijblijven. 
+Betekent dit nu dat je de opleiding best niet volgt? Helemaal niet. Je leert er nog steeds veel cruciale basisprincipes zoals een soezenbeslag correct maken, manieren om bladerdeeg efficiënt te toeren en andere relevante technieken. Je leert er samen te werken met andere gelijkgezinden, die goede  vrienden worden. Je leert unieke tips van super joviale en bereidwillige leerkrachten die jaren in een bakkerij hebben gewerkt. Dit zijn de belangrijkste dingen die mij de rest van mijn leven zullen bijblijven. 
 Het diploma zelf blijft nog altijd een vereiste in België, om een bakkerij te kunnen opstarten. Een boek schrijven leek me voor iemand met een zwakke rug een gezonder alternatief.
 
 Wat is nu eigenlijk het verschil tussen iemand die zich een '_boulanger_' noemt, en een '_patissier_' of '_chocolatier_'? Specialisatie is ook in de bakkerswereld de beste manier om jezelf te onderscheiden van de rest. Om ergens écht goed in te zijn, moet je je verdiepen. Mijn ambitie om _doctor in de zuurdesemologie_ te worden is hier geen uitzondering op. Volgens het eerder aangehaalde Dreyfus model is dat zo simpel als er slechts 10.000 uren aan spenderen, wat neerkomt op ongeveer 10 jaar. Het gaat niet over elke dag hetzelfde brood bakken tot je erbij neervalt, maar over '_deliberate practice_': écht oefenen, experimenteren, aanpassen, en verbeteren. Dat avontuur begint pas wanneer je, met je diploma op zak, op straat staat. 
@@ -214,7 +214,7 @@ Die dingen had ik allemaal niet ontdekt als ik de avondschool niet gevolgd had. 
 September 2015
 \end{flushright}
 
-‘Als de eieren niet dezelfde temperatuur als de boter hebben, gaan ze de boter doen klonteren. Zet het krat maar in de oven Wouter, we gaan ze dadelijk nodig hebben.’ Ghislain wijst naar de kapotte onderste verdieping die wij misbruiken als verwarmingselement om boter en eieren tot kamertemperatuur te brengen. \nl
+‘Als de eieren niet dezelfde temperatuur als de boter hebben, gaan ze de boter doen klonteren. Zet het krat maar in de oven Wouter, we zullen ze dadelijk nodig hebben.’ Ghislain wijst naar de kapotte onderste verdieping die wij misbruiken als verwarmingselement om boter en eieren tot kamertemperatuur te brengen. \nl
 ‘Mag ik de boter ook al smelten?’ vraagt Patrick.\nl
 ‘Jaja doe maar, doe maar. Pannetje in de oven!’ Patrick rommelt wat in de kast met pannen, en haalt er eentje tevoorschijn met een lange steel. Hij voegt de afgewogen boter toe aan het pannetje en zet het in de oven. Ondertussen probeer ik zo voorzichtig mogelijk een heel krat eieren van de koelkast naar de oven te verhuizen. \nl
 ‘... dus goed mengen met de _vlinder_, mensen!’ hoor ik Ghislain tegen de rest zeggen. Door mijn taakje met de eieren mis ik de helft van de instructies. Ik vertrouw op mijn collega’s om bij te springen waar nodig zou zijn. Het is belangrijker dat de eieren nu niet tegen de grond gaan...
@@ -337,7 +337,7 @@ De volgende keer dat ik naar een feestje ga, kan ik mijzelf voorstellen als prof
 
 \newpage
 
-### Wat ik geleerd heb
+### Wat ik heb geleerd
 
 * De snelheid van het kneden beïnvloedt de deegtemperatuur. 
 * De temperatuur beïnvloedt de rijstijd: hoe warmer, hoe sneller. 
@@ -384,7 +384,7 @@ Methode:
 - _Dag 1, 11u45_: 10min. bakken op `250°C`.
 
 Zoals je kan zien is de bovenstaande formule afgestemd op snelheid, en niet op smaak. Binnen de twee uur beschik je over een afgewerkt, verkoopbaar product. De kwaliteit van de eieren speelt geen grote rol: de kleur, binding, en rijskracht komen allemaal van de verbeteraar. \nl
-Een simpele verbetering zou kunnen zijn om de verbeteraar te vervangen door boter, de hoeveelheid gist drastisch te verminderen, en het rijsproces te verlengen. Dat is exact wat ik gedaan heb om tot de volgende formule te komen:
+Een simpele verbetering zou kunnen zijn om de verbeteraar te vervangen door boter, de hoeveelheid gist drastisch te verminderen, en het rijsproces te verlengen. Dat is exact wat ik heb gedaan om tot de volgende formule te komen:
 
 | Hoeveelheid | Percentage | Beschrijving                         |
 |:-----------:|:----------:|:-------------------------------------|

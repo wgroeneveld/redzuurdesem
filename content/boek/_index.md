@@ -7,27 +7,28 @@ draft: true
 pre: "<i class='fa fa-leanpub'></i> "
 ---
 
+X = Opgestuurd
+- = Opgestuurd + herinnering
+/ = Response: Geweigerd
+
 # Uitgeverijen
 
-[X] NL Kosmos - opgestuurd manuscripten@kosmosuitgevers.nl
+## Contact
 
-[X] NL Atlas Contact - opgestuurd manuscripten@atlascontact.nl
+[-] 08/2019 NL Kosmos manuscripten@kosmosuitgevers.nl
+[-] 08/2019 NL Atlas Contact manuscripten@atlascontact.nl
+[-] 08/2019 BE Lannoo - opgestuurd culinair&sport@lannoo.be
+[/] 08/2019 BE Standaard Uitgeverij - info@standaarduitgeverij.be
+[X] 01/2020 NL Karakter Uitgevers - info@karakteruitgevers.nl
 
-[X] BE Lannoo - opgestuurd culinair&sport@lannoo.be
-
-[X] BE Standaard Uitgeverij - opgestuurd info@standaarduitgeverij.be
+## Anderen
 
 - https://www.singeluitgeverijen.nl -> neemt niets meer aan
 - http://www.unieboekspectrum.nl/pagina/faq -> Amsterdam, aanvaart niets per e-mail, opletten formaat
-- https://www.kosmosuitgevers.nl/manuscripten/ -> nonfictie eten & drinken/gezondheid, past goed, 50pag samenvatting sturen, NU
 - https://www.nieuwamsterdam.nl/manuscript.html -> Amsterdam, aanvaart niets per e-mail, binnen 3mnd
-- https://www.standaarduitgeverij.be/manuscript-opsturen/ -> vallen veel boeken onder, zoals nonfictie lev., per e-mail, 3mnd
-- https://www.karakteruitgevers.nl/Insturen-manuscript.pdf -> groot aanbod culinair, niet zo wetenschappelijk?
 - http://www.fontaineuitgevers.nl/wp/auteurs-in-spe/ -> culinair & wetenschap/techniek
 - https://www.amboanthos.nl/contact/ -> neemt niets meer aan
 - https://uitgeverijprometheus.nl/contact/manuscript -> per papier!  (= Bert Bakker) (krijgt altijd antwoord)
-- https://www.lannoo.be/nl/manuscript 
-- https://www.atlascontact.nl/manuscript/ -> past goed filosofie/wetenschap/culinair/...
 
 
 # Het boek
