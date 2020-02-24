@@ -68,10 +68,10 @@ Dat is niet gebeurd.
 
 De opleiding bestaat uit verschillende grote modules zoals beslagen, taarten, zachte luxe, harde luxe, bladerdeeg en chocolade. Er was veel variatie, maar één ding ontbrak: de nadruk op brood bakken. Als afgestudeerde krijg je de titel van '_brood- en banketbakker_’, met klaarblijkelijk een duidelijke nadruk op dat laatste. 
 
-De oorzaak ligt niet bij de school, maar bij de voorkeur van de gemiddelde Belg. Het is gewoon een kwestie van vraag en aanbod. Stefan Elias' nieuw boek getiteld ‘_Belgisch Bakboek: onze lekkerste streekspecialiteiten_’ bevat ongeveer 250 pagina’s, waarvan 30 over brood en 200 over zoetigheid [@eliasbakboek]. Dat is `12%` over brood. Minder dan één vierde. Koffiekoeken, wafels, speculaas, babelutten, taarten, bavarois, noem maar op. Brood? Goh ja, wat je ‘s morgens eet zeker? En toch eten enorm veel Belgen ‘s morgens en ‘s middags nog altijd een ‘_boterham_’ of twee met klassiek beleg[^6]. Waarom wordt er dan zo weinig moeite gestoken in goed brood maken? \nl
+De oorzaak ligt niet bij de school, maar bij de voorkeur van de gemiddelde Belg. Het is gewoon een kwestie van vraag en aanbod. Stefan Elias' boek getiteld ‘_Belgisch Bakboek: onze lekkerste streekspecialiteiten_’ bevat ongeveer 250 pagina’s, waarvan 30 over brood en 200 over zoetigheid [@eliasbakboek]. Dat is `12%` over brood. Minder dan één vierde. Koffiekoeken, wafels, speculaas, babelutten, taarten, bavarois, noem maar op. Brood? Goh ja, wat je ‘s morgens eet zeker? En toch eten enorm veel Belgen en Nederlanders ‘s morgens en ‘s middags nog altijd een ‘_boterham_’ of twee met klassiek beleg[^6]. Waarom wordt er dan zo weinig moeite gestoken in goed brood maken? \nl
 Dit is een vicieuze cirkel: zolang er geen nieuwe bakkers worden opgeleid om smaak in hun brood te brengen op een natuurlijke manier, gaat men blijven andere dingen kopen in de bakkerij. De winstmarge op brood ligt veel lager dan die van taarten of luxe broodjes als pistolets en sandwiches, maar dat is geen geldige reden om smaakloze sponsen te verkopen. Dit probleem beperkt zich niet tot België: onze buurlanden kunnen er ook wat van. Toch is de kans op goed brood veel groter in Frankrijk of Duitsland dan in Nederland of België.  
 
-[^6]: Luister eens naar het liedje van _Big Bill_: '_Ene me Hesp of ene me Kees_'.
+[^6]: Luister maar eens naar het liedje van _Big Bill_: '_Ene me Hesp of ene me Kees_'...
 
 Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onze opleiding allemaal hebben gebakken [^7]. Ik voeg ze hier toe om aan te tonen dat het Belgisch Bakboek er niet ver naast zit. De exacte producten variëren van jaar tot jaar, maar de inhoud van de les blijft hetzelfde. 
 
@@ -192,15 +192,17 @@ Houd er rekening mee dat de kwaliteitsnormen van de EU niet dezelfde zijn als di
 [^anderewater]: Andere factoren spelen ook een grote rol, zoals we later zullen zien. 
 
 Het is uitzonderlijk om een ‘gezonde’ sandwich te vinden die met 'gewone boter' gemaakt is. Croissants en chocoladebroodjes kom je sneller tegen in twee soorten, gelabeld als ‘_croissant_’, en ‘_botercroissant_’. De eerste variant bevat waarschijnlijk 'Debco Alfa', een industriële _toerboter_ die wordt gebruikt om keer op keer een mooi gelaagd resultaat te bereiken[^flex]. Toerboter is margarine en verbeteraar in één. Gerezen bladerdeeg met roomboter ‘toeren’[^17] klinkt simpeler dan het is. Toerboter heeft een hoger smeltpunt: je croissants kan je met een gerust hart de rijskast in schuiven op `30° C` om ze nog geen uurtje daarna af te bakken. Doe hetzelfde met de roomboter croissants, en je kan ze in de vuilbak kieperen omdat de boter begint te smelten. \nl
-Toerboter geef de bakker de mogelijkheid om sneller het deeg te toeren door niet te secuur te werk te gaan op de uitroltafel: het deeg kan heel wat verdragen voordat het scheurt. Doe hetzelfde met de roomboter en je deeg is gegarandeerd gescheurd, waardoor de felbegeerde gelaagdheid verdwijnt. 
+Toerboter geeft de bakker de mogelijkheid om sneller het deeg te toeren door niet te secuur te werk te gaan op de uitroltafel: het deeg kan heel wat verdragen voordat het scheurt. Doe hetzelfde met de roomboter en je deeg is gegarandeerd gescheurd, waardoor de felbegeerde gelaagdheid verdwijnt. 
 Koop de volgende keer in je lokale bakkerij eens beide croissants om ze te kunnen vergelijken. Let eens op de smaak, de kleur, de geur en de textuur. Je zal onmiddellijk begrijpen wat ik bedoel. De 'gewone' croissants ruiken heel chemisch. Zelfs onze kippen tonen weinig interesse in stukjes van deze croissant. Als dat geen teken aan de wand is, dan weet ik het ook niet meer...
 
 De volgende ingrediëntenlijst komt van de technische fiche van het product 'Debco Mira'[^mirafiche], een '_margarine voor cake en gistdeeg, makkelijk te verwerken in diverse toepassingen._':
 
-> Plantaardige vetten: Palm, Geheel geharde palmpit, Kokos, Geheel geharde palm; Water; Plantaardige olie: Raapzaad; Emulgator: Lecithinen (E 322), Mono- en diglyceriden van vetzuren (E 471); Zout; Conserveermiddel: Kaliumsorbaat (E 202); Zuurteregelaar: Citroenzuur (E 330); Aroma's; Vitamines: Vitamine A
+> Plantaardige vetten: Palm[^palmvet], Geheel geharde palmpit, Kokos, Geheel geharde palm; Water; Plantaardige olie: Raapzaad; Emulgator: Lecithinen (E 322), Mono- en diglyceriden van vetzuren (E 471); Zout; Conserveermiddel: Kaliumsorbaat (E 202); Zuurteregelaar: Citroenzuur (E 330); Aroma's; Vitamines: Vitamine A
 palmitaat, Vitamine D3; Kleurstof: Caroteen (E 160a).
 
-Al een geluk dat er vitamine in zit! Het zou houdbaar zijn voor exact 182 dagen onder een temperatuur van `14` tot `16°C`. De zeer lange houdbaarheidsdatum verraadt genoeg. Vergeet niet dat de meeste ingrediënten terug komen in andere bekende vette producten, zoals chocopasta. Bewust de margarine weglaten om een lekkere boterham met _choco_ te eten zal je gemoedstoestand misschien stillen, maar je lichaam niet. 
+[^palmvet]: Palmolie productie is een van de voornaamste oorzaken voor het verdwijnen van een groot deel van het Maleisische regenwoud. Smakelijk!
+
+Wat een geluk dat er vitamines in zitten! Het product zou houdbaar zijn voor exact 182 dagen, onder een temperatuur van `14` tot `16°C`. De zeer lange houdbaarheidsdatum verraadt genoeg. Vergeet niet dat de meeste ingrediënten terug komen in andere bekende vette producten, zoals chocopasta. Bewust de margarine weglaten om een lekkere boterham met _choco_ te eten zal je gemoedstoestand misschien stillen, maar je lichaam niet. 
 
 [^17]: De boter in het deeg vrouwen in een aantal stappen.
 [^flex]: Deze producten worden gefabriceerd door ketens als CSM Bakery Solutions en Puratos. Groothandelaars als Ranson en Panesco varen hier ook goed bij. 
@@ -231,7 +233,7 @@ Wanneer zo’n stomme dingen gebeuren voel ik me meteen slecht. Dat zijn de best
 ‘De boter!’ schreeuwt Patrick plots. \nl
 ‘Pas op, gebruik handschoenen!’ Patrick begint te lachen. \nl
 'Er is iets misgegaan denk ik...' Hij haalt de pan uit de oven, en Dimitri en ik staren naar de vloeistof in de pan. \nl
-'Kan ook lekker zijn. Ik zal wel opnieuw afwegen.' zegt Dimitri. Patrick was een plastieken kwast vergeten uit de pan te halen. Blijkbaar smelt plastiek in een hete oven. De pan kwam zo uit Dali's Volharding der herinnering: een mooi kunstwerk, maar te surrealistisch om eetbaar te kunnen zijn. 
+'Kan ook lekker zijn. Ik zal wel opnieuw afwegen.' zegt Dimitri. Patrick was een plastieken kwast vergeten uit de pan te halen. Blijkbaar smelt plastiek in een hete oven. De pan kwam zo uit Dali's _Volharding Der Herinnering_: een mooi kunstwerk, maar te surrealistisch om eetbaar te kunnen zijn. 
 
 Er zijn veel ongevallen gebeurd gedurende die jaren. Het einde van de werkweek gecombineerd met onze onhandigheid had er zeker iets mee te maken. Er waren emmers met chocolade callets opengevallen, de opgeklopte room werd op magische wijze omgetoverd tot boter[^18], de netjes verdeelde sandwich bolletjes bleven plots allemaal plakken aan de opbolmachine, de pudding werd verschillende keren aangebrand door een vlaag van onoplettendheid, en veel pas gebakken dingen haalden het niet van de oven tot de werktafel om af te koelen. gelukkig leerde Ghislain ons een zeer belangrijke levensles om de ongevallen te relativeren:
 

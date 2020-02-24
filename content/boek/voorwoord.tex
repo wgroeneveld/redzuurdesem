@@ -1,4 +1,78 @@
- \thispagestyle{empty}
+\frontmatter
+\pagestyle{empty}
+
+% sourced from titlepages.tex
+% DO NOT add title in metadata, or \titlepage will be added in the destination tex file
+\begingroup% Gentle Madness
+\drop = 0.1\txtheight
+\vspace*{\baselineskip}
+\vfill
+  \hbox{%
+  \hspace*{0.2\txtwidth}%
+  \rule{1pt}{\txtheight}
+  \hspace*{0.05\txtwidth}%
+%\fbox{%
+\parbox[b]{0.75\txtwidth}{
+  \vbox{%
+    \vspace{\drop}
+    {\noindent\HUGE\bfseries Red\\[0.5\baselineskip] Zuurdesem}\\[2\baselineskip]
+    {\Large\itshape Een persoonlijke zoektocht naar de smaak en wetenschap van brood}\\[4\baselineskip]
+    {\Large WOUTER GROENEVELD}\par
+    \vspace{0.5\txtheight}
+    {\noindent Uitgeverij}\\[\baselineskip]
+    }% end of vbox
+}% end of parbox
+%}% end of fbox
+  }% end of hbox
+\vfill
+\null
+\endgroup
+
+
+\clearpage
+
+%% copyrightpage
+\begingroup
+\footnotesize
+\parindent 0pt
+\parskip \baselineskip
+\textcopyright{} 2020 Wouter Groeneveld \\
+Alle rechten voorbehouden.
+
+Niets uit deze uitgave mag worden verveelvoudigd en/of openbaar gemaakt door middel van druk, fotokopie, microfilm of op welke andere wijze ook zonder voorafgaande schriftelijke toestemming van de auteur. \newline
+No part of this book may be reproduced in any form, by mimeograph, film or any other means without permission in writting from the author. 
+
+
+\begin{center}
+ 12 11 10 09 08 07\hspace{2em}8 7 6 5 4 3 %2 
+\end{center}
+
+\begin{center}
+\begin{tabular}{ll}
+Eerste druk:  & Maart 2020 \\
+\end{tabular}
+\end{center}
+
+\vfill
+
+\url{https://redzuurdesem.be/} \\
+
+\hspace*{2em} \textit{Omslagontwerp}: Wouter Groeneveld \\
+
+\vfill
+
+Gedrukt in België
+
+Uitgeverij, \\
+Stad \\
+\texttt{wouter punt groeneveld (at) gmail punt com}
+
+%%%%{\LARGE\plogo}
+\vspace*{2\baselineskip}
+
+
+\clearpage
+
  \newenvironment{dedication}
      {\vspace{6ex}\begin{quotation}\begin{center}\begin{em}}
      {\par\end{em}\end{center}\end{quotation}}
@@ -7,3 +81,7 @@
 	Voor iedereen die denkt dat brood geen smaak heeft, \\
 	en voor Muesli, die blijft volhouden dat kattenhaar een onmisbare toevoeging is in brood. 
 \end{dedication}
+
+\endgroup
+\clearpage
+\pagestyle{plain}

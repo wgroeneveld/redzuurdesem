@@ -144,7 +144,7 @@ Methode:
 - _12u00_: Verwijder het heet brood uit het bakblik en laat het afkoelen.
 - _12u10_: Pruts indien nodig het de kneedhaak uit de onderkant van het brood.
 
-Blijkbaar is het belangrijk dat de kneedhaak reeds gemonteerd is aan het bakblik voordat de eerste stap uitgevoerd wordt. Ik heb verschillende keren haastig alles bij elkaar gezoch en aan de machine toegevoegd, om vier uur later te concluderen dat ik een klomp gebakken bloem had gemaakt. \nl
+Blijkbaar is het belangrijk dat de kneedhaak reeds is gemonteerd aan het bakblik vóórdat de eerste stap wordt uitgevoerd. Ik heb verschillende keren haastig alles bij elkaar gezocht en aan de machine toegevoegd, om vier uur later te concluderen dat ik een klomp gebakken bloem had gemaakt. \nl
 De bloem die ik hanteerde was meestal een of andere kant-en-klare mengeling, zoals een 'bosmix' met soja en mout, of een 'zeven granen mix' met verschillende soorten granen. De smaak van dit brood komt voornamelijk van de walnoten en de bloemmengeling. De noten kort in de oven roosteren helpt hiermee. Niet alle walnoten fijnmalen, maar een aantal grote stukken mee bakken, geeft ook een leuk effect. 
 
 Zuurdesem en broodbakmachines zijn geen goede vriendjes vanwege het vaste programma van vier of vijf uur. Dat belette me niet om af en toe een voordeeg te maken van een deel van de bloem. Twaalf uur voor het activeren van de machine meng je `100 gr` bloem, `100 gr` water, en een eetlepel zuurdesem. Dit voeg je samen met de resterende ingrediënten (`450 gr` bloem, `220 gr` water, en de rest) toe aan het bakblik. \nl

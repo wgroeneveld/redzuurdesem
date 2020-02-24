@@ -46,7 +46,7 @@ Ik herinnerde me het bezoek van Dimitry Lysens en Johan Haiverlain aan De Supere
 Februari 2016
 \end{flushright}
 
-Bij te veel restaurants wordt een snee boerenbrood geserveerd waarvan het zicht en de smaak afbreuk doet aan het eigenlijk gerecht. Wie kiest er nu voor een smaakloze 'afgebakken' _baguette_ bij zijn pasta als er veel betere opties beschikbaar zijn? Gaat je honger ook spontaan over als je een plat broodje voorgeschoteld krijgt dat 'ik ben smaakloos!' schreeuwt? Wegwerken met genoeg boter is een optie. In de betere restaurants, zoals de sterrenzaak Magis, zijn de verwachtingen veel hoger. 
+Bij te veel restaurants wordt boerenbrood geserveerd waarvan het zicht en de smaak afbreuk doet aan het eigenlijk gerecht. Wie kiest er nu voor een smaakloze 'afgebakken' _baguette_ bij zijn pasta als er veel betere opties beschikbaar zijn? Gaat je honger ook spontaan over als je een plat broodje voorgeschoteld krijgt dat 'ik ben smaakloos!' schreeuwt? Wegwerken met genoeg boter is een optie. In de betere restaurants, zoals de sterrenzaak Magis, zijn de verwachtingen veel hoger. 
 
 ‘Ook gebeten door het zuurdesem virus heb ik gehoord?’ vraagt Johan terwijl we kennis maken. Zo zou je het kunnen noemen, ja. \nl
 ‘We willen voedzaam brood serveren. Brood met pit, met karakter. Zoals dit brood met kamut dat je lichaam helemaal zuivert!’ Johan overhandigt mij een stuk brood. Ik bevind mij in de bistro waar we afspraken om wat te praten over brood. \nl

@@ -1,9 +1,30 @@
 templatedir = ../../../pandoc/templates
 
 all:
-	pandoc -f markdown+smart intro.pd.md kabouters.pd.md bokrijk.pd.md de-leerschool.pd.md alles-vergeten-dat-geleerd-is.pd.md de-echte-leerschool.pd.md boer.pd.md verdienen.pd.md intermezzo1.pd.md crashcursus-microbiologie.pd.md structuur.pd.md geur.pd.md recept.pd.md overschot.pd.md epiloog.pd.md -V lang=nl-BE -M lang:nl --include-in-header=preamble.tex --include-before-body=voorwoord.tex --include-after-body=afterbody.tex --pdf-engine=xelatex -V documentclass=book --filter pandoc-citeproc --top-level-division=part --toc -V toc-title:"Inhoudsopgave" --metadata-file=metadata.yml --highlight-style=haddock -t latex > boek.tex
+	pandoc -f markdown+smart \
+		-V documentclass=memoir -V lang=nl-BE -M lang:nl \
+		-V toc-title:"Inhoudsopgave" \
+		--include-in-header=preamble.tex \
+		--include-before-body=voorwoord.tex \
+		--include-after-body=afterbody.tex \
+		--pdf-engine=xelatex \
+		--filter pandoc-citeproc \
+		--filter filters/fancybreak.py \
+		--top-level-division=part \
+		--toc \
+		--metadata-file=metadata.yml \
+		--highlight-style=haddock \
+		-t latex > boek.tex \
+		intro.pd.md kabouters.pd.md bokrijk.pd.md
 	xelatex boek.tex
 	#echo "UIT"
+
+#		de-leerschool.pd.md alles-vergeten-dat-geleerd-is.pd.md \
+#		de-echte-leerschool.pd.md boer.pd.md verdienen.pd.md \
+#		intermezzo1.pd.md crashcursus-microbiologie.pd.md \
+#		structuur.pd.md geur.pd.md recept.pd.md \
+#		overschot.pd.md epiloog.pd.md
+
 
 proofread:
 	pandoc -f markdown+smart temp_tergoedkeuring.pd.md -V lang=nl-BE --include-in-header=preamble.tex --pdf-engine=xelatex -V documentclass=book --top-level-division=part --metadata-file=metadata.yml -o nalezen.pdf

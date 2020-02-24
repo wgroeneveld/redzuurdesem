@@ -1,9 +1,9 @@
-\newcommand{\nl}{\newline\indent}
 \usepackage{tcolorbox}
 \usepackage{etoolbox}
 
 % paragraph indentation
 \usepackage{parskip}
+\newcommand{\nl}{\newline\indent}
 %\setlength{\parfill}{0pt}
 \setlength{\parindent}{15pt}
 
@@ -14,9 +14,12 @@
 }
 \makeatother
 
+% for png/pdf inclusion (pdfpages: full-page)
 \usepackage{graphicx}
 \graphicspath{{img/}}
 \usepackage{pdfpages}
+
+\usepackage{lmodern}
 
 % for Japanese chars
 \usepackage{xeCJK}
@@ -29,3 +32,19 @@
 % for index
 \usepackage{imakeidx}
 \makeindex[title=Appendix,columns=2,intoc,options= -s indexstyle.ist]
+
+\newcommand{\starbreak}{%
+    \fancybreak{* * *}%
+}
+
+\DeclareRobustCommand{\cs}[1]{\texttt{\char`\\#1}}
+\newlength{\tpheight}\setlength{\tpheight}{0.9\textheight}
+\newlength{\txtheight}\setlength{\txtheight}{0.9\tpheight}
+\newlength{\tpwidth}\setlength{\tpwidth}{0.9\textwidth}
+\newlength{\txtwidth}\setlength{\txtwidth}{0.9\tpwidth}
+\newlength{\drop}
+
+% hoofdstuk header style ( - 1 -, naam HF)
+\chapterstyle{dash}\renewcommand*{\chaptitlefont}{\normalfont\itshape\LARGE}
+\setlength{\beforechapskip}{2\onelineskip}
+\setsecheadstyle{\normalfont\Large\raggedright}
