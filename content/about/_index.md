@@ -8,7 +8,7 @@ date: 2012-12-06T16:29:31+00:00
 ---
 ## Hallo daar!
 
-Hoi, mijn naam is [Wouter][1] en ik wil zuurdesem brood bakken herpopulariseren. Dat is mijn enige doel. Waarom zou iedereen brood moeten bakken met zuurdesem in plaats van commerciële gist? Omdat men **meer bewust moet zijn van wat men eet** en brood het belangrijkste voedsel is door de geschiedenis heen &#8211; we eten het immers twee maal per dag en toch weten velen niet waar het uit bestaat.
+Hoi, mijn naam is [Wouter][1] en ik wil zuurdesembrood bakken herpopulariseren. Dat is mijn enige doel. Waarom zou iedereen brood moeten bakken met zuurdesem in plaats van commerciële gist? Omdat men **meer bewust moet zijn van wat men eet** en brood het belangrijkste voedsel is door de geschiedenis heen &#8211; we eten het immers twee maal per dag en toch weten velen niet waar het uit bestaat.
   
 Dus, in essentie, wil ik graag **het bewustzijn rond voedsel** verhogen, en mijn passie is brood bakken. Deze twee dingen leken mij goed samen te passen, dus op die manier werd &#8220;Save Sourdough&#8221; geboren!
 

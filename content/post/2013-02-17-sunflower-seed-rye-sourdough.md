@@ -8,9 +8,9 @@ featured_image: /wp-content/uploads/2013/02/MG_8191.jpg
 al2fb_facebook_image_id:
   - 587
 al2fb_facebook_excerpt:
-  - "Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesem brood deeg. Dankzij Mr. Hamelman's boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin."
+  - "Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesembrood deeg. Dankzij Mr. Hamelman's boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin."
 al2fb_facebook_text:
-  - "Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesem brood deeg. Dankzij Mr. Hamelman's boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin."
+  - "Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesembrood deeg. Dankzij Mr. Hamelman's boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin."
 al2fb_facebook_url_param_name:
   - lang
 al2fb_facebook_url_param_value:
@@ -25,7 +25,7 @@ categories:
   - recipes
 
 ---
-Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesem brood deeg. Dankzij Mr. Hamelman&#8217;s boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin.<figure id="attachment_587" style="width: 500px" class="wp-caption aligncenter">
+Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesembrood deeg. Dankzij Mr. Hamelman&#8217;s boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin.<figure id="attachment_587" style="width: 500px" class="wp-caption aligncenter">
 
 [<img class=" wp-image-587 " title="Baked sunflower rye bread" src="https://redzuurdesem.be/wp-content/uploads/2013/02/MG_8191-300x200.jpg" alt="Baked sunflower rye bread" width="500" height="400" />][1]<figcaption class="wp-caption-text">Baked sunflower rye bread</figcaption></figure> 
 
@@ -68,7 +68,7 @@ Ongeveer hetzelfde als ik aanhoud voor [mijn dagelijks brood][3]. Ik heb deze ke
 
 **What is er zo typisch aan dit brood?**
 
-&#8216;k Vond het brood heel smakelijk zijn dankzij de geroosterde pitten. Ik denk dat niet geroosterde zonnebloempitten de smaak van een sneetje brood veel milder gemaakt zou hebben als je dat zou willen. Ik hou van de combinatie van het lekker zurige rogge met pitjes! De volgende keer dat ik een gewoon rogge zuurdesem brood bak ga ik de aanwezigheid van de zaadjes missen denk ik.
+&#8216;k Vond het brood heel smakelijk zijn dankzij de geroosterde pitten. Ik denk dat niet geroosterde zonnebloempitten de smaak van een sneetje brood veel milder gemaakt zou hebben als je dat zou willen. Ik hou van de combinatie van het lekker zurige rogge met pitjes! De volgende keer dat ik een gewoon rogge zuurdesembrood bak ga ik de aanwezigheid van de zaadjes missen denk ik.
 
 Het brood is heel goed gerezen in de oven dankzij de relatief hoge aanwezigheid van bloem maar ook dankzij de juiste hoeveelheid desem en de gewijzigde rijstijd. Zeker iets om meer mee te experimenteren de volgende keren!
 

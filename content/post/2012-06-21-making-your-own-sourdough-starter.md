@@ -459,13 +459,13 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
       De uitdaging om zelf natuurlijke gist te kweken!
     </li>
     <li>
-      Zuurdesem brood houdt tot 4x langer dan gewoon brood.
+      Zuurdesembrood houdt tot 4x langer dan gewoon brood.
     </li>
     <li>
-      Zuurdesem brood is gezonder.
+      Zuurdesembrood is gezonder.
     </li>
     <li>
-      Zuurdesem brood heeft énorm veel meer smaak dan gewoon brood.
+      Zuurdesembrood heeft énorm veel meer smaak dan gewoon brood.
     </li>
     <li>
       En het ziet er beter uit door de gaatjes!

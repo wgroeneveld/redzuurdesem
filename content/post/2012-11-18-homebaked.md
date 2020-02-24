@@ -8,9 +8,9 @@ featured_image: /wp-content/uploads/2012/11/MG_7519.jpg
 al2fb_facebook_image_id:
   - 483
 al2fb_facebook_excerpt:
-  - 'Een lokaal bakevenement was georganiseerd door de stad Hasselt, waarin deelnemers *eender wat* konden bakken dat gemaakt was met lokale ingrediënten. Voor mij betekende dat natuurlijk zuurdesem broden bakken. Er waren 12 deelnemers in totaal, waarvan iedereen behalve mij zoetigheden gebakken hadden - van cakes tot muffins, enorm groot en lekker uitziende taarten en zo verder. De winnaar kreeg een kookworkshop voor twee personen gegeven door een bekende chef. Het was heel plezant om mee de doen maar natuurlijk wint zoet gebak altijd over iets klassieker als brood.'
+  - 'Een lokaal bakevenement was georganiseerd door de stad Hasselt, waarin deelnemers *eender wat* konden bakken dat gemaakt was met lokale ingrediënten. Voor mij betekende dat natuurlijk zuurdesembroden bakken. Er waren 12 deelnemers in totaal, waarvan iedereen behalve mij zoetigheden gebakken hadden - van cakes tot muffins, enorm groot en lekker uitziende taarten en zo verder. De winnaar kreeg een kookworkshop voor twee personen gegeven door een bekende chef. Het was heel plezant om mee de doen maar natuurlijk wint zoet gebak altijd over iets klassieker als brood.'
 al2fb_facebook_text:
-  - 'Een lokaal bakevenement was georganiseerd door de stad Hasselt, waarin deelnemers *eender wat* konden bakken dat gemaakt was met lokale ingrediënten. Voor mij betekende dat natuurlijk zuurdesem broden bakken. Er waren 12 deelnemers in totaal, waarvan iedereen behalve mij zoetigheden gebakken hadden - van cakes tot muffins, enorm groot en lekker uitziende taarten en zo verder. De winnaar kreeg een kookworkshop voor twee personen gegeven door een bekende chef. Het was heel plezant om mee de doen maar natuurlijk wint zoet gebak altijd over iets klassieker als brood.'
+  - 'Een lokaal bakevenement was georganiseerd door de stad Hasselt, waarin deelnemers *eender wat* konden bakken dat gemaakt was met lokale ingrediënten. Voor mij betekende dat natuurlijk zuurdesembroden bakken. Er waren 12 deelnemers in totaal, waarvan iedereen behalve mij zoetigheden gebakken hadden - van cakes tot muffins, enorm groot en lekker uitziende taarten en zo verder. De winnaar kreeg een kookworkshop voor twee personen gegeven door een bekende chef. Het was heel plezant om mee de doen maar natuurlijk wint zoet gebak altijd over iets klassieker als brood.'
 categories:
   - learning
 
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p style="text-align: left;">
-  Dat maakte eigenlijk helemaal niet uit, mijn hoofddoel om mee te doen aan de wedstrijd was louter en alleen om zuurdesem brood wat populairder te maken en te laten zien dat eender wie dit zelf kan bakken! En ik maak mezelf blij door te denken dat ik in die opzet wel geslaagd ben &#8211; mensen die geïnteresseerd waren in het brood, toonden ook veel interesse in de manier waarop het gemaakt was.
+  Dat maakte eigenlijk helemaal niet uit, mijn hoofddoel om mee te doen aan de wedstrijd was louter en alleen om zuurdesembrood wat populairder te maken en te laten zien dat eender wie dit zelf kan bakken! En ik maak mezelf blij door te denken dat ik in die opzet wel geslaagd ben &#8211; mensen die geïnteresseerd waren in het brood, toonden ook veel interesse in de manier waarop het gemaakt was.
 </p>
 
 <h3 style="text-align: left;">
@@ -37,9 +37,9 @@ De foto toont drie verschillende broden die gebakken waren. Hier zijn de recepte
 
 ### Ik heb zuurdesem &#8211; wat nu?
 
-Proficiat! Aan de slag ermee! Hier zijn enkele interessante artikels die je begeleiden bij het bakken van je eerste zuurdesem broodje:
+Proficiat! Aan de slag ermee! Hier zijn enkele interessante artikels die je begeleiden bij het bakken van je eerste zuurdesembroodje:
 
-  1. [Een kort overzicht rond zuurdesem brood bakken][5]
+  1. [Een kort overzicht rond zuurdesembrood bakken][5]
   2. [Mijn dagelijks brood bakken: een gedetailleerd verslag][6]
 
  [1]: https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7519.jpg

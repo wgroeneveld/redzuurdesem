@@ -9,7 +9,7 @@ al2fb_facebook_image_id:
   - 599
 al2fb_facebook_excerpt:
   - |
-    Een van mijn favoriete recepten voor brood bakken vanuit een bakboek moet wel Mr. Hamelman's "Vermont Sourdough" zijn. Ik bak regelmatig volkoren zuurdesem broden, inclusief relatief zure rogge broodjes. Er is dan altijd een tijd dat ik een drang heb naar iets zoet, iets vol met gaatjes en iets traditioneel. Dat heeft enorm veel namen tegenwoordig, van "landelijk brood" tot "pain de campagne" of "boerenbrood". Het is allemaal hetzelfde: een veelal wit tarwe zuurdesem brood met een beetje rogge of volkoren tarwe. Er wordt gezegd dat boeren per ongeluk een beetje rogge mee maaien met hun tarwe velden wanneer alles geoogst werd, daarom mixt men voor dit traditioneel brood wat rogge door het deeg.
+    Een van mijn favoriete recepten voor brood bakken vanuit een bakboek moet wel Mr. Hamelman's "Vermont Sourdough" zijn. Ik bak regelmatig volkoren zuurdesembroden, inclusief relatief zure rogge broodjes. Er is dan altijd een tijd dat ik een drang heb naar iets zoet, iets vol met gaatjes en iets traditioneel. Dat heeft enorm veel namen tegenwoordig, van "landelijk brood" tot "pain de campagne" of "boerenbrood". Het is allemaal hetzelfde: een veelal wit tarwe zuurdesembrood met een beetje rogge of volkoren tarwe. Er wordt gezegd dat boeren per ongeluk een beetje rogge mee maaien met hun tarwe velden wanneer alles geoogst werd, daarom mixt men voor dit traditioneel brood wat rogge door het deeg.
     
     Ik bak dit type van brood ongeveer een jaar en ik heb al veel (stomme) foutjes gemaakt. Een van die foutjes maak ik nog altijd en dat is niet goed insnijden. Wat kan dat nu uitmaken, juist?
     Kijk eens goed naar de volgende foto's (klik om verder te gaan!)

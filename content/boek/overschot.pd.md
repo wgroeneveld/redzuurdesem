@@ -3,7 +3,8 @@
 
 > '_Part of the secret of success in life is to eat what you like and let the food fight it out inside._' - Mark Twain
 
-In 2017 publiceerde de Vlaamse Overheid een rapport over voedselverlies[^rapp], waaruit bleek dat `23%` van het brood en banket door de Vlaming wordt weggegooid. Enkel fruit doet het nog slechter, met `29%`. Volgens hun zijn de twee hoofdredenen de beperkte houdbaarheid, en het feit dat brood aanzien wordt als een goedkoop product dat eenvoudig vervangen kan worden. Zuurdesem rekent alvast af met de houdbaarheid, nu de ingesteldheid van de mens nog... \nl
+In 2017 publiceerde de Vlaamse Overheid een rapport over voedselverlies[^rapp], waaruit bleek dat `23%` van het brood en banket door de Vlaming wordt weggegooid. Enkel fruit doet het nog slechter, met `29%`. Volgens hun zijn de twee hoofdredenen de beperkte houdbaarheid, en het feit dat brood aanzien wordt als een goedkoop product dat eenvoudig vervangen kan worden. Zuurdesem rekent alvast af met de houdbaarheid, nu de ingesteldheid van de mens nog... 
+
 Voedsel verspillen is nooit leuk, en met een beetje creativiteit hoeft het ook niet. Kookboeken verzinnen altijd wel een manier om overschot in een recept te verwerken, of het nu om brood gaat of niet. Ik heb gemerkt dat bij mij die creativiteit eerst moet worden aangewakkerd met genoeg voorbeelden buiten de conventionele _croque monsieur_. Als kok van dienst durf ik al eens stiekem hier en daar wat desem toe te voegen om te kunnen zeggen dat ik bij elk gerecht zuurdesem heb verwerkt. Die fase is gelukkig voorbij, maar heeft me wel een aantal zinnige trucjes opgeleverd. Hieronder volgt een kort overzicht van mogelijke oplossingen voor het te veel aan desem of gebakken brood.  
 
 [^rapp]: [http://www.voedselverlies.be/monitor/](http://www.voedselverlies.be/monitor/)
@@ -24,7 +25,8 @@ Ik bak pannenkoeken meestal op dezelfde dag dat ik het beslag klaarmaark. Ik geb
 \index{Wafels!Luikse wafels}
 \index{Wafels!Brusselse wafels}
 
-Als je buiten smaak ook goede rijskracht nodig hebt is het aangeraden om ofwel gist toe te voegen, ofwel toch wat meer te plannen door een dag op voorhand een deel van de bloem te fermenteren. Brusselse wafels zijn gemaakt om met zuurdesem gebakken te worden. Het loperig beslag is ideaal om als poolish langer te laten rijzen. Ik voeg eieren pas daarna toe, maar het is ook mogelijk om die mee te laten fermenteren. In dat geval verandert de structuur en uitzettingskracht van het rauwe ei. \nl
+Als je buiten smaak ook goede rijskracht nodig hebt is het aangeraden om ofwel gist toe te voegen, ofwel toch wat meer te plannen door een dag op voorhand een deel van de bloem te fermenteren. Brusselse wafels zijn gemaakt om met zuurdesem gebakken te worden. Het loperig beslag is ideaal om als poolish langer te laten rijzen. Ik voeg eieren pas daarna toe, maar het is ook mogelijk om die mee te laten fermenteren. In dat geval verandert de structuur en uitzettingskracht van het rauwe ei. 
+
 Luikse wafels daarentegen gaan het niet redden met alleen maar zuurdesem. Een Luikse wafel bevat veel meer boter die, gecombineerd met grote suikerparels, de glutenvorming bemoeilijkt. Ik boek bij dat soort wafels het meeste succes met de hybride methode. Ook al zijn er niet zoveel gluten nodig als in brood, toch is een beetje luchtigheid bij gebak een welgekomen afwisseling van al dat boter geweld. Een groot deel van de tarwebloem vervangen door bloem gemaakt van pseudogranen is eenvoudiger te realiseren met wafels dan met brood. 
 
 De volgende formule hanteer ik voor het bakken van ongeveer 16 Brusselse Wafels:
@@ -56,8 +58,10 @@ Het is uitzonderlijk dat alles van de bloem in het voordeeg verdwijnt. Op die ma
 \index{Cake:Panettone}
 \index{Lactobacillus!sanfranciscensis}
 
-Ook cake bakken met overschot van zuurdesem is een geweldige manier om complexiteit aan de typische botersmaak toe te voegen. Een chocoladecake met zuurdesem is de extra moeite waard, ook al klinkt het niet alsof beide smaken samen zouden passen. Probeer de volgende keer eens de helft van de bloem een nacht op voorhand te fermenteren. Er zijn veel recepten te vinden die alles of een gedeelte van de bloem fermenteren, of enkel overschot toevoegen zonder de extra rijstijd. \nl
-Als je jezelf wilt uitdagen, kun je altijd proberen een Italiaanse _Panettone_ cake te bakken. Dit traditioneel gebak heeft een zachte, even structuur en een complexe smaak die niet bepaald zuur genoemd kan worden. Dat is te danken aan de opkweek van _Lactobacillus sanfranciscensis_ door middel van een lange reeks van kortere rijstijden op hogere temperaturen [@yazar2012functional]. _Pandoro_ en _Colomba_ cake vallen in dezelfde categorie van brioche-achtig gistdeeg. \nl
+Ook cake bakken met overschot van zuurdesem is een geweldige manier om complexiteit aan de typische botersmaak toe te voegen. Een chocoladecake met zuurdesem is de extra moeite waard, ook al klinkt het niet alsof beide smaken samen zouden passen. Probeer de volgende keer eens de helft van de bloem een nacht op voorhand te fermenteren. Er zijn veel recepten te vinden die alles of een gedeelte van de bloem fermenteren, of enkel overschot toevoegen zonder de extra rijstijd. 
+
+Als je jezelf wilt uitdagen, kun je altijd proberen een Italiaanse _Panettone_ cake te bakken. Dit traditioneel gebak heeft een zachte, even structuur en een complexe smaak die niet bepaald zuur genoemd kan worden. Dat is te danken aan de opkweek van _Lactobacillus sanfranciscensis_ door middel van een lange reeks van kortere rijstijden op hogere temperaturen [@yazar2012functional]. _Pandoro_ en _Colomba_ cake vallen in dezelfde categorie van brioche-achtig gistdeeg. 
+
 Zuurdesem in de chocoladecake fungeert als een smaakversterker, niet als primair rijsmiddel. Zuurdesem in panettone is de smaakversterker én het rijsmiddel, waarbij de luchtigheid van deze cakes voornamelijk te danken zijn aan het werk van melkzuurbacteriën die de langzaam opgebouwde gluten structuur gebruiken als 'luchtvanger', in plaats van de opgeklopte eiwitten in een typische _quatre-quarts_[^qqc] cake. 
 
 [^qqc]: Het verschil tussen een typische wafel en een _quatre-quarts_ cake is enkel de vorm. De verhoudingen boter/suiker/bloem/eieren zijn exact dezelfde, afgezien van de toegevoegde parelsuiker bij de Luikse variant. Brusselse wafels zijn het 'gezondste': ik gebruik geen suiker en er zit maar `40%` boter in ten opzichte van de normale `100%`.
@@ -66,8 +70,10 @@ Zuurdesem in de chocoladecake fungeert als een smaakversterker, niet als primair
 
 \index{Pasta (fermenteren)}
 
-We ontdekten in hoofdstuk \ref{microbio} dat het gebruik van zuurdesem niet alleen smaak toevoegt, maar ook voedsel beter verteerbaar, en dus misschien zelfs wel gezonder, maakt. Onderzoek heeft aangetoond dat mensen die gluten moeilijk verteren dit plots wel beter konden in de aanwezigheid van verschillende soorten bacteriën en gisten [@poutanen2009sourdough].\nl
-Er is geen wetenschap nodig om te bevestigen dat een groot bord spaghetti opeten snel tot een opgeblazen gevoel leidt. Dat komt omdat gekookte tarwebloem geen kans heeft gekregen om te fermenteren, terwijl dat heel anders ligt bij gegist deeg. Er is geen 'tweede maag' aan de pas gekomen die het eten voor ons heeft voorgekauwd. Denk aan het snel rijzende Iers sodabrood, ten opzichte van traag rijzend zuurdesembrood.\nl
+We ontdekten in hoofdstuk \ref{microbio} dat het gebruik van zuurdesem niet alleen smaak toevoegt, maar ook voedsel beter verteerbaar, en dus misschien zelfs wel gezonder, maakt. Onderzoek heeft aangetoond dat mensen die gluten moeilijk verteren dit plots wel beter konden in de aanwezigheid van verschillende soorten bacteriën en gisten [@poutanen2009sourdough].
+
+Er is geen wetenschap nodig om te bevestigen dat een groot bord spaghetti opeten snel tot een opgeblazen gevoel leidt. Dat komt omdat gekookte tarwebloem geen kans heeft gekregen om te fermenteren, terwijl dat heel anders ligt bij gegist deeg. Er is geen 'tweede maag' aan de pas gekomen die het eten voor ons heeft voorgekauwd. Denk aan het snel rijzende Iers sodabrood, ten opzichte van traag rijzend zuurdesembrood.
+
 Om dat probleem gedeeltelijk op te lossen kan je buiten minder eten zuurdesem toevoegen aan pastadeeg. Het is uiteraard niet de bedoeling om het deeg te doen rijzen, maar om een deel te fermenteren zodat het voor onze maag en darmen iets minder zwaar wordt. Pastadeeg is in vergelijking met brooddeeg erg droog, dus vochtig overschot van desem toevoegen kan maar in beperkte mate. Een alternatief is een gedeelte of het geheel aan bloem op voorhand te fermenteren met minder dan `50%` water. Zoals bij de pannenkoeken worden eieren pas daarna toegevoegd (indien gewenst). 
 
 #### Als beter verteerbare ontbijtgranen
@@ -76,7 +82,8 @@ Om dat probleem gedeeltelijk op te lossen kan je buiten minder eten zuurdesem to
 \index{Ontbijtgranen}
 \index{Havermout}
 
-Om een écht goede _porridge_ te kunnen maken heb je tijd nodig. Tijd die  wordt besteed door de hele havervlokken een nacht te weken, en door langzaam roerend te koken. Weken wordt niet alleen gedaan om de granen zachter te maken, maar ook om een deel van het fytinezuur af te breken door enzymatische activiteit dankzij de aanraking met water. \nl
+Om een écht goede _porridge_ te kunnen maken heb je tijd nodig. Tijd die  wordt besteed door de hele havervlokken een nacht te weken, en door langzaam roerend te koken. Weken wordt niet alleen gedaan om de granen zachter te maken, maar ook om een deel van het fytinezuur af te breken door enzymatische activiteit dankzij de aanraking met water. 
+
 Overschot van desem kan je ook hier strategisch inzetten om die nacht niet alleen het water te laten inwerken, maar ook je legertje van gisten en melkzuurbacteriën. Het resultaat is niet alleen minder zwaar voor de maag, maar ook nog eens lekkerder. Ik moet wel bekennen dat het bij haver erg eenvoudig is om te veel azijnzuur te produceren omdat volle granen veel sneller fermenteren. Dat los ik op door alles te laten weken in de koelkast, of door genoeg zout toe te voegen dat de activiteit van de organismen doet afnemen. Havermout wint weer aan populariteit, maar de verschillende soorten in de winkelrekken zorgen eerder voor verwarring dan voor keuzevrijheid. Ga voor de beste kwaliteit en laat de zakjes fijngemalen haver links liggen. De volgende tabel verduidelijkt de gebruikte termen om granen als gerst, boekweit, en haver op te delen:
 
 | Benaming in NL  | Benaming in EN | Beschrijving |
@@ -94,7 +101,8 @@ De term 'havermout' of _oatmeal_ is een algemene benaming die als slogan voor ge
 
 \index{Miso}
 
-Overschot aan zuurdesem bevat nog steeds een groot aantal actieve micro-organismen, die heel goed inzetbaar zijn in een volgend fermentatie-projectje. _Aka miso_, de donkere miso die minstens een jaar moet rijpen, wordt vaak geïnoculeerd met een beetje ongepasteuriseerde miso van een vorige batch. Dat is niet vereist, maar wel aangeraden, omdat de minuscule beestjes van de vorige miso er voor zorgen dat de volgende miso sneller de juiste zuurtegraad bereikt die ongewenste schimmels op afstand moet houden.\nl
+Overschot aan zuurdesem bevat nog steeds een groot aantal actieve micro-organismen, die heel goed inzetbaar zijn in een volgend fermentatie-projectje. _Aka miso_, de donkere miso die minstens een jaar moet rijpen, wordt vaak geïnoculeerd met een beetje ongepasteuriseerde miso van een vorige batch. Dat is niet vereist, maar wel aangeraden, omdat de minuscule beestjes van de vorige miso er voor zorgen dat de volgende miso sneller de juiste zuurtegraad bereikt die ongewenste schimmels op afstand moet houden.
+
 Ik maak mijn yoghurt zelf door een eetlepel of twee van de vorige keer in melk op te lossen. Als dat niet voorhanden is, is een potje gekochte (natuur-)yoghurt ook goed, zolang er maar 'actieve' bestanddelen in zitten[^actievebest]. De volgende keer dat je zuurkool, miso, kimchi of andere ingelegde groenten wilt maken, kickstart dan het fermentatieproces met een beetje desem dat anders toch weggegooid zou worden. 
 
 \index{Probiotica}
@@ -111,7 +119,8 @@ Nancy Singleton Hachisu inspireerde me met haar prachtig boek 'Preserving the Ja
 
 > _Poke the cloves into the miso and leave for a month or so. Taste periodically. Store in the fridge or at room temperature._
 
-Deze losse instructies vertalen zich niet eenvoudig van miso naar zuurdesem omwille van de grote hoeveelheid zout in miso (`6` tot `20%`, afhankelijk van de soort). Toch kunnen wij Westerlingen ook zo'n medium maken met onze zuurdesemcultuur door het zout- en vochtgehalte aan te passen. Hoe langer je de look wenst de bewaren, hoe meer zout nodig is. In principe kan eender wat met genoeg zout en goede bacteriën dienen om voedsel voor een lange tijd te bewaren zonder te moeten terugvallen op de lage temperatuur van een koelkast. \nl
+Deze losse instructies vertalen zich niet eenvoudig van miso naar zuurdesem omwille van de grote hoeveelheid zout in miso (`6` tot `20%`, afhankelijk van de soort). Toch kunnen wij Westerlingen ook zo'n medium maken met onze zuurdesemcultuur door het zout- en vochtgehalte aan te passen. Hoe langer je de look wenst de bewaren, hoe meer zout nodig is. In principe kan eender wat met genoeg zout en goede bacteriën dienen om voedsel voor een lange tijd te bewaren zonder te moeten terugvallen op de lage temperatuur van een koelkast. 
+
 Om de teentjes knoflook gemakkelijk in het medium te kunnen plaatsen, en op hun plaats te laten staan, veranderde ik de consistentie van de zuurdesemcultuur naar dezelfde vochtigheid als een typische miso.
 
 #### Om huiden te looien
@@ -128,8 +137,10 @@ Volgens diezelfde bronnen zou zuurdesem ook worden gebruikt om lijm te maken, ma
 
 \index{Pizza}
 
-Deze manier om gedroogde desem als smaakversterker te gebruiken heb ik via Karl De Smedt van Puratos leren kennen. Hij noemt het '_fleur de levain_'. In plaats van het zoute _fleur de sel_ kan ook dit zure poeder propvol umami worden gebruikt om gerechten af te werken[^fleurlevain]. \nl
-Het is eenvoudig zelf te maken door verdunde desem in de oven te laten drogen. Hoe hoger de temperatuur van de oven, hoe donkerder het eindresultaat, en hoe nootachtiger en gebrander de smaak. Ook met de hoeveelheid water en de fermentatietijd kan je spelen om de intensiteit van het poeder te bepalen. \nl
+Deze manier om gedroogde desem als smaakversterker te gebruiken heb ik via Karl De Smedt van Puratos leren kennen. Hij noemt het '_fleur de levain_'. In plaats van het zoute _fleur de sel_ kan ook dit zure poeder propvol umami worden gebruikt om gerechten af te werken[^fleurlevain]. 
+
+Het is eenvoudig zelf te maken door verdunde desem in de oven te laten drogen. Hoe hoger de temperatuur van de oven, hoe donkerder het eindresultaat, en hoe nootachtiger en gebrander de smaak. Ook met de hoeveelheid water en de fermentatietijd kan je spelen om de intensiteit van het poeder te bepalen. 
+
 Karl raadde me aan om dit te gebruiken in plaats van gewone tarwebloem om een werkoppverlvak te bebloemen, bij het maken van pizza's bijvoorbeeld. De smaak van de eerste hap wordt versterkt door dit veelzijdig poeder, dat plakt aan de korst tijdens het bakken. 
 
 Dit proces wordt bij Puratos op grote schaal gebruikt om hun gedroogde type III desems mee te produceren. Het kan dan dienen als smaakmaker, maar niet als rijsmiddel. Edelgistvlokken, dat onder andere verkocht wordt in natuurvoedingswinkels als veganistisch alternatief voor Parmezaan, is dan _fleur de levure_, een gedeactiveerde giststam van _Saccharomyces cerevisiae_. 
@@ -146,7 +157,7 @@ Mijn steenoven stelt me in de mogelijkheid om zes grote broden tegelijkertijd te
 
 De eenvoudigste manier om overschot te verwerken is door brood te roosteren. Brood roosteren haalt een deel van die vers gebakken broodgeuren terug in de keuken die zelfs de meest weerbarstige maag laat grommelen van de honger. Een simpele toast kan gepaard gaan met wat confituur of boter. Een complexere toast met kaas krijgt de naam _croque monsieur_. Gooi er een gebakken ei bovenop en het geslacht verandert naar _croque madame_. Roosteren kan gewoon in de pan met of zonder olie, in de oven met of zonder grill, of in gespecialiseerde _croque_- of toastmachines. 
 
-Ben je de sneetjes brood vergeten in de oven? Geen probleem, laat het nog wat langer liggen, tot het pikzwart ziet en je misschien een raam of twee moet open zetten om de verbrande lucht te bevrijden. Het resultaat is _burnt bread_, een smaakmaker gebruikt door de mensen van Bar Tartine [@bartartine]. Ook zij zitten soms met overschot dat wordt gereduceerd tot poeder om te gebruiken in kruidenmengsels en in '_burnt bread sauce_'. Hun instructies zijn erg duidelijk:
+Ben je de sneetjes brood in de oven vergeten? Geen probleem, laat het nog wat langer liggen, tot het pikzwart ziet, en je misschien een raam of twee moet open zetten om de verbrande lucht te bevrijden. Het resultaat is _burnt bread_, een smaakmaker gebruikt door de mensen van Bar Tartine [@bartartine]. Ook zij zitten soms met overschot dat wordt gereduceerd tot poeder om te gebruiken in kruidenmengsels en in '_burnt bread sauce_'. Hun instructies zijn erg duidelijk:
 
 > _Use it in any dish you think might taste better with a little bit of smoke and char._
 
@@ -162,7 +173,8 @@ De absorptiecapaciteit van brood wordt opnieuw gebruikt om deze keer de combinat
 
 #### Als smaakmaker in... chocolade?
 
-Dat klinkt inderdaad als een erg ongewone manier om oud brood te verwerken. Het team van de Britse bakkerij Pump Street Bakery[^pumpbak] heeft hun passie voor zuurdesembrood en chocolade weten te combineren tot één geheel: chocolade met broodkruimels. Niet zomaar chocolade, maar eigen geperste cacaoboter, en niet zomaar broodkruimels, maar eigen gebakken zuurdesembrood. Elke chocoladebar bevat de juiste combinatie van cacaogehalte met soort broodkruim. Een combinatie die ik alleen maar kan toejuichen, ook al komt de chocolade deze keer niet van België. De kruimels hebben een sterke smaak, wat inderdaad duidt op het gebruik van zuurdesem.\nl
+Dat klinkt inderdaad als een erg ongewone manier om oud brood te verwerken. Het team van de Britse bakkerij Pump Street Bakery[^pumpbak] heeft hun passie voor zuurdesembrood en chocolade weten te combineren tot één geheel: chocolade met broodkruimels. Niet zomaar chocolade, maar eigen geperste cacaoboter, en niet zomaar broodkruimels, maar eigen gebakken zuurdesembrood. Elke chocoladebar bevat de juiste combinatie van cacaogehalte met soort broodkruim. Een combinatie die ik alleen maar kan toejuichen, ook al komt de chocolade deze keer niet van België. De kruimels hebben een sterke smaak, wat inderdaad duidt op het gebruik van zuurdesem.
+
 Ik weet alleen niet of ik nog eens `£20` verzendkosten zou willen betalen om mijn tong open te laten schuren. Ik knabbel niet graag aan chocolade, en dat is hier wel enigszins nodig. De grote hoeveelheid toegevoegde broodkruimels (een restproduct van bijvoorbeeld ontkorstte broodpudding) is een slimme manier om de totale aankoopprijs van grondstoffen te verlagen (minder cacaomassa nodig voor dezelfde hoeveelheid), terwijl de verkoopprijs stijgt. 
 
 [^pumpbak]: [https://pumpstreetchocolate.com](https://pumpstreetchocolate.com)
@@ -172,7 +184,8 @@ Ik weet alleen niet of ik nog eens `£20` verzendkosten zou willen betalen om mi
 \index{Kvass}
 \label{kvass}
 
-De intieme relatie tussen brood en bier is al gedeeltelijk besproken in hoofdstuk \ref{boer}. Er is echter één soort gefermenteerde drank die voornamelijk bestaat uit oud brood, en dat is _kvass_, een oeroude biersoort die zoals kefir en kombucha maar `0.5` tot `1%` alcohol bevat. Ik kwam dit voor het eerste tegen in 'The Art of Fermentation' [@katz]. De koolhydraten in oud brood worden gedurende een nacht losgeweekt om verder te fermenteren met behulp van een beetje zuurdesem. Het geweekte, uitgewrongen brood is erg geliefd bij onze kippen. Deze drank is afkomstig van Oost Europa en bevat daarom voornamelijk donker roggebrood. De meeste recepten die ik vond bevatten extra suiker om de gisten onmiddellijk een grote boost te geven, maar ik denk niet dat dit echt nodig is. Hoe meer suiker (en gist), hoe heviger de fermentatie en hoe hoger het alcohol percentage. Ik heb toch suiker toegevoegd om het niet overdreven zuur en langer houdbaar te maken. \nl
+De intieme relatie tussen brood en bier is al gedeeltelijk besproken in hoofdstuk \ref{boer}. Er is echter één soort gefermenteerde drank die voornamelijk bestaat uit oud brood, en dat is _kvass_, een oeroude biersoort die zoals kefir en kombucha maar `0.5` tot `1%` alcohol bevat. Ik kwam dit voor het eerste tegen in 'The Art of Fermentation' [@katz]. De koolhydraten in oud brood worden gedurende een nacht losgeweekt om verder te fermenteren met behulp van een beetje zuurdesem. Het geweekte, uitgewrongen brood is erg geliefd bij onze kippen. Deze drank is afkomstig van Oost Europa en bevat daarom voornamelijk donker roggebrood. De meeste recepten die ik vond bevatten extra suiker om de gisten onmiddellijk een grote boost te geven, maar ik denk niet dat dit echt nodig is. Hoe meer suiker (en gist), hoe heviger de fermentatie en hoe hoger het alcohol percentage. Ik heb toch suiker toegevoegd om het niet overdreven zuur en langer houdbaar te maken. 
+
 Het brood roosteren is ook aangeraden om het kruim te karameliseren. In dit geval hebben we wel zoveel mogelijk 'korst' nodig dat de donkere, intense smaak afgeeft aan het water. Sommige brouwers laten het geweekte brood mee fermenteren en zeven pas op het allerlaatste, terwijl anderen dit zoals ik zeven na een nacht weken in kokend water. Frequent toegevoegde additieven zijn munt, citroensap, en (gedroogde) vruchten. Met commerciële gist zou kvass gemakkelijk meer dan `5%` alcohol kunnen produceren. 
 
 Mijn ervaring met kvass maken leerde me die additieven een nacht mee te laten weken met het heet water, anders loop je de kans om een slappe infusie te brouwen. Overschotjes gember toevoegen is ook erg lekker. Een Belgische abdijbier giststam, die ik kocht in Brouwland na mijn gesprek met Gert van brouwerij Jessenhofke, zorgde een tweede keer voor het nodige schuim, dat ik zelfs na een week op fles fermenteren niet voor mekaar kreeg met enkel zuurdesem. Misschien is een tweede gisting op fles nodig. Er was zeker voldoende druk op aangezien de glazen fles altijd opent met een luide knal. 

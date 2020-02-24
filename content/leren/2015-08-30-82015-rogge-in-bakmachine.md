@@ -45,7 +45,7 @@ Het resultaat is een &#8220;ingezakt&#8221; dak dat je duidelijk hier kan zien:<
 
 ### Wat moet ik dan doen om toch met rogge te bakken?
 
-Gebruik je cakevorm en doe alles zelf. Een zuurdesem brood bakken kan niet eenvoudiger zijn dan dit recept: het voordeeg is het hoofddeeg, je kan na 8 tot 10 uren direct bakken.
+Gebruik je cakevorm en doe alles zelf. Een zuurdesembrood bakken kan niet eenvoudiger zijn dan dit recept: het voordeeg is het hoofddeeg, je kan na 8 tot 10 uren direct bakken.
 
 Als je toch graag wenst je machine te gebruiken is het aangewezen om minstens 20% &#8211; best tot 50% &#8211; tarwebloem te gebruiken in plaats van 100% roggebloem. Dat, gecombineerd met minder water, zal zeker wel lukken.
 

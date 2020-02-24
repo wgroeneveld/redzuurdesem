@@ -1,9 +1,10 @@
 \usepackage{tcolorbox}
 \usepackage{etoolbox}
 
+
 % paragraph indentation
 \usepackage{parskip}
-\newcommand{\nl}{\newline\indent}
+% \newcommand{\nl}{\newline\indent} - heeft geen zin meer met memoir layout!
 %\setlength{\parfill}{0pt}
 \setlength{\parindent}{15pt}
 
@@ -19,11 +20,17 @@
 \graphicspath{{img/}}
 \usepackage{pdfpages}
 
-\usepackage{lmodern}
 
+\usepackage{fontspec}
+\usepackage{mathpazo}
+\setmainfont
+     [ BoldFont       = texgyrepagella-bold.otf ,
+       ItalicFont     = texgyrepagella-italic.otf ,
+       BoldItalicFont = texgyrepagella-bolditalic.otf ]
+     {texgyrepagella-regular.otf}
 % for Japanese chars
-\usepackage{xeCJK}
-\setCJKmainfont[BoldFont=STHeiti,ItalicFont=STKaiti]{STSong}
+%\usepackage{xeCJK}
+%\setCJKmainfont[BoldFont=STHeiti,ItalicFont=STKaiti]{STSong}
 
 % for itemization, other symbol
 \renewcommand{\labelitemi}{$\circ$}
@@ -43,6 +50,7 @@
 \newlength{\tpwidth}\setlength{\tpwidth}{0.9\textwidth}
 \newlength{\txtwidth}\setlength{\txtwidth}{0.9\tpwidth}
 \newlength{\drop}
+
 
 % hoofdstuk header style ( - 1 -, naam HF)
 \chapterstyle{dash}\renewcommand*{\chaptitlefont}{\normalfont\itshape\LARGE}

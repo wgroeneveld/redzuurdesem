@@ -32,7 +32,7 @@ categories:
   - Uncategorized
 
 ---
-Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkoren rogge en volkoren tarwe zuurdesem brood&#8221;. Het bevat 50% volkoren bloem en 50% sterk wit tarwemeel om het te helpen rijzen, met een preferment percentage van 25.<figure style="width: 640px" class="wp-caption aligncenter">
+Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkoren rogge en volkoren tarwe zuurdesembrood&#8221;. Het bevat 50% volkoren bloem en 50% sterk wit tarwemeel om het te helpen rijzen, met een preferment percentage van 25.<figure style="width: 640px" class="wp-caption aligncenter">
 
 [<img title="_MG_7598.JPG" src="http://lh4.ggpht.com/-d3ELXzzT7XQ/UMJemN61jlI/AAAAAAAAGtU/DpriVx2f0x0/w640/_MG_7598.JPG" alt="_MG_7598.JPG" width="640" height="428" />][1]<figcaption class="wp-caption-text">Nog altijd tamelijk open voor een 50% volkoren broodje!</figcaption></figure> 
 

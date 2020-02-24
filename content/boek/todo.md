@@ -78,7 +78,9 @@ LOW PRIO
 [X] graden in °C zonder spatie?
 [ ] Voorwoord (pas na inzending)
 [ ] Dankwoord (pas na inzending)
-[X] Layouting '\nl' overal goed zetten
+[X] Layouting '
+
+' overal goed zetten
 [X] Brijosh Tongeren bezoeken en sectie toevoegen in 'verdienen'
 [X] Eigen boekjes herlezen (#5) om te zien of ik nog iets wil toevoegen
 
