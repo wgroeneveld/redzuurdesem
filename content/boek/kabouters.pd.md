@@ -14,7 +14,7 @@
 Augustus 2010
 \end{flushright}
 
-'Het kaboutertje is weer bezig' glimlachte mijn vrouw, toen ze opkeek van haar boek. Dat leek haar wel een gepaste manier om het plotse achtergrondlawaai te identificeren. Deze mini mens wordt verkocht inclusief huisje: een broodbakmachine. Die machine die je kan programmeren om op een bepaald moment te starten en dan te vergeten. Wanneer je dan weer helemaal vergeten bent dat er iets geprogrammeerd is om voor jou in actie te schieten, vult de keuken zich met een licht gebrom. 
+'Het kaboutertje is weer bezig' glimlachte mijn vrouw, toen ze opkeek van haar boek. Dat leek haar wel een gepaste manier om het plotse achtergrondlawaai te identificeren. Deze mini mens wordt verkocht inclusief huisje: een broodbakmachine. Een machine die je kan programmeren om op een bepaald moment te starten en dan te vergeten. Wanneer je dan weer helemaal vergeten bent dat er iets is geprogrammeerd om voor jou in actie te schieten, vult de keuken zich met een licht gebrom. 
 
 '_Rammel, rammel, klots, klots_'. Stilte. 
 
@@ -38,19 +38,23 @@ Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer d
 
 [^1]: Deze '_baker's percentage_' kan groter dan `100%` zijn. Deel de totale hoeveelheid water door de totale hoeveelheid bloem. Als je brood bestaat uit verschillende soorten bloem, tel je die allemaal samen. 
 
+* * *
+
 Sommige toestellen bieden voor hun meerprijs verschillende kneedhaken aan. De standaard kneedhaak komt in de vorm van een haaienvin, waarvan geadviseerd wordt deze enkel in combinatie met tarwe te hanteren. 
 
 De tweede kneedhaak heeft de vorm van een kam, en is een zelfbenoemde specialist in het kneden van rogge. Deze vreemde opsplitsing was in feite mijn eerste kennismaking met het groot verschil tussen twee deegsoorten, die later nog een grote rol zullen spelen. 
 
-Na het nauwkeurig bestuderen van die vreemde kam haalde ik mijn schouders op, en smeet ik het in de hoek van een donkere kast. De vorm van de kneedhaak zou van belang moeten zijn bij het vormen van een soepel deeg, maar in zo'n kleine machinetjes heeft dit buiten commerciële aantrekkingskracht geen enkel effect. 
+Na het nauwkeurig bestuderen van die vreemde kam haalde ik mijn schouders op, en smeet ik het in de hoek van een donkere kast. De vorm van de kneedhaak zou van belang moeten zijn bij het vormen van een soepel deeg, maar in zo'n kleine machientjes heeft dit buiten commerciële aantrekkingskracht geen enkel effect. 
 
-Er is slechts één minpuntje verbonden aan zo’n haak in de machine: gezien het hele proces automatisch geprogrammeerd is, bak je in dezelfde kuip als waar je in kneedt. Stel je voor dat in de bakkerij dit systeem ook wordt toegepast. Wat valt er je op? De spiraal of de arm zit in de weg. Juist. Die blijft dus mooi in je gebakken brood hangen. Op dat punt gooit je kabouter de handdoek in de ring, roept '_foert!_', en moet je het zelf maar uitzoeken. 
+Er is slechts één minpuntje verbonden aan zo’n haak in de machine: gezien het hele proces automatisch is geprogrammeerd, bak je in dezelfde kuip als waar je in kneedt. Stel je voor dat in de bakkerij dit systeem ook wordt toegepast. Wat valt er je op? De spiraal of de arm zit in de weg. Juist. Die blijft dus mooi in je gebakken brood hangen. Op dat punt gooit je kabouter de handdoek in de ring, roept '_foert!_', en moet je het zelf maar uitzoeken. 
 
 Mijn grootvader heeft nog meer pech met zijn exemplaar: die heeft een dubbele kneedhaak, en bijgevolg dus twee gapende gaten onderaan zijn brood. Dat heeft dan weer als voordeel dat hij tot `800 gr` bloem kan gaan, vier sneetjes meer dan mijn beperktere `550 gr`. 
 
-Wanneer je dan, dankzij het zweet van je persoonlijke kabouter, ‘s morgens wakker gemaakt wordt met de geur van gebakken brood, zorg er dan voor dat je eerst koffie of thee gedronken hebt. Ik heb al een aantal keren het brood gesneden met mijn elektrisch snijmachine terwijl ik vergat de haak uit het brood te halen. Het onaangename lawaai van het contact tussen het snijblad en de metalen kneedhaak vergeet je niet snel. De plekken waar het blad een slappe poging heeft ondernomen om de haak in twee te slijpen gaan trouwens roesten.
+Wanneer je dan, dankzij het zweet van je persoonlijke kabouter, ‘s morgens wakker wordt gemaakt met de geur van gebakken brood, zorg er dan voor dat je eerst koffie of thee hebt gedronken. Ik heb al een aantal keren het brood gesneden met mijn elektrisch snijmachine terwijl ik vergat de haak uit het brood te halen. Het onaangename lawaai van het contact tussen het snijblad en de metalen kneedhaak vergeet je niet snel. De plekken waar het blad een slappe poging heeft ondernomen om de haak in twee te slijpen gaan trouwens roesten.
 
 De kneedhaak verwijderen is een kunst op zich. In het uitzonderlijk geval, als de maan goed staat, valt het brood prompt uit het bakblik tijdens mijn verwoede geschud. Als ook de goden mij goedgezind zijn, blijft de kneedhaak netjes in het blik steken. 
+
+* * *
 
 Veelgemaakte fouten zijn het niet laten afkoelen van het brood, of vergeten goed isolerende handschoenen te gebruiken. Dat tweede leer je heel snel af. Maar aangezien ik nooit brood bak tijdens volle maan, lukt deze schud methode zelden zonder dat de haak aan het brood blijft plakken. In de plaats daarvan heb ik mijzelf gespecialiseerd in het gebruik van eetstokjes om met wat gepruts aan de onderkant van het brood de haak met chirurgische precisie te verwijderen. 
 
@@ -64,15 +68,17 @@ Er gebeurt iets magisch als je bloem, water, gist en zout samen kapt en op '_sta
 
 Er niets mis is met het gebruik van broodbakmachines, integendeel: het kan dienen als de perfecte springplank naar de wondere wereld van gisting. 
 
+* * *
+
 Het eerste jaar dat ik alleen woonde, werd ik verplicht om me te begeven in de erg diepe en vooral onbekende waters van het koken en bakken. Mijn vader is een ervaren duiker wat dat betreft. Mij heeft het echter nooit weten te boeien, totdat ik wel moest. Koudwatervrees? Het is altijd eenvoudiger om gewoon de voeten onder tafel te schuiven wanneer het eten klaar is. Gaan werken, een appartement proper houden, op- en afrijden naar mijn vriendin die later mijn vrouw zou worden, mezelf voorzien van eten, ergens proberen vrije tijd te vinden om oude hobby’s terug op te pikken, ... Waar is daartussen nog plaats om brood te bakken? 
 
 Die jaren zijn onbewust een belangrijk keerpunt geweest in mijn interesses. Ik vroeg mijn vader om advies over koken en durfde op een vrijdagavond al eens zelf een gerecht samen te stellen. Wie weet, misschien werden er wel eens vrienden uitgenodigd op een diner. 
 
 In diezelfde periode ontdekte ik op een boekenbeurs een aantal boeken over brood bakken met de broodbakmachine. De boeken zelf stelden eerlijk gezegd weinig voor, maar ze boden een alternatief. Ik kon eens iets anders bakken dan mijn standaard tarwebrood van `550 gr`. Voeg misschien eens gemalen walnoten toe, of meng wat verschillende meelsoorten. 
 
-Het boek liet me ook zien dat je je machine kan gebruiken om enkel deeg te kneden, wat ik vanaf toen altijd deed met pizzadeeg. Nadat het deeg gekneed wordt, kan je simpelweg alles uitzetten en het deeg uit het bakblik halen om het verder te verwerken. Mijn Panasonic heeft een apart programma ingebouwd om enkel te kneden. 
+Het boek liet me ook zien dat je je machine kan gebruiken om enkel deeg te kneden, wat ik vanaf toen altijd deed met pizzadeeg. Nadat het deeg wordt gekneed, kan je simpelweg alles uitzetten en het deeg uit het bakblik halen om het verder te verwerken. Mijn Panasonic heeft een apart programma ingebouwd om enkel te kneden. 
 
-Door mijn nieuwe interesse in voeding te combineren met mijn oude interesse in boeken, kwam ik meer en meer in contact met kook- en baktechnieken waar ik nog nooit van gehoord had. 
+Door mijn nieuwe interesse in voeding te combineren met mijn oude interesse in boeken, kwam ik meer en meer in contact met kook- en baktechnieken waar ik nog nooit van had gehoord. 
 
 Dankzij onder andere Jonathan Safran Foer werd ik vegetariër en voorstander van lokaal, verantwoord voedsel. Door die stap te maken, en mijn eetpatroon te beperken, werd ik genoodzaakt om nog meer bij te leren over eten. Ik had nog nooit kikkererwten, linzen, seitan of tofu gegeten en had geen flauw idee wat '_tempeh_' of '_koji_' was. 
 
@@ -82,17 +88,19 @@ Ik begon te experimenteren met speciale broden, zoals het toevoegen van spinazie
 
 Op die dagen dat het brood mislukte moest ik toch nog op zoek gaan naar een bakkerij. De smaak van mijn dagelijks brood veranderde meerdere keren per week, tot grote ergernis van Kristien. Het waren echter de smaken van de toegevoegde ingrediënten die doorkwamen, en niet de smaak van het brood zelf. Een belangrijk nuanceverschil. 
 
-In die periode ontdekte ik op het internet een aantal blogs over brood bakken, en maakte ik voor de eerste keer kennis met vreemde termen als '_sourdough_' en '_no-knead bread_'. 
+* * *
+
+In die periode ontdekte ik op het Internet een aantal blogs over brood bakken, en maakte ik voor de eerste keer kennis met vreemde termen als '_sourdough_' en '_no-knead bread_'. 
 
 > _Simply mix all ingredients and let it rise at room temperature overnight._
 
-Dat klinkt inderdaad eenvoudig genoeg. Het ging over een half volkoren focaccia recept, dat ik diezelfde avond natuurlijk nog moest uitproberen. Een minieme hoeveelheid gist wordt toegevoegd aan een redelijk slap deeg, dat ‘s nachts de tijd krijgt om zich volledig te ontwikkelen. 
+Dat klinkt inderdaad eenvoudig genoeg. Het ging over een half volkoren focaccia recept, dat ik diezelfde avond natuurlijk nog moest uitproberen. Een minieme hoeveelheid gist wordt toegevoegd aan een redelijk slap deeg dat ‘s nachts de tijd krijgt om zich volledig te ontwikkelen. 
 
 Vanaf het moment dat er ergens in mijn buurt deeg rijst, word ik enorm nerveus. Elk uur gaan kijken of alles nog leeft. Zijn die belletjes normaal? Staat het te koud of te warm? Moet ik nu verder gaan met de volgende stap, of nog wachten? Afwijken van het recept of blindelings volgen? Het lijkt een beetje op kijken naar een spannende film: wie weet hoe het einde eruit ziet. Snuif de geur eens op: is het te zuur? Of ruikt het nog naar niets? Druk er eens in. Blijft je vinger te lang hangen en is het te nat? Zit er genoeg druk op? Springt je vingerafdruk terug uit het deeg? Blijf vooral geconcentreerd, laat de aandacht niet verslappen! 
 
 En dan gebeurt het ondenkbare. Ik moest dringend even weg. Zou ik de kom in de koelkast plaatsen? (Op dat moment beschikte ik nog niet over voldoende kennis om te weten wat de temperatuur doet met je deeg) Ik ben toch dadelijk terug thuis, het deeg zal wel oké zijn. 
 
-Drie uur later, na als een gek op de baan gereden te hebben, constant denkend aan het rijzend deeg, sta ik vol ongeloof terug te kijken in de kom. De vergadering is uitgelopen - en mijn deeg ook. Het ziet er uit als een krater, volledig in elkaar gezakt, zuurder ruikend dan voor mijn vertrek. Op dat moment zijn er nog twee opties. 
+Drie uur later, na als een gek op de weg te hebben gereden, constant denkend aan het rijzend deeg, sta ik vol ongeloof terug te kijken in de kom. De vergadering is uitgelopen - en mijn deeg ook. Het lijkt op een krater, volledig in elkaar gezakt, zuurder ruikend dan voor mijn vertrek. Op dat moment zijn er nog twee opties. 
 
 Optie één: gooi alles weg en begin opnieuw. Meestal de beste optie. 
 
@@ -105,9 +113,11 @@ Voorlopig kunnen we concluderen dat mijn eerste focaccia niet bepaald een succes
 \index{Pizza}
 \index{Focaccia}
 
-Buiten de schommelende rijstijd zat ik nog met een ander probleem: mijn '_combi_' oven. Die broodbakmachines zijn speciaal ontwikkeld om te bakken in het bakblik zelf[^ding]. Dat legt onmiddellijk ook beperkingen op qua vormgeving van je bakkunst: voor sandwiches of stokbrood zal een korte rit tot de 'echte' bakker nog steeds nodig zijn. 
+* * *
 
-Op mijn appartement beschikte ik enkel over een microgolfoven die ook als traditionele oven moest dienen. De bakplaat is klein, en de microgolf had de grootste moeite om de temperatuur boven `180° C` constant te houden. 
+Buiten de schommelende rijstijd zat ik nog met een ander probleem: mijn '_combi_' oven. Broodbakmachines zijn speciaal ontwikkeld om te bakken in het bakblik zelf[^ding]. Dat legt onmiddellijk ook beperkingen op qua vormgeving van je bakkunst: voor sandwiches of stokbrood zal een korte rit tot de 'echte' bakker nog steeds nodig zijn. 
+
+Op mijn appartement beschikte ik enkel over een microgolfoven die ook als traditionele oven moest dienen. De bakplaat was erg klein, en de microgolf had de grootste moeite om de temperatuur boven `180° C` constant te houden. 
 
 Tegenwoordig bak ik graag brood in een gloeiend hete oven van `250° C` om daarna te zakken in temperatuur. Dat was toen dus onmogelijk. En toch lukte het me aardig om simpele cakes en taarten te bakken, maar pizza of brood vereisen een hogere initiële temperatuur. 
 
@@ -137,6 +147,8 @@ Als devoot enthousiasteling leek het beginnen van een blog me ook een goed idee.
 [^3]: [http://yumarama.com](http://yumarama.com)
 [^4]: [http://www.thefreshloaf.com](http://www.thefreshloaf.com)
 
+* * *
+
 Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een goed boek aan de ene kant, een fatsoenlijke oven en een blog over brood aan de andere kant. De kabouter heb ik bedankt voor zijn jaren trouwe dienst en op pensioen gestuurd. Ik heb hem daarna nooit horen klagen, maar rust roest, en wat moest die nu met de rest van zijn leven? Enkele jaren later heb ik mijn schoonouders geïntroduceerd in de wondere wereld van het brood bakken door hun mijn broodbakmachine te geven, die ze vandaag de dag nog altijd bijna dagelijks gebruiken. 
 
 \newpage
@@ -152,13 +164,13 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een
 * Investeer in een goede oven. 
 * Kabouters wassen niet af.
 
-[^min]: Toscaans brood bevat geen zout. Het heeft dan ook nauwelijks smaak, en wordt gegeten in combinatie met romige maaltijden. 
+[^min]: Toscaans brood bevat geen zout. Het heeft dan ook nauwelijks smaak, en wordt gegeten in combinatie met romige maaltijden om saus te absorberen. 
 
 \newpage
 
 ### Walnotenbrood uit de broodbakmachine
 
-Dit was mijn favoriet brood toen ik frequent gebruik maakte van de trouwe kabouter zijn diensten, voordat ik leerde werken met zuurdesem. Indien jouw machine de hoeveelheid bloem beperkt tot een ander maximum als `550 gr`, herreken dan alle gewichten met behulp van het gegeven percentage. Voor uitleg over het gebruik van deze tabellen, zie hoofdstuk \ref{bakkenhf}. 
+Dit was mijn favoriet brood toen ik frequent gebruik maakte van de trouwe kabouter zijn diensten, voordat ik leerde werken met zuurdesem. Indien jouw machine de hoeveelheid bloem beperkt tot een ander maximum dan `550 gr`, herreken dan alle gewichten met behulp van het gegeven percentage. Voor uitleg over het gebruik van deze tabellen, zie hoofdstuk \ref{bakkenhf}. 
 
 | Hoeveelheid | Percentage | Beschrijving         |
 |:-----------:|:----------:|:---------------------|
@@ -178,9 +190,9 @@ Methode:
 
 Blijkbaar is het belangrijk dat de kneedhaak reeds is gemonteerd aan het bakblik vóórdat de eerste stap wordt uitgevoerd. Ik heb verschillende keren haastig alles bij elkaar gezocht en aan de machine toegevoegd, om vier uur later te concluderen dat ik een klomp gebakken bloem had gemaakt. 
 
-De bloem die ik hanteerde was meestal een of andere kant-en-klare mengeling, zoals een 'bosmix' met soja en mout, of een 'zeven granen mix' met verschillende soorten granen. De smaak van dit brood komt voornamelijk van de walnoten en de bloemmengeling. De noten kort in de oven roosteren helpt hiermee. Niet alle walnoten fijnmalen, maar een aantal grote stukken mee bakken, geeft ook een leuk effect. 
+De bloem die ik hanteerde was meestal een of andere kant-en-klare mengeling, zoals een 'bosmix' met soja en mout, of een 'zeven granen mix' met verschillende soorten granen. De smaak van dit brood komt voornamelijk van de walnoten en de bloemmengeling. De noten kort in de oven roosteren versterkt de smaak. Niet alle walnoten fijnmalen, maar een aantal grote stukken mee bakken, geeft ook een leuk effect. 
 
-Zuurdesem en broodbakmachines zijn geen goede vriendjes vanwege het vaste programma van vier of vijf uur. Dat belette me niet om af en toe een voordeeg te maken van een deel van de bloem. Twaalf uur voor het activeren van de machine meng je `100 gr` bloem, `100 gr` water, en een eetlepel zuurdesem. Dit voeg je samen met de resterende ingrediënten (`450 gr` bloem, `220 gr` water, en de rest) toe aan het bakblik. 
+Zuurdesem en broodbakmachines zijn geen goede vriendjes vanwege het vaste programma van vier of vijf uur. Dat belette me niet om af en toe een voordeeg te maken van een deel van de bloem. Twaalf uur voor het activeren van de machine meng je `100 gr` bloem, `100 gr` water, en een eetlepel zuurdesem. Dit voeg je de volgende dag samen met de resterende ingrediënten (`450 gr` bloem, `220 gr` water, en de rest) toe aan het bakblik. 
 
-Gist is nog steeds nodig om een luchtig brood te verkrijgen. Je kan experimenteren door dit weg te laten, en afhankelijk van het bakprogramma zal dit goed of minder goed aflopen. 
+Gist is nog steeds nodig om een luchtig brood te verkrijgen. Je kan experimenteren door dit weg te laten, en afhankelijk van het bakprogramma zal dit goed of minder goed aflopen. Het is me nooit gelukt om een luchtig brood te bakken in de broodbakmachine zonder het gebruik van gist. 
 

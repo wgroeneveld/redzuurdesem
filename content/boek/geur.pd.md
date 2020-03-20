@@ -67,7 +67,7 @@ En de volgende termen voor de geur van de korst:
 
 > _granig, geroosterd, verbrand, aromatisch_
 
-Dat is nog steeds best moeilijk. Whiskey kenners zullen zeker enkele smaakprofielen kennen. Met _hooiachtig_ wordt een combinatie van gemaaid gras en bloemen bedoeld. De woordkeuze van Venturi is opmerkelijk om twee redenen. Wat als eerste opvalt, is dat er een duidelijk verschil zit in de geur van het kruim en de geur van de korst. Dat is hoofdzakelijk toe te schrijven aan twee chemische reacties tijdens het bakproces: de _Maillard_ reactie en karamelisatie. De binnenkant van het brood komt niet in aanraking met een directe hittebron. Deze reacties zijn het meest uitgesproken waarneembaar in kleur (bruin), geur (geroosterd) en smaak (umami). De keuze van het meeltype is de belangrijkste beïnvloeder van deze reacties [@capuano2009effect].
+Dat is nog steeds best moeilijk. Whiskey kenners zullen zeker enkele smaakprofielen kennen. Met _hooiachtig_ wordt een combinatie van gemaaid gras en bloemen bedoeld. De woordkeuze van Venturi is opmerkelijk om twee redenen. Wat als eerste opvalt, is dat er een duidelijk verschil zit in de geur van het kruim en de geur van de korst. Dat is hoofdzakelijk toe te schrijven aan twee chemische reacties tijdens het bakproces: de _Maillard_ reactie en karamelisatie. De binnenkant van het brood komt niet in aanraking met een directe hittebron. Deze reacties zijn het meest uitgesproken waarneembaar in _kleur_ (bruin), _geur_ (geroosterd) en _smaak_ (umami). De keuze van het meeltype is de belangrijkste beïnvloeder van deze reacties [@capuano2009effect].
 
 \index{Aminozuur}
 

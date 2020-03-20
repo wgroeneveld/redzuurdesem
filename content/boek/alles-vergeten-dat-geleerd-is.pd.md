@@ -11,7 +11,7 @@
 Februari 2014
 \end{flushright}
 
-‘Heb je enig idee wat voor vuiligheid daar allemaal in zit?’ Peter kijkt ons even ongeduldig aan en hervat daarna zijn taak om de bakkerij op orde te brengen. 
+‘Heb je enig idee wat voor vuiligheid daar allemaal in zit?’ Peter kijkt ons even ongeduldig aan en hervat daarna zijn taak om zijn bakkerij op orde te brengen. 
 
 ‘Weet jij wat voor een rommel mensen tegenwoordig allemaal eten?’ Pannen worden op elkaar gestapeld, bloemresten bij elkaar geveegd.
 
@@ -23,17 +23,19 @@ Februari 2014
 
 'Ik heb jaren in combinatie met de avondschool mijn échte opleiding gevolgd in deze bakkerij zelf, bij Willy' legt Peter uit. 
 
-Het verhaal van Peter als bakker is een atypisch, maar frequenter voorkomend fenomeen: hij heeft jaren als industrieel ingenieur gewerkt en heeft in 1999 de beslissing genomen om zijn carrière volledig om te gooien. De bakkerij, genaamd ‘Natuurbakkerij Schoofs & Herteleer’, heeft hij samen met zijn vrouw, na een lange stage en het behalen van het wettelijk verplicht diploma, overgenomen van zijn voorganger Willy Herteleer. Zoals de naam reeds doet vermoeden, wordt er enkel met zuivere, honderd procent natuurlijke producten gewerkt. Peter weigert bijvoorbeeld suiker in zijn veel voorkomende vormen te gebruiken en experimenteert in de plaats daarvan met rijststroop. 
+Het verhaal van Peter als bakker is een atypisch, maar frequenter voorkomend fenomeen: hij heeft jaren gewerkt als industrieel ingenieur en heeft in 1999 de beslissing genomen om zijn carrière volledig om te gooien. De bakkerij, genaamd ‘Natuurbakkerij Schoofs & Herteleer’, heeft hij samen met zijn vrouw, na een lange stage en het behalen van het toen nog wettelijk verplicht diploma, overgenomen van zijn voorganger Willy Herteleer. Zoals de naam reeds doet vermoeden, wordt er enkel met zuivere, honderd procent natuurlijke producten gewerkt. Peter weigert bijvoorbeeld bietensuiker in zijn veel voorkomende vormen te gebruiken en experimenteert in de plaats daarvan met rijststroop. 
 
 ‘Er komen hier veel klanten op advies van hun dokter over de vloer. Mensen met darmklachten, problemen met hun spijsvertering, uitslag, pijn aan de keel, noem maar op. Wij proberen hen een alternatief te bieden. Geen rommel voor het lichaam, maar iets dat voedingswaarde bevat en blijft hangen.’
 
 ‘Dus wat voor een vuiligheid zit er dan allemaal in een gewoon brood?’ vraag ik. Onze avondschool die ons tot waardig brood- en banketbakker zou moeten opleiden is in 2014 nog maar pas begonnen, en ik begreep maar gedeeltelijk wat Peter ons probeerde duidelijk te maken. Een blik op mijn twee collega studenten verraadde dezelfde verwarring. 
 
-‘Vuiligheid! Margarines, moeilijk of niet verteerbare vetten in alle vormen en maten. Hopen suikers. Niet moeilijk dat een mens niet _kan gaan_, of te veel gaat!’ Hierna begon Peter met Patrick een uitgebreide discussie aan te gaan over de verschillende stoelgang vormen en waarom voeding hier een rol in zou spelen, terwijl Dimitri en ik probeerden onze lach in te houden en ondertussen onze ogen de kost gaven om de bakkerij zelf te inspecteren. 
+‘Vuiligheid! Margarines, moeilijk of niet verteerbare vetten in alle vormen en maten. Hopen suikers. Niet moeilijk dat een mens niet _kan gaan_, of te veel gaat!’ Hierna begon Peter met Patrick een uitgebreide discussie aan te gaan over de verschillende vormen van stoelgang[^stoelg] en waarom voeding hier een rol in zou spelen, terwijl Dimitri en ik probeerden onze lach in te houden en ondertussen onze ogen de kost gaven om de bakkerij zelf te inspecteren. 
+
+[^stoelg]: De welgekende Bristol-stoelgangenschaal. Klikken op Google Images sterk afgeraden.
 
 Ik moet concluderen dat hij in al zijn hevigheid overschot van gelijk heeft. Brood is voor enorm veel Vlaamse en Nederlandse gezinnen een integraal deel van het vast eetpatroon dat meerdere keren per dag op tafel verschijnt. Als het ergens misgaat lijkt me dat een goed startpunt. 
 
-De bakkerij van Schoofs is uitstekend uitgerust met twee grote ovens, verschillende mixers, twee opbollers, en een uitroltafel om taart- en croissantdeeg in grote hoeveelheden te kunnen bewerken. 
+De bakkerij van Schoofs is uitstekend uitgerust met twee grote ovens, verschillende mixers, twee opbolmachines en een uitroltafel om taart- en croissantdeeg in grote hoeveelheden te kunnen bewerken. 
 
 ‘Ik bak `400` tot `500` broden op één nacht. Daarvoor heb ik alle ovenruimte nodig die ik kan krijgen.’ Peter laat ons een kijkje nemen in de ovens. 
 
@@ -67,15 +69,17 @@ Rechts van de steenoven staat een grote kneedmachine.
 
 ‘God neen,’ schudt Peter, ‘het merendeel van het deeg wordt in de Tonnaer gekneed. Die spiraalkneder is voor taarten en ander vetter deeg. Deze Tonnaer is van 1957 en krijg je niet kapot. Het is nog aangedreven met een riem die redelijk simpel zelf te herstellen is.’ De machine ziet er voor het ongetrainde oog misschien niet zo indrukwekkend uit, maar wij werden er toch behoorlijk warm van. De grote kuip bevat één kneedhaak die een trage op- en neerwaartse beweging maakt. 
 
-‘Zo wordt het kneden met de hand het best benaderd door een machine. Mijn deeg mag niet snel worden gekneed of het gaat stuk. Een volkoren- of roggedeeg houdt de snelheid van een spiraalkneder niet lang vol, daar zitten niet genoeg gluten in en ik gebruik geen heel sterke bloem’ legt Peter verder uit. Hij zet ter demonstratie de machines even aan, om ons het verschil in snelheid te laten zien. De enkele kneedhaak gaat gestaag op- en neer met een constante '_hum... hum... hum..._' die ik veel later, tijdens mijn stage, leer liefkozen. De snellere kneder stoot een krachtigere maar vervelende '_njng njng njng_' kreet uit. Nu is het mij ook meteen duidelijk waarom er een veiligheidsbarrière voor hangt: als je daar nog snel een restje deeg wilt uithalen terwijl de kneder aan staat, breek je onmiddellijk je hand...
+‘Zo wordt het kneden met de hand het beste benaderd door een machine. Mijn deeg mag niet snel worden gekneed of het gaat stuk. Een volkoren- of roggedeeg houdt de snelheid van een spiraalkneder niet lang vol, daar zitten niet genoeg gluten in en ik gebruik geen heel sterke bloem’ legt Peter verder uit. Hij zet ter demonstratie de machines even aan, om ons het verschil in snelheid te laten zien. De enkele kneedhaak gaat gestaag op- en neer met een constante '_hum... hum... hum..._' die ik veel later, tijdens mijn stage, leer liefkozen. De snellere kneder stoot een krachtigere maar vervelende '_njng njng njng_' kreet uit. Nu is het mij ook meteen duidelijk waarom er een veiligheidsbarrière voor hangt: als je daar nog snel een restje deeg wilt uithalen terwijl de kneder aan staat, breek je onmiddellijk je hand...
 
 Het moeilijkste aan Peter zijn systeem lijkt me het deeg uit de grote mengkom halen en op de tafel leggen om verder te verdelen en opbollen. 
 
 ‘Alles tillen op de rug is inderdaad dodelijk.’ Peter haalt zijn schouders op. Weer iets om mee rekening te houden. Ik voel al een pijnlijke steek aan mijn onderrug als ik nog maar kijk naar die kneder. Ik herinner me plots Ghislain, onze leerkracht, vertellen dat hij een paar keer in zijn bakcarrière een hernia had opgelopen omwille van exact hetzelfde probleem. Bakkers verkwisten ook niet graag tijd en heffen daarom vaak meer dan ze aankunnen. De klok tikt immers, niet alleen om hun werk in het algemeen gedaan te krijgen, maar ook omdat eens het rijsmiddel is toegevoegd aan het deeg, alles begint te leven. Een bakker voert elke dag (of in Peter zijn geval, nacht) als het ware een strijd tegen de tijd. 
 
-Wij bewonderen Peter allemaal omwille van zijn carrièreswitch en volharding die nodig is om elke nacht zo goed als alleen die honderden broden uit de oven te halen. We zijn stiekem een beetje jaloers op hem. De meeste leerlingen van de avondschool aanschouwen bakken als een hobby waar ooit meer van kan komen, terwijl de studenten van de dagopleiding zich inschrijven met de intentie om effectief professionele bakker te worden. Het zeurende gevoel van de dagelijkse werksleur zit er bij ons nog goed in en het vooruitzicht om exact hetzelfde nog jaren te doen tot aan het pensioen maakt het er niet echt vrolijker op. Op dit punt klinkt een switch naar bakker heel romantisch en we vragen de bakker naar zijn ervaringen toen hij pas de keuze gemaakt had. 
+* * *
 
-‘Veel werkwijzen en recepten heb ik zelf moeten uitzoeken. Het heeft me bloed, zweet, tranen, en jaren keihard werken gekost om te geraken waar ik nu ben en ik ben nog steeds niet tevreden. Je moet blijven verbeteren en kritisch kijken naar je eigen werk. Het is keihard werken, ‘s nachts in een kelder met artificieel licht. Ik snak naar daglicht en vakantie, maar die dingen moet je leren gedeeltelijk op te geven. Ik heb in die jaren verschillende keren gedacht om er volledig mee te stoppen.’ Hij kijkt ons alledrie een tijdje aan en we worden er stil van. 
+Wij bewonderen Peter allemaal omwille van zijn carrièreswitch en volharding die nodig is om elke nacht zo goed als alleen die honderden broden uit de oven te halen. We zijn stiekem een beetje jaloers op hem. De meeste leerlingen van de avondschool aanschouwen bakken als een hobby waar ooit meer van kan komen, terwijl de studenten van de dagopleiding zich inschrijven met de intentie om effectief professionele bakker te worden. Het zeurende gevoel van de dagelijkse werksleur zit er bij ons nog goed in en het vooruitzicht om exact hetzelfde nog jaren te doen tot aan het pensioen maakt het er niet bepaald vrolijker op. Op dit punt klinkt een omschakeling naar bakker heel romantisch en we vragen de bakker naar zijn ervaringen toen hij pas die keuze maakte. 
+
+‘Veel werkwijzes en recepten heb ik zelf moeten uitzoeken. Het heeft me bloed, zweet, tranen, en jaren keihard werken gekost om te geraken waar ik nu ben - en ik ben nog steeds niet tevreden. Je moet blijven verbeteren en kritisch kijken naar je eigen werk. Het is keihard werken, ‘s nachts in een kelder met artificieel licht. Ik snak naar daglicht en vakantie, maar die dingen moet je leren gedeeltelijk op te geven. Ik heb in die jaren verschillende keren gedacht om er volledig mee te stoppen.’ Hij kijkt ons alledrie een tijdje aan en we worden er stil van. 
 
 Misschien is fietsenmaker meer iets voor mij.
 
@@ -83,7 +87,9 @@ Misschien is fietsenmaker meer iets voor mij.
 
 De aftandse zetel die in de hoek naast een oven staat zegt veel. Peter zag dat ik er naar staarde en zei ‘voor dutjes tussendoor, wanneer het echt niet meer gaat. Kerst en Pasen zijn nog erger, voor velen is dat de leukste periode van het jaar. Voor ons is dat hard werken.’ 
 
-‘Ik zal een tip geven. Als jullie van plan zijn ooit een bakkerij te openen, zoek dan een goede partner die u steunt door dik en dun. Als jij op het punt staat op te geven, motiveert die u om te blijven gaan. Als je iets vergeet te bestellen, regelt die dat voor u. Zonder mijn vrouw kon ik dit onmogelijk doen.’ Ik hoop dat mijn vrouw dit nooit leest...
+‘Ik zal een tip geven,' begint Peter. 'Als jullie van plan zijn ooit een bakkerij te openen, zoek dan een goede partner die u steunt door dik en dun. Als jij op het punt staat op te geven, motiveert die u om te blijven gaan. Als je iets vergeet te bestellen, regelt die dat voor u. Zonder mijn vrouw kon ik dit onmogelijk doen.’ 
+
+Ik hoop dat mijn eigen vrouw dit nooit leest...
 
 Aan de natuurbakkerij is ook een winkeltje verbonden waar biologische producten verkocht worden zoals sinaasappel olijfolie uit Italië en verschillende soorten granen, thee, en andere natuurlijke producten. 
 
@@ -95,13 +101,13 @@ Peter maalt ook zijn eigen bloem, die vers wordt verwerkt in zijn producten.
 
 ‘Pas op, naar achteren!’ waarschuwt hij. We lopen terug tot aan de deur terwijl Peter een zak spelt in de molen giet en deze activeert. 
 
-‘De wrijving van de stenen zorgen ervoor dat de granen worden geplet, maar ook dat alles wordt verhit. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt maar de kamer wordt desalniettemin bekleed met een mooi laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. 
+‘De wrijving van de stenen zorgen ervoor dat de granen worden geplet, maar ook dat alles wordt verhit. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt, maar de kamer wordt desalniettemin bekleed met een laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. 
 
 ‘Laat je dit dan rusten of gebruik je dit onmiddellijk?’ vraag ik. 
 
-‘Vers gemalen bloem moet je een aantal uren laten rusten en kan je niet _groen_ verwerken. Bij bloem is dat anders. Ik laat het meestal 12 uren staan en dan gaat het deze nacht in het deeg.’ De zak wordt dichtgeknoopt en afgekoppeld van de molen. Ik noteer in mijn hoofd dat ik ooit eens zelf graan wil malen[^zelfm].
+‘Vers gemalen meel moet je een aantal uren laten rusten en kan je niet _groen_ verwerken. Bij bloem is dat anders. Ik laat het meestal 12 uren staan en dan gaat het deze nacht in het deeg.’ De zak wordt dichtgeknoopt en afgekoppeld van de molen. Ik noteer in mijn hoofd dat ik ooit eens zelf graan wil malen[^zelfm].
 
-‘Maar waar haal je je graan dan vandaan?’ We hadden veel zakken graan, zaden, bloem, en meel zien liggen in de opslagplaats naast de bakkerij.  
+‘Maar waar haal je je graan dan vandaan?’ We hadden veel zakken graan, zaden, bloem en meel opgemerkt in de opslagplaats naast de bakkerij.  
 
 ‘Die wordt besteld vanuit een molen in Oudenaarde. Dat is een van de enige molens in België die mij biologisch lokaal geteeld materiaal kan leveren.’ Op dat moment was de voor mij nabijgelegen molen te Stevoort nog niet gecertifieerd en konden nabijgelegen boeren niet voldoen aan de grotere  hoeveelheden die Schoofs elke nacht verwerkt. 
 
@@ -113,7 +119,9 @@ Een vreemd object valt me op in de andere hoek van de kamer waar de molen staat.
 
 We bedanken Peter hartelijk voor zijn tijd en krijgen nog een brood mee om te proeven. Ik ben daarna nog verschillende keren terug geweest om andere soorten brood te kopen en te proeven, waaronder hun zuurdesembrood gemaakt van het lapjes deeg. Het proefde verrassend zuur, ik had eerder iets yoghurt achtig verwacht maar mijn smaakpapillen verwelkomen in de plaats daarvan veel azijnzuren van het uitgegist deeg. Het valt ook op dat bijna alle broden zeer stevig van structuur zijn. Ik neem aan dat de opboller anders problemen krijgt met het verwerken van te plakkerig deeg. Het gebruik van grote hoeveelheden volle granen betekent ook een veel hogere wateropname van het deeg. 
 
-Dat was mijn eerste kennismaking met een échte volledig operationele bakkerij, los van de ruimte in de avondschool. Maar mijn persoonlijke queeste naar zuurdesem, eenvoud, en het natuurlijke bracht me naar deze ene bakkerij in Genk. Ik was ervan overtuigd dat er nog veel meer te leren viel van andere openhartige bakkers. De wilde ideeën om misschien zelf ooit zo zot te zijn maakte zulke bezoekjes best wel spannend. Terug onderweg naar mijn écht werk probeer ik zoveel mogelijk die gedachten te verdringen, zonder veel succes. Door de toestroom van nog meer vragen dikte die obsessie met brood alleen maar aan. Ik besloot daarom om Willy Herteleer te bezoeken, de leermeester die Peter zijn kennis en bakkerij heeft nagelaten. 
+Dat was mijn eerste kennismaking met een échte volledig operationele bakkerij, los van de ruimte in de avondschool. Maar mijn persoonlijke queeste naar zuurdesem, eenvoud en het natuurlijke bracht me naar deze ene bakkerij in Genk. Ik was ervan overtuigd dat er nog veel meer te leren viel van andere openhartige bakkers. De wilde ideeën om misschien zelf ooit zo zot te zijn maakte zulke bezoekjes best wel spannend. 
+
+Terug onderweg naar mijn écht werk probeer ik zoveel mogelijk die gedachten te verdringen, zonder veel succes. Door de toestroom van nog meer vragen dikte die obsessie met brood alleen maar aan. Ik besloot daarom om Willy Herteleer te bezoeken, de leermeester die Peter zijn kennis en bakkerij heeft nagelaten. 
 
 ### Van gewone naar biologische bakkerij
 
@@ -125,13 +133,13 @@ Willy heeft de bakkerij van zijn vader overgenomen, dat toen gevestigd was in ee
 
 ‘Ik heb er een natuurbakkerij van gemaakt’ klinkt het trots. Ik zit samen met Willy en zijn vrouw in de living bij hun thuis, op een gure doordeweekse oktoberavond. Toen hij hoorde dat ik zo enthousiast was over brood en natuurlijke ingrediënten, nodigde hij me uit voor een gezellig gesprek over zijn gloriejaren. 
 
-‘De bakkerij van mijn vader was een goede bakkerij, maar was er eentje zoals alle anderen. We gebruikten wat we kenden en wat toen in opkomst was: margarines, veel gist, en veel suiker. Op een gegeven moment was ik het beu om ongezonde voeding aan mijn klanten te verkopen en heb ik alles buiten gegooid. Het was niet niks om vanaf nul opnieuw te beginnen. Je moet namelijk alles terug uitvinden. Maar dat is één van de leukste dingen aan bakker zijn: constant jezelf opnieuw uitvinden. Je kan ook jarenlang dezelfde producten aanbieden, maar dat geeft minder voldoening, zowel voor jezelf als voor je klanten.’ 
+‘De bakkerij van mijn vader was een goede bakkerij, maar was er eentje zoals alle anderen. We gebruikten wat we kenden en wat toen in opkomst was: margarines, veel gist en veel suiker. Op een gegeven moment was ik het beu om ongezonde voeding aan mijn klanten te verkopen en heb ik alles buiten gegooid. Het was niet niks om vanaf nul opnieuw te beginnen. Je moet namelijk alles terug uitvinden. Maar dat is één van de leukste dingen aan bakker zijn: constant jezelf opnieuw uitvinden. Je kan ook jarenlang dezelfde producten aanbieden, maar dat geeft minder voldoening, zowel voor jezelf als voor je klanten.’ 
 
-‘Een kopje thee?’ Heel graag, antwoord ik. Er wordt organische rietsuiker bij gegeven. Ik had niets anders verwacht. 
+‘Een kopje thee?’ Heel graag, antwoord ik. Er wordt biologische rietsuiker bij gegeven. Ik had niets anders verwacht. 
 
-Willy vertelt dat hij keramieken potten maakte om het brood langzaam te laten rijzen en bakken. Ik knik herkennend, terugdenkend aan het bezoek aan nu Peter’s bakkerij. Ik heb toen ook zo’n brood mee gekregen en er meer dan een week van kunnen eten. Mijn maag zat zoals voorspeld erg snel vol. 
+Willy vertelt dat hij keramieken potten maakte om het brood langzaam te laten rijzen en bakken. Ik knik herkennend, terugdenkend aan het bezoek aan Peter. Ik heb toen ook zo’n brood mee gekregen en er meer dan een week van kunnen eten. Mijn maag zat zoals voorspeld erg snel vol. 
 
-‘Het idee van natuurlijk voedsel trok ik verder dan brood alleen. We maakten onder andere grote hoeveelheden kombucha[^kombucha] die in de winkel in grote flessen verdeeld werd.’ Ook andere gefermenteerde producten en verschillende kruiden werden er verkocht. 
+'Het idee van natuurlijk voedsel trok ik verder dan brood alleen. We maakten onder andere grote hoeveelheden kombucha[^kombucha] die in de winkel in grote flessen werd verdeeld.' Ook andere gefermenteerde producten en verschillende kruiden werden er verkocht. 
 
 ‘Natuurproducten van Damhert werden geleverd en wij als kleinhandelaar verkochten dit aan de consument. Zo heb ik trouwens Peter Schoofs leren kennen, zijn broer is eigenaar van Damhert.’ gaat Willy verder. 
 
@@ -177,6 +185,8 @@ Op de broodzak staat de volgende tekst gedrukt:
 
 De tekening van een bakker die maalt met een molen doet me sterk denken aan de molen die Peter ons heeft laten zien...
 
+* * *
+
 Ik ben blij dat er mensen in de wereld zijn zoals Willy en Peter, die niet zomaar opgeven, en iets willen betekenen voor anderen. Hun drang om iets natuurlijk vol smaak en voedingswaarden aan te bieden is groot. Een geschikt pand vinden, de juiste machines aankopen, en voldoende kennis opbouwen om een bakkerij te kunnen openen is geen eenvoudige taak. Zelfs als je zoals Willy al fluitend jezelf toewijdt aan het dagelijks bakken, malen, poetsen, en verkopen, toch blijft het niet te onderschatten fysiek zwaar werk. 
 
 De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en leren van anderen, maar tegelijkertijd schrikte het mij wat af. Veel mensen zoals mij zijn immers tegenwoordig bevoorrecht met wat ik lui werk noem: de hele dag al zittend goed betaald worden. En dan nog durven dromen over iets anders en beters. Ik weet nu heel zeker dat er bij échte ambachten zoals bakken over een _verdiende_ loon gesproken kan worden. 
@@ -195,7 +205,7 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 * Een winkeltje dat gespecialiseerde natuurlijke producten verkoopt is een goede aanvulling op een biologische bakkerij. 
 * De vraag naar zulke natuurlijke alternatieven zit stevig in de lift. 
 * Een _partner in crime_ zorgt voor de noodzakelijke motivatie tijdens de goede en minder goede momenten als eigenaar van een bakkerij. 
-* Een carrièreswitch van iets technologisch naar iets ambachtelijks komt blijkbaar vaak voor. Is dat nu bemoedigend, of ontmoedigend? 
+* Een carrièreswitch van iets technologisch naar iets ambachtelijks komt blijkbaar vaak voor. Is dat nu bemoedigend of ontmoedigend? 
 
 \newpage
 
@@ -203,7 +213,7 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 
 \label{granenbrood}
 
-Deze formule ontwikkelde ik als ode aan Willy Herteleer, die zijn klanten resoluut heeft leren gezonder eten, door terug te vallen op de smaak en de kracht van de granen zelf. 
+Deze formule ontwikkelde ik als ode aan wijlen Willy Herteleer, die zijn klanten resoluut heeft leren gezonder eten, door terug te vallen op de smaak en de kracht van de granen zelf. 
 
 De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbrood_ dat Peter nog steeds dagelijks bakt. Een '_goed, stevig deeg_', zoals Willy het zou hebben gewild. 
 
@@ -238,7 +248,7 @@ Methode:
 - _Dag 2, 11u30_: Bakken zonder stoom.
 - _Dag 2, 12u20_: Afkoelen.
 
-Het voorbereidende werk kost redelijk wat moeite in vergelijking met conventionelere formules, maar dat extra werk is meer dan de moeite waard. Het kokende water werkt sneller in op de amylase enzymen die door het zout voldoende afgeremd worden. Het op voorhand weken van het roggemeel verhoogt de opname van de voedingsstoffen. 
+Het voorbereidende werk kost redelijk wat moeite in vergelijking met conventionelere formules, maar dat extra werk is meer dan de moeite waard. Het kokende water werkt sneller in op de amylase enzymen die door het zout voldoende worden afgeremd. Het op voorhand weken van het roggemeel verhoogt de opname van de voedingsstoffen. 
 
 Lijnzaad absorbeert veel water, om op zijn beurt een slijmerige substantie af te geven. Zonder het weken neemt het zaad veel vocht weg van het deeg en is het resultaat een te droog brood. 
 

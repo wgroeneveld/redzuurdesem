@@ -13,6 +13,8 @@
 
 Recepten werken niet. Zo, dat is eruit. 
 
+* * *
+
 Ik deel deze mening met Michael Booth, die recepten in zijn boeken aanbiedt en vervolgens vrolijk verklaart: '_Don't worry, it's not you. Recipes don't work._' [@cordonbleu] Als beginneling wordt je overrompeld met instructies en als expert heb je geen zin je te doen wat iemand anders zegt. Tijdstippen en hoeveelheden zijn twee oorzaken van acute hoofdpijn. Er is weinig reden voor verwarring als het op de ingrediënten in een brood recept aan komt, in tegenstelling tot sommige ingewikkeldere gerechten. 
 
 In het begin volgde ik zo strikt mogelijk de aanwijzingen van de auteur op, met een mislukt brood tot gevolg. Veel frustraties en een beetje toegevoegde nonchalantie later werd er niet meer gekeken op een grammetje, met evenzeer een mislukt brood tot gevolg. 

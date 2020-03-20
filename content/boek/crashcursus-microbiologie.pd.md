@@ -343,6 +343,8 @@ De posters in de gang vatten verschillende biochemisch-getinte experimenten same
 
 'Ik ook niet, maar dat is volgens mij wel logisch. Bacteriën groeien over het algemeen sneller dan gisten, wat een competetief voordeel is. Het is me trouwens nooit opgevallen dat hier ook iets over zuurdesem staat. Ik kende het niet echt.' In het ander lokaal opent ze een doos om mij het test kit te laten zien. 
 
+'Deze kit hebben we gebruikt om de gevangen Antwerpse gist te identificeren.' De doos puilt uit met verschillende papiertjes en handleidingen.
+
 'Deze methode is eigenlijk te eenvoudig. De vloeistof verdeelt zich over deze kleine testjes, en de uiteinden kleuren rood, groen, of geel. Op basis van dit papiertje geef je aan welke test welke kleur heeft, en voilà.' Het ziet er uit als een test om de zuurtegraad of het chloorgehalte van water te identificeren. 
 
 'Dus een simpele ziel die niets van microbiologie of chemie kent, zoals ik, kan dat ook?' Kristel lacht.
@@ -365,6 +367,8 @@ Kristel en ik wisselden bedankjes uit, zij voor het roggebrood dat ik meebracht,
 Op gebied van melkzuurbacteriën varieert een typische cultuur veel meer. Het geslacht _Lactobacillus_ komt het meeste voor, en is ook verantwoordelijk voor de breedste waaier aan soorten. De _Leuconostoc_, _Pediococcus_, en _Weissella_ families worden ook vaak geïdentificeerd in zuurdesem. Op basis van die informatie bezorgde ik Kristel een lijst met mogelijk aanwezige organismen die ze gaat omvormen tot een concrete opdracht voor de studenten, verspreid over verschillende semesters. Ik weet nu nog niet welke stammen er exact in mijn desem zitten, maar we zijn al een stap dichter bij de waarheid. 
 
 Er moet in ieder geval geen saai putwater meer onderzocht worden. 
+
+* * *
 
 Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met het blote oog niet waarneembare oorlog in mijn keuken. Door te spelen met principes als vocht- en zoutgehalte, zuurtegraad, temperatuur en tijd bepaal ik als bakker hoe mijn brood smaakt. Er is echter nog een probleem. Het oog wil namelijk ook wel wat. Hoe krijg ik genoeg volume in mijn deeg, zonder dat het plat valt als het uit het rijsmandje komt? Niet te kort of te lang laten rijzen is één ding, maar geen structuur betekent geen vorm. En geen vorm vermindert ook smaak: niemand eet alleen maar met de mond [@delwiche2012you]. 
 

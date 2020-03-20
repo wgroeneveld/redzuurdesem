@@ -1,4 +1,16 @@
 
+## 03/2020
+
+[ ] Spatiéring voorzien met * * *
+[ ] Nalezen voor de laatste keer... 
+[ ] Wat met fotos, beslissen kleur/zwart-wit? Waar toevoegen? (ode ad brief)
+[ ] Appendix aanvullen
+[ ] "Figuur ..." weg bij captions?
+[ ] Voorblad fatsoeneren; ISBN/uitgever/... 
+[ ] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
+
+## 2019
+
 Mogelijk images?
 
 * Bakkerij Schoofs bij beschrijving machines?
