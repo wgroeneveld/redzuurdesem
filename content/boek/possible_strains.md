@@ -6,7 +6,7 @@ LAB/Yeasts: 100:1
 L: Lactobacillus, Lc: Leuconostoc, W: Weissella, P: Pediococcus, S: Streptococcus, E: Enterococcus; S: Saccharomycess, C: Candida, P: Pichia, T: Torulopsis, D: Debaryomyces, I: Issatchenkia
 
 Variatie in yeasts: weinig. 80% SD bevat dezelfde gistsoort (hoodfzakelijk). 91% hetzelfde, 3x3% een andere. Meestal S. cerevisiae, C. milleri, of C. humilis (zie onderaan).
-Variatie in LAB: veel meer. Familie L. komt meeste voor, en uitgebreidste. L., Lc., P., en W. werd veelal in SD teruggevonden. L. familie kan opgesplitst wordne in minstens 9 groepen gebaseerd op 16S rRNA gene sequence similarity.
+Variatie in LAB: veel meer. Familie L. komt meeste voor, en uitgebreidste. L., Lc., P., en W. werd veelal in SD teruggevonden. L. familie kan worden opgesplitst in minstens 9 groepen gebaseerd op 16S rRNA gene sequence similarity.
 
   in tarwe sd:
 - L. buchneri

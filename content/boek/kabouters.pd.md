@@ -28,6 +28,11 @@ Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit
 
 \index{Baker's Percentage}
 
+\begin{wrapfigure}{r}{0.25\textwidth}
+\includegraphics[width=1.4\linewidth]{img/bw/panasonic.jpg}
+\caption{De Panasonic SD-255WXE, dag en nacht tot uw dienst.}
+\end{wrapfigure}
+
 Zo'n kabouter in huis halen brengt heel wat voordelen met zich mee. Afhankelijk van zijn expertise, kan je hem bijvoorbeeld vragen om ‘s morgens een vers brood klaar te hebben. Wat is er nu zaliger dan te worden gewekt door de geur van vers gebakken brood? Er zijn verschillende rassen van kabouters die grotere en kleinere broden kunnen bakken. 
 
 Mijn Panasonic kabouter werkte het liefste met `550 gr` bloem en `320 gr` water - dat is een '_baker's percentage_' of water/bloem verhouding van `58%` [^1]. Het resultaat is een mooi broodje van iets minder dan `800 gr`. Als je een groot gezin hebt is dat nauwelijks voldoende, en zal elke dag je grote kabouter moeten zweten. Al een geluk dat slavenarbeid bij kabouters nog is toegestaan, ook al geven ze na een aantal jaar trouwe dienst de geest... 
@@ -55,6 +60,8 @@ Wanneer je dan, dankzij het zweet van je persoonlijke kabouter, ‘s morgens wak
 De kneedhaak verwijderen is een kunst op zich. In het uitzonderlijk geval, als de maan goed staat, valt het brood prompt uit het bakblik tijdens mijn verwoede geschud. Als ook de goden mij goedgezind zijn, blijft de kneedhaak netjes in het blik steken. 
 
 * * *
+
+![Mislukt zuurdesembrood uit de broodbakmachine. Links: onvoldoende gebakken rogge. Rechts: nauwelijks gerezen tarwe.](img/bw/machinefout.JPG)
 
 Veelgemaakte fouten zijn het niet laten afkoelen van het brood, of vergeten goed isolerende handschoenen te gebruiken. Dat tweede leer je heel snel af. Maar aangezien ik nooit brood bak tijdens volle maan, lukt deze schud methode zelden zonder dat de haak aan het brood blijft plakken. In de plaats daarvan heb ik mijzelf gespecialiseerd in het gebruik van eetstokjes om met wat gepruts aan de onderkant van het brood de haak met chirurgische precisie te verwijderen. 
 
@@ -141,6 +148,7 @@ Tijdens mijn zoektocht naar informatie kwam ik een blog tegen waar een bijzonder
 
 Op diezelfde blog werd er ook een wekelijkse uitdaging aangegaan om elke week één recept van een bepaald bakboek uit te proberen en de resultaten te delen. De foto’s van de broden zagen er zo goed uit dat ik onmiddellijk het betreffende boek bestelde: _Bread_ van Jeffrey Hamelman [@hamelman2004bread]. Aanschouw mijn nieuwe bijbel. 
 
+![Mijn eerste succes met zuurdesem, naar een recept van Hamelman's Vermont Sourdough.](img/bw/ietsmeer.JPG)
  
 Als devoot enthousiasteling leek het beginnen van een blog me ook een goed idee. Zo kon ik mijn eigen vooruitgang controleren en delen met anderen. Dat was de geboorte van [redzuurdesem.be](https://redzuurdesem.be). Door mee te doen aan die wekelijkse uitdagingen kwam ik snel in contact met andere blogs die mijn enthousiasme over brood bakken deelden. Zo leerde ik ook dé referentie website voor amateur broodbakkers kennen: _The Fresh Loaf_[^4]. 
 

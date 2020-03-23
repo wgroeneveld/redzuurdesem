@@ -1,13 +1,15 @@
 
 ## 03/2020
 
-[ ] Spatiéring voorzien met * * *
-[ ] Nalezen voor de laatste keer... 
+[X] Spatiëring voorzien met * * *
+[X] Nalezen voor de laatste keer... 
+[ ] Paginanummers links-rechts uitlijnen, font verkleinen en verdikken
 [ ] Wat met fotos, beslissen kleur/zwart-wit? Waar toevoegen? (ode ad brief)
+[ ] Verantwoording bij figuren
 [ ] Appendix aanvullen
 [ ] "Figuur ..." weg bij captions?
-[ ] Voorblad fatsoeneren; ISBN/uitgever/... 
 [ ] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
+[ ] Voorblad fatsoeneren; ISBN/uitgever/... 
 
 ## 2019
 

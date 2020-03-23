@@ -52,6 +52,11 @@ In één les wordt er natuurlijk meer dan één gebak gemaakt. Voordat we daar a
 
 Het eerste jaar is echt spannend: er zijn zoveel nieuwe dingen om te ontdekken. De oven is uniek en net zoals alle andere ovens, wispelturig. Je kan naast de temperatuur ook de vochtigheidsgraad instellen van de grote rijskast. In een hoekje jongleren we met hete pudding. Twee koelkasten vol aan eieren, melk en boter. Zes lockers aan ingrediënten zoals verschillende soorten en vormen suiker, noten, kruiden en smaakstoffen. Er zijn drie kneders om te verkennen: twee van Sinmag met verschillende koppelstukken en één snelkneder met spiraal waar makkelijk `5 kg` aan deeg in verdwijnt. De kneedmachines zijn wel veel minder indrukwekkend dan die van de bakkerijen die ik al bezocht voordat ik aan de opleiding begon, maar deze mochten we tenminste zelf hanteren! 
 
+\begin{wrapfigure}{r}{0.25\textwidth}
+\includegraphics[width=1.4\linewidth]{img/bw/sinmag.jpg}
+\caption{Een Sinmag snelkneder (SM 20L-S).}
+\end{wrapfigure}
+
 Dan heb ik het nog niet gehad over de magistrale uitroltafel die wordt gebruikt om `5 kg` bladerdeeg in een handomdraai te fabriceren. 
 
 De bergen afwas die er elke avond bij kwamen kijken wekte iets minder enthousiasme op. 
@@ -105,6 +110,8 @@ Dit is een vicieuze cirkel: zolang er geen nieuwe bakkers worden opgeleid om sma
 [^6]: Luister maar eens naar het liedje van _Big Bill_: '_Ene me Hesp of ene me Kees_'...
 
 Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onze opleiding allemaal hebben gebakken [^7]. Ik voeg ze hier toe om aan te tonen dat het Belgisch Bakboek er niet ver naast zit. De exacte producten variëren van jaar tot jaar, maar de inhoud van de les blijft hetzelfde. 
+
+\index{Tijgerbrood}
 
 **Jaar 1:**
 
@@ -317,6 +324,8 @@ Er zijn veel ongevallen gebeurd gedurende die jaren. Het einde van de werkweek g
 
 * * *
 
+![De pudding wordt streng bewaakt door Anja. Dimitri's taak (links) is afleiden, mijn taak (midden) is opeten...](img/bw/pudding.jpg)
+
 Als er één recept is wat mij is bijgebleven, is het toch wel de pudding of banketbakkersroom[^19]. Zo goed als elke vrijdag werd er pudding gekookt. Pudding voor in de éclairs, pudding voor tussen de koffiekoeken, pudding voor de vlaaien mee op te vullen, pudding voor de Berlijnse bollen, pudding pudding pudding. Het koken van pudding is niet zo moeilijk, maar vereist wel redelijk wat concentratie: zodra de massa begint te ‘blubberen’ (het verdikkingsproces door het maïszetmeel) moet je goed opletten, of het spul is aangebrand. Het uitstorten van pudding op een marmeren werktafel is heerlijk om naar te kijken: een plakkerig geel goedje, met in het beste geval veel zwarte tikjes van een goede vanillestok of twee, dat zich gestaag een weg weet te banen uit de kookpot. 
 
 Misschien beslis je om met een spatel het laatste restje pudding uit de pot te schrapen, om het netjes bij de rest te leggen. Of misschien is het een zware week geweest, en heb je best nood aan het verzachtend gevoel van warme pudding dat tegen je gehemelte plakt, voordat het je keelgat in verdwijnt. In dat geval is het oké om de spatel naar de mond te brengen, nadat je jezelf ervan verzekert hebt dat je collega’s allemaal druk bezig zijn. Dimitri herinnert er mij nog steeds aan hoe vaak ik niet aan die verleiding kon weerstaan. Mijn naam is haas. 
@@ -381,6 +390,8 @@ Op een opleidingsavond moet een product klaar zijn in drie uur of minder. Het is
 
 Ik begon meer en meer te denken dat de moderne bakker niet goed presteert onder tijdsdruk. Het verhaaltje van de verbeteraars lijkt hier ook goed op aan te sluiten. Hier en daar worden al eens _shortcuts_ genomen door (veel) meer gist toe te voegen, of door margarine te gebruiken in plaats van boter, om toch maar de rijskast te kunnen gebruiken. 
 
+![Zachte luxe deeg met krenten, na het opbollen (links) en na het bakken (rechts). Dit deeg verdriedubbeld in grootte.](img/bw/sandwiches.jpg)
+
 Neem nu sandwiches. `7` tot `10%` verse gist is niet ongewoon in zo’n deeg. Dat is enorm veel, en dat merk je ook wanneer je met het deeg bezig bent: het rijst écht terwijl je er naar kijkt. Een sandwich is niet veel meer dan wat opgeblazen vet met een zeer hoge winstmarge. 
 
 Heb je je nooit afgevraagd waarom sandwiches zo gistig ruiken? Dat ruikt naar tijdsnood. Of gemakzucht. Gistcellen sterven af in een hete oven, maar echt juichend zullen je darmen dit niet in ontvangst nemen. Brood wordt snel beschouwd als de grote schuldige als het op gezonde voeding aan komt [@broodbuik]. Men mag echter in geen geval generaliseren. Geef je deeg de kans om in alle rust bestanddelen om te zetten in iets voedzaam. 
@@ -403,7 +414,7 @@ Het theoretisch examen test je kennis rond onder andere de wetgeving, hygiëne i
 
 'Om u constant te horen klagen over uw rug zeker, laat maar.' was het antwoord. 
 
-'Trouwens, ik moet dan toch ook werken? Breng het gebak maar gewoon mee naar huis, dan kan ik het ook proeven.' Ik heb misschien de verkeerde argumenten gebruikt. Die afwas konden wij nog wel aan, maar ik wou toch graag dat ze meekwam, omdat die examendag een symbolisch einde was van de driejarige opleiding. 
+'Trouwens, ik moet dan toch ook werken? Breng het gebak maar gewoon mee naar huis, dan kan ik het ook proeven.' Ik heb misschien de verkeerde argumenten gebruikt. Die afwas konden wij nog wel aan, maar ik wilde toch graag dat ze meekwam, omdat die examendag een symbolisch einde was van de driejarige opleiding. 
 
 * * *
 

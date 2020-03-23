@@ -9,9 +9,9 @@
 Juli 2018
 \end{flushright}
 
-In Venteuil, een klein dorpje in de Champagne streek te Frankrijk dat vijfhonderd hele inwoners telt, ligt wijnmaker Autréau-Lasnot[^lasnot]. Er zijn honderden grote en kleine champagneboeren gevestigd in de streek - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkorven. 
+In Venteuil, een klein dorpje in de Champagne streek te Frankrijk dat vijfhonderd hele inwoners telt, ligt wijnmaker Autréau-Lasnot[^lasnot]. Er zijn honderden grote en kleine champagneboeren gevestigd in de streek - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkasten. 
 
-Ik drink geen alcohol, maar dat is geen reden om een uitgebreid bezoek aan deze streek af te slaan. Ik hou van alles wat met fermentatie te maken heeft. Het alcoholisch bijproduct is dan voor mij natuurlijk jammer, maar terwijl iedereen zich bezat aan de verschillende proeverijen kan ik vrolijk wat rondkijken. 
+Ik drink geen alcohol, maar dat is geen reden om een uitgebreid bezoek aan deze streek af te slaan. Ik hou van alles wat met fermentatie te maken heeft. Het alcoholisch bijproduct is dan voor mij natuurlijk jammer, maar terwijl iedereen zich bezat dankzij de verschillende proeverijen kan ik vrolijk wat rondkijken. 
 
 [^lasnot]: [http://www.champagne-autreau-lasnot.com/](http://www.champagne-autreau-lasnot.com/)
 
@@ -29,13 +29,15 @@ Wees bereid om een slechte oogst onherroepelijk weg te kappen: het gaat dan om h
 
 In de champagne wereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om genoeg flessen per jaar te produceren om goed van te kunnen leven (onze gids schatte rond de `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). 
 
-De druivenpers is een gedrocht dat in de grote garage staat bij Autréau, waarna het sap naar de kelder gepompt wordt om in inoxen vaten gedurende 15 maanden te worden omgevormd naar witte wijn. In tientallen vaten zijn verschillende soorten druiven van verschillende jaren opgeslagen. 
+De druivenpers is een gedrocht dat in de grote garage staat bij Autréau, waarna het sap naar de kelder wordt gepompt om in inoxen vaten gedurende 15 maanden te worden omgevormd naar witte wijn. In tientallen vaten zijn verschillende soorten druiven van verschillende jaren opgeslagen. 
 
-Daarna wordt suiker en 'bottelgist' in individuele flessen toegevoegd om de bubbels te creëren. 
+Daarna wordt suiker en bottelgist toegevoegd, fles per fles, om de nodige bubbels te creëren. 
 
 Dat vereist plaats in een tweede kelder. Die flessen moeten regelmatig worden gedraaid om het residu van de gist te kunnen verwijderen en daarna te herkurken. 
 
-Dat vereist plaats in een derde kelder. Voeg daar nog wat meer tijd (en dus nog meer ruimte) aan toe voor de beste combinaties van smaak te laten versmelten. Het leek alsof heel Venteuil onderkelderd was, voorzien van genoeg flessen voor de komende drie generaties. 
+Dat vereist plaats in een derde kelder. Voeg daar nog wat meer tijd (en dus nog meer ruimte) aan toe om de beste combinaties van smaak te laten versmelten. Het leek alsof heel Venteuil onderkelderd was, voorzien van genoeg flessen voor de komende drie generaties. 
+
+* * *
 
 Een wijnmaker draait zijn hand niet om voor een jaar meer of minder. Wij in de moderne bedrijfswereld durven zelfs binnen het jaar meerdere keren van werkgever te veranderen. Als je nu zegt dat je 5 jaar voor dezelfde firma hebt gewerkt krijg je samen met gelukwensen het label '_ancien_' opgeplakt, en als het even kan een extra verlofdag. 10 jaar voor kwaliteit. 5 jaar voor een label. 
 
@@ -49,13 +51,15 @@ Het is tegenwoordig voor velen al een hel om vijf jaar hetzelfde te moeten doen.
 
 Champagne maken bijvoorbeeld. 
 
+* * *
+
 Ook al betekenen jaren niets voor onze gids, toch weet hij bij het proeven van champagne zich exact te herinneren welke _blend_ dat was, hoe de oogst dat jaar was, en in welke ton het sap gistte. 
 
 De ontmoeting leerde mij veel gematigder te zijn als het gaat over het spenderen van tijd. Een groot project van zes jaar doorploeteren hoeft helemaal niets met ploeteren te maken hebben. Die zes jaren zullen zo ook wel voorbij vliegen. 
 
 '_Waar zie je jezelf over vijf jaar?_' klinkt plots als een erg domme vraag.
 
-En toch leven deze boeren ook van moment tot moment: wijn maken vereist een constante bijsturing van het hele proces. Geen enkele dag is hetzelfde. Er wordt constant geproefd en bijgesteld. De globale opwarming van de aarde zorgt voor een verschuiving van oogsttijd die voor hun heel voelbaar is. 
+En toch leven deze boeren ook van moment tot moment: wijn maken vereist een constante bijsturing van het hele proces. Geen enkele dag is hetzelfde. Er wordt constant geproefd en bijgesteld. De opwarming van de aarde zorgt voor een verschuiving van oogsttijd die voor hun heel voelbaar is. 
 
 Ik ben ondersteboven van mijn eigen bekrompenheid over tijdsbesef na dit bezoek. Het zal nog jaren duren - en enkele extra bezoeken - eerdat het besef er volledig is. En dat is niet erg, dan kan het idee nog wat rijpen. 
 

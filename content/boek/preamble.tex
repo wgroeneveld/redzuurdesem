@@ -17,9 +17,25 @@
 
 % for png/pdf inclusion (pdfpages: full-page)
 \usepackage{graphicx}
-\graphicspath{{img/}}
-\usepackage{pdfpages}
+\usepackage{wrapfig}    % inline l/r
+\usepackage{calc}
+\usepackage{changepage} % full-page 
+\newcommand{\adjustimg}{% Horizontal adjustment of image
+  \checkoddpage%
+  \ifoddpage\hspace*{\dimexpr\evensidemargin-\oddsidemargin}\else\hspace*{-\dimexpr\evensidemargin-\oddsidemargin}\fi%
+}
+\newcommand{\centerimg}[2][width=\textwidth]{% Center an image
+  \makebox[\textwidth]{\adjustimg\includegraphics[#1]{#2}}%
+}
 
+ 
+\graphicspath{{img/}}
+% \usepackage{pdfpages}
+
+% figure caption styles - http://www.peteryu.ca/tutorials/publishing/latex_captions
+\usepackage[skip=4pt,font=small]{caption}
+\captionsetup[figure]{labelformat=simple, labelsep=colon, labelfont=bf, textfont={it}}
+\renewcommand{\thefigure}{\thechapter.\Alph{figure}} % set caption label style to 1.A
 
 \usepackage{fontspec}
 \usepackage{mathpazo}
@@ -29,8 +45,8 @@
        BoldItalicFont = texgyrepagella-bolditalic.otf ]
      {texgyrepagella-regular.otf}
 % for Japanese chars
-%\usepackage{xeCJK}
-%\setCJKmainfont[BoldFont=STHeiti,ItalicFont=STKaiti]{STSong}
+\usepackage{xeCJK}
+\setCJKmainfont[BoldFont=STHeiti,ItalicFont=STKaiti]{STSong}
 
 % for itemization, other symbol
 \renewcommand{\labelitemi}{$\circ$}

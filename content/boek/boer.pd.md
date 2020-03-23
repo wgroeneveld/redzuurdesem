@@ -197,7 +197,9 @@ Ik wijs naar de builmachine. 'Zeven jullie alles hierin? Ik bedoel, verkopen jul
 
 [^vondel]: Een stenen windmolen naast de Vondelbeek in Lebbeke, die uitgroeide tot een moderne peperkoekfabriek. Het voornaamste ingrediënt is roggebloem. 
 
-We stijgen nog een verdieping tot op de zolder. Mike wijst naar twee grote ronde constructies. 'Dit zijn de maalstenen. De rechtse is nu elektrisch aangedreven. Het probleem met windenergie is dat die niet constant is, of soms dagen afwezig. Dat beïnvloedt het maalproces, en dus het eindproduct. Vroeger moest ik altijd na het malen en zeven nog mengen om consistentie te kunnen garanderen. Ik kan het niet maken om een bakker twee zakken meel te verkopen die niet op dezelfde manier gemalen zijn. We gaan daarom windenergie omzetten in stroom, zodat de steen constanter maalt. Grotere maalderijen die op steen malen zoals de Commandeursmolen doen dit trouwens ook.' 
+We stijgen nog een verdieping tot op de zolder. Mike wijst naar twee grote ronde constructies. 'Dit zijn de maalstenen. De rechtse is nu elektrisch aangedreven. Het probleem met windenergie is dat die niet constant is, of soms dagen afwezig. Dat beïnvloedt het maalproces, en dus het eindproduct. Vroeger moest ik altijd na het malen en zeven nog mengen om consistentie te kunnen garanderen. Ik kan het niet maken om een bakker twee zakken meel te verkopen die niet op dezelfde manier gemalen zijn. We gaan daarom windenergie omzetten in stroom, zodat de steen constanter maalt. Grotere maalderijen die op steen malen zoals de Commandeursmolen[^cmolen] doen dit trouwens ook.' 
+
+[^cmolen]: De Commandeursmolen ligt in Nederlands Mechelen, achter Maastricht. Het is aangedreven door water, en een van de weinige molens in de buurt die grote hoeveelheden op steen gemalen meel kan leveren, inclusief roggebloem. 
 
 'Moet je de steen vaak bijslijpen?' vraag ik. 
 
@@ -225,7 +227,7 @@ Mineralen en vitaminen zitten in de buitenste lagen van de graankorrel, waardoor
 
 Om niet met lege handen naar huis te gaan kopen we verschillende zakken tarwe- en speltbloem. Op het etiket staan niet alleen de gebruikelijke ingrediënten en houdbaarheidsdatum, maar ook de herkomst van het graan. Het is wel leuk om te weten van welke boer je het graan hebt gekocht. Een duidelijk voelbaar gevolg van de relatie tussen bakker, molenaar en boer die Mike en Soetkin graag persoonlijk houden. 
 
-Op de terugweg in de auto is het een tijdje heel stil. De passie en openheid van deze mensen overdonderde ons. Door hun hele gezin te verhuizen tot in Poeke en lange dagen te maken geven ze veel op. In plaats van te klagen, zoals we allemaal al eens durven te doen, stralen ze. Je kan gerust zeggen dat Flour Power hun roeping is.
+Op de terugweg in de wagen is het een tijdje heel stil. De passie en openheid van deze mensen overdonderde ons. Door hun hele gezin te verhuizen tot in Poeke en lange dagen te maken geven ze veel op. In plaats van te klagen, zoals we allemaal al eens durven te doen, stralen ze. Je kan gerust zeggen dat Flour Power hun roeping is.
 
 ### De brouwer
 
