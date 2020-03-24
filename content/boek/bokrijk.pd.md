@@ -167,9 +167,13 @@ Het openluchtmuseum blijft natuurlijk in de eerste plaats een museum, en geen vo
 
 #### Dag 2
 
-Na de eerste demonstratiedag maakte ik thuis wat aantekeningen om tijdens de tweede dag wat beter om te kunnen gaan met de waargenomen uitdagingen. Het was voor veel bezoekers bijvoorbeeld helemaal niet duidelijk dat het om zuurdesembrood ging. Dat was ook niet echt zichtbaar: wat je zag was een oude bakkerij waarin werd gekneed en gebakken. Om welk brood het precies ging moest je maar raden, tenzij je naar mijn uitleg luisterde, gegeven dat ik op dat moment het niet te druk had met deeg op de grond te laten vallen. Een integraal deel van de ambacht ging zo verloren. Dit heb ik kunnen aanpakken door een uithangbord te vragen waar in het groot 'Demonstratie zuurdesembrood bakken!' op stond. 
+Na de eerste demonstratiedag maakte ik thuis wat aantekeningen om tijdens de tweede dag wat beter om te kunnen gaan met de waargenomen uitdagingen. Het was voor veel bezoekers bijvoorbeeld helemaal niet duidelijk dat het om zuurdesembrood ging. Dat was ook niet echt zichtbaar: wat je zag was een oude bakkerij waarin werd gekneed en gebakken. Om welk brood het precies ging moest je maar raden, tenzij je naar mijn uitleg luisterde, gegeven dat ik op dat moment het niet te druk had met deeg op de grond te laten vallen. Een integraal deel van de ambacht ging zo verloren. Dit heb ik kunnen aanpakken door een uithangbord te vragen met de teskt 'Demonstratie zuurdesembrood bakken!'. 
 
-![Het bakhuisje in het Openluchtmuseum.](img/bw/bokrijk.jpg)
+\begin{figure}
+\centering
+\includegraphics{img/bw/bokrijk.jpg}
+\caption{Het bakhuisje in het Openluchtmuseum.}
+\end{figure}
 
 Daarnaast voorzag ik ook flyers waar wat algemene uitleg van het proces in stond, samen met enkele recepten en een link naar mijn blog voor mensen die graag meer wilden weten. En dat had effect: alle flyers waren binnen het uur uitgedeeld. Ik kan alleen maar raden of ze effectief gelezen en bestudeerd werden, maar op zo'n momenten was ik tevreden genoeg met het feit dat ze werden meegenomen. Het museum opent zijn deuren van tien uur 's morgens tot zes uur 's avonds. 
 
@@ -204,7 +208,7 @@ Het initiatief is bewonderenswaardig en het feit dat ik de inhoud van de cursus 
 
 Dankzij deze demonstraties en latere workshops kon ik mijn enthousiasme over zuurdesembrood delen. Maar zoals Socrates zou hebben gezegd: ‘_Het enige wat ik weet is dat ik (nog) heel weinig weet_’. Tot nu toe leerde ik met behulp van boeken, het internet, interviews en veel al dan niet mislukte experimenten. Het werd tijd om te leren van échte experts. Het kriebelde om eens écht te leren zoals professionele bakkers het hebben geleerd. 
 
-Dat kan maar op één manier: een opleiding tot volwaardige brood- en banketbakker volgen. In België is dat mogelijk via verschillende instellingen zoals Syntra of het Onderwijs Voor Volwassenen. De exacte inhoud van de opleiding is echter vastgelegd door de Overheid. Elke bakker die in België afstudeert heeft in (ongeveer) dezelfde modules dezelfde kennis opgedaan. Het spreekt voor zich dat er wezenlijke verschillen zijn van school tot school en van leerkracht tot leerkracht, maar het punt is dat de inhoud van de lessen hetzelfde zijn. Dat maakte het voor mij eenvoudig om iets dichtbij huis te zoeken. Een opleiding in avondschool duurt drie jaar, een voltijdse dagopleiding slechts eentje. Het tweede is vooral voor voltijdse studenten die op dat moment geen vaste baan hebben. 
+Dat kan maar op één manier: een opleiding tot volwaardige brood- en banketbakker volgen. In België is dat mogelijk via verschillende instellingen zoals Syntra of het Onderwijs Voor Volwassenen. De exacte inhoud van de opleiding is echter vastgelegd door de Overheid. Elke bakker die in België afstudeert heeft in (ongeveer) dezelfde modules dezelfde kennis opgedaan. Het spreekt voor zich dat er wezenlijke verschillen zijn van school tot school en van leerkracht tot leerkracht, maar het punt is dat de inhoud van de lessen hetzelfde zijn. Dat maakte het voor mij eenvoudig om iets dicht bij huis te zoeken. Een opleiding in avondschool duurt drie jaar, een voltijdse dagopleiding slechts eentje. Het tweede is vooral voor voltijdse studenten die op dat moment geen vaste baan hebben. 
 
 Het enige wat me nu nog restte was de blijde boodschap verkondigen dat ik de komende drie jaar op vrijdagavond niet thuis zou zijn...
 

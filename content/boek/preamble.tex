@@ -1,42 +1,74 @@
-\usepackage{tcolorbox}
-\usepackage{etoolbox}
+% ================
+% = Layout Setup =
+% ================
+% see http://ftp.snt.utwente.nl/pub/software/tex/macros/latex/contrib/memoir/memman.pdf
+%\setstocksize{9in}{6in}
+\stockaiv
+\pageav
+%\settrimmedsize{148mm}{210mm}{*}
+\settrims{0pt}{0pt}
+
+\settypeblocksize{190mm}{100mm}{*}
+
+\setpagecc{\paperheight}{\paperwidth}{*} % centers page layout on stock page (trimmings in middle)
+
+\setlrmargins{*}{0.5in}{*}
+\setulmargins{*}{0.5in}{*}
+
+%\setheadfoot{\baselineskip}{\baselineskip} % headheight and footskip
+\setheaderspaces{0.5in}{*}{*} % headdrop, headsep, and ratio
+
+\checkandfixthelayout
+
+% stock/paper and layout settings
+%\stockaiv % default is letterpaper (11 by 8.5 inches)
+%\pageaiv
+%\semiisopage % sets size and pos of typeblock with respect to the page (must call checkandfix...)
+%\settrimmedsize{148mm}{210mm}{*} % calculates paper height and width
+%\setpagecc{\paperheight}{\paperwidth}{*} % centers page layout on stock page (trimmings in middle)
+%\settypeblocksize{}{}{*} % height, width, ratio
+%\setlrmargins{}{}{*} % spine, edge, ratio
+%\checkandfixthelayout
 
 
+% ===========================
+% = Paragraph/Content Setup =
+% ===========================
 % paragraph indentation
 \usepackage{parskip}
-% \newcommand{\nl}{\newline\indent} - heeft geen zin meer met memoir layout!
-%\setlength{\parfill}{0pt}
 \setlength{\parindent}{15pt}
 
-% to add subtitle to \maketitle
-\makeatletter
-\providecommand{\subtitle}[1]{
-  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+% for itemization, other symbol - labelitemii, iii, iv, ... kan ook
+\renewcommand{\labelitemi}{$\circ$}
+
+% starbreak: only add if at beginning of new page. MD: just '* * *'
+\newcommand{\starbreak}{%
+    \fancybreak{* * *}%
 }
-\makeatother
+\DeclareRobustCommand{\cs}[1]{\texttt{\char`\\#1}}
+\newlength{\tpheight}\setlength{\tpheight}{0.9\textheight}
+\newlength{\txtheight}\setlength{\txtheight}{0.9\tpheight}
+\newlength{\tpwidth}\setlength{\tpwidth}{0.9\textwidth}
+\newlength{\txtwidth}\setlength{\txtwidth}{0.9\tpwidth}
+\newlength{\drop}
 
-% for png/pdf inclusion (pdfpages: full-page)
-\usepackage{graphicx}
-\usepackage{wrapfig}    % inline l/r
-\usepackage{calc}
-\usepackage{changepage} % full-page 
-\newcommand{\adjustimg}{% Horizontal adjustment of image
-  \checkoddpage%
-  \ifoddpage\hspace*{\dimexpr\evensidemargin-\oddsidemargin}\else\hspace*{-\dimexpr\evensidemargin-\oddsidemargin}\fi%
-}
-\newcommand{\centerimg}[2][width=\textwidth]{% Center an image
-  \makebox[\textwidth]{\adjustimg\includegraphics[#1]{#2}}%
-}
 
- 
-\graphicspath{{img/}}
-% \usepackage{pdfpages}
+% =============================
+% = Footer/header/index Setup =
+% =============================
+% for index
+\usepackage{imakeidx}
+\makeindex[title=Appendix,columns=2,intoc,options= -s indexstyle.ist]
+\makepagestyle{desem}
+\makeevenfoot{desem}{\footnotesize \thepage}{}{} % hstylei, hlefti, hcenteri, hrighti
+\makeoddfoot{desem}{}{}{\footnotesize \thepage}
 
-% figure caption styles - http://www.peteryu.ca/tutorials/publishing/latex_captions
-\usepackage[skip=4pt,font=small]{caption}
-\captionsetup[figure]{labelformat=simple, labelsep=colon, labelfont=bf, textfont={it}}
-\renewcommand{\thefigure}{\thechapter.\Alph{figure}} % set caption label style to 1.A
 
+% ===================
+% = Font/Text Setup =
+% ===================
+\usepackage{tcolorbox}
+\usepackage{etoolbox}
 \usepackage{fontspec}
 \usepackage{mathpazo}
 \setmainfont
@@ -48,27 +80,44 @@
 \usepackage{xeCJK}
 \setCJKmainfont[BoldFont=STHeiti,ItalicFont=STKaiti]{STSong}
 
-% for itemization, other symbol
-\renewcommand{\labelitemi}{$\circ$}
-% labelitemii, iii, iv, ... kan ook
 
-% for index
-\usepackage{imakeidx}
-\makeindex[title=Appendix,columns=2,intoc,options= -s indexstyle.ist]
+% ================
+% = Images Setup =
+% ================
+% for png/pdf inclusion (pdfpages: full-page)
+\usepackage{graphicx}
+\graphicspath{{img/}}
 
-\newcommand{\starbreak}{%
-    \fancybreak{* * *}%
+\usepackage{wrapfig}    % inline l/r
+\usepackage{subcaption} % subfigure
+\usepackage{calc}		% for adjustimg cmd calculations
+\usepackage{changepage} % full-page 
+\newcommand{\adjustimg}{% Horizontal adjustment of image
+  \checkoddpage%
+  \ifoddpage\hspace*{\dimexpr\evensidemargin-\oddsidemargin}\else\hspace*{-\dimexpr\evensidemargin-\oddsidemargin}\fi%
 }
+\newcommand{\centerimg}[2][width=\textwidth]{% Center an image
+  \makebox[\textwidth]{\adjustimg\includegraphics[#1]{#2}}%
+}
+% \usepackage{pdfpages} % for fullpage png/pdf includes
 
-\DeclareRobustCommand{\cs}[1]{\texttt{\char`\\#1}}
-\newlength{\tpheight}\setlength{\tpheight}{0.9\textheight}
-\newlength{\txtheight}\setlength{\txtheight}{0.9\tpheight}
-\newlength{\tpwidth}\setlength{\tpwidth}{0.9\textwidth}
-\newlength{\txtwidth}\setlength{\txtwidth}{0.9\tpwidth}
-\newlength{\drop}
+% figure caption styles - http://www.peteryu.ca/tutorials/publishing/latex_captions
+\usepackage[skip=4pt,font=small]{caption}
+\captionsetup[figure]{labelformat=simple, labelsep=colon, labelfont=bf, textfont={it}}
+\renewcommand{\thefigure}{\thechapter.\Alph{figure}} % set caption label style to 1.A
 
 
+% ==================
+% = Chapter Styles =
+% ==================
 % hoofdstuk header style ( - 1 -, naam HF)
+% to add subtitle to \maketitle
+\makeatletter
+\providecommand{\subtitle}[1]{
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+
 \chapterstyle{dash}\renewcommand*{\chaptitlefont}{\normalfont\itshape\LARGE}
 \setlength{\beforechapskip}{2\onelineskip}
 \setsecheadstyle{\normalfont\Large\raggedright}

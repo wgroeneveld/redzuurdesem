@@ -24,6 +24,7 @@ all:
 	xelatex boek.tex
 	#echo "UIT"
 
+#		intro.pd.md kabouters.pd.md bokrijk.pd.md \
 #		de-leerschool.pd.md alles-vergeten-dat-geleerd-is.pd.md \
 #		de-echte-leerschool.pd.md boer.pd.md verdienen.pd.md \
 #		intermezzo1.pd.md crashcursus-microbiologie.pd.md \

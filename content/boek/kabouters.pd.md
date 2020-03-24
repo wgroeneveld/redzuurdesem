@@ -30,7 +30,7 @@ Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit
 
 \begin{wrapfigure}{r}{0.25\textwidth}
 \includegraphics[width=1.4\linewidth]{img/bw/panasonic.jpg}
-\caption{De Panasonic SD-255WXE, dag en nacht tot uw dienst.}
+\caption[De Panasonic SD-255WXE. \textcopyright \: Panasonic]{De Panasonic SD-255WXE, dag en nacht tot uw dienst.}
 \end{wrapfigure}
 
 Zo'n kabouter in huis halen brengt heel wat voordelen met zich mee. Afhankelijk van zijn expertise, kan je hem bijvoorbeeld vragen om ‘s morgens een vers brood klaar te hebben. Wat is er nu zaliger dan te worden gewekt door de geur van vers gebakken brood? Er zijn verschillende rassen van kabouters die grotere en kleinere broden kunnen bakken. 

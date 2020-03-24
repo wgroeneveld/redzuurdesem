@@ -6,6 +6,9 @@ fontsize: 11pt
 fontfamily: mathpazo
 # citation settings for https://github.com/jgm/pandoc-citeproc/blob/master/man/pandoc-citeproc.1.md
 bibliography: boek.bib
+classoption:
+  - showtrims
+#  - draft
 # citation-style: ieee.csl is not present, uses chicago-author-date.csl
 lang: nl
 ---

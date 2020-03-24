@@ -66,6 +66,12 @@ Een gang tussen het fornuis en de oven verbindt de zaal met de eigenlijke werkpl
 
 Werken met de Salva oven was puur plezier: hij is heel accuraat. Dat betekent dat iemand zoals mij die maar een korte stage loopt, hem relatief snel onder de knie heeft. Onder- en bovenwarmte instellen werkt goed, hij warmt snel op en de verdiepingen stonden voor mij op de juiste hoogte. 
 
+\begin{figure}
+\centering
+\includegraphics{img/bw/salva.jpg}
+\caption{De Salva dubbeldekker werd twee weken lang mijn beste vriend.}
+\end{figure}
+
 ‘We gebruiken de Salva voor onze patisserie, maar je zou er ook brood in kunnen bakken.’ zegt Sarah. 
 
 ‘Er kan veel meer in onze houtoven, en die houdt veel langer zijn warmte vast. Werken met een houtoven geeft iets speciaals aan je brood.’ Ze laat mij een kijkje nemen in de gapende mond van het beest. Dat gat bleek gigantisch te zijn. De oven is niet erg hoog vanbinnen, wat betekent dat de warmte goed wordt vastgehouden. Hier kan je makkelijk 100 broden in kwijt. Ik heb nog nooit zo een diepe oven gezien.
@@ -111,7 +117,7 @@ Een tweede lijstje, getiteld '_Things to get done_':
 [^amann]: Een Bretoens gebakje met brooddeeg en véél (lagen) boter. 
 [^monkey]: Gemaakt van overschot van het bladerdeeg. 
 
-Heb ik al gezegd dat er enkel vrouwen werken in de bakkerij? Het is een beetje vreemd om ‘s morgens vanachter te werken, en ze doorheen het hele gebouw horen roepen hoe hun weekend is geweest, en welke leuke dingen ze gaan plannen in de kerstvakantie. Door de scheiding van de twee werkplaatsen moet je luid genoeg praten als je wil worden begrepen door je collega die waarschijnlijk ook druk bezig is met het hanteren van een mixer of het rammelen van potten. 
+Heb ik al vermeld dat er enkel vrouwen werken in de bakkerij? Het is een beetje vreemd om ‘s morgens vanachter te werken, en ze doorheen het hele gebouw horen roepen hoe hun weekend is geweest, en welke leuke dingen ze gaan plannen in de kerstvakantie. Door de scheiding van de twee werkplaatsen moet je luid genoeg praten als je wil worden begrepen door je collega die waarschijnlijk ook druk bezig is met het hanteren van een mixer of het rammelen van potten. 
 
 Dankzij Eline voelde ik mij de tweede dag wat zelfzekerder, doordat ze constant in de buurt bleef, en ik zo genoeg kon vragen. Sarah is als hoofd bakker altijd met (te) veel dingen tegelijk bezig, wat het voor mij moeilijker maakt om haar lastig te vallen met mijn onwetendheid. 
 
@@ -159,6 +165,12 @@ Het is jammer dat ik pas ten volle besefte wat ik van mensen als Sam heb geleerd
 \index{Autolyse}
 
 Het brooddeeg verdelen was een onmogelijke opdracht. De ingrediënten worden zonder zout in de kneder gecombineerd tot een los samenhangend geheel. Dan wordt de machine stilgelegd, het zout toegevoegd, en krijgt de bloem ademruimte om het water te absorberen. Dit is de _autolyse_ fase. Werken met zoveel water (meer dan `800 gr` op `1000 gr` bloem) vereist wat ingenieuze trucjes, zoals deze fase, om toch tot een consistent deeg te komen. Na een tijdje kneedt de machine het deeg verder totdat het glutennetwerk volledig ontwikkeld is. Er wordt niet gevouwen om kracht in het deeg op te bouwen, dus die kracht zal daarvoor al voldoende aanwezig moeten zijn in het deeg. 'Wij kneden to _windowpane_[^window]. Er is te weinig plaats om te vouwen, en het kost tijd. Plus het is niet eenvoudig om zo’n nat deeg op tafel te smijten om het even te vouwen' vertelde Sarah me.
+
+\begin{figure}
+\centering
+\includegraphics{img/bw/mandjes.jpg}
+\caption{Ronde rijsmandjes van geperst hout waren de norm. Het plakkerig deeg is moeilijker om langwerpig te vormen.}
+\end{figure}
 
 Na het kneden verhuisden we het deeg in grote emmers, waar het verder kan fermenteren als eerste rijsfase. De kneedmachine moet immers worden vrijgemaakt om te kunnen beginnen aan het volgende deeg. De Sinmag snelkneder wordt enkel gebruikt voor patisserie[^suikerneed]. Het deeg rijst in de emmers een uur of drie tot vier op `24° C`, of totdat Sarah beslist dat de fermentatie oké is. Daarna is het aan ons om de emmers om te kieperen op de houten werkbanken voor de houtoven, om het deeg te kunnen verdelen. Dat klinkt eenvoudiger dan het is: de emmers zijn zwaar en het deeg is zeer loperig. 
 

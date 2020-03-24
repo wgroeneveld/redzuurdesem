@@ -54,7 +54,7 @@ Het eerste jaar is echt spannend: er zijn zoveel nieuwe dingen om te ontdekken. 
 
 \begin{wrapfigure}{r}{0.25\textwidth}
 \includegraphics[width=1.4\linewidth]{img/bw/sinmag.jpg}
-\caption{Een Sinmag snelkneder (SM 20L-S).}
+\caption[Een Sinmag snelkneder (SM 20L-S). \textcopyright \: Sinmag]{Een Sinmag snelkneder (SM 20L-S).}
 \end{wrapfigure}
 
 Dan heb ik het nog niet gehad over de magistrale uitroltafel die wordt gebruikt om `5 kg` bladerdeeg in een handomdraai te fabriceren. 
@@ -324,7 +324,11 @@ Er zijn veel ongevallen gebeurd gedurende die jaren. Het einde van de werkweek g
 
 * * *
 
-![De pudding wordt streng bewaakt door Anja. Dimitri's taak (links) is afleiden, mijn taak (midden) is opeten...](img/bw/pudding.jpg)
+\begin{figure}
+\centering
+\includegraphics{img/bw/pudding.jpg}
+\caption[Anja bewaakt de pudding tijdens de avondles.]{Anja bewaakt de pudding. Dimitri's taak (links) is afleiden, mijn taak (midden) is opeten...}
+\end{figure}
 
 Als er één recept is wat mij is bijgebleven, is het toch wel de pudding of banketbakkersroom[^19]. Zo goed als elke vrijdag werd er pudding gekookt. Pudding voor in de éclairs, pudding voor tussen de koffiekoeken, pudding voor de vlaaien mee op te vullen, pudding voor de Berlijnse bollen, pudding pudding pudding. Het koken van pudding is niet zo moeilijk, maar vereist wel redelijk wat concentratie: zodra de massa begint te ‘blubberen’ (het verdikkingsproces door het maïszetmeel) moet je goed opletten, of het spul is aangebrand. Het uitstorten van pudding op een marmeren werktafel is heerlijk om naar te kijken: een plakkerig geel goedje, met in het beste geval veel zwarte tikjes van een goede vanillestok of twee, dat zich gestaag een weg weet te banen uit de kookpot. 
 

@@ -69,6 +69,12 @@ Rechts van de steenoven staat een grote kneedmachine.
 
 ‘God neen,’ schudt Peter, ‘het merendeel van het deeg wordt in de Tonnaer gekneed. Die spiraalkneder is voor taarten en ander vetter deeg. Deze Tonnaer is van 1957 en krijg je niet kapot. Het is nog aangedreven met een riem die redelijk simpel zelf te herstellen is.’ De machine ziet er voor het ongetrainde oog misschien niet zo indrukwekkend uit, maar wij werden er toch behoorlijk warm van. De grote kuip bevat één kneedhaak die een trage op- en neerwaartse beweging maakt. 
 
+\begin{figure}
+\centering
+\includegraphics{img/bw/peter1.jpg}
+\caption{Peter legt de werking van zijn Tonnaer kneedmachine uit.}
+\end{figure}
+
 ‘Zo wordt het kneden met de hand het beste benaderd door een machine. Mijn deeg mag niet snel worden gekneed of het gaat stuk. Een volkoren- of roggedeeg houdt de snelheid van een spiraalkneder niet lang vol, daar zitten niet genoeg gluten in en ik gebruik geen heel sterke bloem’ legt Peter verder uit. Hij zet ter demonstratie de machines even aan, om ons het verschil in snelheid te laten zien. De enkele kneedhaak gaat gestaag op- en neer met een constante '_hum... hum... hum..._' die ik veel later, tijdens mijn stage, leer liefkozen. De snellere kneder stoot een krachtigere maar vervelende '_njng njng njng_' kreet uit. Nu is het mij ook meteen duidelijk waarom er een veiligheidsbarrière voor hangt: als je daar nog snel een restje deeg wilt uithalen terwijl de kneder aan staat, breek je onmiddellijk je hand...
 
 Het moeilijkste aan Peter zijn systeem lijkt me het deeg uit de grote mengkom halen en op de tafel leggen om verder te verdelen en opbollen. 
@@ -100,6 +106,12 @@ Peter maalt ook zijn eigen bloem, die vers wordt verwerkt in zijn producten.
 ‘Hier ben ik nog volop mee aan het experimenteren. Deze molen kan één zak `25 kg` granen vrij snel verwerken maar het is een gigantische stofboel en ik heb niet altijd de tijd om alle granen zelf te malen. Twintig tot dertig procent van een brood bestaat uit zelfgemalen meel.’ In het midden van een aparte kamer rechts van de toog staat een mobiele, elektrisch aangedreven, steenmolen. De kamer is voorzien van een groot raam zodat mensen vanuit de winkel kunnen meegenieten van de show. 
 
 ‘Pas op, naar achteren!’ waarschuwt hij. We lopen terug tot aan de deur terwijl Peter een zak spelt in de molen giet en deze activeert. 
+
+\begin{figure}
+\centering
+\includegraphics{img/bw/peter2.jpg}
+\caption{De mobiele molen verorbert moeiteloos een zware zak speltgraan.}
+\end{figure}
 
 ‘De wrijving van de stenen zorgen ervoor dat de granen worden geplet, maar ook dat alles wordt verhit. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt, maar de kamer wordt desalniettemin bekleed met een laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. 
 

@@ -21,6 +21,10 @@ Dankzij de doos werd het mogelijk om zonder voorkennis thuis te experimenteren m
 
 * * *
 
+\mbox{} \par
+\noindent\centerimg[width=\paperwidth]{img/bw/desemdoos.jpg}
+
+
 Het idee om een doos te versturen klinkt misschien simpel, maar de uitwerking ervan heeft heel wat maanden werk gekost. Om mijn product op de markt te kunnen brengen moest ik een aantal belangrijke vragen beantwoord hebben. Hoe verstuur ik een actieve zuurdesemcultuur? Ik probeerde desem te drogen door veel water toe te voegen en het uit te smeren op een bakplaat. Na een dag is het water vedampt en kon ik met een vijzel de droge koek tot fijn poeder stampen. Het probleem met dit poeder is echter de activatiekost. Hier moet opnieuw water bij worden gemengd, mogelijks met nog een dag extra opkweek. Dat zou te ingewikkeld zijn voor cursisten. 
 
 Ik moest er dus voor zorgen dat het pakketje op tijd werd afgeleverd. Weekends werden mijn grootste vijand. Er is niets zo rampzalig als een pakketje dat enkele nachten doorbrengt in een of ander pakhuis waardoor de desem te veel verzuurt. Achteraf gezien was het misschien toch beter geweest om zuurdesem te drogen. 
@@ -241,7 +245,7 @@ Dat zou het zeker...
 Januari 2016
 \end{flushright}
 
-Mijn zoektocht naar commercieel inzicht leidde me tot in Bunnik, dichtbij Utrecht. Op het landgoed van Nieuw-Amelisweerd ligt bakkerij en keuken _De Veldkeuken_. Hier bakken René van der Veer en Juliette Borggreve hun biologisch brood. De naam ‘Veldkeuken’ is heel toepasselijk: de zaak ligt in een prachtig gebied omgeven door bossen, velden en wandelpaadjes. 
+Mijn zoektocht naar commercieel inzicht leidde me tot in Bunnik, dicht bij Utrecht. Op het landgoed van Nieuw-Amelisweerd ligt bakkerij en keuken _De Veldkeuken_. Hier bakken René van der Veer en Juliette Borggreve hun biologisch brood. De naam ‘Veldkeuken’ is heel toepasselijk: de zaak ligt in een prachtig gebied omgeven door bossen, velden en wandelpaadjes. 
 
 Het landgoed is opgedeeld in verschillende gebouwen. De bakkerij staat hier dus echt los van de keuken: beiden liggen op tien minuten wandelen van elkaar. De keuken neemt een stuk van het koetshuis in beslag waar aan de linkerkant een museum in is gevestigd. Het trekt veel hongerige bezoekers aan die tussen het wandelen door even willen uitrusten. 
 
@@ -268,7 +272,7 @@ Het gebouw, grenzend aan een van de vele wandelpaden, heeft grote ramen die bezo
 
 Ook René werkt met bloem van de Commandeursmolen die je in indrukwekkende stapels kan zien liggen achterin de ruimte. Er waren nog twee andere bakkers aan het werk. Al fluitend werden er cakes in de oven geschoven en krentenbollen in de rijskast gepropt. Er hing een ontspannen, gezellige sfeer. Ik was onmiddellijk jaloers: de hectische sfeer die ik kende van De Superette is was volledig afwezig. Ik neem aan dat dit komt door de strikte scheiding van keuken en bakkerij (minder mensen lopen in de weg), samen met de bekwaamheid van dit goed geolied team. René was zo vriendelijk om ons tussen zijn werk door een korte rondleiding te geven.
 
-Ik vraag René naar de grote kneder met één arm die in een hoek dichtbij de oven staat. 
+Ik vraag René naar de grote kneder met één arm die in een hoek dicht bij de oven staat. 
 
 ‘Oh, die gebruiken wij nauwelijks. Die spiraalkneder daar wordt gebruikt.’ Hij wijst naar een andere hoek links van de oven. 
 

@@ -55,6 +55,14 @@ Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe di
 
 * * *
 
+\begin{figure}
+\centering
+\includegraphics{img/bw/typeswheat.jpg}
+\caption[Een oude illustratie toont de verschillende types van Triticum. \textcopyright \: The Library of Congress]{Een oude illustratie toont de verschillende types van Triticum:
+(1) polonicum (2) compactum (3) aestivum (4) turgidum (5) durum (6)
+spelta (7) dicoccum (8) monococcum.}
+\end{figure}
+
 Spelt (_Triticum spelta_) wordt ook wel een oergraan genoemd en is daardoor tegenwoordig erg in trek. De vraag naar spelt is de laatste jaren enorm gestegen omdat moderne tarwe niet altijd even goed verteert. In feite delen spelt en gewone 'zachte' tarwe (_Triticum aestivum_) de genomen `AABBDD`. 
 
 De échte oergranen zijn emmer of tweekoren (_Triticum dicoccum_) en eenkoorn (_Triticum monococcum_). Emmer deelt de `AABB` genomen met 'harde' durumtarwe (_Triticum durum_) en khorasantarwe (_Triticum turanicum_). Dat laatste is bij ons gekend als 'Kamut', een variant waar in 1990 een patent op is genomen door twee slimme Amerikaanse boeren met commercieel inzicht [@brester2009marketing]. 
@@ -115,7 +123,9 @@ Hetzelfde gold voor de peperkoekproductie die door gildes in steden nauwgezet in
 
 'Inderdaad, tenzij je in Duitsland roggebrood koopt' vul ik aan.
 
-'Klopt. Roggebloem wordt hier alleen maar gebruikt in peperkoek. Het woord masteluin komt van het Franse _mestillon_, dat op zijn beurt komt van het Latijnse _mixtellum_ - mengen dus. De Benelux is geografisch gezien perfect gelegen tussen het zuidelijke tarweland en noordoostelijke roggeland.'
+'Klopt. Roggebloem wordt hier alleen maar gebruikt in peperkoek. Het woord masteluin komt van het Franse _mestillon_, dat op zijn beurt komt van het Latijnse _mixtellum_ - mengen dus. De Benelux is geografisch gezien perfect gelegen tussen het zuidelijke tarweland en noordoostelijke roggeland.' [^europemap]
+
+[^europemap]: Een Europese kaart van de productie van graangewassen is raadpleegbaar op de website van het United States Department of Agriculture: https://ipad.fas.usda.gov/rssiws/al/europe_cropprod.aspx. De kleurcodes geven aan dat de Benelux perfect in het midden van beide gebieden ligt.
 
 Broodtarwe werd voor de negentiende eeuw nauwelijks puur geteeld maar eerder gecombineerd met andere Triticum soorten. Regionale verschillen, zoals klei- of zandgrond, hebben ook invloed in de verschillende gekweekte tarwevariëteiten en combinaties met andere granen [@maat2001genetics]. Tarwe was dus zeker niet overal een luxe product. Zelfs voor kleine landen als België en Nederland was de variatie groot, die door de moderne globalisatie langzaam maar zeker vervaagt. 
 
@@ -199,7 +209,7 @@ Ik wijs naar de builmachine. 'Zeven jullie alles hierin? Ik bedoel, verkopen jul
 
 We stijgen nog een verdieping tot op de zolder. Mike wijst naar twee grote ronde constructies. 'Dit zijn de maalstenen. De rechtse is nu elektrisch aangedreven. Het probleem met windenergie is dat die niet constant is, of soms dagen afwezig. Dat beïnvloedt het maalproces, en dus het eindproduct. Vroeger moest ik altijd na het malen en zeven nog mengen om consistentie te kunnen garanderen. Ik kan het niet maken om een bakker twee zakken meel te verkopen die niet op dezelfde manier gemalen zijn. We gaan daarom windenergie omzetten in stroom, zodat de steen constanter maalt. Grotere maalderijen die op steen malen zoals de Commandeursmolen[^cmolen] doen dit trouwens ook.' 
 
-[^cmolen]: De Commandeursmolen ligt in Nederlands Mechelen, achter Maastricht. Het is aangedreven door water, en een van de weinige molens in de buurt die grote hoeveelheden op steen gemalen meel kan leveren, inclusief roggebloem. 
+[^cmolen]: De Commandeursmolen ligt in Nederlands Mechelen, dicht bij Maastricht. Het is aangedreven door water, en een van de weinige molens in de buurt die grote hoeveelheden op steen gemalen meel kan leveren, inclusief roggebloem. 
 
 'Moet je de steen vaak bijslijpen?' vraag ik. 
 
@@ -407,6 +417,18 @@ Het resultaat van die gekruiste gisten is duidelijk zichtbaar in de koelkasten v
 * Safale S-04, _dry ale yeast_. Ontworpen in Frankrijk, geproduceerd in België. 
 * Mangrove Jack's M47 _Belgian abbey yeast_. Geproduceerd in Verenigd Koninkrijk? 
 * Wyeast Premium Liquid Yeast 1214 _Belgian Abbey_, _100 billion yeast cells, inoculates up to 5 gallons_. Misschien wat veel. Geproduceerd in Oregon, Verenigde Staten? Verse, vloeibare gist, dat wij dan als trots bierland terug importeren, om te verkopen aan Belgische brouwers. Vreemd systeem, die kapitalistische economie. 
+
+\begin{figure}[h]
+    \begin{subfigure}{0.5\textwidth}
+        \includegraphics{img/bw/yeast.png} 
+        \caption[Saccharomyces cerevisiae (SEM). \textcopyright \: Mogana Das Murtey, Patchamuthu Ramasamy/CC BY-SA 3.0.]{Saccharomyces cerevisiae}
+    \end{subfigure}
+    \begin{subfigure}{0.5\textwidth}
+        \includegraphics{img/bw/lacto.png}
+        \caption[Lactobacillus acidophilus (SEM). \textcopyright \: Mogana Das Murtey, Patchamuthu Ramasamy/CC BY-SA 3.0.]{Lactobacillus acidophilus}
+    \end{subfigure}
+    \caption{Micro-organismen onder de rasterelektronenmicroscoop.}
+\end{figure}
 
 De al even vreemde nummers naast de merknaam duiden een specifieke giststam aan. Ondanks Gert zijn pakjessoep verhaal, vind ik op het pakje vloeibare gist geen enkele aanwijzing op aanwezigheid van meerdere stammen. Wyeastlab spreekt zelfs van enkelvoud (_This strain produces a nice ester profile as well as slightly spicy alcohol notes_). Mangrove Jack beschrijft hun M47 variant als volgt op hun website:
 
