@@ -2,20 +2,17 @@
 % = Layout Setup =
 % ================
 % see http://ftp.snt.utwente.nl/pub/software/tex/macros/latex/contrib/memoir/memman.pdf
-%\setstocksize{9in}{6in}
-\stockaiv
-\pageav
-%\settrimmedsize{148mm}{210mm}{*}
-\settrims{0pt}{0pt}
 
-\settypeblocksize{190mm}{100mm}{*}
+\setstocksize{216mm}{151mm} 		% Page Setup: 3 en 6mm afloop, zoals Word template
+\settrimmedsize{210mm}{148mm}{*} 	% Page Size: A5 (\pageav)
+\settrims{0mm}{0mm} 				% Zit in de stock size
+\settypeblocksize{170mm}{110mm}{*}
+%\setpagecc{\paperheight}{\paperwidth}{*} % centers page on stock (trimmings in middle) - NIET nodig, geen A5 op A4 meer
 
-\setpagecc{\paperheight}{\paperwidth}{*} % centers page layout on stock page (trimmings in middle)
+\setlrmargins{*}{17mm}{*} % Horizontal margin. spine, edge, ratio. Spine gets most, auto-calculated.
+\setulmargins{*}{20mm}{*}  % Vertical   margin. upper, lower, ratio. 
 
-\setlrmargins{*}{0.5in}{*}
-\setulmargins{*}{0.5in}{*}
-
-%\setheadfoot{\baselineskip}{\baselineskip} % headheight and footskip
+\setheadfoot{\baselineskip}{2\baselineskip} % headheight and footskip
 \setheaderspaces{0.5in}{*}{*} % headdrop, headsep, and ratio
 
 \checkandfixthelayout
