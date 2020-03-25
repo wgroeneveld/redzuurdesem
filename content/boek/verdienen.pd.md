@@ -19,13 +19,13 @@ Het resultaat was ‘_Desem Doos_’: een tweemaandelijkse thuiscursus voor de a
 
 Dankzij de doos werd het mogelijk om zonder voorkennis thuis te experimenteren met zuurdesem. Ik wilde de kennis die ik had opgedaan met iedereen delen in de vorm van een aantal digitale lessen. Desem Doos maakt integraal deel uit van mijn persoonlijke queeste naar beter brood.
 
-* * *
+\begin{figure}
+    \mbox{} \par
+    \noindent\centerimg[width=\paperwidth]{img/bw/desemdoos.jpg}
+    \caption{Een pamflet van De Desem Doos.}
+\end{figure}
 
-\mbox{} \par
-\noindent\centerimg[width=\paperwidth]{img/bw/desemdoos.jpg}
-
-
-Het idee om een doos te versturen klinkt misschien simpel, maar de uitwerking ervan heeft heel wat maanden werk gekost. Om mijn product op de markt te kunnen brengen moest ik een aantal belangrijke vragen beantwoord hebben. Hoe verstuur ik een actieve zuurdesemcultuur? Ik probeerde desem te drogen door veel water toe te voegen en het uit te smeren op een bakplaat. Na een dag is het water vedampt en kon ik met een vijzel de droge koek tot fijn poeder stampen. Het probleem met dit poeder is echter de activatiekost. Hier moet opnieuw water bij worden gemengd, mogelijks met nog een dag extra opkweek. Dat zou te ingewikkeld zijn voor cursisten. 
+Het idee om een doos te versturen klinkt misschien simpel, maar de uitwerking ervan kostte heel wat maanden werk. Om mijn product op de markt te kunnen brengen, moest ik op zoek naar antwoorden op enkele belangrijke vragen. Hoe verstuur ik een actieve zuurdesemcultuur? Ik probeerde desem te drogen door veel water toe te voegen en het uit te smeren op een bakplaat. Na een dag is het water vedampt en kon ik met een vijzel de droge koek tot fijn poeder stampen. Het probleem met dit poeder is echter de activatiekost. Hier moet opnieuw water bij worden gemengd, mogelijks met nog een dag extra opkweek. Dat zou te ingewikkeld zijn voor cursisten. 
 
 Ik moest er dus voor zorgen dat het pakketje op tijd werd afgeleverd. Weekends werden mijn grootste vijand. Er is niets zo rampzalig als een pakketje dat enkele nachten doorbrengt in een of ander pakhuis waardoor de desem te veel verzuurt. Achteraf gezien was het misschien toch beter geweest om zuurdesem te drogen. 
 

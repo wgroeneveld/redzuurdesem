@@ -257,13 +257,19 @@ De Zwitser Albert Anker durft als een van de weinige kunstenaars in zijn '_Still
 
 Een erg open structuur, te danken aan het gebruik van veel water, is in recente schilderijen vaker terug te vinden, zoals François Barraud's _brood met wijn en bril_ in 1930. 
 
+\mbox{} \par
+\begin{figure}
+    \noindent\centerimg[width=\paperwidth]{img/bw/breadoflife.jpg}
+    \caption[Bread of Life \textcopyright \: John Whalley. Met dank aan Puratos.]{John Whalley's Bread of Life, met Vitus als blikvanger, de zuurdesemcultuur die verantwoordelijk is voor dit prachtige brood en schilderij.}
+\end{figure}
+
 In Saint-Vith ontdekte ik het prachtige werk van hedendaagse Amerikaanse realist John Whalley, die in opdracht van Puratos een ei tempera schilderij maakte van Vitus, de zuurdesemcultuur die de wereld rond reisde [@goernemannsourdough]. John is volgens Karl de enige schilder die het waagde om zuurdesem zelf op doek te plaatsen. Ik was zo gebiologeerd door dit schilderij dat ik een afdruk bij de auteur bestelde om tegen de keukenmuur te hangen. Nu kan ik tijdens het maken een kunstig brood ook nog eens genieten van kunst over brood. Meer heeft een mens niet nodig om gelukkig te zijn.
 
 De (alweer) Nederlandse schilder Job Adriaenszoon Berckheyde gooide het over een compleet andere boeg. In plaats van stilleven te tekenen waar brood meestal een bijrolletje krijgt, opteerde hij resoluut voor de bakker zelf, met op de voorgrond  twee grote _miches_, pretzels, en een mand vol verschillende andere soorten kleinere broodjes. Grappig genoeg schildert hij geen bakker, die rond 1681 zeker niet moeilijk te vinden was in Nederland, maar zichzelf. Misschien nog iemand die stiekem graag professionele bakker wilde worden. 
 
 Job plaatst in tegenstelling tot zijn broer Gerrit de mens met zijn dagelijkse bezigheid binnenshuis[^binnensh]. Zo komen we in zijn werken regelmatig het interieur van de bakkerswinkel tegen, al dan niet met een kantklosster achter de toonbank. Vroeger blies de bakker op een hoorn om de dorpelingen aan te sporen zijn vers brood te kopen. Het opstoken van het vuur en de onvoorspelbare rijstijden van zuurdesem zijn in onze moderne tijd onder controle zodat we met een gerust hart om klokslag negen uur 's morgens kunnen aanschuiven. 
 
-[^binnensh]: Volgens de uitleg van het Worchester Art Museum waar het stuk tentoongesteld wordt, opereerden handelaren uit de zeventiende eeuw, zoals deze bakker, vanuit zijn of haar eigen huis. Men denkt dat de zuilen in steen zijn afgebeeld om aan te geven dat bakkers in een stenen huis moesten wonen, vanwege het mogelijk brandgevaar van de houtoven.
+[^binnensh]: Volgens de uitleg van het Worchester Art Museum, waar het stuk wordt tentoongesteld, opereerden handelaren uit de zeventiende eeuw, zoals deze bakker, vanuit zijn of haar eigen huis. Men denkt dat de zuilen in steen zijn afgebeeld om aan te geven dat bakkers in een stenen huis moesten wonen, vanwege het mogelijk brandgevaar van de houtoven.
 
 * * *
 
