@@ -3,10 +3,10 @@
 % ================
 % see http://ftp.snt.utwente.nl/pub/software/tex/macros/latex/contrib/memoir/memman.pdf
 
-\setstocksize{216mm}{151mm} 		% Page Setup: 3 en 6mm afloop, zoals Word template
-\settrimmedsize{210mm}{148mm}{*} 	% Page Size: A5 (\pageav)
+\setstocksize{221mm}{138mm} 		% Page Setup: 3 en 6mm afloop, zoals Word template
+\settrimmedsize{215mm}{135mm}{*} 	% Page Size: A5 (\pageav)
 \settrims{0mm}{0mm} 				% Zit in de stock size
-\settypeblocksize{170mm}{110mm}{*}
+\settypeblocksize{180mm}{100mm}{*}
 %\setpagecc{\paperheight}{\paperwidth}{*} % centers page on stock (trimmings in middle) - NIET nodig, geen A5 op A4 meer
 
 \setlrmargins{*}{17mm}{*} % Horizontal margin. spine, edge, ratio. Spine gets most, auto-calculated.
@@ -53,12 +53,16 @@
 % =============================
 % = Footer/header/index Setup =
 % =============================
-% for index
-\usepackage{imakeidx}
+\usepackage{imakeidx}	% for index
 \makeindex[title=Appendix,columns=2,intoc,options= -s indexstyle.ist]
+
 \makepagestyle{desem}
-\makeevenfoot{desem}{\footnotesize \thepage}{}{} % hstylei, hlefti, hcenteri, hrighti
-\makeoddfoot{desem}{}{}{\footnotesize \thepage}
+\createmark{chapter}{left}{nonumber}{}{}	% remove 'chapter x:' from \leftmark
+% args: hstylei, hlefti, hcenteri, hrighti
+\makeevenfoot{desem}{\textsf{\textcolor{lightgray}{\footnotesize \textbf{\thepage} \: | \: RED ZUURDESEM}}}{}{} 
+\makeoddfoot{desem}{}{}{\textsf{\textcolor{lightgray}{\footnotesize \leftmark \: | \: \textbf{\thepage}}}}
+\copypagestyle{chapter}{desem}
+\AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{empty}}} 
 
 
 % ===================

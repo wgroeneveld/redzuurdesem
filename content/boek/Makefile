@@ -3,7 +3,6 @@ templatedir = ../../../pandoc/templates
 all:
 	pandoc -f markdown+smart \
 		-V documentclass=memoir -V lang=nl-BE -M lang:nl \
-		-V toc-title:"Inhoudsopgave" \
 		--include-in-header=preamble.tex \
 		--include-before-body=voorwoord.tex \
 		--include-after-body=afterbody.tex \
@@ -11,7 +10,6 @@ all:
 		--filter pandoc-citeproc \
 		--filter filters/fancybreak.py \
 		--top-level-division=part \
-		--toc \
 		--metadata-file=metadata.yml \
 		--highlight-style=haddock \
 		-t latex > boek.tex \

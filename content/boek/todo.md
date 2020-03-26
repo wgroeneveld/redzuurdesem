@@ -3,9 +3,10 @@
 
 [X] Spatiëring voorzien met * * *
 [X] Nalezen voor de laatste keer... 
-[ ] Paginanummers links-rechts uitlijnen, font verkleinen en verdikken
+[X] Paginanummers links-rechts uitlijnen, font verkleinen en verdikken
 [ ] Wat met fotos, beslissen kleur/zwart-wit? Waar toevoegen? (ode ad brief)
-[ ] Verantwoording bij figuren
+[ ] Tabellen en figuren opnieuw nakijken op margin snijpunten
+[X] Verantwoording bij figuren
 [ ] Appendix aanvullen
 [ ] "Figuur ..." weg bij captions?
 [ ] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
