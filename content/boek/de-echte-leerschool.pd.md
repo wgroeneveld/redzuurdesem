@@ -67,9 +67,9 @@ Een gang tussen het fornuis en de oven verbindt de zaal met de eigenlijke werkpl
 Werken met de Salva oven was puur plezier: hij is heel accuraat. Dat betekent dat iemand zoals mij die maar een korte stage loopt, hem relatief snel onder de knie heeft. Onder- en bovenwarmte instellen werkt goed, hij warmt snel op en de verdiepingen stonden voor mij op de juiste hoogte. 
 
 \begin{figure}
-\centering
-\includegraphics{img/bw/salva.jpg}
-\caption{De Salva dubbeldekker werd twee weken lang mijn beste vriend.}
+    \centering
+    \includegraphics{img/bw/salva.jpg}
+    \caption[De Salva dubbeldekker oven.]{De Salva dubbeldekker werd twee weken lang mijn beste vriend.}
 \end{figure}
 
 ‘We gebruiken de Salva voor onze patisserie, maar je zou er ook brood in kunnen bakken.’ zegt Sarah. 
@@ -167,9 +167,9 @@ Het is jammer dat ik pas ten volle besefte wat ik van mensen als Sam heb geleerd
 Het brooddeeg verdelen was een onmogelijke opdracht. De ingrediënten worden zonder zout in de kneder gecombineerd tot een los samenhangend geheel. Dan wordt de machine stilgelegd, het zout toegevoegd, en krijgt de bloem ademruimte om het water te absorberen. Dit is de _autolyse_ fase. Werken met zoveel water (meer dan `800 gr` op `1000 gr` bloem) vereist wat ingenieuze trucjes, zoals deze fase, om toch tot een consistent deeg te komen. Na een tijdje kneedt de machine het deeg verder totdat het glutennetwerk volledig ontwikkeld is. Er wordt niet gevouwen om kracht in het deeg op te bouwen, dus die kracht zal daarvoor al voldoende aanwezig moeten zijn in het deeg. 'Wij kneden to _windowpane_[^window]. Er is te weinig plaats om te vouwen, en het kost tijd. Plus het is niet eenvoudig om zo’n nat deeg op tafel te smijten om het even te vouwen' vertelde Sarah me.
 
 \begin{figure}
-\centering
-\includegraphics{img/bw/mandjes.jpg}
-\caption{Ronde rijsmandjes van geperst hout waren de norm. Het plakkerig deeg is moeilijker om langwerpig te vormen.}
+    \centering
+    \includegraphics{img/bw/mandjes.jpg}
+    \caption[Ronde rijsmandjes van geperst hout.]{Ronde rijsmandjes van geperst hout waren de norm. Het plakkerig deeg is moeilijker om langwerpig te vormen.}
 \end{figure}
 
 Na het kneden verhuisden we het deeg in grote emmers, waar het verder kan fermenteren als eerste rijsfase. De kneedmachine moet immers worden vrijgemaakt om te kunnen beginnen aan het volgende deeg. De Sinmag snelkneder wordt enkel gebruikt voor patisserie[^suikerneed]. Het deeg rijst in de emmers een uur of drie tot vier op `24° C`, of totdat Sarah beslist dat de fermentatie oké is. Daarna is het aan ons om de emmers om te kieperen op de houten werkbanken voor de houtoven, om het deeg te kunnen verdelen. Dat klinkt eenvoudiger dan het is: de emmers zijn zwaar en het deeg is zeer loperig. 
@@ -293,12 +293,12 @@ Wat is het verschil tussen pizzadeeg en brooddeeg? Dat is een strikvraag. Er is 
 
 De volgende formule is samen met het Altamura deeg uit hoofdstuk \ref{altamurabrood} een van de favorieten van ons gezin.
 
-| Hoeveelheid | Percentage | Beschrijving                         |
-|:-----------:|:----------:|:-------------------------------------|
-| `900 gr`    | `95%`      | T65 tarwebloem                       |
-| `50 gr`     | `5%`       | Tarwemeel, volkoren (fijngemalen)    |
-| `670 gr`    | `67%`      | Water                                |
-| `20 gr`     | `2%`       | Zout                                 |           
+| Hoeveelheid | Percentage | Beschrijving         |
+|:-----------:|:----------:|:---------------------|
+| `900 gr`    | `95%`      | `T65` tarwebloem     |
+| `50 gr`     | `5%`       | `T110` tarwemeel     |
+| `670 gr`    | `67%`      | Water                |
+| `20 gr`     | `2%`       | Zout                 |           
 
 Table: Formule voor pizza.\label{pizzaformule}
 

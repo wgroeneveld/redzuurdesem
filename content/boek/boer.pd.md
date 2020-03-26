@@ -56,11 +56,11 @@ Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe di
 * * *
 
 \begin{figure}
-\centering
-\includegraphics{img/bw/typeswheat.jpg}
-\caption[Een oude illustratie toont de verschillende types van Triticum. \textcopyright \: The Library of Congress]{Een oude illustratie toont de verschillende types van Triticum:
-(1) polonicum (2) compactum (3) aestivum (4) turgidum (5) durum (6)
-spelta (7) dicoccum (8) monococcum.}
+    \centering
+    \includegraphics{img/bw/typeswheat.jpg}
+    \caption[Een oude illustratie toont de verschillende types van Triticum. \textcopyright \: The Library of Congress]{Een oude illustratie toont de verschillende types van Triticum:
+    (1) polonicum (2) compactum (3) aestivum (4) turgidum (5) durum (6)
+    spelta (7) dicoccum (8) monococcum.}
 \end{figure}
 
 Spelt (_Triticum spelta_) wordt ook wel een oergraan genoemd en is daardoor tegenwoordig erg in trek. De vraag naar spelt is de laatste jaren enorm gestegen omdat moderne tarwe niet altijd even goed verteert. In feite delen spelt en gewone 'zachte' tarwe (_Triticum aestivum_) de genomen `AABBDD`. 
@@ -419,15 +419,16 @@ Het resultaat van die gekruiste gisten is duidelijk zichtbaar in de koelkasten v
 * Wyeast Premium Liquid Yeast 1214 _Belgian Abbey_, _100 billion yeast cells, inoculates up to 5 gallons_. Misschien wat veel. Geproduceerd in Oregon, Verenigde Staten? Verse, vloeibare gist, dat wij dan als trots bierland terug importeren, om te verkopen aan Belgische brouwers. Vreemd systeem, die kapitalistische economie. 
 
 \begin{figure}[h]
-    \begin{subfigure}{0.5\textwidth}
+    \centering
+    \begin{subfigure}{0.48\textwidth}
         \includegraphics{img/bw/yeast.png} 
-        \caption[Saccharomyces cerevisiae (SEM). \textcopyright \: Mogana Das Murtey, Patchamuthu Ramasamy/CC BY-SA 3.0.]{Saccharomyces cerevisiae}
+        \caption{Saccharomyces cerevisiae}
     \end{subfigure}
-    \begin{subfigure}{0.5\textwidth}
+    \begin{subfigure}{0.48\textwidth}
         \includegraphics{img/bw/lacto.png}
-        \caption[Lactobacillus acidophilus (SEM). \textcopyright \: Mogana Das Murtey, Patchamuthu Ramasamy/CC BY-SA 3.0.]{Lactobacillus acidophilus}
+        \caption{Lactobacillus acidophilus}
     \end{subfigure}
-    \caption{Micro-organismen onder de rasterelektronenmicroscoop.}
+    \caption[Micro-organismen onder de rasterelektronenmicroscoop. \textcopyright \: Mogana Das Murtey, Patchamuthu Ramasamy/CC BY-SA 3.0.]{Micro-organismen onder de rasterelektronenmicroscoop. Gistcellen zijn bolletjes en bacteriën zijn staafjes.}
 \end{figure}
 
 De al even vreemde nummers naast de merknaam duiden een specifieke giststam aan. Ondanks Gert zijn pakjessoep verhaal, vind ik op het pakje vloeibare gist geen enkele aanwijzing op aanwezigheid van meerdere stammen. Wyeastlab spreekt zelfs van enkelvoud (_This strain produces a nice ester profile as well as slightly spicy alcohol notes_). Mangrove Jack beschrijft hun M47 variant als volgt op hun website:
@@ -486,14 +487,14 @@ Een andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Ge
 
 Om in het thema van brouwen te blijven is een deel van het water vervangen door bier. Gebruik eender welk lokaal beschikbaar karaktervol bier van hoge gisting dat niet té veel alcohol bevat. Door de totale rijstijd te verkorten en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
 
-| Hoeveelheid | Percentage | Beschrijving                         |
-|:-----------:|:----------:|:-------------------------------------|
-| `900 gr`    | `90%`      | T65 tarwebloem                       |
-| `100 gr`    | `10%`      | Tarwemeel, volkoren (fijngemalen)    |
-| `200 gr`    | `20%`      | Draf                                 |
-| `330 gr`    | `33%`      | Speciaalbier                         |
-| `350 gr`    | `35%`      | Water                                |
-| `20 gr`     | `2%`       | Zout                                 |           
+| Hoeveelheid | Percentage | Beschrijving          |
+|:-----------:|:----------:|:----------------------|
+| `900 gr`    | `90%`      | `T65` tarwebloem      |
+| `100 gr`    | `10%`      | `T110` tarwemeel      |
+| `200 gr`    | `20%`      | Draf                  |
+| `330 gr`    | `33%`      | Speciaalbier          |
+| `350 gr`    | `35%`      | Water                 |
+| `20 gr`     | `2%`       | Zout                  |           
 
 Table: Formule voor bier brood met draf.
 
@@ -519,4 +520,4 @@ De grove granen zorgen voor een iets vastere structuur die het brood extra voedz
 
 Stort het deeg na het eerste bulkrijs uit op een werkoppverlvak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht er uit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant, en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het een laatste keer anderhalf uur te laten rusten. 
 
-Laat het brood zeker lang genoeg bakken. Het vocht moet de tijd krijgen om te verdampen, en het kruim moet voldoende stabiliseren. Wat 'lang genoeg bakken' precies betekent hangt af van je installatie thuis. als je denkt dat het klaar is, laat het dan toch nog een paar minuten langer bakken.
+Laat het brood zeker lang genoeg bakken. Het vocht moet de tijd krijgen om te verdampen, en het kruim moet voldoende stabiliseren. Wat 'lang genoeg bakken' precies betekent hangt af van je installatie thuis. 

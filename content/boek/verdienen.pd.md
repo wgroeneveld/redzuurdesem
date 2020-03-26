@@ -85,6 +85,12 @@ Bij te veel restaurants wordt goedkoop gistbrood geserveerd waarvan het zicht en
 
 [^tilb]: 'Tilburg Sourdough' was een bakkerij concept gestart door twee uitgebluste ITers, dat ondertussen uitgebreid werd naar lunchroom 'Pig & Rye'.
 
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/magis.jpg}
+    \caption[Dimitry in zijn keuken te Tongeren.]{Dimitry vult rijsmandjes in zijn keuken te Tongeren.}
+\end{figure}
+
 Mijn handen jeuken. Ik zie een twintigtal rieten rijsmandjes naast hem op de inoxen werktafel. Het is er druk: koks zijn volop bezig met de voorbereidingen van de avondservice. 
 
 ‘Dit gebeurt letterlijk _tussen de soep en de patatten_. We hebben nog wat moeite om de juiste plaats te vinden om het brood te doen rijzen. Het tocht te veel op die plek en het is te warm op een andere plek. We hebben niet zoveel ruimte tot onze beschikking. Dit is immers een keuken, en geen bakkerij.’ Dimitry geeft een korte rondleiding. 
@@ -135,7 +141,13 @@ Dat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Sta
 
 Hoe komt het dat dit percentage in honderd jaar tijd dit zo sterk gedaald is? Dat heeft niet alleen te maken met de overvloed van tegenwoordige vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Een andere oorzaak zou kunnen zijn dat men vroeger _bewuster_ omging met voedsel. 
 
-![Gespeendeerd inkomen aan eten de laatste 60 jaar. Volle lijn: totaal gespendeerd aan voedsel. Stippellijn: gespendeerd in huis. Dikke stippellijn: gespendeerd buitenshuis. \label{percincome}](img/inkomen.png){ width=80% }
+\begin{figure}
+    \centering
+    \includegraphics[width=0.8\textwidth,height=\textheight]{img/inkomen.png}
+    \caption[Grafiek van gespeendeerd inkomen aan eten de laatste 60 jaar.]{Gespeendeerd inkomen aan eten de laatste 60 jaar. Volle lijn:
+    totaal gespendeerd aan voedsel. Stippellijn: gespendeerd in huis. Dikke
+    stippellijn: gespendeerd buitenshuis. \label{percincome}}
+\end{figure}
 
 [^figincome]: Dit is ruwweg gebaseerd op gegevens van het USDA, Economic Research Service, Food Expenditure Series, tabel 7. [http://www.ers.usda.gov/data-products/food-expenditures.aspx](http://www.ers.usda.gov/data-products/food-expenditures.aspx)
 
@@ -239,7 +251,7 @@ Johan zijn broden zijn tien uur sneller klaar dan de mijne, vanwege de erg snell
 
 Dat zou het zeker... 
 
-### De velden, de keuken, en de bakkerij
+### De velden, de keuken en de bakkerij
 
 \begin{flushright}
 Januari 2016
@@ -409,6 +421,11 @@ Ik heb moeite om Karl te begrijpen door het lawaai van de machines. Puratos verk
 
 ‘De meeste bakkers die onze desems kopen maken gebruik van een speciale machine om die op te kweken en op temperatuur te houden. Dat is eigenlijk een grote incubatie kast van inox met een kraan om desem af te tappen die in het brooddeeg wordt gekneed.’ Die machine had ik zien staan in hun testlabo. Het is een groot ding dat door groothandelaars wordt verkocht onder de naam ‘zuurdesem productie machine’. Het inoxen ding schreeuwt industrie. 
 
+\begin{wrapfigure}{l}{0.5\textwidth}
+    \includegraphics[height=6cm]{img/bw/sdmachine.jpg}
+    \caption{Een zuurdesem productie machine.}
+\end{wrapfigure}
+
 Vanuit België vertrekken dus liters aan vloeibare desem die naar binnen- en buitenland stromen. 
 
 Hoe kan Puratos wel de versheid van hun producten garanderen? Tijdens het wandelen van machine naar machine, antwoordt Karl: 
@@ -449,7 +466,14 @@ De kers op de taart is natuurlijk de bibliotheek in het Puratos Center. Dit is g
 
 ‘Dat zou betekenen dat we plaats moeten maken voor elke bakker op de hoek. Nee, dat gaat niet. Wij zijn natuurlijk geïnteresseerd in unieke culturen die wij nog niet hebben. Variëren is de boodschap. Maar hier staan ook desems van bekende bakkers zoals Eric Kayser van Parijs.’ 
 
-Bij elke koelkast hangt een plaatje met uitleg: origine, soort bloem, methode om te onderhouden. Sommige desems zijn heel vloeibaar, maar de meesten zijn vaster. De luchtbellen en het verschil in kleur van de bloem zorgt voor een fraai schouwspel. Veel Italiaanse desems verklappen de samenwerking met een Italiaanse professor. De gouden kleur van harde durum tarwe is leuker om naar te kijken dan saaie gebleekte bloem. 
+\begin{figure}
+    \mbox{} \par
+    \noindent\centerimg[width=\paperwidth]{img/bw/library.jpg}
+    \caption{Sluimerende zuurdesemculturen in de Sourdough Library.}
+\end{figure}
+
+
+Elke koelkast is netjes versierd met een plaatje dat de origine, het soort bloem en de onderhoudsmethode beschrijft. Sommige desems zijn heel vloeibaar, maar de meesten zijn vaster. De luchtbellen en het verschil in kleur van de bloem zorgt voor een fraai schouwspel. Veel Italiaanse desems verklappen de samenwerking met een Italiaanse professor. De gouden kleur van harde durum tarwe is leuker om naar te kijken dan saaie gebleekte bloem. 
 
 ‘Betekent dit dat jullie elke dag deze desems moeten verversen?’ Karl schudt zijn hoofd. 
 

@@ -52,14 +52,22 @@ In één les wordt er natuurlijk meer dan één gebak gemaakt. Voordat we daar a
 
 Het eerste jaar is echt spannend: er zijn zoveel nieuwe dingen om te ontdekken. De oven is uniek en net zoals alle andere ovens, wispelturig. Je kan naast de temperatuur ook de vochtigheidsgraad instellen van de grote rijskast. In een hoekje jongleren we met hete pudding. Twee koelkasten vol aan eieren, melk en boter. Zes lockers aan ingrediënten zoals verschillende soorten en vormen suiker, noten, kruiden en smaakstoffen. Er zijn drie kneders om te verkennen: twee van Sinmag met verschillende koppelstukken en één snelkneder met spiraal waar makkelijk `5 kg` aan deeg in verdwijnt. De kneedmachines zijn wel veel minder indrukwekkend dan die van de bakkerijen die ik al bezocht voordat ik aan de opleiding begon, maar deze mochten we tenminste zelf hanteren! 
 
-\begin{wrapfigure}{r}{0.25\textwidth}
-\includegraphics[width=1.4\linewidth]{img/bw/sinmag.jpg}
-\caption[Een Sinmag snelkneder (SM 20L-S). \textcopyright \: Sinmag]{Een Sinmag snelkneder (SM 20L-S).}
-\end{wrapfigure}
-
 Dan heb ik het nog niet gehad over de magistrale uitroltafel die wordt gebruikt om `5 kg` bladerdeeg in een handomdraai te fabriceren. 
 
 De bergen afwas die er elke avond bij kwamen kijken wekte iets minder enthousiasme op. 
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}{0.4\textwidth}
+        \includegraphics[width=0.9\linewidth, height=4.5cm]{img/bw/sinmag.jpg} 
+        \caption[Een Sinmag snelkneder.]{Een snelkneder.}
+    \end{subfigure}
+    \begin{subfigure}{0.5\textwidth}
+        \includegraphics[width=0.9\linewidth]{img/bw/uitroltafel.jpg}
+        \caption[Een Sinmag uitroltafel.]{Een uitroltafel.}
+    \end{subfigure}
+    \caption[Machines in de bakkerij. \textcopyright \: Sinmag]{Machines in de bakkerij die ons werk verlichtten.}
+\end{figure}
 
 ‘We werken met een beurtrol elke les mensen: één iemand is _chef_ en is verantwoordelijk om te kijken of de rest zijn werk heeft gedaan. Per twee ben je van dienst aan de afwas, het proper maken van de machines of borstelen.’ legde Ghislain uit. Het rotatie systeem werkte zo goed dat iedereen na een paar weken genoeg verantwoordelijkheidsgevoel had om spontaan die taken op zich te nemen. Dat ik in een super sympathieke groep terecht kwam helpt daar ook veel bij. 
 
@@ -394,7 +402,12 @@ Op een opleidingsavond moet een product klaar zijn in drie uur of minder. Het is
 
 Ik begon meer en meer te denken dat de moderne bakker niet goed presteert onder tijdsdruk. Het verhaaltje van de verbeteraars lijkt hier ook goed op aan te sluiten. Hier en daar worden al eens _shortcuts_ genomen door (veel) meer gist toe te voegen, of door margarine te gebruiken in plaats van boter, om toch maar de rijskast te kunnen gebruiken. 
 
-![Zachte luxe deeg met krenten, na het opbollen (links) en na het bakken (rechts). Dit deeg verdriedubbeld in grootte.](img/bw/sandwiches.jpg)
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/sandwiches.jpg}
+    \caption[Zachte luxe deeg met krenten.]{Zachte luxe deeg met krenten, na het opbollen (links) en na het
+    bakken (rechts). Dit deeg verdriedubbeld in grootte.}
+\end{figure}
 
 Neem nu sandwiches. `7` tot `10%` verse gist is niet ongewoon in zo’n deeg. Dat is enorm veel, en dat merk je ook wanneer je met het deeg bezig bent: het rijst écht terwijl je er naar kijkt. Een sandwich is niet veel meer dan wat opgeblazen vet met een zeer hoge winstmarge. 
 
@@ -471,16 +484,16 @@ Het werd tijd voor de praktijk.
 
 Moest je toe willen geven aan die plotse zin om een sandwich zoals we ze leerden kennen in de avondles zelf te bakken, dan is hier een eigen versie van de formule met bijhorende werkwijze:
 
-| Hoeveelheid | Percentage | Beschrijving                         |
-|:-----------:|:----------:|:-------------------------------------|
-| `1000 gr`   | `100%`     | Tarwebloem met `11.5`% eiwitgehalte  |
-| `400 gr`    | `40%`      | Water                                |
-| `40 gr`     | `4%`       | Melkpoeder (`10%` van het water)     |
-| `100 gr`    | `10%`      | Eieren (twee kleine)                 |
-| `100 gr`    | `10%`      | Verse gist                           |
-| `40 gr`     | `4%`       | Fijne kristalsuiker                  |
-| `150 gr`    | `15%`      | Verbeteraar                          |
-| `14 gr`     | `1.4%`     | Zout                                 |           
+| Hoeveelheid | Percentage | Beschrijving                  |
+|:-----------:|:----------:|:------------------------------|
+| `1000 gr`   | `100%`     | Tarwebloem (`11.5`% eiwitp.)  |
+| `400 gr`    | `40%`      | Water                         |
+| `40 gr`     | `4%`       | Melkpoeder (`10%` v. h. water)|
+| `100 gr`    | `10%`      | Eieren (twee kleine)          |
+| `100 gr`    | `10%`      | Verse gist                    |
+| `40 gr`     | `4%`       | Fijne kristalsuiker           |
+| `150 gr`    | `15%`      | Verbeteraar                   |
+| `14 gr`     | `1.4%`     | Zout                          |           
 
 Table: Formule voor sandwiches, gebaseerd op het standaardrecept van de basisopleiding.
 

@@ -13,12 +13,7 @@ all:
 		--metadata-file=metadata.yml \
 		--highlight-style=haddock \
 		-t latex > boek.tex \
-		intro.pd.md kabouters.pd.md bokrijk.pd.md \
-		de-leerschool.pd.md alles-vergeten-dat-geleerd-is.pd.md \
-		de-echte-leerschool.pd.md boer.pd.md verdienen.pd.md \
-		intermezzo1.pd.md crashcursus-microbiologie.pd.md \
-		structuur.pd.md geur.pd.md recept.pd.md \
-		overschot.pd.md epiloog.pd.md
+		intro.pd.md 
 	xelatex boek.tex
 	#echo "UIT"
 

@@ -70,9 +70,9 @@ Rechts van de steenoven staat een grote kneedmachine.
 ‘God neen,’ schudt Peter, ‘het merendeel van het deeg wordt in de Tonnaer gekneed. Die spiraalkneder is voor taarten en ander vetter deeg. Deze Tonnaer is van 1957 en krijg je niet kapot. Het is nog aangedreven met een riem die redelijk simpel zelf te herstellen is.’ De machine ziet er voor het ongetrainde oog misschien niet zo indrukwekkend uit, maar wij werden er toch behoorlijk warm van. De grote kuip bevat één kneedhaak die een trage op- en neerwaartse beweging maakt. 
 
 \begin{figure}
-\centering
-\includegraphics{img/bw/peter1.jpg}
-\caption{Peter legt de werking van zijn Tonnaer kneedmachine uit.}
+    \centering
+    \includegraphics{img/bw/peter1.jpg}
+    \caption[Peter legt de werking van zijn kneedmachine uit.]{Peter legt de werking van zijn Tonnaer kneedmachine uit.}
 \end{figure}
 
 ‘Zo wordt het kneden met de hand het beste benaderd door een machine. Mijn deeg mag niet snel worden gekneed of het gaat stuk. Een volkoren- of roggedeeg houdt de snelheid van een spiraalkneder niet lang vol, daar zitten niet genoeg gluten in en ik gebruik geen heel sterke bloem’ legt Peter verder uit. Hij zet ter demonstratie de machines even aan, om ons het verschil in snelheid te laten zien. De enkele kneedhaak gaat gestaag op- en neer met een constante '_hum... hum... hum..._' die ik veel later, tijdens mijn stage, leer liefkozen. De snellere kneder stoot een krachtigere maar vervelende '_njng njng njng_' kreet uit. Nu is het mij ook meteen duidelijk waarom er een veiligheidsbarrière voor hangt: als je daar nog snel een restje deeg wilt uithalen terwijl de kneder aan staat, breek je onmiddellijk je hand...
@@ -110,7 +110,7 @@ Peter maalt ook zijn eigen bloem, die vers wordt verwerkt in zijn producten.
 \begin{figure}
 \centering
 \includegraphics{img/bw/peter2.jpg}
-\caption{De mobiele molen verorbert moeiteloos een zware zak speltgraan.}
+\caption[De mobiele bloemmolen van Peter Schoofs.]{De mobiele molen verorbert moeiteloos `25 kg` speltgraan.}
 \end{figure}
 
 ‘De wrijving van de stenen zorgen ervoor dat de granen worden geplet, maar ook dat alles wordt verhit. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt, maar de kamer wordt desalniettemin bekleed met een laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. 
@@ -231,7 +231,7 @@ De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbr
 
 | Hoeveelheid | Percentage | Beschrijving                 |
 |:-----------:|:----------:|:-----------------------------|
-| `200 gr`    | `20%`      | Tarwebloem, T110             | 
+| `200 gr`    | `20%`      | Tarwebloem, `T110`           | 
 | `600 gr`    | `60%`      | Tarwemeel, volkoren          |
 | `200 gr`    | `20%`      | Roggemeel, volkoren          |
 | `750 gr`    | `75%`      | Water                        |

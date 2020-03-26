@@ -22,16 +22,16 @@ Augustus 2010
 
 Wanneer je aan die bepaalde geluiden went, schakelt onze kabouter over naar versnelling twee: een onophoudelijk gebonk. Vanaf dan volgt een zalige periode van rust. Maar niet getreurd, de kabouter is namelijk zeker niet ontheven van zijn taak! Na een uurtje een dutje te hebben gedaan, herinnert hij zich waarschijnlijk dat hij brood aan het kneden was dat nu dringend de oven in moet. De kabouter steekt de open haard aan en jij hoort een zacht getik, afkomstig van het verwarmingselement in de machine. 
 
+\begin{wrapfigure}{r}{0.25\textwidth}
+\includegraphics[width=1.4\linewidth]{img/bw/panasonic.jpg}
+\caption[De Panasonic SD-255WXE. \textcopyright \: Panasonic]{De Panasonic SD-255WXE, dag en nacht tot uw dienst.}
+\end{wrapfigure}
+
 Na drie kwartier vult het huis zich met de zachte geur van vers gebakken brood en meldt de kabouter trots zijn werk met een '_piep, piep, piep_', gecombineerd met een flikkerend rood lampje. Na een druk op de start/stop knop neem je afscheid van hem met een laatste '_piep_'. 
 
 Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit zijn huisje te nemen en te laten afkoelen, om het enige tijd daarna smakelijk naar binnen te kunnen werken. Liefst met beleg natuurlijk, want op die korte tijd krijgt de kabouter er nauwelijks wat smaak in. 
 
 \index{Baker's Percentage}
-
-\begin{wrapfigure}{r}{0.25\textwidth}
-\includegraphics[width=1.4\linewidth]{img/bw/panasonic.jpg}
-\caption[De Panasonic SD-255WXE. \textcopyright \: Panasonic]{De Panasonic SD-255WXE, dag en nacht tot uw dienst.}
-\end{wrapfigure}
 
 Zo'n kabouter in huis halen brengt heel wat voordelen met zich mee. Afhankelijk van zijn expertise, kan je hem bijvoorbeeld vragen om ‘s morgens een vers brood klaar te hebben. Wat is er nu zaliger dan te worden gewekt door de geur van vers gebakken brood? Er zijn verschillende rassen van kabouters die grotere en kleinere broden kunnen bakken. 
 
@@ -61,7 +61,12 @@ De kneedhaak verwijderen is een kunst op zich. In het uitzonderlijk geval, als d
 
 * * *
 
-![Mislukt zuurdesembrood uit de broodbakmachine. Links: onvoldoende gebakken rogge. Rechts: nauwelijks gerezen tarwe.](img/bw/machinefout.JPG)
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/machinefout.JPG}
+    \caption[Mislukt zuurdesembrood.]{Mislukt zuurdesembrood uit de broodbakmachine. Links:
+    onvoldoende gebakken rogge. Rechts: nauwelijks gerezen tarwe.}
+\end{figure}
 
 Veelgemaakte fouten zijn het niet laten afkoelen van het brood, of vergeten goed isolerende handschoenen te gebruiken. Dat tweede leer je heel snel af. Maar aangezien ik nooit brood bak tijdens volle maan, lukt deze schud methode zelden zonder dat de haak aan het brood blijft plakken. In de plaats daarvan heb ik mijzelf gespecialiseerd in het gebruik van eetstokjes om met wat gepruts aan de onderkant van het brood de haak met chirurgische precisie te verwijderen. 
 
@@ -134,7 +139,7 @@ De korst van mijn pizza's toen was niet te vergelijken met wat Italiaanse _pizza
 Twee jaar later ging het echte broodbak werk pas van start: we kochten een huis, uitgerust met een heuse inbouwoven! 
 
 [^2]: Een persoon die een pizza maakt in pizzeria's. Pizza + -aiolo, gebruikt om de namen te vormen van degenen die een beroep of activiteit uitoefenen. Plus, het klinkt ongelofelijk hip. 
-[^ding]: Er is zelfs onderzoek uitgevoerd naar de halogeenlamp-magnetroncombinatie bij het bakken op kwaliteit van brood, en deze te vergelijken met andere bakmethoden [@keskin2004bread]. Het gebrek aan een rechtstreekse, conventionele warmtebron betekent immers dat je korst steevast moet inboeten aan volume en kleur. 
+[^ding]: Er is zelfs onderzoek uitgevoerd naar de halogeenlamp-magnetroncombinatie bij het bakken op kwaliteit van brood, inclusief vergelijkingen met andere bakmethoden [@keskin2004bread]. Het gebrek aan een rechtstreekse, conventionele warmtebron betekent immers dat je korst steevast moet inboeten aan volume en kleur. 
 
 ### De ontdekking van iets meer
 
@@ -146,9 +151,14 @@ Het mislukte focaccia experiment weerhield me er niet van op zoek te gaan naar m
 
 Tijdens mijn zoektocht naar informatie kwam ik een blog tegen waar een bijzonder ingewikkelde werkwijze uit de doeken werd gedaan om een '_zuurdesem starter_' aan te maken [^3]. Die starter werd gradueel opgekweekt door op regelmatige tijdstippen een beetje water en een beetje meel toe te voegen. Na enkele weken zou de aanwezigheid van luchtbelletjes een teken moeten zijn van witte rook. Ik had geen flauw idee wat ik aan het doen was, maar het werkte wel. Op dat moment reikte mijn kennis maar net zover dat ik juist in staat was alle instructies letterlijk op te volgen, en blijkbaar met succes. Ik was wat ze in het Dreyfus model een '_novice_' noemen, iemand zonder eigen oordeelvermogen die nog nood heeft aan strikte regels [@dreyfus1980five]. 
 
-Op diezelfde blog werd er ook een wekelijkse uitdaging aangegaan om elke week één recept van een bepaald bakboek uit te proberen en de resultaten te delen. De foto’s van de broden zagen er zo goed uit dat ik onmiddellijk het betreffende boek bestelde: _Bread_ van Jeffrey Hamelman [@hamelman2004bread]. Aanschouw mijn nieuwe bijbel. 
+\begin{figure}
+    \mbox{} \par
+    \noindent\centerimg[width=\paperwidth]{img/bw/ietsmeer.JPG}
+    \caption[Mijn eerste succes met zuurdesem.]{Mijn eerste succes met zuurdesem, naar een recept van Hamelman's Vermont Sourdough.}
+\end{figure}
 
-![Mijn eerste succes met zuurdesem, naar een recept van Hamelman's Vermont Sourdough.](img/bw/ietsmeer.JPG)
+
+Op diezelfde blog werd er ook een wekelijkse uitdaging aangegaan om elke week één recept van een bepaald bakboek uit te proberen en de resultaten te delen. De foto’s van de broden zagen er zo goed uit dat ik onmiddellijk het betreffende boek bestelde: _Bread_ van Jeffrey Hamelman [@hamelman2004bread]. Aanschouw mijn nieuwe bijbel. 
  
 Als devoot enthousiasteling leek het beginnen van een blog me ook een goed idee. Zo kon ik mijn eigen vooruitgang controleren en delen met anderen. Dat was de geboorte van [redzuurdesem.be](https://redzuurdesem.be). Door mee te doen aan die wekelijkse uitdagingen kwam ik snel in contact met andere blogs die mijn enthousiasme over brood bakken deelden. Zo leerde ik ook dé referentie website voor amateur broodbakkers kennen: _The Fresh Loaf_[^4]. 
 

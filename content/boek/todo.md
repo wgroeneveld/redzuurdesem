@@ -4,20 +4,16 @@
 [X] Spatiëring voorzien met * * *
 [X] Nalezen voor de laatste keer... 
 [X] Paginanummers links-rechts uitlijnen, font verkleinen en verdikken
-[ ] Wat met fotos, beslissen kleur/zwart-wit? Waar toevoegen? (ode ad brief)
-[ ] Tabellen en figuren opnieuw nakijken op margin snijpunten
+[X] Wat met fotos, beslissen kleur/zwart-wit? Waar toevoegen? (ode ad brief)
+[X] Tabellen en figuren opnieuw nakijken op margin snijpunten
 [X] Verantwoording bij figuren
 [ ] Appendix aanvullen
 [ ] "Figuur ..." weg bij captions?
 [ ] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
 [ ] Voorblad fatsoeneren; ISBN/uitgever/... 
+[ ] Kaft voor- en achterkant designen
 
 ## 2019
-
-Mogelijk images?
-
-* Bakkerij Schoofs bij beschrijving machines?
-* grafiek puratos xas yas lab+/-?
 
 [X] => Done, [/] => Initiated, [ ] => TODO, [Z] => Ga ik niet doen
 
@@ -78,18 +74,18 @@ III DE METHODE
 
 MEDIUM PRIO
 
-[ ] Ode aan Willy stevig granenbrood recept verificatie: granen + desem weken?
+[X] Ode aan Willy stevig granenbrood recept verificatie: granen + desem weken?
 [/] Laten nalezen + feedback verwerken (algemeen) door Ghislain, Ivan, e.a.
 [/] Laten nalezen microbiologie hoofdstuk door Kristel
 [X] Sourdough Biotechnology aanduidingen verwerken
 [X] Quote bij verdienen toevoegen
 [X] Nadenken over subtitels datums, wijzigen?
-[/] Goedkeuring schilderij, Worcester Art Museum => herinnering gestuurd
+[Z] Goedkeuring schilderij, Worcester Art Museum => herinnering gestuurd
 [ ] Formule tabellen consequent doen (doeltemp, totale tijd, ... - layouting?)
 
 LOW PRIO
 
-[ ] Alle boeken titels in zelfde '' of italics
+[X] Alle boeken titels in zelfde '' of italics
 [X] graden in °C zonder spatie?
 [ ] Voorwoord (pas na inzending)
 [ ] Dankwoord (pas na inzending)

@@ -27,7 +27,14 @@ Wees bereid om een slechte oogst onherroepelijk weg te kappen: het gaat dan om h
 
 '_Time is money_' - het klinkt als een zielloze one-liner zonder context. En dat is het ook. 
 
-In de champagne wereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om genoeg flessen per jaar te produceren om goed van te kunnen leven (onze gids schatte rond de `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). 
+In de champagnewereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om genoeg flessen per jaar te produceren om goed van te kunnen leven (onze gids schatte rond de `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). 
+
+\begin{figure}
+    \mbox{} \par
+    \noindent\centerimg[width=\paperwidth]{img/bw/overtijdsbesef.jpg}
+    \caption[Wijnstokken in Venteuil.]{Een eindeloze hoeveelheid wijnstokken. Bienvenue dans Le canton de Dormans-Paysages de Champagne.}
+\end{figure}
+
 
 De druivenpers is een gedrocht dat in de grote garage staat bij Autréau, waarna het sap naar de kelder wordt gepompt om in inoxen vaten gedurende 15 maanden te worden omgevormd naar witte wijn. In tientallen vaten zijn verschillende soorten druiven van verschillende jaren opgeslagen. 
 

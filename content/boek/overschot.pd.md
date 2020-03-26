@@ -198,6 +198,12 @@ Ik weet alleen niet of ik nog eens `£20` verzendkosten zou willen betalen om mi
 
 De intieme relatie tussen brood en bier is al gedeeltelijk besproken in hoofdstuk \ref{boer}. Er is echter één soort gefermenteerde drank die voornamelijk bestaat uit oud brood en dat is _kvass_, een oeroude biersoort die zoals kefir en kombucha maar `0.5` tot `1%` alcohol bevat. Ik kwam dit voor het eerste tegen in '_The Art of Fermentation_' [@katz]. De koolhydraten in oud brood worden gedurende een nacht losgeweekt om verder te fermenteren met behulp van een beetje zuurdesem. Het geweekte, uitgewrongen brood is erg geliefd bij onze kippen. Deze drank is afkomstig van Oost Europa en bevat daarom voornamelijk donker roggebrood. De meeste recepten die ik vond bevatten extra suiker om de gisten onmiddellijk een grote boost te geven, maar ik denk niet dat dit echt nodig is. Hoe meer suiker (en gist), hoe heviger de fermentatie en hoe hoger het alcohol percentage. Ik heb toch suiker toegevoegd om het niet overdreven zuur en langer houdbaar te maken. 
 
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/kvass.jpg}
+    \caption[Kvass gebrouwen met donker roggebrood.]{Kvass gebrouwen met donker roggebrood. Een licht bruisende drank met een friszure toets.}
+\end{figure}
+
 Het brood op voorhand roosteren is sterk aangeraden. In dit geval hebben we wel zoveel mogelijk 'korst' nodig dat de donkere, intense smaak afgeeft aan het water. Sommige brouwers laten het geweekte brood mee fermenteren en zeven pas op het allerlaatste, terwijl anderen dit zoals ik zeven na een nacht weken in kokend water. Populaire additieven zijn munt, citroensap en (gedroogde) vruchten. Met commerciële gist zou kvass gemakkelijk meer dan `5%` alcohol kunnen produceren. 
 
 Mijn ervaring met kvass maken leerde me die smaakmakers een nacht mee te laten weken met het heet water, anders loop je de kans om een slappe infusie te brouwen. Overschotjes gember toevoegen is ook erg lekker. 

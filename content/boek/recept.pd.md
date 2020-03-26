@@ -60,7 +60,12 @@ Het deeg laten rusten tussen vormgeving stappen 6 en 8 dient enkel om de gluten 
 
 \index{Baker's Percentage}
 
-* * *
+\begin{figure}
+    \mbox{} \par
+    \noindent\centerimg[width=\paperwidth]{img/bw/deeg.jpg}
+    \caption[Gerezen brooddeeg op een linnen doek.]{Stilte! Hier slaapt - euh, rijst - brood.}
+\end{figure}
+
 
 Het is een mythe dat bakken exacte hoeveelheden vereist, ook al is patisserie hier uiteraard gevoeliger voor dan brood. Ik ken bakkers, zoals Johan, die volledig op hun gevoel werken en niet eens weten hoeveel water ze nu exact hebben gebruikt. Daar schrok ik behoorlijk van: hoe kan je dat als verantwoordelijke bakker nu niet weten? Het _baker's percentage_ was voor mij toen heilig: `65%` water is `65%` water en niet `66%`. 
 
@@ -126,6 +131,12 @@ De eerste rijs duurt minstens vier uur, liefst iets meer. Vanwege andere sporadi
 De `2.2%` aan zout klinkt misschien veel, en ik negeer even de ondoordachte Belgische wetgeving, maar dit is vereist wanneer het deeg een lange tijd in de koeling rijst. Minder zout betekent te veel activiteit en een kans op instorten bij het bakken. Als zout inname een probleem is, verkort dan de tweede rijstijd. 
 
 Mijn koelkast is ingesteld op `7°C` in plaats van het conventionele `2°C`. Dat verschil gaat zeker ook een impact hebben op de maximum rijstijd die het deeg aankan. Erg lange rijstijden van meer dan een dag zijn alleen maar mogelijk met meer dan `2.3%` zout. 
+
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/succes.jpg}
+    \caption[Een tarwe boerenbrood.]{Het Vrijheidssymbool van de zuurdesembakker: een tarwe boerenbrood, gebakken volgens deze formule en methode.}
+\end{figure}
 
 Laat je niet afschrikken door de grote hoeveelheid water aanwezig in deze formule. Goede (lokale) bloem van Type `65` neemt veel meer water op dan patentbloem. De aanwezigheid van redelijk wat volkoren roggemeel in combinatie met de autolyse stap helpt hier ook in. 
 
@@ -199,6 +210,13 @@ Als je het gevoel hebt dat het deeg te slap is, kan je het deeg meerdere keren t
 \index{Pentose}
 
 Bij een vrouwendeeg als rogge is minder flexibiliteit mogelijk. Hiermee durf ik niet te beweren dat vrouwen minder tolereren dan mannen, maar dat de onstabiliteit van de pentosen en het gebrek aan elasticiteit minder toelaat. 
+
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/roggedeeg.jpg}
+    \caption[Gefermenteerd roggedeeg.]{Gefermenteerd roggedeeg: plakkerig en weerbarstig.}
+\end{figure}
+
 
 Bij tarwe bepaalt de eerste rijs voor het merendeel de smaak, terwijl dit bij rogge eerder het voordeeg is. Volle granen bevatten meer fytinezuur dan bloem, waarvan de hoeveelheid hoger is bij rogge dan bij tarwe [@garcía1999phytic]. 
 

@@ -45,6 +45,13 @@ Op dat moment is het een kwestie van je beste Frans boven te halen om iets te ku
 
 Er is een groot verschil in gastvrijheid van bakkerij tot bakkerij wanneer je vraagt naar hun broodbakproces. De meerderheid reageert, ondanks mijn enthousiasme en leergierigheid, heel defensief. Ik neem aan dat ze schrik hebben dat ik met een of ander topgeheim zou gaan lopen naar de grote concurrent. In plaats van pogingen tot bedrijfsspionage door te voeren, ben ik slechts geïnteresseerd in het leren van anderen die duidelijk meer weten dan mij. Kennis is er kom gedeeld te worden. Spijtig genoeg denkt niet iedereen hier zo over. 
 
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/farinoman.jpg}
+    \caption{Achter de toonbank bij Le Farinoman Fou in Aix.}
+\end{figure}
+
+
 Ga altijd na op welke dagen er markt is in de dorpen of steden die je bezoekt. Een markt heeft verschillende charmes, waarvan minstens één de aanwezigheid van (soms verrassend goed) brood. 
 
 Een markt maakt het je wel moeilijker om bovenstaande vuistregels te kunnen toepassen. Aanschuiven is gemakkelijk te verifiëren, maar variatie minder: het zou immers kunnen dat er slechts een beperkte voorraad op de markt wordt aangeboden. In De Superette bakten we tijdens marktdagen een aantal extra producten. Dat is juist genoeg variatie om mensen warm te maken naar de bakkerij zelf te komen. 
@@ -83,6 +90,13 @@ De reactie is afhankelijk van hitte: onder de `140°C` gebeurt er niet veel. Daa
 [^ei]: Eiwitten bestaan uit lange stranden van aminozuren. De gluten in tarwebrood dragen bij tot de Maillard reactie. Dit betekent niet dat glutenvrij brood gespaard blijft van een bruine korst: kikkererwtenmeel bijvoorbeeld bevat twee keer zoveel eiwitten per honderd gram als tarwe.
 
 Voedsel kan op twee manieren bruin worden. Enerzijds zonder activiteit van enzymen, in combinatie met hitte. Anderzijds door blootstelling aan zuurstof (oxidatie). Het bruin worden van een banaan of de transformatie van druif naar rozijn zijn hier mooie voorbeelden van. Met een 'rotte banaan' wordt eigenlijk een _enzymatisch bruingekleurde_ banaan bedoeld, of simpelweg een geoxideerde banaan. 
+
+\begin{figure}
+    \mbox{} \par
+    \noindent\centerimg[width=\paperwidth]{img/bw/korst.jpg}
+    \caption[De opengebloeide korst van een tarwebrood.]{De prachtig opengebloeide korst van een tarwebrood.}
+\end{figure}
+
 
 Oxidatie zorgt ook voor de ontwikkeling van smaak, zoals in koffie- en cacaobonen en in thee. Dit proces is niet altijd welkom in de keuken. Zeker niet in de oogstmaanden, wanneer er een overvloed van opbrengsten beschikbaar is. De enzymen die verantwoordelijk zijn voor dit bruinen kunnen worden bestreden door de zuurtegraad te verlagen door middel van bijvoorbeeld citroensap. Blancheren of bewaren op een lage temperatuur helpt ook. Theeblaadjes stomen stopt het oxidatieproces: dat is het verschil tussen groene en zwarte thee. 
 

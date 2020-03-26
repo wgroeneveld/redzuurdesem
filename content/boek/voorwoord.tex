@@ -5,6 +5,33 @@
 \frontmatter
 \pagestyle{empty}
 
+% first colofon page: only title
+\begingroup
+\drop = 0.1\txtheight
+\vspace*{\baselineskip}
+\vfill
+  \hbox{%
+  \hspace*{0.2\txtwidth}%
+  \hspace*{0.05\txtwidth}%
+  \parbox[b]{0.75\txtwidth}{
+    \vbox{%
+      \vspace{\drop}
+      {\noindent\HUGE\bfseries Red\\[0.5\baselineskip] Zuurdesem}\\[2\baselineskip]
+    }
+  }
+}
+\vfill
+\null
+\endgroup
+\clearpage
+
+% second colofon page: blank
+\begingroup
+  \hbox{}
+\endgroup
+\clearpage
+
+% third colofon page: title - author - ed
 % sourced from titlepages.tex
 % DO NOT add title in metadata, or \titlepage will be added in the destination tex file
 \begingroup% Gentle Madness
@@ -15,19 +42,17 @@
   \hspace*{0.2\txtwidth}%
   \rule{1pt}{\txtheight}
   \hspace*{0.05\txtwidth}%
-%\fbox{%
-\parbox[b]{0.75\txtwidth}{
-  \vbox{%
-    \vspace{\drop}
-    {\noindent\HUGE\bfseries Red\\[0.5\baselineskip] Zuurdesem}\\[2\baselineskip]
-    {\Large\itshape Een persoonlijke zoektocht naar de smaak en wetenschap van brood}\\[4\baselineskip]
-    {\Large WOUTER GROENEVELD}\par
-    \vspace{0.5\txtheight}
-    {\noindent Uitgeverij}\\[\baselineskip]
-    }% end of vbox
-}% end of parbox
-%}% end of fbox
-  }% end of hbox
+  \parbox[b]{0.75\txtwidth}{
+    \vbox{%
+      \vspace{\drop}
+      {\noindent\HUGE\bfseries Red\\[0.5\baselineskip] Zuurdesem}\\[2\baselineskip]
+      {\Large\itshape Een persoonlijke zoektocht naar de smaak en wetenschap van brood}\\[4\baselineskip]
+      {\Large WOUTER GROENEVELD}\par
+      \vspace{0.3\txtheight}
+      {\noindent Uitgeverij}\\[\baselineskip]
+    }
+  }
+}
 \vfill
 \null
 \endgroup

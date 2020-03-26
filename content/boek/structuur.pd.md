@@ -31,6 +31,13 @@ Brooddeeg heeft buiten de belangrijke gistingtijden namelijk ook nog een vorm no
 Deze veranderingen worden in de oven op gang gezet door expansie van volume, verdampen van water, vorming van een poreuze structuur die wij 'kruim' noemen, verandering van eiwitstructuur, gelatinisatie van
 zetmeel, korstvorming en bruiningsreacties [@miguel2013enzymes]. Iedereen koopt graag brood dat er goed uit ziet. Wat is het verschil tussen een sterrenrestaurant en een gewone zaak? Het éérste verschil, wat onmiddellijk opvalt, is de presentatie. Voordat je ook maar iets naar binnen kan werken hebben je ogen al gegeten. 
 
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/boterham.jpg}
+    \caption[Een foto van het kruim van wit tarwebrood.]{Wie krijgt er geen honger van het kijken naar deze foto?}
+\end{figure}
+
+
 Presenteren is voor een bakker minstens even belangrijk als voor een chef. Top patissiers zijn erg goed in het variëren van smaak en vorm. Patisserie wordt om een of andere reden kritischer beoordeeld met het oog dan brood. Ik neem aan dat brood meer wordt aanschouwd als een noodzakelijk kwaad. 'Ik moet nu eenmaal iets eten.' Wanneer je een brood koopt, en er is geld over voor een éclair, dan 'verwen je jezelf'. Als je enkel dat brood koopt, dan 'moet een mens nu eenmaal eten'. Waarom zou je jezelf niet kunnen verwennen met brood? 
 
 In de praktijk heeft dat natuurlijk te maken met de ingrediënten en de vorm. Met suiker worden enorme pronkstukken gemaakt, maar dat wil ik niet op (of in) mijn brood hebben. De eindeloze combinaties die worden verkocht bij '_L’Éclair de Génie_' in het vierde arrondissement van Parijs zijn mogelijk doordat men kan spelen met onder andere de toplaag (ganache, aardbeien, munt, citroen, ...), de pudding (vanille, pistache, caramel, amandel, ...) en de vorm. En toch is _less_ vaak ook _more_, zoals de miches van Poilâne. 
@@ -329,7 +336,12 @@ Om dat 'heel veel' te kwantificeren, citeer ik uit een rapport van Ângelo Samir
 
 Ik was met stomheid geslagen toen ik het verslag voor de eerste keer las. Er valt niet alleen de rode kleur van korst te winnen bij het gebruik van enzymen. Ook de kleur groen manifesteert zich in de vorm van katoenen briefjes. Figuur \ref{enzymenvraag} toont de enzymen markt specifiek voor gebakken producten zoals brood.
 
-![Een illustratie van de enzymen markt voor gebakken producten, afgebeeld op jaren 2000 tot 2020\label{enzymenvraag}](img/enzymenvraag.png){ width=80% }
+\begin{figure}
+    \centering
+    \includegraphics[width=0.8\textwidth,height=\textheight]{img/enzymenvraag.png}
+    \caption[Een grafiek van de enzymenmarkt.]{Een illustratie van de enzymenmarkt voor gebakken producten,
+    afgebeeld op jaren 2000 tot 2020\label{enzymenvraag}}
+\end{figure}
 
 De gegevens komen van het Amerikaanse 'Freedonia Group', gespecialiseerd in marktonderzoek, maar ik zie geen reden om aan te nemen waarom de vraag in Europa minder drastisch zou stijgen. De balken geven de vraag naar bakkerij producten aan. De lijn in de grafiek toont de relatieve stijging in Amerikaanse populatie in diezelfde jaren[^stijging]. 
 
@@ -389,13 +401,13 @@ Het voordeeg heeft 12 uur gefermenteerd met een initiële temperatuur van `25°C
 
 De enige temperatuur die ik kan beïnvloeden is de temperatuur van het water. Om te berekenen hoe warm dit precies moet zijn kan je de '_Desired Dough Temperature_' techniek toepassen. Meet de temperatuur van alle aanwezige factoren (ingrediënten, kamertemperatuur), trek die af van de gewenste temperatuur maal het aantal factoren, en wat overblijft is de doeltemperatuur van het water:
 
-| Factor       | Temperatuur in Fahrenheit | Temperatuur in Celsius |
-|:-------------|:---------------------------:|:------------------------:|
-| Kamer        | `69.5 °F`                   | `20.8°C`              |
-| Bloem        | `65.3 °F`                   | `18.5°C`              |
-| Voordeeg     | `66.8 °F`                   | `19.3°C`              |
-| Wrijving     | `20.0 °F`                   | /                      |    
-| Water        | ?                           | ?                      |
+| Factor       | Temp. in Fahrenheit | Temp. in Celsius |
+|:-------------|:-------------------:|:-----------------:|
+| Kamer        | `69.5 °F`           | `20.8°C`          |
+| Bloem        | `65.3 °F`           | `18.5°C`          |
+| Voordeeg     | `66.8 °F`           | `19.3°C`          |
+| Wrijving     | `20.0 °F`           | /                 |    
+| Water        | ?                   | ?                 |
 
 Table: Waargenomen factoren die de temperatuur van brooddeeg beïnvloeden. \label{temptable}
 

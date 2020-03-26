@@ -47,6 +47,12 @@ Het opkweken van de juiste organismen duurt een paar weken. De eerste belletjes 
 
 \index{Saccharomyces!cerevisiae}
 
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/ferments.jpg}
+    \caption[Verschillende soorten fermenten.]{Verschillende soorten fermenten. Van links naar rechts: gember, bonen, citroenpulp, zuurdesem, shio koji, miso, zuurkool.}
+\end{figure}
+
 Deze combinatie van gisten en bacteriën vormen na verloop van tijd een stabiele symbiose. Je kan het een beetje vergelijken met kombucha zwammen. Dit noemt men een _SCOBY_, een '_Symbiotic Culture of Bacteria and Yeast_'. Er zijn honderden verschillende soorten van beide organismes aanwezig. Commerciële gist bevat maar één giststam van een bepaalde gistsoort _Saccharomyces cerevisiae_, ook wel bakkersgist genoemd. Een zuurdesemcultuur bevat veel meer variatie. Het aantal cellen van eenzelfde stam is echter minder groot dan in bakkersgist, waar miljarden[^milj] cellen maar één doel hebben: zoveel mogelijk suikers omzetten in CO~2~. 
 
 Zowel gist als bacterie teert op energie in de vorm van suiker. Dat betekent een beetje gezonde competitie. Bacteriën zijn enkel aanwezig in zuurdesem, en niet in bakkersgist. Deze bacteriën zijn de voornaamste veroorzakers van _smaak_. Aha, nu geraken we ergens!
@@ -77,7 +83,12 @@ Verschillende soorten gisten en bacteriën verkiezen elk hun eigen ideale omgevi
 
 Figuur \ref{activityvstemp}[^figactivitysrc] visualiseert de activiteit in functie van de temperatuur voor een gistsoort als stippellijn, en voor een melkzuurbacteriesoort als volle lijn. Activiteit piekt voor commerciële bakkersgist (_Saccharomyces cerevisiae_) rond de `28°C`, daarom gebruiken bakkers rijskasten ingesteld op zo'n hoge temperatuur. Voor veel melkzuurbacteriën ligt dat optimaal punt hoger, rond de `34°C`. Dominante soorten organismen verschillen drastisch voor elke vijf graden verschil.
 
-![De activiteit in functie van temperatuur voor gist (stippellijn) en melkzuurbacterie (volle lijn)\label{activityvstemp}](img/activity_vs_temp.png){ width=80% }
+\begin{figure}
+    \centering
+    \includegraphics[width=0.8\textwidth,height=\textheight]{img/activity_vs_temp.png}
+    \caption[Een grafiek van de activiteit van organismen in functie van temperatuur.]{De activiteit in functie van temperatuur voor gist
+    (stippellijn) en melkzuurbacterie (volle lijn)\label{activityvstemp}}
+\end{figure}
 
 De verhoogde activiteit kan maar enkele uren op hoge temperaturen worden volgehouden, totdat het deeg onherroepelijk instort. Wil je de diepgang van zuurdesem zonder het zure, gebruik dan een jonge, natte cultuur op hogere temperatuur. Heb je graag de uitgesproken scherpte, wissel dan af met langere rijstijden in de koeling. Een zure omgeving is niet alleen goed om pathogenen te weren, maar ook om sommige gewilde melkzuurbacteriën aan te trekken, zoals _Lactobacillus sanfranciscensis_ [@de2005sourdough]. Gisten zijn minder gevoelig voor pH schommelingen.
 
@@ -88,9 +99,9 @@ De verhoogde activiteit kan maar enkele uren op hoge temperaturen worden volgeho
 
 Buiten de temperatuur is tijd de tweede belangrijkste factor die de diversiteit van micro-organismen beïnvloedt. Daar hebben we een tweede grafiek voor nodig, zoals Figuur \ref{groeicurve}, die de bacteriële groeicurve voorstelt. Bacteriën ondergaan verschillende levenscycli die de groei stimuleren of afremmen. De belangrijkste fase waar wij in geïnteresseerd zijn is de exponentiële groeifase: hoe meer leven in de brouwerij, hoe meer smaak! 
 
-Tussen de opkweek- en afbraakperiodes ligt een grote stilstaande fase waarin de cultuur min of meer stabiel blijft, tussen 12 en 20 uur na de eerste groeischeut. Fermenteer je langer dan die periode, dan gaat alles gradueel bergaf. De koelkast gebruiken om de temperatuur uit figuur \ref{activityvstemp} te beïnvloeden kan dus maar voor een beperkte periode. En dan hebben we vochtigheid en zuurtegraad nog niet besproken. 
+Tussen de opkweek- en afbraakperiodes ligt een grote stilstaande fase waarin de cultuur min of meer stabiel blijft, tussen 12 en 20 uur na de eerste groeischeut. Fermenteer je langer dan die periode, dan gaat alles gradueel bergaf. De koelkast gebruiken om de temperatuur uit Figuur \ref{activityvstemp} te beïnvloeden kan dus maar voor een beperkte periode. En dan hebben we vochtigheid en zuurtegraad nog niet besproken. 
 
-![Bacteriële groeicurve.\label{groeicurve}](img/bacterial_growth_curve.png){ width=80% }
+![De bacteriële groeicurve.\label{groeicurve}](img/bacterial_growth_curve.png){ width=80% }
 
 Als je werkt met een `1:1` ratio van bloem en water, is het eenvoudig om de activiteit van je cultuur te controleren. Gebruik hiervoor een doorzichtige container. Na het voeden met bloem trek je met een alcoholstift een streep tot op welke hoogte de desem komt. Deze stappen kan je volgen in Figuur \ref{groeicurve}. 
 
@@ -264,6 +275,13 @@ Het gebruik van een voordeeg betekent niet automatisch werken met zuurdesem. Een
 
 Toen ik iets las over _yeast water_ ('gistwater') op _The Fresh Loaf_, wist ik de zoveelste container te vullen met iets dat rot: water en appels. Na een aantal dagen pulp uit het glas te vissen om te vervangen met verse stukjes appel begon het volop luchtbellen te kweken. Het was me gelukt om de gisten op de schil van het fruit over te brengen in het water. Vanaf dan is het een kwestie van een voordeeg te maken met datzelfde gistwater. 
 
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/appelgist.jpg}
+    \caption{Wilde gisten gevangen met appels.}
+\end{figure}
+
+
 Dit vangen van deze 'wilde' gisten[^wild] is een echt werkje: in tegenstelling tot simpelweg wat bloem en water mengen, moet je hier regelmatig volledig opnieuw beginnen. De dragers van de gisten (in dit geval appels) moeten immers worden vervangen, en de constante af- en aanvoer van het vocht verdunt de cultuur. Je kan dus niet tientallen keren met dezelfde appelgist blijven bakken. 
 
 Het verbaast je daarom misschien niets dat dit disciplinair proces iets is waar Japanners graag mee werken. Bakker Taro Hashiguchi gebruikt enkel gisten die hij in zijn eigen tuin kan 'oogsten' op fruit, kruiden en bloemen. Als gevolg daarvan is zijn bakkerij _Taro-ya_[^taroya] te Tokyo maar twee dagen per week open... De smaak van mijn eigen poging was minder indrukwekkend. Ik miste de complexiteit van de zuren in een typische granencultuur. Weer een experiment voor de composthoop. 
@@ -274,6 +292,13 @@ Het verbaast je daarom misschien niets dat dit disciplinair proces iets is waar 
 \index{Pseudogranen}
 
 Elke zuurdesemcultuur is uniek. Ik boekte veel succes met een ongebruikelijke cultuur op basis van kikkererwtenmeel, die ik heb leren kennen via Andrew Whitley's '_Bread Matters_' werk [@breadmatters]. Pseudogranen[^pseudo] laten fermenteren is een goed alternatief voor mensen met glutenintolerantie. In mijn geval gebruikte ik de kikkererwten als extra smaakmaker in combinatie met gewone tarwe. Toen er meer dan vier ‘vieze’ potjes in de koelkast stonden te pruttelen heb ik van mezelf enkele hartverscheurende keuzes moeten maken. 
+
+\begin{figure}
+    \centering
+    \includegraphics{img/bw/broebel.jpg}
+    \caption[Een rogge zuurdesemcultuur.]{Een actieve zuurdesemcultuur opgekweekt met rogge.}
+\end{figure}
+
 
 Tegenwoordig onderhoud ik slechts één cultuur op basis van tarwe. Mijn vertrouwde rogge cultuur heeft moeten wijken voor tarwe omdat ik in tegenstelling tot professionele bakkers niet dagelijks bak, en de rogge variant daardoor te veel azijnzuur produceerde. Als ik een andere cultuur nodig heb, kweek ik die op basis van mijn tarwe starter. 
 
@@ -315,7 +340,7 @@ Heb je je leger een tijdje verwaarloost, dan is dat nog geen ramp. Twee keer ter
 
 Die kracht is eenvoudig meetbaar door te kijken hoe hoog de desem rijst. Gebruik een doorzichtige container, een alcohol stift en een stukje plakband of een elastiekje om de initiële positie aan te duiden. Om het uur een oog werpen op dat niveau leert je veel over de kracht van de aanwezige gisten. 
 
-Ingenieurs zoals Justin Lam vinden dat meten moet worden overgelaten aan moderne technologie, zoals een Raspberry Pi. Justin liet het volgen van de groei van zijn cultuur over aan geautomatiseerde beeldanalyse[^justin]. Wat toveren met de programmeertaal Python levert een gepersonaliseerde groeicurve op, zoals in figuur \ref{groeicurve}. Na ongeveer 40 uur kijken naar het rijzen van zuurdesemculturen, leerde hij dat een verwaarloosde starter terug gelukkig kan worden gemaakt door regelmatig bij te voeden. 
+Ingenieurs zoals Justin Lam vinden dat meten moet worden overgelaten aan moderne technologie, zoals een Raspberry Pi. Justin liet het volgen van de groei van zijn cultuur over aan geautomatiseerde beeldanalyse[^justin]. Wat toveren met de programmeertaal Python levert een gepersonaliseerde groeicurve op, zoals in Figuur \ref{groeicurve}. Na ongeveer 40 uur kijken naar het rijzen van zuurdesemculturen, leerde hij dat een verwaarloosde starter terug gelukkig kan worden gemaakt door regelmatig bij te voeden. 
 
 [^justin]: [http://www.justinmklam.com/posts/2018/06/sourdough-starter-monitor/](http://www.justinmklam.com/posts/2018/06/sourdough-starter-monitor/)
 
