@@ -8,10 +8,13 @@
 [X] Tabellen en figuren opnieuw nakijken op margin snijpunten
 [X] Verantwoording bij figuren
 [ ] Appendix aanvullen
-[ ] "Figuur ..." weg bij captions?
-[ ] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
+[X] "Figuur ..." weg bij captions?
+[X] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
+[ ] Grafieken test-printen, zijn die te klein?
 [ ] Voorblad fatsoeneren; ISBN/uitgever/... 
-[ ] Kaft voor- en achterkant designen
+[ ] Omslagontwerp
+[ ] Voorwoord Dimitri
+[ ] Dankwoord
 
 ## 2019
 

@@ -104,8 +104,20 @@
 
 % figure caption styles - http://www.peteryu.ca/tutorials/publishing/latex_captions
 \usepackage[skip=4pt,font=small]{caption}
-\captionsetup[figure]{labelformat=simple, labelsep=colon, labelfont=bf, textfont={it}}
+\captionsetup[figure]{labelformat=empty, labelsep=colon, labelfont=bf, textfont={it}}
+\captionsetup[table]{labelformat=empty, labelsep=colon, labelfont=bf, textfont={it}}
 \renewcommand{\thefigure}{\thechapter.\Alph{figure}} % set caption label style to 1.A
+\renewcommand{\thetable}{\thechapter.\Alph{figure}} % set caption label style to 1.A
+
+% remove figure & table numbers from list of figures
+\makeatletter
+\renewcommand{\cftfigurepresnum}{\begin{lrbox}{\@tempboxa}}
+\renewcommand{\cftfigureaftersnum}{\end{lrbox}}
+\renewcommand{\cfttablepresnum}{\begin{lrbox}{\@tempboxa}}
+\renewcommand{\cfttableaftersnum}{\end{lrbox}}
+\makeatother
+\setlength{\cftfigurenumwidth}{0pt}
+\setlength{\cfttablenumwidth}{0pt}
 
 
 % ==================

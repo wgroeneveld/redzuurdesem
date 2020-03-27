@@ -291,7 +291,7 @@ De korte maar intense baktijd geeft de knisperige korst zijn kenmerkende structu
 
 Wat is het verschil tussen pizzadeeg en brooddeeg? Dat is een strikvraag. Er is helemaal geen verschil, de principes zijn identiek. Zeg dit nooit tegen een Italiaan, want die zal bij hoog en bij laag beweren dat het hem om de speciale zachte _Tipo `00`_ bloem te doen is, of om dat geutje (uiteraard Italiaanse) toegevoegde olijfolie. Dat zijn slechts details die formule per formule verschillen. Het allerbelangrijkste principe, de controle van fermentatie, is een gemeenschappelijk doel voor brood en pizza. Elke op tarwe gebaseerde formule zal een smakelijk gerecht produceren, of het nu wordt gebakken als brood of wordt platgeslagen en belegd als pizza. 
 
-De volgende formule is samen met het Altamura deeg uit hoofdstuk \ref{altamurabrood} een van de favorieten van ons gezin.
+De volgende formule is samen met het Altamura brood uit hoofdstuk \ref{altamurabrood} een van de favorieten van ons gezin.
 
 | Hoeveelheid | Percentage | Beschrijving         |
 |:-----------:|:----------:|:---------------------|

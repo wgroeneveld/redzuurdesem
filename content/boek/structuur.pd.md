@@ -99,7 +99,7 @@ Een laag of hoog eiwitgehalte is dus niet het grootste verschil tussen een plat 
 
 Zachte of harde tarwe heeft niets te maken met de gekende Italiaanse '`00`' bloem! _Tipo `00`_ is een aanduiding voor uitmalingsgraad, zoals de Franse `T65`. Deze fijnste maalgraad in Italië heeft de consistentie van talkpoeder. In Nederland is deze bloem verkrijgbaar onder de naam 'Zeeuwse bloem'. `00` bloem is beschikbaar in verschillende eiwitgehaltes en dient vaak eerder voor pasta of pizza dan voor brood. De methode voor pizzadeeg is inderdaad exact hetzelfde als voor brooddeeg, maar met deze bloem heb je veel minder water nodig. Na het zeven blijft er enkel nog een deel van het kiemwit van de tarwe bes over. De uitgezeefde (restjes van) zemelen helpen om vocht te absorberen. De hoofdredenen om `00` bloem te gebruiken in pizzadeeg is het verminderen van de taaiheid van de korst, en de uitrekbaarheid tot de limiet kunnen drijven. De elasticiteit van brooddeeg zit soms in de weg bij het maken van een goede pizza dat ik oplos met voldoende rusttijd. 
 
-Ik gebruik nooit erg uitgezeefde bloem. Zoals Sarah in De Superette ook al zei: '`T65` is zo wit als ik wil gaan'. Een bijkomend voordeel is plaats in de kast. Ik hoef geen patentbloem te kopen voor cakes en taarten, en geen Italiaanse `00` bloem voor pizza. Overal gaat `T65` (of hoger) in. Dat betekent dat mijn cake niet zo mals is als zou moeten, en dat mijn pizza (formule \ref{pizzaformule}) niet zo knapperig is als zou moeten. 
+Ik gebruik nooit erg uitgezeefde bloem. Zoals Sarah in De Superette ook al zei: '`T65` is zo wit als ik wil gaan'. Een bijkomend voordeel is plaats in de kast. Ik hoef geen patentbloem te kopen voor cakes en taarten, en geen Italiaanse `00` bloem voor pizza. Overal gaat `T65` (of hoger) in. Dat betekent dat mijn cake niet zo mals is als zou moeten, en dat mijn pizza niet zo knapperig is als zou moeten. 
 
 Langs de andere kant betekent dit ook dat mijn cake meer voedingsstoffen bevat dan de luchtigere variant. Net zoals de `00` notatie garandeert `T65` geen hoog eiwitgehalte. Meelzakken in supermarkten beschrijven nooit over welk soort tarwe het gaat, laat staan in welk seizoen het werd geoogst. Je mag al van geluk spreken als je kan achterhalen van welk land het graan komt. Sommige labels, zoals het wettelijk vastgelegde EU biolabel[^bio], verplichten de aanwezigheid van die informatie. Een goede inschatting gebaseerd op de hoeveelheid aanwezige eiwitten is accuraat genoeg. Nog een reden om bij een lokale molenaar bloem te kopen. 
 
@@ -334,16 +334,16 @@ Om dat 'heel veel' te kwantificeren, citeer ik uit een rapport van Ângelo Samir
 
 > _The world enzyme market is in evolution and a growth of 6.8% per year is expected. The world food and beverage enzymes demand requires attention, because it represented $1,220 million dollars in 2010, around 36.5% of the total world industrial enzyme demand, estimated in $3,345 million dollars. Moreover, the world food and beverages enzymes demand is expected to be responsible for 40.1% of the world industrial enzyme demand in 2020, accounting for $2,520 of $6,280 million dollars of the world industrial enzyme market._
 
-Ik was met stomheid geslagen toen ik het verslag voor de eerste keer las. Er valt niet alleen de rode kleur van korst te winnen bij het gebruik van enzymen. Ook de kleur groen manifesteert zich in de vorm van katoenen briefjes. Figuur \ref{enzymenvraag} toont de enzymen markt specifiek voor gebakken producten zoals brood.
+Ik was met stomheid geslagen toen ik het verslag voor de eerste keer las. Er valt niet alleen de rode kleur van korst te winnen bij het gebruik van enzymen. Ook de kleur groen manifesteert zich in de vorm van katoenen briefjes. 
 
 \begin{figure}
     \centering
     \includegraphics[width=0.8\textwidth,height=\textheight]{img/enzymenvraag.png}
-    \caption[Een grafiek van de enzymenmarkt.]{Een illustratie van de enzymenmarkt voor gebakken producten,
-    afgebeeld op jaren 2000 tot 2020\label{enzymenvraag}}
+    \caption[Een grafiek van de enzymenmarkt.]{Een illustratie van de enzymenmarkt voor gebakken producten zoals brood,
+    afgebeeld op jaren 2000 tot 2020.}
 \end{figure}
 
-De gegevens komen van het Amerikaanse 'Freedonia Group', gespecialiseerd in marktonderzoek, maar ik zie geen reden om aan te nemen waarom de vraag in Europa minder drastisch zou stijgen. De balken geven de vraag naar bakkerij producten aan. De lijn in de grafiek toont de relatieve stijging in Amerikaanse populatie in diezelfde jaren[^stijging]. 
+Deze gegevens komen van het Amerikaanse 'Freedonia Group', gespecialiseerd in marktonderzoek, maar ik zie geen reden om aan te nemen waarom de vraag in Europa minder drastisch zou stijgen. De balken geven de vraag naar bakkerij producten aan. De lijn in de grafiek toont de relatieve stijging in Amerikaanse populatie in diezelfde jaren[^stijging]. 
 
 De populatie steeg sinds 2000 met factor `1.2`. De vraag naar enzymen steeg met factor `6.4`. Deze twee grafieken op elkaar leggen duidt verband noch correlatie aan. Wat ik wel kan afleiden is dat het 'iedereen kunnen voeden' argument zeker niet de hoofdrol speelt in deze miljarden industrie. Het verslag van Miguel beschrijft de groeiende trend om chemische additieven te vervangen door enzymen gewonnen uit natuurlijke bronnen. Hoe natuurlijk dat nu precies is, zal ieder voor zich moeten uitmaken.
 
@@ -411,7 +411,7 @@ De enige temperatuur die ik kan beïnvloeden is de temperatuur van het water. Om
 
 Table: Waargenomen factoren die de temperatuur van brooddeeg beïnvloeden. \label{temptable}
 
-De gewenste deegtemperatuur (`24°C`) maal vier is `304 °F`, vermindert met de temperaturen uit tabel \ref{temptable} is `82.4 °F` of ongeveer `28°C`. Kneden doet de temperatuur van het deeg ook stijgen door middel van kinetische energie die mee in rekening moet worden gebracht[^rekeningbr]. Dit verschil is te klein om in Celsius te kunnen berekenen. Ik vergat echter dat dit effect helemaal niet zo groot is als voorzien wanneer je met de hand kneedt. 
+De gewenste deegtemperatuur (`24°C`) maal vier is `304 °F`, vermindert met de temperaturen uit de tabel is `82.4 °F` of ongeveer `28°C`. Kneden doet de temperatuur van het deeg ook stijgen door middel van kinetische energie die mee in rekening moet worden gebracht[^rekeningbr]. Dit verschil is te klein om in Celsius te kunnen berekenen. Ik vergat echter dat dit effect helemaal niet zo groot is als voorzien wanneer je met de hand kneedt. 
 
 Een tweede probleem is het kneedoppervlak: de koude marmeren steen van mijn keuken[^mijnsteen] steelt energie tijdens het kneden. Na exact zes minuten intensief handwerk voor elk deeg heb ik ik nog iets meer dan `22°C` gemeten - dat is twee volle graden ernaast. Al een geluk dat dit probleem zich bij alle degen stelde. De incubatieruimte werd ingesteld tussen `24.5` en `25.5°C`.
 
@@ -419,21 +419,19 @@ Een tweede probleem is het kneedoppervlak: de koude marmeren steen van mijn keuk
 
 [^rekeningbr]: De `20 °F` komt uit een referentietabel en gaat uit van het gebruik van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn hangen nooit kunnen voortbrengen. 
 
-Rijstijden zijn waar te nemen in tabel \ref{rijstable}:
-
 | Type deeg   | Eerste rijstijd | Tweede rijstijd | Bakken |
 |:------------|:----------------|:----------------|:-------|
 | Controle    | 11u30 (2u)      | 13u30 (37min)   | 14u07  |
 | Koji        | 12u00 (2u21min) | 14u21 (27min)   | 14u48  |
 | Verbeteraar | 12u13 (1u50)    | 14u03 (32min)   | 14u35  |
 
-Table: Rijstijden voor elk type deeg in het experiment. \label{rijstable}
+Table: De waargenomen rijstijden voor elk type deeg in het experiment. \label{rijstable}
 
 Ik werkte niet parallel, dus nadat het controledeeg als eerste in de rijskast verdween kon ik aan het tweede deeg beginnen. Om te oordelen op welk moment de eerste rijstijd onderbroken moet worden, liet ik `150 gr` van het deeg rijzen in doorzichtige cilindervormige containers. Op het begin en het einde van de eerste fermentatie werd met plakband aangeduid tot op welke hoogte het stukje deeg stond. 
 
 Het controledeeg verdriedubbelde in grootte na exact twee uur rijzen. Op dat moment besliste ik het deeg in een _boule_ te vormen en in een rijsmandje opnieuw te laten rijzen. De andere types deeg werden gevormd op het moment dat in elke aparte container duidelijk zichtbaar was dat ze even hoog stonden als het controledeeg. 
 
-Zoals af te leiden is uit tabel \ref{rijstable}, racete het deeg met de commerciële verbeteraar beduidend sneller naar de finish dan het controledeeg. Tien minuten op twee uur tijd is ongeveer `8.3%` sneller. Dat is leuk, maar niet indrukwekkend. De verbeteraar bevat nog een aantal andere ingrediënten buiten enzymen die deze verhoogde rijstijd kunnen verklaren, zoals emulgatoren en plantaardige vetstoffen. 
+Zoals af te leiden is uit de tabel met de rijstijden, haastte het deeg met de commerciële verbeteraar zich beduidend sneller naar de finish dan het controledeeg. Tien minuten op twee uur tijd is ongeveer `8.3%` sneller. Dat is leuk, maar niet indrukwekkend. De verbeteraar bevat nog een aantal andere ingrediënten buiten enzymen die deze verhoogde rijstijd kunnen verklaren, zoals emulgatoren en plantaardige vetstoffen. 
 
 De traagheid waarmee het koji deeg op gang kwam is even opvallend. Hoe kan dat, was het niet de bedoeling dat dit deeg sneller zijn suikers afbreekt en vrijgeeft aan de gisten dankzij de extra amylase? 
 

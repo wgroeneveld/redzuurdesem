@@ -35,7 +35,7 @@ Consistentie is geen primair doel in mijn eigen keuken: ik baat immers geen pizz
 
 Het bakproces bestaat uit een aantal stappen waarvan er maar twee nooit kunnen worden weggelaten: _mengen_ en _bakken_. Soda kan het rijzen vervangen, genoeg gist kan een tweede rijs of voordeeg vervangen en met het uitstorten van deeg in een bakvorm sla je het vormgeven over. 
 
-De Nederlandstalige terminologie om elke stap in het proces te identificeren klinkt erg slap in vergelijking met de bewoording in het Engels, Duits en Frans, die in goede internationale bakboeken terug te vinden is. Om verwarring te vermijden somt tabel \ref{terms} de meest gebruikte terminologie op:
+De Nederlandstalige terminologie om elke stap in het proces te identificeren klinkt erg slap in vergelijking met de bewoording in het Engels, Duits en Frans, die in goede internationale bakboeken terug te vinden is. Om verwarring te vermijden somt de volgende tabel de meest gebruikte terminologie op:
 
 | Stap | Term EN/NL     | Term FR/DE  | Beschrijving                          |
 |:----:|:---------------|:----------------|:----------------------------------|

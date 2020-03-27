@@ -81,13 +81,12 @@ Melkzuur herkent iedereen die al ooit yoghurt heeft gegeten. Azijnzuur herkent i
 
 Verschillende soorten gisten en bacteriën verkiezen elk hun eigen ideale omgevingstemperatuur, vochtigheidsgraad, en zuurtegraad. Dat zijn externe factoren waar een bakker mee kan spelen. Hoe warmer en vochtiger, hoe actiever de bacteriën, en hoe meer melkzuur. Hoe kouder en droger, hoe minder activiteit, maar hoe meer azijnzuur in de plaats van melkzuur wordt afgescheiden. Sommige bacteriën produceren enkel melkzuur, en sommigen melkzuur, azijnzuur, en CO~2~[^fermentatief] [@holzapfel2012genera]. In beide gevallen verandert de zuurtegraad van de omgeving, en 'verzuurt' je brooddeeg. 
 
-Figuur \ref{activityvstemp}[^figactivitysrc] visualiseert de activiteit in functie van de temperatuur voor een gistsoort als stippellijn, en voor een melkzuurbacteriesoort als volle lijn. Activiteit piekt voor commerciële bakkersgist (_Saccharomyces cerevisiae_) rond de `28°C`, daarom gebruiken bakkers rijskasten ingesteld op zo'n hoge temperatuur. Voor veel melkzuurbacteriën ligt dat optimaal punt hoger, rond de `34°C`. Dominante soorten organismen verschillen drastisch voor elke vijf graden verschil.
+Activiteit piekt voor commerciële bakkersgist (_Saccharomyces cerevisiae_) rond de `28°C`, daarom gebruiken bakkers rijskasten ingesteld op zo'n hoge temperatuur. Voor veel melkzuurbacteriën ligt dat optimaal punt hoger, rond de `34°C`. Dominante soorten organismen verschillen drastisch voor elke vijf graden verschil.
 
 \begin{figure}
     \centering
     \includegraphics[width=0.8\textwidth,height=\textheight]{img/activity_vs_temp.png}
-    \caption[Een grafiek van de activiteit van organismen in functie van temperatuur.]{De activiteit in functie van temperatuur voor gist
-    (stippellijn) en melkzuurbacterie (volle lijn)\label{activityvstemp}}
+    \caption[De temperatuur in functie van activiteit van organismen.]{De temperatuur (x-as) in functie van activiteit (y-as) voor Candida milleri (stippellijn) en Lactobacillus sanfranciscensis (volle lijn)}
 \end{figure}
 
 De verhoogde activiteit kan maar enkele uren op hoge temperaturen worden volgehouden, totdat het deeg onherroepelijk instort. Wil je de diepgang van zuurdesem zonder het zure, gebruik dan een jonge, natte cultuur op hogere temperatuur. Heb je graag de uitgesproken scherpte, wissel dan af met langere rijstijden in de koeling. Een zure omgeving is niet alleen goed om pathogenen te weren, maar ook om sommige gewilde melkzuurbacteriën aan te trekken, zoals _Lactobacillus sanfranciscensis_ [@de2005sourdough]. Gisten zijn minder gevoelig voor pH schommelingen.
@@ -97,13 +96,13 @@ De verhoogde activiteit kan maar enkele uren op hoge temperaturen worden volgeho
 
 * * *
 
-Buiten de temperatuur is tijd de tweede belangrijkste factor die de diversiteit van micro-organismen beïnvloedt. Daar hebben we een tweede grafiek voor nodig, zoals Figuur \ref{groeicurve}, die de bacteriële groeicurve voorstelt. Bacteriën ondergaan verschillende levenscycli die de groei stimuleren of afremmen. De belangrijkste fase waar wij in geïnteresseerd zijn is de exponentiële groeifase: hoe meer leven in de brouwerij, hoe meer smaak! 
+Buiten de temperatuur is tijd de tweede belangrijkste factor die de diversiteit van micro-organismen beïnvloedt. Daar hebben we een tweede grafiek voor nodig, die de bacteriële groeicurve voorstelt. Bacteriën ondergaan verschillende levenscycli die de groei stimuleren of afremmen. De belangrijkste fase waar wij in geïnteresseerd zijn is de exponentiële groeifase: hoe meer leven in de brouwerij, hoe meer smaak! 
 
-Tussen de opkweek- en afbraakperiodes ligt een grote stilstaande fase waarin de cultuur min of meer stabiel blijft, tussen 12 en 20 uur na de eerste groeischeut. Fermenteer je langer dan die periode, dan gaat alles gradueel bergaf. De koelkast gebruiken om de temperatuur uit Figuur \ref{activityvstemp} te beïnvloeden kan dus maar voor een beperkte periode. En dan hebben we vochtigheid en zuurtegraad nog niet besproken. 
+Tussen de opkweek- en afbraakperiodes ligt een grote stilstaande fase waarin de cultuur min of meer stabiel blijft, tussen 12 en 20 uur na de eerste groeischeut. Fermenteer je langer dan die periode, dan gaat alles gradueel bergaf. De koelkast gebruiken om de temperatuur te beïnvloeden kan dus maar voor een beperkte periode. En dan hebben we vochtigheid en zuurtegraad nog niet besproken. 
 
-![De bacteriële groeicurve.\label{groeicurve}](img/bacterial_growth_curve.png){ width=80% }
+![De bacteriële groeicurve. Incubatietijd in uur (x-as) in functie van aantal bacteriën (y-as). Elk segment in de lijn representeert een specifieke groeifase.](img/bacterial_growth_curve.png){ width=80% }
 
-Als je werkt met een `1:1` ratio van bloem en water, is het eenvoudig om de activiteit van je cultuur te controleren. Gebruik hiervoor een doorzichtige container. Na het voeden met bloem trek je met een alcoholstift een streep tot op welke hoogte de desem komt. Deze stappen kan je volgen in Figuur \ref{groeicurve}. 
+Als je werkt met een `1:1` ratio van bloem en water, is het eenvoudig om de activiteit van je cultuur te controleren. Gebruik hiervoor een doorzichtige container. Na het voeden met bloem trek je met een alcoholstift een streep tot op welke hoogte de desem komt. Deze stappen kan je volgen in bovenstaande grafiek. 
 
 
 1. _Vertraging_. De eerste uren gebeurt er niet veel. Op een gegeven moment schieten de organismen wakker en beginnen ze als een gek te werken. 
@@ -340,7 +339,7 @@ Heb je je leger een tijdje verwaarloost, dan is dat nog geen ramp. Twee keer ter
 
 Die kracht is eenvoudig meetbaar door te kijken hoe hoog de desem rijst. Gebruik een doorzichtige container, een alcohol stift en een stukje plakband of een elastiekje om de initiële positie aan te duiden. Om het uur een oog werpen op dat niveau leert je veel over de kracht van de aanwezige gisten. 
 
-Ingenieurs zoals Justin Lam vinden dat meten moet worden overgelaten aan moderne technologie, zoals een Raspberry Pi. Justin liet het volgen van de groei van zijn cultuur over aan geautomatiseerde beeldanalyse[^justin]. Wat toveren met de programmeertaal Python levert een gepersonaliseerde groeicurve op, zoals in Figuur \ref{groeicurve}. Na ongeveer 40 uur kijken naar het rijzen van zuurdesemculturen, leerde hij dat een verwaarloosde starter terug gelukkig kan worden gemaakt door regelmatig bij te voeden. 
+Ingenieurs zoals Justin Lam vinden dat meten moet worden overgelaten aan moderne technologie, zoals een Raspberry Pi. Justin liet het volgen van de groei van zijn cultuur over aan geautomatiseerde beeldanalyse[^justin]. Wat toveren met de programmeertaal Python levert een gepersonaliseerde groeicurve op. Na ongeveer 40 uur kijken naar het rijzen van zuurdesemculturen, leerde hij dat een verwaarloosde starter terug gelukkig kan worden gemaakt door regelmatig bij te voeden. 
 
 [^justin]: [http://www.justinmklam.com/posts/2018/06/sourdough-starter-monitor/](http://www.justinmklam.com/posts/2018/06/sourdough-starter-monitor/)
 

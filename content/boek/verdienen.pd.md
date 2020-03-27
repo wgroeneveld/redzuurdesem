@@ -137,7 +137,7 @@ Ik heb hetzelfde dilemma gezien in Gent. Het brood is er ook veel duurder dan de
 
 * * *
 
-Dat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Statistische rapporten tonen aan dat de gemiddelde Amerikaan tegenwoordig ongeveer `10 %` van zijn inkomen uitgeeft aan voedsel [@clauson2008despite]. Figuur \ref{percincome} visualiseert gespendeerd inkomen aan eten de laatste 60 jaar[^figincome]. Volgens Eurostat is dit in 2017 met `12.2%` voor de gemiddelde Europeaan niet erg verschillend. In 1960 was dit percentage rond de `20%`, en in 1900 kwam dit ruim boven de `40%`. 
+Dat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Statistische rapporten tonen aan dat de gemiddelde Amerikaan tegenwoordig ongeveer `10 %` van zijn inkomen uitgeeft aan voedsel [@clauson2008despite]. Onderstaande grafiek visualiseert gespendeerd inkomen aan eten de laatste 60 jaar[^figincome]. Volgens Eurostat is dit in 2017 met `12.2%` voor de gemiddelde Europeaan niet erg verschillend. In 1960 was dit percentage rond de `20%`, en in 1900 kwam dit ruim boven de `40%`. 
 
 Hoe komt het dat dit percentage in honderd jaar tijd dit zo sterk gedaald is? Dat heeft niet alleen te maken met de overvloed van tegenwoordige vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Een andere oorzaak zou kunnen zijn dat men vroeger _bewuster_ omging met voedsel. 
 
@@ -146,7 +146,7 @@ Hoe komt het dat dit percentage in honderd jaar tijd dit zo sterk gedaald is? Da
     \includegraphics[width=0.8\textwidth,height=\textheight]{img/inkomen.png}
     \caption[Grafiek van gespeendeerd inkomen aan eten de laatste 60 jaar.]{Gespeendeerd inkomen aan eten de laatste 60 jaar. Volle lijn:
     totaal gespendeerd aan voedsel. Stippellijn: gespendeerd in huis. Dikke
-    stippellijn: gespendeerd buitenshuis. \label{percincome}}
+    stippellijn: gespendeerd buitenshuis.}
 \end{figure}
 
 [^figincome]: Dit is ruwweg gebaseerd op gegevens van het USDA, Economic Research Service, Food Expenditure Series, tabel 7. [http://www.ers.usda.gov/data-products/food-expenditures.aspx](http://www.ers.usda.gov/data-products/food-expenditures.aspx)
@@ -660,7 +660,7 @@ Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Can
 
 \label{altamurabrood}
 
-Dit is zonder twijfel een van de moeilijkere broden om te bakken. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in tabel \ref{tabledurum}. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum '_drinkt veel_', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. 
+Dit is zonder twijfel een van de moeilijkere broden om te bakken. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in deze formule. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum '_drinkt veel_', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. 
 
 Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 gr` verse gist toe en verminder je de eerste rijstijd met de helft. 
 

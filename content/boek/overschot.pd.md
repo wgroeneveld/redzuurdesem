@@ -101,7 +101,7 @@ Havermout wint tegenwoordig aan populariteit, maar de verschillende soorten in d
 
 Table: Een categorisatie van granen, van grof naar fijn \label{havercat}
 
-De term 'havermout' of _oatmeal_ is een algemene benaming die als slogan voor gezondheid op zowat elk pakje haver prijkt. De elementen in tabel \ref{havercat} staan gerangschikt van onverwerkte tot geraffineerde haver. Fijngemalen havervlokken zijn snel klaargemaakt en geven het snelste suikers af. Fermentatietijden zijn daarom ook hiervan afhankelijk. 
+De term 'havermout' of _oatmeal_ is een algemene benaming die als slogan voor gezondheid op zowat elk pakje haver prijkt. De elementen in de tabel staan gerangschikt van onverwerkte tot geraffineerde haver. Fijngemalen havervlokken zijn snel klaargemaakt en geven het snelste suikers af. Fermentatietijden zijn daarom ook hiervan afhankelijk. 
 
 #### Als kickstart voor andere fermentaties
 
