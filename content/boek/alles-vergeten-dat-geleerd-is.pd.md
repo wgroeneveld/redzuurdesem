@@ -15,7 +15,7 @@ Februari 2014
 
 ‘Weet jij wat voor een rommel mensen tegenwoordig allemaal eten?’ Pannen worden op elkaar gestapeld, bloemresten bij elkaar geveegd.
 
-‘Euhm...’ Ik had er geen idee van, en natuurlijk heeft hij gelijk. We kijken elkaar vragend aan, enigszins verrast door de vurige reacties. Het is tien uur ‘s morgens en Patrick, Dimitri, en ik staan in de kelder en bakkerij van Peter Schoofs te Genk. Patrick, die Peter nog kende van vroeger, heeft voor ons een kijkje in de bakkerij geregeld. We zijn alledrie razend enthousiast en proberen iedere centimeter informatie uit de bakker zijn neus te peuteren. Peter heeft namelijk dezelfde opleiding achter de rug als wij, in dezelfde avondschool, met dezelfde leerkracht. Het lijkt ons dus niet meer dan logisch dat hij ons enkele nuttige tips kan geven als beginners. 
+‘Euhm...’ Ik had er geen idee van, en natuurlijk heeft hij gelijk. We kijken elkaar vragend aan, enigszins verrast door de vurige reacties. Het is tien uur ‘s morgens en Patrick, Dimitri en ik staan in de kelder en bakkerij van Peter Schoofs te Genk. Patrick, die Peter nog kende van vroeger, heeft voor ons een kijkje in de bakkerij geregeld. We zijn alledrie razend enthousiast en proberen iedere centimeter informatie uit de bakker zijn neus te peuteren. Peter heeft namelijk dezelfde opleiding achter de rug als wij, in dezelfde avondschool, met dezelfde leerkracht. Het lijkt ons dus niet meer dan logisch dat hij ons enkele nuttige tips kan geven als beginners. 
 
 ‘Pas je veel zaken toe die je hebt geleerd van de opleiding?’ vraag ik voorzichtig. 
 
@@ -57,7 +57,7 @@ De bakkerij van Schoofs is uitstekend uitgerust met twee grote ovens, verschille
 
 ‘Hier is mijn desem.’ Peter haalt uit een berging een grote emmer tevoorschijn waar hij ons aan laat ruiken. Ik ruik een aangename combinatie van zuur en zoet dat duidt op de juiste balans van melk- en azijnzuren. 
 
-‘Wat zijn die verschillende kleurschakeringen dan?’ De emmer onthulde deeg dat bonte kleuren aannam van beige, geel, lichtbruin, en donkerbruin. 
+‘Wat zijn die verschillende kleurschakeringen dan?’ De emmer onthulde deeg dat bonte kleuren aannam van beige, geel, lichtbruin en donkerbruin. 
 
 ‘Het is geen pure zuurdesem, maar overschotjes deeg die ik bij elkaar gooi en verder laat fermenteren totdat alle gist kapot is. Hier gebruik ik dan een deel van om mijn desembrood aan de gang te brengen.’ In een groot deel van zijn broden zit verse bakkersgist. Bij het afwegen kan het al eens voorkomen dat er wat stukjes deeg over blijven, en die worden allemaal verzameld om verder te rijzen. Commerciële gist rijst snel waardoor na een tijdje verzuring optreedt en een ander smakenpallet creëert. Op die manier reduceer je op een slimme manier afval in de bakkerij, zoals sommige taartdegen ook bestaan uit samengeplakte lapjes overschot. 
 
@@ -85,7 +85,7 @@ Het moeilijkste aan Peter zijn systeem lijkt me het deeg uit de grote mengkom ha
 
 Wij bewonderen Peter allemaal omwille van zijn carrièreswitch en volharding die nodig is om elke nacht zo goed als alleen die honderden broden uit de oven te halen. We zijn stiekem een beetje jaloers op hem. De meeste leerlingen van de avondschool aanschouwen bakken als een hobby waar ooit meer van kan komen, terwijl de studenten van de dagopleiding zich inschrijven met de intentie om effectief professionele bakker te worden. Het zeurende gevoel van de dagelijkse werksleur zit er bij ons nog goed in en het vooruitzicht om exact hetzelfde nog jaren te doen tot aan het pensioen maakt het er niet bepaald vrolijker op. Op dit punt klinkt een omschakeling naar bakker heel romantisch en we vragen de bakker naar zijn ervaringen toen hij pas die keuze maakte. 
 
-‘Veel werkwijzes en recepten heb ik zelf moeten uitzoeken. Het heeft me bloed, zweet, tranen, en jaren keihard werken gekost om te geraken waar ik nu ben - en ik ben nog steeds niet tevreden. Je moet blijven verbeteren en kritisch kijken naar je eigen werk. Het is keihard werken, ‘s nachts in een kelder met artificieel licht. Ik snak naar daglicht en vakantie, maar die dingen moet je leren gedeeltelijk op te geven. Ik heb in die jaren verschillende keren gedacht om er volledig mee te stoppen.’ Hij kijkt ons alledrie een tijdje aan en we worden er stil van. 
+‘Veel werkwijzes en recepten heb ik zelf moeten uitzoeken. Het heeft me bloed, zweet, tranen en jaren keihard werken gekost om te geraken waar ik nu ben - en ik ben nog steeds niet tevreden. Je moet blijven verbeteren en kritisch kijken naar je eigen werk. Het is keihard werken, ‘s nachts in een kelder met artificieel licht. Ik snak naar daglicht en vakantie, maar die dingen moet je leren gedeeltelijk op te geven. Ik heb in die jaren verschillende keren gedacht om er volledig mee te stoppen.’ Hij kijkt ons alledrie een tijdje aan en we worden er stil van. 
 
 Misschien is fietsenmaker meer iets voor mij.
 
@@ -97,9 +97,9 @@ De aftandse zetel die in de hoek naast een oven staat zegt veel. Peter zag dat i
 
 Ik hoop dat mijn eigen vrouw dit nooit leest...
 
-Aan de natuurbakkerij is ook een winkeltje verbonden waar biologische producten verkocht worden zoals sinaasappel olijfolie uit Italië en verschillende soorten granen, thee, en andere natuurlijke producten. 
+Aan de natuurbakkerij is ook een winkeltje verbonden waar biologische producten verkocht worden zoals sinaasappel olijfolie uit Italië en verschillende soorten granen, thee en andere natuurlijke producten. 
 
-‘Ik heb die olie zelf gekozen en ben naar de pers geweest in Italië om hem te proeven. Geweldige boel, proef zelf maar eens!’ Hij brak een aantal pistolets en deed er wat olie op om ons zelf te laten oordelen. De olie was intens en de smaak van sinaasappel blijft lang hangen. Zoiets past goed bij een pistolet die zelf eerder de drager dan de smaakmaker is. Schoofs is in veel opzichten een typische Vlaamse bakkerij: je kan er sandwiches, pistolets, en enorm veel soorten brood krijgen maar ook wafels, taartjes en seizoensgebak. Het grootste verschil zit hem in de ingrediënten, of het gebrek daarvan. 
+‘Ik heb die olie zelf gekozen en ben naar de pers geweest in Italië om hem te proeven. Geweldige boel, proef zelf maar eens!’ Hij brak een aantal pistolets en deed er wat olie op om ons zelf te laten oordelen. De olie was intens en de smaak van sinaasappel blijft lang hangen. Zoiets past goed bij een pistolet die zelf eerder de drager dan de smaakmaker is. Schoofs is in veel opzichten een typische Vlaamse bakkerij: je kan er sandwiches, pistolets en enorm veel soorten brood krijgen maar ook wafels, taartjes en seizoensgebak. Het grootste verschil zit hem in de ingrediënten, of het gebrek daarvan. 
 
 Peter maalt ook zijn eigen bloem, die vers wordt verwerkt in zijn producten. 
 

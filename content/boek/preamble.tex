@@ -64,6 +64,11 @@
 \copypagestyle{chapter}{desem}
 \AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{empty}}} 
 
+% footnotes: one per page (needs re-compilation, could crash first time) and symbols
+\usepackage{perpage}
+\MakePerPage{footnote}
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+
 
 % ===================
 % = Font/Text Setup =

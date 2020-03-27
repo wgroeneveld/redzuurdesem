@@ -331,7 +331,7 @@ Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brou
 
 'Hoe werkt die hergisting precies?' vroeg ik. 
 
-'Na het _lageren_ voegen we opnieuw gist toe om hier bier te laten gisten op fles. Die bottelgist is trouwens meestal andere gist dan de opgekweekte starter. Pils van grote merken verlaat de brouwerij 'dood', dat wil zeggen, ze wordt niet beter met bewaren. Ons bier kan je tot vijf jaar bewaren.' Lageren is het opslaan van 'jong' bier in een grote tank, zodat het kan rijpen. Dit is in feite een tweede gistingsstop. Na het koken, koelen, en klaren van de wort, vindt de 'hoofdgisting' plaats, die drie dagen tot meer dan een week kan duren. '
+'Na het _lageren_ voegen we opnieuw gist toe om hier bier te laten gisten op fles. Die bottelgist is trouwens meestal andere gist dan de opgekweekte starter. Pils van grote merken verlaat de brouwerij 'dood', dat wil zeggen, ze wordt niet beter met bewaren. Ons bier kan je tot vijf jaar bewaren.' Lageren is het opslaan van 'jong' bier in een grote tank, zodat het kan rijpen. Dit is in feite een tweede gistingsstop. Na het koken, koelen en klaren van de wort, vindt de 'hoofdgisting' plaats, die drie dagen tot meer dan een week kan duren. '
 
 'Gebruiken jullie dan drie gistingsfases?' Ik begreep het verschil tussen lageren en hergisten niet goed. 
 
