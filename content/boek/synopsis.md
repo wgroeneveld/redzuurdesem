@@ -12,6 +12,16 @@ Dit document bevat een korte synopsis van het boek '_Red Zuurdesem: Een persoonl
 
 [^wogr]: Contactgegevens: \newline Adres: Wouter Groeneveld, X, BE-X, België. \newline Email: `wouter.groeneveld@gmail.com` \newline Telefoon: `+32`
 
+## Flaptekst - verkort
+
+Waarom is het ene brood zo saai terwijl het andere barst van de smaak? In deze zoektocht naar de smaak en wetenschap van brood maakt Wouter zijn handen en keuken vuil en laat hij verschillende gepassioneerde experten aan het woord: van molenaars, bakkers en brouwers tot microbiologen en biochemici. 
+
+Red Zuurdesem is een met liefde gebakken boek waarin traag gefermenteerde ideeën uit zowel de praktische als de theoretische wereld met succes worden gecombineerd tot één geurig geheel, rijkelijk belegd met tips en formules om zelf aan de slag te gaan.
+
+### Over de auteur - verkort
+
+Wouter Groeneveld is software ingenieur en onderzoeker die zichzelf ook gediplomeerd brood- en banketbakker mag noemen. Hij bakt en woont in Hasselt met zijn vrouw Kristien en kater Muesli, die zuurdesembrood verkiest boven kattenvoer. 
+
 ## Flaptekst
 
 In dit culinair avontuur gaat computerwetenschapper en broodbakker Wouter Groeneveld op zoek naar de smaak en de wetenschap van brood, een mysterie dat hem sinds dat éne perfecte stukje brood uit zijn kindertijd achtervolgt. Wat zit er nu precies in brood dat het zo lekker maakt? Waarom is het ene brood zo ongeïnspireerd terwijl het andere overloopt van smaak? 
@@ -22,9 +32,9 @@ Al snel blijkt dat zuurdesem een centrale rol speelt, een eeuwenoude techniek di
 
 _Red Zuurdesem_ is een met liefde gebakken boek waarin traag gefermenteerde ideeën uit zowel de praktische als de theoretische wereld met succes worden gecombineerd tot één geurig geheel, rijkelijk belegd met tips en formules om zelf aan de slag te gaan.
 
-## Over de auteur
+### Over de auteur
 
-Wouter Groeneveld is software ingenieur en onderzoeker verbonden aan \mbox{KU Leuven} die zichzelf ook gediplomeerd brood- en banketbakker mag noemen. Naast zijn nauwelijks controleerbare obsessie voor brood heeft hij een passie om kennis te delen. Hij bakt en schrijft in Hasselt met zijn vrouw, Kristien, en kater Muesli, die zuurdesembrood boven kattenbrokken verkiest. 
+Wouter Groeneveld is software ingenieur en onderzoeker verbonden aan de KU Leuven die zichzelf ook gediplomeerd brood- en banketbakker mag noemen. Naast zijn nauwelijks controleerbare obsessie voor brood heeft hij een passie om kennis te delen. Hij bakt en woont in Hasselt met zijn vrouw Kristien en kater Muesli, die zuurdesembrood verkiest boven kattenvoer. 
 
 ## Korte synthese
 

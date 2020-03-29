@@ -29,6 +29,8 @@ all:
 #		structuur.pd.md geur.pd.md recept.pd.md \
 #		overschot.pd.md epiloog.pd.md
 
+pages:
+	exiftool boek.pdf | grep 'Page Count'
 
 proofread:
 	pandoc -f markdown+smart temp_tergoedkeuring.pd.md -V lang=nl-BE --include-in-header=preamble.tex --pdf-engine=xelatex -V documentclass=book --top-level-division=part --metadata-file=metadata.yml -o nalezen.pdf
