@@ -14,7 +14,11 @@ Dit document bevat een korte synopsis van het boek '_Red Zuurdesem: Een persoonl
 
 ## Flaptekst - verkort
 
-Waarom is het ene brood zo saai terwijl het andere barst van de smaak? In deze zoektocht naar de smaak en wetenschap van brood maakt Wouter zijn handen en keuken vuil en laat hij verschillende gepassioneerde experten aan het woord: van molenaars, bakkers en brouwers tot microbiologen en biochemici. 
+Waarom is het ene brood zo saai terwijl het andere barst van de smaak?
+
+In deze zoektocht naar de smaak en wetenschap van brood maakt Wouter zijn handen en keuken vuil en laat hij verschillende gepassioneerde experten aan het woord: van molenaars, bakkers en brouwers tot microbiologen en biochemici. 
+
+Al snel blijkt dat zuurdesem een centrale rol speelt, een eeuwenoude techniek die door het jachtige leven van de moderne mens onterecht naar de achtergrond verdrongen werd. Hoog tijd dus om zuurdesem te redden van de vergetelheid en te ontdoen van de mystiek. 
 
 Red Zuurdesem is een met liefde gebakken boek waarin traag gefermenteerde ideeën uit zowel de praktische als de theoretische wereld met succes worden gecombineerd tot één geurig geheel, rijkelijk belegd met tips en formules om zelf aan de slag te gaan.
 

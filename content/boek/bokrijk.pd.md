@@ -3,7 +3,7 @@
 
 \label{bokrijk}
 
-> '_Bread recipes are almost useless, because they are so dependent on yeast speeds and the variable nature of flours._' - Walter Banfield, A Comprehensive Treatise on Bread Manufacture
+> '_Bread recipes are almost useless, because they are so dependent on yeast speeds and the variable nature of flours._' - Walter Banfield, A Comprehensive \mbox{Treatise} on Bread Manufacture
 
 ### Een demonstratie van het bakken van weleer
 

@@ -6,7 +6,7 @@
 
 \label{kabouter}
 
-> '_Eat (good) food. Mostly plants. Not too much._' - Michael Pollan, In Defense of Food
+> '_Eat (good) food. Mostly plants. Not too much._' - \mbox{Michael} Pollan, In Defense of Food
 
 ### Dagelijks brood met een druk op de knop
 

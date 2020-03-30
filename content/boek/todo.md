@@ -12,7 +12,7 @@
 [X] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
 [ ] Grafieken test-printen, zijn die te klein?
 [ ] Voorblad fatsoeneren; ISBN/uitgever/... 
-[ ] Omslagontwerp
+[X] Omslagontwerp
 [ ] Voorwoord Dimitri
 [ ] Dankwoord
 
