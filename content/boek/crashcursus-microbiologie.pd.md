@@ -82,7 +82,7 @@ Ook pathogenen zullen zich in het begin nestelen in je cultuur. Geen zorgen, in 
 
 Melkzuur herkent iedereen die al ooit yoghurt heeft gegeten. Azijnzuur herkent iedereen die al ooit een fles azijn heeft geopend. Dankzij deze zuren is de zuurtegraad van zuurdesembrood veel lager (een pH van ongeveer `4.2`) dan dat van typisch gistbrood (ongeveer `5.5`). Zonder deze lage waarde winnen ongewenste organismen van de concurrentie. Als bakker ben jij de alleenheerser die beslist hoeveel melkzuur en hoeveel azijnzuur in het brood moet terechtkomen. Deze fragiele balans perfect beheersen vereist jaren van ervaring. Typisch Duits brood bevat veel azijnzuur, terwijl men in San Francisco liever veel melkzuur heeft. 
 
-Verschillende soorten gisten en bacteriën verkiezen elk hun eigen ideale omgevingstemperatuur, vochtigheidsgraad en zuurtegraad. Dat zijn externe factoren waar een bakker mee kan spelen. Hoe warmer en vochtiger, hoe actiever de bacteriën, en hoe meer melkzuur. Hoe kouder en droger, hoe minder activiteit, maar hoe meer azijnzuur in de plaats van melkzuur wordt afgescheiden. Sommige bacteriën produceren enkel melkzuur, en sommigen melkzuur, azijnzuur, en CO~2~[^fermentatief] [@holzapfel2012genera]. In beide gevallen verandert de zuurtegraad van de omgeving, en 'verzuurt' je brooddeeg. 
+Verschillende soorten gisten en bacteriën verkiezen elk hun eigen ideale omgevingstemperatuur, vochtigheidsgraad en zuurtegraad[^figactivitysrc]. Dat zijn externe factoren waar een bakker mee kan spelen. Hoe warmer en vochtiger, hoe actiever de bacteriën, en hoe meer melkzuur. Hoe kouder en droger, hoe minder activiteit, maar hoe meer azijnzuur in de plaats van melkzuur wordt afgescheiden. Sommige bacteriën produceren enkel melkzuur, en sommigen melkzuur, azijnzuur, en CO~2~[^fermentatief] [@holzapfel2012genera]. In beide gevallen verandert de zuurtegraad van de omgeving, en 'verzuurt' je brooddeeg. 
 
 Activiteit piekt voor commerciële bakkersgist (_Saccharomyces cerevisiae_) rond de `28°C`, daarom gebruiken bakkers rijskasten ingesteld op zo'n hoge temperatuur. Voor veel melkzuurbacteriën ligt dat optimaal punt hoger, rond de `34°C`. Dominante soorten organismen verschillen drastisch voor elke vijf graden verschil.
 
@@ -95,7 +95,7 @@ Activiteit piekt voor commerciële bakkersgist (_Saccharomyces cerevisiae_) rond
 De verhoogde activiteit kan maar enkele uren op hoge temperaturen worden volgehouden, totdat het deeg onherroepelijk instort. Wil je de diepgang van zuurdesem zonder het zure, gebruik dan een jonge, natte cultuur op hogere temperatuur. Heb je graag de uitgesproken scherpte, wissel dan af met langere rijstijden in de koeling. Een zure omgeving is niet alleen goed om pathogenen te weren, maar ook om sommige gewilde melkzuurbacteriën aan te trekken, zoals _Lactobacillus sanfranciscensis_ [@de2005sourdough]. Gisten zijn minder gevoelig voor pH schommelingen.
 
 [^fermentatief]: Dit is het verschil tussen homofermentatieve en heterofermentatieve melkzuurbacteriën. Dat eerste gebeurt ook in spieren als we sneller energie nodig hebben dan het bloed zuurstof kan aanleveren. Naslagwerken over metabolische routes bevatten meer informatie. 
-[^figactivitysrc]: Deze gegevens komen uit een onderzoek naar de groei van bepaalde stammen in zuurdesem fermentatie [@ganzle1998modeling].
+[^figactivitysrc]: De gegevens van de grafiek komen uit een onderzoek naar de groei van bepaalde stammen in zuurdesem fermentatie [@ganzle1998modeling].
 
 * * *
 

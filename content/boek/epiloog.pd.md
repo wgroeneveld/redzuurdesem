@@ -56,11 +56,21 @@ En als je me nu wilt excuseren, moet ik _Meneer Bubbels_ voeren en we hebben gee
 
 ## Dankwoord
 
-Wordt geschreven na acceptatie van het manuscript.
+Hoe persoonlijk deze zoektocht ook was, het had niet kunnen gebeuren zonder de welwillende hulp van anderen. 
+
+Mijn uitdrukkelijke dank gaat uit naar alle geïnterviewden in dit boek: Peter Schoofs, Willy Herteleer, Pieter \mbox{Coopmans}, Jeroen van Vaerenbergh, Mike Ekelschot, Gert Jordens, Johan Haiverlain, Dimitry Lysens, René van der Veer, Karl De Smedt, Kristel Sniegowski. 
+Ook de twee leraren die mij motiveerden te blijven zoeken zet ik hier graag opnieuw in de verf: Ghislain Theunens en Sarah Lemke, beiden grootmeesters in hun eigen vakgebied.
+Bedankt aan alle cursisten en organisatoren van broodbakworkshops voor jullie gedeelde enthousiasme over dit onderwerp.
+
+De personen met het nodige geduld om een driehonderd pagina's tellend manuscript na te lezen en te verbeteren: \mbox{Linus} De Meyere, Luk Weyens, Ivan Thoelen. Mijn vaste _partner in crime_ aangaande broodzaken, Dimitri Meus. Wanneer zijn we nog eens weg?
+
+Mijn vader, Herman Groeneveld, om mij al dan niet bewust aan te steken, zoals zijn vader op zijn beurt de bakmicrobe doorgaaf aan hem. Ik hoop u op mijn beurt ervan te overtuigen dat alleen maar gist gebruiken saai is.
+
+Als laatste en belangrijkste, mijn vrouw, Kristien \mbox{Thoelen}, die telkens gedwee toekijkt hoe ik het hele huis bedek met een fijn bloemlaagje, en de 'stank' van de oven met een grote glimlach verduurt.
 
 ## Aanbevolen literatuur
 
-> '_Bread-baking is a hard-earned knowledge. So far, I’ve never seen a book that’s able to express it all._' - Melissa Weller
+> '_Bread-baking is a hard-earned knowledge. So far, I’ve never seen a book that’s able to express it all._' - \mbox{Melissa} Weller
 
 Bakboeken – het begint eerder een pest dan een verlossing te worden. Elke finalist van 'Bake Off' TV series, elke succesvolle professionele bakker, en zelfs beroemde chefs maken er tegenwoordig een spelletje van om jaarlijks iets op papier te zetten. Dat maakt het nog eenvoudiger om met het verkeerde boek thuis te komen. In België en omstreken wordt in de meeste boekenhandels (en bibliotheken) nog te veel plaats gereserveerd voor algemene receptenboeken vol oppervlakkige instructies om cakes, beslagen en taarten te bakken. De beperkte hoofdstukken over brood bakken zijn vaak erg gebrekkig. Gelukkig is het tegenwoordig via het Internet eenvoudiger om goede gespecialiseerde broodbakboeken te vinden.
 
@@ -79,7 +89,7 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
 
 ### Voor professionele bakkers
 
-* _Bread: A Baker’s book of Techniques and recipes_ door Jeffrey Hamelman [@hamelman2004bread].
+* _Bread: A Baker’s book of Techniques and recipes_ door \mbox{Jeffrey} Hamelman [@hamelman2004bread].
     - Een compleet compendium met focus op zuurdesem, ook al zijn er gistbrood recepten meegeleverd. Mooie opdeling tussen tarwe- en rogge gebaseerd deeg.
     - Inclusief zeer diepgaande verklaringen (biologie, chemie, temperaturen, …)
     - Zuurdesem hoeveelheden heel makkelijk te herrekenen. Recepten in Europees en Amerikaans formaat.
