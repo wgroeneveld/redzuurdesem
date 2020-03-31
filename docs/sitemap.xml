@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://redzuurdesem.be/vrienden/</loc>
+    <lastmod>2020-03-31T00:00:00+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://redzuurdesem.be/</loc>
@@ -15,6 +20,16 @@
   <url>
     <loc>https://redzuurdesem.be/post/</loc>
     <lastmod>2018-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redzuurdesem.be/categories/</loc>
+    <lastmod>2018-01-26T09:48:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redzuurdesem.be/categories/learning/</loc>
+    <lastmod>2018-01-26T09:48:27+00:00</lastmod>
   </url>
   
   <url>
@@ -34,6 +49,11 @@
   
   <url>
     <loc>https://redzuurdesem.be/12016-verrijkt-deeg-in-broodbak-machine/</loc>
+    <lastmod>2016-01-05T20:36:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redzuurdesem.be/categories/desem-doos-recepten/</loc>
     <lastmod>2016-01-05T20:36:28+00:00</lastmod>
   </url>
   
@@ -168,12 +188,27 @@
   </url>
   
   <url>
+    <loc>https://redzuurdesem.be/tags/</loc>
+    <lastmod>2014-02-24T19:16:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redzuurdesem.be/tags/wood-oven/</loc>
+    <lastmod>2014-02-24T19:16:06+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://redzuurdesem.be/tips-on-baking-with-rye/</loc>
     <lastmod>2013-11-10T19:47:19+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://redzuurdesem.be/pane-di-altamura/</loc>
+    <lastmod>2013-08-05T18:43:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redzuurdesem.be/categories/recipes/</loc>
     <lastmod>2013-08-05T18:43:42+00:00</lastmod>
   </url>
   
@@ -214,6 +249,11 @@
   
   <url>
     <loc>https://redzuurdesem.be/dreikornbrot/</loc>
+    <lastmod>2013-01-27T19:12:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redzuurdesem.be/categories/uncategorized/</loc>
     <lastmod>2013-01-27T19:12:42+00:00</lastmod>
   </url>
   
@@ -320,46 +360,6 @@
   <url>
     <loc>https://redzuurdesem.be/baking-a-miche/</loc>
     <lastmod>2012-06-21T18:19:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://redzuurdesem.be/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redzuurdesem.be/categories/desem-doos-recepten/</loc>
-    <lastmod>2016-01-05T20:36:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redzuurdesem.be/categories/learning/</loc>
-    <lastmod>2018-01-26T09:48:27+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redzuurdesem.be/categories/recipes/</loc>
-    <lastmod>2013-08-05T18:43:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redzuurdesem.be/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redzuurdesem.be/categories/uncategorized/</loc>
-    <lastmod>2013-01-27T19:12:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://redzuurdesem.be/tags/wood-oven/</loc>
-    <lastmod>2014-02-24T19:16:06+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

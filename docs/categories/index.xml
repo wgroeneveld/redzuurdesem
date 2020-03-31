@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Red Zuurdesem</title>
@@ -8,21 +8,13 @@
     <language>nl-BE</language>
     <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
     <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
+    <lastBuildDate>Fri, 26 Jan 2018 09:48:27 +0000</lastBuildDate>
     
 	<atom:link href="https://redzuurdesem.be/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Desem Doos Recepten</title>
-      <link>https://redzuurdesem.be/categories/desem-doos-recepten/</link>
-      <pubDate>Tue, 05 Jan 2016 20:36:28 +0000</pubDate>
-      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
-      <guid>https://redzuurdesem.be/categories/desem-doos-recepten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning</title>
+      <title>learning</title>
       <link>https://redzuurdesem.be/categories/learning/</link>
       <pubDate>Fri, 26 Jan 2018 09:48:27 +0000</pubDate>
       <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
@@ -31,7 +23,16 @@
     </item>
     
     <item>
-      <title>Recipes</title>
+      <title>Desem doos recepten</title>
+      <link>https://redzuurdesem.be/categories/desem-doos-recepten/</link>
+      <pubDate>Tue, 05 Jan 2016 20:36:28 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://redzuurdesem.be/categories/desem-doos-recepten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recipes</title>
       <link>https://redzuurdesem.be/categories/recipes/</link>
       <pubDate>Mon, 05 Aug 2013 18:43:42 +0000</pubDate>
       <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>

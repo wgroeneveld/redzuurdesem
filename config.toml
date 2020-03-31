@@ -33,3 +33,9 @@ identifier = "ds"
 url = "https://facebook.com/redzuurdesem"
 weight = 10
 
+[[menu.shortcuts]]
+name = "<i class='fa fa-link'></i> Broodbak Vrienden"
+identifier = "links"
+url = "/vrienden"
+weight = 11
+
