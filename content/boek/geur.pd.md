@@ -13,6 +13,8 @@ Brood bakken kan zelfs helpen om gesprekken aan te knopen op vervelende werkfees
 
 Heerlijk toch, om op vakantie in Frankrijk te worden omgeven door veel goede bakkerijen. Met 'als god in Frankrijk leven' bedoelt men toch dat god naast een zo een bakkerij woont dan? 
 
+
+
 Blijkbaar zijn niet alle bakkerijen hiervoor geschikt, kwam ik te weten tijdens onze eigen vakanties. Het hangt sterk af van regio tot regio. In meer bevolkte gebieden zijn er slechtere _baguettes_ te verkrijgen dan de lokale bakker van een klein Frans dorpje, die de stiel misschien nog geleerd heeft van zijn grootvader. 
 
 Het is ook moeilijk om te oordelen over de kwaliteit van een pas ontdekte bakkerij door er bijvoorbeeld maar één brood te kopen. En natuurlijk koop je op vakantie niet in grote kwantiteiten, want dan eindigen te veel producten jammerlijk genoeg in de vuilbak. Er zijn immers zoveel bakkerijen om te proberen, en er is zo weinig tijd. Rentenieren in Frankrijk is misschien een optie als dit boek genoeg wordt verkocht (ik heb geen hoge verwachtingen). Tot dan zal het argument 'te weinig tijd' blijven staan. 
@@ -80,8 +82,8 @@ Dat is nog steeds best moeilijk. Whiskey kenners zullen zeker enkele smaakprofie
 
 Dat is hoofdzakelijk toe te schrijven aan twee chemische reacties tijdens het bakproces: de _Maillard_ reactie en karamelisatie. De binnenkant van het brood komt niet in aanraking met een directe hittebron. Deze reacties zijn het meest uitgesproken waarneembaar in _kleur_ (bruin), _geur_ (geroosterd) en _smaak_ (umami). De keuze van het meeltype is de belangrijkste beïnvloeder van deze reacties [@capuano2009effect].
 
-\index{Aminozuur}
-\index{Maillard reactie}
+
+
 
 De Franse Academie voor Geneeskunde prijs werd in 1914 uitgereikt aan professor Louis Camille Maillard. Ik neem aan dat de professor als echte Fransman verzot was op _pain grillé_. In plaats van zoals iedereen gewoon de toast te beboteren en binnen te werken, vroeg hij zich af waarom die toast eigenlijk lekkerder is in zijn gebruinde vorm. Hij ontdekte dat de bruine pigmenten in voedsel worden gevormd door de interactie van aminozuren met suikers. Deze chemische reactie noemt men dankzij deze man de _Maillard reactie_. 
 
@@ -126,7 +128,7 @@ Sommige onderzoeken combineren geur en smaak in één categorie, waar de volgend
 
 Die groepering is niet meer dan logisch als je weet dat de zintuigen van geur en smaak dezelfde soorten receptoren gebruiken. Maar is iedereen het er wel over eens naar wat gesneden broodgeur precies moet ruiken? Of hoe vers brood precies smaakt? Het woord _typisch_ in de omschrijving helpt niet echt.
 
-\index{Aminozuur}
+
 
 Ook de smaak van vers brood zal sterk variëren afhankelijk van het gekozen rijsmiddel. Zuurdesembrood smaakt véél _sterker_ dan een typisch gistbrood. Om te ontdekken hoe dit in zijn werk gaat moeten we onze laboratoriumjas terug aantrekken, deze keer als biochemicus. De intensiteit van onze smaakwaarneming wordt beïnvloed door verschillende factoren, waaronder de hoeveelheid zout. De grootste factor echter is de aanwezigheid van _glutamaat_. 
 
@@ -138,21 +140,26 @@ Een jaar later isoleerde hij een aminozuur uit het zeewier dat verantwoordelijk 
 
 [^zuur]: 'Glutamaat' en 'glutaminezuur' worden hier gebruikt als synoniemen. Ons lichaam maakt ook glutamaat aan. Het is een van de belangrijkste neurotransmitters van ons zenuwstelsel. In sommige artikels wordt met 'glutamaat' de zouten van glutaminezuur bedoeld (MSG). 
 
-\index{Ve-tsin}
+
 
 Umami wordt in het Engels vaak samen gebruikt met '_savory_', wat kan worden vertaald als _hartig_, _smakelijk_, _sterk_, _guerig_, _pikant_ en _aangenaam_. In klassiek gegist brood komen vrije aminozuren, waaronder glutamaat, veel minder uitgesproken aan bod dan in brood gefermenteerd met bepaalde melkzuurbacteriën [@zhao2015effect;@gobbetti2012handbook]. Kristien eet niet graag zuurdesembrood omdat het te 'sterk' smaakt. Glutamaat, melkzuur en azijnzuur zijn hier de 'boosdoeners'. 
 
 Lang gerijpte olijven, zeewier, harde kaas, tomaten, groene thee, sojasaus en gezouten vlees zijn typische producten waar veel umami in zit. Dat is niet toevallig een lijst met hoofdzakelijk gefermenteerd voedsel. 
 
-Umami is ook vaak te vinden in verwerkt voedsel in de vorm van toegevoegd _mononatriumglutamaat_ ('MSG' of _MonoSodium Glutamate_). In Aziatische winkels is dit verkrijgbaar als '_ve-tsin (味精)_', '_gourmet powder_', of onder de Japanse naam '_ajinomoto (味の素)_'. Dit is een smaakversterker dat onder E-nummer `621` valt. Nummer `620` is glutamaat zelf[^nrs]. Het verschil zit hem in de vorm: MSG is de gekristalliseerde zoutvorm van glutaminezuur. Een chemische reactie tussen zuur en een base neutraliseert het zuur en laat een nieuwe substantie achter: zout.
+
+
+Umami is ook vaak te vinden in verwerkt voedsel in de vorm van toegevoegd _mononatriumglutamaat_ ('MSG' of _MonoSodium Glutamate_). In Aziatische winkels is dit verkrijgbaar als '_ve-tsin (味精)_', '_gourmet powder_', of onder de Japanse naam '_ajinomoto (味の素)_'[^aji]. Dit is een smaakversterker dat onder E-nummer `621` valt. Nummer `620` is glutamaat zelf[^nrs]. Het verschil zit hem in de vorm: MSG is de gekristalliseerde zoutvorm van glutaminezuur. Een chemische reactie tussen zuur en een base neutraliseert het zuur en laat een nieuwe substantie achter: zout.
 
 [^nrs]: De lijst met E-nummers bevat smaakversterkers tussen nummer `620` en `650`.
+[^aji]: Ajinomoto, vertaald als _essentie van smaak_, is tevens een groot Japans bedrijf dat onder andere MSG en aspartaan produceert.
 
 De omstreden gewoonte om MSG toe te voegen in verwerkt voedsel zorgde zelfs voor het ontstaan van het 'Chinees restaurant syndroom'. In typisch Chinees voedsel zitten veel smaakversterkers, dat zogezegd symptomen als hevige hoofdpijn en verteringsproblemen kan opleveren. Hier is al erg veel literatuur over gepubliceerd. Een sluitend bewijs dat MSG de enige katalysator van de klachten zou zijn blijft tot nu toe uit [@kerr1977objectivity]. Het syndroom is ook nogal racistisch ingesteld: Westers verwerkt voedsel bevat minstens even veel additieven. 
 
 Irrationaliteit komt helaas vaak de kop op steken als het gaat om dergelijke gevoelige publieke debatten. Er is helemaal niets mis met glutamaat op zich. Het wordt zelfs vaak gebruikt om het zoutgehalte in klaargemaakt voedsel te verminderen, zonder de smaakbeleving te wijzigen. Maar dan spreken we over de industrie. Het lijkt me op kleinere schaal altijd beter om de umami smaak op een natuurlijke manier te kweken, bijvoorbeeld met behulp van zuurdesem, in plaats van het toe te voegen in de vorm van een E-nummer. 
 
 * * *
+
+
 
 Welke rol speelt zout zoals wij het kennen eigenlijk in dit verhaal? Meer zout is meer smaak, maar meer glutamaat is ook meer smaak. Zhao's team ondervond dat de productie van genoeg glutamaat ons in staat stelt om het zoutgehalte van brood te verminderen zonder te veel smaak te verliezen. Dat betekent toch dat er een fragiele balans is tussen smaakvol en smaakloos, en dat die balans sterk kan worden beïnvloed door zout. Karl vertelde me dat ook Puratos inzet op minder zout met behulp van zuurdesem, en reeds met succes.
 
@@ -173,6 +180,8 @@ Vergeet niet dat zout weglaten niet alleen een impact heeft op smaak, maar ook o
 Er is een groot verschil tussen 'keukenzout' en 'zeezout'. Keukenzout is énkel geraffineerde NaCl[^geraffineerd] (met toegevoegde antiklontermiddelen), terwijl zout gewonnen uit de zee ook nog andere natuurlijke mineralen bevat. Andere zouten zijn synthetisch geproduceerd door middel van een neutralisatie-reactie van zuren, zoals MSG. 
 
 Zeezout wordt op verschillende manieren ontgonnen. Goedkope zeezout is een machinaal geoogst, gekristalliseerd product. _Fleur de sel_ is wat er van de zee overblijft op de oppervlakte nadat de zon en wind hun werk hebben gedaan. 
+
+
 
 Het verschil tussen verschillende soorten zout is niet alleen de prijs, maar ook de vochtigheid en kleur. Gewonnen grof zeezout zoals het Franse _Sel gris_[^gris] is, zoals de naam aangeeft, grijs van kleur. Dat is ongewassen, gedeeltelijk gedroogd en ongeraffineerd. 
 

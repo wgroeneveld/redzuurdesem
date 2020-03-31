@@ -31,7 +31,6 @@ Het probleem met deze methode is een gebrek aan consistentie. Ik bak vaak pizza 
 
 Consistentie is geen primair doel in mijn eigen keuken: ik baat immers geen pizzeria uit. Exact dezelfde smaak opnieuw tevoorschijn toveren lukt alleen maar met exact dezelfde condities.  
 
-\index{Narijs}
 
 Het bakproces bestaat uit een aantal stappen waarvan er maar twee nooit kunnen worden weggelaten: _mengen_ en _bakken_. Soda kan het rijzen vervangen, genoeg gist kan een tweede rijs of voordeeg vervangen en met het uitstorten van deeg in een bakvorm sla je het vormgeven over. 
 
@@ -52,13 +51,11 @@ De Nederlandstalige terminologie om elke stap in het proces te identificeren kli
 
 Table: De terminologie van het bakproces. \label{terms}
 
-\index{Double Hydration}
 
 De voor de hand liggende stappen zoals het afwegen en de het voorverwarmen van de oven heb ik weggelaten. Als je met érg nat deeg werkt, kan je vóór het kneden een tweede keer water toevoegen. Dat noemt men '_double hydration_': het deeg krijgt zowel bij de autolyse stap als bij het kneden de kans om water op te nemen. 
 
 Het deeg laten rusten tussen vormgeving stappen 6 en 8 dient enkel om de gluten voldoende te laten ontspannen, om het daarna makkelijker terug op te spannen. In de praktijk sla ik die stap vaak over. Bij Syntra sprak men ook nog van een '_voorrijs_', dat gek genoeg niets te maken heeft met een voordeeg, maar met het laten rijzen van het deeg in de mengkuip van de kneedmachine voordat het in grote stukken op het werkoppervlak werd verdeeld als voorbereiding op de bulkrijs. Een professionele bakker kan zich de langdurige bezetting van een machine meestal niet veroorloven. 
 
-\index{Baker's Percentage}
 
 \begin{figure}
     \mbox{} \par
@@ -142,8 +139,6 @@ Laat je niet afschrikken door de grote hoeveelheid water aanwezig in deze formul
 
 Meestal durf ik tot `75%` hydratatie te gaan, afhankelijk van mijn gemoedstoestand. In dat geval is extra elasticiteit opbouwen met vouwen een vereiste. Als je niet gewend bent om te werken met nat deeg, bouw dit waterpercentage dan geleidelijk op, startend met een veilige `65%`. De meeste Belgische en Nederlandse bakkerijen, inclusief Natuurbakkerij Schoofs & Herteleer uit hoofdstuk \ref{vergeten}, werken met een vaster deeg van `55` tot `60%` water.
 
-\index{Pizza}
-\index{Focaccia}
 
 Dimitri gebruikt graag volkoren tarwe in de plaats van rogge in zijn befaamd olijvenbrood. De umami smaak van `15%` toegevoegde olijven passen erg goed bij dit tarwebrood. Omdat olijven meestal ingelegd zijn in zout is het aan te raden om minder in het deeg te gebruiken. Gebruik in ieder geval nooit in azijn ingelegde olijven die de smaak van het brood verpesten. 
 
@@ -204,10 +199,6 @@ Ik kneed thuis alles met de hand, zelfs als ik deeg van `7 kg` moet verwerken. D
 
 Als je het gevoel hebt dat het deeg te slap is, kan je het deeg meerdere keren tussen de eerste rijs over elkaar vouwen om extra kracht toe te voegen. Deze actie maakt gebruik van de uitrekbaarheid van gluten om meer elasticiteit op te bouwen. Voor roggedeeg heeft vouwen wegens gebrek aan voldoende glutenine weinig zin. 
 
-\index{Fytinezuur}
-\index{Soaker}
-\index{Weken}
-\index{Pentose}
 
 Bij een vrouwendeeg als rogge is minder flexibiliteit mogelijk. Hiermee durf ik niet te beweren dat vrouwen minder tolereren dan mannen, maar dat de onstabiliteit van de pentosen en het gebrek aan elasticiteit minder toelaat. 
 
@@ -341,8 +332,6 @@ Er bestaat nog veel verwarring rond het doel van kneden, hoe lang er nu precies 
 
 Als je maar belooft het deeg nooit plat te slaan. Waarom die geliefde, moeizaam opgebouwde gassen er zo brutaal terug uit kloppen? 
 
-\index{Probiotica}
-\index{Prebiotica}
 
 Als laatste nog iets over de bejubelde gezondheidsfactor van zuurdesembrood. Zoals besproken in deel II klopt het dat een sneetje zuurdesembrood minder suiker bevat dan een gemiddeld sneetje gistbrood. Wat echter niet klopt is dat dit sneetje gezonder brood dankzij micro-organismen ook probiotisch zou werken. Om dat te kunnen doen moeten levende organismen terecht komen in de darmen. Geen enkele gist of bacterie overleeft echter een hete oven van `250°C`. 
 

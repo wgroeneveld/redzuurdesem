@@ -15,7 +15,7 @@ Het onderhouden van een zuurdesemcultuur vereist regelmatige opkweekfases waarin
 
 #### Om zoetigheid te bakken
 
-\index{Pannenkoeken}
+
 
 In plaats van het overschot weg te gooien, kan je het ook gekoeld bijhouden totdat de tijd rijp is om pannenkoeken of wafels te bakken. Het teveel aan zuurdesem fungeert dan als smaakmaker en zal ongetwijfeld zuurder zijn dan een actieve cultuur die nog niet voorbij het kantelpunt van de groeicurve uit hoofdstuk \ref{microbio} is geraakt. 
 
@@ -23,9 +23,9 @@ Zuurdesem in zoetigheid zoals pannenkoeken is erg lekker gegeven dat het niet t�
 
 Ik bak pannenkoeken meestal op dezelfde dag dat ik het beslag klaarmaark. Ik gebruik als basis verhouding altijd `100 gr` bloem op `1` ei en `250 gr` melk, dus `250%` hydratatie. In feite is dat nog meer want een gemiddeld ei bevat `55 gr` aan vocht. `200 gr` bloem levert ongeveer 14 koeken op. 
 
-\index{Wafels}
-\index{Wafels!Luikse wafels}
-\index{Wafels!Brusselse wafels}
+
+
+
 
 Als je buiten smaak ook goede rijskracht nodig hebt is het aangeraden om ofwel gist toe te voegen, ofwel toch wat meer te plannen door een dag op voorhand een deel van de bloem te fermenteren. Brusselse wafels zijn perfect om met zuurdesem te bakken. Het loperig beslag is ideaal om als poolish langer te laten rijzen. Ik voeg de eieren pas daarna toe, maar het is ook mogelijk om die mee te laten fermenteren. In dat geval verandert de structuur en de uitzettingskracht van het rauwe ei. 
 
@@ -57,8 +57,9 @@ Methode:
 
 Het is uitzonderlijk dat alles van de bloem in het voordeeg verdwijnt. Op die manier versimpel ik mijn methode en is het alleen nog maar een kwestie van eieren, boter en zout in het beslag te kieperen terwijl het wafelijzer opwarmt. Vanille, citrusrasp, of kaneel zijn hier ook lekker bij. Het beslag zelf is érg vochtig en loperiger dan de gemiddelde poolish, maar minder loperig dan de pannenkoeken die `50%` meer vocht bevatten. Bespaar niet op de bloem want goedkope patentbloem neemt veel minder vocht op dan `T65`. De melk kan gedeeltelijk of volledig worden vervangen door water (of rijst-, kokos-, haver- of amandelmelk).
 
-\index{Cake:Panettone}
-\index{Lactobacillus!sanfranciscensis}
+
+
+
 
 Ook cake bakken met overschot van zuurdesem is een geweldige manier om complexiteit aan de typische botersmaak toe te voegen. Een chocoladecake met zuurdesem is de moeite waard, ook al klinkt het niet alsof beide smaken samen zouden passen. Probeer de volgende keer eens de helft van de bloem een nacht op voorhand te fermenteren. Er zijn veel recepten te vinden die alles of een gedeelte van de bloem fermenteren, of enkel overschot toevoegen zonder de extra rijstijd. 
 
@@ -70,7 +71,7 @@ Zuurdesem in de chocoladecake fungeert als een smaakversterker, niet als primair
 
 #### Als beter verteerbare pasta
 
-\index{Pasta (fermenteren)}
+
 
 We ontdekten in hoofdstuk \ref{microbio} dat het gebruik van zuurdesem niet alleen smaak toevoegt, maar ook voedsel beter verteerbaar, en dus misschien zelfs wel gezonder, maakt. Onderzoek heeft aangetoond dat mensen die gluten moeilijk verteren dit plots wel beter konden in de aanwezigheid van verschillende soorten bacteriën en gisten [@poutanen2009sourdough].
 
@@ -82,9 +83,9 @@ Recent onderzoek geeft aan dat dit principe ook op industriële schaal voordelen
 
 #### Als beter verteerbare ontbijtgranen
 
-\index{Porridge}
-\index{Ontbijtgranen}
-\index{Havermout}
+
+
+
 
 Om een écht goede _porridge_ te kunnen maken heb je geen Brits paspoort nodig, maar wel tijd. Tijd die  wordt besteed door de hele havervlokken een nacht te weken, en door langzaam roerend te koken. Weken verzacht niet alleen de granen, maar breekt ook een deel van het fytinezuur af door enzymatische activiteit dankzij de aanraking met water. 
 
@@ -105,13 +106,13 @@ De term 'havermout' of _oatmeal_ is een algemene benaming die als slogan voor ge
 
 #### Als kickstart voor andere fermentaties
 
-\index{Miso}
+
 
 Overschot aan zuurdesem bevat nog steeds een groot aantal actieve micro-organismen die heel goed inzetbaar zijn in een volgend fermentatie-projectje. _Aka miso_, de donkere miso die minstens een jaar moet rijpen, wordt vaak geïnoculeerd met een beetje ongepasteuriseerde miso van een vorige batch. Dat is niet vereist, maar wel aangeraden, omdat de minuscule beestjes van de vorige miso er voor zorgen dat de volgende miso sneller de juiste zuurtegraad bereikt die ongewenste schimmels op afstand moet houden.
 
 Ik maak mijn yoghurt zelf door een eetlepel of twee van de vorige keer in melk op te lossen. Als dat niet voorhanden is, is een potje gekochte (natuur-)yoghurt ook goed, zolang er maar 'actieve' bestanddelen in zitten[^actievebest]. De volgende keer dat je zuurkool, miso, kimchi of andere ingelegde groenten wilt maken, kickstart dan het fermentatieproces met een beetje desem dat anders toch wordt weggegooid. 
 
-\index{Probiotica}
+
 
 Dit principe geldt ook omgekeerd. Als je geen zin hebt om een zuurdesemcultuur vanaf nul op te kweken, gebruik dan gewoon een beetje levende organismen van een andere cultuur, zoals bovenstaande miso[^misoadd], yoghurt, kefir of zuurkoolvocht. Meng dit met bloem en water, en na 12 uur fermenteren op kamertemperatuur is het toegestaan om '_It's alive!_' te roepen, vergezeld met een gepast dansje.
 
@@ -141,7 +142,7 @@ Volgens diezelfde bronnen zou zuurdesem ook worden gebruikt om lijm te maken, ma
 
 #### Gedroogd als smaakversterker
 
-\index{Pizza}
+
 
 Deze manier om gedroogde desem als smaakversterker te gebruiken heb ik via Karl De Smedt van Puratos leren kennen. Hij noemt het '_fleur de levain_'. In plaats van het zoute _fleur de sel_ kan ook dit zure poeder propvol umami worden gebruikt om gerechten af te werken[^fleurlevain]. 
 
@@ -193,10 +194,10 @@ Ik weet alleen niet of ik nog eens `£20` verzendkosten zou willen betalen om mi
 
 #### Om drank mee te brouwen
 
-\index{Kvass}
+
 \label{kvass}
 
-De intieme relatie tussen brood en bier is al gedeeltelijk besproken in hoofdstuk \ref{boer}. Er is echter één soort gefermenteerde drank die voornamelijk bestaat uit oud brood en dat is _kvass_, een oeroude biersoort die zoals kefir en kombucha maar `0.5` tot `1%` alcohol bevat. Ik kwam dit voor het eerste tegen in '_The Art of Fermentation_' [@katz]. De koolhydraten in oud brood worden gedurende een nacht losgeweekt om verder te fermenteren met behulp van een beetje zuurdesem. Het geweekte, uitgewrongen brood is erg geliefd bij onze kippen. Deze drank is afkomstig van Oost Europa en bevat daarom voornamelijk donker roggebrood. De meeste recepten die ik vond bevatten extra suiker om de gisten onmiddellijk een grote boost te geven, maar ik denk niet dat dit echt nodig is. Hoe meer suiker (en gist), hoe heviger de fermentatie en hoe hoger het alcohol percentage. Ik heb toch suiker toegevoegd om het niet overdreven zuur en langer houdbaar te maken. 
+De intieme relatie tussen brood en bier is al gedeeltelijk besproken in hoofdstuk \ref{boer}. Er is echter één soort gefermenteerde drank die voornamelijk bestaat uit oud brood en dat is _kvass_, een oeroude biersoort die zoals kefir en kombucha maar `0.5` tot `1%` alcohol bevat. Ik kwam dit voor het eerste tegen in '_The Art of Fermentation_' [@katz]. De koolhydraten in oud brood worden gedurende een nacht losgeweekt om verder te fermenteren met behulp van een beetje zuurdesem. Het geweekte, uitgewrongen brood is erg geliefd bij onze kippen. Deze drank is afkomstig uit Oost Europa en bevat daarom voornamelijk donker roggebrood. De meeste recepten die ik vond bevatten extra suiker om de gisten onmiddellijk een grote boost te geven, maar ik denk niet dat dit echt nodig is. Hoe meer suiker (en gist), hoe heviger de fermentatie en hoe hoger het alcohol percentage. Ik heb toch suiker toegevoegd om het niet overdreven zuur en langer houdbaar te maken. 
 
 \begin{figure}
     \centering
@@ -207,6 +208,8 @@ De intieme relatie tussen brood en bier is al gedeeltelijk besproken in hoofdstu
 Het brood op voorhand roosteren is sterk aangeraden. In dit geval hebben we wel zoveel mogelijk 'korst' nodig dat de donkere, intense smaak afgeeft aan het water. Sommige brouwers laten het geweekte brood mee fermenteren en zeven pas op het allerlaatste, terwijl anderen dit zoals ik zeven na een nacht weken in kokend water. Populaire additieven zijn munt, citroensap en (gedroogde) vruchten. Met commerciële gist zou kvass gemakkelijk meer dan `5%` alcohol kunnen produceren. 
 
 Mijn ervaring met kvass maken leerde me die smaakmakers een nacht mee te laten weken met het heet water, anders loop je de kans om een slappe infusie te brouwen. Overschotjes gember toevoegen is ook erg lekker. 
+
+
 
 Een Belgische abdijbier giststam, die ik kocht in Brouwland na mijn gesprek met Gert van brouwerij Jessenhofke, zorgde een tweede keer voor het nodige schuim, dat ik zelfs na een week op fles fermenteren niet voor mekaar kreeg met enkel zuurdesem. Misschien is een tweede gisting op fles nodig. Er was zeker voldoende druk op aangezien de glazen fles altijd opent met een luide knal. 
 

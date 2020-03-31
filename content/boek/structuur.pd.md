@@ -17,8 +17,6 @@
 
 'Ik zal niet kijken!'
 
-\index{Poilâne}
-\index{Miche}
 
 Voordat iemand de verkeerde conclusie trekt: we bevinden ons in het hartje van Parijs, in één van de legendarische Poilâne bakkerijen. Dimitri, Tom en ik schuimden dat weekend alle bakkerijen in kleine en grote straten af, op zoek naar geweldig uitziend en smakend brood (en croissants, en vooral ook aardbeienbavarois). 
 
@@ -44,8 +42,6 @@ In de praktijk heeft dat natuurlijk te maken met de ingrediënten en de vorm. Me
 
 Om te begrijpen hoe brood zijn vorm behoudt blijven we nog even in Frankrijk. 
 
-\index{Calvel, Raymond}
-\index{Autolyse}
 
 * * *
 
@@ -57,19 +53,10 @@ Het totale eiwitgehalte van bloem is niet de enige indicator om volume van brood
 
 Na decennia gekibbel zijn wetenschappers het nog steeds niet eens wat de juiste verhouding tussen glutenine en gliadine zou moeten zijn om hét perfecte brood uit de oven te toveren. Wat wel zeker is, is dat zout inspeelt op de ionische bindingen van deze twee eiwitten, en dus een grote invloed heeft op de kracht van het deeg [@gobbetti2012handbook]. 
 
-\index{Gluten}
-\index{Gluten!Glutenine}
-\index{Gluten!Gliadine}
 
 Deze eiwitten haken zich vast aan elkaar zodat lucht wordt gevangen en brood kan rijzen. Dit vasthaken is echter ook een vervelend probleem omdat die vaste glutenstructuur het kneden en vormen bemoeilijkt. De enzymen die we leerden kennen in hoofdstuk \ref{microbio} spelen hier een grote rol. Amylase is niet het enige belangrijke enzym dat in bloem zit. Voor de structuur van het deeg zijn de volgende enzymen belangrijk:
 
 \label{enzym}
-\index{Enzymen}
-\index{Enzymen!Protease}
-\index{Enzymen!Lipase}
-\index{Enzymen!Xylanase}
-\index{Enzymen!Glucose-oxidase}
-\index{Hydrolyse}
 
 * _Protease_. Dit enzym breekt aminozuren tussen eiwitten af. Dat klinkt niet goed, aangezien de zorgvuldig opgebouwde gluten structuur juist nodig is om brood te doen rijzen. gelukkig zijn deze jongens vrij bescheiden in hun werk. Ze maken het voor de bakker nogelijk om deeg comfortabel te kunnen verwerken. 
 * _Glucose-oxidase_. Maakt door een oxidatiereactie met de gluten het deeg krachtiger en elastischer. 
@@ -78,7 +65,6 @@ Deze eiwitten haken zich vast aan elkaar zodat lucht wordt gevangen en brood kan
 
 [^hydro]: Dit proces noemt men _hydrolyse_, de splitsing van een chemische verbinding onder opname van water. Hydrolyse werkt als het omgekeerde van condensatie, de vrijgave van water. 
 
-\index{Pentose}
 
 De autolyse fase zorgt er door de activiteit van protease voor dat het deeg werkbaar blijft. Deze fase is niets meer dan een rustfase voordat gist, desem en zout worden toegevoegd aan het deeg. Bloem en water worden heel kort gemengd, totdat er geen droge bloem meer zichtbaar is. De kneedmachine wordt stilgelegd om de bloem tijd te geven het water op te nemen. Bevochtigd bloem betekent de start van glutenvorming, maar ook de activatie van protease die deze gluten enigszins verzacht. 
 
@@ -93,9 +79,6 @@ _No-knead bread_ is een erg populaire zoekterm in Google. Goede recepten zullen 
 
 Een laag of hoog eiwitgehalte is dus niet het grootste verschil tussen een plat of een mooi gerezen brood. In Frankrijk wordt veel brood met een laag eiwitgehalte gebakken. Tarwe met minder dan `10%` eiwit wordt aanschouwd als _zachte_, of _zwakke_ tarwe. _Harde_ tarwe bevat meer eiwitten. Ook de oogsttijd beïnvloedt het eiwitgehalte. Tarwe geplant in het najaar en geoogst na de lente noemt men (zachte of harde) _wintertarwe_. Tarwe geplant in het voorjaar en geoogst in datzelfde najaar noemt men (zachte of harde) _lentetarwe_. Harde lentetarwe heeft een eiwitgehalte van `10` tot `12%`. Voor harde wintertarwe is dit `12` tot `14%`. Werken met zachte tarwe voelt zelfs voor een leek heel anders aan dan werken met harde tarwe. 
 
-\index{Pizza}
-\index{Tipo 00}
-\index{Zeeuwse bloem}
 
 Zachte of harde tarwe heeft niets te maken met de gekende Italiaanse '`00`' bloem! _Tipo `00`_ is een aanduiding voor uitmalingsgraad, zoals de Franse `T65`. Deze fijnste maalgraad in Italië heeft de consistentie van talkpoeder. In Nederland is deze bloem verkrijgbaar onder de naam 'Zeeuwse bloem'. `00` bloem is beschikbaar in verschillende eiwitgehaltes en dient vaak eerder voor pasta of pizza dan voor brood. De methode voor pizzadeeg is inderdaad exact hetzelfde als voor brooddeeg, maar met deze bloem heb je veel minder water nodig. Na het zeven blijft er enkel nog een deel van het kiemwit van de tarwe bes over. De uitgezeefde (restjes van) zemelen helpen om vocht te absorberen. De hoofdredenen om `00` bloem te gebruiken in pizzadeeg is het verminderen van de taaiheid van de korst, en de uitrekbaarheid tot de limiet kunnen drijven. De elasticiteit van brooddeeg zit soms in de weg bij het maken van een goede pizza dat ik oplos met voldoende rusttijd. 
 
@@ -114,26 +97,20 @@ Het is duidelijk dat Frankrijk en Duitsland veel informatiever zijn op gebied va
 
 [^bio]: [https://www.labelinfo.be/label/biologische-landbouw-eu-biolabel](https://www.labelinfo.be/label/biologische-landbouw-eu-biolabel)
 
-\index{Gluten!Gliadine}
-\index{Roggemeel}
 \label{rogge}
 
 * * *
 
 Hoe zit dat dan met de precieze inhoud van rogge? Iedereen die al ooit roggebrood met de hand gekneed heeft weet dat dit kleverig goedje opmerkelijk verschilt met een typisch tarwedeeg. Om te beginnen beschikt rogge maar over één van de twee gluteneiwitten: gliadine. Geen elasticiteit dus, en dat zorgt automatisch voor een veel dichter kruim. Dankzij de gliadine is er nog wel iets van de gascellen aanwezig in de oven die het brood doen rijzen, maar niet veel. In de praktijk wordt roggebrood altijd gemengd met tarwebloem om dit gemis te kunnen compenseren. Een brood met `100%` roggemeel zal altijd een baksteen zijn.
 
-\index{Pentose}
 
 Roggebloem bevat veel pentosen (`4` tot `7%`), een soort koolhydraat dat minder prominent aanwezig is bij tarwe. De gekende kleverigheid van het deeg is te danken aan deze pentose, een vochtabsorberend goedje dat roggedeeg toch nog wat rijskracht geeft. Het zorgt voor de nodige ondersteuning in afwezigheid van een sterke glutenstructuur. Rogge wordt dankzij die plakkerigheid ook gebruikt in de lijm-, match- en kunststofindustrie [@kent1994kent][^kleverig]. 
 
 Zetmeel is veel belangrijker in roggebloem dan in tarwebloem. Roggebloem neemt veel meer water op dan tarwe door het hoger volume van aanwezige zetmelen en pentosen. Omdat het eiwitgehalte van rogge minder relevant is dan bij tarwe, worden er niet zo'n grote indelingen gemaakt voor dit graan. 
 
-\index{Sacharide!Polysacharide}
-\index{Polysacharide}
 
 [^kleverig]: Als je weet dat kleverige polysacharides zorgen voor een betere wateropname, wat doe je dan als slimme bakker? Dit gebruiken als additief natuurlijk! Dat is zelfs een aparte categorie in de lijst met E-nummers, onder '_Emulgatoren, stabilisatoren, verdikkingsmiddelen en geleermiddelen_'. Guar-, Xanthaan- en taragom, lecithine, pectine, cellulose, ... 
 
-\index{Amylase}
 
 Alle degen met meer dan de helft roggemeel moeten worden aangezuurd omdat zure omstandigheden de zwelkracht van de pentosanen verbeteren. Dit kan met zuurdesem, maar ook met toegevoegd azijn. Onder de juiste omstandigheden wordt pentose door de organismen in zuurdesem omgezet in azijnzuur, waardoor brood met veel rogge van nature zuurder smaakt dan tarwebrood. 
 
@@ -143,8 +120,6 @@ De vereiste aciditeit heeft als tweede belangrijke reden dat amylase minder acti
 
 Uniformiteit van de structuur van het kruim is voor fans van chocopasta een belangrijke eigenschap van brood. Een sneetje met _choco_, wie houdt daar nu niet van? Mensen die op zoek zijn naar rustiek brood met een mooie, open kruim. Grote gaten zijn niets dat een plakje kaas niet weggewerkt krijgt. Daar dan ook nog eens chocopasta op smeren lijkt mij een brug te ver. Een open kruim verkrijg je onder andere door veel water te gebruiken, en niet te veel te kneden. Een verdeelde, dichte kruim verkrijg je door een intensieve kneedmethode. Het kruim wordt nog zachter gemaakt door toevoeging van boter en melk. Denk maar aan het melkbrood en de sandwiches van hoofdstuk \ref{leerschool}. 
 
-\index{Kaliumbromaat}
-\index{Ascorbinezuur}
 \label{vitc}
 
 Een modernere manier om een mooie rijs en even kruim te bereiken is door opnieuw terug te grijpen naar verbeteraars. Enzymen zijn in hoofdstuk \ref{microbio} reeds aan bod gekomen. Nog een vaak gebruikte techniek om zwakke bloem op te krikken en de structuur en het volume van brood te verbeteren, de toevoeging van vitamine C. Als dat niet gezond is, dan weet ik het ook niet meer... 
@@ -167,14 +142,13 @@ Een populaire versie van brood gemaakt met de _yudane_ methode is '_Hokkaido_'  
 
 Het sponzige Amerikaanse 'Wonder Bread' (en andere industriële verwanten) komt ook uit een bakblik. Oven ruimte moet worden gemaximaliseerd. Een bakblik zorgt er niet alleen voor dat het brood zijn structuur behoudt door naar boven te rijzen in plaats van opzij, maar ook dat ze makkelijker naast elkaar te plaatsen zijn in de oven. In fabrieken rollen voornamelijk deze broodvormen van de band. 
 
-\index{Preshaping}
-\index{Voorvormen}
 
 Het is eigenlijk heel simpel. Brood is ofwel rond (zoals een _boule_), ofwel lang (zoals een _bâtard_). Alle andere vormen zijn hier afgeleiden van. Dit heeft te maken met de vormtechniek van brood. Het opbollen van deeg gebeurt met maar één snelle fysieke handeling. Deeg wordt gewogen, verdeeld, opgebold en in bakvormen gezet, klaar voor de tweede rijs. 
 
 Als je die bakvormen uit de vergelijking haalt kom je in de problemen. De vorm garandeert een volumineus brood: het kan immers geen andere kant op. Op steen gebakken brood wordt rechtstreeks op de hete steen geplaatst, zonder dat metaal, glas of silicone een tussenlaag vormt. Te slap deeg heeft dan nog een kans om verticaal uit te dijnen, voordat de hitte het de lucht in jaagt. Om dat te vermijden voeren we een tussenstap in: voorvormen of _preshaping_. Deeg wordt gewogen, verdeeld, en rond gemaakt. In die ronde vorm rust het deeg totdat de gluten ontspannen genoeg zijn om opnieuw te worden gevormd. De tweede vorm is de échte vorm. Ondertussen is het rond bolletje terug een beetje uitgezakt. Een tweede keer aanspannen is dus zeker geen overbodige luxe. 
 
 Om puristen niet boos te maken moet ik er bij zeggen dat een _bâtard_ niet zomaar lang is, maar puntige randen heeft. In essentie is het een kleine dikke _baguette_. In de praktijk houdt elke bakker er zijn eigen vormingstechniek op na die altijd uit gaan van de twee basisvormen. De een rolt het deeg simpelweg op, de ander vouwt het op zoals een brief. 
+
 
 Types van brood volgen vaak trends. De lange vorm van baguettes zijn bijvoorbeeld een vrij recente verschijning, ontstaan gedurende het einde van de achttiende eeuw. Er zijn veel betere handleidingen beschikbaar om vormingsmethodes toe te lichten dan dat ik dat hier zou kunnen doen. Sommige technieken zijn handiger bij tarwebrood, andere bij rogge. 
 
@@ -184,13 +158,13 @@ Het opbouwen van oppervlaktespanning is het belangrijkste doel van opbollen. Hoe
 
 Spanning opbouwen is belangrijk, maar niet voor iedereen - en ook niet voor elk type brood. De elasticiteit (en in mindere mate uitrekbaarheid) van gluten worden hier gebruikt om de buitenkant van het deeg op te rekken. Door de uitrekbaarheid is dit mogelijk zonder te scheuren. Door de elasticiteit blijft de spanning constant waardoor het deeg tijdens de tweede rijs naar boven rijst in plaats van opzij. Hoe beter tarwebrood is opgespannen, hoe mooier het omhoog komt in de oven.
 
+
 Bij rogge ontbreekt glutenine, de belangrijkste groep van eiwitten om deze spanning op te zetten. Uit onderzoek is zelfs gebleken dat gliadine op gebied van oppervlaktespanning een negatieve factor kan zijn [@li2004surface]. Dat is erg voelbaar bij brood met meer dan `30%` rogge. Vormgeven is in dat geval meer een kwestie van het deeg in een rijsmandje te dumpen in de plaats van het mooi op te vouwen. 
 
 [^amis]: De naam heeft volgens hun website zelfs een copyright. [https://dupainetdesidees.com/en/produits.html](https://dupainetdesidees.com/en/produits.html)
 
 * * *
 
-\index{Oven spring}
 
 Hitte in contact met gerezen deeg start een aantal fysische, chemische en biologische reacties. Voordat het deeg verkorst en wordt omgezet in brood is het zaak om een laatste keer te rijzen, en liefst naar boven. Zorgvuldig opgebouwde micro-organismen sterven uit met een knal. Op dat moment bepaalt oppervlaktespanning hoe het brood in de oven rijst. Door de toenemende hitte zetten de CO~2~ cellen uit en stijgt de druk. Rond de `50°C` gaan gisten dood die voor een laatste groei aan gascellen zorgen, wat zichtbaar is als de '_oven spring_'. 
 
@@ -198,8 +172,6 @@ Fysische bestanddelen met een laag kookpunt veranderen in hun gasvorm op `80°C`
 
 De exacte plaats van het scheuren kan een bakker beïnvloeden door op voorhand het deeg in te snijden. Omdat de celwanden op die plaatsen al gescheurd zijn, verliest het deeg op die plekken de druk tijdens het opwarmen. Tenminste, als de sneden goed geplaatst zijn. Erg vochtig deeg heeft door de plakkerigheid nogal eens de neiging om zichzelf te genezen voordat de temperatuur van het deeg hoog genoeg is om druk op te bouwen. De hoek waarin het mes wordt gehouden om de snede te maken speelt samen met de diepte een rol in het al dan niet breken van de korst op die bepaalde plek. 
 
-\index{Stoom}
-\index{Dampsleutels}
 
 * * *
 
@@ -207,13 +179,11 @@ Zodra de korst volledig is gevormd, kan het brood niet meer rijzen. Op dat momen
 
 Stoom voeg je aan het begin van het broodbakproces toe. Het hete water condenseert op het nog koelere deegoppervlak. Na een aantal minuten schakelt het water over van condensatie naar verdamping. Professionele ovens beschikken over _dampsleutels_ die na de kritieke fase van het bakproces worden geopend om het teveel aan vocht in de oven weg te laten ontsnappen. Het extra vocht geïntroduceerd door middel van stoom zorgt anders voor problemen waardoor de korst niet krokant genoeg wordt. Open dus nooit de oven tijdens de eerste cruciale minuten van het bakken. 
 
-\index{Tijgerbrood}
 
 Stoom zorgt niet alleen voor een betere rijs. De typische glans van de korst van brood is ook een gevolg van stoom. Het zetmeel aan de buitenkant van het deeg lost gedeeltelijk op in de condens. Dit papje geeft een mooie glans af. Het papje dat bakkers op deeg smeren om 'tijgerbrood' te maken heeft hetzelfde effect als de blinkende, krakerige korst vanwege de toegevoegde stoom. Deze glans geeft de korst een donkerdere, karakteristieke kleur. 
 
 Als laatste voordeel zorgt stoom voor een evenredige en snellere hitte penetratie. Verdampen gaat altijd gepaard met hitte verlies: op die manier koelt ons lichaam af door middel van zweet. De toegevoegde warmte in de vorm van stoom minimaliseert dit verlies. 
 
-\index{Viennois, pain}
 
 Niet alle bakkers houden van stoom. Bakkerij Herteleer geeft de voorkeur aan een natuurlijk bakproces, wat voor hen bakken zonder stoom betekent. Volkoren roggebrood wordt vaak gebakken zonder stoom. Zonder gluten valt er toch niet veel te rijzen. Gebruik maken van stoom is een vrij recente gewoonte. De eerste 'Boulangerie _Viennoise_' in Parijs, geopend door de Oostenrijkse journalist August Zang, gebruikte een inventieve manier om voor de eerste keer in Frankrijk korst glazig te maken. Hij deed dat door flink wat gewassen hooi op de boden van de oven te plaatsen, die voor de productie van een grote wolk van stoom zorgde [@payen1859precis]. Ik neem aan dat zijn klanten de rokerige smaak er graag bij namen. Een mechanische stoomoven werd pas enkele eeuwen na Zang's nat hooi in 1840 uitgevonden. De invloed van de Wenen op traditioneel Frans brood is nog steeds voelbaar. _Pain viennois_ was een van de eerste zoete broden gemaakt met biergist in plaats van oud deeg (zuurdesem).
 
@@ -225,8 +195,6 @@ Bakboeken van Ken Forkish [@forkish] en Chad Robertson [@tartine] raden daarom a
 
 Gietijzer is zwaar en absorbeert zeer goed warmte. Zo'n voorverwarmde pot is daardoor gevaarlijk en onhandig om je deeg in te leggen. Een bijkomend nadeel is de plaats die het inneemt in de oven. De stoombakken van de Rofco bevatten hitte absorberende lava stenen die heel goed zijn in het omzetten van water naar stoom. Een sauna in de oven nabouwen is hier geen probleem. Ik heb nog niet geprobeerd om er enkele druppels lavendelolie in te laten vallen. Misschien stopt dan het geklaag van Kristien dat de oven stinkt. Residu van vorige baksessies kleeft soms nog aan de bakstenen die na veelvuldig gebruik inbranden. Dat brengt altijd een geur met zich mee. Bak trouwens nooit vetrijk deeg rechtstreeks op de steen. Die plek krijg je er niet alleen nooit meer uit, de onaangename lucht van sterk verbrande boter vergezelt je nog maanden daarna. 
 
-\index{Hydrolyse}
-\index{Blaren}
 
 * * *
 
@@ -304,10 +272,6 @@ De kleur van korst en kruim wordt niet alleen bepaald door de aanwezige suikers 
 
 Dit pigment brengt naast kleur ook smaak met zich mee. _Rode_ tarwe bevat meer van deze pigmenten dan _witte_ tarwe. Tarwe is dus in te delen in combinaties van hard of zacht, winter of lente, en rood of wit. De indeling in kleur is iets wat we in Europa niet zo goed kennen. Gek genoeg wordt zachte rode wintertarwe en harde rode lentetarwe geïmporteerd vanuit Amerika. Tarwekwekers maken handig gebruik van technologie om de geoogste granen automatisch te sorteren op kleur. Op die manier wordt de puurheid van de kleur, net zoals een heel aantal andere eigenschappen, door de mensheid bepaald.
 
-\index{Mout}
-\index{Enzymen!Lipoxygenase}
-\index{Xanthofyl}
-\index{Diastatische mout}
 \label{mout}
 
 In de praktijk beïnvloeden bakkers de kleur van de korst en het kruim opnieuw via verbeteraars. Mengelingen die worden verkocht als 'woudmeel' verraden de aanwezigheid van toegevoegde kleurstoffen door de erg donkerbruine kleur van het meel. 
@@ -351,14 +315,11 @@ De populatie steeg sinds 2000 met factor `1.2`. De vraag naar enzymen steeg met 
 
 ### Een enzymen experiment
 
-\index{Amylase}
 
 Wetenschappelijke studies lezen is leuk tot op het moment waarop mijn handen beginnen te jeuken. Toen ik las dat koji samen met mout een veel gebruikte bron is van alfa-amylase, besloot ik dit in de vorm van een experiment in mijn eigen keuken na te bootsen. Ik wilde wel eens zien hoe sterk dat effect van toegevoegde amylase is vergeleken met brood dat ik gebruikelijk bak. 
 
 Om de proef een minimale wetenschappelijke waarde te geven had ik nood aan extra uitrusting: een rijskast. Een afgebakende omgeving waarin ik de temperatuur tot op de graad zelf kan bepalen, en constant kan houden. Dat was slechts een kwestie van een ongebruikte koelkast om te bouwen van koelen naar verwarmen. Het enige wat ik daar voor nodig bleek te hebben was een lamp en een thermostaat tussenstekker. De geïsoleerde ruimte houdt de warmte van de lamp vast, die door de thermostaat tussen vooraf ingesteld interval wordt aan- en uitgeschakeld. De lamp in kwestie moet genoeg hitte kunnen genereren verspreid over een relatief grote ruimte, dus een `40W` halogeenspot is de beste optie. Om de warmte snel te kunnen verdelen monteerde ik, met hulp van mijn schoonvader als elektronica-expert, een `12V` ventilator van een oude desktop PC achter de lamp. 
 
-\index{Koji}
-\index{Aspergillus oryzae}
 
 Die incubatieruimte gebruik ik sindsdien met groot succes om tempeh en koji mee te maken, volgens het stappenplan van Sandor Katz [@katz]. Het grootste probleem is echter de juiste soort van _Rhizopus oligosporus_ in het geval van tempeh en _Aspergillus oryzae_ in het geval van koji vast te krijgen. In België is koji zo goed als onbekend. Met héél veel geluk kun je het voorverpakt vinden in een biologische speciaalzaak. Ik wilde echter geen kant-en-klare koji kopen, maar sporen van de schimmel zelf. Op naar een obscure Japanse online winkeltje dus - of gewoon eBay. '_Koji Kin_', de sporen, of 'starter', zijn verkrijgbaar in verschillende vormen en maten: voor sake of amazake te maken, voor miso, voor sojasaus, enzovoort. In het ene geval heb je meer zoet nodig, dus simpele suikers. In het andere geval maken de sporen meer protease aan die eiwitten afbreekt. 
 

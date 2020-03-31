@@ -23,7 +23,7 @@ Wees bereid om een slechte oogst onherroepelijk weg te kappen: het gaat dan om h
 
 > _Om kwaliteit te maken moet je af en toe bereid zijn geld te verliezen._
 
-\index{Bottelgist}
+
 
 '_Time is money_' - het klinkt als een zielloze one-liner zonder context. En dat is het ook. 
 

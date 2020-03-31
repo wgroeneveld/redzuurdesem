@@ -71,7 +71,6 @@ Een digitale weegschaal is op dat moment ook ondenkbaar. Gelukkig was het analoo
 
 [^rem]: Een rijskast bestond wel, maar het was gewoon een houten kast die deeg tegen tocht beschermde. Moderne elektrisch aangedreven remkasten kunnen niet alleen brood sneller doen rijzen, maar ook doen 'remmen': het is niet alleen mogelijk om de temperatuur te verhogen, maar ook te verlagen. 
 
-\index{Bulkrijs}
 
 * * *
 
@@ -87,7 +86,6 @@ Na het kneden had ik even ademruimte om iedereen die interesse toonde te voorzie
 
 Een echte bakker pakt dit veel slimmer aan door ondertussen andere taken op te nemen zoals taartjes maken, een tweede deeg kneden en andere spullen afwerken. Die dingen waren om praktische redenen op dat moment niet mogelijk. Ik werd het snel beu om dezelfde uitleg elke minuut opnieuw te geven vanwege de constante toestroom van nieuwe bezoekers. Soms toonden mensen oprechte interesse. Meestal kwamen ze alleen maar kijken of er iets gratis te proeven viel. Om iedereen die kans te geven had ik een dag op voorhand verschillende broden gebakken. 
 
-\index{Narijs}
 
 Nadat het deeg gerezen was, voor zover mogelijk, kon ik het verder verdelen en opbollen. Onder het werkoppervlak was een rijskast voorzien die niet meer voorstelde dan een lange kast met enkele schappen. In ieder geval kon ik het deeg afgeschermd laten rusten als tweede rijsfase of _narijs_. Het ene uiteinde van de kast kwam gevaarlijk dicht in de buurt van de hete oven, waar het deeg niet blij (of té blij) mee was. Aan de ene kant van de kast rees het nauwelijks, het midden ging nog redelijk, en aan de warmste kant rees het als een bezetene. 
 

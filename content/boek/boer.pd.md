@@ -277,14 +277,6 @@ We praatten wat, Gert over bier brouwen, en ik over brood bakken.
 
 'Ja, brouwen met zuur, dat vereist een volledig andere installatie. Wij gebruiken hier alleen maar gist. Bacteriën gebruiken, dat is de richting van Geuze uit gaan. Die krijg je nooit meer uit je installatie. Je kan niet zuur bier brouwen, én iets als gistend bier.' 
 
-\index{Pils}
-\index{Lager}
-\index{Ale}
-\index{Bovenfermentatie}
-\index{Onderfermentatie}
-\index{Saccharomyces}
-\index{Saccharomyces!pastorianus}
-\index{Saccharomyces!cerevisiae}
 
 * * *
 
@@ -296,8 +288,6 @@ Geuze, of algemener _lambiek_, is niet zomaar in onder- of bovenfermentatieve bi
 
 Historisch gezien brouwt men in Noord-Europa reeds sinds de veertiende eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de negentiende eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak is de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op bovenfermentatie. Met zuiver theoretische classificaties kom je maar zo ver. 
 
-\index{Esters}
-\index{Esters!Ethylbutyraat}
 
 * * *
 
@@ -320,8 +310,6 @@ Ik knik. '_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welk
 [^kva]: Het brouwen van kvass is beschreven in hoofdstuk \ref{kvass}.
 [^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. 
 
-\index{Lageren}
-\index{Bottelgist}
 
 Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brouwerij waar zure bieren met bacteriën worden gemaakt. Gert leidde me ondertussen rond in zijn brouwerij. 
 
@@ -341,8 +329,6 @@ Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brou
 
 'Zeker. Lekker. Dat gaat werken. Ik weet niet hoeveel gist je dan moet toevoegen.' Dat was ik helemaal niet van plan. Met een voordeeg en langere rijstijden valt veel op te oplossen. 
 
-\index{Maischen}
-\index{Draf}
 
 'Wat voor u misschien interessanter is om mee te bakken is de draf[^draf].'
 
@@ -478,6 +464,7 @@ Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten 
 \newpage
 
 ### Bier brood met draf
+
 
 Gert was zo vriendelijk me een beetje draf te geven om mee te bakken. Als je geen toegang hebt tot dit restproduct van het bierbrouwen, kan je in plaats daarvan hele tarwe- of gerstgranen grof malen en een uur koken. 
 

@@ -31,7 +31,7 @@ Na drie kwartier vult het huis zich met de zachte geur van vers gebakken brood e
 
 Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit zijn huisje te nemen en te laten afkoelen, om het enige tijd daarna smakelijk naar binnen te kunnen werken. Liefst met beleg natuurlijk, want op die korte tijd krijgt de kabouter er nauwelijks wat smaak in. 
 
-\index{Baker's Percentage}
+
 
 Zo'n kabouter in huis halen brengt heel wat voordelen met zich mee. Afhankelijk van zijn expertise, kan je hem bijvoorbeeld vragen om ‘s morgens een vers brood klaar te hebben. Wat is er nu zaliger dan te worden gewekt door de geur van vers gebakken brood? Er zijn verschillende rassen van kabouters die grotere en kleinere broden kunnen bakken. 
 
@@ -122,8 +122,8 @@ Plannen wanneer je je deeg laat rijzen is dus zeker niet onbelangrijk. In een pr
 
 Voorlopig kunnen we concluderen dat mijn eerste focaccia niet bepaald een succes was. De typische vorm van zo'n brood nabootsen was me wel gelukt: het was plat. 
 
-\index{Pizza}
-\index{Focaccia}
+
+
 
 * * *
 

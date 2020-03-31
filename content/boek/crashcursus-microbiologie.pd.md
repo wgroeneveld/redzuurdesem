@@ -45,7 +45,7 @@ Miso bevat, afhankelijk van de soort, `8` tot `40%` zout: die grote hoeveelheid 
 
 Het opkweken van de juiste organismen duurt een paar weken. De eerste belletjes geven wel blijk van activiteit, maar de gistpopulatie is nog te klein in aantal om een heel brooddeeg genoeg te laten rijzen. 
 
-\index{Saccharomyces!cerevisiae}
+
 
 \begin{figure}
     \centering
@@ -76,6 +76,9 @@ Wat bedoelen we nu eigenlijk als we het hebben over smaak? Om daar op te kunnen 
 De glutenstructuur in het deeg vangt het CO~2~ afval van de gistcellen op, wat brooddeeg doet rijzen. De alcoholproductie is te verwaarlozen in vergelijking met het langere gistingsproces van bier of wijn. 
 
 Ook pathogenen zullen zich in het begin nestelen in je cultuur. Geen zorgen, in de zure omgeving overleven ze niet lang [@yazar2012functional]. Jonge desems zijn nog constant in verandering, waardoor het aan te raden is om langer dan een week te wachten met bakken. 
+
+
+
 
 Melkzuur herkent iedereen die al ooit yoghurt heeft gegeten. Azijnzuur herkent iedereen die al ooit een fles azijn heeft geopend. Dankzij deze zuren is de zuurtegraad van zuurdesembrood veel lager (een pH van ongeveer `4.2`) dan dat van typisch gistbrood (ongeveer `5.5`). Zonder deze lage waarde winnen ongewenste organismen van de concurrentie. Als bakker ben jij de alleenheerser die beslist hoeveel melkzuur en hoeveel azijnzuur in het brood moet terechtkomen. Deze fragiele balans perfect beheersen vereist jaren van ervaring. Typisch Duits brood bevat veel azijnzuur, terwijl men in San Francisco liever veel melkzuur heeft. 
 
@@ -114,9 +117,9 @@ Als je werkt met een `1:1` ratio van bloem en water, is het eenvoudig om de acti
 
 Als je dan nog langer wacht, verzuurt de omgeving nog meer. Er verschijnt een waterig laagje bovenop de zuurdesem. Dat is alcohol die aangeeft dat je cultuur erg hongerig is. Laat je niet beïnvloeden door de sterke azijngeur en gooi niet alles weg. Te lang wachten met bijvoeden kan voor de volgende baksessie een nog tragere rijs betekenen, door de verstoorde zuurtegraad. Gooi in dat geval alles weg, behalve één koffielepel, en kweek opnieuw op met voldoende bloem en water. 
 
-\index{Lactobacillus}
-\index{Probiotica}
-\index{Prebiotica}
+
+
+
 
 * * *
 
@@ -144,11 +147,11 @@ Zelfs in de elfde eeuw wist men reeds dat slecht of ongerezen brood zorgde voor 
 
 > _'Among the six elements needed to keep daily wellness… foods and beverages…' '…White bread: it improves the wellness but it must be completely fermented …'_
 
-\index{Fytinezuur}
-\index{Fytase}
-\index{Prikkelbare darm}
-\index{Koolhydraat}
-\index{FODMAP}
+
+
+
+
+
 
 Maar hoe komt het dat fermenteren voedsel plots eetbaar maakt? Dat is heel simpel: giftige stoffen worden afgebroken door het fermentatieproces. Linamarine, afkomstig van  bladeren of wortels van planten, kan waterstofcyanide produceren als het in aanraking komt met de enzymen van onze darmflora. Maniok wordt daarom behandeld in plaats van rauw gegeten [@okafor1986microbial]. Het fytinezuur aanwezig in zemelen blokkeert de opname van magnesium, ijzer, calcium en zink. Hoe langer brood rijst met zuurdesem, hoe minder fytinezuur overblijft, te danken aan de activatie en langdurige werking van het enzym fytase [@nielsen2007phytase;@yazar2012functional]. Om deze reden wordt zuurdesembrood aangeraden bij personen die last hebben van het Prikkelbare Darm Syndroom (PDS, of _Irritable Bowel Syndrome_, IBS, in het Engels). 
 
@@ -160,19 +163,19 @@ Als brood heel lang fermenteert vermindert de irritatie in de darm dankzij de ve
 
 Ook andere complexe suikers worden door micro-organismen omgezet in enkelvoudige suikers, die beter opneembaar zijn door onze darmwand. _Koolhydraat_ is het technisch correcte synoniem voor _sacharide_, een groep bestaande uit suikers, zetmeel en het onverteerbare cellulose. Om het eenvoudig te houden gebruik ik 'suikers' en 'koolhydraten' door elkaar. Deze sacharides vallen in de volgende vier verschillende chemische groepen:
 
-\index{Sacharide}
-\index{Sacharide!Monosacharide}
-\index{Sacharide!Disacharide}
-\index{Sacharide!Polysacharide}
-\index{Sacharide!Oligosacharide}
+
+
+
+
+
 
 \label{microbio:suikers}
-\index{Monosacharide}
-\index{Disacharide}
-\index{Polysacharide}
-\index{Oligosacharide}
-\index{Invertsuiker}
-\index{Honing}
+
+
+
+
+
+
 
 * Enkelvoudige suikers (_monosacharide_): glucose, fructose, galactose. `0.5%` van het meel bevat enkelvoudige suikers. 
 * Dubbelvoudige suikers (_disacharide_): sucrose of sacharose (tafelsuiker), lactose, maltose. `1%` van het meel. 
@@ -189,11 +192,11 @@ Suiker wordt tegenwoordig vanwege epidemieën als obesitas in een slecht daglich
 
 * * *
 
-\index{Enzymen}
-\index{Enzymen!Amylase}
-\index{Amylase}
-\index{Aspergillus oryzae}
-\index{Koji}
+
+
+
+
+
 
 Zoals de moderne werkende mens niet zonder straffe koffie kan om werk gedaan te krijgen, zo kunnen levende organismen niet zonder hun katalysator: _enzymen_. Een enzym is een eiwit dat bepaalde chemische reacties versnelt. Dankzij de aanwezige enzymen in deeg is het mogelijk om complexe koolhydraten sneller af te breken. 
 
@@ -209,7 +212,7 @@ Er zijn drie bronnen van alfa-amylase: gebaseerd op mout (zie hoofdstuk \ref{mou
 
 [^kanji]: Hoe cool ik ook mezelf pretendeer voor te stellen met het vlot gebruik van Kanji, in werkelijkheid dient de aanwezigheid van Japanse en Chinese symbolen in dit boek als hulpmiddel om producten te herkennen in een Aziatische winkel. 
 
-\index{Kaliumbromaat}
+
 
 De cocktail van bepaalde enzymen en melkzuurbacteriën beïnvloed de verzuring van het deeg [@di2003interactions]. Dit betekent nog meer mogelijkheden tot optimalisatie (en industrialisatie). Amylase wordt dankzij de bewezen hogere stabiliteit bijna altijd in de vorm van een 'meelverbeteraar' toegevoegd aan bloem. Ook bij een slechte oogst wordt er na het maalproces soms alfa-amylase toegevoegd om dezelfde werking aan te houden. Het zijn populaire toevoegingen omdat ze in vergelijking met het vroegere kaliumbromaat onschadelijk zijn voor onze gezondheid. Lees de kleine lettertjes in de samenstelling van het AVEVE product 'Surfina fijne tarwebloem':
 
@@ -219,18 +222,21 @@ De cocktail van bepaalde enzymen en melkzuurbacteriën beïnvloed de verzuring v
 
 Bloem gemalen door een bescheiden molenaar zal dit misschien niet bevatten. Dat betekent dat brood gebakken met Surfina een consistent resultaat oplevert, terwijl brood gemalen door de molenaar onvoorspelbaar kan reageren. Industriële bloem wordt in laboratoria getest om die consistentie te kunnen garanderen. Om fiasco's in de oven te vermijden, test je dus best zelf bij elke nieuwe oogst hoe het deeg reageert.
 
-\index{Lactobacillus!sanfranciscensis}
+
 
 Het fermentatieproces kan je dus beschouwen als een schaar die de lange ketting netjes opknipt in kleinere, eenvoudiger verwerkbare stukjes. Het zijn trouwens niet alleen de gisten, maar vooral de bacteriën, die hier het zware werk verrichten. Die hebben ook suikers (energie) nodig om in leven te blijven. Zoals iedereen zijn lievelingseten heeft, zo hebben deze organismen ook hun eigen voorkeur. Soms ontstaat er hevige competitie, maar vaak ook helemaal niet. 
 
 * * *
 
+
+
+
 Het soort van suiker speelt dus ook een rol [@gobbetti1994sourdough]. Gisten eten graag gevarieerd. _Candida milleri_ en _Saccharomyces exiguus_ zijn bijvoorbeeld het gelukkigste wanneer ze verschillende soorten enkelvoudige en dubbelvoudige suikers voorgeschoteld krijgen. _Lactobacillus sanfranciscensis_ en andere melkzuurbacteriën eten dan weer liever maltose. Door het opknipproces van de suikerkettingen verandert de samenstelling in het deeg, waarbij plots bepaalde bacteriën sneller reproduceren dan voorheen. Een (verplicht) samenwerkingsproces dus, waarbij het contract vergeten werd te ondertekenen. Culturen waar geen gisten in zitten die maltose vrijmaken zullen geen uitnodigende omgeving zijn voor de geliefde San Francisco bacterie. 
 
 Na een tijdje zijn de meeste suikers omgezet, en verzuurt de omgeving door een teveel aan azijnzuur. Dat punt herken je doordat het gerezen deeg begint in te storten. De glutenstructuur breekt, de lucht is weg, en je blijft met een baksteen zitten. 
 
-\index{Glycemische Index}
-\index{Glychemische Index!G. Lading}
+
+
 
 Doordat andere organismen suikers voor jou verteren, verlaagt de glycemische index (GI) van brood. De GI is een eenheid om aan te geven hoe snel koolhydraten in de darm worden verteerd en als glucose in het bloed worden opgenomen. In vergelijking met klassiek wit brood (`71`) geeft een stuk wit zuurdesembrood (`53`) minder hevige suikerschommelingen in het bloed. Dit klinkt spectaculair, maar is eigenlijk een beetje misleidend. De GI meet alleen maar het effect van koolhydraten in voedsel ten opzichte van glucose (`100`). 
 
@@ -256,10 +262,10 @@ Hoe langer je brood bakt, hoe dikker de korst, en hoe langer het duurt om terug 
 
 Wachten op spontane fermentatie kan best spannend zijn. De ontdekking van bubbeltjes voelt aan als een geweldige prestatie - maar in feite heb je niets anders gedaan dan gewacht. Een actieve cultuur is maar één deel van het broodbakproces. Om brood te kunnen bakken met zuurdesem heb je een voordeeg nodig. Er bestaan verschillende soorten van voordeeg die allemaal hun eigen naam hebben. Dat is te danken aan de rijke Europese broodbakgeschiedenis. Hieronder volgt een kort overzicht:
 
-\index{Biga}
-\index{Poolish}
-\index{Pâte Fermentée}
-\index{Viennois, pain}
+
+
+
+
 
 * _Biga_: Een Italiaans voordeeg, gebruikt in onder andere ciabatta’s. Dit is een droger voordeeg met een hydratatie van `50` tot `70%`. 
 * _Poolish_: Een Frans voordeeg met Poolse origines, gebruikt in onder andere baguettes. Dit is een erg vochtig voordeeg met een hydratatie van `100` tot `125%`. Een poolish werd door immigranten in Parijs gebakken om _pain viennois_ te maken.
@@ -288,7 +294,7 @@ Het verbaast je daarom misschien niets dat dit disciplinair proces iets is waar 
 [^taroya]: [http://www.taroya.com](http://www.taroya.com)
 [^wild]: Het is een algemeen aangenomen geloof dat wilde gisten 'in de lucht' moeten worden gevangen. Alhoewel het juist is dat de lucht rondom ons vol zit met ongelofelijk veel deeltjes, inclusief gisten en bacteriën, zijn de gisten die een significante rol spelen in zuurdesem degene die op het graan zelf zitten. 
 
-\index{Pseudogranen}
+
 
 Elke zuurdesemcultuur is uniek. Ik boekte veel succes met een ongebruikelijke cultuur op basis van kikkererwtenmeel, die ik heb leren kennen via Andrew Whitley's '_Bread Matters_' werk [@breadmatters]. Pseudogranen[^pseudo] laten fermenteren is een goed alternatief voor mensen met glutenintolerantie. In mijn geval gebruikte ik de kikkererwten als extra smaakmaker in combinatie met gewone tarwe. Toen er meer dan vier ‘vieze’ potjes in de koelkast stonden te pruttelen heb ik van mezelf enkele hartverscheurende keuzes moeten maken. 
 
@@ -308,8 +314,8 @@ Het heeft weinig nut om de cultuur actief te houden als er niet elke dag wordt g
 [^pseudo]: Pseudogranen zijn niet-grassoorten die op dezelfde manier worden gebruikt als granen door bijvoorbeeld de zaadjes te malen tot bloem. Hieronder vallen rijst, quinoa, boekweit, amaranth, peulvruchten en chia.
 [^rc]: [https://rcchocolat.se](https://rcchocolat.se)
 
-\index{Soda}
-\index{Soda!Bak-}
+
+
 
 * * *
 
@@ -317,7 +323,7 @@ Er zijn veel snellere manieren om deeg te doen rijzen. Een traditioneel Iers sod
 
 _Baksoda_ is natrium bicarbonaat. Bicarbonaat heeft een zuur nodig om mee te reageren, waar kooldioxide uit komt. In recepten zie je verdoken 'zuren' staan als botermelk, yoghurt, bruine suiker, citroensap, cacaopoeder of honing. Baksoda is sterk spul: het reageert vier keer zo sterk als bakpoeder. Met mate gebruiken dus. Als de verhouding baksoda/zuur niet in balans is, kan er nog residu overblijven in het brood, wat een zeepsmaak oplevert. Dat is ook smaak, maar niet bepaald eentje die een glimlach op de mond tovert. Een chemisch proces start zodra soda in aanraking komt met zuur. Het heeft geen hitte nodig om te werken. Te lang treuzelen is dan geen goed idee. In sommige boeken staat bij een recept voor cake de waarschuwing 'laat het beslag niet te lang staan' - daarom dus.
 
-\index{Bakpoeder}
+
 
 _Bakpoeder_ bevat ook baksoda. Het is feitelijk een mengeling van een rijsmiddel (baksoda), een droog zuur (meestal een soort van wijnsteenzuur) en zetmeel (meestal op basis van maïs). Bakpoeder is dubbelwerkend: het reageert in tegenstelling tot zuivere baksoda zowel op vocht als op hitte in de oven zelf. Omdat bakpoeder al een zuur bevat, is geen toevoeging van zure room nodig. Het toegevoegde zetmeel werkt vochtabsorberend, omdat het poeder gevoelig is aan vocht. Bakpoeder is heel eenvoudig zelf te maken. Veel recepten vragen om bakpoeder én baksoda. De kooldioxide die de baksoda genereert door de aanraking van het zuur is in veel gevallen niet voldoende om het nodige volume te creëren. De zure room verliest zijn pittige smaak omdat het zuur reageert met de bicarbonaat. In dat geval kan de bakker bakpoeder toevoegen, en minder baksoda gebruiken. 
 
@@ -325,7 +331,7 @@ Je kan de versheid van beide rijsmiddelen controleren door ze te combineren met 
 
 De snelle bakker die gebruik maakt van deze chemische rijsmiddelen heeft hopelijk klanten met een sterk maag- en darmstelsel. Hier komen immers geen natuurlijke gisten en bacteriën bij kijken die belangrijke mineralen beschikbaar maken voor onze vertering, en de moeilijker verteerbare voedingsstoffen al gedeeltelijk voor ons omzetten. Als je tijd maakt om brood te bakken, neem dan ook de tijd om het deeg op zijn eigen tempo te laten rijzen. 
 
-\index{Lactobacillus!plantarum}
+
 
 * * *
 
@@ -379,7 +385,7 @@ Ik vertel over mijn zuurdesemcultuur die ik meebracht. 'Als ik nu zou willen wet
 
 'Daarvoor moeten we inspelen op de karakteristieken van de gist die we willen isoleren. Verteert het bijvoorbeeld lactose, dan gaat dat in het groeimedium. De omgeving zo ideaal mogelijk maken voor die ene soort gist, terwijl de groei van de andere types afremt.' Fysiek waarneembaar gedrag in het agar medium kan al veel zeggen over het soort organisme. Bepaalde groeipatronen voorspellen de aanwezigheid van bepaalde gisten. Dit zijn fenotypische testen: identificaties gebaseerd op waarneembaar gedrag.
 
-\index{Saccharomyces!cerevisiae}
+
 
 Om gisten te isoleren is er dus een stappenplan nodig dat de onderzoeker in staat stelt gebaseerd op unieke eigenschappen een organisme te isoleren. 
 
@@ -410,11 +416,11 @@ De posters in de gang vatten verschillende biochemisch-getinte experimenten same
 
 [^honderd1]: Deze ratio hangt van cultuur tot cultuur af, en varieert van `100:1` tot `10:1`, waarbij bacteriën altijd in de meerderheid zijn. Hoe groter het eerste getal, hoe zuurder, en hoe minder snel het brood zal rijzen. 
 
-\index{Saccharomyces!cerevisiae}
-\index{Candida}
-\index{Candida!milleri}
-\index{Candida!humilis}
-\index{Lactobacillus}
+
+
+
+
+
 
 Kristel en ik wisselden bedankjes uit, zij voor het roggebrood dat ik meebracht, en ik voor de rondleiding en hulp. Terug thuis ontdekte ik verschillende bestudeerde studies later dat er inderdaad veel minder variatie van gisten in zuurdesem zit ten opzichte van melkzuurbacteriën [@de2005sourdough;@yazar2012functional]. Rond de `80%` van alle zuurdesemculturen bevat hoofdzakelijk één gistsoort. Als er een tweede of derde soort aanwezig is, dan is dat slechts met kleine hoeveelheden. De meest voorkomende gisten zijn _Saccharomyces cerevisiae_, _Candida milleri_ en _Candida humilis_. 
 

@@ -119,7 +119,7 @@ Dit is een vicieuze cirkel: zolang er geen nieuwe bakkers worden opgeleid om sma
 
 Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onze opleiding allemaal hebben gebakken [^7]. Ik voeg ze hier toe om aan te tonen dat het Belgisch Bakboek er niet ver naast zit. De exacte producten variëren van jaar tot jaar, maar de inhoud van de les blijft hetzelfde. 
 
-\index{Tijgerbrood}
+
 
 **Jaar 1:**
 
@@ -139,7 +139,7 @@ Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onz
 [^10]: Taartdeeg met gist, pudding en kruimels van suiker, boter en bloem.
 [^11]: Wit tarwebrood, bestreken met een papje dat tijdens het bakken het patroon van een tijger aanneemt.
 
-\index{Lactobacillus!sanfranciscensis}
+
 
 De benaming van sommige soorten brood lijkt te zijn ontstaan in een saaie brainstormsessie van een goedkoop reclamebureau. Bakkerijen verkopen een 'lang grijs', een 'volkoren' dat geen volkoren is, 'kramieken', 'boerenbrood', 'hoevebrood', 'granenbrood', 'bakkersbrood', 'molenaarsbrood', ... Deze dichterlijke vrijheid wil echter niet zeggen dat het molenaarsbrood van bakker 1 hetzelfde is als het molenaarsbrood van bakker 2. Het wil in feite helemaal niets zeggen. 
 
@@ -191,8 +191,8 @@ In Frankrijk is de bakkersambacht een eeuwenoude traditie waar nog steeds duidel
 
 [^13]: Meer informatie over Franse examens is terug te vinden op [http://www.france-examen.com/](http://www.france-examen.com/).
 
-\index{Sandwiches}
-\index{Verbeteraar}
+
+
 
 * * *
 
@@ -372,13 +372,15 @@ Methode:
 
 * * *
 
+
+
 Het aangeleerd basisrecept brood bevatte `1.5%` zout, tussen `55` en `60%` water, tussen `4` en `10%` verse gist en `3%` vet. De maximum hoeveelheid zout in brood is in België wettelijk vastgelegd op `1.7%`, en is verplicht gejodeerd. Voor Nederland dicteert Artikel 3 uit het Warenwetbesluit Meel en Brood een hoeveelheid van `1.8%`, zonder enige vermelding van jodium[^wetnl]. Het soort bloem bepaalt hoeveel water het deeg kan opnemen. Tijdens de lessen werd er nooit met een nat deeg gewerkt. Uitzonderingen op de regel zijn ciabatta, dat volgens het recept in onze handleiding `70%` water moet bevatten. Het broodbakproces dat wij leerden bestaat uit de volgende stappen. 
 
 [^wetnl]: [https://wetten.overheid.nl/BWBR0009669/2017-10-01](https://wetten.overheid.nl/BWBR0009669/2017-10-01)
 
 Als eerste wordt alles zeer snel gekneed, met het oog op een bepaalde deegtemperatuur. De temperatuur bepaalt hoe snel het brood verder rijst. De temperatuur stijgt ongeveer `1° C` per tien minuten kneden in een spiraalkneder door de wrijving. Dit wordt _intensief kneden_ genoemd. Intensief kneden is de aangewezen manier om op korte tijd de beste glutenstructuur en een evenredig verdeeld kruim te verkrijgen. In de zomer instrueerde Ghislain ons voor sommige degen om ijswater te gebruiken: de omgevingstemperatuur van de bakkerij zelf speelt natuurlijk ook een rol. Die kan immers al snel oplopen tot `30° C` als de ovens zijn voorverwarmd. Kneden kost je zo’n tien tot twintig minuten, afhankelijk van het soort deeg.
 
-\index{Bulkrijs}
+
 
 De tweede stap is de voorrijs of _bulkrijs_, waarbij het deeg in zijn geheel (vandaar de naam ‘_bulk_’) kan rusten. Dit rusten ontspant het deeg, en geeft het tijd om te rijzen. Wanneer de gluten ontspannen, is het voor ons eenvoudiger om het deeg te verdelen in de juiste proporties, om het daarna de juiste vorm te kunnen geven. Een te gespannen deeg werkt tegen. Deze stap neemt ongeveer twintig minuten in beslag. Je leest dat goed: twintig minuten. Belachelijk kort, waarbij het deeg onvoldoende tijd krijgt om smaak te ontwikkelen.
 
@@ -388,7 +390,8 @@ Daarna is het tijd voor de vierde stap: de tweede rijs of _narijs_ in de rijskas
 
 Als laatste wordt het brood effectief gebakken. Bakken kost je veertig minuten. Vergeet niet dat het brood moet afkoelen op houten rekken voordat ze kunnen worden verpakt. 
 
-\index{Autolyse}
+
+
 
 Ingrediënten afwegen kostte ons telkens meer tijd dan we dachten, ook al doen we dit met een aantal mensen samen voor verschillende degen. Onderschat het niet, en tel hier zeker vijf minuten voor. Een gemiddeld brood bakken vanaf nul kostte ons ongeveer twee uur. Dat is belachelijk snel als je dit vergelijkt met wat ik thuis nodig heb om mijn zuurdesembroden te bakken. Op die tijd is mijn deeg dan nog steeds aan zijn eerste rijs toe. 
 
@@ -396,7 +399,8 @@ Daniel Leader beschrijft in zijn boek _Local Breads_ verschillende recepten van 
 
 De directe methode is de meest gebruikte methode om brood te bakken. Het is dan ook logisch dat tijdens de opleiding tot bakker hier het meeste aandacht aan geschonken wordt. De meest gebruikte betekent echter niet de methode die de meeste smaak oplevert...
 
-\index{Sandwiches}
+
+
 
 Op een opleidingsavond moet een product klaar zijn in drie uur of minder. Het is mogelijk om de afwerking in een andere les verder te zetten: bladerdeeg toeren in week 1, dan de diepvries in, om in week 2 af te werken met... pudding natuurlijk! Gegist deeg kan geen week wachten. Een voordeeg maken leek dan ook onmogelijk. Daar hebben we op een creatieve manier rond gewerkt: we brachten ons eigen voordeeg mee, dat de dag op voorhand of ‘s morgens thuis werd voorbereid. Speculaasdeeg moet trouwens ook een nacht rusten, zodat de smaak van de kruiden goed kan vrijkomen[^20]. Andere cursisten die donderdag les hadden maakten speculaasdeeg voor ons. Wij werkten dat af en maakten op onze beurt het deeg voor de studenten van zaterdag. 
 
@@ -481,6 +485,8 @@ Het werd tijd voor de praktijk.
 \newpage
 
 ### Twee pogingen tot sandwiches
+
+
 
 Moest je toe willen geven aan die plotse zin om een sandwich zoals we ze leerden kennen in de avondles zelf te bakken, dan is hier een eigen versie van de formule met bijhorende werkwijze:
 

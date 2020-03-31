@@ -240,14 +240,6 @@ We praatten wat, Gert over bier brouwen, en ik over brood bakken.
 
 'Ja, brouwen met zuur, dat vereist een volledig andere installatie. Wij gebruiken hier alleen maar gist. Bacteriën gebruiken, dat is de richting van Geuze uit gaan. Die krijg je nooit meer uit je installatie. Je kan niet zuur bier brouwen, én iets als gistend bier.' 
 
-\index{Pils}
-\index{Lager}
-\index{Ale}
-\index{Bovenfermentatie}
-\index{Onderfermentatie}
-\index{Saccharomyces}
-\index{Saccharomyces!pastorianus}
-\index{Saccharomyces!cerevisiae}
 
 Ik leerde achteraf dat pils, beter bekend in het Vlaams als een _pintje_ (of _dagschotel_), een soort _lager_ is. Bier kan over het algemeen worden ingedeeld in twee grote klassen: die van onderfermentatie (_bottom-fermenting_ of anaerobische fermentatie), zoals lager, en die van bovenfermentatie (_top-fermenting_ of aerobische fermentatie), zoals _ale_. Bovenfermentatie gebeurt op hogere temperaturen (tussen `15` en `24°C`) en gaat gepaard met het gevaar van inoculatie van (on-)gewenste bacteriën. Schuim bovenop vloeistof verraadt de aanwezigheid van aerobische gisten, zoals _Saccharomyces cerevisiae_. Op het label van het bierflesje prijkt vaak 'hoge gisting', een ander woord voor deze bovengisting. Onderfermentatie daarentegen gebeurt op lagere temperaturen (onder de `10°C`). In dat geval werkt men met gistsoort _Saccharomyces pastorianus_[^past]. 
 
@@ -257,8 +249,6 @@ Geuze, of algemener _lambiek_, is niet zomaar in onder- of bovenfermentatieve bi
 
 Historisch gezien brouwt men in Noord-Europa reeds sinds de veertiende eeuw via onderfermentatie in koele grotten. De lange, koude fermentatie vlakt scherpe of ongewenste smaken af, wat leidt tot een helder en verfrissend aroma. Tot voor de negentiende eeuw werd er in België en Nederland voornamelijk bier van hoge gisting gedronken. Dankzij de opkomst van koeltechnologie en de klaarblijkelijke voorkeur voor een afgevlakte smaak is de populariteit van onderfermentatie sterk toegenomen. Doet deze evolutie je ergens aan denken? Gert liet me zien hoe hij beide fermentatiemethodes combineert, met de nadruk op bovenfermentatie. Met zuiver theoretische classificaties kom je maar zo ver. 
 
-\index{Esters}
-\index{Esters!Ethylbutyraat}
 
 'Ik heb een collega die met een _Do It Yourself_ kit thuis enkele liters bier brouwt. Ik heb hem gevraagd naar welke organismen hij gebruikt, en het antwoord was 'een pakje gist'. Doen jullie dat ook?' 
 
@@ -279,8 +269,6 @@ Historisch gezien brouwt men in Noord-Europa reeds sinds de veertiende eeuw via 
 [^kva]: Het brouwen van kvass is beschreven in hoofdstuk \ref{kvass}.
 [^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. 
 
-\index{Lageren}
-\index{Bottelgist}
 
 Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brouwerij waar zure bieren met bacteriën worden gemaakt. Gert leidde me ondertussen rond in zijn brouwerij. 
 
@@ -300,8 +288,6 @@ Het zuurdesembier dat ik ontdekte via het internet was dus gebrouwen in een brou
 
 'Zeker. Lekker. Dat gaat werken. Ik weet niet hoeveel gist je dan moet toevoegen.' Dat was ik helemaal niet van plan. Met een voordeeg en langere rijstijden valt veel op te oplossen. 
 
-\index{Maischen}
-\index{Draf}
 
 'Wat voor u misschien interessanter is om mee te bakken is de draf[^draf].'
 

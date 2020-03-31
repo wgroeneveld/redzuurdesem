@@ -91,6 +91,8 @@ Bij te veel restaurants wordt goedkoop gistbrood geserveerd waarvan het zicht en
     \caption[Dimitry in zijn keuken te Tongeren.]{Dimitry vult rijsmandjes in zijn keuken te Tongeren.}
 \end{figure}
 
+
+
 Mijn handen jeuken. Ik zie een twintigtal rieten rijsmandjes naast hem op de inoxen werktafel. Het is er druk: koks zijn volop bezig met de voorbereidingen van de avondservice. 
 
 ‘Dit gebeurt letterlijk _tussen de soep en de patatten_. We hebben nog wat moeite om de juiste plaats te vinden om het brood te doen rijzen. Het tocht te veel op die plek en het is te warm op een andere plek. We hebben niet zoveel ruimte tot onze beschikking. Dit is immers een keuken, en geen bakkerij.’ Dimitry geeft een korte rondleiding. 
@@ -387,7 +389,7 @@ Er ontbrak één belangrijk ding in de fabriek dat ik wel hoopte te vinden zo'n 
 Februari 2014
 \end{flushright}
 
-\index{Lactobacillus!sanfranciscensis}
+
 
 Het '_Puratos Center for Bread Flavour_' ligt in Duitstalig België, in een klein heuvelachtig dorpje genaamd Saint-Vith. De naam van het centrum belooft alvast veel. Ik werd er hartelijk ontvangen door Karl De Smedt, de communicatiemanager van de bakkerij afdeling. Karl reist heel de wereld rond op zoek naar nieuwe soorten zuurdesemculturen. Dit zijn mensen die uren kunnen blijven praten over bloem en gist. Ik was aan het juiste adres. 
 
@@ -694,7 +696,7 @@ De werkwijze wijkt op een aantal vlakkan af van de standaard methode op pagina \
 Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 gr` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. 
 
 
-\index{Griesmeel}
+
 
 Een citytrip naar Altamura is niet nodig om deze bloem te bemachtigen. Met een beetje geluk verkoopt een Italiaanse buurtwinkel ook '_semola rimacinata di grano duro_'. Zelfs supermarkten bieden het in kleine zakjes aan onder het bekende merk 'De Cecco'. Verwar '_semolina_' niet met '_semola_': het ene is griesmeel[^griesmeel], een grove korrel dat eerder trekt op maïsmeel, terwijl het andere, veel fijnere meel om brood te bakken, twee keer is gemalen (vandaar '_rimacinata_'). 
 

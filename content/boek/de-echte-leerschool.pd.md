@@ -161,10 +161,12 @@ Het is jammer dat ik pas ten volle besefte wat ik van mensen als Sam heb geleerd
 
 * * *
 
-\index{Windowpane, kneden tot}
-\index{Autolyse}
+
+
 
 Het brooddeeg verdelen was een onmogelijke opdracht. De ingrediënten worden zonder zout in de kneder gecombineerd tot een los samenhangend geheel. Dan wordt de machine stilgelegd, het zout toegevoegd, en krijgt de bloem ademruimte om het water te absorberen. Dit is de _autolyse_ fase. Werken met zoveel water (meer dan `800 gr` op `1000 gr` bloem) vereist wat ingenieuze trucjes, zoals deze fase, om toch tot een consistent deeg te komen. Na een tijdje kneedt de machine het deeg verder totdat het glutennetwerk volledig ontwikkeld is. Er wordt niet gevouwen om kracht in het deeg op te bouwen, dus die kracht zal daarvoor al voldoende aanwezig moeten zijn in het deeg. 'Wij kneden to _windowpane_[^window]. Er is te weinig plaats om te vouwen, en het kost tijd. Plus het is niet eenvoudig om zo’n nat deeg op tafel te smijten om het even te vouwen' vertelde Sarah me.
+
+
 
 \begin{figure}
     \centering
@@ -190,6 +192,10 @@ _Meer dan `800 gr` water op één kilo bloem!_ Dat verbaasde me keer op keer wan
 ‘En het volkorenbrood?’ Ik had die dag in de schappen verschillende soorten bloem ontdekt, zowel gradaties van tarwe, als spelt en rogge. 
 
 ‘`T80`. Mengen met andere dingen als rogge. Ons moederdeeg eet ook `T80`, kijk maar.’ Ze haalt een emmer uit de koelkast en trekt de deksel ervan af. De overweldigende geur van gegiste druiven gecombineerd met yoghurt brandt in mijn neusgaten. De desem is donkerder en vaster van structuur.
+
+
+
+
 
 Met `T65` en `T80` duidt Sarah de uitmalingsgraad[^graad] van de bloem aan. `T45` en `T55` is wat wij kennen als 'patentbloem' of 'patisseriebloem': spierwit en volledig uitgezeefd. `T65` is crèmekleurig, en bevat nog wat restanten van fijn gemalen vezels. De bloem is zeer zacht en fijn om mee te werken. In België en Nederland is er geen officiële indeling van meeltypes. Met wat geluk komt de benaming 'tarwebloem' in de buurt. `T80` kan je vergelijken met halfvolkoren en `T110` bevat nog zo goed als alle componenten van het gemalen graan. `T65` wordt veel gebruikt in Frankrijk om de typische ‘_pain de campagne_’ broden te bakken. Rogge wordt net zoals tarwe gecategoriseerd, maar de gradaties gaan van `T70`, `T85`, `T130` naar `T170`. 
 
@@ -284,7 +290,7 @@ Het was tijd om uit te zoeken wat vruchtbare grond doet met tarwezaadjes.
 
 ### Pizza deeg
 
-\index{Pizza}
+
 
 Mijn meest dierbare herinneringen aan De Superette hebben niets te maken met brood, maar met pizza. Elke zaterdagavond was het _pizza night_. Om in de sfeer te komen werden geroosterde champignons ingelegd, een half kaaswiel met de hand geraspt (door de stagair), olijventapenade met een ongezonde hoeveelheid look gemaakt, en deegballen een dag op voorhand gekneed om ze de kans te geven genoeg smaak te ontwikkelen. Als er zondag nog deeg over was, gebruikten we die om een variant van platbrood te bakken. Die extra dag geeft het gerecht nog meer smaak, ook al draagt het niet de iconische naam 'pizza'. 
 De korte maar intense baktijd geeft de knisperige korst zijn kenmerkende structuur en houdt het kruim zacht. Een luchtige _cornicione_ (korstrand) bereiken zonder de korst te hard te bakken is iets waar _pizzaiolo's_ naar streven. 
