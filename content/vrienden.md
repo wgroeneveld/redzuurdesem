@@ -20,4 +20,4 @@ Dankzij de snelheid waarmee websites komen en gaan heeft het weinig zin om hier 
 
 Dankzij de heropleving van zuurdesem ontstaan initiatieven als [The Quest For Sourdough](https://www.questforsourdough.com/library/map) van Puratos en [Desem Delen](https://desemdelen.nl/). Beide websites bieden een interactieve kaart aan waar je vriendelijke bakkers kan vinden die hun desem willen delen met de wereld. 
 
-Is je desem alle kracht verloren, wil je graag een ander type desem, of lukt het helemaal niet om op te starten? Neem eens een kijkje op de kaart en leen een stukje deeg van een welwillende buur!
+Is je desem alle kracht verloren, wil je graag een ander type desem, of lukt het helemaal niet om op te starten? Neem eens een kijkje op de kaart en leen een stukje deeg van een welwillende buur! (Het spreekt voor zich dat Red Zuurdesem ook hier terug te vinden is.)

@@ -2,6 +2,16 @@
 #body, #chapter p {
   text-align: justify;
 }
+
+.wp-caption-text {
+  font-size: smaller;
+  color: grey;
+}
+
+.aligncenter {
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
 

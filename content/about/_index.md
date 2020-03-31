@@ -6,15 +6,12 @@ pre: "<i class='fa fa-info'></i> "
 date: 2012-12-06T16:29:31+00:00
 
 ---
+
 ## Hallo daar!
 
 Hoi, mijn naam is [Wouter][1] en ik wil zuurdesembrood bakken herpopulariseren. Dat is mijn enige doel. Waarom zou iedereen brood moeten bakken met zuurdesem in plaats van commerciële gist? Omdat men **meer bewust moet zijn van wat men eet** en brood het belangrijkste voedsel is door de geschiedenis heen &#8211; we eten het immers twee maal per dag en toch weten velen niet waar het uit bestaat.
   
-Dus, in essentie, wil ik graag **het bewustzijn rond voedsel** verhogen, en mijn passie is brood bakken. Deze twee dingen leken mij goed samen te passen, dus op die manier werd &#8220;Save Sourdough&#8221; geboren!
-
-<img class="aligncenter" title="Artisan baker association" src="http://4.bp.blogspot.com/-ci1c9hUGIwA/T6u-xuPqPTI/AAAAAAAAGOk/9GMem2u9dZc/s1600/aba.png" alt="" width="202" height="207" />
-
-Red Zuurdesem is ook trots lid van de &#8220;[Artisan baker Association][2]&#8220;.
+In essentie wil ik graag **het bewustzijn rond voedsel** verhogen. Aangezien mijn passie brood bakken is, en deze twee dingen mij goed leken samen te gaan, werd op die manier _Red Zuurdesem_ geboren!
 
 ## Waarom moet ik iets weten van zuurdesem?
 
@@ -27,9 +24,9 @@ Red Zuurdesem is ook trots lid van de &#8220;[Artisan baker Association][2]&#822
 
 ## Klinkt goed, hoe kan ik helpen?
 
-Natuurlijk kan ik niet alleen het woord verspreiden, daarvoor heb ik **uw hulp** nodig! Gelieve te overwegen om de boodschap te verspreiden door brood te bakken en weg te geven &#8211; neem een kijkje bij de &#8220;[hoe kan ik helpen][1]&#8221; pagina voor meer informatie.
+Natuurlijk kan ik niet alleen het woord verspreiden, daarvoor heb ik **uw hulp** nodig! Gelieve te overwegen om de boodschap te verspreiden door brood te bakken en weg te geven.
 
-Als er iets anders is waarmee je graag Red Zuurdesem wenst te helpen, heel graag! Laat gerust een berichtje na op deze pagina en we kunnen dan samen iets uitwerken. Bedankt!
+Als er iets anders is waarmee je graag Red Zuurdesem wenst te helpen, heel graag! Laat gerust een berichtje na op de Facebook pagina en dan kunnen we samen iets uitwerken. Bedankt!
 
  [1]: https://brainbaking.com/about/
- [2]: http://artisanbaker.org/
+ [2]: https://sourdough.com/shop/artisan-baker-association
