@@ -3,7 +3,23 @@
 
 ## Voorwoord
 
-Wordt geschreven na acceptatie van het manuscript.
+In tijden waarin elk nieuwste hebbeding, bekend persoon of online fenomeen quasi meteen wordt uitgeroepen tot de tweede komst van Christus - laten we eerlijk wezen, ondertussen niet meer dan een ordinaire marketingtruc- durf ik te stellen dat Wouter Groeneveld een van de weinigen is die aanspraak mag maken op deze blijkbaar felbegeerde titel. Wouter bekwaamde zich de afgelopen jaren dan ook uitermate in Jezus’ meest opvallende handelsmerk: het vermenigvuldigen en vervolgens delen van brood. Ik maak de uiteindelijke keuze niet maar volgens mij verdient dat een van de meer luxueuzere plekken in wat er ook na dit leven komt.
+
+Zoals ongeveer elke bakker je zal vertellen, begint ook het verhaal van dit boek met passie. Ik ken weinig mensen (of toch niet persoonlijk, bekende personen en online fenomenen daargelaten) die met zoveel enthousiasme over brood kunnen vertellen als Wouter. Op zich is dat al bewonderenswaardig. Brood in al zijn vormen is ondertussen zo’n logisch onderdeel van ons collectief dieet geworden dat we er niet meer van opkijken, laat staan de tijd voor nemen om van te genieten. (Met uitzondering van de Turken misschien: met `200 kg` per per persoon per jaar eet de gemiddelde Turk drie keer zijn eigen gewicht in brood. Je mag hopen dat het dan op zijn minst smaakvol is.)
+
+Maar wat dan te denken van iemand die - waar de doorsnee twintiger aan de slag gaat met andere vormen van gistgebruik - vers in zijn eerste eigen woonplek aan de slag gaat met een broodbakmachine? Ik zal het u zeggen: dat is niet ‘normaal’. Dat is iemand met een missie.
+
+De broodbakmachine werd snel vervangen door Deense kloppers, deegstekers allerhande en rijsmandjes in alle vormen en maten. Websites werden opgericht, een klein bijberoep zag het daglicht, cursussen werden gevolgd én gegeven, examens afgelegd. In tijden waarin ‘social distancing’ in de lente al wordt uitgeroepen tot ‘woord van het jaar’ bleef Wouter al die jaren zijn passie en iedereen die het horen wilde nabij met zijn blijde boodschap van het brood. 
+
+Het resultaat van al die jaren beleving is te vinden op de pagina’s hierna. Als bevoorrechte getuige die geraakt werd door zoveel enthousiasme kan ik oprecht zeggen dat het een hele rit is geweest. Vaak figuurlijk, soms letterlijk. Zuurdesembibliotheken vind je blijkbaar niet op eender welke straathoek. En hoewel een dooddoener zegt dat de reis de beloning op zich is, zal Wouter je doen inzien dat het doel dat soms nog net iets meer is. Bewondering voor een ambacht en genot van een authentieke smaak: daar kunnen we allemaal best wat meer van gebruiken. 
+
+Daarom: laat Wouter in dit boek uw compagnon worden. Een interessante metgezel, volgens de oorspronkelijke Latijnse betekenis ‘com’ (met) en ‘panis’ (brood). Zet er uw tanden in en geniet.
+
+* * *
+
+Met veel plezier opgedragen in Hasselt op 31 maart 2020,
+
+Dimitri Meus
 
 ## Inleiding
 
