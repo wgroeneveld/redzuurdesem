@@ -23,6 +23,10 @@ themeVariant = "green"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+# https://gohugo.io/getting-started/configuration-markup (ofwel de oude unsafe togglen?) - is nodig, Wordpress export bevat veel HTML!
+[markup]
+	defaultMarkdownHandler = "blackfriday"
+
 [blackfriday]
   extensionsmask = ["fencedCode"]
   fractions = false
