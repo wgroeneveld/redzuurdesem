@@ -205,7 +205,7 @@ Hoe hoger het getal, hoe meer water de bloem kan absorberen. Dit heeft niet alle
 
 ‘Wij verwerken `700 kg` bloem per week. Dat is redelijk wat, en ik wil enkel het beste. Je moet elkaar kunnen vertrouwen in zo’n zaken.’ De deksel gaat terug op de emmer met desem en verdwijnt weer in de koelkast.
 
-[^flourp]: De Artemeersmolen te Poeke, deelgemeente van Aalter. [http://www.flourpower.be](http://www.flourpower.be) Zie hoofdstuk \ref{molenaar}.
+[^flourp]: De Artemeersmolen te Poeke. Zie hoofdstuk \ref{molenaar}.
 
 #### Dag 4
 

@@ -367,7 +367,7 @@ Vanwege de afstand wil Vangrootloon voorlopig niet verder weg leveren dan Leuven
 
 Professionele kneedmachines zijn niet nieuw voor mij, maar grote hoeveelheden deeg zien voorbij rollen op een band was dat wel. Zelfs de grote hoeveelheden die Sarah en haar team uit de oven in Gent tovert, stelt weinig voor in vergelijking met wat hier per uur gebeurt.
 
-Er komt geen kwastje aan de pas wanneer de sandwiches worden bestreken met ei: ze worden met behulp van perslucht besproeid in grote rekken, om daarna automatisch in ovens te worden gerold. Alles is tot in de puntjes verzorgd en overal is rekening gehouden met hygiëne. De verkoop van grote hoeveelheden maakt het mogelijk voor Vangrootloon om te kiezen voor een lagere prijsklasse. 
+De trage bakkershand die sandwiches met een kwastje liefdevol bestrijkt met een eimengsel worden zonder pardon vervangen door op perslucht gebaseerde sproeiers die netjes passen in het automatisch proces. Alles is tot in de puntjes verzorgd en overal is rekening gehouden met hygiëne. De verkoop van grote hoeveelheden maakt het mogelijk voor Vangrootloon om te kiezen voor een lagere prijsklasse. 
 
 * * *
 
@@ -375,7 +375,7 @@ Dat lagere prijskaartje komt echter toch met een verborgen kost: deze broden zij
 
 In principe kan men ook op grote schaal met enkel water, bloem, gist en zout lekker brood bakken. Het probleem zit hem in de totale doorvoer van de machines. Traag kneden betekent tijd verliezen, dus minder bolletjes deeg voorbij zien rollen op de band. Snel kneden en machinaal vormgeven oefent grote druk uit op het deeg dat het glutennetwerk doet scheuren. Dat is meestal een van de momenten waarop er kan worden vertrouwd op de toegevoegde stoffen. 
 
-Inconsistentie is de grootste vijand van de bakker die geen kans krijgt door frequente, hetzij minimale, wijzigingen aan het proces. De ene oogst is de andere niet. Handwerk, gevoel en ervaring spelen hier veel beter op in dan een lopende band. In dat geval is het weer de verbeteraar die de dag redt. 
+Inconsistentie is de grootste vijand van de bakker - dat geen kans krijgt door frequente, hetzij minimale, wijzigingen aan het proces. De ene oogst is de andere niet. Handwerk, gevoel en ervaring spelen hier veel beter op in dan een lopende band. In dat geval is het weer de verbeteraar die de dag redt. 
 
 Gelukkig is niet alles volledig geautomatiseerd. Getalenteerde bakkershanden komen aan de pas bij onder andere het maskeren van taarten met _crème au beurre_ in de koude sectie. Bakkers in dienst bij grotere fabrieken zijn specialisten die zich toeleggen op één onderdeel van het proces. Vacatures worden niet uitgeschreven als 'broodbakker gezocht', maar als 'kneed expert gezocht' of 'verdeler gevraagd'. Die industrie trekt ook verdacht veel ingenieurs aan die de verantwoordelijkheid krijgen om het productieproces verder te optimaliseren.
 
