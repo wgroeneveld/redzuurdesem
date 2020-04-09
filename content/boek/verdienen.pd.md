@@ -59,7 +59,7 @@ Ik ben er zeker van dat ik het slimmer had kunnen aanpakken door beter mijn huis
 
 Na mijn gefaald Desem Doos project wilde ik meer leren over het commerciële aspect van de bakker. Tijdens de avondschool kwamen we hier heel vluchtig mee in aanraking: inkoopprijzen, verkoopprijzen, winstmarges. Maar hoe duur moet een brood zijn om van te kunnen leven? Hoeveel broden per dag moet een bakker verkopen om met een gerust hart te kunnen gaan slapen? Ik had een vaag idee van aantallen door mijn stage en interviews met bakkers. 
 
-Ik herinnerde me het bezoek van Dimitry Lysens en Johan Haiverlain aan De Superette tijdens mijn stage daar. Dimitry baat samen met zijn vrouw Aagje Moens restaurant Magis uit in Tongeren. Johan is verantwoordelijk voor de bistro boven het restaurant, genaamd Bis. Ze waren reeds een tijdje aan het experimenteren met zuurdesembrood. Ik besloot te polsen naar hun vooruitgang om een bakkerij concept uit de grond te stampen. 
+Ik herinnerde me het bezoek van Dimitry Lysens en Johan Haiverlain aan De Superette tijdens mijn stage daar. Dimitry baat samen met zijn vrouw Aagje Moens restaurant Magis uit in Tongeren. Johan is verantwoordelijk voor de bistro boven het restaurant, genaamd Bis. Ze waren reeds een tijdje aan het experimenteren met zuurdesembrood. Ik besloot te polsen naar hun vooruitgang om een bakkerijconcept uit de grond te stampen. 
 
 ### Brood bakken in een sterrenzaak
 
@@ -83,7 +83,7 @@ Bij te veel restaurants wordt goedkoop gistbrood geserveerd waarvan het zicht en
 
 ‘Kom, we zullen eens beneden naar de keuken gaan. Dimitry is net bezig met het vormen van het brood.’ Hij pakt mijn brood mee en samen lopen we naar de keuken van Magis. Daar maak ik kennis met Dimitry, die volop bezig is met deeg.
 
-[^tilb]: 'Tilburg Sourdough' was een bakkerij concept gestart door twee uitgebluste ITers, dat ondertussen uitgebreid werd naar lunchroom 'Pig & Rye'.
+[^tilb]: '_Tilburg Sourdough_' was een bakkerijconcept opgestart door twee uitgebluste ITers, dat ondertussen uitbreidde tot lunchroom '_Pig & Rye_'.
 
 \begin{figure}
     \centering

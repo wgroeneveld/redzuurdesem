@@ -1,7 +1,7 @@
 templatedir = ../../../pandoc/templates
 
 all:
-	pandoc -f markdown+smart \
+	pandoc -f markdown \
 		-V documentclass=memoir -V lang=nl-BE -M lang:nl \
 		--include-in-header=preamble.tex \
 		--include-before-body=voorwoord.tex \
@@ -12,7 +12,7 @@ all:
 		--top-level-division=part \
 		--metadata-file=metadata.yml \
 		--highlight-style=haddock \
-		-t latex > boek.tex \
+		-t latex+smart > boek.tex \
 		intro.pd.md kabouters.pd.md bokrijk.pd.md \
 		de-leerschool.pd.md alles-vergeten-dat-geleerd-is.pd.md \
 		de-echte-leerschool.pd.md boer.pd.md verdienen.pd.md \
