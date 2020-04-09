@@ -628,7 +628,7 @@ Als afscheidscadeau duikt Karl de opslagruimte in om een zak `25 kg` durum bloem
 
 'Hier, pak dat maar mee, dan kan je nog wat experimenteren voor je boek.' De zak verdwijnt samen met de gebakken producten in de koffer van de wagen en ik bedank Karl uitvoerig. De rit naar huis was een ware kwelling: de onweerstaanbare geur van vers gebakken brood doordringt mijn neusgaten en herinnert me er aan wat voor een stom idee het was om alles buiten handbereik te leggen... 
 
-De baguettes belegd met een karaktervolle kaas waren simpelweg heerlijk. Zoals verwacht gaf de rogge in de vloeibare desem geeft meer pit dat ik altijd op prijs stel. 
+De baguettes belegd met een karaktervolle kaas waren simpelweg heerlijk. Zoals verwacht gaf de rogge in de vloeibare desem meer pit dat ik altijd op prijs stel. 
 
 Het goudgele Altamura brood had dankzij de durum tarwe een nootachtige, granige smaak die de O-Tentic verder onderstreepte, hetzij iets te weinig naar mijn zin. Het kruim was vast, egaal, en enorm zacht: perfect voor degenen die van sneetjes brood houden. 
 
@@ -667,7 +667,7 @@ Dit is zonder twijfel een van de moeilijkere broden om te bakken. Laat je niet m
 Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 gr` verse gist toe en verminder je de eerste rijstijd met de helft. 
 
 | Hoeveelheid | Percentage | Beschrijving                    |
-|:-----------:|:----------:|:--------------------------------|
+|------------:|-----------:|:--------------------------------|
 | `1000 gr`   | `100%`     | _durum_ tarwebloem, fijngemalen |
 | `740 gr`    | `74%`      | Water                           |
 | `20 gr`     | `2%`       | Grijs zeezout                   |

@@ -350,7 +350,7 @@ Pudding wordt in België meestal met enkel melk gekookt. Een alternatief wat ik 
 [^19]: Wat is het verschil tussen '_pudding_' en '_banketbakkersroom_'? Om een lichtere variant van het heerlijke maar zware banketbakkersroom te maken, worden de eieren vervangen door puddingpoeder, vandaar het woord 'pudding'. Bakkers gebruiken jammer genoeg te vaak beide termen door elkaar. 
 
 | Hoeveelheid   | Percentage | Beschrijving        |
-|:-------------:|:----------:|:--------------------|
+|--------------:|-----------:|:--------------------|
 | `1 kg`        | `100%`     | Volle melk          |
 | `120 gr`      | `12%`      | Fijne suiker        |
 | `90 gr`       | `9%`       | Maïszetmeel         |
@@ -491,7 +491,7 @@ Het werd tijd voor de praktijk.
 Moest je toe willen geven aan die plotse zin om een sandwich zoals we ze leerden kennen in de avondles zelf te bakken, dan is hier een eigen versie van de formule met bijhorende werkwijze:
 
 | Hoeveelheid | Percentage | Beschrijving                  |
-|:-----------:|:----------:|:------------------------------|
+|------------:|-----------:|:------------------------------|
 | `1000 gr`   | `100%`     | Tarwebloem (`11.5`% eiwitp.)  |
 | `400 gr`    | `40%`      | Water                         |
 | `40 gr`     | `4%`       | Melkpoeder (`10%` v. h. water)|
@@ -516,7 +516,7 @@ Zoals je kan zien is de bovenstaande formule afgestemd op snelheid, en niet op s
 Een simpele verbetering zou kunnen zijn om de verbeteraar te vervangen door boter, de hoeveelheid gist drastisch te verminderen, en het rijsproces te verlengen. Dat is exact wat ik heb gedaan om tot de volgende formule te komen:
 
 | Hoeveelheid | Percentage | Beschrijving                         |
-|:-----------:|:----------:|:-------------------------------------|
+|------------:|-----------:|--------------------------------------|
 | `1000 gr`   | `100%`     | Tarwebloem                           |
 | `400 gr`    | `40%`      | Volle melk                           |
 | `100 gr`    | `10%`      | Eieren (twee kleine)                 |

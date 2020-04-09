@@ -343,7 +343,7 @@ In mijn experiment beoogde ik om een gewoon gistbrood als controlegroep te verge
 Deze formule volgde ik:
 
 | Hoeveelheid | Percentage | Beschrijving        |
-|:-----------:|:----------:|:--------------------|
+|------------:|-----------:|:--------------------|
 | `500 gr`    | `100%`     | Tarwebloem, T65     |
 | `330 gr`    | `66%`      | Water               |
 | `4 gr`      | `0.8%`     | gedroogde gist      |

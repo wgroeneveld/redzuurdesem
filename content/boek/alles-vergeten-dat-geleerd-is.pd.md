@@ -110,7 +110,7 @@ Peter maalt ook zijn eigen bloem, die vers wordt verwerkt in zijn producten.
 \begin{figure}
 \centering
 \includegraphics{img/bw/peter2.jpg}
-\caption[De mobiele bloemmolen van Peter Schoofs.]{De mobiele molen verorbert moeiteloos `25 kg` speltgraan.}
+\caption[De mobiele bloemmolen van Peter Schoofs.]{De mobiele molen verorbert moeiteloos 25 kg speltgraan.}
 \end{figure}
 
 ‘De wrijving van de stenen zorgen ervoor dat de granen worden geplet, maar ook dat alles wordt verhit. Je moet zien dat ze niet te snel roteren of er gaan waardevolle mineralen verloren!’ schreeuwt hij om boven het lawaai van de molen uit te komen. Een grote zak vangt het meel op die uit de molen valt, maar de kamer wordt desalniettemin bekleed met een laagje fijn stof. Het meel wat er uit komt is redelijk fijn gemalen en nog warm. 
@@ -230,7 +230,7 @@ Deze formule ontwikkelde ik als ode aan wijlen Willy Herteleer, die zijn klanten
 De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbrood_ dat Peter nog steeds dagelijks bakt. Een '_goed, stevig deeg_', zoals Willy het zou hebben gewild. 
 
 | Hoeveelheid | Percentage | Beschrijving                 |
-|:-----------:|:----------:|:-----------------------------|
+|------------:|-----------:|:-----------------------------|
 | `200 gr`    | `20%`      | Tarwebloem, `T110`           | 
 | `600 gr`    | `60%`      | Tarwemeel, volkoren          |
 | `200 gr`    | `20%`      | Roggemeel, volkoren          |

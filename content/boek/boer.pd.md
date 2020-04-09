@@ -475,7 +475,7 @@ Een andere factor om rekening mee te houden is het juiste vochtigheidsniveau. Ge
 Om in het thema van brouwen te blijven is een deel van het water vervangen door bier. Gebruik eender welk lokaal beschikbaar karaktervol bier van hoge gisting dat niet té veel alcohol bevat. Door de totale rijstijd te verkorten en op dezelfde dag te bakken, verzwakt het aroma van zuurdesem, zodat de smaak van het bier toch nog een kans krijgt om voldoende door te breken. 
 
 | Hoeveelheid | Percentage | Beschrijving          |
-|:-----------:|:----------:|:----------------------|
+|------------:|-----------:|:----------------------|
 | `900 gr`    | `90%`      | `T65` tarwebloem      |
 | `100 gr`    | `10%`      | `T110` tarwemeel      |
 | `200 gr`    | `20%`      | Draf                  |

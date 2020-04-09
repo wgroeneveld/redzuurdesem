@@ -34,7 +34,7 @@ Luikse wafels gaan het echter niet redden met alleen maar zuurdesem. Een Luikse 
 De volgende formule hanteer ik voor het bakken van ongeveer 16 Brusselse Wafels:
 
 | Hoeveelheid | Percentage | Beschrijving           |
-|:-----------:|:----------:|:-----------------------|
+|------------:|-----------:|:-----------------------|
 | `250 gr`    | `100%`     | Tarwebloem, `T65`      |
 | `500 gr`    | `200%`     | Volle melk             |
 | `100 gr`    | `40%`      | Gesmolten boter        |

@@ -37,7 +37,7 @@ Het bakproces bestaat uit een aantal stappen waarvan er maar twee nooit kunnen w
 De Nederlandstalige terminologie om elke stap in het proces te identificeren klinkt erg slap in vergelijking met de bewoording in het Engels, Duits en Frans, die in goede internationale bakboeken terug te vinden is. Om verwarring te vermijden somt de volgende tabel de meest gebruikte terminologie op:
 
 | Stap | Term EN/NL     | Term FR/DE  | Beschrijving                          |
-|:----:|:---------------|:----------------|:----------------------------------|
+|-----:|:---------------|:----------------|:----------------------------------|
 |  1   | _Preferment_ \newline Voordeeg  | _Levain-panaire_ \newline Vorstufe      | Een stuk deeg op voorhand fermenteren.      |
 |  2   | _Mixing_ \newline Mengen        | _Mélanger_ \newline Mischen       | De ingrediënten samen brengen.
 |  3   | _Autolyse_ \newline /     | / \newline /         | Bloem de kans geven om water te absorberen. |
@@ -89,7 +89,7 @@ De '_boer_' in boerenbrood staat voor de onbedoelde oogst van een beetje rogge t
 Van oudsher wordt tarwebrood voornamelijk in Frankrijk gebakken, en roggebrood in Duitsland. Tarwe gedijt goed in een mild klimaat, en rogge kan wel tegen een stootje. België ligt tussen die twee graanregio's in, wat het de perfecte plaats maakt om een moderne variant van het oude masteluinbrood uit hoofdstuk \ref{boer} te bakken door beide soorten graan te combineren..
  
 | Hoeveelheid | Percentage | Beschrijving        |
-|:-----------:|:----------:|:--------------------|
+|------------:|-----------:|:--------------------|
 | `850 gr`    | `100%`     | Tarwebloem, T65     |
 | `150 gr`    | `15%`      | Roggemeel, volkoren |
 | `700 gr`    | `70%`      | Water               |
@@ -151,7 +151,7 @@ Ik voeg nooit vetstoffen toe aan mijn brood, zelfs niet als het om pizza- of foc
 Ik hou van die erg geurige, donkerbruine, plakkerige sneetjes roggebrood. Hoe meer rogge gebruikt in de formule, hoe krachtiger de smaak, en hoe sneller een voldaan gevoel. In tegenstelling tot het tarwebrood laat ik het percentage aan rogge vaker schommelen, meestal tussen `50` en `80%`. Als je nog nooit hebt gebakken met rogge is het een slimme zet om te beginnen met de helft en na een aantal geslaagde experimenten gestaag de hoeveelheid op te krikken. Dankzij de pentosen in rogge gaat het deeg veel sneller plakken dan een typisch tarwedeeg. 
 
 | Hoeveelheid | Percentage | Beschrijving        |
-|:-----------:|:----------:|:--------------------|
+|------------:|-----------:|:--------------------|
 | `400 gr`    | `40%`      | Tarwebloem, T65     |
 | `600 gr`    | `60%`      | Roggemeel, volkoren |
 | `770 gr`    | `77%`      | Water               |
@@ -238,7 +238,7 @@ Deze combinatie van gist en zuurdesem wordt ook wel een _hybride_ deeg genoemd. 
 In dit geval vullen beide rijsmiddelen elkaar aan. De smaak komt van het voordeeg en het volume van de gist. Om het maximum uit het voordeeg te halen fermenteer je best zoveel mogelijk op voorhand, waarvan bij voorkeur volkoren granen. De formule van het tarwe boerenbrood ziet er dan als volgt uit:
 
 | Hoeveelheid | Percentage | Beschrijving        |
-|:-----------:|:----------:|:--------------------|
+|------------:|-----------:|:--------------------|
 | `850 gr`    | `100%`     | Tarwebloem, T65     |
 | `150 gr`    | `15%`      | Roggemeel, volkoren |
 | `650 gr`    | `65%`      | Water               |

@@ -9,7 +9,7 @@
 Juli 2018
 \end{flushright}
 
-In Venteuil, een klein dorpje in de Champagne streek te Frankrijk dat vijfhonderd hele inwoners telt, ligt wijnmaker Autréau-Lasnot[^lasnot]. Er zijn honderden grote en kleine champagneboeren gevestigd in de streek - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkasten. 
+Wijnmaker Autréau-Lasnot[^lasnot] bevindt zich in Venteuil, een klein dorpje in de Champagnestreek van Frankrijk dat vijfhonderd hele inwoners telt. Er zijn tientallen grote en kleine champagneboeren gevestigd in de streek - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkasten. 
 
 Ik drink geen alcohol, maar dat is geen reden om een uitgebreid bezoek aan deze streek af te slaan. Ik hou van alles wat met fermentatie te maken heeft. Het alcoholisch bijproduct is dan voor mij natuurlijk jammer, maar terwijl iedereen zich bezat dankzij de verschillende proeverijen kan ik vrolijk wat rondkijken. 
 

@@ -229,7 +229,7 @@ Het enige wat me nu nog restte was de blijde boodschap verkondigen dat ik de kom
 Wanneer ik workshops geef van korte duur, moet ik terugvallen op de snelheid van gist. Ik combineer dan de smaak van zuurdesem met de rijskracht van gist. Het voordeeg maak ik zelf een dag op voorhand thuis. 
 
 | Hoeveelheid | Percentage | Beschrijving             |
-|:-----------:|:----------:|:-------------------------|
+|------------:|-----------:|:-------------------------|
 | `1000 gr`   | `100%`     | Tarwebloem mengeling     |
 | `630 gr`    | `63%`      | Water                    |
 | `3 gr`      | `0.3%`     | Gedroogde gist           |

@@ -300,7 +300,7 @@ Wat is het verschil tussen pizzadeeg en brooddeeg? Dat is een strikvraag. Er is 
 De volgende formule is samen met het Altamura brood uit hoofdstuk \ref{altamurabrood} een van de favorieten van ons gezin.
 
 | Hoeveelheid | Percentage | Beschrijving         |
-|:-----------:|:----------:|:---------------------|
+|------------:|-----------:|:---------------------|
 | `900 gr`    | `95%`      | `T65` tarwebloem     |
 | `50 gr`     | `5%`       | `T110` tarwemeel     |
 | `670 gr`    | `67%`      | Water                |

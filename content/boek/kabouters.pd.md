@@ -191,7 +191,7 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een
 Dit was mijn favoriet brood toen ik frequent gebruik maakte van de trouwe kabouter zijn diensten, voordat ik leerde werken met zuurdesem. Indien jouw machine de hoeveelheid bloem beperkt tot een ander maximum dan `550 gr`, herreken dan alle gewichten met behulp van het gegeven percentage. Voor uitleg over het gebruik van deze tabellen, zie hoofdstuk \ref{bakkenhf}. 
 
 | Hoeveelheid | Percentage | Beschrijving         |
-|:-----------:|:----------:|:---------------------|
+|------------:|-----------:|:---------------------|
 | `550 gr`    | `100%`     | Bloem - eender wat   |
 | `320 gr`    | `58%`      | Water                |
 | `8 gr`      | `1.5%`     | Zout                 |

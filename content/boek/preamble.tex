@@ -48,7 +48,8 @@
 % args: hstylei, hlefti, hcenteri, hrighti
 \makeevenfoot{desem}{\textsf{\textcolor{lightgray}{\footnotesize \textbf{\thepage} \: | \: RED ZUURDESEM}}}{}{} 
 \makeoddfoot{desem}{}{}{\textsf{\textcolor{lightgray}{\footnotesize \leftmark \: | \: \textbf{\thepage}}}}
-\copypagestyle{chapter}{desem}
+\copypagestyle{plain}{desem}
+\copypagestyle{part}{empty}
 \AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{empty}}} 
 
 % footnotes: one per page (needs re-compilation, could crash first time) and symbols

@@ -438,7 +438,7 @@ Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met 
 
 * Fermenteren en rijzen: twee woorden voor hetzelfde idee.
 * (Ongeveer) hetzelfde proces dat wij gebruiken om ons voedsel te verteren wordt ook gebruikt om brood mee te maken. 
-* Een bakker is eigenlijk een God, die het lot bepaalt over duizenden organismen. 
+* Een bakker is eigenlijk een god, die het lot bepaalt over duizenden organismen. 
 * Die organismen zijn te beïnvloeden door te spelen met vochtigheid, zuurtegraad, zoutgehalte, temperatuur en tijd. 
 * Smaak komt niet van één giststam, maar van veel melkzuurbacteriën. 
 * Elke zuurdesemcultuur is uniek en permanent verbonden aan de regio.
