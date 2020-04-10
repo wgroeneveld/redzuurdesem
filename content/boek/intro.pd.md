@@ -124,7 +124,7 @@ En als er al eens iets mislukt, vloek ik nog steeds, maar doe ik dat al glimlach
 
 Langs de andere kant is de alsmaar technischer wordende visie van de moderne mens, gepaard met de vaak onredelijke wens om te blijven 'innoveren', heel gevaarlijk voor de toekomst van voedzaam brood. De invloed van techniek op een ambacht als brood bakken is groot, maar niet radicaal. 
 
-Sommige 'innovators' denken de fundamenten van het broodbakproces dat al zesduizend jaar in stand wordt gehouden te kunnen ontwrichten. Dat noem ik pure arrogantie. Op dat moment komt mijn gezonde achterdocht voor industrialisatie terug boven drijven. Op dat moment moet inderdaad zuurdesem _gered_ worden. 
+Sommige 'innovators' denken de fundamenten van het broodbakproces dat al zesduizend jaar in stand wordt gehouden te kunnen ontwrichten. Dat noem ik pure arrogantie. Op dat moment komt mijn gezonde achterdocht voor industrialisatie terug boven drijven. Op dat moment moet zuurdesem inderdaad _gered_ worden. 
 
 Die weerstand tegen innovatie blijkt een dunne lijn te zijn tussen gezonde en hardnekkige weerstand. Dat is de tweede belangrijke reden om iets te leren over de wetenschap van ons voedsel. We moeten wel: het ziet er niet naar uit dat industriële innovatie binnenkort gaat vertragen. Ik wil weten wat er in mijn eten zit voordat het in mijn maag terechtkomt. En dat geldt ook voor mijn dagelijks brood. 
 
