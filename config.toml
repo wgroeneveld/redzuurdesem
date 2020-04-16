@@ -32,14 +32,20 @@ home = [ "HTML", "RSS", "JSON"]
   fractions = false
 
 [[menu.shortcuts]] 
-name = "<i class='fa fa-facebook'></i> Facebook"
-identifier = "ds"
-url = "https://facebook.com/redzuurdesem"
+name = "<i class='fas fa-book-open'></i> Red Zuurdesem: het boek"
+identifier = "boek"
+url = "/het-boek"
 weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-facebook-square'></i> Facebook"
+identifier = "fb"
+url = "https://facebook.com/redzuurdesem"
+weight = 11
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-link'></i> Broodbak Vrienden"
 identifier = "links"
 url = "/vrienden"
-weight = 11
+weight = 12
 

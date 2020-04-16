@@ -3,9 +3,31 @@ chapter = true
 date = 2018-04-20
 +++
 
-# Red Zuurdesem
+### <i class="fas fa-angle-double-left" style="color: lightgrey;"></i>&nbsp; Nu beschikbaar &nbsp;<i class="fas fa-angle-double-right" style="color: lightgrey;"></i>
 
-Brood. Het is iets simpel, maar tegelijkertijd iets complex. Vandaag de dag denken maar weinig mensen na over de textuur en smaak van brood terwijl stukken gedachteloos worden opgegeten. Dit komt deels doordat de mens een gewoontedier is en niet genoeg tijd neemt om dankbaar te zijn voor eten, maar ook deels door de industrialisatie van het broodbakproces.
+<div class="boek-row">
+    <div class="boek-col-left">
+        <h1>Red Zuurdesem<br/> Het Boek</h1>
+        <h3>10 jaar kennis gebundeld in 370 pagina's</h3>
+        
+        <a href="/het-boek">
+            <button>Ontdek het boek &nbsp;&nbsp;<i class="far fa-arrow-alt-circle-right"></i></button>
+        </a>
+    </div>
+    <div class="boek-col-right">
+        <a href="/het-boek">
+            <img src="/het-boek/assets/img/efebdc275ac3846de132613bafc09033.png" />
+        </a>
+    </div>
+</div>
+
+<div style="clear: both;"></div>
+
+---
+
+## Red Zuurdesem
+
+Brood. Het is iets eenvoudig, maar tegelijkertijd iets complex. Vandaag de dag denken maar weinig mensen na over de textuur en smaak van brood terwijl stukken gedachteloos worden opgegeten. Dit komt deels doordat de mens een gewoontedier is en niet genoeg tijd neemt om dankbaar te zijn voor eten, maar ook deels door de industrialisatie van het broodbakproces.
 
 <center>
     ![Korst](/images/korst.jpg)
