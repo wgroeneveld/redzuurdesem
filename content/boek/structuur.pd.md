@@ -344,19 +344,19 @@ Deze formule volgde ik:
 
 | Hoeveelheid | Percentage | Beschrijving        |
 |------------:|-----------:|:--------------------|
-| `500 gr`    | `100%`     | Tarwebloem, T65     |
-| `330 gr`    | `66%`      | Water               |
-| `4 gr`      | `0.8%`     | gedroogde gist      |
-| `10 gr`     | `2%`       | Grijs zeezout       |
-| `12 gr`     | `2.4%`     | toegevoegde stoffen |
+| `500 g`    | `100%`     | Tarwebloem, T65     |
+| `330 g`    | `66%`      | Water               |
+| `4 g`      | `0.8%`     | gedroogde gist      |
+| `10 g`     | `2%`       | Grijs zeezout       |
+| `12 g`     | `2.4%`     | toegevoegde stoffen |
 
 Table: Formule voor brood van het enzymen experiment. `66%` hydratatie.
 
 Waarvan voor het voordeeg (`20%`):
 
-> `100 gr` tarwebloem, T65 \newline
-> `100 gr` water \newline
-> `0.7 gr` gedroogde gist \newline
+> `100 g` tarwebloem, T65 \newline
+> `100 g` water \newline
+> `0.7 g` gedroogde gist \newline
 
 Het voordeeg heeft 12 uur gefermenteerd met een initiële temperatuur van `25°C` die terugzakte tot `19.3°C`. Als deel van het experiment is consistentie in het broodbakproces belangrijk, anders wordt misschien de verkeerde conclusie getrokken. Het deeg zou `24°C` moeten zijn, maar het voordeeg was al afgekoeld. 
 
@@ -388,7 +388,7 @@ Een tweede probleem is het kneedoppervlak: de koude marmeren steen van mijn keuk
 
 Table: De waargenomen rijstijden voor elk type deeg in het experiment. \label{rijstable}
 
-Ik werkte niet parallel, dus nadat het controledeeg als eerste in de rijskast verdween kon ik aan het tweede deeg beginnen. Om te oordelen op welk moment de eerste rijstijd onderbroken moet worden, liet ik `150 gr` van het deeg rijzen in doorzichtige cilindervormige containers. Op het begin en het einde van de eerste fermentatie werd met plakband aangeduid tot op welke hoogte het stukje deeg stond. 
+Ik werkte niet parallel, dus nadat het controledeeg als eerste in de rijskast verdween kon ik aan het tweede deeg beginnen. Om te oordelen op welk moment de eerste rijstijd onderbroken moet worden, liet ik `150 g` van het deeg rijzen in doorzichtige cilindervormige containers. Op het begin en het einde van de eerste fermentatie werd met plakband aangeduid tot op welke hoogte het stukje deeg stond. 
 
 Het controledeeg verdriedubbelde in grootte na exact twee uur rijzen. Op dat moment besliste ik het deeg in een _boule_ te vormen en in een rijsmandje opnieuw te laten rijzen. De andere types deeg werden gevormd op het moment dat in elke aparte container duidelijk zichtbaar was dat ze even hoog stonden als het controledeeg. 
 
@@ -400,9 +400,9 @@ Ik besefte al tijdens het kneden dat er iets mis was: het deeg voelde erg korrel
 
 Het was echter niet zo'n slim idee om enkel op basis van volume te controleren of het deeg klaar was voor de volgende stap. De enzymen deden wel degelijk hun werk. Toen ik het deeg uit de mengkom haalde, voelde en rook ik dat het in feite te lang gerezen had. 
 
-De wetenschappelijke waarde van dit experiment zakte naar nul, ik haalde mijn schouders op (na een vloek of twee), en werkte gewoon verder. Dat was trouwens niet de eerste fout die ik maakte: het controledeeg kreeg per ongeluk `560 gr` water in plaats van `320 gr` omdat ik gewoon ben om met kilo's te werken. Ik besefte dit juist voordat ik ging mengen, dus wat prutswerk met lepeltjes later gaf de weegschaal toch nog het juiste gewicht aan. 
+De wetenschappelijke waarde van dit experiment zakte naar nul, ik haalde mijn schouders op (na een vloek of twee), en werkte gewoon verder. Dat was trouwens niet de eerste fout die ik maakte: het controledeeg kreeg per ongeluk `560 g` water in plaats van `320 g` omdat ik gewoon ben om met kilo's te werken. Ik besefte dit juist voordat ik ging mengen, dus wat prutswerk met lepeltjes later gaf de weegschaal toch nog het juiste gewicht aan. 
 
-Alle factoren die het experiment kunnen beïnvloeden volledig onder controle hebben in eigen keuken lukt nooit. Mijn dure weegschaal beweert precies te zijn tot op `0.1 gr`, maar gaf er toch de brui aan tijdens het afwegen van de gedroogde gist. Hoe meet je exact `0.7 gr` gist? Daarvoor was de weegschaal blijkbaar niet duur genoeg. 
+Alle factoren die het experiment kunnen beïnvloeden volledig onder controle hebben in eigen keuken lukt nooit. Mijn dure weegschaal beweert precies te zijn tot op `0.1 g`, maar gaf er toch de brui aan tijdens het afwegen van de gedroogde gist. Hoe meet je exact `0.7 g` gist? Daarvoor was de weegschaal blijkbaar niet duur genoeg. 
 
 Een voedselthermometer die ook kan worden gebruikt om gaartijd van vlees in de gaten te houden werkte wel verrassend accuraat. 
 
@@ -414,9 +414,9 @@ Na ongeveer een halfuur tweede rijs, vijfenveertig minuten bakken, en meer dan t
 
 Het expertenpanel bestaande uit Kristien en mezelf verkozen unaniem het natuurlijke (controle-)brood als winnaar op basis van zintuiglijke input. Het brood met de verbeteraar rook en smaakte het meeste _gistig_ van de drie. Het controlebrood proefde zoeter. Het verschil tussen beiden was echter subtiel, zowel op gebied van smaak als op gebied van presentatie. Beide broden rezen even goed in de oven en barstten heel mooi open op de ingesneden plekken. De korst van het brood met verbeteraar was iets bruiner, maar dat kan evengoed aan een toevallige minuut langere baktijd hebben gelegen. Wij vonden beiden geen enkele reden om naar de winkel te hollen om kilo's verbeteraar in te slaan. De toevoeging van het spul gaf geen enkele meerwaarde aan het brood. 
 
-Misschien dat we onze mening moeten herzien zonder het gebruik van een voordeeg, ook al twijfel ik daar sterk aan. De snelheidswinst als voornaamste reden aanhalen is erg kortzichtig denken over voedsel. Goede (en lekkere) dingen kosten nu eenmaal tijd. De `4 gr` of `0.8 %`[^percgist] gist voelt al aan als valsspelen. 
+Misschien dat we onze mening moeten herzien zonder het gebruik van een voordeeg, ook al twijfel ik daar sterk aan. De snelheidswinst als voornaamste reden aanhalen is erg kortzichtig denken over voedsel. Goede (en lekkere) dingen kosten nu eenmaal tijd. De `4 g` of `0.8 %`[^percgist] gist voelt al aan als valsspelen. 
 
-[^percgist]: Dit is érg weinig, zelfs voor gedroogde gist. Een typisch brooddeeg bestaand uit `6 kg` bloem bij de avondles vereiste `480 gr` verse gist, ofwel `8%`. Dit percentage delen door drie om de verse gist om te zetten naar gedroogde is nog hoger dan onze procentuele waarde van minder dan één! En dan te bedenken dat er vaak nog suiker wordt toegevoegd...
+[^percgist]: Dit is érg weinig, zelfs voor gedroogde gist. Een typisch brooddeeg bestaand uit `6 kg` bloem bij de avondles vereiste `480 g` verse gist, ofwel `8%`. Dit percentage delen door drie om de verse gist om te zetten naar gedroogde is nog hoger dan onze procentuele waarde van minder dan één! En dan te bedenken dat er vaak nog suiker wordt toegevoegd...
 
 De interessantste ontdekking was echter de smaak van het brood met koji. Het is moeilijk om met woorden te beschrijven hoe iets proeft dus ik ga het gewoon houden op _anders_. De actieve enzymen hebben de eenvoudige, zoetachtig gistige smaak van het controlebrood omgebogen tot een complexere vorm met invloeden van umami. Door karamelisatie en de Maillard reactie is de smaak en geur van de korst minder afwijkend dan het kruim. 
 

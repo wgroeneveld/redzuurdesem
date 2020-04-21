@@ -352,9 +352,9 @@ Pudding wordt in België meestal met enkel melk gekookt. Een alternatief wat ik 
 | Hoeveelheid   | Percentage | Beschrijving        |
 |--------------:|-----------:|:--------------------|
 | `1 kg`        | `100%`     | Volle melk          |
-| `120 gr`      | `12%`      | Fijne suiker        |
-| `90 gr`       | `9%`       | Maïszetmeel         |
-| `90 gr` (`5`) | `9%`       | Eidooiers           |
+| `120 g`      | `12%`      | Fijne suiker        |
+| `90 g`       | `9%`       | Maïszetmeel         |
+| `90 g` (`5`) | `9%`       | Eidooiers           |
 | /             | /          | Smaakmaker          |
 
 Table: Formule voor een basis banketbakkersroom.
@@ -384,7 +384,7 @@ Als eerste wordt alles zeer snel gekneed, met het oog op een bepaalde deegtemper
 
 De tweede stap is de voorrijs of _bulkrijs_, waarbij het deeg in zijn geheel (vandaar de naam ‘_bulk_’) kan rusten. Dit rusten ontspant het deeg, en geeft het tijd om te rijzen. Wanneer de gluten ontspannen, is het voor ons eenvoudiger om het deeg te verdelen in de juiste proporties, om het daarna de juiste vorm te kunnen geven. Een te gespannen deeg werkt tegen. Deze stap neemt ongeveer twintig minuten in beslag. Je leest dat goed: twintig minuten. Belachelijk kort, waarbij het deeg onvoldoende tijd krijgt om smaak te ontwikkelen.
 
-De derde stap is het verdelen. Het deeg wordt platgeslagen, en die o zo voorzichtig opgebouwde lucht wordt er volledig uitgedrukt om het daarna met de hand of met een opbolmachine vorm te geven. Er bestaan ook grote machines om degen van `800 gr` automatisch vorm te geven, maar die hadden wij niet in onze bakkerij. Wij gebruikten de opbolmachine enkel voor kleine luxe broodjes. 
+De derde stap is het verdelen. Het deeg wordt platgeslagen, en die o zo voorzichtig opgebouwde lucht wordt er volledig uitgedrukt om het daarna met de hand of met een opbolmachine vorm te geven. Er bestaan ook grote machines om degen van `800 g` automatisch vorm te geven, maar die hadden wij niet in onze bakkerij. Wij gebruikten de opbolmachine enkel voor kleine luxe broodjes. 
 
 Daarna is het tijd voor de vierde stap: de tweede rijs of _narijs_ in de rijskast. De narijs is bijna altijd exact één uur dankzij de instelbare temperatuur van de rijskast.
 
@@ -492,14 +492,14 @@ Moest je toe willen geven aan die plotse zin om een sandwich zoals we ze leerden
 
 | Hoeveelheid | Percentage | Beschrijving                  |
 |------------:|-----------:|:------------------------------|
-| `1000 gr`   | `100%`     | Tarwebloem (`11.5`% eiwitp.)  |
-| `400 gr`    | `40%`      | Water                         |
-| `40 gr`     | `4%`       | Melkpoeder (`10%` v. h. water)|
-| `100 gr`    | `10%`      | Eieren (twee kleine)          |
-| `100 gr`    | `10%`      | Verse gist                    |
-| `40 gr`     | `4%`       | Fijne kristalsuiker           |
-| `150 gr`    | `15%`      | Verbeteraar                   |
-| `14 gr`     | `1.4%`     | Zout                          |           
+| `1000 g`   | `100%`     | Tarwebloem (`11.5`% eiwitp.)  |
+| `400 g`    | `40%`      | Water                         |
+| `40 g`     | `4%`       | Melkpoeder (`10%` v. h. water)|
+| `100 g`    | `10%`      | Eieren (twee kleine)          |
+| `100 g`    | `10%`      | Verse gist                    |
+| `40 g`     | `4%`       | Fijne kristalsuiker           |
+| `150 g`    | `15%`      | Verbeteraar                   |
+| `14 g`     | `1.4%`     | Zout                          |           
 
 Table: Formule voor sandwiches, gebaseerd op het standaardrecept van de basisopleiding.
 
@@ -517,20 +517,20 @@ Een simpele verbetering zou kunnen zijn om de verbeteraar te vervangen door bote
 
 | Hoeveelheid | Percentage | Beschrijving                         |
 |------------:|-----------:|--------------------------------------|
-| `1000 gr`   | `100%`     | Tarwebloem                           |
-| `400 gr`    | `40%`      | Volle melk                           |
-| `100 gr`    | `10%`      | Eieren (twee kleine)                 |
-| `10 gr`     | `1%`       | Verse gist                           |
-| `40 gr`     | `4%`       | Fijne kristalsuiker                  |
-| `150 gr`    | `15%`      | melkerijboter                        |
-| `16 gr`     | `1.6%`     | Zout                                 |           
+| `1000 g`   | `100%`     | Tarwebloem                           |
+| `400 g`    | `40%`      | Volle melk                           |
+| `100 g`    | `10%`      | Eieren (twee kleine)                 |
+| `10 g`     | `1%`       | Verse gist                           |
+| `40 g`     | `4%`       | Fijne kristalsuiker                  |
+| `150 g`    | `15%`      | melkerijboter                        |
+| `16 g`     | `1.6%`     | Zout                                 |           
 
 Table: Formule voor sandwiches, met zuurdesem.
 
 Waarvan voor het voordeeg (`10%` van de bloem):
 
-> `100 gr` tarwebloem \newline
-> `100 gr` volle melk \newline
+> `100 g` tarwebloem \newline
+> `100 g` volle melk \newline
 > `1 el` zuurdesemstarter 
 
 Methode:

@@ -62,7 +62,7 @@ Mijn uitdrukkelijke dank gaat uit naar alle geïnterviewden in dit boek: Peter S
 Ook de twee leraren die mij motiveerden te blijven zoeken zet ik hier graag opnieuw in de verf: Ghislain Theunens en Sarah Lemke, beiden grootmeesters in hun eigen vakgebied.
 Bedankt aan alle cursisten en organisatoren van broodbakworkshops voor jullie gedeelde enthousiasme over dit onderwerp.
 
-De personen met het nodige geduld om een driehonderd pagina's tellend manuscript na te lezen en te verbeteren: \mbox{Linus} De Meyere, Luk Weyens, Ivan Thoelen. Mijn vaste _partner in crime_ aangaande broodzaken, Dimitri Meus. Wanneer zijn we nog eens weg?
+De personen met het nodige geduld om een driehonderd pagina's tellend manuscript na te lezen en te verbeteren: \mbox{Linus} De Meyere, Luk Weyens, Ivan Thoelen, Dirk Haverhals. Mijn vaste _partner in crime_ aangaande broodzaken, Dimitri Meus. Wanneer zijn we nog eens weg?
 
 Mijn vader, Herman Groeneveld, om mij al dan niet bewust aan te steken, zoals zijn vader op zijn beurt de bakmicrobe doorgaaf aan hem. Ik hoop u op mijn beurt ervan te overtuigen dat alleen maar gist gebruiken saai is.
 

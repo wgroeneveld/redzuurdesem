@@ -231,31 +231,31 @@ De hoge hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenbr
 
 | Hoeveelheid | Percentage | Beschrijving                 |
 |------------:|-----------:|:-----------------------------|
-| `200 gr`    | `20%`      | Tarwebloem, `T110`           | 
-| `600 gr`    | `60%`      | Tarwemeel, volkoren          |
-| `200 gr`    | `20%`      | Roggemeel, volkoren          |
-| `750 gr`    | `75%`      | Water                        |
-| `50 gr`     | `5%`       | Zilvervliesrijst, ongemalen  |
-| `50 gr`     | `5%`       | Speltgranen, ongemalen       |
-| `100 gr`    | `10%`      | Lijnzaad, ongebroken         |
-| `20 gr`     | `2%`       | Grijs zeezout                |
+| `200 g`    | `20%`      | Tarwebloem, `T110`           | 
+| `600 g`    | `60%`      | Tarwemeel, volkoren          |
+| `200 g`    | `20%`      | Roggemeel, volkoren          |
+| `750 g`    | `75%`      | Water                        |
+| `50 g`     | `5%`       | Zilvervliesrijst, ongemalen  |
+| `50 g`     | `5%`       | Speltgranen, ongemalen       |
+| `100 g`    | `10%`      | Lijnzaad, ongebroken         |
+| `20 g`     | `2%`       | Grijs zeezout                |
 
 Table: Formule voor stevig granenbrood.
 
 Waarvan voor het voordeeg (`20%`):
 
-> `200 gr` tarwemeel, volkoren \newline
-> `200 gr` water \newline
+> `200 g` tarwemeel, volkoren \newline
+> `200 g` water \newline
 > `1 el` zuurdesemstarter 
 
 Methode:
 
 - _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 20u00_: Starter in koeling. Voordeeg maken op kamertemperatuur.
-- _Dag 1, 20u01_: Laat `200 gr` roggemeel met `300 gr` kokend water en `2 gr` zout afgedekt een nacht weken.
-- _Dag 1, 20u02_: Laat `100 gr` lijnzaad samen met `125 gr` onverhit water afgedekt een nacht weken.
-- _Dag 1, 20u03_: Meng `50 gr` rijst en `50 gr` speltgranen met `1 el` zuurdesemstarter en `125 gr` water op kamertemperatuur.
-- _Dag 2, 08u00_: Voeg alles samen met de resterende `200 gr` water. Kneden. 2u Eerste rijs op `24°C`.
+- _Dag 1, 20u01_: Laat `200 g` roggemeel met `300 g` kokend water en `2 g` zout afgedekt een nacht weken.
+- _Dag 1, 20u02_: Laat `100 g` lijnzaad samen met `125 g` onverhit water afgedekt een nacht weken.
+- _Dag 1, 20u03_: Meng `50 g` rijst en `50 g` speltgranen met `1 el` zuurdesemstarter en `125 g` water op kamertemperatuur.
+- _Dag 2, 08u00_: Voeg alles samen met de resterende `200 g` water. Kneden. 2u Eerste rijs op `24°C`.
 - _Dag 2, 10u00_: Vorm geven. 1.5u Tweede rijs op `24°C`.
 - _Dag 2, 11u30_: Bakken zonder stoom.
 - _Dag 2, 12u20_: Afkoelen.

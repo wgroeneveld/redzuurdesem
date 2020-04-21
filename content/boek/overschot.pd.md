@@ -11,7 +11,7 @@ Voedsel verspillen is nooit leuk, en met een beetje creativiteit hoeft dat ook n
 
 ### Te veel desem
 
-Het onderhouden van een zuurdesemcultuur vereist regelmatige opkweekfases waarin een deel van de verzuurde desem wordt weggegooid. Dat wegwerpen is goed voor de composthoop, maar kan ook voor andere doeleinden worden gebruikt. Het te veel aan zuurdesem tijdens het opkweken gooi ik meestal weg omdat de zuurtegraad de smaak en rijskracht te zeer beïnvloedt. Het is heel eenvoudig om 'te veel' aan actieve desem te hebben, door gewoon wat meer bloem en water te gebruiken. Veel bakboeken spreken over het onderhouden van meer dan `100 gr` desem. Dat is absurd: meer dan de helft daarvan is plots overschot. Ik houd mijn starter altijd zo klein mogelijk. Een eetlepel aan het voordeeg toevoegen is meer dan genoeg om de volgende dag hevig borrelend verder te verwerken. Als alles is opgebruikt en de nood er toch is om een beetje zuurdesem ergens toe te voegen, gebruik dan gewoon wat van je starter zelf. 
+Het onderhouden van een zuurdesemcultuur vereist regelmatige opkweekfases waarin een deel van de verzuurde desem wordt weggegooid. Dat wegwerpen is goed voor de composthoop, maar kan ook voor andere doeleinden worden gebruikt. Het te veel aan zuurdesem tijdens het opkweken gooi ik meestal weg omdat de zuurtegraad de smaak en rijskracht te zeer beïnvloedt. Het is heel eenvoudig om 'te veel' aan actieve desem te hebben, door gewoon wat meer bloem en water te gebruiken. Veel bakboeken spreken over het onderhouden van meer dan `100 g` desem. Dat is absurd: meer dan de helft daarvan is plots overschot. Ik houd mijn starter altijd zo klein mogelijk. Een eetlepel aan het voordeeg toevoegen is meer dan genoeg om de volgende dag hevig borrelend verder te verwerken. Als alles is opgebruikt en de nood er toch is om een beetje zuurdesem ergens toe te voegen, gebruik dan gewoon wat van je starter zelf. 
 
 #### Om zoetigheid te bakken
 
@@ -21,7 +21,7 @@ In plaats van het overschot weg te gooien, kan je het ook gekoeld bijhouden totd
 
 Zuurdesem in zoetigheid zoals pannenkoeken is erg lekker gegeven dat het niet té sterk doorsmaakt. Wees dus spaarzaam, of balanceer de smaken uit met genoeg zoetstof. De extra suiker in zoet gebak versnelt het rijsproces waardoor lange rijstijden gevaarlijker zijn. Ik laat het pannenkoekenbeslag nooit lang staan als ik overschot gebruik dat te zuur is. Zin in pannenkoeken komt hier altijd zeer onverwacht de kop op steken, wat mij niet in de mogelijkheid stelt om op tijd voordeeg te maken. Op dat moment is overschot uit de koelkast een ideaal alternatief. 
 
-Ik bak pannenkoeken meestal op dezelfde dag dat ik het beslag klaarmaark. Ik gebruik als basis verhouding altijd `100 gr` bloem op `1` ei en `250 gr` melk, dus `250%` hydratatie. In feite is dat nog meer want een gemiddeld ei bevat `55 gr` aan vocht. `200 gr` bloem levert ongeveer 14 koeken op. 
+Ik bak pannenkoeken meestal op dezelfde dag dat ik het beslag klaarmaark. Ik gebruik als basis verhouding altijd `100 g` bloem op `1` ei en `250 g` melk, dus `250%` hydratatie. In feite is dat nog meer want een gemiddeld ei bevat `55 g` aan vocht. `200 g` bloem levert ongeveer 14 koeken op. 
 
 
 
@@ -35,18 +35,18 @@ De volgende formule hanteer ik voor het bakken van ongeveer 16 Brusselse Wafels:
 
 | Hoeveelheid | Percentage | Beschrijving           |
 |------------:|-----------:|:-----------------------|
-| `250 gr`    | `100%`     | Tarwebloem, `T65`      |
-| `500 gr`    | `200%`     | Volle melk             |
-| `100 gr`    | `40%`      | Gesmolten boter        |
-| `2`         | `48%`      | Eieren (`60 gr`)       |
-| `1 gr`      | `0.4%`     | Grijs zeezout          |
+| `250 g`    | `100%`     | Tarwebloem, `T65`      |
+| `500 g`    | `200%`     | Volle melk             |
+| `100 g`    | `40%`      | Gesmolten boter        |
+| `2`         | `48%`      | Eieren (`60 g`)       |
+| `1 g`      | `0.4%`     | Grijs zeezout          |
 
 Table: Formule voor Brusselse wafels. 
 
 Waarvan voor het voordeeg (`100%` van de bloem, `200%` hydratatie):
 
-> `250 gr` tarwebloem \newline
-> `500 gr` volle melk \newline
+> `250 g` tarwebloem \newline
+> `500 g` volle melk \newline
 > `1 el` zuurdesem overschot 
 
 Methode:

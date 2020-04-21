@@ -369,7 +369,7 @@ _Storage Recommendations: Store in the fridge._
 
 Recensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken om te bakken. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies wordt gebruikt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. 
 
-Ik kocht een Jessenhofke speciaalbier en gebruikte het in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met enkel `100 gr` bloem en `100 gr` bier, dat een nacht de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg op basis van zuurdesem. 
+Ik kocht een Jessenhofke speciaalbier en gebruikte het in plaats van water in brooddeeg. Om een idee te krijgen van de kracht van de aanwezige gisten, maakte ik een voordeeg met enkel `100 g` bloem en `100 g` bier, dat een nacht de kans kreeg om te rijzen. Voor alle zekerheid maakte ik ook maar een voordeeg op basis van zuurdesem. 
 
 De volgende ochtend controleerde ik de maturiteit door te kijken naar de hoeveelheid luchtbelletjes. Het voordeeg op basis van zuurdesem zag er zoals verwacht erg blij uit, terwijl de bottelgist van het bier duidelijk nog geen zin had om op te staan. Er was nauwelijks activiteit merkbaar. Een paar uur later evenmin. Deze gisten zijn duidelijk niet gekweekt om op relatief korte tijd te fermenteren. 
 
@@ -414,19 +414,19 @@ Om in het thema van brouwen te blijven, is een deel van het water vervangen door
 
 | Hoeveelheid | Percentage | Beschrijving                         |
 |:-----------:|:----------:|:-------------------------------------|
-| `900 gr`    | `90%`      | T65 tarwebloem                       |
-| `100 gr`    | `10%`      | Tarwemeel, volkoren (fijngemalen)    |
-| `200 gr`    | `20%`      | Draf                                 |
-| `330 gr`    | `33%`      | Speciaalbier                         |
-| `350 gr`    | `35%`      | Water                                |
-| `20 gr`     | `2%`       | Zout                                 |           
+| `900 g`    | `90%`      | T65 tarwebloem                       |
+| `100 g`    | `10%`      | Tarwemeel, volkoren (fijngemalen)    |
+| `200 g`    | `20%`      | Draf                                 |
+| `330 g`    | `33%`      | Speciaalbier                         |
+| `350 g`    | `35%`      | Water                                |
+| `20 g`     | `2%`       | Zout                                 |           
 
 Table: Formule voor bier brood met draf.
 
 Waarvan voor het voordeeg (`10%` van de bloem):
 
-> `100 gr` tarwebloem \newline
-> `100 gr` water \newline
+> `100 g` tarwebloem \newline
+> `100 g` water \newline
 > `1 el` zuurdesemstarter 
 
 Methode:

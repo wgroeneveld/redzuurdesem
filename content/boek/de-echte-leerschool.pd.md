@@ -106,7 +106,7 @@ En zo begon ik mijn eerste dag met mijn mouwen op te stropen, de weegschaal in h
 
 De canelés waren aangebrand. 
 
-> ‘_Ik ben zo moe!_’ moest ik van Eline hier schrijven. Ze is er mee aan het lachen. Eten voor het personeel na drie uur, middag service. Ik heb een paar dingen serieus laten verbranden maar heb constant aan Eline gevraagd of het oké was, dus ja wist ik veel. ‘s Morgens opent De Superette om negen dus croissants en broodpudding en zo moeten al in de vitrine liggen dan. Daarna taarten en cakes bakken voor de keuken, brownies, en tussendoor nieuwe batches maken. Er wordt veel op gevoel gewerkt: constant naar de oven kijken en timen op tien minuten. Niemand kan precies zeggen hoe lang iets moet of hoe donker de karamel moet zijn. De pijn in mijn rug zorgt nu al voor ongevoelige tenen... De werkdruk valt mee vandaag - de eerste dag was het ergste, en ik heb veel hulp gehad vandaag. Brooddeeg helpen opdelen (`800 gr` en `1150 gr`) - supernat deeg van `81%`! Afwegen met een analoge weegschaal en gewichten. Opletten met te veel water toevoegen aan de deegsteker en het weegoppervlak. Het deeg is warm en ruikt naar jonge _levain_[^levain], hoe lang heeft dit gerezen? Er zitten niet super veel bubbeltjes in. Ik fermenteer thuis misschien te lang? Mijn voordeeg is té zuur (azijn in plaats van melk) door de koelkast. Begin er wel wat in te komen, echt wel zwaar werk en geen enkel moment om even op adem te komen. Totaal niet vergelijkbaar met wat ik normaal doe. Hopelijk verdient iedereen hier goed, inclusief de afwassers. Iedereen praat Engels, wel grappig. De mannen van het restaurant _Magis_ te Tongeren komen wat hulp vragen aan Sarah over bakken met zuurdesem, en ik heb Kobe’s _polleke_ geschud, dus mijn dag is goed!  
+> ‘_Ik ben zo moe!_’ moest ik van Eline hier schrijven. Ze is er mee aan het lachen. Eten voor het personeel na drie uur, middag service. Ik heb een paar dingen serieus laten verbranden maar heb constant aan Eline gevraagd of het oké was, dus ja wist ik veel. ‘s Morgens opent De Superette om negen dus croissants en broodpudding en zo moeten al in de vitrine liggen dan. Daarna taarten en cakes bakken voor de keuken, brownies, en tussendoor nieuwe batches maken. Er wordt veel op gevoel gewerkt: constant naar de oven kijken en timen op tien minuten. Niemand kan precies zeggen hoe lang iets moet of hoe donker de karamel moet zijn. De pijn in mijn rug zorgt nu al voor ongevoelige tenen... De werkdruk valt mee vandaag - de eerste dag was het ergste, en ik heb veel hulp gehad vandaag. Brooddeeg helpen opdelen (`800 g` en `1150 g`) - supernat deeg van `81%`! Afwegen met een analoge weegschaal en gewichten. Opletten met te veel water toevoegen aan de deegsteker en het weegoppervlak. Het deeg is warm en ruikt naar jonge _levain_[^levain], hoe lang heeft dit gerezen? Er zitten niet super veel bubbeltjes in. Ik fermenteer thuis misschien te lang? Mijn voordeeg is té zuur (azijn in plaats van melk) door de koelkast. Begin er wel wat in te komen, echt wel zwaar werk en geen enkel moment om even op adem te komen. Totaal niet vergelijkbaar met wat ik normaal doe. Hopelijk verdient iedereen hier goed, inclusief de afwassers. Iedereen praat Engels, wel grappig. De mannen van het restaurant _Magis_ te Tongeren komen wat hulp vragen aan Sarah over bakken met zuurdesem, en ik heb Kobe’s _polleke_ geschud, dus mijn dag is goed!  
 
 [^levain]: Afhankelijk van de bakkerij, wordt het woord 'levain', 'leaven', 'desem', 'starter' of 'sourdough' gebruikt om aan te geven dat het over natuurlijke gisting van het deeg gaat. 
 
@@ -164,7 +164,7 @@ Het is jammer dat ik pas ten volle besefte wat ik van mensen als Sam heb geleerd
 
 
 
-Het brooddeeg verdelen was een onmogelijke opdracht. De ingrediënten worden zonder zout in de kneder gecombineerd tot een los samenhangend geheel. Dan wordt de machine stilgelegd, het zout toegevoegd, en krijgt de bloem ademruimte om het water te absorberen. Dit is de _autolyse_ fase. Werken met zoveel water (meer dan `800 gr` op `1000 gr` bloem) vereist wat ingenieuze trucjes, zoals deze fase, om toch tot een consistent deeg te komen. Na een tijdje kneedt de machine het deeg verder totdat het glutennetwerk volledig ontwikkeld is. Er wordt niet gevouwen om kracht in het deeg op te bouwen, dus die kracht zal daarvoor al voldoende aanwezig moeten zijn in het deeg. 'Wij kneden to _windowpane_[^window]. Er is te weinig plaats om te vouwen, en het kost tijd. Plus het is niet eenvoudig om zo’n nat deeg op tafel te smijten om het even te vouwen' vertelde Sarah me.
+Het brooddeeg verdelen was een onmogelijke opdracht. De ingrediënten worden zonder zout in de kneder gecombineerd tot een los samenhangend geheel. Dan wordt de machine stilgelegd, het zout toegevoegd, en krijgt de bloem ademruimte om het water te absorberen. Dit is de _autolyse_ fase. Werken met zoveel water (meer dan `800 g` op `1000 g` bloem) vereist wat ingenieuze trucjes, zoals deze fase, om toch tot een consistent deeg te komen. Na een tijdje kneedt de machine het deeg verder totdat het glutennetwerk volledig ontwikkeld is. Er wordt niet gevouwen om kracht in het deeg op te bouwen, dus die kracht zal daarvoor al voldoende aanwezig moeten zijn in het deeg. 'Wij kneden to _windowpane_[^window]. Er is te weinig plaats om te vouwen, en het kost tijd. Plus het is niet eenvoudig om zo’n nat deeg op tafel te smijten om het even te vouwen' vertelde Sarah me.
 
 
 
@@ -185,7 +185,7 @@ Ik zat nog met een bijkomend probleem waar niemand last van leek te hebben: mijn
 
 Het verdeelde deeg, dat er eerder uit ziet als een platte pannenkoek, mag even rusten op rekken, waarna het een tweede keer wordt gevormd. Daarna komen ze ondersteboven in rijsmandjes terecht, die in de koelkast verdwijnen om morgenvroeg te worden gebakken. De tweede rijs gaat door de koudere temperatuur van de koelkast veel trager, zodat het deeg genoeg tijd heeft om _smaak_ te ontwikkelen. Het moederdeeg wordt opgekweekt zodat er genoeg voordeeg is voor de volgende baksessie. In totaal duurt het ongeveer 30 uur om brood te maken: 12 uur voordeeg, 4 uur voorrijs, 13 uur narijs, 1 uur kneden en rusten. 
 
-_Meer dan `800 gr` water op één kilo bloem!_ Dat verbaasde me keer op keer wanneer we met het brooddeeg bezig waren. En ik dacht dat ik thuis met een nat deeg werkte. Ik vraag Sarah hoe ze dit percentage zo hoog krijgen. Ze haalt haar schouders op.
+_Meer dan `800 g` water op één kilo bloem!_ Dat verbaasde me keer op keer wanneer we met het brooddeeg bezig waren. En ik dacht dat ik thuis met een nat deeg werkte. Ik vraag Sarah hoe ze dit percentage zo hoog krijgen. Ze haalt haar schouders op.
 
 ‘Ik ben op zoek gegaan naar lokale bloem die tegen een stootje kan. Die vond ik bij _Flour Power_[^flourp]. Het is geen industrieel gebleekte rommel moet je weten. `T65` is zo wit als ik wil gaan met alle producten hier, ook in de cakes.’
 
@@ -199,7 +199,7 @@ _Meer dan `800 gr` water op één kilo bloem!_ Dat verbaasde me keer op keer wan
 
 Met `T65` en `T80` duidt Sarah de uitmalingsgraad[^graad] van de bloem aan. `T45` en `T55` is wat wij kennen als 'patentbloem' of 'patisseriebloem': spierwit en volledig uitgezeefd. `T65` is crèmekleurig, en bevat nog wat restanten van fijn gemalen vezels. De bloem is zeer zacht en fijn om mee te werken. In België en Nederland is er geen officiële indeling van meeltypes. Met wat geluk komt de benaming 'tarwebloem' in de buurt. `T80` kan je vergelijken met halfvolkoren en `T110` bevat nog zo goed als alle componenten van het gemalen graan. `T65` wordt veel gebruikt in Frankrijk om de typische ‘_pain de campagne_’ broden te bakken. Rogge wordt net zoals tarwe gecategoriseerd, maar de gradaties gaan van `T70`, `T85`, `T130` naar `T170`. 
 
-[^graad]: Deze Franse graad geeft aan hoeveel procent van het gewicht van de oorspronkelijke graankorrel overgehouden wordt na het zeven. Een uitmalingsgraad van 65% betekent dat er van `1 kg` graan nog maar `650 gr` overblijft. De rest wordt verkocht als 'gezonde zemelen', of verwerkt in veevoeder. Deze uitmalingsgraad wordt uitgedrukt in asgehalte, waar de T nummers vandaan komen.
+[^graad]: Deze Franse graad geeft aan hoeveel procent van het gewicht van de oorspronkelijke graankorrel overgehouden wordt na het zeven. Een uitmalingsgraad van 65% betekent dat er van `1 kg` graan nog maar `650 g` overblijft. De rest wordt verkocht als 'gezonde zemelen', of verwerkt in veevoeder. Deze uitmalingsgraad wordt uitgedrukt in asgehalte, waar de T nummers vandaan komen.
 
 Hoe hoger het getal, hoe meer water de bloem kan absorberen. Dit heeft niet alleen te maken met uitmalingsgraad. Andere factoren zoals graanvariëteit, eiwitgehalte, versheid van de bloem en zelfs het seizoen van de oogst spelen een rol [@berton2002measurement]. In vergelijking met tarwe houdt rogge bijvoorbeeld veel meer water vast. Het kost wel wat moeite om aan `T65` bloem te geraken. Ik heb het geluk dat ik thuis met lokale bloem kan werken en de boer ken die het zaait en oogst, die we zullen ontmoeten in hoofdstuk \ref{boer}. Sarah vindt de relatie tussen bakker en molenaar heel belangrijk. 
 
@@ -301,17 +301,17 @@ De volgende formule is samen met het Altamura brood uit hoofdstuk \ref{altamurab
 
 | Hoeveelheid | Percentage | Beschrijving         |
 |------------:|-----------:|:---------------------|
-| `900 gr`    | `95%`      | `T65` tarwebloem     |
-| `50 gr`     | `5%`       | `T110` tarwemeel     |
-| `670 gr`    | `67%`      | Water                |
-| `20 gr`     | `2%`       | Zout                 |           
+| `900 g`    | `95%`      | `T65` tarwebloem     |
+| `50 g`     | `5%`       | `T110` tarwemeel     |
+| `670 g`    | `67%`      | Water                |
+| `20 g`     | `2%`       | Zout                 |           
 
 Table: Formule voor pizza.\label{pizzaformule}
 
 Waarvan voor het voordeeg (`10%` van de bloem):
 
-> `100 gr` tarwebloem \newline
-> `100 gr` water \newline
+> `100 g` tarwebloem \newline
+> `100 g` water \newline
 > `1 el` zuurdesemstarter 
 
 Methode:
@@ -323,7 +323,7 @@ Methode:
 - _Dag 2, 18u00_: Uit koeling halen en laten rusten.
 - _Dag 2, 19u00_: Beleggen en onmiddellijk bakken.
 
-Het crèmekleurige `T65` gecombineerd met een klein beetje meel geeft voldoende smaak zonder het beleg te overweldigen. Weeg bij het vormen stukjes af van ongeveer `230 gr` die geolied in een container kunnen rusten tot er wordt gebakken. 
+Het crèmekleurige `T65` gecombineerd met een klein beetje meel geeft voldoende smaak zonder het beleg te overweldigen. Weeg bij het vormen stukjes af van ongeveer `230 g` die geolied in een container kunnen rusten tot er wordt gebakken. 
 
 Ik hou van pizza met een dunne bodem maar dikke korstrand. Het is een kwestie van bewuste keuzes maken tijdens het beleggen om dat te kunnen bereiken. Te veel beleg geeft te veel vocht af, wat de kansen op een krokante bodem verkleint. Peter Reinhart schrijft in zijn liefdesverklaring voor pizza, _American Pie_, een goede tip wat dat betreft: '_the rule of three_' [@reinhartpizza]. Beleg maximum drie verschillende dingen. Je mag zelf kiezen of je de saus meetelt of niet. 
 

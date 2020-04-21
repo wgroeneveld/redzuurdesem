@@ -35,7 +35,7 @@ Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit
 
 Zo'n kabouter in huis halen brengt heel wat voordelen met zich mee. Afhankelijk van zijn expertise, kan je hem bijvoorbeeld vragen om ‘s morgens een vers brood klaar te hebben. Wat is er nu zaliger dan te worden gewekt door de geur van vers gebakken brood? Er zijn verschillende rassen van kabouters die grotere en kleinere broden kunnen bakken. 
 
-Mijn Panasonic kabouter werkte het liefste met `550 gr` bloem en `320 gr` water - dat is een '_baker's percentage_' of water/bloem verhouding van `58%` [^1]. Het resultaat is een mooi broodje van iets minder dan `800 gr`. Als je een groot gezin hebt is dat nauwelijks voldoende, en zal elke dag je grote kabouter moeten zweten. Al een geluk dat slavenarbeid bij kabouters nog is toegestaan, ook al geven ze na een aantal jaar trouwe dienst de geest... 
+Mijn Panasonic kabouter werkte het liefste met `550 g` bloem en `320 g` water - dat is een '_baker's percentage_' of water/bloem verhouding van `58%` [^1]. Het resultaat is een mooi broodje van iets minder dan `800 g`. Als je een groot gezin hebt is dat nauwelijks voldoende, en zal elke dag je grote kabouter moeten zweten. Al een geluk dat slavenarbeid bij kabouters nog is toegestaan, ook al geven ze na een aantal jaar trouwe dienst de geest... 
 
 Als het even meezit is je kabouter ook voorzien van een manier om extra’s als noten en zaden toe te voegen aan je brood. De Panasonic had bovenaan een aparte laadklep om zulke ingrediënten in te bewaren. Het programma beslist dan zelf, nét voordat het klaar is met kneden, om de klep naar beneden te laten. Op die manier zijn je rozijnen niet stuk gekneed maar toch nog mooi verdeeld over je brood. 
 
@@ -53,7 +53,7 @@ Na het nauwkeurig bestuderen van die vreemde kam haalde ik mijn schouders op, en
 
 Er is slechts één minpuntje verbonden aan zo’n haak in de machine: gezien het hele proces automatisch is geprogrammeerd, bak je in dezelfde kuip als waar je in kneedt. Stel je voor dat in de bakkerij dit systeem ook wordt toegepast. Wat valt er je op? De spiraal of de arm zit in de weg. Juist. Die blijft dus mooi in je gebakken brood hangen. Op dat punt gooit je kabouter de handdoek in de ring, roept '_foert!_', en moet je het zelf maar uitzoeken. 
 
-Mijn grootvader heeft nog meer pech met zijn exemplaar: die heeft een dubbele kneedhaak, en bijgevolg dus twee gapende gaten onderaan zijn brood. Dat heeft dan weer als voordeel dat hij tot `800 gr` bloem kan gaan, vier sneetjes meer dan mijn beperktere `550 gr`. 
+Mijn grootvader heeft nog meer pech met zijn exemplaar: die heeft een dubbele kneedhaak, en bijgevolg dus twee gapende gaten onderaan zijn brood. Dat heeft dan weer als voordeel dat hij tot `800 g` bloem kan gaan, vier sneetjes meer dan mijn beperktere `550 g`. 
 
 Wanneer je dan, dankzij het zweet van je persoonlijke kabouter, ‘s morgens wakker wordt gemaakt met de geur van gebakken brood, zorg er dan voor dat je eerst koffie of thee hebt gedronken. Ik heb al een aantal keren het brood gesneden met mijn elektrische snijmachine terwijl ik vergat de haak uit het brood te halen. Het onaangename lawaai van het contact tussen het snijblad en de metalen kneedhaak vergeet je niet snel. De plekken waar het blad een slappe poging heeft ondernomen om de haak in twee te slijpen gaan trouwens roesten.
 
@@ -84,7 +84,7 @@ Het eerste jaar dat ik alleen woonde, werd ik verplicht om me te begeven in de e
 
 Die jaren zijn onbewust een belangrijk keerpunt geweest in mijn interesses. Ik vroeg mijn vader om advies over koken en durfde op een vrijdagavond al eens zelf een gerecht samen te stellen. Wie weet, misschien werden er wel eens vrienden uitgenodigd op een diner. 
 
-In diezelfde periode ontdekte ik op een boekenbeurs een aantal boeken over brood bakken met de broodbakmachine. De boeken zelf stelden eerlijk gezegd weinig voor, maar ze boden een alternatief. Ik kon eens iets anders bakken dan mijn standaard tarwebrood van `550 gr`. Voeg misschien eens gemalen walnoten toe, of meng wat verschillende meelsoorten. 
+In diezelfde periode ontdekte ik op een boekenbeurs een aantal boeken over brood bakken met de broodbakmachine. De boeken zelf stelden eerlijk gezegd weinig voor, maar ze boden een alternatief. Ik kon eens iets anders bakken dan mijn standaard tarwebrood van `550 g`. Voeg misschien eens gemalen walnoten toe, of meng wat verschillende meelsoorten. 
 
 Het boek liet me ook zien dat je je machine kan gebruiken om enkel deeg te kneden, wat ik vanaf toen altijd deed met pizzadeeg. Nadat het deeg wordt gekneed, kan je simpelweg alles uitzetten en het deeg uit het bakblik halen om het verder te verwerken. Mijn Panasonic heeft een apart programma ingebouwd om enkel te kneden. 
 
@@ -186,15 +186,15 @@ Ik was klaar om aan het echte werk te beginnen: met een zuurdesemstarter en een 
 
 ### Walnotenbrood uit de broodbakmachine
 
-Dit was mijn favoriet brood toen ik frequent gebruik maakte van de trouwe kabouter zijn diensten, voordat ik leerde werken met zuurdesem. Indien jouw machine de hoeveelheid bloem beperkt tot een ander maximum dan `550 gr`, herreken dan alle gewichten met behulp van het gegeven percentage. Voor uitleg over het gebruik van deze tabellen, zie hoofdstuk \ref{bakkenhf}. 
+Dit was mijn favoriet brood toen ik frequent gebruik maakte van de trouwe kabouter zijn diensten, voordat ik leerde werken met zuurdesem. Indien jouw machine de hoeveelheid bloem beperkt tot een ander maximum dan `550 g`, herreken dan alle gewichten met behulp van het gegeven percentage. Voor uitleg over het gebruik van deze tabellen, zie hoofdstuk \ref{bakkenhf}. 
 
 | Hoeveelheid | Percentage | Beschrijving         |
 |------------:|-----------:|:---------------------|
-| `550 gr`    | `100%`     | Bloem - eender wat   |
-| `320 gr`    | `58%`      | Water                |
-| `8 gr`      | `1.5%`     | Zout                 |
-| `6 gr`      | `1.1%`     | Gedroogde gist       |
-| `110 gr`    | `20%`      | Fijngemalen walnoten |
+| `550 g`    | `100%`     | Bloem - eender wat   |
+| `320 g`    | `58%`      | Water                |
+| `8 g`      | `1.5%`     | Zout                 |
+| `6 g`      | `1.1%`     | Gedroogde gist       |
+| `110 g`    | `20%`      | Fijngemalen walnoten |
 
 Table: Formule voor walnotenbrood met de broodbakmachine.
 
@@ -208,7 +208,7 @@ Blijkbaar is het belangrijk dat de kneedhaak reeds is gemonteerd aan het bakblik
 
 De bloem die ik hanteerde was meestal een of andere kant-en-klare mengeling, zoals een 'bosmix' met soja en mout, of een 'zeven granen mix' met verschillende soorten granen. De smaak van dit brood komt voornamelijk van de walnoten en de bloemmengeling. De noten kort in de oven roosteren versterkt de smaak. Niet alle walnoten fijnmalen, maar een aantal grote stukken mee bakken, geeft ook een leuk effect. 
 
-Zuurdesem en broodbakmachines zijn geen goede vriendjes vanwege het vaste programma van vier of vijf uur. Dat belette me niet om af en toe een voordeeg te maken van een deel van de bloem. Twaalf uur voor het activeren van de machine meng je `100 gr` bloem, `100 gr` water, en een eetlepel zuurdesem. Dit voeg je de volgende dag samen met de resterende ingrediënten (`450 gr` bloem, `220 gr` water, en de rest) toe aan het bakblik. 
+Zuurdesem en broodbakmachines zijn geen goede vriendjes vanwege het vaste programma van vier of vijf uur. Dat belette me niet om af en toe een voordeeg te maken van een deel van de bloem. Twaalf uur voor het activeren van de machine meng je `100 g` bloem, `100 g` water, en een eetlepel zuurdesem. Dit voeg je de volgende dag samen met de resterende ingrediënten (`450 g` bloem, `220 g` water, en de rest) toe aan het bakblik. 
 
 Gist is nog steeds nodig om een luchtig brood te verkrijgen. Je kan experimenteren door dit weg te laten, en afhankelijk van het bakprogramma zal dit goed of minder goed aflopen. Het is me nooit gelukt om een luchtig brood te bakken in de broodbakmachine zonder het gebruik van gist. 
 

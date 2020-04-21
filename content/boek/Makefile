@@ -4,7 +4,7 @@ all:
 	pandoc -f markdown \
 		-V documentclass=memoir -V lang=nl-BE -M lang:nl \
 		--include-in-header=preamble.tex \
-		--include-before-body=voorwoord.tex \
+		--include-before-body=voorblad.tex \
 		--include-after-body=afterbody.tex \
 		--pdf-engine=xelatex \
 		--filter pandoc-citeproc \

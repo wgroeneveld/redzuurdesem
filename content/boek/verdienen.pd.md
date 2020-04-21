@@ -133,7 +133,7 @@ Hun desem starter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is
 
 ‘Daar zijn we niet mee bezig. Bakken is een passie voor Johan en mij, en het brood gebruiken we in eerste instantie zelf in onze eigen zaken. Wij zijn onze eigen grootste afnemer. De rest komt later wel.’ 
 
-[^vgl]: Ter vergelijking: anno 2019 kost een gemiddeld brood van `800 gr` bij Vangrootloon slechts `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder geweest zijn. 
+[^vgl]: Ter vergelijking: anno 2019 kost een gemiddeld brood van `800 g` bij Vangrootloon slechts `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder geweest zijn. 
 
 Ik heb hetzelfde dilemma gezien in Gent. Het brood is er ook veel duurder dan de gemiddelde bakkerij: `4.5 EUR`. In Hasselt wordt tegenwoordig datzelfde brood, gebakken in bij Egt Genk, verkocht voor `6 EUR`. En dat is niet onlogisch gezien de duur van het proces en de prijs van lokaal biologisch meel. Zuurdesembrood van dat kaliber is een compleet ander product dan gistbrood. De smaak, geur, en textuur zijn onvergelijkbaar, dus waarom zou de prijs dan vergelijkbaar moeten zijn? Mensen moeten echter wel bereid zijn om dit te willen betalen. Veel vrienden en familie zijn dit niet. Ik ken in feite maar weinig mensen die bereid zijn om veel geld uit te geven aan goed voedsel in het algemeen. 
 
@@ -300,7 +300,7 @@ Ik vraag René naar de grote kneder met één arm die in een hoek dicht bij de o
 
 ‘Het brood wordt verkocht in het gebouw van de keuken zoals jullie ongetwijfeld al hebben gezien.’ 
 
-‘Ja, ’ onderbreek ik, ‘en de prijzen vallen heel goed mee. Volgens mij mag het gerust duurder worden geprijsd hoor. `3.60` EUR voor een desem brood van `900 gr`?’ 
+‘Ja, ’ onderbreek ik, ‘en de prijzen vallen heel goed mee. Volgens mij mag het gerust duurder worden geprijsd hoor. `3.60` EUR voor een desem brood van `900 g`?’ 
 
 ‘Eerder `800`. Welja, we verkopen het brood via andere verkooppunten. Die winkels nemen hun eigen winstmarge daar nog eens op dus dat is weer net iets duurder. Ik wil het niet te duur maken voor de mensen die de moeite nemen om tot bij ons te komen. We hebben zo heel wat vaste klanten, tegen alle verwachtingen in.’ 
 
@@ -519,7 +519,7 @@ Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een b
 
 Na het aantrekken van de nodige witte jassen en haarnetjes betreden we de bakkerij. Precies zoals vorige keer hangt in het hele centrum een aangename, complexe geur van gebakken gist. Heerlijk om zo elke dag op je werk toe te komen. Dat is iets heel anders dan de muffe geur van een slecht verlucht klaslokaal. Campusverantwoordelijken, gelieve hier noties van te nemen.
 
-Karl laat ons telkens `2 kg` bloem en `40 gr` zout afwegen. We beginnen met het iconische Italiaans brood, waar een speciale soort zeer fijn gemalen durum tarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
+Karl laat ons telkens `2 kg` bloem en `40 g` zout afwegen. We beginnen met het iconische Italiaans brood, waar een speciale soort zeer fijn gemalen durum tarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
 
 'Dit is gedroogde desem met toegevoegde gist, vitamine C en enzymen. Dat is natuurlijk niet hetzelfde als een vloeibare desem. In het droogproces gaan veel organismen verloren. Dit is een kant-en-klare oplossing voor een bakker die meer smaak wilt toevoegen, zonder van zijn gekend schema te moeten afwijken. Het is kiezen natuurlijk, begrijp je?' Wij knikken en wegen de aanbevolgen dosering van `4%` af. 
 
@@ -596,7 +596,7 @@ In het kader van dezelfde hanteerbaarheid leert Karl ons om natter deeg een beet
 
 * * *
 
-De volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo enkele metingen uit te voeren. Karl mengt `10 gr` van mijn zuurdesem met `100 gr` gedestilleerd water om het pH niveau te meten. Een klein magneetje in een magnetisch veld zorgt voor het mengen, terwijl een sonde de zuurtegraad registreert. De meting stopt op `3.5`. 
+De volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo enkele metingen uit te voeren. Karl mengt `10 g` van mijn zuurdesem met `100 g` gedestilleerd water om het pH niveau te meten. Een klein magneetje in een magnetisch veld zorgt voor het mengen, terwijl een sonde de zuurtegraad registreert. De meting stopt op `3.5`. 
 
 'Oef. Dat is erg weinig. Hij rook ook erg zuur. Laten we nu eens de TTA meten om te zien hoe zuur dit effectief ervaren wordt.' Ik had op vraag van Karl mijn cultuur ongevoed meegebracht, dus dat laag getal verbaasde me niet. 
 
@@ -664,20 +664,20 @@ Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Can
 
 Dit is zonder twijfel een van de moeilijkere broden om te bakken. Laat je niet misleiden door de drie eenvoudig ogende regeltjes in deze formule. Durumtarwe voelt heel anders aan dan gewone zachte tarwe, en heeft daarom op een aantal gebieden extra aandacht nodig. Durum '_drinkt veel_', zoals Karl dat zo bondig samenvat. Het bevat meer eiwitten, maar dat garandeert niet automatisch een beter rijzend brood. 
 
-Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 gr` verse gist toe en verminder je de eerste rijstijd met de helft. 
+Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen maar met behulp van commerciële gist. In dat geval voeg je `4 g` verse gist toe en verminder je de eerste rijstijd met de helft. 
 
 | Hoeveelheid | Percentage | Beschrijving                    |
 |------------:|-----------:|:--------------------------------|
-| `1000 gr`   | `100%`     | _durum_ tarwebloem, fijngemalen |
-| `740 gr`    | `74%`      | Water                           |
-| `20 gr`     | `2%`       | Grijs zeezout                   |
+| `1000 g`   | `100%`     | _durum_ tarwebloem, fijngemalen |
+| `740 g`    | `74%`      | Water                           |
+| `20 g`     | `2%`       | Grijs zeezout                   |
 
 Table: Formule voor gouden Altamura brood met _Triticum durum_. \label{tabledurum}
 
 Waarvan voor het voordeeg (`20%`):
 
-> `200 gr` _durum_ tarwebloem \newline
-> `200 gr` water \newline
+> `200 g` _durum_ tarwebloem \newline
+> `200 g` water \newline
 > `1 el` zuurdesemstarter 
 
 Methode:
@@ -693,7 +693,7 @@ Methode:
 
 De werkwijze wijkt op een aantal vlakkan af van de standaard methode op pagina \ref{bakkenhf}. Om te beginnen hanteer ik frequente voedertijden van telkens vier uur om de starter zo jong mogelijk te houden, voordat een stukje daarvan verdwijnt in het voordeeg. Op die manier verlaagt de aciditeit en stijgt de potentiële rijskracht. Het is niet nodig om een zuurdesemcultuur vanaf nul op te kweken op basis van durumtarwe, je huidige desem omzetten zoals beschreven op pagina \ref{desemswap} werkt net zo goed.
 
-Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 gr` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. 
+Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 g` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. 
 
 
 

@@ -89,9 +89,9 @@ Een echte bakker pakt dit veel slimmer aan door ondertussen andere taken op te n
 
 Nadat het deeg gerezen was, voor zover mogelijk, kon ik het verder verdelen en opbollen. Onder het werkoppervlak was een rijskast voorzien die niet meer voorstelde dan een lange kast met enkele schappen. In ieder geval kon ik het deeg afgeschermd laten rusten als tweede rijsfase of _narijs_. Het ene uiteinde van de kast kwam gevaarlijk dicht in de buurt van de hete oven, waar het deeg niet blij (of té blij) mee was. Aan de ene kant van de kast rees het nauwelijks, het midden ging nog redelijk, en aan de warmste kant rees het als een bezetene. 
 
-De eerste dag dat ik er demonstraties gaf trachtte ik dit probleem op te lossen door regelmatig de bolletjes deeg te verhuizen in de kast zelf. Goed idee. Dat bleek onbegonnen werk te zijn omdat ik tussendoor constant bezoekers moest verbazen met brood wist-je-datjes. De temperatuur heeft een enorm grote invloed op de rijstijd, zeker nadat ik er gist aan had toegevoegd om de boel wat vooruit te laten gaan. 
+De eerste demonstratiedag trachtte ik dit probleem op te lossen door regelmatig de bolletjes deeg te verhuizen naar de kast. Goed idee. Dat bleek onbegonnen werk te zijn omdat ik tussendoor constant bezoekers moest verbazen met brood wist-je-datjes. De temperatuur heeft een enorm grote invloed op de rijstijd, zeker nadat ik er gist aan had toegevoegd om de boel wat vooruit te laten gaan. 
 
-Het ongeduldige publiek werd geïnformeerd dat er binnen het uur werd gebakken. Een aantal mensen kwamen terug kijken. Anderen niet. De demonstraties van verschillende ambachten verliepen parallel waardoor ik af en toe ademruimte kreeg.
+Het ongeduldige publiek werd geïnformeerd dat er binnen het uur werd gebakken. Een aantal mensen kwamen terug. Anderen niet. De demonstraties van verschillende ambachten verliepen parallel waardoor ik af en toe ademruimte kreeg.
 
 * * *
 
@@ -99,13 +99,13 @@ Uiteindelijk was het zover: het brood kon worden gebakken. Tijd om (misschien we
 
 Een oven bakt nooit evenredig: er is altijd een plaatsje waar het warmer of kouder is. Aangezien ik geen flauw idee had hoe deze oven precies zou reageren, kon ik niet inschatten waar ik de broden ergens moest plaatsen. 
 
-Wanneer je verschillende soorten brood tegelijkertijd bakt dient altijd het grootste brood, of het brood dat het langste moet bakken (zoals een heel vochtig roggebrood), achterin de oven te worden geplaatst. Op die manier zijn kleinere broodjes die sneller zijn eenvoudiger te verwijderen en moet je je niet een weg ploeteren doorheen half gebakken brood om het volledig gebakken product eruit te kunnen halen. In mijn geval probeerde ik op het zicht het zwaardere deeg achteraan te plaatsen en het lichtere vooraan. Ik had niet de moeite genomen om bij het verdelen de individuele stukjes deeg nogmaals af te wegen. Oeps. Het deeg voorzichtig vanuit de rijskast op de schietplank leggen bleek een van de leukste momenten te zijn voor de toeschouwers. De spanning was te snijden en de teleurstelling waarschijnlijk erg groot toen ik met mijn geklungel een stuk deeg op de grond liet vallen, dat gepaard ging met veel ‘ohhh!’ zuchtjes. 
+Wanneer je verschillende soorten brood tegelijkertijd bakt dient altijd het grootste brood, of het brood dat het langst moet bakken (zoals een heel vochtig roggebrood), achterin de oven te worden geplaatst. Op die manier zijn kleinere broodjes die sneller klaar zijn eenvoudiger te verwijderen en moet je je niet een weg ploeteren doorheen half gebakken brood om het volledig gebakken product eruit te kunnen halen. In mijn geval probeerde ik op het zicht het zwaardere deeg achteraan te plaatsen en het lichtere vooraan. Ik had niet de moeite genomen om bij het verdelen de individuele stukjes deeg nogmaals af te wegen. Oeps. Het deeg voorzichtig vanuit de rijskast op de schietplank leggen bleek een van de leukste momenten te zijn voor de toeschouwers. De spanning was te snijden en de teleurstelling waarschijnlijk erg groot toen ik met mijn geklungel een stuk deeg op de grond liet vallen, dat gepaard ging met veel ‘ohhh!’ zuchtjes. 
 
 'Geen enkel probleem, dat gebruiken we in ieder geval niet meer' zei ik terwijl ik het gevallen deeg in de vuilbak kieperde. Er was deeg genoeg en ik had die dag uiteindelijk meer dan tien broden gebakken. 
 
-[^jagen]: Dat deden we eigenlijk al uren. Rookontwikkeling is het hevigste wanneer de mutsaarden worden aangestoken en omgezet naar as. 
+[^jagen]: Dat deden we eigenlijk al uren. Rookontwikkeling is het hevigst wanneer de mutsaarden worden aangestoken en omgezet naar as. 
 
-Dat is redelijk veel voor iemand die gewoon is om één of misschien op een zondag twee broden in een keukenoven te bakken. In de realiteit is een opbrengst van tien gebakken broden erg weinig. Zeker in vergelijking met de moeite die het kostte om de oven heet te stoken. 
+Dat is redelijk veel voor iemand die gewoon is om één, of misschien op een zondag twee, broden in een keukenoven te bakken. In de realiteit is een opbrengst van tien gebakken broden erg weinig. Zeker in vergelijking met de moeite die het kostte om de oven heet te stoken. 
 
 'Ik wil alvast een brood reserveren!' riep iemand. 
 
@@ -137,13 +137,13 @@ Decennia is blijkbaar al voldoende. In de bakkerswereld is werken met gedroogde 
 
 Ook het woord _gewoonte_ is voor interpretatie vatbaar, alles hangt af van de context waarin het ter sprake komt. Laten we dan eens kijken naar kernwoorden van de volgende zin in de definitie van ambachtelijk: _zweet_ en _liefde_. Elk zwaar beroep vereist zweet en elke man of vrouw die passie weet aan te brengen draagt die liefde mee. 
 
-De laatste zin is echter wel van belang: _elk exemplaar is uniek doordat de ambachtsman individuele aandacht schenkt aan het materiaal_. In het geval van kleine luxe broodjes moet elke bolletje dan apart met de hand worden gevormd. Industrialisatie lijkt hiermee volledig uitgesloten, en toch beginnen of eindigen slogans van menig groothandelaars met ‘ambachtelijke bakkerij’. 
+De laatste zin is echter wel van belang: _elk exemplaar is uniek doordat de ambachtsman individuele aandacht schenkt aan het materiaal_. In het geval van kleine luxe broodjes moet elk bolletje dan apart met de hand worden gevormd. Industrialisatie lijkt hiermee volledig uitgesloten, en toch beginnen of eindigen slogans van menig groothandelaars met ‘ambachtelijke bakkerij’. 
 
 Is er misschien een fundamenteel verschil tussen ambachtelijk en _ambacht_ zelf?
 
 > _Ambacht is het met de hand maken van producten en goederen. Anders dan bij industriële productie worden ambachtelijke producten elk per stuk met machines en handgereedschap gemaakt. Geen voorwerp is precies hetzelfde omdat er altijd afwijkingen ontstaan. Wie ambachtelijke producten maakt, werkt met zijn of haar handen._
 
-Deze definitie is veel duidelijker dan het dubieuze stuk over de traditionele manier. Ambachtelijk kunnen we dus herformuleren naar ‘_gemaakt door ambachtsmannen en -vrouwen_’. Populaire Engelse titels die mensen zichzelf toekennen op CVs in de IT wereld zijn ‘_software craftsman_’ of ‘_artisan_’ in plaats van simpelweg ‘_programmeur_’. Dat klinkt fabelachtig en hiermee benadruk je je eigen creaties waarbij geen stukje code precies hetzelfde is. _Handmade_. De tekstverwerker die ik nu gebruik[^tekstv] is ongetwijfeld ook artisanaal gemaakt. 
+Deze definitie is veel duidelijker dan het dubieuze stuk over de traditionele manier. Ambachtelijk kunnen we dus herformuleren naar ‘_gemaakt door ambachtsmannen en -vrouwen_’. Populaire Engelse titels die mensen zichzelf toekennen op cv's in de IT-wereld zijn ‘_software craftsman_’ of ‘_artisan_’ in plaats van simpelweg ‘_programmeur_’. Dat klinkt fabelachtig en hiermee benadruk je je eigen creaties waarbij geen stukje code precies hetzelfde is. _Handmade_. De tekstverwerker die ik nu gebruik[^tekstv] is ongetwijfeld ook artisanaal gemaakt. 
 
 [^tekstv]: Dat is Sublime Text, voor de nieuwsgierige nerds. Nee, VS Code is niet beter.
 
@@ -196,7 +196,7 @@ Gelukkig beseffen bezoekers die een snelle blik in de bakkerij werpen zoiets nie
 
 Een gebrek aan tijd is bij veel workshops die ik geef een groot probleem. Men verwacht zoiets te kunnen doen in drie of vier uur, maar voor brood bakken moet je nu eenmaal je tijd nemen. Zeker voor iets als zuurdesem. Tijd betekent immers smaak. Concepten en handelingen kan je wel uitleggen in die uren. Iets lekkers mee naar huis nemen wordt wat moeilijker. Ik probeer dat altijd zo goed mogelijk te kaderen en stel mijn eigen tijdslimieten op als ik de plaats van de workshop zelf kan kiezen. In een museum met vaste openingsuren heb je je maar te schikken. Soms vraagt men mij om in twee uur een cursus brood of pizza bakken te geven. Laat me hier voor eens en voor altijd duidelijk zijn: zoiets gaat niet. Onmogelijk. Zet het uit uw hoofd. Vergeet het. Laat het vallen. Vervang het door soep koken of koekjes bakken. Tenzij je mensen wilt laten kennis maken met het proces - en niet meer dan dat. 
 
-‘Maar het zou toch leuk zijn om de cursisten iets zelfgebakken mee naar huis te kunnen geven...’ Inderdaad, dat zou heel leuk zijn. Zeer leuk zelfs. Maar dat past niet in het opgelegd tijdsschema. Je kan er wel rond werken, zoals Jeannine doet, door bijvoorbeeld véél gist te gebruiken in je deeg. Het zal niet lekker zijn. Het kan wel mee naar huis, om gedoemd te worden tot kippenvoer of compost materiaal. Dan zou ik eerder opteren om op voorhand gebakken brood mee te geven, ook al kost dit extra moeite voor de leerkracht. Vergeet die optie als er tien of meer cursisten aanwezig zijn en men verwacht dat iedereen een volwaardig brood van `900 gr` mee naar huis kan nemen. Op dat moment is het wél handig om een bakkerij te hebben. In mijn keuken ben ik dan enkele dagen zoet, ook al beschik ik over een grotere steenoven. 
+‘Maar het zou toch leuk zijn om de cursisten iets zelfgebakken mee naar huis te kunnen geven...’ Inderdaad, dat zou heel leuk zijn. Zeer leuk zelfs. Maar dat past niet in het opgelegd tijdsschema. Je kan er wel rond werken, zoals Jeannine doet, door bijvoorbeeld véél gist te gebruiken in je deeg. Het zal niet lekker zijn. Het kan wel mee naar huis, om gedoemd te worden tot kippenvoer of compost materiaal. Dan zou ik eerder opteren om op voorhand gebakken brood mee te geven, ook al kost dit extra moeite voor de leerkracht. Vergeet die optie als er tien of meer cursisten aanwezig zijn en men verwacht dat iedereen een volwaardig brood van `900 g` mee naar huis kan nemen. Op dat moment is het wél handig om een bakkerij te hebben. In mijn keuken ben ik dan enkele dagen zoet, ook al beschik ik over een grotere steenoven. 
 
 Het initiatief is bewonderenswaardig en het feit dat ik de inhoud van de cursus zelf mag bepalen ook. Het enige jammere is dat mensen die geen benul hebben van brood bakken bepalen hoe lang de cursus zou gaan duren en de lesgever zich hier maar naar moet schikken. 
 
@@ -230,17 +230,17 @@ Wanneer ik workshops geef van korte duur, moet ik terugvallen op de snelheid van
 
 | Hoeveelheid | Percentage | Beschrijving             |
 |------------:|-----------:|:-------------------------|
-| `1000 gr`   | `100%`     | Tarwebloem mengeling     |
-| `630 gr`    | `63%`      | Water                    |
-| `3 gr`      | `0.3%`     | Gedroogde gist           |
-| `15 gr`     | `1.5%`     | Zout                     |
+| `1000 g`   | `100%`     | Tarwebloem mengeling     |
+| `630 g`    | `63%`      | Water                    |
+| `3 g`      | `0.3%`     | Gedroogde gist           |
+| `15 g`     | `1.5%`     | Zout                     |
 
 Table: Formule voor het zuurdesembrood gebakken op demonstratiedagen in Bokrijk. \label{tablebokrijk}
 
 Waarvan voor het voordeeg (`20%` van de bloem):
 
-> `200 gr` tarwebloem \newline
-> `200 gr` water \newline
+> `200 g` tarwebloem \newline
+> `200 g` water \newline
 > `1 el` zuurdesemstarter 
 
 In vergelijking met het boerenbrood uit hoofdstuk \ref{bakkenhf} bevat deze formule weinig water (`7%` minder om precies te zijn). Dat komt omdat cursisten niet gewoon zijn om te werken met nat deeg. Meestal is `60` tot `65%` al voldoende om frustraties op te wekken. 

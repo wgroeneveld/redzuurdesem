@@ -70,9 +70,9 @@ Na mijn stage besefte ik dat consistent zijn kan betekenen dat er soms meer en s
 
 Het is onbegrijpelijk dat zoveel boeken vreemde hoeveelheden hanteren zonder relatieve hoeveelheden te vermelden. Als ik wil weten hoeveel water of zout in brood zit ten opzichte van de totale hoeveelheid bloem moet ik mijn rekenmachine zoeken. Enkel percentages vermelden verwart dan weer beginnende bakkers. 
 
-Daarom geef ik bij elke formule zowel het absoluut gewicht (in totaal `1 kg` bloem) als het percentage (in totaal `100%` bloem). Een kilo bloem levert je twee broden van ongeveer `850 gr` op. Formules bevatten alle ingrediënten, inclusief wat nodig is om een voordeeg te maken. Het percentage voordeeg is berekend op de hoeveelheid bloem ten opzichte van de totale hoeveelheid bloem in de formule. 
+Daarom geef ik bij elke formule zowel het absoluut gewicht (in totaal `1 kg` bloem) als het percentage (in totaal `100%` bloem). Een kilo bloem levert je twee broden van ongeveer `850 g` op. Formules bevatten alle ingrediënten, inclusief wat nodig is om een voordeeg te maken. Het percentage voordeeg is berekend op de hoeveelheid bloem ten opzichte van de totale hoeveelheid bloem in de formule. 
 
-De zuurdesemcultuur die de fermentatie van het voordeeg op gang brengt is typisch érg actief. Dat betekent dat één eetlepel meer dan voldoende is, samen met een nachtje rust[^eenel]. Ik neem nooit de moeite om dit af te wegen en beschouw het daarom niet als een elementair deel van de formule zelf. Veel recepten maken het nog complexer door bijvoorbeeld om `100 gr` zuurdesem te vragen, zonder te vermelden hoeveel daarvan water is. Het gevolg is een te nat of te droog deeg. Mijn '_één eetlepel_' methode heeft een verwaarloosbare invloed op de totale vochtigheid van het deeg.
+De zuurdesemcultuur die de fermentatie van het voordeeg op gang brengt is typisch érg actief. Dat betekent dat één eetlepel meer dan voldoende is, samen met een nachtje rust[^eenel]. Ik neem nooit de moeite om dit af te wegen en beschouw het daarom niet als een elementair deel van de formule zelf. Veel recepten maken het nog complexer door bijvoorbeeld om `100 g` zuurdesem te vragen, zonder te vermelden hoeveel daarvan water is. Het gevolg is een te nat of te droog deeg. Mijn '_één eetlepel_' methode heeft een verwaarloosbare invloed op de totale vochtigheid van het deeg.
 
 [^eenel]: Zelfs als ik `3 kg` voordeeg maak, blijft deze hoeveelheid maar één eetlepel. Het zou kunnen dat je zuurdesemcultuur niet zo actief is als die van mij. Door een dag op voorhand de cultuur op te kweken zou dat probleem verholpen moeten zijn. 
 
@@ -90,17 +90,17 @@ Van oudsher wordt tarwebrood voornamelijk in Frankrijk gebakken, en roggebrood i
  
 | Hoeveelheid | Percentage | Beschrijving        |
 |------------:|-----------:|:--------------------|
-| `850 gr`    | `100%`     | Tarwebloem, T65     |
-| `150 gr`    | `15%`      | Roggemeel, volkoren |
-| `700 gr`    | `70%`      | Water               |
-| `22 gr`     | `2.2%`     | Grijs zeezout       |
+| `850 g`    | `100%`     | Tarwebloem, T65     |
+| `150 g`    | `15%`      | Roggemeel, volkoren |
+| `700 g`    | `70%`      | Water               |
+| `22 g`     | `2.2%`     | Grijs zeezout       |
 
 Table: Formule voor tarwe boerenbrood. `15%` volkoren, `70%` hydratatie.
 
 Waarvan voor het voordeeg (`10%`):
 
-> `100 gr` roggemeel, volkoren \newline
-> `100 gr` water \newline
+> `100 g` roggemeel, volkoren \newline
+> `100 g` water \newline
 > `1 el` zuurdesemstarter 
 
 Methode:
@@ -115,7 +115,7 @@ Methode:
 
 Dit neemt vanaf het voordeeg in totaal minstens _30 uur_ in beslag. Dat lijkt aanzienlijk, maar is het niet: rijstijden vereisen immers geen actie buiten geduld hebben. Het roggemeel gaat volledig op in het voordeeg dat ik 12 uur op voorhand meng. Mijn starter bevat evenveel bloem als water, net zoals het voordeeg van deze formule.
 
-Ik bak meestal in het weekend, wat betekent dat ik op vrijdagmorgen mijn zuurdesemcultuur ververs en het een werkdag lang de kans geef om te pieken. Diezelfde avond voeg ik een eetlepel van mijn geactiveerde starter toe aan de `100 gr` rogge en water als voordeeg. De cultuur mag terug gaan pitten in de koeling, en ik in mijn bed. 
+Ik bak meestal in het weekend, wat betekent dat ik op vrijdagmorgen mijn zuurdesemcultuur ververs en het een werkdag lang de kans geef om te pieken. Diezelfde avond voeg ik een eetlepel van mijn geactiveerde starter toe aan de `100 g` rogge en water als voordeeg. De cultuur mag terug gaan pitten in de koeling, en ik in mijn bed. 
 
 Dag twee, zaterdag. Hier gebeurt het meeste werk, zoals kneden, rijzen en vorm geven. Als ik geen tijd heb sla ik de autolyse stap over. Als ik vroeger weg moet begin ik gewoon vroeger. Het voordeeg hoeft niet veertien uur lang te fermenteren. Ik bleef bewust vaag over de kamertemperatuur. Er is enorm veel ruimte voor flexibiliteit in deze methode, maak daar gerust gebruik van. Hoe langer dit tarwedeeg de tijd krijgt om te fermenteren, hoe meer smaak wordt ontwikkeld. Peter Kaminsky schreef in het voorwoord van _Bien Cuit_ het volgende over Zachary's brood:
 
@@ -152,23 +152,23 @@ Ik hou van die erg geurige, donkerbruine, plakkerige sneetjes roggebrood. Hoe me
 
 | Hoeveelheid | Percentage | Beschrijving        |
 |------------:|-----------:|:--------------------|
-| `400 gr`    | `40%`      | Tarwebloem, T65     |
-| `600 gr`    | `60%`      | Roggemeel, volkoren |
-| `770 gr`    | `77%`      | Water               |
-| `20 gr`     | `2%`       | Grijs zeezout       |
+| `400 g`    | `40%`      | Tarwebloem, T65     |
+| `600 g`    | `60%`      | Roggemeel, volkoren |
+| `770 g`    | `77%`      | Water               |
+| `20 g`     | `2%`       | Grijs zeezout       |
 
 Table: Formule voor pittig roggebrood. `60%` volkoren, `77%` hydratatie.
 
 Waarvan voor het voordeeg (`30%`):
 
-> `300 gr` roggemeel, volkoren \newline
-> `300 gr` water \newline
+> `300 g` roggemeel, volkoren \newline
+> `300 g` water \newline
 > `1 el` zuurdesemstarter 
 
 En voor het weken (`30%`):
 
-> `300 gr` roggemeel, volkoren \newline
-> `400 gr` kokend water
+> `300 g` roggemeel, volkoren \newline
+> `400 g` kokend water
 
 Methode:
 
@@ -211,7 +211,7 @@ Bij een vrouwendeeg als rogge is minder flexibiliteit mogelijk. Hiermee durf ik 
 
 Bij tarwe bepaalt de eerste rijs voor het merendeel de smaak, terwijl dit bij rogge eerder het voordeeg is. Volle granen bevatten meer fytinezuur dan bloem, waarvan de hoeveelheid hoger is bij rogge dan bij tarwe [@garcía1999phytic]. 
 
-Om de opname van voedingsstoffen te maximaliseren wordt er bij volkoren roggebrood vaak een deel van het meel geweekt, met koud of kokend water. Vandaar de Engelse term '_soaker_'. Dit weken kan je samen met het voordeeg maken en ook een nacht laten inwerken op kamertemperatuur. Bovenstaande formule bevat `600 gr` roggemeel, waarvan `300 gr` wordt gefermenteerd als voordeeg. Dan schiet er nog `300 gr` over om te weken[^weken] met `400 gr` kokend water. Op dag 2 om 10 uur combineer je het voordeeg en geweekt meel met de rest van het water, `70 gr`, en rest van de ingrediënten. Geweekt meel helpt buiten enzymen activatie ook om meer water op te nemen. 
+Om de opname van voedingsstoffen te maximaliseren wordt er bij volkoren roggebrood vaak een deel van het meel geweekt, met koud of kokend water. Vandaar de Engelse term '_soaker_'. Dit weken kan je samen met het voordeeg maken en ook een nacht laten inwerken op kamertemperatuur. Bovenstaande formule bevat `600 g` roggemeel, waarvan `300 g` wordt gefermenteerd als voordeeg. Dan schiet er nog `300 g` over om te weken[^weken] met `400 g` kokend water. Op dag 2 om 10 uur combineer je het voordeeg en geweekt meel met de rest van het water, `70 g`, en rest van de ingrediënten. Geweekt meel helpt buiten enzymen activatie ook om meer water op te nemen. 
 
 [^weken]: Weken doe je zonder gist of desem. In sommige bakboeken wordt aangeraden om een deel van het zout reeds toe te voegen om de amylase activiteit te vertragen. 
 
@@ -239,19 +239,19 @@ In dit geval vullen beide rijsmiddelen elkaar aan. De smaak komt van het voordee
 
 | Hoeveelheid | Percentage | Beschrijving        |
 |------------:|-----------:|:--------------------|
-| `850 gr`    | `100%`     | Tarwebloem, T65     |
-| `150 gr`    | `15%`      | Roggemeel, volkoren |
-| `650 gr`    | `65%`      | Water               |
-| `16 gr`     | `1.6%`     | Grijs zeezout       |
-| `4 gr`      | `0.4%`     | Gedroogde gist      |
+| `850 g`    | `100%`     | Tarwebloem, T65     |
+| `150 g`    | `15%`      | Roggemeel, volkoren |
+| `650 g`    | `65%`      | Water               |
+| `16 g`     | `1.6%`     | Grijs zeezout       |
+| `4 g`      | `0.4%`     | Gedroogde gist      |
 
 Table: Formule voor hybride tarwe boerenbrood. `15%` volkoren, `65%` hydratatie.
 
 Waarvan voor het voordeeg (`30%`):
 
-> `150 gr` roggemeel, volkoren \newline
-> `150 gr` tarwebloem \newline
-> `300 gr` water \newline
+> `150 g` roggemeel, volkoren \newline
+> `150 g` tarwebloem \newline
+> `300 g` water \newline
 > `1 el` zuurdesemstarter 
 
 Methode:
@@ -261,7 +261,7 @@ Methode:
 - _Dag 2, 10u00_: Voordeeg en rest van ingrediënten in bakmachine en starten. 
 - _Dag 2, 12u00_: Afkoelen.
 
-Om eenvoudiger te kunnen vergelijken heb ik de hoeveelheden op `1 kg` laten staan, maar meestal voorziet de broodbakmachine een maximum aan bloem. In mijn geval was dat `550 gr`. Voeg in dat geval steeds de volledige hoeveelheid roggemeel toe aan het voordeeg. 
+Om eenvoudiger te kunnen vergelijken heb ik de hoeveelheden op `1 kg` laten staan, maar meestal voorziet de broodbakmachine een maximum aan bloem. In mijn geval was dat `550 g`. Voeg in dat geval steeds de volledige hoeveelheid roggemeel toe aan het voordeeg. 
 
 De grootste verschillen tussen deze hybride formule en de originele zijn: minder toegevoegd water (1) en zout (2), het gebruik van gedroogde gist (3), een hoger percentage aan op voorhand gefermenteerde bloem (4) en weinig werk door gewoon op start te drukken (5). 
 
@@ -283,13 +283,13 @@ De methode wordt dan nog eenvoudiger:
 - _Dag 2, 10u00_: Voordeeg en rest van ingrediënten in bakmachine en starten. 
 - _Dag 2, 12u00_: Afkoelen.
 
-Hoeveel van de totale hoeveelheid gist je nu precies nodig hebt voor het voordeeg hangt af van het type brood dat je wenst te bakken. Meestal is dat érg weinig, waardoor vagere instructies zoals '_een snuifje_' de kop op steken in receptenboeken. Mijn ervaring leert me dat `1 gr` van die `4 gr` vaak al te veel is, maar dat hangt ook af van temperatuurschommelingen in mijn keuken. 
+Hoeveel van de totale hoeveelheid gist je nu precies nodig hebt voor het voordeeg hangt af van het type brood dat je wenst te bakken. Meestal is dat érg weinig, waardoor vagere instructies zoals '_een snuifje_' de kop op steken in receptenboeken. Mijn ervaring leert me dat `1 g` van die `4 g` vaak al te veel is, maar dat hangt ook af van temperatuurschommelingen in mijn keuken. 
 
 Het croissantdeeg van De Superette vereist twee soorten voordeeg: één op basis van desem en één op basis van gist. Dat deeg heeft veel ondersteuning van gist nodig om de getoerde boterlaagjes te laten rijzen. Een _poolish_ bevat veel meer gistcellen in vergelijking met een typische zuurdesemcultuur. 
 
 * * *
 
-Met de 30 uur van het tarwe boerenbrood kan dus gerust worden gespeeld. De toevoeging van gist hoeft niet te betekenen dat de tweede rijs niet in de koeling kan plaatsvinden. Gebruik gewoon (veel) minder dan `4 gr` en houd het zoutpercentage hoog genoeg. Individueel verpakte pakketjes gedroogde gist wegen meestal exact `7 gr`. Gebruik nooit het hele zakje voor één brood, ook al staat dit aangegeven. Het merk 'Dr. Oetker' instrueert bijvoorbeeld om op `500 gr` bloem de inhoud van het hele zakje te gebruiken, omgerekend `1.4%` gedroogde gist. Die hoeveelheid zal je brood bijna even snel doen rijzen als de sandwiches van Syntra uit hoofdstuk \ref{leerschool}.
+Met de 30 uur van het tarwe boerenbrood kan dus gerust worden gespeeld. De toevoeging van gist hoeft niet te betekenen dat de tweede rijs niet in de koeling kan plaatsvinden. Gebruik gewoon (veel) minder dan `4 g` en houd het zoutpercentage hoog genoeg. Individueel verpakte pakketjes gedroogde gist wegen meestal exact `7 g`. Gebruik nooit het hele zakje voor één brood, ook al staat dit aangegeven. Het merk 'Dr. Oetker' instrueert bijvoorbeeld om op `500 g` bloem de inhoud van het hele zakje te gebruiken, omgerekend `1.4%` gedroogde gist. Die hoeveelheid zal je brood bijna even snel doen rijzen als de sandwiches van Syntra uit hoofdstuk \ref{leerschool}.
 
 De keuzes die worden gemaakt bij de samenstelling van een deeg reflecteert de unieke stijl van iedere bakker. Een snelle blik op die keuzes van bekende namen kan je misschien inspireren om verder te experimenteren met hoeveelheden. Dit is sterk veralgemeend op basis van tarwedeeg en geeft geen compleet beeld, slechts een eerste indruk. 
 
