@@ -7,7 +7,7 @@ date = 2020-03-31
 
 ### Hulp van vrienden
 
-Hoe graag ik ook een boek vuil maak met mijn bebloemde handen, toch moet ik ook de nodige erkenning geven aan een aantal websites. Het Internet vormt voor velen tegenwoordig de eerste en voornaamste bron van informatie. Hieronder volgt een korte lijst van brood bak vrienden die mij op weg hielpen, en hopelijk ook jullie.
+Hoe graag ik ook een boek vuil maak met mijn bebloemde handen, toch moet ik ook de nodige erkenning geven aan een aantal websites. Het internet vormt voor velen tegenwoordig de eerste en voornaamste bron van informatie. Hieronder volgt een korte lijst van brood bak vrienden die mij op weg hielpen, en hopelijk ook jullie.
 
 -  Enthousiaste bakkers vertellen over hun bevindingen op het centrale forum '[The Fresh Loaf](htps://thefreshloaf.com)'. Daar zijn veel vriendelijke bakkers terug te vinden. 
 -  '[The Perfect Loaf](https://www.theperfectloaf.com)', dat prachtige foto's en technisch erg gedetailleerde uitleg bevat van een collega software ingenieur,

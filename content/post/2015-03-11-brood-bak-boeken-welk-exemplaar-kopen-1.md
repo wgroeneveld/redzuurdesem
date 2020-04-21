@@ -43,7 +43,7 @@ Omdat ik vrij obsessief bezig ben met het onderwerp &#8220;zuurdesem&#8221;, st
 
 **Niet?**
 
-  * Zuurdesem starter hoeveelheden zijn moeilijk om mee te rekenen
+  * zuurdesemstarter hoeveelheden zijn moeilijk om mee te rekenen
   * Hoeveelheden zijn Amerikaans
 
 <a href="https://www.goodreads.com/book/show/761840.Local_Breads?ac=1" target="_blank">Local Breads: Sourdough and whole-grain recipes from Europe&#8217;s best Artisan bakers<br /> </a>Daniel Leader

@@ -256,7 +256,7 @@ In alle eerlijkheid: er waren ook minder leuke momenten. Een klein stemmetje dat
 
 > '_... Okay, we fucked this up. Yup, it's definitely fucked._'
 
-Ruwweg vertaald als: 'Gooi weg. Probeer opnieuw. Sneller!' Uiteindelijk leerde ik veel meer over mensen dan over brood. ‘_The world is your oyster_’ zei Rose. Het is een attitude, een levenskunst, om op een bepaalde positieve manier met situaties om te kunnen gaan. Ik heb er nog niet veel kaas van gegeten, ook al heb ik deze twee weken veel kaas geraspt. Het team van De Superette is ongelofelijk. De intense krachtige ervaring heeft mijn levensvisie voorgoed veranderd. Een van de meest aangrijpende hoofdstukken uit Ryan Murdock zijn reisverslag is een scène die zich afspeelt op een strand, waarin Ryan beschrijft hoe intens hij dat moment met vrienden had meegemaakt. Er gebeurde... niets. Het was gewoon een moment, gedeeld met anderen. Geen bijbedoelingen, geen adrenaline kicks van het avontuur, geen achtervolging in de jungle, geen eindeloos op weg zijn. Gewoon het moment van samen zijn voelen. Reizen is maar reizen. Pas vanaf dat zoiets samen gedaan wordt, voelt het alsof je echt leeft. Dat heb ik in Gent ook gevoeld. 
+Ruwweg vertaald als: 'Gooi weg. Probeer opnieuw. Sneller!' Uiteindelijk leerde ik veel meer over mensen dan over brood. ‘_The world is your oyster_’ zei Rose. Het is een attitude, een levenskunst, om op een bepaalde positieve manier met situaties om te kunnen gaan. Ik heb er nog niet veel kaas van gegeten, ook al heb ik deze twee weken veel kaas geraspt. Het team van De Superette is ongelofelijk. De intense krachtige ervaring heeft mijn levensvisie voorgoed veranderd. Een van de meest aangrijpende hoofdstukken uit Ryan Murdock zijn reisverslag is een scène die zich afspeelt op een strand, waarin Ryan beschrijft hoe intens hij dat moment met vrienden had meegemaakt. Er gebeurde... niets. Het was gewoon een moment, gedeeld met anderen. Geen bijbedoelingen, geen adrenaline kicks van het avontuur, geen achtervolging in de jungle, geen eindeloos op weg zijn. Gewoon het moment van samen zijn voelen. Reizen is maar reizen. Alleen als je samen momenten beleeft, voelt het alsof je echt leeft. Dat heb ik in Gent ook gevoeld. 
 Ik heb het geluk gehad om tot dit besef te komen zonder de wereld te moeten rondreizen zoals Ryan. Het is misschien oneerlijk om die situaties met elkaar te vergelijken, maar dankzij zijn boek ben ik er wel meer over gaan nadenken. Het enige waar ik echt spijt van heb is het moment zelf niet meer met het moment zelf bezig te zijn. Zoiets besef je pas achteraf natuurlijk. 
 
 En Sarah zei dat ik het toch goed overleefd had. 
@@ -277,7 +277,7 @@ Het was tijd om uit te zoeken wat vruchtbare grond doet met tarwezaadjes.
 * De temperatuur beïnvloedt nog steeds de rijstijd, maar ook omgekeerd: hoe kouder, hoe trager. 
 * De absolute minimale hoeveelheid tijd van bloem tot _smaakvol_ brood is subjectief en kan gaan tot meer dan 30 uur. 
 * Technieken als autolyse en _double hydration_[^double] vereenvoudigen het hanteren van een nat deeg.
-* Gebruik nooit bloem die fijner gezeefd is dan `T65`, ook niet voor taarten of cakes.
+* Gebruik nooit bloem dat fijner is gezeefd dan `T65`, ook niet voor taarten of cakes.
 * Werken in de horeca is zwaar, en niet alleen fysiek. Dit is onmogelijk in woorden uit te drukken. Om een idee te hebben hoe zwaar, vraag je best een stage aan. 
 * Werken in de horeca is ook ongezond. Ik heb nog nooit op zo'n onregelmatige tijdstippen, en met zo'n snelheid, eten naar binnen geschrokt.
 * De beste manier om groenten te bereiden is ze te roosteren.
@@ -312,7 +312,7 @@ Waarvan voor het voordeeg (`10%` van de bloem):
 
 > `100 gr` tarwebloem \newline
 > `100 gr` water \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 Methode:
 

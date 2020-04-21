@@ -87,7 +87,7 @@ Wanneer het vuur gedoofd is, worden de assen naar achteren in de oven verplaatst
   </p>
   
   <p>
-    De twee demonstratie dagen waren zeer intens, en ik heb nauwelijks de kans gehad om de oven goed te leren kennen waar ik wel spijt van heb. De vaste medewerkers die in het openluchtmuseum zelf werken krijgen helaas ook te weinig tijd om hier echt goed in te worden &#8211; ze worden geroteerd: iemand die in de bakkerij staat moet bijvoorbeeld na enkele weken het kantklossen begeleiden. Op die manier kent niemand tot in het detail de echte ambacht, maar dat beseffen bezoekers die slechts enkele minuten een blik werpen in het huisje niet natuurlijk&#8230;
+    De twee demonstratiedagen waren zeer intens, en ik heb nauwelijks de kans gehad om de oven goed te leren kennen waar ik wel spijt van heb. De vaste medewerkers die in het openluchtmuseum zelf werken krijgen helaas ook te weinig tijd om hier echt goed in te worden &#8211; ze worden geroteerd: iemand die in de bakkerij staat moet bijvoorbeeld na enkele weken het kantklossen begeleiden. Op die manier kent niemand tot in het detail de echte ambacht, maar dat beseffen bezoekers die slechts enkele minuten een blik werpen in het huisje niet natuurlijk&#8230;
   </p>
       
   <p>

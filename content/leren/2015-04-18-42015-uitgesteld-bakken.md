@@ -548,7 +548,7 @@ bakken
 </p>
 
 <h4>
-  Stap 1: ververs je zuurdesem starter
+  Stap 1: ververs je zuurdesemstarter
 </h4>
 
 <p>

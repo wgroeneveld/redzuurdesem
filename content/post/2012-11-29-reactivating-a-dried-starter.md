@@ -11,7 +11,7 @@ categories:
 ---
 Proficiat, je bent nu trotse eigenaar van enkele miljoenen diep slapende bacteriëren! **Hoe** kunnen we nu dit gedroogd desem terug **wakker maken**? Zuurdesem bestaat uit bloem & water dat dagen lang gefermenteerd werd. Hierdoor kwamen de gistcellen die op de granen zitten tot leven en eten ze door de koolhydraten die in het bloem zitten.<figure id="attachment_497" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-497" title="activeren_gedroogd_desem.odt" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][1]<figcaption class="wp-caption-text">Zuurdesem starter in poeder vorm</figcaption></figure> 
+[<img class="size-full wp-image-497" title="activeren_gedroogd_desem.odt" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][1]<figcaption class="wp-caption-text">zuurdesemstarter in poeder vorm</figcaption></figure> 
 
 ## Stap 1: voeg water toe
 
@@ -30,9 +30,9 @@ Er zijn “**stijve**” starters van 50 tot 60% hydratatie, en er zijn “**nat
   1. **100%:** voeg 20gr water en 20gr bloem toe aan het mengsel.
   2. **50%**: voeg 10gr water en 20gr bloem toe aan het mengsel.
 
-Het poeder is gebaseerd op **tarwemeel**. Je kan ook, indien je graag een “zuurder” karakter hebt, kiezen voor volkoren **roggemeel**. In principe fermenteert alles, zelfs rijstmeel of kikkererwtenmeel. Traditionele zuurdesem starters van Frankrijk zijn stijve tarwe starters, en die van Duitsland zijn nattere rogge starters. Dit is een kwestie van smaak, je kan experimenteren met beide.<figure id="attachment_498" style="width: 640px" class="wp-caption aligncenter">
+Het poeder is gebaseerd op **tarwemeel**. Je kan ook, indien je graag een “zuurder” karakter hebt, kiezen voor volkoren **roggemeel**. In principe fermenteert alles, zelfs rijstmeel of kikkererwtenmeel. Traditionele zuurdesemstarters van Frankrijk zijn stijve tarwe starters, en die van Duitsland zijn nattere rogge starters. Dit is een kwestie van smaak, je kan experimenteren met beide.<figure id="attachment_498" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-498" title="activeren_gedroogd_desem.odt_2" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][2]<figcaption class="wp-caption-text">Het drogen van een natte zuurdesem starter duurt enkele dagen</figcaption></figure> 
+[<img class="size-full wp-image-498" title="activeren_gedroogd_desem.odt_2" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_2-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][2]<figcaption class="wp-caption-text">Het drogen van een natte zuurdesemstarter duurt enkele dagen</figcaption></figure> 
 
 <span style="text-decoration: underline;">Voeg bijvoorbeeld 20gr water en 20gr witte tarwemeel toe aan het mengsel. Roer goed en laat 12h rusten op kamertemperatuur.</span>
 
@@ -42,7 +42,7 @@ Als er na 12 uur nog weinig beweging te zien is in je starter: geen paniek. Dit 
 
 [<img class="size-full wp-image-499" title="activeren_gedroogd_desem.odt_3" src="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg" alt="" width="640" height="427" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3.jpg 640w, https://redzuurdesem.be/wp-content/uploads/2012/11/activeren_gedroogd_desem.odt_3-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][3]<figcaption class="wp-caption-text">De starter is levend.</figcaption></figure> 
 
-Het is nu tijd om de zuurdesem starter te gebruiken om een voordeeg te maken.
+Het is nu tijd om de zuurdesemstarter te gebruiken om een voordeeg te maken.
 
 ## Stap 4: gebruik je nieuwe moeder starter!
 
@@ -61,7 +61,7 @@ Elke keer als ik brood bak haal ik mijn starter uit de koelkast. Dit doe ik _wek
 
 Wanneer ik een deel van de starter gebruik, geef ik het overschot “eten” door terug bijvoorbeeld evenveel water en bloem te mengen, dit 12 uur te laten staan en dan vervolgens het terug in de koelkast te bewaren. Dit is in essentie stap 2 opnieuw herhalen.
 
-Als je een lange tijd niet wil bakken is het raadzaam om af en toe je starter wat te eten te geven en gewoon terug op te bergen. Artisanale bakkers in Frankrijk voeden hun zuurdesem starter bijvoorbeeld elke 8 uur. Zij bewaren dit nooit op een lagere temperatuur. Dit kunnen amateur bakkers gebruiken om de activiteit van de bacteriëren tijdelijk te vertragen.
+Als je een lange tijd niet wil bakken is het raadzaam om af en toe je starter wat te eten te geven en gewoon terug op te bergen. Artisanale bakkers in Frankrijk voeden hun zuurdesemstarter bijvoorbeeld elke 8 uur. Zij bewaren dit nooit op een lagere temperatuur. Dit kunnen amateur bakkers gebruiken om de activiteit van de bacteriëren tijdelijk te vertragen.
 
 <span style="text-decoration: underline;">Geef je starter 1x per week eten en bewaar het voor de rest in de koelkast</span>.
 

@@ -14,7 +14,7 @@
 Augustus 2010
 \end{flushright}
 
-'Het kaboutertje is weer bezig' glimlachte mijn vrouw, toen ze opkeek van haar boek. Dat leek haar wel een gepaste manier om het plotse achtergrondlawaai te identificeren. Deze mini mens wordt verkocht inclusief huisje: een broodbakmachine. Een machine die je kan programmeren om op een bepaald moment te starten en dan te vergeten. Wanneer je dan weer helemaal vergeten bent dat er iets is geprogrammeerd om voor jou in actie te schieten, vult de keuken zich met een licht gebrom. 
+'Het kaboutertje is weer bezig' glimlachte mijn vrouw, toen ze opkeek van haar boek. Dat leek haar wel een gepaste manier om het plotse achtergrondlawaai te identificeren. Deze mini-mens wordt verkocht inclusief huisje: een broodbakmachine. Een machine die je kan programmeren om op een bepaald moment te starten en dan te vergeten. Wanneer je dan weer helemaal vergeten bent dat er iets is geprogrammeerd om voor jou in actie te schieten, vult de keuken zich met een licht gebrom. 
 
 '_Rammel, rammel, klots, klots_'. Stilte. 
 
@@ -27,7 +27,7 @@ Wanneer je aan die bepaalde geluiden went, schakelt onze kabouter over naar vers
 \caption[De Panasonic SD-255WXE. \textcopyright \: Panasonic]{De Panasonic SD-255WXE, dag en nacht tot uw dienst.}
 \end{wrapfigure}
 
-Na drie kwartier vult het huis zich met de zachte geur van vers gebakken brood en meldt de kabouter trots zijn werk met een '_piep, piep, piep_', gecombineerd met een flikkerend rood lampje. Na een druk op de start/stop knop neem je afscheid van hem met een laatste '_piep_'. 
+Na drie kwartier vult het huis zich met de zachte geur van vers gebakken brood en meldt de kabouter trots zijn werk met een '_piep, piep, piep_', gecombineerd met een flikkerend rood lampje. Na een druk op de start/stop-knop neem je afscheid van hem met een laatste '_piep_'. 
 
 Het is dan aan jou om als teken van dankbaarheid de kabouter zijn zwaar werk uit zijn huisje te nemen en te laten afkoelen, om het enige tijd daarna smakelijk naar binnen te kunnen werken. Liefst met beleg natuurlijk, want op die korte tijd krijgt de kabouter er nauwelijks wat smaak in. 
 
@@ -47,7 +47,7 @@ Ik moet wel bekennen dat de ingenieurs van de kabouterfabriek het systeem zeer d
 
 Sommige toestellen bieden voor hun meerprijs verschillende kneedhaken aan. De standaard kneedhaak komt in de vorm van een haaienvin, waarvan geadviseerd wordt deze enkel in combinatie met tarwe te hanteren. 
 
-De tweede kneedhaak heeft de vorm van een kam, en is een zelfbenoemde specialist in het kneden van rogge. Deze vreemde opsplitsing was in feite mijn eerste kennismaking met het groot verschil tussen twee deegsoorten, die later nog een grote rol zullen spelen. 
+De tweede kneedhaak heeft de vorm van een kam, en is een zelfbenoemde specialist in het kneden van rogge. Deze vreemde opsplitsing was in feite mijn eerste kennismaking met het grote verschil tussen twee soorten deeg, die later nog een grote rol zullen spelen. 
 
 Na het nauwkeurig bestuderen van die vreemde kam haalde ik mijn schouders op, en smeet ik het in de hoek van een donkere kast. De vorm van de kneedhaak zou van belang moeten zijn bij het vormen van een soepel deeg, maar in zo'n kleine machientjes heeft dit buiten commerciële aantrekkingskracht geen enkel effect. 
 
@@ -55,7 +55,7 @@ Er is slechts één minpuntje verbonden aan zo’n haak in de machine: gezien he
 
 Mijn grootvader heeft nog meer pech met zijn exemplaar: die heeft een dubbele kneedhaak, en bijgevolg dus twee gapende gaten onderaan zijn brood. Dat heeft dan weer als voordeel dat hij tot `800 gr` bloem kan gaan, vier sneetjes meer dan mijn beperktere `550 gr`. 
 
-Wanneer je dan, dankzij het zweet van je persoonlijke kabouter, ‘s morgens wakker wordt gemaakt met de geur van gebakken brood, zorg er dan voor dat je eerst koffie of thee hebt gedronken. Ik heb al een aantal keren het brood gesneden met mijn elektrisch snijmachine terwijl ik vergat de haak uit het brood te halen. Het onaangename lawaai van het contact tussen het snijblad en de metalen kneedhaak vergeet je niet snel. De plekken waar het blad een slappe poging heeft ondernomen om de haak in twee te slijpen gaan trouwens roesten.
+Wanneer je dan, dankzij het zweet van je persoonlijke kabouter, ‘s morgens wakker wordt gemaakt met de geur van gebakken brood, zorg er dan voor dat je eerst koffie of thee hebt gedronken. Ik heb al een aantal keren het brood gesneden met mijn elektrische snijmachine terwijl ik vergat de haak uit het brood te halen. Het onaangename lawaai van het contact tussen het snijblad en de metalen kneedhaak vergeet je niet snel. De plekken waar het blad een slappe poging heeft ondernomen om de haak in twee te slijpen gaan trouwens roesten.
 
 De kneedhaak verwijderen is een kunst op zich. In het uitzonderlijk geval, als de maan goed staat, valt het brood prompt uit het bakblik tijdens mijn verwoede geschud. Als ook de goden mij goedgezind zijn, blijft de kneedhaak netjes in het blik steken. 
 
@@ -68,21 +68,19 @@ De kneedhaak verwijderen is een kunst op zich. In het uitzonderlijk geval, als d
     onvoldoende gebakken rogge. Rechts: nauwelijks gerezen tarwe.}
 \end{figure}
 
-Veelgemaakte fouten zijn het niet laten afkoelen van het brood, of vergeten goed isolerende handschoenen te gebruiken. Dat tweede leer je heel snel af. Maar aangezien ik nooit brood bak tijdens volle maan, lukt deze schud methode zelden zonder dat de haak aan het brood blijft plakken. In de plaats daarvan heb ik mijzelf gespecialiseerd in het gebruik van eetstokjes om met wat gepruts aan de onderkant van het brood de haak met chirurgische precisie te verwijderen. 
+Veelgemaakte fouten zijn het niet laten afkoelen van het brood, of vergeten goed isolerende handschoenen te gebruiken. Dat tweede leer je heel snel af. Maar aangezien ik nooit brood bak tijdens volle maan, lukt deze schud-methode zelden zonder dat de haak aan het brood blijft plakken. In de plaats daarvan heb ik mijzelf gespecialiseerd in het gebruik van eetstokjes om met wat gepruts aan de onderkant van het brood de haak met chirurgische precisie te verwijderen. 
 
 Misschien heb je over het hoofd gezien dat het brood klaar was, of kom je pas veel later thuis. In dat geval is het brood in een gesloten machine afgekoeld. Omdat het vocht geen kant op kon, heeft de korst alle hardheid verloren. 
 
 Gefaalde experimenten zijn de beste bron van ervaring. In dit geval leerde ik dat korstvorming gepaard moet gaan met verdamping. Het vocht van een beetje deeg dat is blijven hangen rond de kneedhaak in bakblik kan ook volledig verdampen, met als gevolg dat de haak volledig vast zit. Dat maakt de afwas van deze kaboutertjes er niet bepaald plezanter op.
 
-Een broodbakmachine kan dienen als een leuke inleiding tot de broodbak wereld. Zonder verdere interesse blijft het echter bij een introductie. Het kostte mij een jaar, en verschillende andere invallen van toeval, voordat ik mij afvroeg wat ik eigenlijk aan het doen was bij het starten van het proces. 
+Een broodbakmachine kan dienen als een leuke inleiding tot de broodbakwereld. Zonder verdere interesse blijft het echter bij een introductie. Het kostte mij een jaar, en verschillende andere invallen van toeval, voordat ik mij afvroeg wat ik eigenlijk aan het doen was bij het starten van het proces. 
 
-Er gebeurt iets magisch als je bloem, water, gist en zout samen kapt en op '_start_' drukt. Maar wat dat iets nu precies is, daar had ik geen flauw benul van. In ieder geval is het een goed systeem om kennis te maken met de basis stappen van het broodbakproces: kneden, rusten en bakken. En dat allemaal zonder de handen zelf vuil te maken. 
-
-Er niets mis is met het gebruik van broodbakmachines, integendeel: het kan dienen als de perfecte springplank naar de wondere wereld van gisting. 
+Er gebeurt iets magisch als je bloem, water, gist en zout samen kapt en op '_start_' drukt. Maar wat dat iets nu precies is, daar had ik geen flauw benul van. In ieder geval is het een goed systeem om kennis te maken met de basisstappen van het broodbakproces: kneden, rusten en bakken. En dat allemaal zonder de handen zelf vuil te maken. 
 
 * * *
 
-Het eerste jaar dat ik alleen woonde, werd ik verplicht om me te begeven in de erg diepe en vooral onbekende waters van het koken en bakken. Mijn vader is een ervaren duiker wat dat betreft. Mij heeft het echter nooit weten te boeien, totdat ik wel moest. Koudwatervrees? Het is altijd eenvoudiger om gewoon de voeten onder tafel te schuiven wanneer het eten klaar is. Gaan werken, een appartement proper houden, op- en afrijden naar mijn vriendin die later mijn vrouw zou worden, mezelf voorzien van eten, ergens proberen vrije tijd te vinden om oude hobby’s terug op te pikken, ... Waar is daartussen nog plaats om brood te bakken? 
+Het eerste jaar dat ik alleen woonde, werd ik verplicht om me te begeven in de erg diepe en vooral onbekende waters van het koken en bakken. Mijn vader is een ervaren duiker wat dat betreft. Mij heeft het echter nooit weten te boeien, totdat ik wel moest. Koudwatervrees? Het is altijd eenvoudiger om gewoon de voeten onder tafel te schuiven wanneer het eten klaar is. Gaan werken, een appartement proper houden, op- en afrijden naar mijn vriendin die later mijn vrouw zou worden, mezelf voorzien van eten, ergens proberen vrije tijd te vinden om oude hobby’s terug op te pikken, ... Waar is er nog ruimte om tussendoor brood te bakken? 
 
 Die jaren zijn onbewust een belangrijk keerpunt geweest in mijn interesses. Ik vroeg mijn vader om advies over koken en durfde op een vrijdagavond al eens zelf een gerecht samen te stellen. Wie weet, misschien werden er wel eens vrienden uitgenodigd op een diner. 
 
@@ -94,7 +92,7 @@ Door mijn nieuwe interesse in voeding te combineren met mijn oude interesse in b
 
 Dankzij onder andere Jonathan Safran Foer werd ik vegetariër en voorstander van lokaal, verantwoord voedsel. Door die stap te maken, en mijn eetpatroon te beperken, werd ik genoodzaakt om nog meer bij te leren over eten. Ik had nog nooit kikkererwten, linzen, seitan of tofu gegeten en had geen flauw idee wat '_tempeh_' of '_koji_' was. 
 
-Niet iedereen in mijn directe omgeving toonde evenveel begrip, maar ik hield vol en heb nooit meer omgekeken. Er ging een hele nieuwe wereld voor me open. Het veranderde mijn mening over voeding in het algemeen, wat ook een grote impact had op brood bakken. Leven als vegetariër beperkt de opties niet: die _vergroot_ ze net. Ik werd verplicht om uit mijn comfort zone te stappen, iets waar veel mensen liever in blijven. 
+Niet iedereen in mijn directe omgeving toonde evenveel begrip, maar ik hield vol en heb nooit meer omgekeken. Er ging een hele nieuwe wereld voor me open. Het veranderde mijn mening over voeding in het algemeen, wat ook een grote impact had op brood bakken. Leven als vegetariër beperkt de opties niet: die _vergroot_ ze net. Ik werd verplicht om uit mijn comfortzone te stappen, iets waar veel mensen liever in blijven. 
 
 Ik begon te experimenteren met speciale broden, zoals het toevoegen van spinazie of kiwi's in brood. Dat laatste liep iets minder goed af. Ik stond er niet bij stil dat fruit ook extra vocht toevoegt, en stelde het water onvoldoende bij. 
 
@@ -102,7 +100,7 @@ Op die dagen dat het brood mislukte moest ik toch nog op zoek gaan naar een bakk
 
 * * *
 
-In die periode ontdekte ik op het Internet een aantal blogs over brood bakken, en maakte ik voor de eerste keer kennis met vreemde termen als '_sourdough_' en '_no-knead bread_'. 
+In die periode ontdekte ik op het internet een aantal blogs over brood bakken, en maakte ik voor de eerste keer kennis met vreemde termen als '_sourdough_' en '_no-knead bread_'. 
 
 > _Simply mix all ingredients and let it rise at room temperature overnight._
 
@@ -134,7 +132,7 @@ Op mijn appartement beschikte ik enkel over een microgolfoven die ook als tradit
 Tegenwoordig bak ik graag brood in een gloeiend hete oven van `250° C` om daarna te zakken in temperatuur. Dat was toen dus onmogelijk. En toch lukte het me aardig om simpele cakes en taarten te bakken, maar pizza of brood vereisen een hogere initiële temperatuur. 
 
  
-De korst van mijn pizza's toen was niet te vergelijken met wat Italiaanse _pizzaiolo's_[^2] uit hun houtgestookte steenoven toveren, maar wij waren tevreden. Naïeve mensen zijn sneller tevreden. Mijn nieuwsgierigheid heeft mij weer genekt... 
+De korst van mijn pizza was toen niet te vergelijken met wat Italiaanse _pizzaiolo's_[^2] uit hun houtgestookte steenoven toveren, maar wij waren tevreden. Naïeve mensen zijn sneller tevreden. Mijn nieuwsgierigheid heeft mij weer genekt... 
 
 Twee jaar later ging het echte broodbak werk pas van start: we kochten een huis, uitgerust met een heuse inbouwoven! 
 
@@ -149,7 +147,7 @@ Juni 2012
 
 Het mislukte focaccia experiment weerhield me er niet van op zoek te gaan naar meer. Ik vloek graag als er iets mis gaat, maar ik leer er ook graag iets uit. Waarom was dat zo plat en zuur geworden, op zo'n relatief korte tijd? 
 
-Tijdens mijn zoektocht naar informatie kwam ik een blog tegen waar een bijzonder ingewikkelde werkwijze uit de doeken werd gedaan om een '_zuurdesem starter_' aan te maken [^3]. Die starter werd gradueel opgekweekt door op regelmatige tijdstippen een beetje water en een beetje meel toe te voegen. Na enkele weken zou de aanwezigheid van luchtbelletjes een teken moeten zijn van witte rook. Ik had geen flauw idee wat ik aan het doen was, maar het werkte wel. Op dat moment reikte mijn kennis maar net zover dat ik juist in staat was alle instructies letterlijk op te volgen, en blijkbaar met succes. Ik was wat ze in het Dreyfus model een '_novice_' noemen, iemand zonder eigen oordeelvermogen die nog nood heeft aan strikte regels [@dreyfus1980five]. 
+Tijdens mijn zoektocht naar informatie kwam ik een blog tegen waar een bijzonder ingewikkelde werkwijze uit de doeken werd gedaan om een '_zuurdesemstarter_' aan te maken [^3]. Die starter werd gradueel opgekweekt door op regelmatige tijdstippen een beetje water en een beetje meel toe te voegen. Na enkele weken zou de aanwezigheid van luchtbelletjes een teken moeten zijn van witte rook. Ik had geen flauw idee wat ik aan het doen was, maar het werkte wel. Op dat moment reikte mijn kennis maar net zover dat ik juist in staat was alle instructies letterlijk op te volgen, en blijkbaar met succes. Ik was wat ze in het Dreyfus model een '_novice_' noemen, iemand zonder eigen oordeelvermogen die nog nood heeft aan strikte regels [@dreyfus1980five]. 
 
 \begin{figure}
     \mbox{} \par
@@ -167,7 +165,7 @@ Als devoot enthousiasteling leek het beginnen van een blog me ook een goed idee.
 
 * * *
 
-Ik was klaar om aan het echte werk te beginnen: met een zuurdesem starter en een goed boek aan de ene kant, een fatsoenlijke oven en een blog over brood aan de andere kant. De kabouter heb ik bedankt voor zijn jaren trouwe dienst en op pensioen gestuurd. Ik heb hem daarna nooit horen klagen, maar rust roest, en wat moest die nu met de rest van zijn leven? Enkele jaren later heb ik mijn schoonouders geïntroduceerd in de wondere wereld van het brood bakken door hun mijn broodbakmachine te geven, die ze vandaag de dag nog altijd bijna dagelijks gebruiken. 
+Ik was klaar om aan het echte werk te beginnen: met een zuurdesemstarter en een goed boek aan de ene kant, een fatsoenlijke oven en een blog over brood aan de andere kant. De kabouter heb ik bedankt voor zijn jaren trouwe dienst en op pensioen gestuurd. Ik heb hem daarna nooit horen klagen, maar rust roest, en wat moest die nu met de rest van zijn leven? Enkele jaren later heb ik mijn schoonouders geïntroduceerd in de wondere wereld van het brood bakken door hun mijn broodbakmachine te geven, die ze vandaag de dag nog altijd bijna dagelijks gebruiken. 
 
 \newpage
 

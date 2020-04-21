@@ -101,7 +101,7 @@ Waarvan voor het voordeeg (`10%`):
 
 > `100 gr` roggemeel, volkoren \newline
 > `100 gr` water \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 Methode:
 
@@ -163,7 +163,7 @@ Waarvan voor het voordeeg (`30%`):
 
 > `300 gr` roggemeel, volkoren \newline
 > `300 gr` water \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 En voor het weken (`30%`):
 
@@ -252,7 +252,7 @@ Waarvan voor het voordeeg (`30%`):
 > `150 gr` roggemeel, volkoren \newline
 > `150 gr` tarwebloem \newline
 > `300 gr` water \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 Methode:
 

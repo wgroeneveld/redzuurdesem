@@ -23,7 +23,7 @@ Ik bakte brood dat in nabijgelegen bakkerijen niet verkrijgbaar was. Die interes
 * ‘Dat is zo zoet!’ (Reacties op een wit tarwebrood met een jonge desem)
 * ‘Dat doet pijn aan mijn tanden!’ (Ik bak brood heet en lang, zodat zich een stevige korst vormt)
 
-Op dat moment had ik door dat ik iets vast had waar ik verder mee moest gaan. Niet iedereen was wild van de sterke smaak van zuurdesem. Die reactie is niet zo verbazingwekkend als je gewoon bent om jaren aan een stuk smaakloos brood naar binnen te werken en het weg te spoelen met koffie. Het feit dat mensen niet meer weten wat ‘_desem_’ is, vind ik een zeer triestige zaak. Ik besloot er dan ook iets aan te doen door het beetje kennis dat ik toen had te combineren met iets anders wat ik graag doe: lesgeven. Als ik iets ken van zuurdesem, en blijkbaar heel wat anderen niets, dan kan ik toch al iets aanleren? 
+Op dat moment realiseerde ik me dat ik iets had om mee verder te gaan. Niet iedereen was wild van de sterke smaak van zuurdesem. Die reactie is niet zo verbazingwekkend als je gewoon bent om jaren aan een stuk smaakloos brood naar binnen te werken en het weg te spoelen met koffie. Het feit dat mensen niet meer weten wat ‘_desem_’ is, vind ik een zeer triestige zaak. Ik besloot er dan ook iets aan te doen door het beetje kennis dat ik toen had te combineren met iets anders wat ik graag doe: lesgeven. Als ik iets ken van zuurdesem, en blijkbaar heel wat anderen niets, dan kan ik toch al iets aanleren? 
 
 Uit ervaring wist ik dat door les te geven ik mezelf automatisch verplicht om meer te weten te komen over een bepaald onderwerp. Er moest maar eens een vervelend iemand tijdens een workshop gerichte vragen beginnen te stellen waar ik niet op kan antwoorden. Er zijn nog andere voordelen verbonden aan lesgeven, zoals in contact komen met anderen die je enthousiasme over het onderwerp delen. Het is eigenlijk één grote springplank naar de immens diepe zee der kennis.
 
@@ -31,19 +31,19 @@ Door dat te doen begon ik te beseffen dat ik er eigenlijk helemaal niet veel van
 
 * * *
 
-Elke zomer organiseert het openluchtmuseum Bokrijk te Genk de 'Grote Bokrijkdagen'. Er komen verschillende oude ambachten terug tot leven: van hoefsmid tot wever tot bakker. In 2013 mocht ik in het kader van die dagen in het oude bakkerijgebouw demonstraties geven over brood bakken. Uiteraard stelde ik voor om dit met zuurdesem te doen, aangezien er vroeger geen sprake was van gist. Dit paste dus netjes in het thema. 
+Elke zomer organiseert het Openluchtmuseum Bokrijk te Genk de 'Grote Bokrijkdagen'. Er komen verschillende oude ambachten terug tot leven: van hoefsmid tot wever tot bakker. In 2013 mocht ik in het kader van die dagen in het oude bakkerijgebouw demonstraties geven over brood bakken. Uiteraard stelde ik voor om dit met zuurdesem te doen, aangezien er vroeger geen sprake was van gist. Dit paste dus netjes in het thema. 
 
 #### Dag 1
 
-De meeste bakhuizen die in het openluchtmuseum te bewonderen zijn, werden verplaatst naar Genk, maar dateren origineel van het einde van de achttiende eeuw. De oven van het huisje waar de demonstratie door ging is met behulp van leem ontworpen als een halve bol. De vloer van de oven bestaat uit stenen die de hitte opnemen en lang genoeg vasthouden totdat de bakker klaar is met het bakken van verschillende ladingen brood, taarten en zoetigheid. Oude houtovens als deze worden met een ‘_mutsaard_’ opgestookt, een samengebonden bussel stevige wilgentakken. 
+De meeste bakhuizen die in het openluchtmuseum te bewonderen zijn, werden verplaatst naar Genk, maar dateren oorspronkelijk uit de late achttiende eeuw. De oven van het huisje waar de demonstratie plaatsvond, is met behulp van leem ontworpen als een halve bol. De vloer van de oven bestaat uit stenen die de hitte opnemen en lang genoeg vasthouden totdat de bakker klaar is met het bakken van verschillende ladingen brood, taarten en zoetigheid. Oude houtovens als deze worden met een ‘_mutsaard_’ opgestookt, een samengebonden bussel stevige wilgentakken. 
 
 Afhankelijk van de grootte van de oven heb je verschillende mutsaarden nodig om de stenen lang genoeg heet te stoken. In mijn geval waren vier tot vijf \mbox{mutsaarden} nodig. Dit opstookproces nam gemakkelijk 45 minuten in beslag, wat eigenlijk heel weinig is in vergelijking met grotere houtovens, zoals ik die later in De Superette zou tegenkomen. De oven moest net warm genoeg zijn om één keer in te kunnen bakken. Het koele deeg slorpt de hitte op, waardoor de temperatuur daalt. Na elke baksessie werd een nieuwe lading gebundelde takken naar binnen gesleept. 
 
-Wanneer een mutsaard is uitgebrand, worden de assen met een lange riek uit de oven gehaald. Verschillende ovens hebben verschillende manieren om dit te doen. Ik heb er gezien die met een gleuf zijn voorzien om de assen netjes in op te vangen, maar bij deze simpele oven in Bokrijk was dat opgelost door een zware ijzeren ton voor de mond van de oven te plaatsen die het as maar moet opvangen als het er wordt uitgeveegd. 
+Wanneer een mutsaard is uitgebrand, worden de assen met een lange riek uit de oven gehaald. Verschillende ovens hebben verschillende manieren om dit te doen. Ik heb er gezien met een gleuf om de assen netjes in op te vangen, maar bij deze simpele oven in Bokrijk was dat opgelost door een zware ijzeren ton voor de mond van de oven te plaatsen die het as maar moet opvangen als het er wordt uitgeveegd. 
 
 Het is de bedoeling dat na het heet stoken van de oven deze wordt schoongemaakt. Dat doe je niet alleen door de assen te verwijderen, maar ook door met een mop de stenen schoon te vegen. Wees er maar zeker van dat er ongewenste kleine deeltjes van de assen blijven plakken aan je deeg, hoe goed die ook is uitgewassen. Niemand houdt van zo’n verbrande smaak. Schoonmaken klinkt eenvoudiger dan het is: vergeet niet dat de oven al op temperatuur is. Er wordt een emmer met koud water klaargezet, een mop met een lange steel in de emmer gedrukt, en in de mond van de oven gestoken om te kunnen vegen. Dat proces wordt voortdurend herhaald om de mop zelf tijdig te kunnen afkoelen. 
 
-Het is best vervelend dat de mop tijdens dat werkje veel stoom teweeg brengt door de combinatie van vocht en hitte. Voor veel bezoekers was dat al een show op zich, terwijl we nog niet waren begonnen met het effectief bakken. De ijzeren ton die de assen opvangt was ook verre van handig. Het ijzer wordt natuurlijk ook gloeiend heet en moet met dikke vuurvaste handschoenen aan de kant worden geschoven om daarna genoeg bewegingsruimte te hebben om te kunnen bakken. 
+Het is best vervelend dat de mop tijdens dat werkje veel stoom teweegbrengt door de combinatie van vocht en hitte. Voor veel bezoekers was dat al een show op zich, terwijl we nog niet waren begonnen met het effectief bakken. De ijzeren ton die de assen opvangt was ook verre van handig. Het ijzer wordt natuurlijk ook gloeiend heet en moet met dikke vuurvaste handschoenen aan de kant worden geschoven om daarna voldoende bewegingsruimte te hebben om te kunnen bakken. 
 
 Er zijn ook bakkers die het slimmer aanpakken en de assen naar achteren of opzij in de oven verschuiven. Tijdens het bakken blijft dit in de oven om kostbare tijd te sparen. Op die manier creëer je wel een groot probleem: een onstabiele oven. De nog steeds smeulende assen veroorzaken immers temperatuurschommelingen. Daardoor is één bepaalde kant van het brood veel meer gebakken. De broden moeten halverwege het bakproces worden omgedraaid. 
 
@@ -53,36 +53,36 @@ Er zijn ook bakkers die het slimmer aanpakken en de assen naar achteren of opzij
 
 'Wat een geknoei' dacht ik toen ik er zelf mee worstelde. Denk er aan dat in het openluchtmuseum authenticiteit belangrijker is dan efficiëntie (of hygiëne). 
 
-De nieuwsgierige bezoeker krijgt dus een kans om het hele bakproces te zien. Van het kneden tot het opstoken van de oven en het bakken zelf. De oven zorgde voor het grootste spektakel. Vuur (en een rokende mop) blijft de mens fascineren. De demonstratie mocht ik helemaal zelf invullen, maar gelukkig stond ik er niet alleen voor. Een van de vaste medewerkers die reeds bekend was met de oven hielp me bij het beheersen ervan. Een houtoven leer je niet kennen op één dag, laat staan een maand (Een gewone oven ook niet maar dit is echt nog veel gevoeliger). Het is een enorm wispelturig ding waar veel dingen mee kunnen mislopen:
+De nieuwsgierige bezoeker krijgt dus een kans om het hele bakproces te zien. Van het kneden tot het opstoken van de oven en het bakken zelf. De oven zorgde voor het grootste spektakel. Vuur (en een rokende mop) blijft de mens fascineren. De demonstratie mocht ik helemaal zelf invullen, maar gelukkig stond ik er niet alleen voor. Een van de vaste medewerkers die reeds bekend was met de oven hielp me bij het beheersen ervan. Een houtoven leer je niet kennen op één dag, laat staan een maand (Een gewone oven ook niet maar dit is echt nog veel gevoeliger). Het is een enorm wispelturig ding waar veel dingen mis mee kunnen gaan:
 
 * Te weinig hout in de oven - de mutsaard brandt snel op en de stenen zijn nog koud. 
-* Te veel hout ingeladen - de temperatuur schiet de lucht in en het brood verbrandt. 
+* Te veel hout ingeladen - de temperatuur schiet de hoogte in en het brood verbrandt. 
 * Niet goed gekuist - de broden zijn vuil aan de onderkant.
-* Knoeien met assen - met mogelijke brandwonden als gevolg.
-* Knoeien met de mop of het water - met mogelijke brandwonden als gevolg.
+* Knoeien met assen - met mogelijke brandwonden tot gevolg.
+* Knoeien met de mop of het water - met mogelijke brandwonden tot gevolg.
 
-Een bijkomend probleem bij alle bovenstaande punten is tijd: het deeg is aan het rijzen maar de oven is nog niet klaar. Een remkast[^rem] bestond in die tijden nog niet! Ik was dus heel blij met alle hulp die ik kon krijgen. Terwijl ik het brood kneedde in een klassieke oude trog, stookte iemand anders voor mij de oven op. Ik had op voorhand netjes een schema uitgewerkt waar ik mij aan probeerde te houden, maar dat plan had ik snel laten varen: het was bijna onmogelijk om te gokken wanneer de oven heet genoeg was. 
+Een bijkomend probleem bij alle bovenstaande punten is tijd: het deeg is aan het rijzen maar de oven is nog niet klaar. Een remkast[^rem] bestond in die tijd nog niet! Ik was dus heel blij met alle hulp die ik kon krijgen. Terwijl ik het brood kneedde in een klassieke oude trog, stookte iemand anders voor mij de oven op. Ik had op voorhand netjes een schema uitgewerkt waar ik mij aan probeerde te houden, maar dat plan had ik snel laten varen: het was bijna onmogelijk om te gokken wanneer de oven heet genoeg was. 
 
 * * *
 
 Ondertussen stroomden de bezoekers toe die allemaal de kleine bakkerij wilden in- en uitlopen om een glimp op te vangen van de oude ambacht. Bij een demonstratie hoort immers ook een uitleg. Ik wist op voorhand dat enkel met zuurdesem werken onmogelijk zou zijn vanwege de tijdsdruk en had stiekem een kleine hoeveelheid gist toegevoegd aan het deeg. Alles moest kloppen met het thema van het bakhuisje dat in het einde van de achttiende eeuw operationeel was, dus ook het gebruikte materiaal. Desondanks mijn voorbereiding had ik plastieken containers met desem meegenomen die niet pasten in dat verhaal. Ergens wegstoppen dus. 
 
-Een digitale weegschaal is op dat moment ook ondenkbaar. Gelukkig was het analoog geval dat met gewichten werkte accuraat genoeg om grote hoeveelheden min of meer probleemloos af te wegen. Delicate zaken zoals gist en zout zijn iets moeilijker om correct af te wegen. De oplossing is wegen in ‘eetlepels’ en niet in grammen.  
+Een digitale weegschaal is op dat moment ook ondenkbaar. Gelukkig was het analoge apparaat dat met gewichten werkte nauwkeurig genoeg om grote hoeveelheden min of meer probleemloos af te wegen. Delicate zaken zoals gist en zout waren iets moeilijker. De oplossing was wegen in ‘eetlepels’ en niet in grammen.  
 
 [^rem]: Een rijskast bestond wel, maar het was gewoon een houten kast die deeg tegen tocht beschermde. Moderne elektrisch aangedreven remkasten kunnen niet alleen brood sneller doen rijzen, maar ook doen 'remmen': het is niet alleen mogelijk om de temperatuur te verhogen, maar ook te verlagen. 
 
 
 * * *
 
-Wanneer het kneden klaar was, kon de eerste rijsperiode of _bulkrijs_ beginnen. Er was zeer weinig werkoppervlakte voorzien in het huisje. Het deeg bleef rustig liggen in de trog terwijl een doek het beschermde tegen overvloedige tocht. Ik ontdekte nog een probleem waar ik tijdens mijn voorbereiding te weinig rekening mee gehouden had: temperatuur. Er was geen warm water aanwezig. Die zomerdagen waren kouder dan gewoonlijk. Het huis was natuurlijk niet geïsoleerd en de deur stond open om bezoekers te kunnen ontvangen. Het deeg voelde te koud aan naar mijn zin maar er was weinig meer aan te doen dan te hopen dat de toegevoegde gist er toch wat leven in zou blazen. 
+Wanneer het kneden klaar was, kon de eerste rijsperiode of _bulkrijs_ beginnen. Er was zeer weinig werkoppervlakte voorzien in het huisje. Het deeg bleef rustig liggen in de trog terwijl een doek het beschermde tegen overvloedige tocht. Ik ontdekte nog een probleem waar ik tijdens mijn voorbereiding te weinig rekening mee had gehouden: temperatuur. Er was geen warm water aanwezig. Die zomerdagen waren kouder dan gewoonlijk. Het huis was natuurlijk niet geïsoleerd en de deur stond open om bezoekers te kunnen ontvangen. Het deeg voelde naar mijn zin te koud aan maar er was weinig anders te doen dan te hopen dat de toegevoegde gist er toch wat leven in zou blazen. 
 
-Een andere uitdaging was de vochtigheid van het deeg. Ik pastte mijn formule aan naar een vaster deeg dan waar ik gewoonlijk thuis mee werk omdat ik verwachtte dat de trog waarschijnlijk wat vervelender ging zijn om in te kneden. De geleverde bloem was de dag van de demonstratie gekend voor mij. Ik experimenteerde vooraf in eigen keuken een gevoel te krijgen van het waterabsorptieniveau. Het was een tarwebloem mengeling met grove volkoren zemelen van een grote molen uit Geel die redelijk wat water opnam. Ik zat rond de `63%` hydratatie wat voldoende veerkracht zou moeten bieden zonder te zeer te gaan plakken. 
+Een andere uitdaging was de vochtigheid van het deeg. Ik paste mijn formule aan naar een vaster deeg dan waar ik gewoonlijk thuis mee werk omdat ik verwachtte dat de trog waarschijnlijk wat vervelender ging zijn om in te kneden. De geleverde bloem was de dag van de demonstratie gekend voor mij. Ik experimenteerde vooraf in eigen keuken om een idee te krijgen van het waterabsorptieniveau. Het was een tarwebloem mengeling met grove volkoren zemelen van een grote molen uit Geel die redelijk wat water opnam. Ik zat rond de `63%` hydratatie wat voldoende veerkracht zou moeten bieden zonder te zeer te gaan plakken. 
 
-Ik had geen inspraak in de bloem. Het was wel wat jammer dat zo’n industriële bloem het thema breekt. Zakken van `25 kg` wegstoppen was in dat klein huisje geen optie. Het resultaat was een redelijk vast deeg met brokjes zemelen waar je goed mee moet opletten, want die scheuren snel het nauwkeurig opgebouwd glutennetwerk. Doordat ik voldoende voordeeg op voorhand had gemaakt, kon ik indien nodig met mijn formule spelen en zo nodig de hoeveelheden verhogen of verlagen. 
+Ik had geen inspraak in de bloem. Het was wel wat jammer dat zo’n industriële bloem het thema breekt. Zakken van `25 kg` wegstoppen was in dat huisje geen optie. Het resultaat was een redelijk vast deeg met brokjes zemelen waar je goed mee moet opletten, want die scheuren snel het nauwkeurig opgebouwd glutennetwerk. Doordat ik vooraf voldoende voordeeg had gemaakt, kon ik indien nodig met mijn formule spelen en eventueel de hoeveelheden verhogen of verlagen. 
 
 * * *
 
-Na het kneden had ik even ademruimte om iedereen die interesse toonde te voorzien van uitleg over het hele bakproces. Er hingen ook verschillende soorten gedroogde granen op in het bakkershuisje om het verschil te kunnen laten zien tussen rogge, tarwe, gerst en haver halmen. Op zo’n demonstratie dagen wordt geduld echt op de proef gesteld. Iedereen wil natuurlijk een bakker aan het werk zien: het harde werk tijdens het kneden en het gezweet voor de oven. In werkelijkheid zie je niet zoveel van die actie omdat het rijzen veel langer duurt. 
+Na het kneden had ik even ademruimte om iedereen die interesse toonde te voorzien van uitleg over het hele bakproces. Er hingen ook verschillende soorten gedroogde granen op in het bakkershuisje om het verschil te kunnen laten zien tussen rogge-, tarwe-, gerst- en haverhalmen. Tijdnes dergelijke demonstratiedagen wordt geduld echt op de proef gesteld. Iedereen wil natuurlijk een bakker aan het werk zien: het harde werk tijdens het kneden en het gezweet voor de oven. In werkelijkheid zie je niet zoveel van die actie omdat het rijzen veel langer duurt. 
 
 Een echte bakker pakt dit veel slimmer aan door ondertussen andere taken op te nemen zoals taartjes maken, een tweede deeg kneden en andere spullen afwerken. Die dingen waren om praktische redenen op dat moment niet mogelijk. Ik werd het snel beu om dezelfde uitleg elke minuut opnieuw te geven vanwege de constante toestroom van nieuwe bezoekers. Soms toonden mensen oprechte interesse. Meestal kwamen ze alleen maar kijken of er iets gratis te proeven viel. Om iedereen die kans te geven had ik een dag op voorhand verschillende broden gebakken. 
 
@@ -235,17 +235,17 @@ Wanneer ik workshops geef van korte duur, moet ik terugvallen op de snelheid van
 | `3 gr`      | `0.3%`     | Gedroogde gist           |
 | `15 gr`     | `1.5%`     | Zout                     |
 
-Table: Formule voor het zuurdesembrood gebakken op demonstratie dagen in Bokrijk. \label{tablebokrijk}
+Table: Formule voor het zuurdesembrood gebakken op demonstratiedagen in Bokrijk. \label{tablebokrijk}
 
 Waarvan voor het voordeeg (`20%` van de bloem):
 
 > `200 gr` tarwebloem \newline
 > `200 gr` water \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 In vergelijking met het boerenbrood uit hoofdstuk \ref{bakkenhf} bevat deze formule weinig water (`7%` minder om precies te zijn). Dat komt omdat cursisten niet gewoon zijn om te werken met nat deeg. Meestal is `60` tot `65%` al voldoende om frustraties op te wekken. 
 
-Ook tijdens de demonstratie dagen had ik geen zin om het mezelf moeilijker te maken. Er was geen werkoppervlak aanwezig, alles moest gebeuren vanuit de trog, en de druk van de constante stroom aan toeschouwers maakte het er niet eenvoudiger op. 
+Ook tijdens de demonstratiedagen had ik geen zin om het mezelf moeilijker te maken. Er was geen werkoppervlak aanwezig, alles moest gebeuren vanuit de trog, en de druk van de constante stroom aan toeschouwers maakte het er niet eenvoudiger op. 
 
 Deze hybride aanpak wordt verder uigewerkt in hoofdstuk \ref{valsspelen}. 
 

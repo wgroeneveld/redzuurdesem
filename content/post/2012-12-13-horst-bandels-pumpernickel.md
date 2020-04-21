@@ -43,7 +43,7 @@ Het recept komt weeral van Mr. Hamelman&#8217;s [&#8220;BREAD&#8221; boek][3] &
 
   * 150gr volrogge meel
   * 150gr water
-  * 30gr ververste rogge zuurdesem starter
+  * 30gr ververste rogge zuurdesemstarter
 
 <div>
   Laat de desem voor 14-16h staan in de keuken om ze een goede zure smaak te laten ontwikkelen. Voor rogge starters is dit mogelijk omdat dit veel flexibeler reageert dan een witte tarwe desem starter die veel sneller &#8220;opkomt&#8221; maar dan ook sneller is uitgewerkt. Ik laat soms deze rogge starter tot 24h staan op 19-20°C max, omdat ik van de sterke smaak hou.

@@ -113,7 +113,7 @@ Exact recipes won&#8217;t be placed here. I can only recommend the book  &#822
 
 <div>
   <p>
-    Neen. Je kan ofwel 30gr. van je zuurdesem starter gebruiken, ofwel 1/8ste theelepel gist (voor poolish, voor biga ea iets meer). Het eindresultaat verschilt wel enorm qua smaak en textuur: meer gaatjes en meer smaak = zuurdesem.
+    Neen. Je kan ofwel 30gr. van je zuurdesemstarter gebruiken, ofwel 1/8ste theelepel gist (voor poolish, voor biga ea iets meer). Het eindresultaat verschilt wel enorm qua smaak en textuur: meer gaatjes en meer smaak = zuurdesem.
   </p>
 </div>
 
@@ -491,7 +491,7 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
     
     <ol>
       <li>
-        De <em>eenvoudige</em> versie: vraag een beetje zuurdesem starter van iemand die al een goede cultuur opgezet heeft. Sommige bakkers hebben reeds honderden jaren éénzelfde desem dat 2x per dag &#8220;ververst&#8221; wordt.
+        De <em>eenvoudige</em> versie: vraag een beetje zuurdesemstarter van iemand die al een goede cultuur opgezet heeft. Sommige bakkers hebben reeds honderden jaren éénzelfde desem dat 2x per dag &#8220;ververst&#8221; wordt.
       </li>
       <li>
         De <em>superluie</em> versie: sommige natuurwinkels verkopen in zakjes gedroogde zuurdesem. Hier moet je water bijvoegen (volg de instructies).

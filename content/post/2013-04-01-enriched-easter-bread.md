@@ -40,7 +40,7 @@ Onze collega&#8217;s bij [The Weekend Bakery][2] hebben een leuk ogend kerststo
 
 Sinds het recept dat ik gebruikt heb ongeveer hetzelfde is als dat van the weekend bakery zal ik het niet herhalen hier. Klik op de bovenstaande link om het recept te pakken te krijgen. Het is een **verrijkt brood**, dat wil zeggen toegevoegde vetten en eieren in het deeg. Het heeft inderdaad 40gr extra boter en een eigeel nodig. Het toevoegen van vetten aan brooddeeg maakt extra mixen een vereiste om genoeg gluten te kunnen ontwikkelen.
 
-Verrijkte broden (niet veel anders dan [croissants][4]) hebben ook een extra rijs &#8220;punch&#8221; nodig door de aanwezigheid van zware ingrediënten. Daardoor wordt er meer gist gebruikt dan normaal. Ik heb hier dan ook een **zuurdesem starter** van 70gr toegevoegd:
+Verrijkte broden (niet veel anders dan [croissants][4]) hebben ook een extra rijs &#8220;punch&#8221; nodig door de aanwezigheid van zware ingrediënten. Daardoor wordt er meer gist gebruikt dan normaal. Ik heb hier dan ook een **zuurdesemstarter** van 70gr toegevoegd:
 
   * <span style="line-height: 15px;">25gr witte bloem</span>
   * 25gr water

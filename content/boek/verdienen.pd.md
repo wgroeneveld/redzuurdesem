@@ -13,7 +13,7 @@ Januari 2015
 
 Een regelmatig wederkerend onderwerp in mijn notitieboekjes is het idee om zuurdesem (terug) onder de mensen te brengen. De website [redzuurdesem.be](https://redzuurdesem.be/) was een eerste logische aanzet. Op die manier kan ik mijn enthousiasme voor brood bakken met de wereld delen. Demonstraties en later uitgebreidere workshops waren stap twee. 
 
-Ergens tussen analoog en digitaal zat echter nog een gat, een gat dat ik op een of andere manier probeerde op te vullen. Internet surfers aanzetten om brood te bakken vereist interesse, anders blijft het bij een kort bezoekje of in het beste geval het lezen van een artikel. Cursisten die deelnemen aan de workshop tonen die interesse door deel te nemen. Het is voor velen niet de eerste keer dat ze brood bakken. De beste leerschool is er eentje die beide werelden weet te combineren: theorie en praktijk. 
+Ergens tussen analoog en digitaal zat echter nog een gat, een gat dat ik op een of andere manier probeerde op te vullen. internet surfers aanzetten om brood te bakken vereist interesse, anders blijft het bij een kort bezoekje of in het beste geval het lezen van een artikel. Cursisten die deelnemen aan de workshop tonen die interesse door deel te nemen. Het is voor velen niet de eerste keer dat ze brood bakken. De beste leerschool is er eentje die beide werelden weet te combineren: theorie en praktijk. 
 
 Het resultaat was ‘_Desem Doos_’: een tweemaandelijkse thuiscursus voor de ambitieuze broodbakker. Desem Doos was een concept dat beginnende bakkers in staat stelde om in hun eigen keuken kennis te maken met zuurdesem. Het systeem werkte zoals andere bekende voedselpakketten die aan huis worden geleverd. Denk hierbij aan ‘Hello Fresh’ of ‘Supercraftlab’. Elke twee maanden werden er een aantal nieuwe recepten rond een centraal thema uitgedacht waar men mee aan de slag kon, geholpen met extra materiaal en video's. 
 
@@ -590,7 +590,7 @@ Karl neemt een andere vloeibare zuurdesem uit de koeling om hierbij te gebruiken
 
 'Ik neem aan dat bakkersidolen als Chad Robertson ook zo'n sterke bloem hanteren?' vraag ik. 
 
-'Natuurlijk. Je ziet in zijn boeken en op Internet zo'n mooie opengebarsten broden, met enorme hoeveelheden water. Mensen proberen dat ook en krijgen dan soep in de plaats van deeg. Wat ze niet weten, en nergens duidelijk staat uitgelegd, is dat die bloem totaal anders reageert op water, zie je. Dat is erg hip tegenwoordig, _high hydration_. Ik zie het nut er eigenlijk niet van in. Het moet nog steeds werkbaar zijn. In een bakkerij moet alles eenvoudig hanteerbaar zijn. En zo'n groot smaakverschil geeft het niet hoor.' 
+'Natuurlijk. Je ziet in zijn boeken en op internet zo'n mooie opengebarsten broden, met enorme hoeveelheden water. Mensen proberen dat ook en krijgen dan soep in de plaats van deeg. Wat ze niet weten, en nergens duidelijk staat uitgelegd, is dat die bloem totaal anders reageert op water, zie je. Dat is erg hip tegenwoordig, _high hydration_. Ik zie het nut er eigenlijk niet van in. Het moet nog steeds werkbaar zijn. In een bakkerij moet alles eenvoudig hanteerbaar zijn. En zo'n groot smaakverschil geeft het niet hoor.' 
 
 In het kader van dezelfde hanteerbaarheid leert Karl ons om natter deeg een beetje te laten verkorsten voordat we verder gaan met het opbollen. Dat principe toepassen, samen met enige behendigheid met een deegsteker, en het probleem is opgelost. 
 
@@ -678,7 +678,7 @@ Waarvan voor het voordeeg (`20%`):
 
 > `200 gr` _durum_ tarwebloem \newline
 > `200 gr` water \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 Methode:
 

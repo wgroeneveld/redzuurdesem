@@ -72,7 +72,7 @@ Als laatste en belangrijkste, mijn vrouw, Kristien \mbox{Thoelen}, die telkens g
 
 > '_Bread-baking is a hard-earned knowledge. So far, I’ve never seen a book that’s able to express it all._' - \mbox{Melissa} Weller
 
-Bakboeken – het begint eerder een pest dan een verlossing te worden. Elke finalist van 'Bake Off' TV series, elke succesvolle professionele bakker, en zelfs beroemde chefs maken er tegenwoordig een spelletje van om jaarlijks iets op papier te zetten. Dat maakt het nog eenvoudiger om met het verkeerde boek thuis te komen. In België en omstreken wordt in de meeste boekenhandels (en bibliotheken) nog te veel plaats gereserveerd voor algemene receptenboeken vol oppervlakkige instructies om cakes, beslagen en taarten te bakken. De beperkte hoofdstukken over brood bakken zijn vaak erg gebrekkig. Gelukkig is het tegenwoordig via het Internet eenvoudiger om goede gespecialiseerde broodbakboeken te vinden.
+Bakboeken – het begint eerder een pest dan een verlossing te worden. Elke finalist van 'Bake Off' TV series, elke succesvolle professionele bakker, en zelfs beroemde chefs maken er tegenwoordig een spelletje van om jaarlijks iets op papier te zetten. Dat maakt het nog eenvoudiger om met het verkeerde boek thuis te komen. In België en omstreken wordt in de meeste boekenhandels (en bibliotheken) nog te veel plaats gereserveerd voor algemene receptenboeken vol oppervlakkige instructies om cakes, beslagen en taarten te bakken. De beperkte hoofdstukken over brood bakken zijn vaak erg gebrekkig. Gelukkig is het tegenwoordig via het internet eenvoudiger om goede gespecialiseerde broodbakboeken te vinden.
 
 Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eigen stijl, niveau en intenties. Met welk bakboek kan ik mij het beste vinden, welk boek leert basisprincipes aan, en welk boek is eerder voor de _die-hards_? Ik selecteer een aantal bakboeken die persoonlijk zijn getest en goedgekeurd. De volgende boeken vormen een perfect paar samen met het boek dat je nu vasthoudt. Dit is slechts een greep van de verslonden - of doorploeterde - werken. Raadpleeg de referenties voor een complete lijst. 
 
@@ -81,7 +81,7 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
 * _The Bread Baker’s Apprentice: mastering the art of extraordinary bread_ door Peter Reinhart [@breadapprentice]. 
     - Leer brood bakken vanaf nul. Eerst met gist, dan met verschillende soorten voordeeg, en uiteindelijk met zuurdesem.
     - Eenvoudig en duidelijk uitgelegd, met omvangrijke recepten.
-    - De zuurdesem starter hoeveelheden zijn moeilijk om mee te rekenen, en de hoeveelheden zijn Amerikaans. 
+    - De zuurdesemstarter hoeveelheden zijn moeilijk om mee te rekenen, en de hoeveelheden zijn Amerikaans. 
 * _Local Breads: Sourdough and whole-grain recipes from Europe’s best Artisan bakers_ door Daniel Leader [@leaderlocalbreads].
     - Dit is eerder een reisverslag met recepten dan een handboek. Aangenaam om te lezen.
     - Bevat een grote variatie aan streekgebonden broden, maar ook het aanleren van de algemene principes van het brood bakken.
@@ -119,7 +119,7 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
     - Recepten die voor een Belg of Nederlander makkelijker in te leven zijn dan iets van Amerikaanse bakkers vanwege minder water en de aanwezigheid van bekende klassiekers als 'melkbrood'.
     - Duitstalig, en dus soms moeilijk te vertalen, zelfs met hulp. Roggebloem (geen meel) is moeilijker verkrijgbaar. 
 
-Hoe graag ik ook een boek vuil maak met mijn bebloemde handen, toch moet ik ook de nodige erkenning geven aan een aantal websites. Het Internet vormt voor velen tegenwoordig de eerste en voornaamste bron van informatie. Enthousiaste bakkers vertellen over hun bevindingen op het centrale forum 'The Fresh Loaf'[^freshl]. Daar zijn veel vriendelijke bakkers terug te vinden. Populaire blogs waar ik veel aan heb gehad zijn 'The Perfect Loaf'[^perfl], 'Sourdough.com' en het Nederlandse 'The Weekend Bakery'[^wbnl]. Dankzij de snelheid waarmee websites komen en gaan heeft het weinig zin om hier een uitgebreide lijst van te maken. Als laatste wil ik natuurlijk ook nog reclame maken voor mijn eigen website, 'Red Zuurdesem'[^redz].
+Hoe graag ik ook een boek vuil maak met mijn bebloemde handen, toch moet ik ook de nodige erkenning geven aan een aantal websites. Het internet vormt voor velen tegenwoordig de eerste en voornaamste bron van informatie. Enthousiaste bakkers vertellen over hun bevindingen op het centrale forum 'The Fresh Loaf'[^freshl]. Daar zijn veel vriendelijke bakkers terug te vinden. Populaire blogs waar ik veel aan heb gehad zijn 'The Perfect Loaf'[^perfl], 'Sourdough.com' en het Nederlandse 'The Weekend Bakery'[^wbnl]. Dankzij de snelheid waarmee websites komen en gaan heeft het weinig zin om hier een uitgebreide lijst van te maken. Als laatste wil ik natuurlijk ook nog reclame maken voor mijn eigen website, 'Red Zuurdesem'[^redz].
 
 [^freshl]: [http://www.thefreshloaf.com/](http://www.thefreshloaf.com/)
 [^perfl]: [https://www.theperfectloaf.com/](https://www.theperfectloaf.com/)

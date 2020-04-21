@@ -39,21 +39,21 @@ Dat ik meer dan tien jaar later op zoek zou gaan naar de oorsprong van die geur 
 
 * * *
 
-Mijn vader heeft zolang als ik me kan herinneren altijd zelf brood gemaakt, net zoals zijn vader. Zondag mochten mijn zussen en ik langer slapen, totdat je bruut werd gewekt door het helse gepiep van de kneedmachine, die onverstoorbaar een paar kilo deeg tegen de randen van de kom sloeg. Enkele uren later rook het hele huis naar vers gebakken brood ter compensatie: dat maakte veel goed. 
+Mijn vader heeft zolang als ik me kan herinneren altijd zelf brood gemaakt, net zoals zijn vader. Zondag mochten mijn zussen en ik langer slapen, totdat je bruut werd gewekt door het helse gepiep van de kneedmachine, die onverstoorbaar een paar kilo deeg tegen de randen van de kom sloeg. Ter compensatie rook het hele huis een paar uur later naar vers gebakken brood: dat maakte veel goed. 
 
 Het was extra opletten geblazen wanneer de snijmachine werd aangezet om het brood in sneetjes te verdelen. Voordat het merendeel in de diepvries verdween was het een kwestie van vechten - en hopelijk winnen - om het korstje (of, stel u voor, misschien zelfs twee korstjes) te kunnen bemachtigen. We leken wel kippen die vochten om een stukje brood en elkaar daarna achterna liepen. 
 
 Die traditie om wekelijks brood te bakken gaf mijn zaadje regelmatig een beetje water. Niet veel, maar genoeg om niet af te sterven. 
 
-Toen ik ging alleen wonen, en ik het terugvallen op de middelmatige kwaliteit van supermarkt brood beu was, kreeg ik van mijn ouders een broodbakmachine cadeau. Plots kreeg het zaadje niet zomaar een beetje water, maar een hele emmer vol mest. En groeien deed het. Het duurde nog een jaar of twee voordat ik toegaf aan die opgeslagen zintuiglijke herinnering van dat brood op vakantie. 
+Toen ik ging alleen wonen, en ik het terugvallen op de middelmatige kwaliteit van supermarktbrood beu was, kreeg ik van mijn ouders een broodbakmachine cadeau. Plots kreeg het zaadje niet zomaar een beetje water, maar een hele emmer vol mest. En groeien deed het. Het duurde nog een jaar of twee voordat ik toegaf aan die opgeslagen zintuiglijke herinnering van dat brood op vakantie. 
 
 Maar wanneer het zaadje een plantje werd, kwam er geen muurbloempje uit: het werd een gigantische Redwood boom. 
 
 Brood bakken (of kopen) voelt voor sommigen aan als een verplichting: je doet het omdat het nu eenmaal moet gebeuren. Voor mij is brood bakken gegroeid van een verplichting naar een hobby tot een obsessie. Waar ik vroeger niets van moest weten, daar wil ik nu alles van weten, tot in het kleinste detail, met als gevolg dat op mijn eentje knoeien met een broodbakmachine te weinig voldoening gaf. 
 
-Op zoek naar de _geur_ en de _smaak_ toverde ik mijn keuken om tot een microbiologisch laboratorium, volgde ik cursussen, ging ik in leer bij de beste bakkers, schreef ik artikels, en gaf ik zelf verschillende workshops. Dit boek is de culminatie van alles wat ik weet over brood bakken. 
+Op zoek naar de _geur_ en de _smaak_ toverde ik mijn keuken om tot een microbiologisch laboratorium, volgde ik cursussen, ging ik in de leer bij de beste bakkers, schreef ik artikels, en gaf ik zelf verschillende workshops. Dit boek is de culminatie van alles wat ik weet over brood bakken. 
 
-Er zijn zoveel goede (en slechte) broodbakfboeken gepubliceerd dat het duizelt van de keuzestress wanneer je er eentje wilt aanschaffen. Daarom koos ik resoluut voor een persoonlijk verhaal, waarin ik je inzicht verschaf in mijn leerwereld, gecombineerd met duidelijke, maar wetenschappelijk onderbouwde, informatie. 
+Er zijn zoveel goede (en slechte) broodbakboeken gepubliceerd dat het duizelt van de keuzestress wanneer je er eentje wilt aanschaffen. Daarom koos ik resoluut voor een persoonlijk verhaal, waarin ik je inzicht verschaf in mijn leefwereld, gecombineerd met duidelijke, maar wetenschappelijk onderbouwde, informatie. 
 
 Veel kook- en bakboeken bevatten erg weinig technische diepgang, zelfs degene die geschreven zijn voor of door autoriteiten met jarenlange ervaring. Anderen maken het dan weer graag verwarrend door vreemde hoeveelheden en onduidelijke rijstijden te hanteren in recepten. 
 
@@ -101,7 +101,7 @@ De praktische hoofdstukken worden vergezeld met een recept dat aansluit bij het 
 
 * * *
 
-Waarom zou iemand de wetenschap van het bakken van brood willen leren? De meeste wetenschappelijke experimenten bereikten pas tractie in de twintigste eeuw. Brood wordt al zesduizend jaar door de mens gebakken, zonder enige kennis van microbiologie of chemie. 
+Waarom zou iemand de wetenschap van het bakken van brood willen leren? De meeste wetenschappelijke experimenten kregen pas vorm in de twintigste eeuw. Brood wordt al zesduizend jaar door de mens gebakken, zonder enige kennis van microbiologie of chemie. 
 
 De verstrooide Egyptenaar die een mengsel van bloem en water in de zon vergat, dankte toen hij het gerezen goedje ontdekte niet de wetenschap, maar de goden. Om op die vraag te kunnen antwoorden laat ik een expert aan het woord:
 
@@ -113,7 +113,7 @@ Als je ouders je leren niet met natte haren buiten te spelen 'omdat je dan kou v
 
 Om een of andere reden kent de wereld van brood de laatste jaren een invasie van techneuten zoals mij. Ingenieurs, programmeurs, en analisten zijn heel goed in het stellen van de _waarom_ vraag. De belangrijkste eerste stappen in het verrichten van wetenschappelijk onderzoek is het stellen van de juiste kritische vragen (om ze daarna liefst ook nog beantwoorden). De analytische, strategische visie gecombineerd met een ontspannen, bijna romantiserende verhaallijn van het broodbakproces vormen een vruchtbaar huwelijk als het op _James Beard_ en _Saveur_[^saveur] prijzen aankomt. 
 
-De nood om een ambacht op te pakken en iets _tastbaar_ zoals brood te maken, daar herken ik vooral mezelf in. Maurizio Leo, de softwareontwikkelaar achter de populaire blog 'The Perfect Loaf'[^perfectloaf], noemt het beantwoorden van de waarom vragen het _debuggen_ van het broodbak _algoritme_. Zo ver zou zelfs ik niet durven gaan. 
+De nood om een ambacht op te pakken en iets _tastbaar_ zoals brood te maken, daar herken ik vooral mezelf in. Maurizio Leo, de softwareontwikkelaar achter de populaire blog 'The Perfect Loaf'[^perfectloaf], noemt het beantwoorden van de waarom vragen het _debuggen_ van het broodbak-_algoritme_. Zo ver zou zelfs ik niet durven gaan. 
 
 Het is duidelijk dat ook technisch aangelegde mensen graag met hun handen werken. Dingen bouwen, én precies weten wat daarvoor nodig is. De persoonlijke relatie tussen maker en eter geeft veel meer voldoening dan bij typisch programmeerwerk. Brood verbindt mensen. Het is niet voor niets '_ons dagelijks brood_'. 
 

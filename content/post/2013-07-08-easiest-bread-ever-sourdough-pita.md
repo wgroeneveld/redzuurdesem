@@ -45,7 +45,7 @@ Geïnspireerd door [http://www.weekendbakery.com/posts/favorite-flatbreads-sour
 
   1. <span style="line-height: 15px;">400gr witte (tarwe-)bloem</span>
   2. 100gr rogge bloem
-  3. 40gr 100% rogge zuurdesem starter
+  3. 40gr 100% rogge zuurdesemstarter
   4. 300gr water
   5. 10gr zee zout
 

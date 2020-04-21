@@ -36,7 +36,7 @@ Start de avond voordat je van plan bent om het wafelijzer boven te halen. Het pr
 Dit maakt ongeveer 16 wafels:
 
   * <span style="line-height: 15px;">250gr witte (tarwe-)bloem</span>
-  * 40gr actieve zuurdesem starter
+  * 40gr actieve zuurdesemstarter
   * 500gr volle melk **of** 250gr melk, 250gr water (maakt ze lichter)
   * 100gr gesmolten boter
   * 2 eieren

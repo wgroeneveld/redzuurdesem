@@ -531,7 +531,7 @@ Waarvan voor het voordeeg (`10%` van de bloem):
 
 > `100 gr` tarwebloem \newline
 > `100 gr` volle melk \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 Methode:
 

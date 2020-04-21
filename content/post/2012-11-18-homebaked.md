@@ -33,7 +33,7 @@ De foto toont drie verschillende broden die gebakken waren. Hier zijn de recepte
 
   1. [Vermont zuurdesem][2] van Mr. Hamelman&#8217;s &#8220;BREAD&#8221; boek &#8211; een klassieker. (de twee grote broden links en rechtsboven)
   2. [Gezond Duits rogge boerenbrood][3] van &#8220;Local Breads&#8221; met alle kruiden  (het rond brood beneden rechts, het donkere)
-  3. [Pain au Levain][4] met een &#8220;stijve&#8221; zuurdesem starter van &#8220;Local Breads&#8221;. (De 3 kleine bâtards)
+  3. [Pain au Levain][4] met een &#8220;stijve&#8221; zuurdesemstarter van &#8220;Local Breads&#8221;. (De 3 kleine bâtards)
 
 ### Ik heb zuurdesem &#8211; wat nu?
 

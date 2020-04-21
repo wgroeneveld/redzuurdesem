@@ -23,7 +23,7 @@ Proficiat met je nieuwe zoon of dochter! Draag er goed zorg voor, en je brood za
 
 **Enkele basisregels**
 
-Een zuurdesem starter <span style="text-decoration: underline;">moet</span> je altijd <span style="text-decoration: underline;">voordat</span> je gaat bakken &#8220;verversen&#8221;. Dit betekent in essentie de desem mengen met bloem & water zodat er nieuwe suikers beschikbaar zijn voor de bacteriën. Vergeet niet dat je met levende materie werkt &#8211; de cellen zullen anders CO2 blijven produceren en het zal zo&#8217;n zure omgeving worden dat ze zelf dood gaan. Wanneer je te lang wacht, zijn er te weinig gisten en bacteriën over om je brood te doen rijzen.
+Een zuurdesemstarter <span style="text-decoration: underline;">moet</span> je altijd <span style="text-decoration: underline;">voordat</span> je gaat bakken &#8220;verversen&#8221;. Dit betekent in essentie de desem mengen met bloem & water zodat er nieuwe suikers beschikbaar zijn voor de bacteriën. Vergeet niet dat je met levende materie werkt &#8211; de cellen zullen anders CO2 blijven produceren en het zal zo&#8217;n zure omgeving worden dat ze zelf dood gaan. Wanneer je te lang wacht, zijn er te weinig gisten en bacteriën over om je brood te doen rijzen.
 
 Stel: je wilt zaterdagmorgen beginnen met bakken van een desem brood. Dat wil zeggen dat je je voordeeg ten laatste vrijdagavond zal moeten maken. En daarvoor heb je desem nodig die in goede conditie is. Dus je ververst je desem vrijdag<span style="text-decoration: underline;">morgen</span> voor die avond te gebruiken in het voordeeg.
 

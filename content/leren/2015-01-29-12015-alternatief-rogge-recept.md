@@ -114,7 +114,7 @@ water
 </h2>
 
 <p>
-  Wist je dat je met je zuurdesem starter méér kon doen dan enkel brood doen rijzen? Je kan het ook gebruiken om&#8230;
+  Wist je dat je met je zuurdesemstarter méér kon doen dan enkel brood doen rijzen? Je kan het ook gebruiken om&#8230;
 </p>
 
 <p>

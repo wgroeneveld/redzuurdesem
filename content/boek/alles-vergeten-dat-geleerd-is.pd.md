@@ -246,7 +246,7 @@ Waarvan voor het voordeeg (`20%`):
 
 > `200 gr` tarwemeel, volkoren \newline
 > `200 gr` water \newline
-> `1 el` zuurdesem starter 
+> `1 el` zuurdesemstarter 
 
 Methode:
 
@@ -254,7 +254,7 @@ Methode:
 - _Dag 1, 20u00_: Starter in koeling. Voordeeg maken op kamertemperatuur.
 - _Dag 1, 20u01_: Laat `200 gr` roggemeel met `300 gr` kokend water en `2 gr` zout afgedekt een nacht weken.
 - _Dag 1, 20u02_: Laat `100 gr` lijnzaad samen met `125 gr` onverhit water afgedekt een nacht weken.
-- _Dag 1, 20u03_: Meng `50 gr` rijst en `50 gr` speltgranen met `1 el` zuurdesem starter en `125 gr` water op kamertemperatuur.
+- _Dag 1, 20u03_: Meng `50 gr` rijst en `50 gr` speltgranen met `1 el` zuurdesemstarter en `125 gr` water op kamertemperatuur.
 - _Dag 2, 08u00_: Voeg alles samen met de resterende `200 gr` water. Kneden. 2u Eerste rijs op `24°C`.
 - _Dag 2, 10u00_: Vorm geven. 1.5u Tweede rijs op `24°C`.
 - _Dag 2, 11u30_: Bakken zonder stoom.

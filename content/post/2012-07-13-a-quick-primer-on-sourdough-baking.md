@@ -39,12 +39,12 @@ Je kan een **stijf voordeeg** maken of een **vloeibaar voordeeg**. Het enige ve
 
 # _[ 07:00 PM ] _Stap 2: meer combineren: het einddeeg maken.
 
-Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot het dubbel van de originele grootte). Als je een vloeibaar voordeeg gebruikt is dit makkelijker zichtbaar. Wanneer het voordeeg terug begint te slinken, wil dat zeggen dat de bacteriën zijn uitgewerkt en voeg je best minder van je zuurdesem starter toe de volgende keer. Anders hebben de bacteriën geen eten meer (= het bloem) en gaat je brood instorten! Dit kan dus enkele oorzaken hebben:<figure style="width: 150px" class="wp-caption alignleft">
+Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot het dubbel van de originele grootte). Als je een vloeibaar voordeeg gebruikt is dit makkelijker zichtbaar. Wanneer het voordeeg terug begint te slinken, wil dat zeggen dat de bacteriën zijn uitgewerkt en voeg je best minder van je zuurdesemstarter toe de volgende keer. Anders hebben de bacteriën geen eten meer (= het bloem) en gaat je brood instorten! Dit kan dus enkele oorzaken hebben:<figure style="width: 150px" class="wp-caption alignleft">
 
 [<img title="_MG_6408.jpg" src="http://lh6.ggpht.com/-6fIkLP09_wc/T_suE3I7EFI/AAAAAAAAGVA/PESIuwwteO4/s150-c/_MG_6408.jpg" alt="_MG_6408.jpg" width="150" height="150" />][1]<figcaption class="wp-caption-text">Alles gecombineerd in een mengkom..</figcaption></figure> <figure style="width: 150px" class="wp-caption alignright">[<img title="_MG_6410.jpg" src="http://lh6.ggpht.com/-hd0MPkSitVU/T_suF7OX1TI/AAAAAAAAGVI/3Ve_LYV-E_k/s150-c/_MG_6410.jpg" alt="_MG_6410.jpg" width="150" height="150" />][2]<figcaption class="wp-caption-text">Het deeg op het keukentablet gedumpt.</figcaption></figure> 
 
 <li style="text-align: justify;">
-  Te weinig bloem in verhouding tot de zuurdesem starter
+  Te weinig bloem in verhouding tot de zuurdesemstarter
 </li>
 <li style="text-align: justify;">
   Omgevingstemperatuur is te hoog: is het zomer misschien??
@@ -52,7 +52,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   1. <span style="text-align: left;">Te lang laten fermenteren</span>
 
 <div style="text-align: left;">
-  In ieder geval, hoe langer dat je het laat fermenteren, hoe zuurder het zal worden. Je zal leren hoe je het beste je eigen zuurdesem starter onder controle kan houden, maar de enige manier is natuurlijk om zoveel mogelijk te bakken, opnieuw en opnieuw!!
+  In ieder geval, hoe langer dat je het laat fermenteren, hoe zuurder het zal worden. Je zal leren hoe je het beste je eigen zuurdesemstarter onder controle kan houden, maar de enige manier is natuurlijk om zoveel mogelijk te bakken, opnieuw en opnieuw!!
 </div>
 
 <div style="text-align: left;">
@@ -289,7 +289,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   
   <ol>
     <li>
-      07:00 AM &#8211; maak uw <strong>voordeeg</strong> (15% van de totale componenten met 2 eetlepels zuurdesem starter). Laat rusten voor 12 hours.
+      07:00 AM &#8211; maak uw <strong>voordeeg</strong> (15% van de totale componenten met 2 eetlepels zuurdesemstarter). Laat rusten voor 12 hours.
     </li>
     <li>
       07:00 PM &#8211; mix <strong>rest van de ingrediënten</strong><strong> </strong>en kneed door <strong>stretch & fold</strong> technieken toe te passen voor max. 5 minuten. Laat 2 uur rusten voor de eerste rijs.

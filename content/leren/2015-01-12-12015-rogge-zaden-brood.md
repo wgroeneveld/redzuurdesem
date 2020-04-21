@@ -296,7 +296,7 @@ De **metalen deegsteker** is geen schraper maar een _steker_: dit is scherper 
 </p>
 
 <h4>
-  Dag 1, 8h: ververs je zuurdesem starter
+  Dag 1, 8h: ververs je zuurdesemstarter
 </h4>
 
 <p>

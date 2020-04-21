@@ -63,7 +63,7 @@ Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een 
   
   <ol>
     <li>
-      <span style="line-height: 15px;">200gr zuurdesem starter, gemaakt van mijn volrogge desem met durum tarwe, 12h op voorhand, @ 100%</span>
+      <span style="line-height: 15px;">200gr zuurdesemstarter, gemaakt van mijn volrogge desem met durum tarwe, 12h op voorhand, @ 100%</span>
     </li>
     <li>
       500gr durum tarwe
