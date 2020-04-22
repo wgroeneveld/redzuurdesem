@@ -15,9 +15,9 @@ Recepten werken niet. Zo, dat is eruit.
 
 * * *
 
-Ik deel deze mening met Michael Booth, die recepten in zijn boeken aanbiedt en vervolgens vrolijk verklaart: '_Don't worry, it's not you. Recipes don't work._' [@cordonbleu] Als beginneling wordt je overrompeld met instructies en als expert heb je geen zin je te doen wat iemand anders zegt. Tijdstippen en hoeveelheden zijn twee oorzaken van acute hoofdpijn. Er is weinig reden voor verwarring als het op de ingrediënten in een brood recept aan komt, in tegenstelling tot sommige ingewikkeldere gerechten. 
+Ik deel deze mening met Michael Booth, die recepten in zijn boeken aanbiedt en vervolgens vrolijk verklaart: '_Don't worry, it's not you. Recipes don't work._' [@cordonbleu] Als beginneling word je overrompeld met instructies en als expert heb je geen zin te doen wat iemand anders zegt. Tijdstippen en hoeveelheden zijn twee oorzaken van acute hoofdpijn. Er is weinig reden voor verwarring als het op de ingrediënten in een brood recept aan komt, in tegenstelling tot sommige ingewikkeldere gerechten. 
 
-In het begin volgde ik zo strikt mogelijk de aanwijzingen van de auteur op, met een mislukt brood tot gevolg. Veel frustraties en een beetje toegevoegde nonchalantie later werd er niet meer gekeken op een grammetje, met evenzeer een mislukt brood tot gevolg. 
+In het begin volgde ik zo strikt mogelijk de aanwijzingen van de auteur op, met een mislukt brood tot gevolg. Veel frustraties en een beetje toegevoegde nonchalance later werd er niet meer gekeken op een grammetje, met evenzeer een mislukt brood tot gevolg. 
 
 Vanaf toen begon ik me af te vragen waarom bepaalde handelingen eigenlijk nodig waren. Ik begon in mijn eentje te experimenteren. Het bakboek werd uitgebreid bestudeerd om daarna aan de kant te worden geschoven. In de keuken doe ik gewoon waar ik zelf zin in heb, op basis van erg veel leerrijke mislukkingen. 
 
@@ -52,7 +52,7 @@ De Nederlandstalige terminologie om elke stap in het proces te identificeren kli
 Table: De terminologie van het bakproces. \label{terms}
 
 
-De voor de hand liggende stappen zoals het afwegen en de het voorverwarmen van de oven heb ik weggelaten. Als je met érg nat deeg werkt, kan je vóór het kneden een tweede keer water toevoegen. Dat noemt men '_double hydration_': het deeg krijgt zowel bij de autolyse stap als bij het kneden de kans om water op te nemen. 
+De voor de hand liggende stappen zoals het afwegen en het voorverwarmen van de oven heb ik weggelaten. Als je met érg nat deeg werkt, kan je vóór het kneden een tweede keer water toevoegen. Dat noemt men '_double hydration_': het deeg krijgt zowel bij de autolyse stap als bij het kneden de kans om water op te nemen. 
 
 Het deeg laten rusten tussen vormgeving stappen 6 en 8 dient enkel om de gluten voldoende te laten ontspannen, om het daarna makkelijker terug op te spannen. In de praktijk sla ik die stap vaak over. Bij Syntra sprak men ook nog van een '_voorrijs_', dat gek genoeg niets te maken heeft met een voordeeg, maar met het laten rijzen van het deeg in de mengkuip van de kneedmachine voordat het in grote stukken op het werkoppervlak werd verdeeld als voorbereiding op de bulkrijs. Een professionele bakker kan zich de langdurige bezetting van een machine meestal niet veroorloven. 
 
@@ -211,7 +211,7 @@ Bij een vrouwendeeg als rogge is minder flexibiliteit mogelijk. Hiermee durf ik 
 
 Bij tarwe bepaalt de eerste rijs voor het merendeel de smaak, terwijl dit bij rogge eerder het voordeeg is. Volle granen bevatten meer fytinezuur dan bloem, waarvan de hoeveelheid hoger is bij rogge dan bij tarwe [@garcía1999phytic]. 
 
-Om de opname van voedingsstoffen te maximaliseren wordt er bij volkoren roggebrood vaak een deel van het meel geweekt, met koud of kokend water. Vandaar de Engelse term '_soaker_'. Dit weken kan je samen met het voordeeg maken en ook een nacht laten inwerken op kamertemperatuur. Bovenstaande formule bevat `600 g` roggemeel, waarvan `300 g` wordt gefermenteerd als voordeeg. Dan schiet er nog `300 g` over om te weken[^weken] met `400 g` kokend water. Op dag 2 om 10 uur combineer je het voordeeg en geweekt meel met de rest van het water, `70 g`, en rest van de ingrediënten. Geweekt meel helpt buiten enzymen activatie ook om meer water op te nemen. 
+Om de opname van voedingsstoffen te maximaliseren wordt er bij volkoren roggebrood vaak een deel van het meel geweekt, met koud of kokend water. Vandaar de Engelse term '_soaker_'. Dit weken kan je samen met het voordeeg maken en ook een nacht laten inwerken op kamertemperatuur. Bovenstaande formule bevat `600 g` roggemeel, waarvan `300 g` wordt gefermenteerd als voordeeg. Dan schiet er nog `300 g` over om te weken[^weken] met `400 g` kokend water. Op dag 2 om 10 uur combineer je het voordeeg en geweekt meel met de rest van het water, `70 g`, en rest van de ingrediënten. Geweekt meel helpt buiten activatie van enzymen ook om meer water op te nemen. 
 
 [^weken]: Weken doe je zonder gist of desem. In sommige bakboeken wordt aangeraden om een deel van het zout reeds toe te voegen om de amylase activiteit te vertragen. 
 

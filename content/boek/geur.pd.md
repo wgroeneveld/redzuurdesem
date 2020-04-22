@@ -11,7 +11,7 @@ Brood bakken kan zelfs helpen om gesprekken aan te knopen op vervelende werkfees
 
 ‘Ah,' zeg ik dan, 'ik ken daar enkele heel goede bakkerijen.' Met een beetje geluk bijt de vis, en dan zijn we vertrokken. 
 
-Heerlijk toch, om op vakantie in Frankrijk te worden omgeven door veel goede bakkerijen. Met 'als god in Frankrijk leven' bedoelt men toch dat god naast een zo een bakkerij woont dan? 
+Heerlijk toch, om op vakantie in Frankrijk te worden omgeven door veel goede bakkerijen. Met 'als god in Frankrijk leven' bedoelt men toch dat god naast zo een bakkerij woont dan? 
 
 
 
@@ -19,7 +19,7 @@ Blijkbaar zijn niet alle bakkerijen hiervoor geschikt, kwam ik te weten tijdens 
 
 Het is ook moeilijk om te oordelen over de kwaliteit van een pas ontdekte bakkerij door er bijvoorbeeld maar één brood te kopen. En natuurlijk koop je op vakantie niet in grote kwantiteiten, want dan eindigen te veel producten jammerlijk genoeg in de vuilbak. Er zijn immers zoveel bakkerijen om te proberen, en er is zo weinig tijd. Rentenieren in Frankrijk is misschien een optie als dit boek genoeg wordt verkocht (ik heb geen hoge verwachtingen). Tot dan zal het argument 'te weinig tijd' blijven staan. 
 
-Wie in Brussel al eens op bakkerij bezoek geweest is, zal ongetwijfeld weten dat _Boulangerie Charli_ tot één van de beste behoort. Dat is niet alleen te danken aan zijn fantastisch tarwe- en roggebrood met aandacht voor minimale (biologische en lokale) ingrediënten, maar ook aan het feit dat ik rustig sippend van mijn thee door de glazen wand kan gluren naar het gezwoeg van de bakkers. 
+Wie in Brussel al eens op bakkerijbezoek geweest is, zal ongetwijfeld weten dat _Boulangerie Charli_ tot één van de beste behoort. Dat is niet alleen te danken aan zijn fantastisch tarwe- en roggebrood met aandacht voor minimale (biologische en lokale) ingrediënten, maar ook aan het feit dat ik rustig sippend van mijn thee door de glazen wand kan gluren naar het gezwoeg van de bakkers. 
  
 Een andere Brusselse bakkerij, _Paul_, ziet er ook indrukwekkend uit dankzij het royaal gebruik van marmer en met een toog vol chique ogende zuurdesembroden. Ik wist echter niet dat _Paul_ een keten is, tot ik die overal tegenkwam: in Marseille, in Strasbourg, in Bouc-bel-air en in Parijs. Dat betekent niet dat zo een keten voor mij niet in aanmerking komt om brood te kopen. 
 
@@ -39,7 +39,7 @@ Opletten met uitzonderingen: als er wordt aangeschoven aan een _Panos_ 'bakkerij
 3. _De geur_ - dit is de belangrijkste vuistregel. Een bakkerij waar veel patisserie wordt gebakken produceert een andere geur dan een bakkerij waar voornamelijk zuurdesembrood wordt gebakken. De eerste geur is heel zoet (suikers: taartjes, speculaas, …). De tweede geur is eerder gistig, melkachtig zoet, eigenlijk de geur van een jonge tarwe desem. Meestal begin ik spontaan te kwijlen als er niemand langs mij loopt. Als er iemand langs mij loopt eigenlijk ook maar ik kijk uit beleefdheid dan snel de andere kant op. Liefst richting de verluchting van de bakkerij dan. \newline
 De kantoren van het _Puratos Center for Bread Flavour_ worden permanent verrijkt met deze bedwelmende geur. Hoe mensen daar enigszins werk gedaan krijgen is mij een raadsel. 
 
-[^panos]: Een bakker mag zichzelf alleen maar een '_warme_' bakker noemen, als hij zijn product van begin tot einde ter plaatse maakt. Dit is een wettelijk beschermde titel waar erg creatief mee omgegaan wordt. Slogans als 'Dagelijks vers gebakken' vergeten vaak het voorvoegsel 'af-' bij gebakken. Dit zijn 'koude' bakkers. De termen 'vers gebakken' en 'ambachtelijk' zijn dus _niet_ beschermd. Een keten hoeft kan zijn stock aanvullen vanaf een centrale 'warme' bakkerij, maar kan dit ook volledig ter plaatse maken, zoals _Kayser_ en _Poilâne_ in Parijs.
+[^panos]: Een bakker mag zichzelf alleen maar een '_warme_' bakker noemen, als hij zijn product van begin tot einde ter plaatse maakt. Dit is een wettelijk beschermde titel waar erg creatief mee omgegaan wordt. Slogans als 'Dagelijks vers gebakken' vergeten vaak het voorvoegsel 'af-' bij gebakken. Dit zijn 'koude' bakkers. De termen 'vers gebakken' en 'ambachtelijk' zijn dus _niet_ beschermd. Een keten kan zijn stock aanvullen vanaf een centrale 'warme' bakkerij, maar kan dit ook volledig ter plaatse maken, zoals _Kayser_ en _Poilâne_ in Parijs.
 
 Een van de bakkerijen die mij nog het meeste bijblijft op vakantie is '_le Farinoman Fou_' in het centrum van Aix-en-provence. Op een zaterdagmiddag is het in Aix erg druk omdat elk mogelijk pleintje in de stad volgestouwd staat met marktkramers, waarvan er velen ook goed brood verkopen. Kristien en ik slenteren enkele straatjes in en uit om de stad een beetje te verkennen, totdat we net voor een plein veel mensen in een lange sliert zien aanschuiven. Aanschuiven? Check. De geur van vers gebakken brood komt ons tegemoet. Geur? Check. Ik overtuig mijn wederhelft om hier vrolijk mee aan te schuiven en zie dat ze enkel maar brood verkopen als ik binnen kom. Beperkte variatie? Check. 
 
@@ -87,7 +87,7 @@ Dat is hoofdzakelijk toe te schrijven aan twee chemische reacties tijdens het ba
 
 De Franse Academie voor Geneeskunde prijs werd in 1914 uitgereikt aan professor Louis Camille Maillard. Ik neem aan dat de professor als echte Fransman verzot was op _pain grillé_. In plaats van zoals iedereen gewoon de toast te beboteren en binnen te werken, vroeg hij zich af waarom die toast eigenlijk lekkerder is in zijn gebruinde vorm. Hij ontdekte dat de bruine pigmenten in voedsel worden gevormd door de interactie van aminozuren met suikers. Deze chemische reactie noemt men dankzij deze man de _Maillard reactie_. 
 
-De reactie is afhankelijk van hitte: onder de `140°C` gebeurt er niet veel. Daarom zal gekookt voedsel nooit een bruine korst vormen. karamelisatie is het afbreken van suikermolecules die plaats moeten maken voor een nieuwe en complexere smaak. In tegenstelling tot de Maillard reactie heb je voor karamelisatie geen eiwitten[^ei] nodig. Groenten bevatten weinig eiwitten, dus technisch gezien karameliseren groenten eerder dan dat ze bruin worden door de Maillard reactie. 
+De reactie is afhankelijk van hitte: onder de `140°C` gebeurt er niet veel. Daarom zal gekookt voedsel nooit een bruine korst vormen. Karamelisatie is het afbreken van suikermolecules die plaats moeten maken voor een nieuwe en complexere smaak. In tegenstelling tot de Maillard reactie heb je voor karamelisatie geen eiwitten[^ei] nodig. Groenten bevatten weinig eiwitten, dus technisch gezien karameliseren groenten eerder dan dat ze bruin worden door de Maillard reactie. 
 
 [^ei]: Eiwitten bestaan uit lange stranden van aminozuren. De gluten in tarwebrood dragen bij tot de Maillard reactie. Dit betekent niet dat glutenvrij brood gespaard blijft van een bruine korst: kikkererwtenmeel bijvoorbeeld bevat twee keer zoveel eiwitten per honderd gram als tarwe.
 

@@ -276,9 +276,9 @@ Dit pigment brengt naast kleur ook smaak met zich mee. _Rode_ tarwe bevat meer v
 
 In de praktijk beïnvloeden bakkers de kleur van de korst en het kruim opnieuw via verbeteraars. Mengelingen die worden verkocht als 'woudmeel' verraden de aanwezigheid van toegevoegde kleurstoffen door de erg donkerbruine kleur van het meel. 
 
-De aanwezigheid van kleurstof hoeft niet een ongezond product te betekenen. Veel gebruikte additieven om de kleur te beïnvloeden zijn sojabloem, gebrande mout, en natuurlijk extra suikers. Het enzym _lipoxygenase_ aanwezig in sojabloem bleekt de xanthofyl kleurstoffen in de tarwe, wat een wittere kruim oplevert [@optionalsoy]. Ik heb geen flauw idee waarom dat spierwit brood vandaag de dag nog zo aanspreekt bij mensen. Ooit was dit een uniform symbool van status. Gevangenen kregen vies bruin volkoren tarwebrood, of nog erger, grijs roggebrood te eten. Witte bloem kost meer vanwege het zeefproces. Als trotste eter van een witte snee brood liet je andere mensen duidelijk verstaan wie er waardig was en wie niet. 
+De aanwezigheid van kleurstof hoeft niet een ongezond product te betekenen. Veel gebruikte additieven om de kleur te beïnvloeden zijn sojabloem, gebrande mout, en natuurlijk extra suikers. Het enzym _lipoxygenase_ aanwezig in sojabloem bleekt de xanthofyl kleurstoffen in de tarwe, wat een wittere kruim oplevert [@optionalsoy]. Ik heb geen flauw idee waarom dat spierwit brood vandaag de dag mensen nog zo aanspreekt. Ooit was dit een uniform symbool van status. Gevangenen kregen vies bruin volkoren tarwebrood, of nog erger, grijs roggebrood te eten. Witte bloem kost meer vanwege het zeefproces. Als trotste eter van een witte snee brood liet je andere mensen duidelijk verstaan wie er waardig was en wie niet. 
 
-'_The medium is the message_' zei Marshall McLuhan ooit. Dat geldt nu ook nog, maar dan omgekeerd. Met een witte snee uit de boterhamdoos te halen riskeer je tegenwoordig te worden uitgelachen als onbewuste eter. De een vindt wit brood een pure vorm van suikers [@broodbuik], de ander vindt dat zemelen de oorzaak is van alle ellende [@menace]. Het is een kwestie van goed op de hoogte te blijven van de laatste trends om vol zelfvertrouwen in een drukke cafetaria die boterhamdoos te durven openen.
+'_The medium is the message_' zei Marshall McLuhan ooit. Dat geldt nu ook nog, maar dan omgekeerd. Met een witte snee uit de boterhamdoos te halen riskeer je tegenwoordig te worden uitgelachen als onbewuste eter. De een vindt wit brood een pure vorm van suikers [@broodbuik], de ander denkt dat zemelen de oorzaak is van alle ellende [@menace]. Het is een kwestie van goed op de hoogte te blijven van de laatste trends om vol zelfvertrouwen in een drukke cafetaria die boterhamdoos te durven openen.
 
 * * *
 
@@ -286,13 +286,13 @@ Mout is ontkiemd en daarna gedroogd graan. Dit is een veel gebruikt 'geheim' ing
 
 Het diastatisch gehalte is een maat voor het vermogen van meel om maltose te produceren uit zijn zetmeel. In feite meet men dan de amylase activiteit. Deze mout is makkelijk zelf te maken door eender welke graansoort te laten kiemen, drogen op een lage temperatuur en fijn te malen. De toevoeging van mout aan meel om de prestatie van gisten te verhogen ontstond reeds aan het einde van de negentiende eeuw. 
 
-Soms worden de granen geroosterd, of 'gebrand', voor het malen. In dat geval komt de kleur voornamelijk van het branden, en niet van de werking van de meegeleverde enzymen. Een temperatuur boven de `50°C` beschadigt de enzymen. Dat is de '_non-diastatic malt_'. Erg vetrijke degen zoals gelamineerd croissantdeeg kan veel voordelen halen uit een beetje mout. De boter laagjes maken het immers extra moeilijk voor het deeg om goed te kunnen rijzen. 
+Soms worden de granen geroosterd, of 'gebrand', voor het malen. In dat geval komt de kleur voornamelijk van het branden, en niet van de werking van de meegeleverde enzymen. Een temperatuur boven de `50°C` beschadigt de enzymen. Dat is de '_non-diastatic malt_'. Erg vetrijke degen zoals gelamineerd croissantdeeg kan veel voordelen halen uit een beetje mout. De boterlaagjes maken het immers extra moeilijk voor het deeg om goed te kunnen rijzen. 
 
 Merk op dat de toevoeging van veel enzymen aan een al redelijk actieve cultuur ongewenste gevolgen als een taai en slecht gerezen brood kan uitlokken. Te veel mout geeft ook een bittere smaak af aan het brood. 
 
 Het gebruik van enzymen en andere additieven in brood kent een ongelofelijke groei sinds de introductie ervan vlak na de tweede wereldoorlog. Dankzij de industrialisatie en wetenschappelijke vooruitgang van microbiologie en biochemie werd het alsmaar eenvoudiger om onder andere amylase in een laboratorium te kweken, gebaseerd op genetisch gemodificeerde organismen. 
 
-De typische ingrediënten van een verbeteraar zijn uiteraard niet schadelijk voor de mens, en vinden hun oorsprong in de natuur. Ik vind het belangrijk om te begrijpen waar welke component voor wordt gebruikt, en welk effect dit heeft op het deeg. Het is echter minstens even belangrijk om ook eens te kijken naar de economische kant van het plaatje. Voedsel technologie is iets moois. We vinden belachelijk lang houdbare voeding in blik uit. We wijzigen het tarwe ras zo dat de opbrengst wordt gemaximaliseerd. We kweken enzymen in Petri schaaltjes. Dat steekt voornamelijk héél veel geld in de zakken van grote bedrijven. 
+De typische ingrediënten van een verbeteraar zijn uiteraard niet schadelijk voor de mens, en vinden hun oorsprong in de natuur. Ik vind het belangrijk om te begrijpen waar welke component voor wordt gebruikt, en welk effect dit heeft op het deeg. Het is echter minstens even belangrijk om ook eens te kijken naar de economische kant van het plaatje. Voedsel technologie is iets moois. We vinden belachelijk lang houdbare voeding in blik uit. We wijzigen het tarweras zo dat de opbrengst wordt gemaximaliseerd. We kweken enzymen in petrischaaltjes. Dat steekt voornamelijk héél veel geld in de zakken van grote bedrijven. 
 
 Om dat 'heel veel' te kwantificeren, citeer ik uit een rapport van Ângelo Samir Melim Miguel en anderen, over de trends van enzymen in de bakkerij [@miguel2013enzymes]:
 
@@ -309,7 +309,7 @@ Ik was met stomheid geslagen toen ik het verslag voor de eerste keer las. Er val
 
 Deze gegevens komen van het Amerikaanse 'Freedonia Group', gespecialiseerd in marktonderzoek, maar ik zie geen reden om aan te nemen waarom de vraag in Europa minder drastisch zou stijgen. De balken geven de vraag naar bakkerij producten aan. De lijn in de grafiek toont de relatieve stijging in Amerikaanse populatie in diezelfde jaren[^stijging]. 
 
-De populatie steeg sinds 2000 met factor `1.2`. De vraag naar enzymen steeg met factor `6.4`. Deze twee grafieken op elkaar leggen duidt verband noch correlatie aan. Wat ik wel kan afleiden is dat het 'iedereen kunnen voeden' argument zeker niet de hoofdrol speelt in deze miljarden industrie. Het verslag van Miguel beschrijft de groeiende trend om chemische additieven te vervangen door enzymen gewonnen uit natuurlijke bronnen. Hoe natuurlijk dat nu precies is, zal ieder voor zich moeten uitmaken.
+De populatie steeg sinds 2000 met factor `1.2`. De vraag naar enzymen steeg met factor `6.4`. Deze twee grafieken op elkaar leggen duidt verband noch correlatie aan. Wat ik wel kan afleiden is dat het 'iedereen kunnen voeden' argument zeker niet de hoofdrol speelt in deze miljardenindustrie. Het verslag van Miguel beschrijft de groeiende trend om chemische additieven te vervangen door enzymen gewonnen uit natuurlijke bronnen. Hoe natuurlijk dat nu precies is, zal ieder voor zich moeten uitmaken.
 
 [^stijging]: Deze populatie gegevens komen van het US Census Bureau, via Statista.
 
@@ -378,7 +378,7 @@ Een tweede probleem is het kneedoppervlak: de koude marmeren steen van mijn keuk
 
 [^mijnsteen]: Om professioneel brood te kneden moet het kneedoppervlak volgens de Belgische wetgeving beukenhout zijn. De vorige eigenaar van onze woning was hier duidelijk niet van op de hoogte.
 
-[^rekeningbr]: De `20 °F` komt uit een referentietabel en gaat uit van het gebruik van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn hangen nooit kunnen voortbrengen. 
+[^rekeningbr]: De `20 °F` komt uit een referentietabel en gaat uit van het gebruik van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn handen nooit kunnen voortbrengen. 
 
 | Type deeg   | Eerste rijstijd | Tweede rijstijd | Bakken |
 |:------------|:----------------|:----------------|:-------|
@@ -422,7 +422,7 @@ De interessantste ontdekking was echter de smaak van het brood met koji. Het is 
 
 Het verbaasde me hoe sterk koji de smaak van het kruim beïnvloedde. Achteraf gezien was dit helemaal niet zo verwonderlijk, aangezien ik al jaren gebakken tofu gemarineerd met shio koji verkies boven ongemarineerde tofu. De marinade, waar dezelfde rijst met _Aspergillus_ schimmel in zit, transformeert de anders nogal smaakloze tofu volledig, dankzij de productie van glutaminezuur. 
 
-In het deeg met toegevoegde koji was iets gelijkaardig gebeurd. De smaak deed me denken aan het brood wat ik bakte met het O-Tentic product van Puratos. En toch verkozen we beiden het controlebrood boven deze versie. De smaak was té sterk voor een simpel wit tarwebrood. Misschien dat spelen met de verhoudingen koji ten opzichte van bloem een beter resultaat oplevert. 
+In het deeg met toegevoegde koji was iets gelijkaardig gebeurd. De smaak deed me denken aan het brood dat ik bakte met het O-Tentic product van Puratos. En toch verkozen we beiden het controlebrood boven deze versie. De smaak was té sterk voor een simpel wit tarwebrood. Misschien dat spelen met de verhoudingen koji ten opzichte van bloem een beter resultaat oplevert. 
 
 Voorlopig verdwijnt de zelfgekweekte koji in conventioneler voedsel. 
 

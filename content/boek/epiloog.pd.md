@@ -39,7 +39,7 @@ Sommige mensen koken zo heel hun leven. Nieuwsgierige mensen stellen één kriti
 
 Ik heb het geluk gehad om veel experts aan het werk te zien. Ik mocht zelfs, ook al was het maar voor een erg korte periode, in de leer gaan bij een van de beste zuurdesem bakkerijen die ons land rijk is. Die ervaringen zal ik nooit vergeten. Als iemand mij tien jaar geleden had verteld dat ik een gepassioneerde bakker zou worden, had ik die persoon waarschijnlijk uitgelachen. 
 
-In feite was het idee in de vorm van een zaadje al lang geleden gepland door mijn vader (bedankt papa). Het enige wat ik gedaan heb is het, soms onbewust en soms bewust, water gegeven. Door actief de juiste mensen op te zoeken waar ik van kan leren, groeide die passie uit tot een obsessie. Ik zou zonder passie nooit in staat geweest zijn om zo lang gefascineerd te blijven over één ding.
+In feite was het idee in de vorm van een zaadje al lang geleden geplant door mijn vader (bedankt papa). Het enige wat ik gedaan heb is het, soms onbewust en soms bewust, water gegeven. Door actief de juiste mensen op te zoeken waar ik van kan leren, groeide die passie uit tot een obsessie. Ik zou zonder passie nooit in staat geweest zijn om zo lang gefascineerd te blijven over één ding.
 
 Die weg naar meesterschap kan geen enkel boek je leren. Helpen om de juiste vragen te stellen wel. Ik heb laten zien welk pad ik heb bewandeld, welke flaters ik heb begaan, en welke dingen ik heb bijgeleerd aan het einde van elk hoofdstuk. Gebruik die inzichten als leidraad in en uit de keuken. Ik besef echter dat dit boek beginnende bakkers onvoldoende begeleidt. Bekijk daarom zeker ook eens de aanbevolen literatuur. 
 

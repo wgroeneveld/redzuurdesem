@@ -51,7 +51,7 @@ Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe di
 
 'Maar dat is omdat ze tarwe selectief telen op zo'n eigenschappen.' 
 
-'Denk je dat ze dat met spelt niet doen? Er wordt geselecteerd op grootte van de korrel, eiwitgehalte, lengte van stro, resistentie tegen van alles en nog wat, noem maar op. Sommige tarwe rassen brengen zo binnen de vijf jaar bijna het dubbele op, voor dezelfde oppervlakte. Ik kruis zelf ook wat. Dingen door elkaar zaaien, maar niet overdrijven.'
+'Denk je dat ze dat met spelt niet doen? Er wordt geselecteerd op grootte van de korrel, eiwitgehalte, lengte van stro, resistentie tegen van alles en nog wat, noem maar op. Sommige tarwerassen brengen zo binnen de vijf jaar bijna het dubbele op, voor dezelfde oppervlakte. Ik kruis zelf ook wat. Dingen door elkaar zaaien, maar niet overdrijven.'
 
 Spelt (_Triticum spelta_) wordt ook wel een oergraan genoemd en is daardoor tegenwoordig erg in trek. De vraag naar spelt is de laatste jaren enorm gestegen omdat moderne tarwe niet altijd even goed verteert. In feite delen spelt en gewone 'zachte' tarwe (_Triticum aestivum_) de genomen `AABBDD`. 
 

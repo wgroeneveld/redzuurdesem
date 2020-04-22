@@ -29,7 +29,7 @@ Ik bak pannenkoeken meestal op dezelfde dag dat ik het beslag klaarmaark. Ik geb
 
 Als je buiten smaak ook goede rijskracht nodig hebt is het aangeraden om ofwel gist toe te voegen, ofwel toch wat meer te plannen door een dag op voorhand een deel van de bloem te fermenteren. Brusselse wafels zijn perfect om met zuurdesem te bakken. Het loperig beslag is ideaal om als poolish langer te laten rijzen. Ik voeg de eieren pas daarna toe, maar het is ook mogelijk om die mee te laten fermenteren. In dat geval verandert de structuur en de uitzettingskracht van het rauwe ei. 
 
-Luikse wafels gaan het echter niet redden met alleen maar zuurdesem. Een Luikse wafel bevat veel meer boter die, gecombineerd met grote suikerparels, de glutenvorming bemoeilijkt. Ik boek bij dat soort wafels het meeste succes met de hybride methode. Ook al zijn er niet zoveel gluten nodig als in brood, toch is een beetje luchtigheid bij gebak een welgekomen afwisseling van al dat boter geweld. Een groot deel van de tarwebloem vervangen door bloem gemaakt van pseudogranen is eenvoudiger te realiseren met wafels dan met brood. 
+Luikse wafels gaan het echter niet redden met alleen maar zuurdesem. Een Luikse wafel bevat veel meer boter die, gecombineerd met grote suikerparels, de glutenvorming bemoeilijkt. Ik boek bij dat soort wafels het meeste succes met de hybride methode. Ook al zijn er niet zoveel gluten nodig als in brood, toch is een beetje luchtigheid bij gebak een welgekomen afwisseling van al dat botergeweld. Een groot deel van de tarwebloem vervangen door bloem gemaakt van pseudogranen is eenvoudiger te realiseren met wafels dan met brood. 
 
 De volgende formule hanteer ik voor het bakken van ongeveer 16 Brusselse Wafels:
 
@@ -158,7 +158,7 @@ Dit proces wordt bij Puratos op grote schaal gebruikt om hun gedroogde type III 
 
 Mijn steenoven stelt me in de mogelijkheid om zes grote broden tegelijkertijd te bakken zonder te moeten terugvallen op bakvormen. Dat is heel leuk, maar moeilijk om binnen een week op te eten met een huishouden dat slechts van twee personen telt. Als de vriezer vol is en ook de buren voorzien zijn van zuurdesembrood, dan wordt het tijd om overschot van brood in andere gerechten te verwerken. 
 
-Iemand anders zou gewoon minder brood bakken. Ook al zou ik dat willen, ik kan het gewoon niet: die oven _moet_ gewoon worden volgestouwd. Honderden gerechten in kookboeken[^honderdg] hanteren brood als eeen essentieel ingrediënt. Ik heb een selectie gemaakt van een aantal originelere manieren om overschot aan brood te verwerken. De mogelijkheden zijn eindeloos. Brood is net als een aardappel een enorm versatiel - en onmissbar - deel van veel goede maaltijden. 
+Iemand anders zou gewoon minder brood bakken. Ook al zou ik dat willen, ik kan het gewoon niet: die oven _moet_ gewoon worden volgestouwd. Honderden gerechten in kookboeken[^honderdg] hanteren brood als eeen essentieel ingrediënt. Ik heb een selectie gemaakt van een aantal originelere manieren om overschot aan brood te verwerken. De mogelijkheden zijn eindeloos. Brood is net als een aardappel een enorm versatiel - en onmisbaar - deel van veel goede maaltijden. 
 
 [^honderdg]: Hier zijn soms zelfs hele delen aan gewijd, zoals het hoofdstuk '_Days-Old Bread_' in Tartine Bread [@tartine].
 
@@ -178,7 +178,7 @@ Verbrand of niet verbrand: gebakken brood in gemalen vorm is een prima kandidaat
 
 #### Broodpudding
 
-De absorptiecapaciteit van brood wordt opnieuw ingewet om deze keer de combinatie van melk en eieren op te nemen. Hoe ouder het brood, hoe beter, want de uitdroging vergroot de capaciteit om vocht op te nemen. Er zijn twee varianten van broodpudding: zoet en hartig. De zoete versie bevat uiteraard suiker en eventueel vanille of andere kruiden. 
+De absorptiecapaciteit van brood wordt opnieuw ingezet om deze keer de combinatie van melk en eieren op te nemen. Hoe ouder het brood, hoe beter, want de uitdroging vergroot de capaciteit om vocht op te nemen. Er zijn twee varianten van broodpudding: zoet en hartig. De zoete versie bevat uiteraard suiker en eventueel vanille of andere kruiden. 
 
 De hartige variant durft ook al eens room in plaats van melk te bevatten. Stukken groenten en paddenstoelen worden overgoten met het ei/melk/brood mengsel en gegarneerd met geraspte kaas. Broodpudding maak je altijd een dag op voorhand om brood de kans te geven alles goed te absorberen. In De Superette bakte ik zoete broodpudding gegarneerd met een _crumble_ van haver, suiker, boter en bloem die we ook gebruikten bovenop cakes en taarten. 
 
@@ -205,7 +205,7 @@ De intieme relatie tussen brood en bier is al gedeeltelijk besproken in hoofdstu
     \caption[Kvass gebrouwen met donker roggebrood.]{Kvass gebrouwen met donker roggebrood. Een licht bruisende drank met een friszure toets.}
 \end{figure}
 
-Het brood op voorhand roosteren is sterk aangeraden. In dit geval hebben we wel zoveel mogelijk 'korst' nodig dat de donkere, intense smaak afgeeft aan het water. Sommige brouwers laten het geweekte brood mee fermenteren en zeven pas op het allerlaatste, terwijl anderen dit zoals ik zeven na een nacht weken in kokend water. Populaire additieven zijn munt, citroensap en (gedroogde) vruchten. Met commerciële gist zou kvass gemakkelijk meer dan `5%` alcohol kunnen produceren. 
+Het brood op voorhand roosteren is sterk aangeraden. In dit geval hebben we wel zoveel mogelijk 'korst' nodig dat de donkere, intense smaak afgeeft aan het water. Sommige brouwers laten het geweekte brood mee fermenteren en zeven pas op het allerlaatste, terwijl anderen, zoals ik, dit zeven na een nacht weken in kokend water. Populaire additieven zijn munt, citroensap en (gedroogde) vruchten. Met commerciële gist zou kvass gemakkelijk meer dan `5%` alcohol kunnen produceren. 
 
 Mijn ervaring met kvass maken leerde me die smaakmakers een nacht mee te laten weken met het heet water, anders loop je de kans om een slappe infusie te brouwen. Overschotjes gember toevoegen is ook erg lekker. 
 
