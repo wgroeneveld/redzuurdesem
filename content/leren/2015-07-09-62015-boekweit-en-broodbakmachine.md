@@ -149,7 +149,7 @@ water
     Het voordeeg bevat 20% van de totale bloem, dus voor 1 brood 100gr.<strong>Meng dus 100gr boekweit meel met 100gr water</strong>, samen met <strong>15gr</strong> van je <strong>desem starter</strong>.
   </li>
   <li>
-    Laat het broodbakmachine enkel je deeg kneden.<br /> Voeg alle andere ingrediënten toe aan het bakblik (400gr tarwebloem, 225gr water, zout, water)<br /> <strong>Opgelet met water</strong> &#8211; vergeet niet dat we  reeds 100gr gebruikt hebben. Dat geeft ons een verschil van <strong>225gr</strong> water toe te voegen aan het finaal deeg (100 + 225 = 325gr = 65% van 500gr, totaalgewicht aan bloem en meel). Gebruik hiervoor <strong>warm water</strong> (niet kokend!)<br /> Waarom warm? Om het deeg zo snel mogelijk op de ideaal temperatuur van 24°C te verkrijgen, aangezien je niet zelf kan bepalen hoe lang er gekneed wordt.
+    Laat het broodbakmachine enkel je deeg kneden.<br /> Voeg alle andere ingrediënten toe aan het bakblik (400gr tarwebloem, 225gr water, zout, water)<br /> <strong>Opgelet met water</strong> &#8211; vergeet niet dat we  reeds 100gr gebruikt hebben. Dat geeft ons een verschil van <strong>225gr</strong> water toe te voegen aan het finaal deeg (100 + 225 = 325gr = 65% van 500gr, totaalgewicht aan bloem en meel). Gebruik hiervoor <strong>warm water</strong> (niet kokend!)<br /> Waarom warm? Om het deeg zo snel mogelijk op de ideaal temperatuur van 24°C te verkrijgen, aangezien je niet zelf kan bepalen hoelang er gekneed wordt.
   </li>
   <li>
     Nadat het kneden klaar is, haal het bakblik uit je machine, trek er een plastieken zak over tegen het verkorsten en plaats het voor 10h in de koelkast.

@@ -129,7 +129,7 @@ Een vreemd object valt me op in de andere hoek van de kamer waar de molen staat.
 
 [^zelfm]: Dat is nog steeds genoteerd.
 
-We bedanken Peter hartelijk voor zijn tijd en krijgen nog een brood mee om te proeven. Ik ben daarna nog verschillende keren terug geweest om andere soorten brood te kopen en te proeven, waaronder hun zuurdesembrood gemaakt van het lapjes deeg. Het proefde verrassend zuur, ik had eerder iets yoghurt achtig verwacht maar mijn smaakpapillen verwelkomen in de plaats daarvan veel azijnzuren van het uitgegist deeg. Het valt ook op dat bijna alle broden zeer stevig van structuur zijn. Ik neem aan dat de opboller anders problemen krijgt met het verwerken van te plakkerig deeg. Het gebruik van grote hoeveelheden volle granen betekent ook een veel hogere wateropname van het deeg. 
+We bedanken Peter hartelijk voor zijn tijd en krijgen nog een brood mee om te proeven. Ik ben daarna nog verschillende keren terug geweest om andere soorten brood te kopen en te proeven, waaronder hun zuurdesembrood gemaakt van het lapjes deeg. Het proefde verrassend zuur, ik had eerder iets yoghurtachtig verwacht maar mijn smaakpapillen verwelkomen in de plaats daarvan veel azijnzuren van het uitgegist deeg. Het valt ook op dat bijna alle broden zeer stevig van structuur zijn. Ik neem aan dat de opboller anders problemen krijgt met het verwerken van te plakkerig deeg. Het gebruik van grote hoeveelheden volle granen betekent ook een veel hogere wateropname van het deeg. 
 
 Dat was mijn eerste kennismaking met een échte volledig operationele bakkerij, los van de ruimte in de avondschool. Maar mijn persoonlijke queeste naar zuurdesem, eenvoud en het natuurlijke bracht me naar deze ene bakkerij in Genk. Ik was ervan overtuigd dat er nog veel meer te leren viel van andere openhartige bakkers. De wilde ideeën om misschien zelf ooit zo zot te zijn maakte zulke bezoekjes best wel spannend. 
 
@@ -141,7 +141,7 @@ Terug onderweg naar mijn écht werk probeer ik zoveel mogelijk die gedachten te 
 Oktober 2014
 \end{flushright}
 
-Willy heeft de bakkerij van zijn vader overgenomen, dat toen gevestigd was in een ander pand op dezelfde André Dumontlaan te Genk. 
+Willy heeft de bakkerij van zijn vader overgenomen, die toen was gevestigd in een ander pand op dezelfde André Dumontlaan te Genk. 
 
 ‘Ik heb er een natuurbakkerij van gemaakt’ klinkt het trots. Ik zit samen met Willy en zijn vrouw in de living bij hun thuis, op een gure doordeweekse oktoberavond. Toen hij hoorde dat ik zo enthousiast was over brood en natuurlijke ingrediënten, nodigde hij me uit voor een gezellig gesprek over zijn gloriejaren. 
 

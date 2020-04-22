@@ -26,7 +26,7 @@ Ideaal dus om te leren inplannen in combinatie met een werkweek &#8211; je kan d
 
   1. Zeer traag rijzen door uitgesteld te bakken, principes van fermentatie kennen
   2. Werken met een rijsmandje om fragiel deeg toch &#8220;body&#8221; te kunnen geven tijdens het rijzen.
-  3. Zelf kunnen bepalen hoe lang je je brood laat rijzen
+  3. Zelf kunnen bepalen hoelang je je brood laat rijzen
 
 ### Woord vooraf: materiaal
 

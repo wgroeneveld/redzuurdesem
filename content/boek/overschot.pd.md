@@ -3,7 +3,7 @@
 
 > '_Part of the secret of success in life is to eat what you like and let the food fight it out inside._' - Mark Twain
 
-In 2017 publiceerde de Vlaamse Overheid een rapport over voedselverlies[^rapp], waaruit bleek dat `23%` van het brood en banket door de Vlaming wordt weggegooid. Enkel fruit doet het nog slechter, met `29%`. Volgens hun zijn de twee hoofdredenen de beperkte houdbaarheid, en het feit dat brood wordt aanzien als een goedkoop product dat eenvoudig kan worden vervangen. Zuurdesem rekent alvast af met de houdbaarheid, nu de ingesteldheid van de mens nog... 
+In 2017 publiceerde de Vlaamse overheid een rapport over voedselverlies[^rapp], waaruit bleek dat `23%` van het brood en banket door de Vlaming wordt weggegooid. Enkel fruit doet het nog slechter, met `29%`. Volgens hun zijn de twee hoofdredenen de beperkte houdbaarheid, en het feit dat brood wordt aanzien als een goedkoop product dat eenvoudig kan worden vervangen. Zuurdesem rekent alvast af met de houdbaarheid, nu de ingesteldheid van de mens nog... 
 
 Voedsel verspillen is nooit leuk, en met een beetje creativiteit hoeft dat ook niet. Kookboeken verzinnen altijd wel een manier om overschot in een recept te verwerken, of het nu om brood gaat of niet. Ik heb gemerkt dat bij mij die creativiteit eerst moet worden aangewakkerd met genoeg voorbeelden buiten de conventionele _croque monsieur_. Als kok van dienst durf ik al eens stiekem hier en daar wat desem toe te voegen om te kunnen zeggen dat ik bij elk gerecht zuurdesem heb verwerkt. Die fase is gelukkig voorbij, maar heeft me wel een aantal zinnige trucjes opgeleverd. Hier volgt een kort overzicht van mogelijke oplossingen voor het te veel aan desem of gebakken brood.  
 

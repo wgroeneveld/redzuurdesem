@@ -297,7 +297,7 @@ Historisch gezien brouwt men in Noord-Europa reeds sinds de veertiende eeuw via 
 
 Ik knik. '_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welke gisten zitten er dan nog in bier?'
 
-'Ha,' zei Gert, 'dat hangt van de biersoort af die je wilt brouwen hé. Ik koop in Brouwland[^brwl] een soort van twee-componenten pakketje aan dat ik opkweek. Dat is die vloeibare gist. Het ene component bevat de gisten in, en de andere de starter, voeding voor de organismen. Elk pakket is specifiek voor een soort bier, gaande van een gewoon licht blond biertje tot iets Westmalle-achtig met het aroma van banaan.' 
+'Ha,' zei Gert, 'dat hangt van de biersoort af die je wilt brouwen hé. Ik koop in Brouwland[^brwl] een soort van twee-componenten pakketje aan dat ik opkweek. Dat is die vloeibare gist. Het ene component bevat de gisten, het andere de voeding voor de organismen. Elk pakket is specifiek voor een soort bier, gaande van een gewoon licht blond biertje tot iets Westmalle-achtig met het aroma van banaan.' 
 
 'Banaan?' Ik trok een vies gezicht. 
 
@@ -426,7 +426,7 @@ _Flocculation: High_ \newline
 _Usage Directions: Sprinkle directly on up to 23 L (6 US Gal) of wort. For best results, ferment at 18-25 degrees C (64-77 degrees F)._ \newline
 _Storage Recommendations: Store in the fridge._
 
-Recensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken om te bakken. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies wordt gebruikt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood gebakken is. Biergist werkt trager en is meer alcoholtolerant. 
+Recensies van digitale hobby gemeenschappen als [homebrewtalk.com](http://homebrewtalk.com) en [grainfather.com](http://www.grainfather.com) beschrijven bovenstaande zaken meer in detail. Ik begin de indruk te krijgen te ver van mijn brood queeste af te wijken. Mijn brood rijst geen weken, dus ik twijfel er aan of de banaan esters zich zullen manifesteren als ik deze gist zou gebruiken om te bakken. Daarom dat het voor een bakker niet uitmaakt welke _cerevisiae_ stam nu precies wordt gebruikt om koolstofdioxide in het deeg te pompen: zolang het maar (snel) omhoog gaat. Esters verdwijnen immers nadat het brood is gebakken. Biergist werkt trager en is meer alcoholtolerant. 
 
 * * *
 

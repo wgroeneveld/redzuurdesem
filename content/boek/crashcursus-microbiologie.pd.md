@@ -141,7 +141,7 @@ De mensheid heeft doorheen de geschiedenis verschillende manieren gevonden om vo
 
 Er zijn buiten koken nog andere technieken om voedsel beter verteerbaar te maken, zoals fermenteren. Wetenschappers hebben ontdekt dat het gebruik van zuurdesem de biologische beschikbaarheid van mineralen verhoogt [@poutanen2009sourdough]. 
 
-Ook hier speelt de tijd een grote rol: hoe meer het is gefermenteerd, beter de verteerbaarheid. Wacht je echter té lang, dan valt er helemaal niets meer te verteren. De suikers zijn dan volledig opgebruikt.
+Ook hier speelt de tijd een grote rol: hoe meer gefermenteerd, hoe beter de verteerbaarheid. Wacht je echter té lang, dan valt er helemaal niets meer te verteren. De suikers zijn dan volledig opgebruikt.
 
 Zelfs in de elfde eeuw wist men reeds dat slecht of ongerezen brood zorgde voor een opgeblazen gevoel, winderigheid en verstopping. De medicinale tekst ‘Tacuini Sanitatis’ schrijft het volgende voor [@gobbetti2014sourdough]:
 
@@ -272,7 +272,7 @@ Wachten op spontane fermentatie kan best spannend zijn. De ontdekking van bubbel
 * _Pâte Fermentée_: Een Frans voordeeg dat een overgebleven stukje deeg is van een vorige baksessie. (Letterlijk vertaald als _oud deeg_). Meestal wordt 1/3de van het deeg na de bulkrijs aan de kant gezet voor de volgende keer. In tegenstelling tot de andere types, zit hier ook een beetje zout in. Variabele hydratatie. 
 * _Sourdough starter_: Je zuurdesemcultuur. Het woord starter refereert naar de 'kickstart' die je je voordeeg geeft, door de toevoeging van een talrijke actieve en gevarieerde organismen. 
 
-Het gebruik van een voordeeg betekent niet automatisch werken met zuurdesem. Een voordeeg is letterlijk een _pre-ferment_: een stukje van het brooddeeg dat op voorhand fermenteert, om genoeg gisten en melkzuren toe te kunnen voegen aan het eigenlijke deeg. Hoe dat fermentatieproces op start maakt niet uit. Dat kan ook met een mespuntje gedroogde gist. Een biga of een poolish voordeeg bestaat meestal uit slechts `0.1%` gedroogde gist. _Chef_, _moederdeeg_, _madre bianca_, _levain_, _leaven_ en _sourdough_ zijn allemaal synoniemen van wat ik _starter_ noem. Het duidt allemaal op het gebruik van een op voorhand gefermenteerd stukje deeg. Het ene systeem hanteert wat meer water als het andere, maar de techniek en het doel is hetzelfde. 
+Het gebruik van een voordeeg betekent niet automatisch werken met zuurdesem. Een voordeeg is letterlijk een _pre-ferment_: een stukje van het brooddeeg dat op voorhand fermenteert, om genoeg gisten en melkzuren toe te kunnen voegen aan het eigenlijke deeg. Hoe dat fermentatieproces op start maakt niet uit. Dat kan ook met een mespuntje gedroogde gist. Een biga of een poolish voordeeg bestaat meestal uit slechts `0.1%` gedroogde gist. _Chef_, _moederdeeg_, _madre bianca_, _levain_, _leaven_ en _sourdough_ zijn allemaal synoniemen van wat ik _starter_ noem. Het duidt allemaal op het gebruik van een op voorhand gefermenteerd stukje deeg. Het ene systeem hanteert wat meer water dan het andere, maar de techniek en het doel is hetzelfde. 
 
 '_Desem_' is eigenlijk de benaming van een bekende Belgische zuurdesemcultuur, bestaand uit ongeveer 50% water en volkoren tarwe. Die combinatie zorgt voor een nootachtige, lichtzurige smaak. Creatief omgaan met gefermenteerd voedsel levert je een scala aan unieke culturen op. Je hoeft immers niet met enkel bloem en water iets op te kweken: pekelvocht van zuurkool, yoghurt of wei werken minstens even goed. Die dingen bevatten al honderden organismen die staan te trappelen om je brooddeeg te laten rijzen. 
 
@@ -321,7 +321,7 @@ Het heeft weinig nut om de cultuur actief te houden als er niet elke dag wordt g
 
 Er zijn veel snellere manieren om deeg te doen rijzen. Een traditioneel Iers soda brood bevat - zoals de naam verraadt - baksoda. Dit fungeert voor de Ieren als rijsmiddel in de plaats van gist of desem. Bakpoeder en baksoda zijn chemische manieren om het rijsproces te versnellen, met elk hun eigen samenstelling. 
 
-_Baksoda_ is natrium bicarbonaat. Bicarbonaat heeft een zuur nodig om mee te reageren, waar kooldioxide uit komt. In recepten zie je verdoken 'zuren' staan als botermelk, yoghurt, bruine suiker, citroensap, cacaopoeder of honing. Baksoda is sterk spul: het reageert vier keer zo sterk als bakpoeder. Met mate gebruiken dus. Als de verhouding baksoda/zuur niet in balans is, kan er nog residu overblijven in het brood, wat een zeepsmaak oplevert. Dat is ook smaak, maar niet bepaald eentje die een glimlach op de mond tovert. Een chemisch proces start zodra soda in aanraking komt met zuur. Het heeft geen hitte nodig om te werken. Te lang treuzelen is dan geen goed idee. In sommige boeken staat bij een recept voor cake de waarschuwing 'laat het beslag niet te lang staan' - daarom dus.
+_Baksoda_ is natriumbicarbonaat. Bicarbonaat heeft een zuur nodig om mee te reageren, waar kooldioxide uit komt. In recepten zie je verdoken 'zuren' staan als botermelk, yoghurt, bruine suiker, citroensap, cacaopoeder of honing. Baksoda is sterk spul: het reageert vier keer zo sterk als bakpoeder. Met mate gebruiken dus. Als de verhouding baksoda/zuur niet in balans is, kan er nog residu overblijven in het brood, wat een zeepsmaak oplevert. Dat is ook smaak, maar niet bepaald eentje die een glimlach op de mond tovert. Een chemisch proces start zodra soda in aanraking komt met zuur. Het heeft geen hitte nodig om te werken. Te lang treuzelen is dan geen goed idee. In sommige boeken staat bij een recept voor cake de waarschuwing 'laat het beslag niet te lang staan' - daarom dus.
 
 
 
@@ -341,7 +341,7 @@ Het droogproces beïnvloedt de aanwezigheid van verschillende organismen. Enkel 
 
 Een bakker is een slaaf van zijn zuurdesemcultuur. Dat was voor de komst van koeltechnieken nog veel erger. Ondertussen heeft technologie ons weten los te maken van één van de ketenen. Vergis u niet: we hangen nog steeds vast. Professionele bakkers zijn niet zomaar op zoek naar smaak. Het moet _consistent_ zijn. Brood dat wordt verkocht kweekt bepaalde verwachtingen bij klanten. De cultuur vergeten bij te voeden, of de momenten van voeden of de voeding zelf veranderen: het zijn allemaal factoren die deze consistentie in gedrang brengen. Dat betekent niet dat bakkerijen moeten worden omgevormd tot steriele laboratoria. Het gaat erom een voorspelbaar legertje van micro-organismen te kweken. Heb je boogschutters in je leger, geef ze dan ook altijd op hetzelfde tijdstip pijlen. Heb je cavalerie weten te rekruteren, voorzie dan de paarden op hetzelfde tijdstip van haver. Dat is de enige weg naar de overwinning. 
 
-Heb je je leger een tijdje verwaarloost, dan is dat nog geen ramp. Twee keer terug opkweken en het probleem is opgelost. De trage reactie na een eerste voeding betekent een minder indrukwekkende groei. Als het brood niet goed rijst, kijk dan naar de activiteit van de starter. Twee keer op korte tijd bijvoeden geeft zijn normale kracht terug. 
+Heb je je leger een tijdje verwaarloosd, dan is dat nog geen ramp. Twee keer terug opkweken en het probleem is opgelost. De trage reactie na een eerste voeding betekent een minder indrukwekkende groei. Als het brood niet goed rijst, kijk dan naar de activiteit van de starter. Twee keer op korte tijd bijvoeden geeft zijn normale kracht terug. 
 
 Die kracht is eenvoudig meetbaar door te kijken hoe hoog de desem rijst. Gebruik een doorzichtige container, een alcohol stift en een stukje plakband of een elastiekje om de initiële positie aan te duiden. Om het uur een oog werpen op dat niveau leert je veel over de kracht van de aanwezige gisten. 
 
@@ -412,7 +412,7 @@ De posters in de gang vatten verschillende biochemisch-getinte experimenten same
 
  'Ja, ja, inderdaad! Wij veranderen de moeilijkheidsgraad afhankelijk van de cursus. Maar een voorwaarde voor identificatie is isolatie, zonder dat is er geen identificatie mogelijk. Dan kleurt van alles zonder te weten waardoor.' Ik kan mij moeilijk inbeelden dat professionele laboratoria dezelfde moeizame procedure doorlopen. 
 
-'Meestal wordt er gekozen voor DNA- of eiwitanalyse, maar beide technieken vereisen duren apparatuur en soms voorkennis over het organisme.' 
+'Meestal wordt er gekozen voor DNA- of eiwitanalyse, maar beide technieken vereisen dure apparatuur en soms voorkennis over het organisme.' 
 
 [^honderd1]: Deze ratio hangt van cultuur tot cultuur af, en varieert van `100:1` tot `10:1`, waarbij bacteriën altijd in de meerderheid zijn. Hoe groter het eerste getal, hoe zuurder, en hoe minder snel het brood zal rijzen. 
 

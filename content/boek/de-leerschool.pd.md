@@ -10,23 +10,23 @@
 September 2014
 \end{flushright}
 
-‘Ja mensen! Laten we er aan beginnen, want het is _pompen_ vandaag! Als iemand alle grondstoffen afweegt en iemand het sandwich deeg draait in de spiraalmixer, kan de rest de taartvormpjes bekleden.’ We bevinden ons in de kelders van het Syntra gebouw te Hasselt. De bakkerij ligt naast de slagerij, tegenover de cafetaria. 
+‘Ja mensen! Laten we eraan beginnen, want het is _pompen_ vandaag! Als iemand alle grondstoffen afweegt en iemand het sandwich deeg draait in de spiraalmixer, kan de rest de taartvormpjes bekleden.’ We bevinden ons in de kelders van het Syntra gebouw te Hasselt. De bakkerij ligt naast de slagerij, tegenover de cafetaria. 
 
 ‘Hoe moet dat weer, sandwiches?’ vraagt iemand. 
 
-‘De verhoudingen staan op het bord. Eerst afwegen, ik kom dadelijk helpen.’ Ghislain legt de alcoholstift op zijn tafel en we staan allemaal op om de handen uit de mouwen te steken. Een klein deel van de bakkerij is omgetoverd tot klaslokaaltje door middel van zes lockers als scheidingswand. Onze leerkracht Ghislain schudt verwoed recepten uit zijn mouw, die op het mobiele whiteboard terecht komen. 
+‘De verhoudingen staan op het bord. Eerst afwegen, ik kom dadelijk helpen.’ Ghislain legt de alcoholstift op zijn tafel en we staan allemaal op om de handen uit de mouwen te steken. Een klein deel van de bakkerij is omgetoverd tot klaslokaaltje door middel van zes lockers als scheidingswand. Onze leerkracht Ghislain schudt verwoed recepten uit zijn mouw, die op het mobiele whiteboard terechtkomen. 
 
 ‘Die is al voorverwarmd!’ roept Ghislain wanneer hij ons onzeker ziet kijken naar de oven. De hitte is duidelijk te voelen maar het is dan nog gokken of de stenen in de oven zelf voldoende verwarmd zijn om al te kunnen bakken. Een professionele oven bevindt zich aan de andere kant van de grotere ruimte, waar drie verdiepingen kunnen worden volgestouwd met lekkers. Tenminste, gegeven dat de verwarmingsinstallatie van de oven goed werkt. Die drie jaren dat wij daar les kregen hebben we nooit in de onderste verdieping kunnen bakken... Twee verdiepingen dan maar. Of eigenlijk toch drie: die laatste gebruikten we om gekoelde boter en eieren snel op kamertemperatuur te krijgen. 
 
-Naast de grote oven stond ook nog een heteluchtoven die soms in gebruik werd genomen als het écht te druk is in de andere, of als het temperatuurverschil te groot was. Sandwiches worden eerst redelijk heet gebakken op een bovenwarmte van ongeveer `250° C`, om daarna te zakken en er bijvoorbeeld taarten bij te kunnen proppen. Je kan de temperatuur terug opdrijven maar dat is tijd- en energieverspilling. In die kelder leerde ik dat één van de talenten van een efficiënte bakker goed kunnen puzzelen is. 
+Naast de grote oven stond ook nog een heteluchtoven die soms in gebruik werd genomen als de andere té vol zat, of als het temperatuurverschil te groot was. Sandwiches worden eerst redelijk heet gebakken op een bovenwarmte van ongeveer `250° C`, om daarna te zakken en er bijvoorbeeld taarten bij te kunnen proppen. Je kan de temperatuur terug opdrijven maar dat is tijd- en energieverspilling. In die kelder leerde ik dat goed kunnen puzzelen één van de talenten van een efficiënte bakker is. 
 
-‘Zeg Ghislain, wanneer werken we daar eens mee?’ vraag ik, terwijl ik naar de machine wijs dief rechts van de heteluchtoven stond. Ik had geen flauw idee waar het ding precies voor diende. Het zag eruit als een gigantische boormachine. 
+‘Zeg Ghislain, wanneer werken we daar eens mee?’ vraag ik, terwijl ik naar de machine wijs die rechts van de heteluchtoven stond. Ik had geen flauw idee waar het ding precies voor diende. Het zag eruit als een gigantische boormachine. 
 
 ‘Dat is voor volgend jaar, dan is er een ijsmodule ingepland.’ Een authentieke Italiaanse ijsmachine dus. Spannend. Voorlopig hadden we onze handen vol met de ovens, de rijskast en het gasvuur in de hoek. Dat laatste heeft een aspirant bakker nodig om melk te koken voor banketbakkersroom, of om deeg voor te bereiden als éclairs. 
 
 De ruimte werd voornamelijk in beslag genomen door twee grote marmeren werkoppervlaktes. 
 
-‘Vergeet het doek niet op tafel te leggen voor de sandwiches!’ waarschuwde Ghislain. Er werd een grote stoffen doek opengevouwen om over één van de marmeren werkoppverlvaktes te spreiden. 
+‘Vergeet het doek niet op tafel te leggen voor de sandwiches!’ waarschuwde Ghislain. Er werd een grote stoffen doek opengevouwen om over één van de marmeren werkoppervlaktes te spreiden. 
 
 ‘Waarom doen we dit weer?’ vroeg ik.
 
@@ -35,18 +35,18 @@ De ruimte werd voornamelijk in beslag genomen door twee grote marmeren werkopper
 ‘Juist. Waarom is dit dan van marmer?’ Het oppervlak voelde heel glad aan. Het leek me wel eenvoudig om te onderhouden. 
 
 ‘Andere zaken zoals bladerdeeg en alles met chocolade heeft het wel graag koud. Ideaal zou geweest zijn één van hout en één van marmer, maar bon.’ Schouders werden opgehaald, en de plooien van het doek werden glad gestreken.
-In de hoek naast het vuur stond nog een kleinere vierkante werktafel, ook van marmer. Die werd gebruikt voor zaken als de verwerking van botercrème, en de uitstorting van kokende banketbakkersroom. Die room moet de koelkast in, dus de temperatuur moet zo snel mogelijk zakken. Voor alle stappen wordt de meest efficiënte weg naar succes uitgedokterd. De eerste maanden liepen mijn medestudenten en ik er maar wat verloren bij. Elke seconde telt, maar je weet de spatels niet liggen en bent iets vergeten af te wegen. Er zijn weer bakvormen te kort, en het zout staat niet op zijn vaste plek. Welkom bij de avondschool tot _professionele brood- en banketbakker_. 
+In de hoek naast het vuur stond nog een kleinere vierkante werktafel, ook van marmer. Die werd gebruikt voor zaken als de verwerking van botercrème, en de uitstorting van kokende banketbakkersroom. Die room moet de koelkast in, dus de temperatuur moet zo snel mogelijk zakken. Voor alle stappen wordt de meest efficiënte weg naar succes uitgedokterd. De eerste maanden liepen mijn medestudenten en ik er maar wat verloren bij. Elke seconde telt, maar je weet de spatels niet liggen of je bent iets vergeten af te wegen. Er zijn weer bakvormen te kort, en het zout staat niet op zijn vaste plek. Welkom bij de avondschool tot _professionele brood- en banketbakker_. 
 
 * * *
 
 ‘Ik vind de derde weegschaal niet!’ klaagde Patrick. 
 
 ‘Die is weer kapot, gebruik de andere twee maar.’ Als je in een bakkerij met 15 leerlingen tegelijkertijd verschillende dingen wil maken, dan kan het nogal eens uitdraaien op chaos. De leerkracht raadde ons meestal aan om in groepjes te werken om sneller dingen gedaan te krijgen. Het was elke vrijdagavond een grote race tegen de klok. De les begon om kwart voor zeven ‘s avonds, en eindigde om kwart na tien. Dat lijkt lang genoeg, maar is het helemaal niet. Grondstoffen als bloem en water correct afwegen neemt al snel een kwartier in beslag. Voeg daar nog een paar minuten aan toe als er wat discussie ontstaat over de accuraatheid van weegschaal nummer één versus weegschaal nummer twee. Dan wordt het deeg gekneed in de snelkneder. Een bulkrijs, tussendoor opbollen, de stukken verdelen, opnieuw opbollen, nog een uur narijs en bakken. Dat zijn dan enkel de sandwiches.
-In één les wordt er natuurlijk meer dan één gebak gemaakt. Voordat we daar aan kunnen beginnen, geeft Ghislain eerst nog wat theorie die wordt beperkt tot het absolute minimum. 
+In één les wordt er natuurlijk meer dan één gebak gemaakt. Voordat we daaraan kunnen beginnen, geeft Ghislain eerst nog wat theorie die wordt beperkt tot het absolute minimum. 
 
 ‘Ik leg liever al doende uit dan aan het bord. Dan zien jullie ook wat er moet gebeuren en zo verliezen we geen kostbare tijd.’ Hij laat ons zien hoe we het deeg makkelijk uit de snelkneder halen en hoe het kan worden verdeeld met een deegsteker. 
 
-‘Ghislain! Help!’ Aan die kreet wen je heel snel op een vrijdagavond. Als het ene groepje aan het worstelen is met het sandwich deeg, dan is het andere groepje waarschijnlijk pudding aan het laten aanbranden of room tot boter aan het kloppen. Het is een spelletje ping-pong, waarbij de leraar constant van het ene probleem naar het andere moet lopen. gelukkig dalen het aantal problemen per avond naargelang de jaren verstrijken en wij de nodige basistechnieken onder de knie krijgen. 
+‘Ghislain! Help!’ Aan die kreet wen je heel snel op een vrijdagavond. Als het ene groepje aan het worstelen is met het sandwich deeg, dan is het andere groepje waarschijnlijk pudding aan het laten aanbranden of room tot boter aan het kloppen. Het is een spelletje ping-pong, waarbij de leraar constant van het ene probleem naar het andere moet lopen. Gelukkig daalt het aantal problemen per avond naargelang de jaren verstrijken en wij de nodige basistechnieken onder de knie krijgen. 
 
 * * *
 
@@ -54,7 +54,7 @@ Het eerste jaar is echt spannend: er zijn zoveel nieuwe dingen om te ontdekken. 
 
 Dan heb ik het nog niet gehad over de magistrale uitroltafel die wordt gebruikt om `5 kg` bladerdeeg in een handomdraai te fabriceren. 
 
-De bergen afwas die er elke avond bij kwamen kijken wekte iets minder enthousiasme op. 
+De bergen afwas die er elke avond bij kwam kijken wekte iets minder enthousiasme op. 
 
 \begin{figure}[h]
     \centering
@@ -69,15 +69,15 @@ De bergen afwas die er elke avond bij kwamen kijken wekte iets minder enthousias
     \caption[Machines in de bakkerij. \textcopyright \: Sinmag]{Machines in de bakkerij die ons werk verlichtten.}
 \end{figure}
 
-‘We werken met een beurtrol elke les mensen: één iemand is _chef_ en is verantwoordelijk om te kijken of de rest zijn werk heeft gedaan. Per twee ben je van dienst aan de afwas, het proper maken van de machines of borstelen.’ legde Ghislain uit. Het rotatie systeem werkte zo goed dat iedereen na een paar weken genoeg verantwoordelijkheidsgevoel had om spontaan die taken op zich te nemen. Dat ik in een super sympathieke groep terecht kwam helpt daar ook veel bij. 
+‘Elke les werken we met een beurtrol, mensen: één iemand is _chef_ en is verantwoordelijk om te kijken of de rest zijn werk heeft gedaan. Per twee ben je van dienst aan de afwas, het proper maken van de machines of borstelen.’ legde Ghislain uit. Het rotatiesysteem werkte zo goed dat iedereen na een paar weken genoeg verantwoordelijkheidsgevoel had om spontaan die taken op zich te nemen. Dat ik in een super sympathieke groep terecht kwam hielp daar ook veel bij. 
 
 Begonnen de mengkommen op te raken? Zet je even achter de afwas. Kneedmachine vuil maar verwacht je dat iemand het die avond nog nodig zal hebben? Gewoon even proper maken. 
 
 Naarmate we elkaar beter leerden kennen werd de groep hechter. Er werd hard gewerkt, maar ook veel gelachen. De sfeer zat goed: we hielpen elkaar. Dat gaf onze leerkracht ook wat ademruimte om zaken in detail uit te leggen, en niet constant brandjes te moeten blussen. 
 
-‘Ge weet: voor elk probleem is er een oplossing hé!’ Een grote grijns verschijnt op zijn gezicht. Die uitdrukking betekende altijd dat er iets was misgelopen. Op dat moment is het goed om extra aandacht te schenken aan wat er wordt gedaan om dit aan te pakken. Er lopen immers constant dingen mis: deeg dat scheurt waar boter uit loopt, banketbakkersroom waar vanillestokjes bij ontbreken, verkeerde hoeveelheden gebruikt waardoor de opboller het deeg niet netjes kan verdelen, enzovoort.
+‘Ge weet: voor elk probleem is er een oplossing hé!’ Een grote grijns verschijnt op zijn gezicht. Die uitdrukking betekende altijd dat er iets was misgelopen. Op dat moment is het goed om extra aandacht te schenken aan wat er wordt gedaan om dit aan te pakken. Er lopen immers constant dingen mis: deeg dat scheurt waar boter uit loopt, banketbakkersroom waar vanillestokjes bij ontbreken, foutief gebruikte hoeveelheden waardoor de opboller het deeg niet netjes kan verdelen, enzovoort.
 
-De avondschool voorziet voor alle lessen in het gebouw één korte pauze, aangekondigd door een klassieke schoolbel. Het geluid katapulteert je onherroepelijk terug naar het middelbaar onderwijs.
+De avondschool voorziet voor alle lessen in het gebouw één korte pauze, aangekondigd door een klassieke schoolbel. Het geluid katapulteert je onherroepelijk terug naar het secundair onderwijs.
 
 ‘Doorwerken mensen! Geen tijd!’ _Shit_. Enkele studenten lopen stiekem de bakkerij uit om wat drank te halen. De netjes gevormde sandwiches moeten een uur in de rijskast doorbrengen op `30° C` met een luchtvochtigheid van `75%`. Dat geeft ons wat ademruimte om de taarten af te werken. 
 
@@ -85,27 +85,27 @@ De avondschool voorziet voor alle lessen in het gebouw één korte pauze, aangek
 
 * * *
 
-Wat bezielde mij eigenlijk om van afgedankte kabouter naar intensieve avondles over te schakelen? Ik weet het nog steeds niet goed. Het is meer geweest dan louter honger naar kennis. Een jaar voor de avondschool had ik mij bijna ingeschreven bij het CVO STEP Volwassenenonderwijs te Herk-de-Stad. Kristien was daar toen niet zo blij mee. Toegegeven, dat was mijn eigen schuld: we gingen bij de opendeurdag immers maar 'gewoon even informeren'. Intenties duidelijk kenbaar maken, daar ben ik nooit erg goed in geweest. Maar op een of andere manier schrikte het mij zelf ook af om de sprong te wagen. Ik heb mij op het laatste moment bedacht, en we zijn boos naar huis gereden. Ik omdat ik baalde dat ik me toch niet had ingeschreven, en zij omdat ik niet duidelijk aangaf wat ik van plan was. Nadat dat laatste uitgeklaard was, en ik mijn beste vriend Dimitri kon overtuigen om mee te doen, schreven we ons uiteindelijk het jaar daarna in te Syntra Hasselt. 
+Wat bezielde mij eigenlijk om over te schakelen van afgedankte kabouter naar intensieve avondles? Ik weet het nog steeds niet goed. Het is meer geweest dan louter honger naar kennis. Een jaar voor de avondschool had ik mij bijna ingeschreven bij CVO STEP Volwassenenonderwijs te Herk-de-Stad. Kristien was daar toen niet zo blij mee. Toegegeven, dat was mijn eigen schuld: we gingen bij de opendeurdag immers maar 'gewoon even informeren'. Intenties duidelijk kenbaar maken, daar ben ik nooit erg goed in geweest. Maar op een of andere manier schrikte het mij zelf ook af om de sprong te wagen. Ik heb mij op het laatste moment bedacht, en we zijn boos naar huis gereden. Ik omdat ik baalde dat ik me toch niet had ingeschreven, en zij omdat ik niet duidelijk had aangegeven wat ik van plan was. Nadat dat laatste uitgeklaard was, en ik mijn beste vriend Dimitri kon overtuigen om mee te doen, schreven we ons uiteindelijk het jaar daarna in te Syntra Hasselt. 
 
 * * *
 
-De bakkerij vult zich met een zoete geur van gebakken suiker, boter, melk en brood. De open deur verspreidt de geur in de gang en lokt enkele passanten tot in ons klaslokaal. In de zomer is het in de werkruimte nog warmer dan gewoonlijk, en koelden wij onze taarten af op rekken in de gang. Er werden voor de zekerheid altijd twee bodyguards meegestuurd om de gebakjes te beschermen tegen hongerige voorbijgangers. De buitendeur in de gang zorgde voor tocht die ongewenst is in de bakkerij zelf[^5]. 
+De bakkerij vult zich met een zoete geur van gebakken suiker, boter, melk en brood. De openstaande deur verspreidt de geur in de gang en lokt enkele passanten tot in ons klaslokaal. In de zomer is het in de werkruimte nog warmer dan gewoonlijk, en koelden wij onze taarten af op rekken in de gang. Er werden voor de zekerheid altijd twee bodyguards meegestuurd om de gebakjes te beschermen tegen hongerige voorbijgangers. De buitendeur in de gang zorgde voor tocht die ongewenst is in de bakkerij zelf[^5]. 
 
-‘Ik ga even naar boven, de aanwezigheidslijst doorgeven.’ Ghislain pakt een bord en plukt enkele nog warme sandwiches van de bakplaat om het secretariaat te verwennen. Wanneer hij dat vergeet, of te laat is, komen de medewerkers zelf naar beneden om glimlachend te vragen of er nog niets gebakken is. Voedsel delen is een mooi en krachtig gebaar dat al sinds mensenheugenis een band schept. Het kost ons veel moeite om te wachten tot de sandwiches voldoende zijn afgekoeld om er ook enkele te proeven. 
+‘Ik ga even naar boven, de aanwezigheidslijst doorgeven.’ Ghislain pakt een bord en plukt enkele nog warme sandwiches van de bakplaat om het secretariaat te verwennen. Wanneer hij dat vergeet, of te laat is, komen de medewerkers zelf naar beneden om glimlachend te vragen of er nog niets is gebakken. Voedsel delen is een mooi en krachtig gebaar dat al sinds mensenheugenis een band schept. Het kost ons veel moeite om te wachten tot de sandwiches voldoende zijn afgekoeld om er ook enkele te proeven. 
 
 [^5]: Tocht en koelkasten zorgen er beiden voor dat deeg heel snel uitdroogt. Uitgedroogde lapjes deeg zijn verkorst, en rijzen in de oven door die korst minder goed. Onze oplossing, buiten de deur dichthouden, was het rijzende deeg te bedekken met grote stukken plastic folie.
 
 Achteraf bekeken is dat de voornaamste reden waarom de groep zo naar elkaar toe groeide: we hadden een gedeeld doel. De _pateeks_[^patee] verdelen zonder slaande ruzie is daar het mooiste bewijs van. Ik werkte toen overdag als softwareontwikkelaar ook in teamverband. Onze gedeelde verantwoordelijkheid was een groot softwarepakket. Die samenwerking verliep ook intens, maar op één of andere manier maakte het (veel) minder indruk op mij dan samen in de keuken of bakkerij te zwoegen. Ik kan een aantal mogelijke redenen bedenken als oorzaak voor dat gevoel. Afhankelijk van het bedrijf en soort van software, sta je als ontwikkelaar niet nauw in contact met eindgebruikers. Een bakker heeft meestal verkopers in dienst om dit werkje op te knappen, maar toch is dat gevoel  onmiskenbaar aanwezig. De relatie tussen een bakker en zijn klanten is naar mijn beleving veel hechter dan tussen een programmeur en gebruiker van dat programma. Je zal in ieder geval sneller horen dat een klant niet tevreden is over je brioche werk dan over je programmeerwerk. Dat stuk eierschaal in het deeg komt je dan ook sneller duur te staan dan die paar bugs in de code. 
 
-[^patee]: Een in Limburg graag gebruikt woord als alternatief voor Frans gebakje, taartje, of pasteitje. 
+[^patee]: Een in Limburg graag gebruikt woord als alternatief voor Frans gebakje, taartje of pasteitje. 
 
-Proeven is één van de hoogtepunten van de avond (of de ochtend daarna), omdat voor ons als eerstejaarsstudent alles nieuw is. Een bakker met wat ervaring zal neem ik aan minder snel geneigd zijn om elke dag zijn croissants te willen proeven. Gezien de hoeveelheid boter lijkt het mij aangewezen om dit niet elke dag te proberen... 
+Proeven is één van de hoogtepunten van de avond (of de ochtend daarna), omdat voor ons als eerstejaarsstudenten alles nieuw is. Een bakker met wat ervaring zal, neem ik aan, minder snel geneigd zijn om elke dag zijn croissants te willen proeven. Gezien de hoeveelheid boter lijkt het mij aangewezen om dit niet elke dag te proberen... 
 
-Als beginnende leerling romantiseer je de stiel: je stelt je een gelukkige bakker voor, die met plezier ‘s nachts opstaat om de mensen vers gebak aan te kunnen bieden. Een mooi filantropisch gedachtegoed, die bij mij hardnekkig lang stand wist te houden. Het was pas tijdens mijn stage in Gent dat ik enig besef had van wat deze ambacht dagelijks van iemand vereist. 
+Als beginnende leerling romantiseer je de stiel: je stelt je een gelukkige bakker voor, die met plezier ‘s nachts opstaat om de mensen vers gebak aan te kunnen bieden. Een mooi filantropisch gedachtegoed, dat bij mij hardnekkig lang stand wist te houden. Het was pas tijdens mijn stage in Gent dat ik enig besef had van wat deze ambacht dagelijks van iemand vereist. 
 
 * * *
 
-De meeste van mijn medestudenten schreven zich in als hobby. Het instituut hoopt natuurlijk dat je later ook effectief iets gaat doen met je verkregen diploma. Toch bestaan avondopleidingen voornamelijk uit hobbyisten, en dagopleidingen uit professionelen in spé. Er waren mensen die al verschillende andere langdurige cursussen achter de rug hadden, en mee deden om iets te doen te hebben op een avond. Misschien om het gezeur van thuis te ontlopen. Ik hoop dat Kristien in mijn geval wel beter weet. Er waren ook mensen die reeds in een taartenwinkel werkten, en hoopten om later hun eigen zaak op te starten. Iedereen had zijn eigen verwachtingspatroon en dat van mij bestond uit één doel: meer leren over _brood bakken_. 
+De meeste van mijn medestudenten schreven zich in als hobby. Het instituut hoopt natuurlijk dat je later ook effectief iets gaat doen met je verkregen diploma. Toch bestaan avondopleidingen voornamelijk uit hobbyisten, en dagopleidingen uit professionelen in spé. Er waren mensen die al verschillende andere langdurige cursussen achter de rug hadden, en meededen om iets te doen te hebben op een avond. Misschien om het gezeur van thuis te ontlopen. Ik hoop dat Kristien in mijn geval wel beter weet. Er waren ook mensen die reeds in een taartenwinkel werkten, en hoopten om later hun eigen zaak op te starten. Iedereen had zijn eigen verwachtingspatroon en dat van mij bestond uit één doel: meer leren over _brood bakken_. 
 
 Dat is niet gebeurd.
 
@@ -123,11 +123,11 @@ Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onz
 
 **Jaar 1:**
 
-> _Mattentaart_[^9], soorten wafels, frangipane, zandkoekjes, ciabatta, pita broodjes, verschillende soorten koffiekoeken met verschillende soorten bladerdeeg, soezen, _kramiek_[^8] brood, Limburgse vlaaien zoals abrikozenvlaai of _knobbeltjesvlaai_[^10], sandwiches, suikerbollen, pistolets, rijsttaart, Hasseltse speculaas, beignets, verschillende cakes, _tijgerbrood_[^11], chocomousse, tarte maison, kerststol. 
+> _Mattentaart_[^9], soorten wafels, frangipane, zandkoekjes, ciabatta, pitabroodjes, verschillende soorten koffiekoeken met verschillende soorten bladerdeeg, soezen, _kramiek_[^8] brood, Limburgse vlaaien zoals abrikozenvlaai of _knobbeltjesvlaai_[^10], sandwiches, suikerbollen, pistolets, rijsttaart, Hasseltse speculaas, beignets, verschillende cakes, _tijgerbrood_[^11], chocomousse, tarte maison, kerststol. 
 
 **Jaar 2:**
 
-> Bananentaart, banaan éclairs, verschillende soorten roomijs, petit fours met marsepein, meer taarten zoals appel-, smurfen- en kaastaart, nog meer soorten soezen, Antwerpse boterpistolets, een grote variatie aan pralines, biscuittaart met slagroom, chocolade holgoed, studentenhaver, truffels, bokkenpootjes, meer gerezen en niet-gerezen bladerdeeg varianten, mini stokbroden. 
+> Bananentaart, banaan éclairs, verschillende soorten roomijs, petitfours met marsepein, meer taarten zoals appel-, smurfen- en kaastaart, nog meer soorten soezen, Antwerpse boterpistolets, een grote variatie aan pralines, biscuittaart met slagroom, chocolade holgoed, studentenhaver, truffels, bokkenpootjes, meer gerezen en niet-gerezen bladerdeeg varianten, mini stokbroden. 
 
 **Jaar 3:**
 
@@ -143,7 +143,7 @@ Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onz
 
 De benaming van sommige soorten brood lijkt te zijn ontstaan in een saaie brainstormsessie van een goedkoop reclamebureau. Bakkerijen verkopen een 'lang grijs', een 'volkoren' dat geen volkoren is, 'kramieken', 'boerenbrood', 'hoevebrood', 'granenbrood', 'bakkersbrood', 'molenaarsbrood', ... Deze dichterlijke vrijheid wil echter niet zeggen dat het molenaarsbrood van bakker 1 hetzelfde is als het molenaarsbrood van bakker 2. Het wil in feite helemaal niets zeggen. 
 
-Zelfs het iconisch 'San Francisco brood' wordt door Frank Deldaele's bakboek _De smaak van brood_ omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Brood gebakken op industriële schaal dat de naam 'San Francisco brood' draagt betekent nog niet dat het de tijd gekregen heeft om even voedzaam te zijn als puur zuurdesembrood.
+Zelfs het iconische 'San Francisco brood' wordt door Frank Deldaele's bakboek _De smaak van brood_ omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Brood gebakken op industriële schaal dat de naam 'San Francisco brood' draagt betekent nog niet dat het de tijd heeft gekregen om even voedzaam te zijn als puur zuurdesembrood.
 
 In een onderzoek rond _Lactobacillus sanfranciscensis_, de melkzuurbacterie die voornamelijk aanwezig is in dit type brood, concluderen Yazar en Tavman het volgende [@yazar2012functional]:
 
@@ -151,13 +151,13 @@ In een onderzoek rond _Lactobacillus sanfranciscensis_, de melkzuurbacterie die 
 
 Het ene San Francisco brood is dus duidelijk het andere niet. Laat je ook niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helft aan volkoren granen in. 
 
-Dan heb je ook nog namen met een auteursrechtelijke  bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. 
+Dan heb je ook nog namen met een auteursrechtelijke  bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en-klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. 
 
 Het maakt het er in ieder geval enorm moeilijk op om exact te weten te komen wat er nu _precies_ in je brood zit. Tenzij... je het zelf maakt. 
 
-Soms heeft een naam wel degelijk (ooit) een betekenis (gehad). Een voorbeeld hiervan is het 'roggeverdommeke'. Dit is roggebrood wat de 'verdoemden' (de gevangenen) te eten kregen omdat rogge goedkoper is dan tarwe. Krenten werden pas later aan het deeg toegevoegd. Natuurlijk kan iedere bakker hier zijn eigen interpretatie aan geven, en er is geen broodpolitie die de bakker arresteert als een 'roggegedverdommeke' geen grammetje rogge bevat. Sommige bakkerijen doen de moeite niet om hun creaties een unieke naam te geven, en beperken het tot de naam van het gebruikte graan, of zelfs zoveel procent van dit, zoveel procent van dat. Dat is niet zo origineel, maar de boodschap naar de klant is wel zeer duidelijk. Iemand met allergische reacties kan zo met een gerust hart brood kopen.
+Soms heeft een naam wel degelijk (ooit) een betekenis (gehad). Een voorbeeld hiervan is het 'roggeverdommeke'. Dit is roggebrood wat de 'verdoemden' (de gevangenen) te eten kregen omdat rogge goedkoper is dan tarwe. Krenten werden pas later aan het deeg toegevoegd. Natuurlijk kan iedere bakker hier zijn eigen interpretatie aan geven, en er is geen broodpolitie die de bakker arresteert als een roggeverdommeke geen grammetje rogge bevat. Sommige bakkerijen doen de moeite niet om hun creaties een unieke naam te geven, en beperken het tot de naam van het gebruikte graan, of zelfs zoveel procent van dit, zoveel procent van dat. Dat is niet zo origineel, maar de boodschap naar de klant is wel zeer duidelijk. Iemand met een voedselallergie kan zo met een gerust hart brood kopen.
 
-Een volleerde brood- en banketbakker is ideaal gezien een renaissancistisch generalist: deze is even bekwaam in het maken van soorten brood als in het vervaardigen van soorten patisserie. Het lijkt me dan ook niet meer dan logisch om aan beide zaken evenveel tijd te spenderen. Wanneer ik bakkerijen bezoek vertellen bakkers mij dat ze alles moesten vergeten wat hun geleerd werd tijdens hun klassieke scholing. Veel Belgische bakkers met faam hebben het belangrijkste deel van hun kennis vergaard door een stage in het buitenland te volgen. Ik heb sterk de indruk dat de opleiding slechts een klein deurtje opent naar een grotere wereld vol mogelijkheden. Het kan toch niet zijn dat ons onderwijssysteem zo slecht is dat na drie jaren studie (of één jaar voltijds), je als bakker moet zeggen 'zo, nu weet ik wat ik _niet_ ga maken'? 
+Een volleerde brood- en banketbakker is ideaal gezien een renaissancistisch generalist: deze is even bekwaam in het maken van soorten brood als in het vervaardigen van soorten patisserie. Het lijkt me dan ook niet meer dan logisch om aan beide zaken evenveel tijd te spenderen. Wanneer ik bakkerijen bezoek vertellen bakkers mij dat ze alles moesten vergeten wat hun geleerd werd tijdens hun klassieke scholing. Veel Belgische bakkers met faam hebben het belangrijkste deel van hun kennis vergaard door een stage in het buitenland te volgen. Ik heb sterk de indruk dat de opleiding slechts een klein deurtje opent naar een grotere wereld vol mogelijkheden. Het kan toch niet zijn dat ons onderwijssysteem zo slecht is dat na drie jaren studie (of één jaar voltijds), je als bakker moet zeggen: 'Zo, nu weet ik wat ik _niet_ ga maken'? 
 
 * * *
 
@@ -165,11 +165,11 @@ Ik veronderstelde dat dit probleem zich enkel in Vlaanderen voordeed.
 
 Ik had het weer mis. 
 
-Nederlandse bakkers bevestigen het verhaal. En toch is er nog hoop: kijk maar naar prestigieuze scholen zoals het Franse ‘_School Of Boulangerie Et De Pâtisserie De Paris_’, of het Amerikaanse ‘_San Francisco Baking Institute_’. Michel Suas' boek '_Advanced bread & pastry_' is een immens naslagwerk waar de Vlaamse bakkerijfederatie dringend eens naar moet kijken [@advancedbread]. Met een beetje geluk wordt dat het nieuwe referentie handboek, zoals het zou moeten zijn. 
+Nederlandse bakkers bevestigen het verhaal. En toch is er nog hoop: kijk maar naar prestigieuze scholen zoals het Franse ‘_School Of Boulangerie Et De Pâtisserie De Paris_’, of het Amerikaanse ‘_San Francisco Baking Institute_’. Michel Suas' boek '_Advanced bread & pastry_' is een immens naslagwerk waar de Vlaamse bakkerijfederatie eens dringend naar moet kijken [@advancedbread]. Met een beetje geluk wordt dat het nieuwe referentie handboek, zoals het zou moeten zijn. 
 
-Ik hoop uit de grond van mijn hart dat dit verhaal tot bij iemand beland die daar beslissingen in kan nemen. Ik ben meer dan bereid om te luisteren naar de andere kant van het verhaal, en samen te werken aan een betere toekomst. Iedereen die ik spreek[^12] is het er over eens dat de opleiding dringend moet worden herzien maar niemand is bereid om de eerste stap te zetten. 
+Ik hoop uit de grond van mijn hart dat dit verhaal bij iemand terechtkomt die daar beslissingen in kan nemen. Ik ben meer dan bereid om te luisteren naar de andere kant van het verhaal, en samen te werken aan een betere toekomst. Iedereen die ik spreek[^12] is het ermee eens dat de opleiding dringend moet worden herzien maar niemand is bereid om de eerste stap te zetten. 
 
-[^12]: Natuurlijk heb ik niet gesproken met de gemiddelde bakker, die zijn aanbod voor 95% overeenkomt met wat wij leerden uit de opleiding. 
+[^12]: Natuurlijk heb ik niet gesproken met de gemiddelde bakker, die zijn aanbod voor 95% overeenkomt met wat wij leerden in de opleiding. 
 
 Betekent dit nu dat je de opleiding best niet volgt? Helemaal niet. Je leert er nog steeds veel cruciale basisprincipes zoals het correct bereiden van  soezenbeslag, manieren om bladerdeeg efficiënt te toeren en andere relevante technieken. Je leert er samen te werken met andere gelijkgezinden, die goede  vrienden kunnen worden. Je leert unieke tips van super joviale en bereidwillige leerkrachten die jaren in een bakkerij hebben gewerkt. Deze belangrijke ervaringen zullen mij de rest van mijn leven bijblijven. 
 
@@ -177,9 +177,9 @@ Het diploma zelf is sinds 2019 niet meer vereist om een bakkerij te kunnen opsta
 
 * * *
 
-Wat is nu eigenlijk het verschil tussen iemand die zich een '_boulanger_' noemt, en een '_patissier_' of '_chocolatier_'? Specialisatie is ook in de bakkerswereld de beste manier om jezelf te onderscheiden van de rest. Om ergens écht goed in te zijn, moet je je verdiepen. Mijn ambitie om _doctor in de zuurdesemologie_ te worden is hier geen uitzondering op. Volgens het eerder aangehaalde Dreyfus model is dat zo simpel als er slechts 10.000 uren aan spenderen, wat neerkomt op ongeveer 10 jaar. Het gaat niet over elke dag hetzelfde brood bakken tot je erbij neervalt, maar over '_deliberate practice_': écht oefenen, experimenteren, aanpassen, en verbeteren. Dat avontuur begint pas wanneer je, met je diploma op zak, op straat staat. 
+Wat is nu eigenlijk het verschil tussen iemand die zich een '_boulanger_', en een '_patissier_' of een '_chocolatier_' noemt? Specialisatie is ook in de bakkerswereld de beste manier om jezelf te onderscheiden van de rest. Om ergens écht goed in te zijn, moet je je verdiepen. Mijn ambitie om _doctor in de zuurdesemologie_ te worden is hier geen uitzondering op. Volgens het eerder aangehaalde Dreyfus model is dat zo simpel als er slechts 10.000 uren aan spenderen, wat neerkomt op ongeveer 10 jaar. Het gaat niet over elke dag hetzelfde brood bakken tot je erbij neervalt, maar over '_deliberate practice_': écht oefenen, experimenteren, aanpassen en verbeteren. Dat avontuur begint pas wanneer je, met je diploma op zak, op straat staat. 
 
-De avondschool leidt generalisten op, een soort bakkertje-van-alles. Het is een veel voorkomende misvatting dat generalisten nergens écht goed in zijn. Ik ben een ‘brood’ persoon, en wil alles weten wat daarmee te maken heeft. Maar dankzij de opleiding kan ik ook vlot taarten en koeken bakken. Maakt mij dat dan een specialist, of een generalist? 
+De avondschool leidt generalisten op, een soort bakkertje-van-alles. Het is een veel voorkomende misvatting dat generalisten nergens écht goed in zijn. Ik ben een 'broodmens', en wil alles weten wat daarmee te maken heeft. Maar dankzij de opleiding kan ik ook vlot taarten en koeken bakken. Maakt mij dat dan een specialist, of een generalist? 
 
 De juiste term hanteren doet er niet toe. Met de titel die je jezelf toekent beschrijf je voornamelijk waar je bakkerij in uitblinkt. 
 
@@ -198,13 +198,13 @@ In Frankrijk is de bakkersambacht een eeuwenoude traditie waar nog steeds duidel
 
 Die avond toen we voor de eerste keer sandwiches aan het bakken waren, viel er mij nog iets op. De volgens het recept 15% aan 'boter', was helemaal geen boter zoals ik ze kende. Het zat in een aparte plastieken doos van `20 kg` gelabeld als '_zachte luxe verbeteraar_'. Ik porde Dimitri en wees naar de inhoud. 
 
-'_How jong_, wat is dat?' Inderdaad: bij het open doen van de doos registreerden onze ogen iets knalgeel en onze neus iets chemisch. 
+'_How jong_, wat is dat?' Inderdaad: bij het openen van de doos registreerden onze ogen iets knalgeel en onze neus iets chemisch. 
 
 'Boter zeker?' zei ik onzeker. Een onhygiënische vinger in het goedje bevestigde ons vermoeden: vet. 
 
-Heb je je al ooit afgevraagd waarom veel sandwiches er zo geel uitzien? Dacht je misschien net als ons ook dat het wel door de eieren kwam? Niets is minder waar. Deze 'verbeteraar' bevat een aanzienlijk aantal E-nummers (waaronder dus kleurstoffen), die het harde werk van jou als bakker overnemen. Temperatuur te hoog? Geen probleem, met dit spul krijg je je deeg niet kapot gerezen. Te lang gekneed? Geen probleem, met dit spul versterk je je bloem zodat scheuren bijna onmogelijk wordt. Te weinig gekneed? Geen probleem, met dit spul ontstaat elasticiteit vanzelf. 
+Heb je je al ooit afgevraagd waarom veel sandwiches er zo geel uitzien? Dacht je misschien, net als ons, dat het wel door de eieren kwam? Niets is minder waar. Deze 'verbeteraar' bevat een aanzienlijk aantal E-nummers (waaronder dus kleurstoffen), die het harde werk van jou als bakker overnemen. Temperatuur te hoog? Geen probleem, met dit spul krijg je je deeg niet kapot gerezen. Te lang gekneed? Geen probleem, met dit spul versterk je je bloem zodat scheuren bijna onmogelijk wordt. Te weinig gekneed? Geen probleem, met dit spul ontstaat elasticiteit vanzelf. 
 
-Ik kan geen enkel geldig excuus vinden om verbeteraars in een school te gebruiken. Op die manier leer je je leerlingen helemaal niet bakken: het gebeurt quasi vanzelf. Er wordt nauwelijks gesproken over natuurlijke ingrediënten. Alsof het de normaalste zaak van de wereld is dat we consequent verbeteraars toevoegen aan ons deeg. Hetzelfde geldt voor harde luxe trouwens, behalve dat die doos stinkt naar azijn en daar het goedje lichtbruin is in plaats van geel. 
+Ik kan geen enkel geldig excuus verzinnen om verbeteraars in een school te gebruiken. Op deze manier leer je je leerlingen helemaal niet bakken: het gebeurt quasi vanzelf. Er wordt nauwelijks gesproken over natuurlijke ingrediënten. Alsof het de normaalste zaak van de wereld is dat we consequent verbeteraars toevoegen aan ons deeg. Hetzelfde geldt voor harde luxe trouwens, behalve dat die doos stinkt naar azijn en daar het goedje lichtbruin is in plaats van geel. 
 
 Het is inderdaad zo dat het gebruik van verbeteraars het proces vergemakkelijkt. gelukkig beseft Ghislain, onze leerkracht, dit ook, en liet hij ons regelmatig experimenteren met melkerijboter[^14]. 
 
@@ -246,7 +246,7 @@ Laat ons eens de individuele componenten van een verbeteraar onder de loep nemen
 
 Een uitvoerige beschrijving van hun werking komt aan bod in deel \ref{theorie}. Additieven zijn niet altijd even vriendelijk als ze er uit zien. Nadat wetenschappers hebben ontdekt dat kaliumbromaat op lange termijn giftig kan zijn, heeft de EU beslist dit als E-nummer `924` op de verboden lijst te plaatsen [@fisher1979long]. 
 
-Toevoegingen als vitamine C en enzymen zijn vanzelfsprekend onschadelijk. In feite is de lijst van E-nummers vanuit de Europese overheid juist ontwikkeld om aan te geven welke additieven veilig zijn. Voedingssupplementen gaan echter van nature gepaard met de nodige achterdocht. En terecht: de voedingsindustrie toont tot nu toe geen moeite om de controverse te doorbreken door niet alleen te spreken over gezondheid, maar ook over ethise, esthetische en culturele bekommernissen. Dirk Haen schrijft in zijn artikel '_the paradox of E-numbers_' over dit gevoelig onderwerp en ontdekt dat bewuste kopers de toenemende complexiteit van additieven moeten kennen om een correct oordeel te kunnen vellen [@haen2014paradox]. Een tweede probleem is privatisering. Als alles achter gesloten deuren gebeurt, heb je niet bepaald het vertrouwen van het publiek mee.  
+Toevoegingen als vitamine C en enzymen zijn vanzelfsprekend onschadelijk. In feite is de lijst van E-nummers vanuit de Europese overheid juist ontwikkeld om aan te geven welke additieven veilig zijn. Voedingssupplementen gaan echter van nature gepaard met de nodige achterdocht. En terecht: de voedingsindustrie toont tot nu toe geen moeite om de controverse te doorbreken door niet alleen te spreken over gezondheid, maar ook over ethische, esthetische en culturele bekommernissen. Dirk Haen schrijft in zijn artikel '_the paradox of E-numbers_' over dit gevoelig onderwerp en ontdekt dat bewuste kopers de toenemende complexiteit van additieven moeten kennen om een correct oordeel te kunnen vellen [@haen2014paradox]. Een tweede probleem is privatisering. Als alles achter gesloten deuren gebeurt, heb je niet bepaald het vertrouwen van het publiek mee.  
 
 Het komt erop neer dat als ik als consument niet weet welke stoffen exact in mijn gekocht voedsel zitten. En als ik dat wel weet, dan weet ik niet welke impact dat op mijn lichaam heeft. Dus volg ik Michael Pollan zijn advies op: hoe minder ingrediënten, hoe beter. Hoe puurder, hoe beter. 
 
@@ -324,7 +324,7 @@ Wanneer zo’n stomme dingen gebeuren voel ik me meteen slecht. Dat zijn de best
 
 'Kan ook lekker zijn. Ik zal wel opnieuw afwegen.' zegt Dimitri. Patrick was een plastieken kwast vergeten uit de pan te halen. Blijkbaar smelt plastiek in een hete oven. De pan kwam zo uit Dali's _Volharding Der Herinnering_: een mooi kunstwerk, maar te surrealistisch om eetbaar te kunnen zijn. 
 
-Er zijn veel ongevallen gebeurd gedurende die jaren. Het einde van de werkweek gecombineerd met onze onhandigheid had er zeker wat mee te maken. Er waren emmers vol chocolade opengevallen, de opgeklopte room werd op magische wijze omgetoverd tot boter[^18], de netjes verdeelde sandwich bolletjes bleven plots allemaal plakken aan de opbolmachine, de pudding werd verschillende keren aangebrand door een vlaag van onoplettendheid, en veel pas gebakken dingen haalden het niet van de oven tot de werktafel om af te koelen. gelukkig leerde Ghislain ons een zeer belangrijke levensles om de ongevallen te relativeren:
+Er zijn veel ongevallen gebeurd gedurende die jaren. Het einde van de werkweek gecombineerd met onze onhandigheid had er zeker wat mee te maken. Er waren emmers vol chocolade opengevallen, de opgeklopte room werd op magische wijze omgetoverd tot boter[^18], de netjes verdeelde sandwich bolletjes bleven plots allemaal plakken aan de opbolmachine, de pudding werd verschillende keren aangebrand door een vlaag van onoplettendheid, en veel pas gebakken dingen haalden het niet van de oven tot de werktafel om af te koelen. Gelukkig leerde Ghislain ons een zeer belangrijke levensles om de ongevallen te relativeren:
 
 > _Er zijn altijd oplossingen - voor eender welk probleem._
 

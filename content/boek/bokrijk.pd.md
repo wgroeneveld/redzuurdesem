@@ -53,7 +53,7 @@ Er zijn ook bakkers die het slimmer aanpakken en de assen naar achteren of opzij
 
 'Wat een geknoei' dacht ik toen ik er zelf mee worstelde. Denk er aan dat in het openluchtmuseum authenticiteit belangrijker is dan efficiëntie (of hygiëne). 
 
-De nieuwsgierige bezoeker krijgt dus een kans om het hele bakproces te zien. Van het kneden tot het opstoken van de oven en het bakken zelf. De oven zorgde voor het grootste spektakel. Vuur (en een rokende mop) blijft de mens fascineren. De demonstratie mocht ik helemaal zelf invullen, maar gelukkig stond ik er niet alleen voor. Een van de vaste medewerkers die reeds bekend was met de oven hielp me bij het beheersen ervan. Een houtoven leer je niet kennen op één dag, laat staan een maand (Een gewone oven ook niet maar dit is echt nog veel gevoeliger). Het is een enorm wispelturig ding waar veel dingen mis mee kunnen gaan:
+De nieuwsgierige bezoeker krijgt dus een kans om het hele bakproces te zien. Van het kneden tot het opstoken van de oven en het bakken zelf. De oven zorgde voor het grootste spektakel. Vuur (en een rokende mop) blijft de mens fascineren. De demonstratie mocht ik helemaal zelf invullen, maar gelukkig stond ik er niet alleen voor. Een van de vaste medewerkers die reeds bekend was met de oven hielp me bij het beheersen ervan. Een houtoven leer je niet kennen op één dag, laat staan een maand (Een gewone oven ook niet maar dit is echt nog veel gevoeliger). Het is een enorm wispelturig ding waarbij veel dingen mis kunnen gaan:
 
 * Te weinig hout in de oven - de mutsaard brandt snel op en de stenen zijn nog koud. 
 * Te veel hout ingeladen - de temperatuur schiet de hoogte in en het brood verbrandt. 
@@ -157,13 +157,13 @@ De normen zijn redelijk streng: alles moet van inox zijn, er moeten controles wo
 
 Een winkel als detailhandel openen vereist een ander voorschrift waar vlotter aan kan worden voldaan omdat het voedsel niet daar wordt geproduceerd, maar slechts wordt doorverkocht. 
 
-Het openluchtmuseum blijft natuurlijk in de eerste plaats een museum, en geen volwaardige bakkerij[^bakkerijopen].
+Het Openluchtmuseum blijft natuurlijk in de eerste plaats een museum, en geen volwaardige bakkerij[^bakkerijopen].
 
 [^bakkerijopen]: Dit klopt niet meer. Eind 2017 opende De Superette zijn tweede vestiging in Bokrijk. Het project betekende een volledige vernieuwing van het gebouw, inclusief installaties. In 2019 werd de zaak overgedragen en hernoemd naar 'Egt'. Nu kan je dus de échte ambacht aanschouwen, en daarna een lekker brood mee naar huis nemen als souvenir. 
 
 #### Dag 2
 
-Na de eerste demonstratiedag maakte ik thuis wat aantekeningen om tijdens de tweede dag wat beter om te kunnen gaan met de waargenomen uitdagingen. Het was voor veel bezoekers bijvoorbeeld helemaal niet duidelijk dat het om zuurdesembrood ging. Dat was ook niet echt zichtbaar: wat je zag was een oude bakkerij waarin werd gekneed en gebakken. Om welk brood het precies ging moest je maar raden, tenzij je naar mijn uitleg luisterde, gegeven dat ik op dat moment het niet te druk had met deeg op de grond te laten vallen. Een integraal deel van de ambacht ging zo verloren. Dit heb ik kunnen aanpakken door een uithangbord te vragen met de teskt 'Demonstratie zuurdesembrood bakken!'. 
+Na de eerste demonstratiedag maakte ik thuis wat aantekeningen om tijdens de tweede dag wat beter om te kunnen gaan met de waargenomen uitdagingen. Het was voor veel bezoekers bijvoorbeeld helemaal niet duidelijk dat het om zuurdesembrood ging. Dat was ook niet echt zichtbaar: wat je zag was een oude bakkerij waarin werd gekneed en gebakken. Om welk brood het precies ging moest je maar raden, tenzij je naar mijn uitleg luisterde, gegeven dat ik op dat moment het niet te druk had met deeg op de grond te laten vallen. Een integraal deel van de ambacht ging zo verloren. Dit heb ik kunnen oplossen door een uithangbord te vragen met de tekst 'Demonstratie zuurdesembrood bakken!'. 
 
 \begin{figure}
 \centering
@@ -171,15 +171,15 @@ Na de eerste demonstratiedag maakte ik thuis wat aantekeningen om tijdens de twe
 \caption{Het bakhuisje in het Openluchtmuseum.}
 \end{figure}
 
-Daarnaast voorzag ik ook flyers waar wat algemene uitleg van het proces in stond, samen met enkele recepten en een link naar mijn blog voor mensen die graag meer wilden weten. En dat had effect: alle flyers waren binnen het uur uitgedeeld. Ik kan alleen maar raden of ze effectief gelezen en bestudeerd werden, maar op zo'n momenten was ik tevreden genoeg met het feit dat ze werden meegenomen. Het museum opent zijn deuren van tien uur 's morgens tot zes uur 's avonds. 
+Daarnaast voorzag ik ook flyers met algemene uitleg over het proces, samen met enkele recepten en een link naar mijn blog voor mensen die graag meer wilden weten. En dat had effect: alle flyers waren binnen het uur uitgedeeld. Ik kan alleen maar raden of ze effectief werden gelezen en bestudeerd, maar op dat moment was ik tevreden met het feit dat ze werden meegenomen. Het museum opent zijn deuren van tien uur 's morgens tot zes uur 's avonds. 
 
-De tweede dag probeerde ik mijn schema wat aan te passen zodat er wat vroeger kon worden gebakken. Veel bezoekers vertrekken immers na vier uur. Er zijn twee merkbare pieken in drukte: in de late voormiddag en in de vroege namiddag. Het leek me dan ook niet meer dan normaal om die grote massa het beste van mijzelf te laten zien, in plaats van een bakker die starend zijn deeg doet rijzen. 
+De tweede dag probeerde ik mijn schema wat aan te passen zodat er wat vroeger kon worden gebakken. Veel bezoekers vertrekken immers in de late namiddag. Er zijn twee merkbare pieken in drukte: in de late voormiddag en in de vroege namiddag. Het leek me dan ook niet meer dan normaal om die grote massa het beste van mijzelf te laten zien, in plaats van een bakker die al starend zijn deeg doet rijzen. 
 
 * * *
 
 Die twee dagen waren erg intens. Ik heb jammer genoeg nauwelijks de kans gehad om de houtoven goed te leren kennen. Het lijkt een beetje op het aangaan van een relatie: diepgang moet worden opgebouwd, en dat kost tijd. Voor zo'n oven betekent dat niet dagen, maar maanden. 
 
-De vaste medewerkers die in het openluchtmuseum werken krijgen jammer genoeg evenmin de kans om zich te specialiseren. Ik heb Jeannine[^jeani] over gesproken, de mevrouw die zo vriendelijk was om mij die dagen met de mutsaarden te helpen. 
+De vaste medewerkers die in het openluchtmuseum werken krijgen jammer genoeg evenmin de kans om zich te specialiseren. Ik sprak erover met Jeannine[^jeani], de mevrouw die zo vriendelijk was om mij die dagen met de mutsaarden te helpen. 
 
 'Wij worden regelmatig ingezet bij andere ambachten' vertelde ze. 
 
@@ -188,23 +188,23 @@ De vaste medewerkers die in het openluchtmuseum werken krijgen jammer genoeg eve
 'We kneden samen met de kinderen een vast deeg om het daarna te kunnen vlechten. Ze zijn graag bezig met hun handen dus dat is wel leuk. Maar de organisatoren verwachten van ons het onmogelijke: zoiets kan niet gekneed én gebakken zijn in één uur!'
 
 Jeannine bakt de vlechtbroodjes zo goed als onmiddellijk. Dankzij een enorme hoeveelheid gist krijgen de vlechtjes toch nog wat volume. De oven moet worden opgestookt, de kinderen zijn aan het wachten en de leerkrachten verwachten binnen een uurtje terug naar school te kunnen gaan met een zelfgebakken broodje. Een onmogelijke taak... 
-Gelukkig beseffen bezoekers die een snelle blik in de bakkerij werpen zoiets niet. 
+Helaas beseffen bezoekers die een snelle blik in de bakkerij werpen zoiets niet. 
 
-[^jeani]: Om de gegevens van de persoon te beschremen gebruik ik hier een fictieve naam.
+[^jeani]: Om de gegevens van de persoon te beschermen gebruik ik hier een fictieve naam.
 
 * * *
 
 Een gebrek aan tijd is bij veel workshops die ik geef een groot probleem. Men verwacht zoiets te kunnen doen in drie of vier uur, maar voor brood bakken moet je nu eenmaal je tijd nemen. Zeker voor iets als zuurdesem. Tijd betekent immers smaak. Concepten en handelingen kan je wel uitleggen in die uren. Iets lekkers mee naar huis nemen wordt wat moeilijker. Ik probeer dat altijd zo goed mogelijk te kaderen en stel mijn eigen tijdslimieten op als ik de plaats van de workshop zelf kan kiezen. In een museum met vaste openingsuren heb je je maar te schikken. Soms vraagt men mij om in twee uur een cursus brood of pizza bakken te geven. Laat me hier voor eens en voor altijd duidelijk zijn: zoiets gaat niet. Onmogelijk. Zet het uit uw hoofd. Vergeet het. Laat het vallen. Vervang het door soep koken of koekjes bakken. Tenzij je mensen wilt laten kennis maken met het proces - en niet meer dan dat. 
 
-‘Maar het zou toch leuk zijn om de cursisten iets zelfgebakken mee naar huis te kunnen geven...’ Inderdaad, dat zou heel leuk zijn. Zeer leuk zelfs. Maar dat past niet in het opgelegd tijdsschema. Je kan er wel rond werken, zoals Jeannine doet, door bijvoorbeeld véél gist te gebruiken in je deeg. Het zal niet lekker zijn. Het kan wel mee naar huis, om gedoemd te worden tot kippenvoer of compost materiaal. Dan zou ik eerder opteren om op voorhand gebakken brood mee te geven, ook al kost dit extra moeite voor de leerkracht. Vergeet die optie als er tien of meer cursisten aanwezig zijn en men verwacht dat iedereen een volwaardig brood van `900 g` mee naar huis kan nemen. Op dat moment is het wél handig om een bakkerij te hebben. In mijn keuken ben ik dan enkele dagen zoet, ook al beschik ik over een grotere steenoven. 
+‘Maar het zou toch leuk zijn om de cursisten iets zelfgebakken mee naar huis te kunnen geven...’ Inderdaad, dat zou heel leuk zijn. Heel leuk zelfs. Maar dat past niet in het opgelegde tijdsschema. Je kan er wel rond werken, zoals Jeannine doet, door bijvoorbeeld véél gist te gebruiken in je deeg. Het zal niet lekker zijn. Het kan wel mee naar huis, om gedoemd te worden tot kippenvoer of compost materiaal. Dan zou ik eerder opteren om op voorhand gebakken brood mee te geven, ook al kost dit extra moeite voor de leerkracht. Vergeet die optie als er tien of meer cursisten aanwezig zijn en men verwacht dat iedereen een volwaardig brood van `900 g` mee naar huis kan nemen. Op dat moment is het wél handig om een bakkerij te hebben. In mijn keuken ben ik dan enkele dagen zoet, ook al beschik ik over een grotere steenoven. 
 
-Het initiatief is bewonderenswaardig en het feit dat ik de inhoud van de cursus zelf mag bepalen ook. Het enige jammere is dat mensen die geen benul hebben van brood bakken bepalen hoe lang de cursus zou gaan duren en de lesgever zich hier maar naar moet schikken. 
+Het initiatief is bewonderenswaardig en het feit dat ik de inhoud van de cursus zelf mag bepalen ook. Het enige jammere is dat mensen die geen benul hebben van brood bakken bepalen hoelang de cursus zou gaan duren en de lesgever zich hier maar naar moet schikken. 
 
 * * *
 
 Dankzij deze demonstraties en latere workshops kon ik mijn enthousiasme over zuurdesembrood delen. Maar zoals Socrates zou hebben gezegd: ‘_Het enige wat ik weet is dat ik (nog) heel weinig weet_’. Tot nu toe leerde ik met behulp van boeken, het internet, interviews en veel al dan niet mislukte experimenten. Het werd tijd om te leren van échte experts. Het kriebelde om eens écht te leren zoals professionele bakkers het hebben geleerd. 
 
-Dat kan maar op één manier: een opleiding tot volwaardige brood- en banketbakker volgen. In België is dat mogelijk via verschillende instellingen zoals Syntra of het Onderwijs Voor Volwassenen. De exacte inhoud van de opleiding is echter vastgelegd door de Overheid. Elke bakker die in België afstudeert heeft in (ongeveer) dezelfde modules dezelfde kennis opgedaan. Het spreekt voor zich dat er wezenlijke verschillen zijn van school tot school en van leerkracht tot leerkracht, maar het punt is dat de inhoud van de lessen hetzelfde zijn. Dat maakte het voor mij eenvoudig om iets dicht bij huis te zoeken. Een opleiding in avondschool duurt drie jaar, een voltijdse dagopleiding slechts eentje. Het tweede is vooral voor voltijdse studenten die op dat moment geen vaste baan hebben. 
+Dat kan maar op één manier: een opleiding tot volwaardige brood- en banketbakker volgen. In België is dat mogelijk via verschillende instellingen zoals Syntra of het Centrum Voor Volwassenenonderwijs. De exacte inhoud van de opleiding is echter vastgelegd door de overheid. Elke bakker die in België afstudeert heeft in (ongeveer) dezelfde modules dezelfde kennis opgedaan. Het spreekt voor zich dat er wezenlijke verschillen zijn van school tot school en van leerkracht tot leerkracht, maar het punt is dat de inhoud van de lessen hetzelfde zijn. Dat maakte het voor mij eenvoudig om iets dicht bij huis te zoeken. Een opleiding in avondschool duurt drie jaar, een voltijdse dagopleiding slechts eentje. Het tweede is vooral voor voltijdse studenten die op dat moment geen vaste baan hebben. 
 
 Het enige wat me nu nog restte was de blijde boodschap verkondigen dat ik de komende drie jaar op vrijdagavond niet thuis zou zijn...
 
@@ -215,7 +215,7 @@ Het enige wat me nu nog restte was de blijde boodschap verkondigen dat ik de kom
 * Een oude, onvoorspelbare houtoven beheersen in een paar dagen is onmogelijk.
 * Een workshop geven over zuurdesembrood in een paar uur is onmogelijk. Er moeten compromissen worden gesloten, zoals de toevoeging van bakkersgist.
 * Er is veel interesse in de ambacht van het brood bakken, en in zuurdesembrood. Er is ook nog erg weinig algemene kennis over beide zaken. 
-* De lijn tussen artisanaal en ambachtelijk proberen te trekken schept alleen maar verwarring. 
+* Een lijn tussen artisanaal en ambachtelijk proberen te trekken schept alleen maar verwarring. 
 * Veel (niet alleen industriële) bakkerijen misbruiken jammer genoeg de \mbox{naïviteit} van hun klanten door termen als 'artisanaal', 'ovenvers' en 'liefde voor de ambacht' te verspreiden. 
 * Kennis delen kan erg bevredigend zijn. 
 * Om kennis te delen moet er eerst nog meer kennis opgebouwd worden.

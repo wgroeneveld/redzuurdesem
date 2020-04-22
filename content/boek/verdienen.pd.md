@@ -17,7 +17,7 @@ Ergens tussen analoog en digitaal zat echter nog een gat, een gat dat ik op een 
 
 Het resultaat was ‘_Desem Doos_’: een tweemaandelijkse thuiscursus voor de ambitieuze broodbakker. Desem Doos was een concept dat beginnende bakkers in staat stelde om in hun eigen keuken kennis te maken met zuurdesem. Het systeem werkte zoals andere bekende voedselpakketten die aan huis worden geleverd. Denk hierbij aan ‘Hello Fresh’ of ‘Supercraftlab’. Elke twee maanden werden er een aantal nieuwe recepten rond een centraal thema uitgedacht waar men mee aan de slag kon, geholpen met extra materiaal en video's. 
 
-Dankzij de doos werd het mogelijk om zonder voorkennis thuis te experimenteren met zuurdesem. Ik wilde de kennis die ik had opgedaan met iedereen delen in de vorm van een aantal digitale lessen. Desem Doos maakt integraal deel uit van mijn persoonlijke queeste naar beter brood.
+Dankzij de doos werd het mogelijk om zonder voorkennis thuis te experimenteren met zuurdesem. Ik wilde de kennis die ik had opgedaan met iedereen delen in de vorm van een aantal digitale lessen. Desem Doos was een integraal deel van mijn persoonlijke queeste naar beter brood.
 
 \begin{figure}
     \mbox{} \par
@@ -284,7 +284,7 @@ Het gebouw, grenzend aan een van de vele wandelpaden, heeft grote ramen die bezo
 
 * * *
 
-Ook René werkt met bloem van de Commandeursmolen die je in indrukwekkende stapels kan zien liggen achterin de ruimte. Er waren nog twee andere bakkers aan het werk. Al fluitend werden er cakes in de oven geschoven en krentenbollen in de rijskast gepropt. Er hing een ontspannen, gezellige sfeer. Ik was onmiddellijk jaloers: de hectische sfeer die ik kende van De Superette is was volledig afwezig. Ik neem aan dat dit komt door de strikte scheiding van keuken en bakkerij (minder mensen lopen in de weg), samen met de bekwaamheid van dit goed geolied team. René was zo vriendelijk om ons tussen zijn werk door een korte rondleiding te geven.
+Ook René werkt met bloem van de Commandeursmolen die je in indrukwekkende stapels kan zien liggen achterin de ruimte. Er waren nog twee andere bakkers aan het werk. Al fluitend werden er cakes in de oven geschoven en krentenbollen in de rijskast gepropt. Er hing een ontspannen, gezellige sfeer. Ik was onmiddellijk jaloers: de hectische sfeer die ik kende van De Superette was volledig afwezig. Ik neem aan dat dit komt door de strikte scheiding van keuken en bakkerij (minder mensen lopen in de weg), samen met de bekwaamheid van dit goed geolied team. René was zo vriendelijk om ons tussen zijn werk door een korte rondleiding te geven.
 
 Ik vraag René naar de grote kneder met één arm die in een hoek dicht bij de oven staat. 
 
@@ -543,7 +543,7 @@ Daarna volgde het baguette deeg.
 
 'Hier zit twee derde water in. Dat is nodig voor de verpompbaarheid. Een vastere desem kan niet door onze systemen worden verwerkt.' 
 
-'Mijn zuurdesem bewaar ik thuis ook in de koelkast, maar heeft na een dag of drie reeds honger, ook al is het gekoeld. Hoe lang kan je dit product bewaren?' 
+'Mijn zuurdesem bewaar ik thuis ook in de koelkast, maar heeft na een dag of drie reeds honger, ook al is het gekoeld. Hoelang kan je dit product bewaren?' 
 
 'Twee maanden. Dat komt door de erg hoge zuurtegraad. Dit is gestabiliseerde zuurdesem, type II. Neem morgen uw cultuur eens mee, dan kunnen we de pH en de totale aciditeit eens meten.' De vloeibare desem ruikt ondanks de zuurtegraad toch nog redelijk zoet. Het roggemeel kleurt het vloeibare mengsel tot een grijsbruine massa, vol met duidelijk zichtbare tikjes zemelen. 
 

@@ -328,12 +328,12 @@ De mythe dat honderdjarige zuurdesemculturen beter zijn dan jonge desems wil ik 
 
 Toch is het gebruik van exact dezelfde ingrediënten, temperatuur en andere condities die de samenstelling van de cultuur beïnvloeden onmogelijk om over jaren heen vol te houden, zelfs door een gedisciplineerde bakker. Tot zover de legendarische kracht van eeuwenoude 'stabiele' zuurdesem. Wachten tot iemand je een beetje van zijn of haar (heel) oude cultuur geeft, is dus helemaal niet nodig. 
 
-Er bestaat nog veel verwarring rond het doel van kneden, hoe lang er nu precies gekneed moet worden en of dat eigenlijk wel nodig is. De verklaarde werking van gluten in brooddeeg schept al wat orde. Het populaire op tarwe gebaseerd _No-knead_ brood geeft correct aan dat zelfs bij tarwe kneden geen vereiste is, zolang dat glutennetwerk maar wordt opgebouwd om voldoende volume te verkrijgen. Of je dit nu doet met intensief kneden, vouwen of met lange rijstijden - dat maakt helemaal niets uit. 
+Er bestaat nog veel verwarring rond het doel van kneden, hoelang er nu precies gekneed moet worden en of dat eigenlijk wel nodig is. De verklaarde werking van gluten in brooddeeg schept al wat orde. Het populaire op tarwe gebaseerd _No-knead_ brood geeft correct aan dat zelfs bij tarwe kneden geen vereiste is, zolang dat glutennetwerk maar wordt opgebouwd om voldoende volume te verkrijgen. Of je dit nu doet met intensief kneden, vouwen of met lange rijstijden - dat maakt helemaal niets uit. 
 
 Als je maar belooft het deeg nooit plat te slaan. Waarom die geliefde, moeizaam opgebouwde gassen er zo brutaal terug uit kloppen? 
 
 
-Als laatste nog iets over de bejubelde gezondheidsfactor van zuurdesembrood. Zoals besproken in deel II klopt het dat een sneetje zuurdesembrood minder suiker bevat dan een gemiddeld sneetje gistbrood. Wat echter niet klopt is dat dit sneetje gezonder brood dankzij micro-organismen ook probiotisch zou werken. Om dat te kunnen doen moeten levende organismen terecht komen in de darmen. Geen enkele gist of bacterie overleeft echter een hete oven van `250°C`. 
+Als laatste nog iets over de bejubelde gezondheidsfactor van zuurdesembrood. Zoals besproken in deel II klopt het dat een sneetje zuurdesembrood minder suiker bevat dan een gemiddeld sneetje gistbrood. Wat echter niet klopt is dat dit sneetje gezonder brood dankzij micro-organismen ook probiotisch zou werken. Om dat te kunnen doen moeten levende organismen de darmen binnendringen. Geen enkele gist of bacterie overleeft echter een hete oven van `250°C`. 
 
 Zelfs al wordt een deel van de cultuur levend geconsumeerd, dan nog is de kans klein dat ze de helse omgeving van maagzuur overleven [@anal2007recent]. Dat geldt ook voor probiotica zoals kombucha, kvass en yoghurt. 
 

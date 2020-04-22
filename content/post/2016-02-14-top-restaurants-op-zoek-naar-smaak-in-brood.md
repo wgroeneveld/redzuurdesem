@@ -31,7 +31,7 @@ Het idee is ontstaan toen Dimitry Lysens, de chef-kok van Magis, een fermentatie
 
 &#8220;Er zijn nog een hoop dingen waar we meer controle over willen krijgen&#8221;, zegt Dimitry, terwijl hij zijn kamut broden vormt en in mandjes plaatst. &#8220;De koelkast van het restaurant staat op 1-2°C, het brood rijst veel moeilijker zo. Ik kan het niet maken om dit hoger te zetten vanwege vlees en we hebben nog geen aparte koelkast&#8221;. Brood wat ik thuis bak laat ik bijvoorbeeld een nacht rijzen op 7°C, maar dat is natuurlijk mijn eigen koelkast, en ik heb geen restaurant.
   
-&#8220;We bakken de broden nu in Le Creuset potten met goed resultaat, maar we willen naar 36 broden per keer gaan.&#8221; Hij liet me hun nieuwe oven zien waar ze nu test broden in bakken. &#8220;Plaats is een beetje een probleem, het moet nog allemaal op zijn pootjes terecht komen. Tocht is afschuwelijk hier, ik kan de dampkap niet afzetten met koken&#8230;&#8221;
+&#8220;We bakken de broden nu in Le Creuset potten met goed resultaat, maar we willen naar 36 broden per keer gaan.&#8221; Hij liet me hun nieuwe oven zien waar ze nu test broden in bakken. &#8220;Plaats is een beetje een probleem, het moet nog allemaal op zijn pootjes terechtkomen. Tocht is afschuwelijk hier, ik kan de dampkap niet afzetten met koken&#8230;&#8221;
 
 Het brood dat ik proefde, hun kamut versie, was geweldig lekker en zat vol van smaak. Het was heel romig, volledig gegelatineerd vanbinnen met grote gaatjes, wat wijst op gebruik van veel water, iets wat ze ongetwijfeld gedeeltelijk van Chad hebben overgenomen. Een ander brood wat gebruikt wordt bij de lunch menu&#8217;s van Bis is het pumpernickel brood met gekiemde granen, tjokvol energie.
 
