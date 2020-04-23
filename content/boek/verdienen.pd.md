@@ -391,7 +391,7 @@ Februari 2014
 
 
 
-Het '_Puratos Center for Bread Flavour_' ligt in Duitstalig België, in een klein heuvelachtig dorpje genaamd Saint-Vith. De naam van het centrum belooft alvast veel. Ik werd er hartelijk ontvangen door Karl De Smedt, de communicatiemanager van de bakkerij afdeling. Karl reist heel de wereld rond op zoek naar nieuwe soorten zuurdesemculturen. Dit zijn mensen die uren kunnen blijven praten over bloem en gist. Ik was aan het juiste adres. 
+Het '_Puratos Center for Bread Flavour_' ligt in Duitstalig België, in een klein heuvelachtig dorpje genaamd Saint-Vith. De naam van het centrum belooft alvast veel. Ik werd er hartelijk ontvangen door Karl De Smedt, de communicatiemanager van de bakkerijafdeling. Karl reist heel de wereld rond op zoek naar nieuwe soorten zuurdesemculturen. Dit zijn mensen die uren kunnen blijven praten over bloem en gist. Ik was aan het juiste adres. 
 
 ‘Er zijn veel zuurdesem tradities over heel de wereld. De Grieken fermenteren hun desem met basilicum. In San Francisco werken ze met natte, warme desems. Die cultuur is uniek en bevat de melkzuurbacterie _Lactobacillus Sanfranciscensis_. In Alaska is het erg koud en werd desem vroeger tegen het lichaam gedragen. Lichaamstemperatuur geeft dan weer een andere bacteriecultuur. De omgevingsvariabelen samen met de bloem zorgen voor een unieke smaak’ vertelt Karl. Puratos stuurt mensen zoals Karl op ontdekkingstocht om nieuwe bacteriesoorten mee naar huis te brengen. 
 
