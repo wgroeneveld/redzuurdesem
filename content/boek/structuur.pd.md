@@ -244,7 +244,7 @@ De (alweer) Nederlandse schilder Job Adriaenszoon Berckheyde gooide het over een
 
 Job plaatst in tegenstelling tot zijn broer Gerrit de mens met zijn dagelijkse bezigheid binnenshuis[^binnensh]. Zo komen we in zijn werken regelmatig het interieur van de bakkerswinkel tegen, al dan niet met een kantklosster achter de toonbank. Vroeger blies de bakker op een hoorn om de dorpelingen aan te sporen zijn vers brood te kopen. Het opstoken van het vuur en de onvoorspelbare rijstijden van zuurdesem zijn in onze moderne tijd onder controle zodat we met een gerust hart om klokslag negen uur 's morgens kunnen aanschuiven. 
 
-[^binnensh]: Volgens de uitleg van het Worchester Art Museum, waar het stuk wordt tentoongesteld, opereerden handelaren uit de zeventiende eeuw, zoals deze bakker, vanuit zijn of haar eigen huis. Men denkt dat de zuilen in steen zijn afgebeeld om aan te geven dat bakkers in een stenen huis moesten wonen, vanwege het mogelijk brandgevaar van de houtoven.
+[^binnensh]: Volgens de uitleg van het Worchester Art Museum, waar het stuk wordt tentoongesteld, opereerden handelaren uit de zeventiende eeuw, zoals deze bakker, vanuit zijn eigen huis. Men denkt dat de zuilen in steen zijn afgebeeld om aan te geven dat bakkers in een stenen huis moesten wonen, vanwege het mogelijk brandgevaar van de houtoven.
 
 * * *
 

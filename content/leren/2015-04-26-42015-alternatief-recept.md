@@ -20,7 +20,7 @@ categories:
 
 **Zeer belangrijk**: bestudeer eerst het &#8220;[hoofdrecept artikel][2]&#8221; voor uitgesteld bakken!
 
-Wat als je een lichter brood wil bakken dan half volkoren, en toch nog de principes van uitgesteld bakken wenst toe te passen? Geen probleem, in dat geval kan je het recept lichtjes aanpassen en een zeer licht en smakelijk brood maken dat veel te snel weggewerkt zal worden vanwege de geweldige smaak.
+Wat als je een lichter brood wil bakken dan halfvolkoren, en toch nog de principes van uitgesteld bakken wenst toe te passen? Geen probleem, in dat geval kan je het recept lichtjes aanpassen en een zeer licht en smakelijk brood maken dat veel te snel weggewerkt zal worden vanwege de geweldige smaak.
   
 Het recept is een 90% tarwebloem brood met 68% hydratatie. Dit is zéér nat, dus je zal zeker de hulp van een rijsmandje en de koelkast kunnen gebruiken om het deeg te stabilizeren. Wanneer je dat niet doet, klapt het deeg snel in elkaar en zal het eerder een platte pannenkoek worden dan een mooie _boule_.
 

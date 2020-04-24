@@ -45,7 +45,7 @@ De bakkerij van Schoofs is uitstekend uitgerust met twee grote ovens, verschille
 
 ‘Ik stoom nooit. Stoom maakt alles kapot! Enkel bakken op de steen, op natuurlijke manier. Geen stoom. Zo krijg je een normale ovenrijs die de broden niet te zeer scheuren.’ Peter laat ons enkele gebakken broden zien die in de winkel achter de toog liggen. De afwezigheid van glans duidt inderdaad op geen stoom. Iedere bakker heeft een zekere stijl die je in alle gebakken broden terugvindt. Hij snijdt het deeg niet in voordat het in de oven gaat om het te laten openspringen, maar laat liever de natuur zijn gang gaan. 
 
-‘Ik maak roggebrood, desembrood, spelt, met zaden, zonder zaden, noem maar op. Iedereen heeft zo wel zijn of haar favoriet brood en je kan hier altijd wel iets kopen waar je je in kan vinden.’ Om zo’n grote variatie aan te kunnen bieden moet er iedere nacht worden doorgewerkt. Wij zijn alvast onder de indruk.
+‘Ik maak roggebrood, desembrood, spelt, met zaden, zonder zaden, noem maar op. Iedereen heeft zo wel zijn favoriet brood en je kan hier altijd wel iets kopen waar je je in kan vinden.’ Om zo’n grote variatie aan te kunnen bieden moet er iedere nacht worden doorgewerkt. Wij zijn alvast onder de indruk.
 
 ‘En wat is dit, Peter?’ vraagt Patrick terwijl hij wijst naar een grote hoeveelheid keramieken potten die opgeborgen staan. 
 

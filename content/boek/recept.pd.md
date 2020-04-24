@@ -227,7 +227,7 @@ De sterke smaak van een rogge zuurdesembrood wordt in Duitsland vaak gekoppeld m
 
 \label{valsspelen}
 
-Bakken met zuurdesem hoeft niet te betekenen dat commerciële varianten van gist moeten worden verafschuwd. Zoals we gezien hebben in deel I kunnen beide rijsmiddelen de perfecte combinatie vormen voor de drukbezette bakker die toch smaak wenst toe te voegen in zijn of haar deeg. Dit principe hanteer ik ook als ik zelf workshops van een halve dag geef, zoals het demonstratiebrood uit hoofdstuk \ref{demonstratiebrood}. 
+Bakken met zuurdesem hoeft niet te betekenen dat commerciële varianten van gist moeten worden verafschuwd. Zoals we gezien hebben in deel I kunnen beide rijsmiddelen de perfecte combinatie vormen voor de drukbezette bakker die toch smaak wenst toe te voegen in zijn deeg. Dit principe hanteer ik ook als ik zelf workshops van een halve dag geef, zoals het demonstratiebrood uit hoofdstuk \ref{demonstratiebrood}. 
 
 In tegenstelling tot veel 'beginners recepten voor zuurdesem' is het géén goed idee om hier onmiddellijk mee van start te gaan voordat voldoende broden met alleen maar desem zijn gebakken. Gist schudt immers je hele tijdsschema door elkaar. Zelfs de kleinste toevoeging van gedroogde korrelgist kan gecombineerd met lange rijstijden een fiasco betekenen. 
 
@@ -326,7 +326,7 @@ Tegenwoordig doe ik zelfs die moeite niet meer. Slechts één eetlepel van mijn 
 
 De mythe dat honderdjarige zuurdesemculturen beter zijn dan jonge desems wil ik ook graag de wereld uit helpen. Een aanbeveling die vooral terug te vinden is in oude literatuur, is de volgende: '_when someone offers you a half-cup (or even a spoonful) of sixty-year-old sourdough, take it._' [@alaskan]. Zuurdesem rijpt mettertijd, maar na stabilisatie van de symbiose gebeurt er niet zo veel, gegeven exact dezelfde opkweekmethode. 
 
-Toch is het gebruik van exact dezelfde ingrediënten, temperatuur en andere condities die de samenstelling van de cultuur beïnvloeden onmogelijk om over jaren heen vol te houden, zelfs door een gedisciplineerde bakker. Tot zover de legendarische kracht van eeuwenoude 'stabiele' zuurdesem. Wachten tot iemand je een beetje van zijn of haar (heel) oude cultuur geeft, is dus helemaal niet nodig. 
+Toch is het gebruik van exact dezelfde ingrediënten, temperatuur en andere condities die de samenstelling van de cultuur beïnvloeden onmogelijk om over jaren heen vol te houden, zelfs door een gedisciplineerde bakker. Tot zover de legendarische kracht van eeuwenoude 'stabiele' zuurdesem. Wachten tot iemand je een beetje van zijn (heel) oude cultuur geeft, is dus helemaal niet nodig. 
 
 Er bestaat nog veel verwarring rond het doel van kneden, hoelang er nu precies gekneed moet worden en of dat eigenlijk wel nodig is. De verklaarde werking van gluten in brooddeeg schept al wat orde. Het populaire op tarwe gebaseerd _No-knead_ brood geeft correct aan dat zelfs bij tarwe kneden geen vereiste is, zolang dat glutennetwerk maar wordt opgebouwd om voldoende volume te verkrijgen. Of je dit nu doet met intensief kneden, vouwen of met lange rijstijden - dat maakt helemaal niets uit. 
 

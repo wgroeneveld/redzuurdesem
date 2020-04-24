@@ -69,7 +69,7 @@ Februari 2016
 
 Bij te veel restaurants wordt goedkoop gistbrood geserveerd waarvan het zicht en de smaak afbreuk doet aan het eigenlijk gerecht. Wie kiest er nu voor een smaakloze 'afgebakken' _baguette_ bij zijn pasta als er veel betere opties beschikbaar zijn? Gaat je honger ook spontaan over als je een plat broodje krijgt voorgeschoteld dat 'ik ben smaakloos!' schreeuwt? Wegwerken met genoeg boter is een optie. In de betere restaurants, zoals de sterrenzaak Magis, zijn de verwachtingen veel hoger. 
 
-‘Ook gebeten door het zuurdesem virus heb ik gehoord?’ vraagt Johan terwijl we kennis maken. Zo zou je het kunnen noemen, ja. 
+‘Ook gebeten door het zuurdesemvirus heb ik gehoord?’ vraagt Johan terwijl we kennis maken. Zo zou je het kunnen noemen, ja. 
 
 ‘We willen voedzaam brood serveren. Brood met pit, met karakter. Zoals dit brood met kamut dat je lichaam helemaal zuivert!’ Johan overhandigt mij een stuk brood. Ik bevind mij op een vrijdagnamiddag in de bistro waar we afspraken om wat te praten over brood. 
 
@@ -519,7 +519,7 @@ Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een b
 
 Na het aantrekken van de nodige witte jassen en haarnetjes betreden we de bakkerij. Precies zoals vorige keer hangt in het hele centrum een aangename, complexe geur van gebakken gist. Heerlijk om zo elke dag op je werk toe te komen. Dat is iets heel anders dan de muffe geur van een slecht verlucht klaslokaal. Campusverantwoordelijken, gelieve hier noties van te nemen.
 
-Karl laat ons telkens `2 kg` bloem en `40 g` zout afwegen. We beginnen met het iconische Italiaans brood, waar een speciale soort zeer fijn gemalen durum tarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
+Karl laat ons telkens `2 kg` bloem en `40 g` zout afwegen. We beginnen met het iconische Italiaans brood, waar een speciale soort zeer fijngemalen durum tarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
 
 'Dit is gedroogde desem met toegevoegde gist, vitamine C en enzymen. Dat is natuurlijk niet hetzelfde als een vloeibare desem. In het droogproces gaan veel organismen verloren. Dit is een kant-en-klare oplossing voor een bakker die meer smaak wilt toevoegen, zonder van zijn gekend schema te moeten afwijken. Het is kiezen natuurlijk, begrijp je?' Wij knikken en wegen de aanbevolgen dosering van `4%` af. 
 

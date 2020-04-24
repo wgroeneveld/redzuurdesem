@@ -104,7 +104,7 @@ In die periode ontdekte ik op het internet een aantal blogs over brood bakken, e
 
 > _Simply mix all ingredients and let it rise at room temperature overnight._
 
-Dat klinkt inderdaad eenvoudig genoeg. Het ging over een half volkoren focaccia recept, dat ik diezelfde avond natuurlijk nog moest uitproberen. Een minieme hoeveelheid gist wordt toegevoegd aan een redelijk slap deeg dat ‘s nachts de tijd krijgt om zich volledig te ontwikkelen. 
+Dat klinkt inderdaad eenvoudig genoeg. Het ging over een halfvolkoren focaccia recept, dat ik diezelfde avond natuurlijk nog moest uitproberen. Een minieme hoeveelheid gist wordt toegevoegd aan een redelijk slap deeg dat ‘s nachts de tijd krijgt om zich volledig te ontwikkelen. 
 
 Vanaf het moment dat er ergens in mijn buurt deeg rijst, word ik enorm nerveus. Elk uur gaan kijken of alles nog leeft. Zijn die belletjes normaal? Staat het te koud of te warm? Moet ik nu verder gaan met de volgende stap, of nog wachten? Afwijken van het recept of blindelings volgen? Het lijkt een beetje op kijken naar een spannende film: wie weet hoe het einde eruit ziet. Snuif de geur eens op: is het te zuur? Of ruikt het nog naar niets? Druk er eens in. Blijft je vinger te lang hangen en is het te nat? Zit er genoeg druk op? Springt je vingerafdruk terug uit het deeg? Blijf vooral geconcentreerd, laat de aandacht niet verslappen! 
 

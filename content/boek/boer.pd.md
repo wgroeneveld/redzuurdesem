@@ -43,7 +43,7 @@ Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe di
 
 'Dan moet je je ook geen zorgen maken over oxidatie, neem ik aan.' 
 
-'Verkocht meel is versgemalen. De koper doet er dan mee wat hij of zij wilt. Of dat nu opslaan of onmiddellijk verwerken is, dat is mijn zorg niet. Ik heb het hier trouwens over groothandel, niet de kleine zakjes van `5 kg` die we aan particulieren verkopen.'
+'Verkocht meel is versgemalen. De koper doet er dan mee wat hij wilt. Of dat nu opslaan of onmiddellijk verwerken is, dat is mijn zorg niet. Ik heb het hier trouwens over groothandel, niet de kleine zakjes van `5 kg` die we aan particulieren verkopen.'
 
 'En het telen van spelt bijvoorbeeld, volgt dat hetzelfde proces?' 
 

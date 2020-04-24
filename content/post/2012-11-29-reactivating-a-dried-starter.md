@@ -23,7 +23,7 @@ Zuurdesembrood wordt gemaakt door een “_voordeeg”_ te maken, meestal een dag
 
 Er zijn “**stijve**” starters van 50 tot 60% hydratatie, en er zijn “**natte**” starters van 100% of 125% hydratatie. Dit gedroogd zuurdesem deel was oorspronkelijk 100% hydratatie. Het is eenvoudig om terug dit te bereiken, maar in principe kan je dat vrij kiezen. Natte starters worden ook wel “**poolish**” genoemd.
 
-<span style="text-decoration: underline;">Voeg een eetlepel water toe aan een koffielepel van het zuurdesem poeder. Meng dit goedje tot een waterige, witte substantie. Wacht enkele uren.</span>
+<span style="text-decoration: underline;">Voeg een eetlepel water toe aan een koffielepel van het zuurdesempoeder. Meng dit goedje tot een waterige, witte substantie. Wacht enkele uren.</span>
 
 ## Stap 2: kies bloem type en een hydratatie niveau
 

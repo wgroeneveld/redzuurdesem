@@ -47,7 +47,7 @@ Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkoren rogge en volkoren t
 <span style="font-weight: 600;">Einddeeg</span>
 
   * 500gr sterke witte tarwebloem (12,5-13% proteïne inhoud)
-  * 250gr volkoren tarwe meel (fijn gemalen)
+  * 250gr volkoren tarwe meel (fijngemalen)
   * 470gr water
   * 15gr zout
 
