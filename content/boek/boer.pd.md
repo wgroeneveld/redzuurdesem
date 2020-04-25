@@ -11,11 +11,11 @@
 Juni 2019
 \end{flushright}
 
-Ik ken de velden op de site van Herkenrode mijn hele leven, maar ik stond er nooit bij stil wat er precies wordt geteeld. Het geeft een speciaal gevoel om zelfgebakken brood te eten dat, buiten het Franse zout, honderd procent aan lokale ingrediënten bevat. En met lokaal bedoel ik _lokaal_: het graan groeit in vogelvlucht één kilometer van ons huis. Toen ik Pieter Coopmans, de Herkenrodeboer, leerde kennen, was de Stevoortse molen nog niet gecertificeerd en werd er dus noodgedwongen gemalen in Wallonië. Ondertussen zijn er van het proces heel wat onnodige kilometers afgeschraapt. 
+Ik ken de velden op de site van Herkenrode al mijn hele leven, maar ik stond er nooit bij stil wat er precies wordt geteeld. Het geeft een speciaal gevoel om zelfgebakken brood te eten dat, buiten het Franse zout, honderd procent aan lokale ingrediënten bevat. En met lokaal bedoel ik _lokaal_: het graan groeit in vogelvlucht op één kilometer van ons huis. Toen ik Pieter Coopmans, de Herkenrodeboer, leerde kennen, was de Stevoortse molen nog niet gecertificeerd en werd er dus noodgedwongen gemalen in Wallonië. Inmiddels zijn er heel wat onnodige kilometers uit het proces geschrapt. 
 
 Mijn bloem kocht ik jaren bij Pieter aan huis, waarbij we ondertussen een praatje maakten over (soms letterlijk) koetjes en kalfjes. Voor workshops bestelde ik er af en toe in grotere hoeveelheden. 
 
-Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe die tarwekorrel van zaadje tot fijngemalen bakmateriaal in mijn meelzak belandde. Omdat ik Pieter zijn kant van het verhaal beter wilde begrijpen, spraken we op een avond af om de koetjes en kalfjes achterwege te laten. 
+Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe die tarwekorrel van zaadje tot fijngemalen bakmateriaal in mijn meelzak belandde. Omdat ik Pieter zijn kant van het verhaal beter wilde begrijpen, spraken we op een avond af en werden de koetjes en kalfjes achterwege gelaten. 
 
 'Wat wil je weten, Wouter?' vraagt Pieter, terwijl hij me een lokaal appelsapje inschenkt. 
 
@@ -27,11 +27,11 @@ Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe di
 
 'Juist. Maar de grond mag niet te doorlatend zijn. De kleigrond van Zeeland is ideaal, bijvoorbeeld. En als biologische boer moet je je aan heel wat regeltjes houden op gebied van bemesting. De meeste andere boeren trekken zich daar niets van aan en spuiten op verschillende momenten vloeibare stikstof op het blad, samen met pesticiden. Of ze gebruiken capsules met een harslaag die na zoveel maanden pas de stoffen vrijgeeft. Dan heb je volledige controle en is alles heel wat eenvoudiger.' Pieter kruist zijn handen en vlijt zich in de zetel. 
 
-'Laat me je eens vertellen wat ik allemaal moet doen om een zak bloem te produceren. Om te beginnen moeten de akkers bemest worden. Dat komt van de boerderij in Lummen, en die moet ik eerst nog drie weken laten liggen en keren. Dan de bedding omploegen. Zaaien, en onkruid regelmatig bijhouden totdat de plantjes te groot zijn om door te rijden. Stro en graan oogsten en dorsen, en laten kuisen in Tongeren. Daarna opnieuw wegrijden naar de opslagruimte, waar het regelmatig wordt gecontroleerd op temperatuur en vochtigheid. Dan hebben we het nog niet over het malen gehad...' 
+'Laat me je eens vertellen wat ik allemaal moet doen om een zak bloem te produceren. Om te beginnen moeten de akkers bemest worden. Dat komt van de boerderij in Lummen, en die moet ik eerst nog drie weken laten liggen en keren. Dan de bedding omploegen. Zaaien en onkruid regelmatig bijhouden totdat de plantjes te groot zijn om tussendoor te rijden. Stro en graan oogsten en dorsen, en laten kuisen in Tongeren. Daarna opnieuw wegrijden naar de opslagruimte, waar het regelmatig gecontroleerd wordt op temperatuur en vochtigheid. Dan hebben we het nog niet over het malen gehad...' 
 
 'Waarom wordt niet alles onmiddellijk gemalen?' 
 
-'In Stevoort is er niet genoeg opslagruimte om bloem te bewaren, en wij mogen dat niet. De Voedselveiligheid is daar veel strenger rond dan de opslag van mijn oogst, omdat het om risico voedsel gaat.' 
+'In Stevoort is er niet genoeg opslagruimte om bloem te bewaren, en wij mogen dat niet. De voedselveiligheid is daar veel strenger over dan de opslag van mijn oogst, omdat het om risicovolle voeding gaat.' 
 
 'Hoezo?' 
 
@@ -41,17 +41,17 @@ Ondertussen kenden we elkaar, maar ik had nog steeds geen duidelijk beeld hoe di
 
 'Als je maar betaalt... Certificaten kosten geld. Wij malen gewoon op het moment dat er wordt besteld.' 
 
-'Dan moet je je ook geen zorgen maken over oxidatie, neem ik aan.' 
+'Dan moet je je ook geen zorgen maken over oxidatie, neem ik aan?' 
 
-'Verkocht meel is versgemalen. De koper doet er dan mee wat hij wilt. Of dat nu opslaan of onmiddellijk verwerken is, dat is mijn zorg niet. Ik heb het hier trouwens over groothandel, niet de kleine zakjes van `5 kg` die we aan particulieren verkopen.'
+'Verkocht meel is versgemalen. De koper doet er dan mee wat hij wil. Of dat nu opslaan of onmiddellijk verwerken is, dat is mijn zorg niet. Ik heb het hier trouwens over groothandel, niet de kleine zakjes van `5 kg` die we aan particulieren verkopen.'
 
 'En het telen van spelt bijvoorbeeld, volgt dat hetzelfde proces?' 
 
-'Wel', zegt Pieter nadat hij een slok van zijn appelsap had genomen, 'ja en neen. Om te beginnen is het zaad al véél duurder, wat zich natuurlijk ook vertaalt in de verkoopprijs. Spelt is vervelend om te dorsen. Het kafblad moet worden gepeld, waarbij het graan kan barsten. De korrel met kaf is groter dan tarwe, en verstopt daardoor regelmatig mijn zaaimachine. De tractor stoppen kost tijd, daar heb je eigenlijk twee mensen voor nodig. Soms zaaien we daardoor te veel op een hoopje. En de opbrengst is veel minder. Sommige rassen tarwe brengen tot acht ton per hectare op. Met spelt kom ik nauwelijks aan twee ton, begrijp je.' 
+'Wel', zegt Pieter nadat hij een slok van zijn appelsap nam, 'Ja en neen. Om te beginnen is het zaad al véél duurder, wat zich natuurlijk ook vertaalt in de verkoopprijs. Spelt is vervelend om te dorsen. Het kafblad moet worden gepeld, waarbij het graan kan barsten. De korrel met kaf is groter dan tarwe, en verstopt daardoor regelmatig mijn zaaimachine. De tractor stoppen kost tijd, daar heb je eigenlijk twee mensen voor nodig. Soms zaaien we daardoor te veel op een hoopje. En de opbrengst is veel minder. Sommige tarwerassen brengen tot acht ton per hectare op. Met spelt kom ik nauwelijks aan twee ton, begrijp je.' 
 
 'Maar dat is omdat ze tarwe selectief telen op zo'n eigenschappen.' 
 
-'Denk je dat ze dat met spelt niet doen? Er wordt geselecteerd op grootte van de korrel, eiwitgehalte, lengte van stro, resistentie tegen van alles en nog wat, noem maar op. Sommige tarwerassen brengen zo binnen de vijf jaar bijna het dubbele op, voor dezelfde oppervlakte. Ik kruis zelf ook wat. Dingen door elkaar zaaien, maar niet overdrijven.'
+'Denk je dat ze dat met spelt niet doen? Er wordt geselecteerd op grootte van de korrel, eiwitgehalte, lengte van stro, resistentie tegen van alles en nog wat, noem maar op. Sommige tarwerassen brengen zo binnen de vijf jaar bijna het dubbele op voor dezelfde oppervlakte. Ik kruis zelf ook wat. Dingen door elkaar zaaien, maar niet overdrijven.'
 
 * * *
 
@@ -67,21 +67,21 @@ Spelt (_Triticum spelta_) wordt ook wel een oergraan genoemd en is daardoor tege
 
 De échte oergranen zijn emmer of tweekoren (_Triticum dicoccum_) en eenkoorn (_Triticum monococcum_). Emmer deelt de `AABB` genomen met 'harde' durumtarwe (_Triticum durum_) en khorasantarwe (_Triticum turanicum_). Dat laatste is bij ons gekend als 'Kamut', een variant waar in 1990 een patent op is genomen door twee slimme Amerikaanse boeren met commercieel inzicht [@brester2009marketing]. 
 
-Spelt is ontstaan door emmer, waar ook een kafblad aan vastzit, te kruisen met wild geitengras, dat het genoom `DD` bijdraagt. Het wordt tegenwoordig met tarwe gekruist om een hogere opbrengst en homogeniteit te garanderen, wat resulteert in onzuivere rassen. Wees dus niet zo naïef door te denken dat speltbloem zoveel beter is. De beste oplossing voor een betere vertering is niet een bepaald graan, maar een trage en dus langere vergisting. 
+Spelt is ontstaan door emmer, waar ook een kafblad aan vastzit, te kruisen met wild geitengras, dat het genoom `DD` bijdraagt. Het wordt tegenwoordig met tarwe gekruist om een hogere opbrengst en homogeniteit te garanderen, wat resulteert in onzuivere rassen. Wees dus niet zo naïef door te denken dat speltbloem zoveel beter is. De beste oplossing voor een betere vertering is niet een bepaald graan, maar een trage en dus langere gisting. 
 
-Emmer en eenkoorn worden nog nauwelijks geteeld. Manuele selectie van emmer kruisingen leidden tot een gemakkelijker te dorsen graan: _durum_. Durumtarwe is het de facto pasta graan, en in de vorm van brood nog steeds populair in het Middellandse zeegebied. Het is de op een na meest geteelde soort tarwe, ook al vertegenwoordigt het slechts `10%` van de totale productie. Durum bevat typisch meer eiwitten dan tarwe.
+Emmer en eenkoorn worden nog nauwelijks geteeld. Manuele selectie van emmer kruisingen leidden tot een gemakkelijker te dorsen graan: _durum_. Durumtarwe is het de facto pasta graan, en in de vorm van brood nog steeds populair in het Middellandse Zeegebied. Het is de op een na meest geteelde tarwesoort, ook al vertegenwoordigt het slechts `10%` van de totale productie. Durum bevat doorgaans meer eiwitten dan tarwe.
 
-De helpende hand van manuele selectie heeft een grote invloed op de biologische samenstelling van modern graan. Oudere, en dus minder intensief gekruiste graansoorten, bevatten over het algemeen meer mineralen, vetten en vitaminen. Er zijn echter weinig studies die deze zogezegde gezondheidsvoordelen kunnen hard maken. 
+De helpende hand van manuele selectie heeft een grote invloed op de biologische samenstelling van modern graan. Oudere, en dus minder intensief gekruiste graansoorten, bevatten over het algemeen meer mineralen, vetten en vitaminen. Er zijn echter weinig studies die deze zogezegde gezondheidsvoordelen hard kunnen maken. 
 
-Daar zijn een aantal redenen voor, volgens onderzoekers Shewry en Hey. Ten eerste worden oude tarwesoorten meestal gekweekt in organische of traditionele landbouwsystemen, terwijl moderne tarwesoorten meestal worden gekweekt met het oog op opbrengst, waardoor ze moeilijker te vergelijken zijn. Ten tweede is het noodzakelijk om voldoende aantallen te analyseren die op meerdere locaties zijn gekweekt. Hun conclusie toont weinig verschil in samenstelling, behalve carotenoïden die kleur aan de bloem geven[^concl] [@shewry2015ancient]. 
+Volgens onderzoekers Shewry en Hey zijn daar een aantal redenen voor. Ten eerste worden oude tarwesoorten meestal gekweekt in organische of traditionele landbouwsystemen, terwijl moderne tarwesoorten meestal worden gekweekt met het oog op opbrengst, waardoor ze moeilijker te vergelijken zijn. Ten tweede is het noodzakelijk om voldoende aantallen te analyseren die op meerdere locaties zijn gekweekt. Hun conclusie toont weinig verschil in samenstelling, behalve carotenoïden die kleur aan de bloem geven[^concl] [@shewry2015ancient]. 
 
-Zoals gewoonlijk manen wetenschappelijke publicaties ons tot voorzichtigheid, in plaats van één graansoort als dé oplossing te beschouwen. Wat ik hier vooral uit concludeer is dat de manier waarop graan wordt geteeld minstens even belangrijk is als de soort. 
+Zoals gewoonlijk manen wetenschappelijke publicaties ons aan tot voorzichtigheid in plaats van één graansoort als dé oplossing te beschouwen. Wat ik hier vooral uit concludeer is dat de manier waarop graan wordt geteeld minstens even belangrijk is als de soort. 
 
-[^concl]: Het spreekt voor zich dat elke graansoort zijn eigen karakteristieke smaak heeft. Spelt is heeft een zoete nootachtige smaak die iets subtieler is dan het gele durum. Kamut wordt daan weer ervaren als boterachtig.
+[^concl]: Het spreekt voor zich dat elke graansoort zijn eigen karakteristieke smaak heeft. Spelt heeft een zoete nootachtige smaak die iets subtieler is dan het gele durum. Kamut wordt dan weer ervaren als boterachtig.
 
 * * *
 
-'En hoe zit dat dan precies met winter- en zomertarwe, Pieter? Brengt het ene meer op als het andere?' Ik wist dat sommige soorten granen beter gedijen in bepaalde seizoenen, en dat wintertarwe het meeste eiwitten oplevert. 
+'En hoe zit het dan precies met winter- en zomertarwe, Pieter? Brengt het ene meer op dan het andere?' Ik wist dat sommige graansoorten beter gedijen in bepaalde seizoenen, en dat wintertarwe het meeste eiwitten oplevert. 
 
 'Wintertarwe moet het echt koud hebben en wordt in de herfst gezaaid. Die brengt het meeste op. Die langere periode kan je met zomertarwe onmogelijk nog inhalen. Dat staat al tien centimeter hoog in het vroege voorjaar. Het probleem is dat ik daar met mijn tractor niet meer door kan om te bemesten of je loopt het gevaar de plantjes kapot te rijden. Dan moet je dus sproeien, en dat mag ik niet. Ik plant dus praktisch gezien liever zomertarwe.' 
 
@@ -301,7 +301,7 @@ Ik knik. '_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welk
 
 'Banaan?' Ik trok een vies gezicht. 
 
-'Banaan, ja. Als je dat ruikt, dan weet je, ze hebben die soort gist gebruikt.' Wetenschappers vermoeden dat gisten zulke _esters_, een chemische klasse van organische verbindingen, produceren om insecten aan te trekken, die zorgen voor verdere verspreiding van de gisten [@saerens2010production]. Een bepaalde ester genaamd '_Ethylbutyraat_' is verantwoordelijk voor de banaan-achtige geur. 
+'Banaan, ja. Als je dat ruikt, dan weet je, ze hebben dat soort gist gebruikt.' Wetenschappers vermoeden dat gisten zulke _esters_, een chemische klasse van organische verbindingen, produceren om insecten aan te trekken, die zorgen voor verdere verspreiding van de gisten [@saerens2010production]. Een bepaalde ester genaamd '_Ethylbutyraat_' is verantwoordelijk voor de banaan-achtige geur. 
 
 'Maar je kweekt geen gisten zelf op, vanaf nul, zoals ik met mijn desem doe?' Ik nam een flinke slok van mijn appelsap. Lekker, minder zuur dan ik verwachtte. Misschien geen goed idee in combinatie met de frieten die ook nog aan het fermenteren zijn in mijn maag. 
 

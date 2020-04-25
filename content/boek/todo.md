@@ -1,4 +1,27 @@
 
+## 04/2020
+
+### Schrijffouten (tot p122)
+
+- 'Dat zou geschikt moeten zijn om te brouwen.' -> 'Dat geschikt zou moeten zijn' volgens https://www.taaltelefoon.be/werkwoordvolgorde-werkwoordsvolgorde-werkwoorden-volgorde ? Begin zin? Te complex, dat zou het moeten doen?
+
+- kwaliteit foto deel III: hogere resolutie!
+- p100 +tijd? te bekijken
+
+### Referenties
+
+- https://www.taaltelefoon.be/hij-hij-of-zij
+- https://www.taaltelefoon.be/aaneenschrijven-15-woordgroep-of-samenstelling
+- http://anw.inl.nl/article/deeg#el:bet1.0
+- https://taaladvies.net/taal/advies/- tekst/114/wel_of_geen_spaties_voor_en_na_leestekens_en_symbolen_algemeen/#7 - ok, geen bezwaar bij spatie eenheid en geen spatie graden
+- https://onzetaal.nl/taaladvies/bezits-s-algemene-regels/ bezit 's niet afkappen 
+
+> Wanneer gebruik je deze, die, dit of dat? Bij de keuze tussen deze, die, dit en dat spelen diverse factoren een rol: Verwijs je naar een de-woord of een meervoud, dan is deze of die juist. Verwijs je naar een het-woord of naar iets onbepaalds, dan is dit of dat juist.Apr 10, 2014
+
+### Reclame TODO
+
+- Ann? 
+
 ## 03/2020
 
 [X] Spatiëring voorzien met * * *
@@ -10,10 +33,10 @@
 [X] Appendix aanvullen
 [X] "Figuur ..." weg bij captions?
 [X] Tabel labels: 'tabel 21' moet 'tabel 2.1' worden.
-[ ] Grafieken test-printen, zijn die te klein?
-[ ] Voorblad fatsoeneren; ISBN/uitgever/... 
+[X] Grafieken test-printen, zijn die te klein?
+[X] Voorblad fatsoeneren; ISBN/uitgever/... 
 [X] Omslagontwerp
-[ ] Voorwoord Dimitri
+[X] Voorwoord Dimitri
 [X] Dankwoord
 
 ## 2019
@@ -29,7 +52,7 @@ HIGH PRIO
 [X] Synopsis voor indienen bij uitgeverijen
 [X] Recept einde HF: boer-molenaar-brouwer HF6; draf/bierbrood
 [X] Recept einde HF: echte leerschool HF5; pizza! 
-[X] Recept einde HF: dagelijks brood verdienen HF7; Altamura brood
+[X] Recept einde HF: dagelijks brood verdienen HF7; Altamura-brood
 
 Betrokken partijen:
 
@@ -84,14 +107,14 @@ MEDIUM PRIO
 [X] Quote bij verdienen toevoegen
 [X] Nadenken over subtitels datums, wijzigen?
 [Z] Goedkeuring schilderij, Worcester Art Museum => herinnering gestuurd
-[ ] Formule tabellen consequent doen (doeltemp, totale tijd, ... - layouting?)
+[X] Formule tabellen consequent doen (doeltemp, totale tijd, ... - layouting?)
 
 LOW PRIO
 
 [X] Alle boeken titels in zelfde '' of italics
 [X] graden in °C zonder spatie?
-[ ] Voorwoord (pas na inzending)
-[ ] Dankwoord (pas na inzending)
+[X] Voorwoord (pas na inzending)
+[X] Dankwoord (pas na inzending)
 [X] Layouting '
 
 ' overal goed zetten

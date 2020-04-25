@@ -83,7 +83,7 @@ Het moeilijkste aan Peter zijn systeem lijkt me het deeg uit de grote mengkom te
 
 * * *
 
-Wij bewonderen Peter allemaal omwille van zijn carrièreswitch en volharding die nodig is om elke nacht zo goed als alleen die honderden broden uit de oven te halen. We zijn stiekem een beetje jaloers op hem. De meeste leerlingen van de avondschool aanschouwen bakken als een hobby waar ooit meer van kan komen, terwijl de studenten van de dagopleiding zich inschrijven met de intentie om effectief professionele bakker te worden. Het zeurende gevoel van de dagelijkse werksleur zit er bij ons nog goed in en het vooruitzicht om exact hetzelfde nog jaren te doen tot aan het pensioen maakt het er niet bepaald vrolijker op. Op dit punt klinkt een omschakeling naar bakker heel romantisch en we vragen de bakker naar zijn ervaringen toen hij pas die keuze maakte. 
+Wij bewonderen Peter allemaal omwille van zijn carrière-switch en volharding die nodig is om elke nacht zo goed als alleen die honderden broden uit de oven te halen. We zijn stiekem een beetje jaloers op hem. De meeste leerlingen van de avondschool aanschouwen bakken als een hobby waar ooit meer van kan komen, terwijl de studenten van de dagopleiding zich inschrijven met de intentie om effectief professionele bakker te worden. Het zeurende gevoel van de dagelijkse werksleur zit er bij ons nog goed in en het vooruitzicht om exact hetzelfde nog jaren te doen tot aan het pensioen maakt het er niet bepaald vrolijker op. Op dit punt klinkt een omschakeling naar bakker heel romantisch en we vragen de bakker naar zijn ervaringen toen hij pas die keuze maakte. 
 
 ‘Veel werkwijzen en recepten heb ik zelf moeten uitzoeken. Het heeft me bloed, zweet, tranen en jaren keihard werken gekost om te geraken waar ik nu ben - en ik ben nog steeds niet tevreden. Je moet blijven verbeteren en kritisch kijken naar je eigen werk. Het is keihard werken, ‘s nachts in een kelder met artificieel licht. Ik snak naar daglicht en vakantie, maar die dingen moet je leren gedeeltelijk op te geven. Ik heb in die jaren verschillende keren gedacht om er volledig mee te stoppen.’ Hij kijkt ons alle drie een tijdje aan en we worden er stil van. 
 
@@ -217,7 +217,7 @@ De gesprekken inspireerden mij om te blijven verder oefenen met zuurdesem en ler
 * Een winkeltje dat gespecialiseerde natuurlijke producten verkoopt is een goede aanvulling op een biologische bakkerij. 
 * De vraag naar zulke natuurlijke alternatieven zit stevig in de lift. 
 * Een _partner in crime_ zorgt voor de noodzakelijke motivatie tijdens de goede en minder goede momenten als eigenaar van een bakkerij. 
-* Een carrièreswitch van iets technologisch naar iets ambachtelijks komt blijkbaar vaak voor. Is dat nu bemoedigend of ontmoedigend? 
+* Een carrière-switch van iets technologisch naar iets ambachtelijks komt blijkbaar vaak voor. Is dat nu bemoedigend of ontmoedigend? 
 
 \newpage
 

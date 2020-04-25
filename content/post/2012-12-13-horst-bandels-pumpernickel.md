@@ -71,7 +71,7 @@ Er is een traditie in brood bakken dat het gebruik van oud brood in een nieuwe b
 
 **125gr gehakte rogge bessen**
 
-Dit is heel simpel: hak de rogge besjes gewoonweg zelf, in zo klein mogelijke stukjes. (Dit zijn NIET de gekookte bessen!) Ik heb dit geprobeerd met de keuken machine maar dat maalde alles tot meel in plaats van in kleine stukjes. Zorg ervoor dat je deze gehakte stukken ook een nacht weekt zodat ze wat zachter worden, want zo een rogge zaadje is enorm hard voor de tanden, zelfs na lang bakken&#8230;
+Dit is heel simpel: hak de roggebesjes gewoonweg zelf, in zo klein mogelijke stukjes. (Dit zijn NIET de gekookte bessen!) Ik heb dit geprobeerd met de keuken machine maar dat maalde alles tot meel in plaats van in kleine stukjes. Zorg ervoor dat je deze gehakte stukken ook een nacht weekt zodat ze wat zachter worden, want zo een roggezaadje is erg hard voor de tanden, zelfs na lang bakken&#8230;
 
 ### Einddeeg
 

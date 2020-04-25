@@ -10,7 +10,7 @@
 September 2014
 \end{flushright}
 
-‘Ja mensen! Laten we eraan beginnen, want het is _pompen_ vandaag! Als iemand alle grondstoffen afweegt en iemand het sandwich deeg draait in de spiraalmixer, kan de rest de taartvormpjes bekleden.’ We bevinden ons in de kelders van het Syntra gebouw te Hasselt. De bakkerij ligt naast de slagerij, tegenover de cafetaria. 
+‘Ja mensen! Laten we eraan beginnen, want het is _pompen_ vandaag! Als iemand alle grondstoffen afweegt en iemand het sandwichdeeg draait in de spiraalmixer, kan de rest de taartvormpjes bekleden.’ We bevinden ons in de kelders van het Syntra-gebouw te Hasselt. De bakkerij ligt naast de slagerij, tegenover de cafetaria. 
 
 ‘Hoe moet dat weer, sandwiches?’ vraagt iemand. 
 
@@ -46,7 +46,7 @@ In één les wordt er natuurlijk meer dan één gebak gemaakt. Voordat we daaraa
 
 ‘Ik leg liever al doende uit dan aan het bord. Dan zien jullie ook wat er moet gebeuren en zo verliezen we geen kostbare tijd.’ Hij laat ons zien hoe we het deeg makkelijk uit de snelkneder halen en hoe het kan worden verdeeld met een deegsteker. 
 
-‘Ghislain! Help!’ Aan die kreet wen je heel snel op een vrijdagavond. Als het ene groepje aan het worstelen is met het sandwich deeg, dan is het andere groepje waarschijnlijk pudding aan het laten aanbranden of room tot boter aan het kloppen. Het is een spelletje ping-pong, waarbij de leraar constant van het ene probleem naar het andere moet lopen. Gelukkig daalt het aantal problemen per avond naargelang de jaren verstrijken en wij de nodige basistechnieken onder de knie krijgen. 
+‘Ghislain! Help!’ Aan die kreet wen je heel snel op een vrijdagavond. Als het ene groepje aan het worstelen is met het sandwichdeeg, dan is het andere groepje waarschijnlijk pudding aan het laten aanbranden of room tot boter aan het kloppen. Het is een spelletje ping-pong, waarbij de leraar constant van het ene probleem naar het andere moet lopen. Gelukkig daalt het aantal problemen per avond naargelang de jaren verstrijken en wij de nodige basistechnieken onder de knie krijgen. 
 
 * * *
 
@@ -54,7 +54,7 @@ Het eerste jaar is echt spannend: er zijn zoveel nieuwe dingen om te ontdekken. 
 
 Dan heb ik het nog niet gehad over de magistrale uitroltafel die wordt gebruikt om `5 kg` bladerdeeg in een handomdraai te fabriceren. 
 
-De bergen afwas die er elke avond bij kwam kijken wekte iets minder enthousiasme op. 
+De gigantische stapel afwas die er elke avond bij kwam kijken wekte iets minder enthousiasme op. 
 
 \begin{figure}[h]
     \centering
@@ -95,7 +95,7 @@ De bakkerij vult zich met een zoete geur van gebakken suiker, boter, melk en bro
 
 [^5]: Tocht en koelkasten zorgen er beiden voor dat deeg heel snel uitdroogt. Uitgedroogde lapjes deeg zijn verkorst, en rijzen in de oven door die korst minder goed. Onze oplossing, buiten de deur dichthouden, was het rijzende deeg te bedekken met grote stukken plastic folie.
 
-Achteraf bekeken is dat de voornaamste reden waarom de groep zo naar elkaar toe groeide: we hadden een gedeeld doel. De _pateeks_[^patee] verdelen zonder slaande ruzie is daar het mooiste bewijs van. Ik werkte toen overdag als softwareontwikkelaar ook in teamverband. Onze gedeelde verantwoordelijkheid was een groot softwarepakket. Die samenwerking verliep ook intens, maar op één of andere manier maakte het (veel) minder indruk op mij dan samen in de keuken of bakkerij te zwoegen. Ik kan een aantal mogelijke redenen bedenken als oorzaak voor dat gevoel. Afhankelijk van het bedrijf en soort van software, sta je als ontwikkelaar niet nauw in contact met eindgebruikers. Een bakker heeft meestal verkopers in dienst om dit werkje op te knappen, maar toch is dat gevoel  onmiskenbaar aanwezig. De relatie tussen een bakker en zijn klanten is naar mijn beleving veel hechter dan tussen een programmeur en gebruiker van dat programma. Je zal in ieder geval sneller horen dat een klant niet tevreden is over je brioche werk dan over je programmeerwerk. Dat stuk eierschaal in het deeg komt je dan ook sneller duur te staan dan die paar bugs in de code. 
+Achteraf bekeken is dat de voornaamste reden waarom de groep zo naar elkaar toe groeide: we hadden een gedeeld doel. De _pateeks_[^patee] verdelen zonder slaande ruzie is daar het mooiste bewijs van. Ik werkte toen overdag als softwareontwikkelaar ook in teamverband. Onze gedeelde verantwoordelijkheid was een groot softwarepakket. Die samenwerking verliep ook intens, maar op één of andere manier maakte het (veel) minder indruk op mij dan samen in de keuken of bakkerij te zwoegen. Ik kan een aantal mogelijke redenen bedenken als oorzaak voor dat gevoel. Afhankelijk van het bedrijf en soort van software, sta je als ontwikkelaar niet nauw in contact met eindgebruikers. Een bakker heeft meestal verkopers in dienst om dit werkje op te knappen, maar toch is dat gevoel  onmiskenbaar aanwezig. De relatie tussen een bakker en zijn klanten is naar mijn beleving veel hechter dan tussen een programmeur en gebruiker van dat programma. Je zal in ieder geval sneller horen dat een klant niet tevreden is over je brioche-werk dan over je programmeerwerk. Dat stuk eierschaal in het deeg komt je dan ook sneller duur te staan dan die paar bugs in de code. 
 
 [^patee]: Een in Limburg graag gebruikt woord als alternatief voor Frans gebakje, taartje of pasteitje. 
 

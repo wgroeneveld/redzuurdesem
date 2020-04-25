@@ -9,10 +9,10 @@ al2fb_facebook_image_id:
   - 660
 al2fb_facebook_excerpt:
   - |
-    Pane di Altamura is een van die speciale broden die regio gebonden is - het heeft een speciale status verdiend binnen (en buiten) Italië. Ik had nog een recept liggen uit "Local Breads" waar Mr. Leader een heel hoofdstuk aan het speciale brood en zijn afkomst gewijd heeft. Alleen is er een probleempje: het is niet zo gemakkelijk om aan durum tarwe bloem te geraken. Griesmeel, geen probleem - wij eten allemaal graag pap, net als onze Noorderburen. Maar durum tarwe is fijngemalen griesmeel en wordt veel voor pasta's (en ook broden in fijnere vorm) gebruikt. En toen ontdekte ik een aantal kleine Italiaanse specialiteiten zaakjes, die een hele hoop geïmporteerde lekkernijen verkopen. Van speciale regionale kazen tot honderden types biscotti - en jup, speciale melen inclusief durum tarwe en "00" bloem. Hoera, let's get baking!
+    Pane di Altamura is een van die speciale broden die regio gebonden is - het heeft een speciale status verdiend binnen (en buiten) Italië. Ik had nog een recept liggen uit "Local Breads" waar Mr. Leader een heel hoofdstuk aan het speciale brood en zijn afkomst gewijd heeft. Alleen is er een probleempje: het is niet zo gemakkelijk om aan durumtarwe bloem te geraken. Griesmeel, geen probleem - wij eten allemaal graag pap, net als onze Noorderburen. Maar durumtarwe is fijngemalen griesmeel en wordt veel voor pasta's (en ook broden in fijnere vorm) gebruikt. En toen ontdekte ik een aantal kleine Italiaanse specialiteiten zaakjes, die een hele hoop geïmporteerde lekkernijen verkopen. Van speciale regionale kazen tot honderden types biscotti - en jup, speciale melen inclusief durumtarwe en "00" bloem. Hoera, let's get baking!
 al2fb_facebook_text:
   - |
-    Pane di Altamura is een van die speciale broden die regio gebonden is - het heeft een speciale status verdiend binnen (en buiten) Italië. Ik had nog een recept liggen uit "Local Breads" waar Mr. Leader een heel hoofdstuk aan het speciale brood en zijn afkomst gewijd heeft. Alleen is er een probleempje: het is niet zo gemakkelijk om aan durum tarwe bloem te geraken. Griesmeel, geen probleem - wij eten allemaal graag pap, net als onze Noorderburen. Maar durum tarwe is fijngemalen griesmeel en wordt veel voor pasta's (en ook broden in fijnere vorm) gebruikt. En toen ontdekte ik een aantal kleine Italiaanse specialiteiten zaakjes, die een hele hoop geïmporteerde lekkernijen verkopen. Van speciale regionale kazen tot honderden types biscotti - en jup, speciale melen inclusief durum tarwe en "00" bloem. Hoera, let's get baking!
+    Pane di Altamura is een van die speciale broden die regio gebonden is - het heeft een speciale status verdiend binnen (en buiten) Italië. Ik had nog een recept liggen uit "Local Breads" waar Mr. Leader een heel hoofdstuk aan het speciale brood en zijn afkomst gewijd heeft. Alleen is er een probleempje: het is niet zo gemakkelijk om aan durumtarwe bloem te geraken. Griesmeel, geen probleem - wij eten allemaal graag pap, net als onze Noorderburen. Maar durumtarwe is fijngemalen griesmeel en wordt veel voor pasta's (en ook broden in fijnere vorm) gebruikt. En toen ontdekte ik een aantal kleine Italiaanse specialiteiten zaakjes, die een hele hoop geïmporteerde lekkernijen verkopen. Van speciale regionale kazen tot honderden types biscotti - en jup, speciale melen inclusief durumtarwe en "00" bloem. Hoera, let's get baking!
 al2fb_facebook_url_param_name:
   - lang
 al2fb_facebook_url_param_value:
@@ -27,7 +27,7 @@ categories:
   - recipes
 
 ---
-<figure id="attachment_660" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-660" title="helder en zonnig met durum tarwe" alt="helder en zonnig met durum tarwe" src="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg" width="300" height="220" srcset="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-700x515.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">helder en zonnig met durum tarwe</figcaption></figure> 
+<figure id="attachment_660" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-660" title="helder en zonnig met durumtarwe" alt="helder en zonnig met durumtarwe" src="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg" width="300" height="220" srcset="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-700x515.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">helder en zonnig met durumtarwe</figcaption></figure> 
 
 # Italiaanse zonneschijn: durm tarwe gebruiken
 
@@ -39,14 +39,14 @@ categories:
 > 
 > By law, it must produced as to a range of demands, including particular varieties of wheat, certain specification of water and production method, and then have a final crust over 3mm in thickness, shape tends not to be important.
 
-Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een heel hoofdstuk aan het speciale brood en zijn afkomst gewijd heeft. Alleen is er een probleempje: het is niet zo gemakkelijk om aan durum tarwe bloem te geraken. Griesmeel, geen probleem &#8211; wij eten allemaal graag pap, net als onze Noorderburen. Maar durum tarwe is fijngemalen griesmeel en wordt veel voor pasta&#8217;s (en ook broden in fijnere vorm) gebruikt.
+Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een heel hoofdstuk aan het speciale brood en zijn afkomst gewijd heeft. Alleen is er een probleempje: het is niet zo gemakkelijk om aan durumtarwe bloem te geraken. Griesmeel, geen probleem &#8211; wij eten allemaal graag pap, net als onze Noorderburen. Maar durumtarwe is fijngemalen griesmeel en wordt veel voor pasta&#8217;s (en ook broden in fijnere vorm) gebruikt.
 
 
 <p><a href="http://lh4.ggpht.com/-Jraz-DIR0eM/Uf_pZAQI2tI/AAAAAAAAAGM/n6KEBgUyCRQ/s1024/_MG_9127.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697851907070674" title="" ><img src="http://lh4.ggpht.com/-Jraz-DIR0eM/Uf_pZAQI2tI/AAAAAAAAAGM/n6KEBgUyCRQ/w400-o/_MG_9127.JPG" alt="_MG_9127.JPG" title="" class="alignleft pe2-photo"  /></a> <a href="http://lh3.ggpht.com/-RoSYy83owIo/Uf_paCZzzPI/AAAAAAAAAGU/jrU-rq3uY20/s1024/_MG_9128.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697869664374002" title="" ><img src="http://lh3.ggpht.com/-RoSYy83owIo/Uf_paCZzzPI/AAAAAAAAAGU/jrU-rq3uY20/w400-o/_MG_9128.JPG" alt="_MG_9128.JPG" title="" class="alignleft pe2-photo"  /></a></p>
 
 <p class="clear">
   <p>
-    En toen ontdekte ik een aantal kleine Italiaanse specialiteiten zaakjes, die een hele hoop geïmporteerde lekkernijen verkopen. Van speciale regionale kazen tot honderden types biscotti &#8211; en jup, speciale melen inclusief durum tarwe en &#8220;00&#8221; bloem. Hoera, let&#8217;s get baking!
+    En toen ontdekte ik een aantal kleine Italiaanse specialiteiten zaakjes, die een hele hoop geïmporteerde lekkernijen verkopen. Van speciale regionale kazen tot honderden types biscotti &#8211; en jup, speciale melen inclusief durumtarwe en &#8220;00&#8221; bloem. Hoera, let&#8217;s get baking!
   </p>
   
   <h1>
@@ -54,7 +54,7 @@ Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een 
   </h1>
   
   <p>
-    Er is eigenlijk niet zo veel speciaals rond dit zuurdesem brood qua methode, behalve misschien één ding: durum tarwe gedraagd zich heel wat anders dan de conventionele witte tarwebloem &#8211; het zal <strong>veel meer water opnemen dan je gewend bent!</strong>. Behandel het dus als het bakken van een volkoren brood. Ik eindigde met een hydratatie niveau van <strong>70%</strong>, en vond dat het gemakkelijk de hoogte in gejaagd kon worden tot 75 of zelfs 80% (al weet ik niet of je dat nog met de hand gaat kunnen kneden&#8230;). Mijn versie kwam niet te nat uit, ik had het liever iets vochtiger gehad.
+    Er is eigenlijk niet zo veel speciaals rond dit zuurdesem brood qua methode, behalve misschien één ding: durumtarwe gedraagd zich heel wat anders dan de conventionele witte tarwebloem &#8211; het zal <strong>veel meer water opnemen dan je gewend bent!</strong>. Behandel het dus als het bakken van een volkoren brood. Ik eindigde met een hydratatie niveau van <strong>70%</strong>, en vond dat het gemakkelijk de hoogte in gejaagd kon worden tot 75 of zelfs 80% (al weet ik niet of je dat nog met de hand gaat kunnen kneden&#8230;). Mijn versie kwam niet te nat uit, ik had het liever iets vochtiger gehad.
   </p>
   
   <p>
@@ -63,10 +63,10 @@ Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een 
   
   <ol>
     <li>
-      <span style="line-height: 15px;">200gr zuurdesemstarter, gemaakt van mijn volrogge desem met durum tarwe, 12h op voorhand, @ 100%</span>
+      <span style="line-height: 15px;">200gr zuurdesemstarter, gemaakt van mijn volrogge desem met durumtarwe, 12h op voorhand, @ 100%</span>
     </li>
     <li>
-      500gr durum tarwe
+      500gr durumtarwe
     </li>
     <li>
       320gr water

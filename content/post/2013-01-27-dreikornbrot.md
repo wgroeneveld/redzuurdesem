@@ -55,7 +55,7 @@ Einddeeg
 
 Het recept is gebaseerd op de versie van Mr. Daniel Leader in het boek &#8220;local breads&#8221;. Hij gebruikt ook nog eens verse gist wat wij uiteraard weigeren, daardoor moet het brood relatief lang rijzen. Merk op dat er slechts 50gr voordeeg aan de pas komt en dat is relatief weinig in vergelijking met andere zuurdesembroden. **Geef het dus voldoende rust**!
 
-Afhankelijk van wat je wenst te bereiken kan je héél lang kneden voor maximum gluten ontwikkeling, of net lang genoeg. Hoe langer je kneed, hoe meer het een &#8220;sandwich deeg&#8221; wordt, dat een zachte eindstructuur heeft maar niet zo open gaat zijn. Rustieke broden worden minder lang gekneed.<figure id="attachment_578" style="width: 300px" class="wp-caption aligncenter">
+Afhankelijk van wat je wenst te bereiken kan je héél lang kneden voor maximum gluten ontwikkeling, of net lang genoeg. Hoe langer je kneed, hoe meer het een &#8220;sandwichdeeg&#8221; wordt, dat een zachte eindstructuur heeft maar niet zo open gaat zijn. Rustieke broden worden minder lang gekneed.<figure id="attachment_578" style="width: 300px" class="wp-caption aligncenter">
 
 [<img class="size-medium wp-image-578" title="_MG_8140" src="https://redzuurdesem.be/wp-content/uploads/2013/01/MG_8140-300x200.jpg" alt="De doorsnede" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/01/MG_8140-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/01/MG_8140-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/01/MG_8140.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption class="wp-caption-text">De doorsnede</figcaption></figure> 
 

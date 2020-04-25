@@ -475,7 +475,7 @@ De kers op de taart is natuurlijk de bibliotheek in het Puratos Center. Dit is g
 \end{figure}
 
 
-Elke koelkast is netjes versierd met een plaatje dat de origine, het soort bloem en de onderhoudsmethode beschrijft. Sommige desems zijn heel vloeibaar, maar de meesten zijn vaster. De luchtbellen en het verschil in kleur van de bloem zorgt voor een fraai schouwspel. Veel Italiaanse desems verklappen de samenwerking met een Italiaanse professor. De gouden kleur van harde durum tarwe is leuker om naar te kijken dan saaie gebleekte bloem. 
+Elke koelkast is netjes versierd met een plaatje dat de origine, het soort bloem en de onderhoudsmethode beschrijft. Sommige desems zijn heel vloeibaar, maar de meesten zijn vaster. De luchtbellen en het verschil in kleur van de bloem zorgt voor een fraai schouwspel. Veel Italiaanse desems verklappen de samenwerking met een Italiaanse professor. De gouden kleur van harde durumtarwe is leuker om naar te kijken dan saaie gebleekte bloem. 
 
 ‘Betekent dit dat jullie elke dag deze desems moeten verversen?’ Karl schudt zijn hoofd. 
 
@@ -503,7 +503,7 @@ Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een b
 
 'En, wat willen jullie bakken?' vraagt Karl ons. 
 
-'Dat Altamura brood waar we het vorige keer over hadden, dat zou ik eens graag willen maken. Maar dat gaat niet zonder die Italiaanse bloem, zeker?' Karl glimlacht breed. 
+'Dat Altamura-brood waar we het vorige keer over hadden, dat zou ik eens graag willen maken. Maar dat gaat niet zonder die Italiaanse bloem, zeker?' Karl glimlacht breed. 
 
 'Natuurlijk gaat dat! Jullie zijn hier bij Puratos hé, hier gaat alles. We zullen straks eens kijken of er nog genoeg _in stock_ is. En wat nog?' Ik keek naar Dimitri, die niet onmiddellijk iets kon verzinnen. 
 
@@ -519,7 +519,7 @@ Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een b
 
 Na het aantrekken van de nodige witte jassen en haarnetjes betreden we de bakkerij. Precies zoals vorige keer hangt in het hele centrum een aangename, complexe geur van gebakken gist. Heerlijk om zo elke dag op je werk toe te komen. Dat is iets heel anders dan de muffe geur van een slecht verlucht klaslokaal. Campusverantwoordelijken, gelieve hier noties van te nemen.
 
-Karl laat ons telkens `2 kg` bloem en `40 g` zout afwegen. We beginnen met het iconische Italiaans brood, waar een speciale soort zeer fijngemalen durum tarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
+Karl laat ons telkens `2 kg` bloem en `40 g` zout afwegen. We beginnen met het iconische Italiaans brood, waar een speciale soort zeer fijngemalen durumtarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
 
 'Dit is gedroogde desem met toegevoegde gist, vitamine C en enzymen. Dat is natuurlijk niet hetzelfde als een vloeibare desem. In het droogproces gaan veel organismen verloren. Dit is een kant-en-klare oplossing voor een bakker die meer smaak wilt toevoegen, zonder van zijn gekend schema te moeten afwijken. Het is kiezen natuurlijk, begrijp je?' Wij knikken en wegen de aanbevolgen dosering van `4%` af. 
 
@@ -531,7 +531,7 @@ Na een grondige windowpane test verdelen we het deeg in vier. Het deeg is plakke
 
 'Dat is nu wat ze _Velvet_ noemen, mannen' glundert Karl. Fluweelzacht deeg dat aangenaam is om mee te werken. Het gevolg van lang en intensief kneden, dat deze harde tarwesoort gemakkelijk kan doorstaan. 
 
-'We gaan dat even laten rusten en in de koeling zetten tot morgen om verder te vormen en dan onmiddellijk te bakken.' Het met DOP[^dop] beschermde Altamura brood is alles behalve zuur en rijst dan ook veel korter dan mijn tarwe boerenbrood. De tweede dag bakten we het een uur op `240°C`. Dit brood heeft een dikke korst die een romige, dichte gele structuur verbergt, ondanks de grote hoeveelheid water. 
+'We gaan dat even laten rusten en in de koeling zetten tot morgen om verder te vormen en dan onmiddellijk te bakken.' Het met DOP[^dop] beschermde Altamura-brood is alles behalve zuur en rijst dan ook veel korter dan mijn tarwe boerenbrood. De tweede dag bakten we het een uur op `240°C`. Dit brood heeft een dikke korst die een romige, dichte gele structuur verbergt, ondanks de grote hoeveelheid water. 
 
 [^dop]: Een '_Denominazione di Origine Protetta_' certificaat, ofwel een bescherming van oorsprong, bepaalt dat producten lokaal gekweekt en verpakt worden. IGP, of '_Indicazione Geografica Protetta_', is een ander label dat minder strikt is. Bekende DOP producten zijn Balsamico (di Moderna), San Marzano tomaten, en uiteraard Parmezaanse kaas. 
 
@@ -630,7 +630,7 @@ Als afscheidscadeau duikt Karl de opslagruimte in om een zak `25 kg` durum bloem
 
 De baguettes belegd met een karaktervolle kaas waren simpelweg heerlijk. Zoals verwacht gaf de rogge in de vloeibare desem meer pit dat ik altijd op prijs stel. 
 
-Het goudgele Altamura brood had dankzij de durum tarwe een nootachtige, granige smaak die de O-Tentic verder onderstreepte, hetzij iets te weinig naar mijn zin. Het kruim was vast, egaal, en enorm zacht: perfect voor degenen die van sneetjes brood houden. 
+Het goudgele Altamura-brood had dankzij de durumtarwe een nootachtige, granige smaak die de O-Tentic verder onderstreepte, hetzij iets te weinig naar mijn zin. Het kruim was vast, egaal, en enorm zacht: perfect voor degenen die van sneetjes brood houden. 
 
 Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Canadese bloem de taaiheid veroorzaakte en de ingekorte eerste rijstijd het gebrek aan smaak. 
 
@@ -658,7 +658,7 @@ Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Can
 
 \newpage
 
-### Altamura brood
+### Altamura-brood
 
 \label{altamurabrood}
 
@@ -672,7 +672,7 @@ Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen
 | `740 g`    | `74%`      | Water                           |
 | `20 g`     | `2%`       | Grijs zeezout                   |
 
-Table: Formule voor gouden Altamura brood met _Triticum durum_. \label{tabledurum}
+Table: Formule voor gouden Altamura-brood met _Triticum durum_. \label{tabledurum}
 
 Waarvan voor het voordeeg (`20%`):
 

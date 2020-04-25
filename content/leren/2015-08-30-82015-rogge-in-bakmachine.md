@@ -30,7 +30,7 @@ Dit fenomeen is problematisch bij een broodbak machine omdat de kneedhaak bijna 
 
 ### Hoe bak ik in een voorverwarmde oven?
 
-Een volgende probleem waar je tegen botst, is het hoog water gehalte van dit brood deeg. Doordat het deeg (&#8220;beslag&#8221; is accurater in dit geval) zo veel water bevat, moeten we twee dingen aanpassen:
+Een volgende probleem waar je tegen botst, is het hoog water gehalte van dit brooddeeg. Doordat het deeg (&#8220;beslag&#8221; is accurater in dit geval) zo veel water bevat, moeten we twee dingen aanpassen:
 
   1. Veel langer bakken zodat het kruim voldoende gevormd wordt
   2. In een goed voorverwarmde oven het brood bakken.

@@ -241,32 +241,32 @@ Dimitri en Patrick kwamen me die middag een hart onder de riem steken. Het druks
 
 > Als ik naar de trucjes kijk van de keuken, leer ik ook veel bij over smaken en complexiteit toevoegen aan gerechten. De oven wordt veel gebruikt om groenten te roosteren. Echt alles wordt geroosterd: voorbereidingswerk! Thermomix sauzen en afwerken met spuitbussen. Eigen bouillons met gedroogde groenten. Gefermenteerde dingen als smaakmakers: kimchi, gedroogde zuurkool, melkkefir room, ... Ook chutney’s. Altijd smaakmakers gebruiken! Gebruik alles van groenten zoals bloemkoolbladeren. Hergebruik overschotjes zoals cake: drogen en als crumble in ijs verwerken. Reduceren en pureren om smaken te concentreren. _Prep-werk_ is alles: alles klaar hebben doet veel.
 
-Sarah liet me zien hoe het volkoren roggebrood gemaakt wordt. Het zit tjokvol zaden en volle granen die eerst geweekt en gekiemd worden. Een intensief proces om op zo’n schaal uit te voeren. Dankzij de warmte van de bakkerij worden de sluitingsdagen gebruikt om de zaal om te bouwen in een grote incubator, waar de rogge zaadjes de kans krijgen om te kiemen. 
-Ik kwam ook te weten dat de hoeveelheid water van elk deeg dagelijks wijzigt, gebaseerd op de bevindingen van de ervaren bakkers. De laatste oogst van de bloem verdraagt plots minder water. Hoe verser de bloem gemalen is, hoe minder water hij opneemt[^water]. De meeste bloem bij De Superette wordt binnen de 2 tot 3 weken na het malen gebruikt. Ook de eerste en tweede rijs wijzigt dagelijks van duur. Vandaag wordt het brood een vol uur langer gerezen, door de plotse daling van buitentemperatuur die inspeelt op de binnentemperatuur van de bakkerij. Het is dus een kwestie van _voelen_, en niet van voorschriften volgen! Om hier telkens juist over te kunnen oordelen moet je zoiets jaren doen. 
+Sarah liet me zien hoe het volkoren roggebrood gemaakt wordt. Het zit tjokvol zaden en volle granen die eerst geweekt en gekiemd worden. Een intensief proces om op zo’n schaal uit te voeren. Dankzij de warmte van de bakkerij worden de sluitingsdagen gebruikt om de zaal om te bouwen in een grote incubator, waar de roggezaadjes de kans krijgen om te kiemen. 
+Ik kwam ook te weten dat de hoeveelheid water van elk deeg dagelijks wijzigt, gebaseerd op de bevindingen van de ervaren bakkers. De laatste oogst van de bloem verdraagt plots minder water. Hoe verser de bloem gemalen is, hoe minder water hij opneemt[^water]. De meeste bloem bij De Superette wordt binnen de 2 tot 3 weken na het malen gebruikt. Ook de eerste en tweede rijs wijzigt dagelijks van duur. Vandaag wordt het brood een heel uur langer gerezen, door de plotse daling van buitentemperatuur die inspeelt op de binnentemperatuur van de bakkerij. Het is dus een kwestie van _voelen_, en niet van voorschriften volgen! Om hier telkens juist over te kunnen oordelen moet je zoiets jaren doen. 
 
-Om de volgende dag sneller van start te kunnen gaan, wordt bloem op voorhand afgewogen, en in zakken in de mixer gelegd[^gelegd]. Kleine optimalisaties als dit doorvoeren zorgt ervoor dat de bakkerij in zijn geheel vlotter blijft draaien. Sophia leerde me om tussendoor de koelkast op orde te brengen en alles netjes te labelen. Iedereen die tussen de opdrachten door even tijd heeft, vult die tijd nuttig op door zoiets te doen. Dat is iets heel anders dan doelloos te surfen naar nieuwtjes op Facebook.
+Om de volgende dag sneller van start te kunnen gaan, wordt bloem op voorhand afgewogen, en in zakken in de mixer gelegd[^gelegd]. Kleine optimalisaties doorvoeren zorgt ervoor dat de bakkerij in zijn geheel vlotter blijft draaien. Sophia leerde me om tussendoor de koelkast op orde te brengen en alles netjes te labelen. Iedereen die tussen de opdrachten door even tijd heeft, vult die tijd nuttig op door zoiets te doen. Dat is iets heel anders dan doelloos te surfen naar nieuwtjes op Facebook.
 
-[^gelegd]: Een tweede belangrijke reden om dit te doen is de bloem op kamertemperatuur laten komen. 
+[^gelegd]: Een tweede belangrijke reden hiervoor is om de bloem op kamertemperatuur te laten komen. 
 [^water]: Hoe verser de gemalen granen, hoe meer vocht ze nog bevatten, dus hoe minder water ze kunnen bij opnemen. 
 
 * * *
 
-Ook op vrije dagen reed ik terug naar huis. Na verschillende rotslechte nachten door de stress en een slechte matras, keek ik er toch naar uit om in mijn eigen bed te kunnen slapen. Ik heb jammer genoeg de stad Gent zelf nauwelijks kunnen verkennen. Als ik nog fit genoeg zou zijn na mijn shift (_ha!_), was het al pikkedonker, en de gure novembermaand bracht elke dag regen. 
-In alle eerlijkheid: er waren ook minder leuke momenten. Een klein stemmetje dat ‘wat doe jij hier eigenlijk?’ in mijn hoofd fluistert tijdens het dweilen. De zoveelste opmerking van mijn begeleiders dat ik opnieuw moet beginnen omdat het resultaat niet aan de hoge vereisten voldoet. Het gevoel te hebben meer in de weg te lopen dan een bijdrage te kunnen leveren. Voor de derde keer de gezouten karamel laten aanbranden. Sarah haar ironische opmerkingen hielpen soms:
+Ook op vrije dagen reed ik terug naar huis. Na verschillende rotslechte nachten dankzij de stress en een slechte matras, keek ik er toch naar uit om in mijn eigen bed te kunnen slapen. Ik heb jammer genoeg de stad Gent zelf nauwelijks kunnen verkennen. De gure novembermaand bracht elke dag regen, en ook al zou ik nog fit genoeg zijn na mijn shift (_ha!_), buiten was het al donker. 
+In alle eerlijkheid: er waren ook minder leuke momenten. Een klein stemmetje dat ‘wat doe jij hier eigenlijk?’ in mijn hoofd fluistert tijdens het dweilen. De zoveelste opmerking van mijn begeleiders dat ik opnieuw moet beginnen omdat het resultaat niet aan de hoge vereisten voldoet. Het gevoel hebben meer in de weg te lopen dan een bijdrage te kunnen leveren. Voor de derde keer de gezouten karamel laten aanbranden. Sarah haar ironische opmerkingen hielpen niet altijd:
 
 > '_... Okay, we fucked this up. Yup, it's definitely fucked._'
 
-Ruwweg vertaald als: 'Gooi weg. Probeer opnieuw. Sneller!' Uiteindelijk leerde ik veel meer over mensen dan over brood. ‘_The world is your oyster_’ zei Rose. Het is een attitude, een levenskunst, om op een bepaalde positieve manier met situaties om te kunnen gaan. Ik heb er nog niet veel kaas van gegeten, ook al heb ik deze twee weken veel kaas geraspt. Het team van De Superette is ongelofelijk. De intense krachtige ervaring heeft mijn levensvisie voorgoed veranderd. Een van de meest aangrijpende hoofdstukken uit Ryan Murdock zijn reisverslag is een scène die zich afspeelt op een strand, waarin Ryan beschrijft hoe intens hij dat moment met vrienden had meegemaakt. Er gebeurde... niets. Het was gewoon een moment, gedeeld met anderen. Geen bijbedoelingen, geen adrenaline kicks van het avontuur, geen achtervolging in de jungle, geen eindeloos op weg zijn. Gewoon het moment van samen zijn voelen. Reizen is maar reizen. Alleen als je samen momenten beleeft, voelt het alsof je echt leeft. Dat heb ik in Gent ook gevoeld. 
-Ik heb het geluk gehad om tot dit besef te komen zonder de wereld te moeten rondreizen zoals Ryan. Het is misschien oneerlijk om die situaties met elkaar te vergelijken, maar dankzij zijn boek ben ik er wel meer over gaan nadenken. Het enige waar ik echt spijt van heb is het moment zelf niet meer met het moment zelf bezig te zijn. Zoiets besef je pas achteraf natuurlijk. 
+Ruwweg vertaald als: 'Gooi weg. Probeer opnieuw. Sneller!' Uiteindelijk leerde ik veel meer over mensen dan over brood. ‘_The world is your oyster_’ zei Rose. Het is een attitude, een levenskunst, om op een bepaalde positieve manier met situaties om te kunnen gaan. Ik heb er nog niet veel kaas van gegeten, ook al heb ik deze twee weken veel kaas geraspt. Het team van De Superette is ongelofelijk. De intense, krachtige ervaring heeft mijn levensvisie voorgoed veranderd. Een van de meest aangrijpende hoofdstukken uit Ryan Murdock zijn reisverslag is een scène die zich afspeelt op een strand, waarin Ryan beschrijft hoe intens hij dat moment met vrienden had meegemaakt. Er gebeurde... niets. Het was gewoon een moment, gedeeld met anderen. Geen bijbedoelingen, geen adrenaline-kick van het avontuur, geen achtervolging in de jungle, geen eindeloos onderweg zijn. Gewoon het moment van samenzijn voelen. Reizen is maar reizen. Alleen als je samen momenten beleeft, voelt het alsof je echt leeft. Dat heb ik in Gent ook gevoeld. 
+Ik heb het geluk gehad om tot dit besef te komen zonder de wereld te moeten rondreizen zoals Ryan. Het is misschien oneerlijk om die situaties met elkaar te vergelijken, maar dankzij zijn boek ben ik er wel meer over gaan nadenken. Het enige waar ik echt spijt van heb is dat ik niet voldoende heb genoten van het moment zelf. Zoiets besef je pas achteraf natuurlijk. 
 
-En Sarah zei dat ik het toch goed overleefd had. 
+En Sarah zei dat ik het toch goed had overleefd. 
 
-‘Je werkt heel methodisch en kan goed multitasken. Dat zijn essentiële eigenschappen als bakker.’ Ze knikt goedkeurend. Wekkers die constant aflopen die aandacht eisen tussen het maken van verschillende degen door - het is inderdaad een kwestie van uw hoofd erbij te houden. Ik word gevleid met de vraag of ik het zie zitten om af en toe in het weekend bij te springen, maar sla het vriendelijk af. Eerst wat ik hier heb geleerd verwerken. En misschien terug wat niksen. Het is verleidelijk. 
-Eenmaal thuis duurde het maanden om het avontuur volledig te vatten. Het kostte me eerlijk gezegd wat moeite om mijn dagelijks leven terug op te pikken. Er leek geen dynamiek te zitten in mijn huidig werk, in vergelijking met het avontuur in Gent. Ik begon nog meer dan anders te fantaseren over een eigen bakkerij. 
+‘Je werkt heel methodisch en kan goed multitasken. Dat zijn essentiële eigenschappen van een bakker.’ Ze knikt goedkeurend. Wekkers die constant aflopen en aandacht eisen tussen het maken van verschillende degen door - het is inderdaad een kwestie van uw hoofd erbij te houden. Ik word gevleid door de vraag of ik het zie zitten om af en toe in het weekend bij te springen, maar sla het vriendelijk af. Eerst wat ik hier heb geleerd verwerken. En misschien terug wat niksen. Het is verleidelijk. 
+Eenmaal thuis duurde het maanden om het avontuur volledig te vatten. Het kostte me eerlijk gezegd wat moeite om mijn dagelijks leven terug op te pikken. Vergeleken met het avontuur in Gent leek er geen dynamiek te zitten in mijn werk als softwareontwikkelaar. Ik begon nog meer dan anders te fantaseren over een eigen bakkerij. 
 
 > _'Ge moet het graag doen om het graag te doen.'_
 
-Maar voordat ik daar aan toe was moest ik Sarah’s advies opvolgen, door mijn relaties met boer en molenaar te versterken. Ik wist ondertussen wat ik met bloem kon doen, maar nog niet echt waar het vandaan kwam en hoe het werd gemalen. 
+Maar voordat ik daar aan toe was, moest ik Sarahs advies opvolgen, door mijn relaties met boer en molenaar te versterken. Ik wist ondertussen wat ik met bloem kon doen, maar nog niet echt waar het vandaan kwam en hoe het werd gemalen. 
 
 Het was tijd om uit te zoeken wat vruchtbare grond doet met tarwezaadjes. 
 
@@ -274,30 +274,30 @@ Het was tijd om uit te zoeken wat vruchtbare grond doet met tarwezaadjes.
 
 ### Wat ik heb geleerd
 
-* De temperatuur beïnvloedt nog steeds de rijstijd, maar ook omgekeerd: hoe kouder, hoe trager. 
+* De temperatuur beïnvloedt nog steeds de rijstijd, en kan ook vertragend werken: hoe kouder, hoe trager. 
 * De absolute minimale hoeveelheid tijd van bloem tot _smaakvol_ brood is subjectief en kan gaan tot meer dan 30 uur. 
 * Technieken als autolyse en _double hydration_[^double] vereenvoudigen het hanteren van een nat deeg.
 * Gebruik nooit bloem dat fijner is gezeefd dan `T65`, ook niet voor taarten of cakes.
 * Werken in de horeca is zwaar, en niet alleen fysiek. Dit is onmogelijk in woorden uit te drukken. Om een idee te hebben hoe zwaar, vraag je best een stage aan. 
-* Werken in de horeca is ook ongezond. Ik heb nog nooit op zo'n onregelmatige tijdstippen, en met zo'n snelheid, eten naar binnen geschrokt.
+* Werken in de horeca is ook ongezond. Ik heb nog nooit op zo'n onregelmatige tijdstippen, en met zo'n snelheid eten naar binnen gewerkt.
 * De beste manier om groenten te bereiden is ze te roosteren.
-* Koken, en ja, ook bakken, doe je op gevoel, niet op recept. 
+* Koken - en ja, ook bakken - doe je op gevoel, niet op recept. 
 * Een gedeelde passie voor goed voedsel kweekt een geweldig team. 
 * Er bestaan wel degelijk bakkerijen die begaan zijn met zowel de kwaliteit van hun producten, als de kwaliteit van de producten die ze verwerken. Je moet alleen goed zoeken.
 * Neem de tijd om mensen te leren kennen.
 
 [^double]: Het deeg in feite twee keer hydrateren, door na een korte kneed- en rustfase meer water toe te voegen. 
 
-### Pizza deeg
+### Pizzadeeg
 
 
 
-Mijn meest dierbare herinneringen aan De Superette hebben niets te maken met brood, maar met pizza. Elke zaterdagavond was het _pizza night_. Om in de sfeer te komen werden geroosterde champignons ingelegd, een half kaaswiel met de hand geraspt (door de stagair), olijventapenade met een ongezonde hoeveelheid look gemaakt, en deegballen een dag op voorhand gekneed om ze de kans te geven genoeg smaak te ontwikkelen. Als er zondag nog deeg over was, gebruikten we die om een variant van platbrood te bakken. Die extra dag geeft het gerecht nog meer smaak, ook al draagt het niet de iconische naam 'pizza'. 
+Mijn meest dierbare herinneringen aan De Superette hebben niets te maken met brood, maar met pizza. Elke zaterdagavond was het _pizza night_. Om in de sfeer te komen werden geroosterde champignons ingelegd, een half kaaswiel met de hand geraspt (door de stagiair), olijventapenade met een ongezonde hoeveelheid look gemaakt, en deegballen een dag op voorhand gekneed om ze de kans te geven voldoende smaak te ontwikkelen. Als er op zondag nog deeg over was, gebruikten we die om een variant van platbrood te bakken. Die extra dag geeft het gerecht nog meer smaak, ook al draagt het niet de iconische naam 'pizza'. 
 De korte maar intense baktijd geeft de knisperige korst zijn kenmerkende structuur en houdt het kruim zacht. Een luchtige _cornicione_ (korstrand) bereiken zonder de korst te hard te bakken is iets waar _pizzaiolo's_ naar streven. 
 
 Wat is het verschil tussen pizzadeeg en brooddeeg? Dat is een strikvraag. Er is helemaal geen verschil, de principes zijn identiek. Zeg dit nooit tegen een Italiaan, want die zal bij hoog en bij laag beweren dat het hem om de speciale zachte _Tipo `00`_ bloem te doen is, of om dat geutje (uiteraard Italiaanse) toegevoegde olijfolie. Dat zijn slechts details die formule per formule verschillen. Het allerbelangrijkste principe, de controle van fermentatie, is een gemeenschappelijk doel voor brood en pizza. Elke op tarwe gebaseerde formule zal een smakelijk gerecht produceren, of het nu wordt gebakken als brood of wordt platgeslagen en belegd als pizza. 
 
-De volgende formule is samen met het Altamura brood uit hoofdstuk \ref{altamurabrood} een van de favorieten van ons gezin.
+De volgende formule is samen met het Altamura-brood uit hoofdstuk \ref{altamurabrood} een van de favorieten van ons gezin.
 
 | Hoeveelheid | Percentage | Beschrijving         |
 |------------:|-----------:|:---------------------|
@@ -325,8 +325,8 @@ Methode:
 
 Het crèmekleurige `T65` gecombineerd met een klein beetje meel geeft voldoende smaak zonder het beleg te overweldigen. Weeg bij het vormen stukjes af van ongeveer `230 g` die geolied in een container kunnen rusten tot er wordt gebakken. 
 
-Ik hou van pizza met een dunne bodem maar dikke korstrand. Het is een kwestie van bewuste keuzes maken tijdens het beleggen om dat te kunnen bereiken. Te veel beleg geeft te veel vocht af, wat de kansen op een krokante bodem verkleint. Peter Reinhart schrijft in zijn liefdesverklaring voor pizza, _American Pie_, een goede tip wat dat betreft: '_the rule of three_' [@reinhartpizza]. Beleg maximum drie verschillende dingen. Je mag zelf kiezen of je de saus meetelt of niet. 
+Ik hou van pizza met een dunne bodem maar dikke korstrand. Het is een kwestie van bewuste keuzes maken tijdens het beleggen om dat te kunnen bereiken. Te veel beleg geeft te veel vocht af, wat de kansen op een krokante bodem verkleint. Peter Reinhart schrijft in zijn liefdesverklaring voor pizza, _American Pie_, een goede tip wat dat betreft: '_the rule of three_' [@reinhartpizza]. Beleg met maximum drie verschillende ingrediënten. Je mag zelf kiezen of je de saus meetelt of niet. 
 
-Deze formule is perfect om op vrijdag te beginnen, om op zaterdagavond te kunnen bakken. Het is echter nog beter als je de deegballejes een dag later uit de koelkast haalt, zoals het zondagse platbrood van De Superette. 
+Deze formule is perfect om op vrijdag te beginnen, en op zaterdagavond te kunnen bakken. Het is echter nog beter als je de deegballetjes een dag later uit de koelkast haalt, zoals het zondagse platbrood van De Superette. 
 
-Klassieke pizza deeg recepten worden vaak gerezen met een minimale hoeveelheid aan gist in plaats van desem, waarna het gekoelde deeg gedurende een paar dagen de kans heeft om smaak te ontwikkelen. Ik vind het echter zonde om mijn potje met desem niet boven te halen. Eender welk excuus is goed genoeg.
+In klassieke pizzadeeg recepten wordt vaak een minimale hoeveelheid gist gebruikt als rijsmiddel in plaats van desem, waarna het gekoelde deeg gedurende een paar dagen de kans heeft om smaak te ontwikkelen. Ik vind het echter zonde om mijn potje met desem niet boven te halen. Eender welk excuus is goed genoeg.
