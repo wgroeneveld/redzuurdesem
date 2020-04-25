@@ -299,7 +299,7 @@ Ik knik. '_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welk
 
 'Ha,' zei Gert, 'dat hangt van de biersoort af die je wilt brouwen hé. Ik koop in Brouwland[^brwl] een soort van twee-componenten pakketje aan dat ik opkweek. Dat is die vloeibare gist. Het ene component bevat de gisten, het andere de voeding voor de organismen. Elk pakket is specifiek voor een soort bier, gaande van een gewoon licht blond biertje tot iets Westmalle-achtig met het aroma van banaan.' 
 
-'Banaan?' Ik trok een vies gezicht. 
+'Banaan?' Ik trok een bedenkelijk gezicht. 
 
 'Banaan, ja. Als je dat ruikt, dan weet je, ze hebben dat soort gist gebruikt.' Wetenschappers vermoeden dat gisten zulke _esters_, een chemische klasse van organische verbindingen, produceren om insecten aan te trekken, die zorgen voor verdere verspreiding van de gisten [@saerens2010production]. Een bepaalde ester genaamd '_Ethylbutyraat_' is verantwoordelijk voor de banaan-achtige geur. 
 

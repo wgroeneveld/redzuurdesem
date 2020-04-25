@@ -106,7 +106,7 @@ De tweede reden waarom het woordgebruik van Venturi's team interessant is, heeft
 
 Het is ongelofelijk moeilijk om exact te kunnen verwoorden wat onze zintuigen waarnemen. Dit verschilt zelfs van persoon tot persoon. Onze ogen registreren vormen en kleuren, waar een culturele consensus over heerst. Op die manier kunnen wij communiceren met anderen, en weten zij waar wij het over hebben. Als het op geuren aankomt wordt die oefening plots heel wat moeilijker. 
 
-Tijdens de proeverijen in de Champagne streek uit hoofdstuk \ref{intermezzo} sprak men soms over een _animale geur_ in de wijn. Ik trok onmiddellijk een vies gezicht. Een verkeerde reactie, zo bleek achteraf. Blijkbaar zijn zeer gewaardeerde wijnen bekend om hun geur naar kattenpis, natte hond of stal. Het probleem met woorden is dat ze voor interpretatie vatbaar zijn. Gelukkig kwam het beeld in mijn hoofd toen ik _animaal_ hoorde niet overeen met de smaak waar de wijnkenners onder ons op doelen. 
+Tijdens de proeverijen in de Champagne streek uit hoofdstuk \ref{intermezzo} sprak men soms over een _animale geur_ in de wijn. Ik trok onmiddellijk een bedenkelijk gezicht. Een verkeerde reactie, zo bleek achteraf. Blijkbaar zijn zeer gewaardeerde wijnen bekend om hun geur naar kattenpis, natte hond of stal. Het probleem met woorden is dat ze voor interpretatie vatbaar zijn. Gelukkig kwam het beeld in mijn hoofd toen ik _animaal_ hoorde niet overeen met de smaak waar de wijnkenners onder ons op doelen. 
 
 * * *
 
