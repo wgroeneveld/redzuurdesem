@@ -3,9 +3,9 @@
 *.log
 **/*.sublime-workspace
 
-content/boek/boek.tex
-content/boek/boek.pdf
-content/boek/synopsis.pdf
+content/boek/src/boek.tex
+content/boek/src/boek.pdf
+content/boek/src/synopsis.pdf
 
 *.aux
 *.log

@@ -1,6 +1,6 @@
 
-p {
-  font-size: 14pt;
+body {
+  font-size: 14pt !important;
 }
 
 #body-inner {

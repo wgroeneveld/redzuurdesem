@@ -16,6 +16,22 @@
 \setheaderspaces{0.5in}{*}{*} % headdrop, headsep, and ratio
 
 \checkandfixthelayout
+
+
+% ===========================
+% = Hyphenation rules       =
+% ===========================
+% https://tex.stackexchange.com/questions/106737/how-to-remove-diaeresis-after-hyphen
+\usepackage{newunicodechar}
+\makeatletter
+\providecommand{\allowhyphens}{%
+  \ifvmode\else\nobreak\hskip\z@skip\fi
+}
+\def\@trema#1{\allowhyphens\discretionary{-}{#1}{\"{#1}}\allowhyphens}
+
+\newunicodechar{ë}{\@trema e}
+\makeatother
+
 \hyphenation{zuur-desem-ologie}
 \hyphenation{korst-rand}
 

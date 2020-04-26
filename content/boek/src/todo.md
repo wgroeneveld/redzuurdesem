@@ -1,11 +1,15 @@
 
 ## 04/2020
 
+[ ] Waar te koop? pagina updaten na 2de druk links?
+[ ] Is het een probleem dat alles op een public Github repo staat?
+[ ] percentages formules nakijken + toevoegen op errata (die ene opm Stien)
+[ ] hyphenation einde elke regel opnieuw reap nakijken
+
 ### Schrijffouten (tot p156)
 
 - 'Dat zou geschikt moeten zijn om te brouwen.' -> 'Dat geschikt zou moeten zijn' volgens https://www.taaltelefoon.be/werkwoordvolgorde-werkwoordsvolgorde-werkwoorden-volgorde ? Begin zin? Te complex, dat zou het moeten doen?
 
-- kwaliteit foto deel III: hogere resolutie!
 - p100 +tijd? te bekijken
 - p143 op zich = op zichzelf?
 - p147: je installatie thuis
@@ -21,10 +25,6 @@
 - https://onzetaal.nl/taaladvies/bezits-s-algemene-regels/ bezit 's niet afkappen 
 
 > Wanneer gebruik je deze, die, dit of dat? Bij de keuze tussen deze, die, dit en dat spelen diverse factoren een rol: Verwijs je naar een de-woord of een meervoud, dan is deze of die juist. Verwijs je naar een het-woord of naar iets onbepaalds, dan is dit of dat juist.Apr 10, 2014
-
-### Reclame TODO
-
-- Ann? 
 
 ## 03/2020
 
