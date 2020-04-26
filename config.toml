@@ -5,7 +5,7 @@ languageCode = "nl-BE"
 
 googleAnalytics = "UA-117973708-1"
 
-ignorefiles = [ "content/boek/.*" ]
+ignorefiles = [ "content/boek/src/.*" ]
 
 ##### 
 # theme config
@@ -30,12 +30,6 @@ home = [ "HTML", "RSS", "JSON"]
 [blackfriday]
   extensionsmask = ["fencedCode"]
   fractions = false
-
-[[menu.shortcuts]] 
-name = "<i class='fas fa-book-open'></i> Red Zuurdesem: het boek"
-identifier = "boek"
-url = "/het-boek"
-weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-facebook-square'></i> Facebook"

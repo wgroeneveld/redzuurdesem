@@ -1,0 +1,146 @@
+
+% ==============
+% = Title Page =
+% ==============
+\frontmatter
+\pagestyle{empty}
+
+% first colofon page: only title
+\begingroup
+\drop = 0.1\txtheight
+\vspace*{\baselineskip}
+\vfill
+  \hbox{%
+  \hspace*{0.2\txtwidth}%
+  \hspace*{0.05\txtwidth}%
+  \parbox[b]{0.75\txtwidth}{
+    \vbox{%
+      \vspace{\drop}
+      {\noindent\HUGE\bfseries Red\\[0.5\baselineskip] Zuurdesem}\\[2\baselineskip]
+    }
+  }
+}
+\vfill
+\null
+\endgroup
+\clearpage
+
+% second colofon page: blank
+\begingroup
+  \hbox{}
+\endgroup
+\clearpage
+
+% third colofon page: title - author - ed
+% sourced from titlepages.tex
+% DO NOT add title in metadata, or \titlepage will be added in the destination tex file
+\begingroup% Gentle Madness
+\drop = 0.1\txtheight
+\vspace*{\baselineskip}
+\vfill
+  \hbox{%
+  \hspace*{0.2\txtwidth}%
+  \rule{1pt}{\txtheight}
+  \hspace*{0.05\txtwidth}%
+  \parbox[b]{0.75\txtwidth}{
+    \vbox{%
+      \vspace{\drop}
+      {\noindent\HUGE\bfseries Red\\[0.5\baselineskip] Zuurdesem}\\[2\baselineskip]
+      {\Large\itshape Een persoonlijke zoektocht naar de smaak en wetenschap van brood}\\[4\baselineskip]
+      {\Large WOUTER GROENEVELD}\par
+      \vspace{0.3\txtheight}
+      {\noindent Brain Baking - Brave New Books}\\[\baselineskip]
+    }
+  }
+}
+\vfill
+\null
+\endgroup
+\clearpage
+
+% ==================
+% = Copyright Page =
+% ==================
+
+\begingroup
+\footnotesize
+\parindent 0pt
+\parskip \baselineskip
+%{\fontfamily{qcr}\selectfont
+
+\textcopyright{} 2020 Wouter Groeneveld \\
+Alle rechten voorbehouden.
+
+De ideeën, adviezen en meningen in dit boek zijn afkomstig van de auteur. Het is niet onmogelijk dat de kennis in dit boek, hoe nauwkeurig deze ook werd nagelezen en gecontroleerd, onvolledigheden bevat. Om deze reden aanvaarden de uitgeverij en de auteur geen enkele aansprakelijkheid voor de gevolgen van schade aan goederen of personen. \newline
+Omwille van de leesbaarheid is gekozen voor de 'hij'-vorm. Daar waar 'hij' staat en niet refereert naar een persoon wordt ook 'zij' bedoeld. 
+
+Niets uit deze uitgave mag worden verveelvoudigd en/of openbaar gemaakt door middel van druk, fotokopie, microfilm of op welke andere wijze ook zonder voorafgaande schriftelijke toestemming van de auteur. \newline
+No part of this book may be reproduced in any form, by mimeograph, film or any other means without permission in writting from the author. 
+%}
+
+\begin{center}
+ ISBN\hspace{2em}97 89 46 40 52 72 5
+\end{center}
+
+\begin{center}
+\begin{tabular}{ll}
+Eerste druk:  & april 2020 \\
+Tweede druk:  & mei 2020 \\
+\end{tabular}
+\end{center}
+
+\vfill
+
+Errata: \url{https://redzuurdesem.be/} \\
+
+\hspace*{2em} \textit{Omslagontwerp}: Kristien Thoelen, Wouter Groeneveld \\
+\hspace*{2em} \textit{Verantwoording beeldmateriaal}: zie lijst van figuren. \\
+
+\vfill
+
+Gedrukt in Nederland
+
+Brain Baking - Brave New Books \\
+\texttt{wouter punt groeneveld (at) gmail punt com}
+
+%%%%{\LARGE\plogo}
+\vspace*{2\baselineskip}
+\clearpage
+
+
+% ==============
+% = Dedication =
+% ==============
+ \newenvironment{dedication}
+     {\vspace{6ex}\begin{quotation}\begin{center}\begin{em}}
+     {\par\end{em}\end{center}\end{quotation}}
+
+\begin{dedication}
+  ~\\
+  ~\\
+  ~\\
+  ~\\
+  ~\\
+	Voor iedereen die denkt dat brood geen smaak heeft, \\
+	en voor Muesli, \\
+  die blijft volhouden dat kattenhaar een onmisbare toevoeging is in brood. 
+\end{dedication}
+
+\endgroup
+\clearpage
+
+
+% ===========================
+% = Table of Contents Setup =
+% ===========================
+\pagestyle{empty}
+
+\renewcommand*\contentsname{Inhoudsopgave}
+{
+  \setcounter{tocdepth}{2}
+  \tableofcontents*
+}
+
+\clearpage
+\pagestyle{desem}
+
