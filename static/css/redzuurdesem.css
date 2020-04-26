@@ -1,4 +1,8 @@
 
+p {
+  font-size: 14pt;
+}
+
 #body-inner {
   margin-bottom: 0;
   padding-bottom: 0 !important;

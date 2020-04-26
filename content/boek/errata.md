@@ -1,6 +1,7 @@
 ---
 title: "Errata"
 date: 2020-04-26
+weight: 666
 ---
 
 Raadpleeg het voorblad om te controleren over welke druk je beschikt. 

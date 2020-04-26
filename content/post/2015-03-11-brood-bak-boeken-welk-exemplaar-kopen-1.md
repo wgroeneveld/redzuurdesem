@@ -1,5 +1,5 @@
 ---
-title: 'Brood bak boeken: welk exemplaar kopen? (1)'
+title: 'Broodbakboeken: welk exemplaar kopen? (1)'
 author: Wouter
 type: post
 date: 2015-03-11T19:27:36+00:00
