@@ -6,13 +6,28 @@
 [ ] percentages formules nakijken + toevoegen op errata (die ene opm Stien)
 [ ] hyphenation einde elke regel opnieuw reap nakijken
 
-### Schrijffouten (tot p156)
+### Schrijffouten (tot p227)
 
 - 'Dat zou geschikt moeten zijn om te brouwen.' -> 'Dat geschikt zou moeten zijn' volgens https://www.taaltelefoon.be/werkwoordvolgorde-werkwoordsvolgorde-werkwoorden-volgorde ? Begin zin? Te complex, dat zou het moeten doen?
 
 - p100 +tijd? te bekijken
 - p143 op zich = op zichzelf?
 - p147: je installatie thuis
+- p158 mee bezig
+- p166 aan doen
+- p184 Amerikaanse staten
+- p195 vergezeld met
+- p196 om goed van te kunnen leven
+- p201 dingen worden rot
+- p202 blik
+- p205 in drie uur
+- p210 verteerbaar
+- p213 als eerste uitgekozen om op te schieten, epidemieën
+- p217 aan de kippen
+- p222 chemisch proces, snellere manieren
+- p224 ea aan de pas komen? ok?
+- p224 moderne technologie
+- p227 mee bepaalde?
 
 - commerciële hyphen trema verdwijnt
 

@@ -65,7 +65,7 @@ Een bijkomend probleem bij alle bovenstaande punten is tijd: het deeg is aan het
 
 * * *
 
-Ondertussen stroomden de bezoekers toe die allemaal de kleine bakkerij wilden in- en uitlopen om een glimp op te vangen van de oude ambacht. Bij een demonstratie hoort immers ook een uitleg. Ik wist op voorhand dat enkel met zuurdesem werken onmogelijk zou zijn vanwege de tijdsdruk en had stiekem een kleine hoeveelheid gist toegevoegd aan het deeg. Alles moest kloppen met het thema van het bakhuisje dat in het einde van de achttiende eeuw operationeel was, dus ook het gebruikte materiaal. Desondanks mijn voorbereiding had ik plastieken containers met desem meegenomen die niet pasten in dat verhaal. Ergens wegstoppen dus. 
+Ondertussen stroomden de bezoekers toe die allemaal de kleine bakkerij wilden in- en uitlopen om een glimp op te vangen van de oude ambacht. Bij een demonstratie hoort immers ook een uitleg. Ik wist op voorhand dat enkel met zuurdesem werken onmogelijk zou zijn vanwege de tijdsdruk en had stiekem een kleine hoeveelheid gist toegevoegd aan het deeg. Alles moest kloppen met het thema van het bakhuisje dat in het einde van de achttiende eeuw operationeel was, dus ook het gebruikte materiaal. Desondanks mijn voorbereiding had ik plastieken doos met desem meegenomen die niet pasten in dat verhaal. Ergens wegstoppen dus. 
 
 Een digitale weegschaal is op dat moment ook ondenkbaar. Gelukkig was het analoge apparaat dat met gewichten werkte nauwkeurig genoeg om grote hoeveelheden min of meer probleemloos af te wegen. Delicate zaken zoals gist en zout waren iets moeilijker. De oplossing was wegen in ‘eetlepels’ en niet in grammen.  
 
@@ -137,7 +137,7 @@ Decennia is blijkbaar al voldoende. In de bakkerswereld is werken met gedroogde 
 
 Ook het woord _gewoonte_ is voor interpretatie vatbaar, alles hangt af van de context waarin het ter sprake komt. Laten we dan eens kijken naar kernwoorden van de volgende zin in de definitie van ambachtelijk: _zweet_ en _liefde_. Elk zwaar beroep vereist zweet en elke man of vrouw die passie weet aan te brengen draagt die liefde mee. 
 
-De laatste zin is echter wel van belang: _elk exemplaar is uniek doordat de ambachtsman individuele aandacht schenkt aan het materiaal_. In het geval van kleine luxe broodjes moet elk bolletje dan apart met de hand worden gevormd. Industrialisatie lijkt hiermee volledig uitgesloten, en toch beginnen of eindigen slogans van menig groothandelaars met ‘ambachtelijke bakkerij’. 
+De laatste zin is echter wel van belang: _elk exemplaar is uniek doordat de ambachtsman individuele aandacht schenkt aan het materiaal_. In het geval van kleine luxebroodjes moet elk bolletje dan apart met de hand worden gevormd. Industrialisatie lijkt hiermee volledig uitgesloten, en toch beginnen of eindigen slogans van menig groothandelaars met ‘ambachtelijke bakkerij’. 
 
 Is er misschien een fundamenteel verschil tussen ambachtelijk en _ambacht_ zelf?
 

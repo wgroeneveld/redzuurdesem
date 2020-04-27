@@ -256,7 +256,7 @@ Methode:
 - _Dag 1, 20u02_: Laat `100 g` lijnzaad samen met `125 g` onverhit water afgedekt een nacht weken.
 - _Dag 1, 20u03_: Meng `50 g` rijst en `50 g` speltgranen met `1 el` zuurdesemstarter en `125 g` water op kamertemperatuur.
 - _Dag 2, 08u00_: Voeg alles samen met de resterende `200 g` water. Kneden. 2u Eerste rijs op `24°C`.
-- _Dag 2, 10u00_: Vorm geven. 1.5u Tweede rijs op `24°C`.
+- _Dag 2, 10u00_: Vormgeven. 1.5u Tweede rijs op `24°C`.
 - _Dag 2, 11u30_: Bakken zonder stoom.
 - _Dag 2, 12u20_: Afkoelen.
 

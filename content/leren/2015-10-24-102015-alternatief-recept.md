@@ -58,7 +58,7 @@ tarwebloem
 
 <tr>
 <td >
-volkoren tarwemeel
+volkorentarwemeel
 </td>
 
 <td >

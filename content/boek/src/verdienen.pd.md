@@ -129,35 +129,35 @@ Hun desemstarter bestaat voor `80%` uit tarwebloem en `20%` uit tarwemeel en is 
 
 ‘En hoe bepaal je de prijs van een zuurdesembrood? Daar steekt toch wel wat tijd in...’ vraag ik. 
 
-‘Tja, het brood onder de `4 EUR` verkopen is waanzin. We stoppen er inderdaad veel tijd in, en de lokale biologische bloem van de Commandeursmolen heeft ook zijn prijs. Hier in Tongeren is er nog niet veel vraag naar. Niet iedereen is bereid om meer te betalen dan in de twee Vangrootloon-winkels[^vgl] hier in de buurt. Ik wil er genoeg voor hebben. We zullen zien.’ Dat klinkt alsof een marktonderzoek aan de orde is. 
+‘Tja, het brood onder de `4 EUR` verkopen is waanzin. We stoppen er inderdaad veel tijd in, en de lokale biologische bloem van de Commandeursmolen heeft ook zijn prijs. Hier in Tongeren is er nog niet veel vraag naar. Niet iedereen is bereid om meer te betalen dan in de twee Vangrootloon-winkels[^vgl] hier in de buurt. Ik wil er genoeg aan verdienen. We zullen zien.’ Dat klinkt alsof een marktonderzoek aan de orde is. 
 
 ‘Daar zijn we niet mee bezig. Bakken is een passie voor Johan en mij, en het brood gebruiken we in eerste instantie zelf in onze eigen zaken. Wij zijn onze eigen grootste afnemer. De rest komt later wel.’ 
 
-[^vgl]: Ter vergelijking: anno 2019 kost een gemiddeld brood van `800 g` bij Vangrootloon slechts `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder geweest zijn. 
+[^vgl]: Ter vergelijking: anno 2019 kost een gemiddeld brood van `800 g` bij Vangrootloon slechts `2.40 EUR`. Op hetzelfde tijdstip als dit interview zal dit wellicht enkele eurocenten minder zijn geweest. 
 
-Ik heb hetzelfde dilemma gezien in Gent. Het brood is er ook veel duurder dan de gemiddelde bakkerij: `4.5 EUR`. In Hasselt wordt tegenwoordig datzelfde brood, gebakken in bij Egt Genk, verkocht voor `6 EUR`. En dat is niet onlogisch gezien de duur van het proces en de prijs van lokaal biologisch meel. Zuurdesembrood van dat kaliber is een compleet ander product dan gistbrood. De smaak, geur, en textuur zijn onvergelijkbaar, dus waarom zou de prijs dan vergelijkbaar moeten zijn? Mensen moeten echter wel bereid zijn om dit te willen betalen. Veel vrienden en familie zijn dit niet. Ik ken in feite maar weinig mensen die bereid zijn om veel geld uit te geven aan goed voedsel in het algemeen. 
+Ik heb hetzelfde dilemma gezien in Gent. Het brood is er ook veel duurder dan de gemiddelde bakkerij: `4.5 EUR`. In Hasselt wordt tegenwoordig datzelfde brood, gebakken bij Egt in Genk, verkocht voor `6 EUR`. En dat is niet onlogisch gezien de duur van het proces en de prijs van lokaal biologisch meel. Zuurdesembrood van dat kaliber is een compleet ander product dan gistbrood. De smaak, geur en textuur zijn niet te vergelijken, dus waarom zou de prijs dat dan wel moeten zijn? Mensen moeten echter wel bereid zijn om dit te willen betalen. Veel vrienden en familie van mij zijn dit niet. Ik ken in feite maar weinig mensen die bereid zijn om veel geld uit te geven aan goed voedsel in het algemeen. 
 
 * * *
 
 Dat is niet alleen érg jammer, maar ook een groot maatschappelijk probleem. Statistische rapporten tonen aan dat de gemiddelde Amerikaan tegenwoordig ongeveer `10 %` van zijn inkomen uitgeeft aan voedsel [@clauson2008despite]. Onderstaande grafiek visualiseert gespendeerd inkomen aan eten de laatste 60 jaar[^figincome]. Volgens Eurostat is dit in 2017 met `12.2%` voor de gemiddelde Europeaan niet erg verschillend. In 1960 was dit percentage ongeveer `20%`, en in 1900 kwam dit ruim boven de `40%`. 
 
-Hoe komt het dat dit percentage in honderd jaar tijd dit zo sterk gedaald is? Dat heeft niet alleen te maken met de overvloed van tegenwoordige vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Een andere oorzaak zou kunnen zijn dat men vroeger _bewuster_ omging met voedsel. 
+Hoe komt het dat dit percentage in honderd jaar tijd zo sterk is gedaald? Dat heeft niet alleen te maken met de overvloed van hedendaagse vrijetijdsactiviteiten waar we ons geld aan kunnen spenderen. Een andere oorzaak zou kunnen zijn dat men vroeger _bewuster_ omging met voedsel. 
 
 \begin{figure}
     \centering
     \includegraphics[width=0.8\textwidth,height=\textheight]{img/inkomen.png}
     \caption[Grafiek van gespeendeerd inkomen aan eten de laatste 60 jaar.]{Gespeendeerd inkomen aan eten de laatste 60 jaar. Volle lijn:
-    totaal gespendeerd aan voedsel. Stippellijn: gespendeerd in huis. Dikke
+    totaal gespendeerd aan voedsel. Stippellijn: gespendeerd binnenshuis. Dikke
     stippellijn: gespendeerd buitenshuis.}
 \end{figure}
 
-[^figincome]: Dit is ruwweg gebaseerd op gegevens van het USDA, Economic Research Service, Food Expenditure Series, tabel 7. [http://www.ers.usda.gov/data-products/food-expenditures.aspx](http://www.ers.usda.gov/data-products/food-expenditures.aspx)
+[^figincome]: Dit is gebaseerd op gegevens van het USDA, Economic Research Service, Food Expenditure Series, tabel 7. [http://www.ers.usda.gov/data-products/food-expenditures.aspx](http://www.ers.usda.gov/data-products/food-expenditures.aspx)
 
-Ook al kosten luxe producten als een geïmporteerde avocado (`1.40 EUR`), een doosje handgeplukte Bosnische cantharellen (`5.50 EUR`) en zuurdesembrood (`6 EUR`) proportioneel gezien véél meer dan vroeger, toch zijn we er om een of andere reden in geslaagd om het budget dat naar voedsel gaat te halveren. We kopen tegenwoordig meer voedsel voor minder geld, en we spenderen er minder van ons inkomen aan. De vraag is alleen of dat 'voedsel' ook echt _voedsel_ is. 
+Ook al kosten luxeproducten als een geïmporteerde avocado (`1.40 EUR`), een doosje handgeplukte Bosnische cantharellen (`5.50 EUR`) en zuurdesembrood (`6 EUR`) proportioneel gezien véél meer dan vroeger, toch zijn we er om een of andere reden in geslaagd om het budget dat naar voedsel gaat te halveren. We kopen tegenwoordig meer voedsel voor minder geld, en we spenderen er minder van ons inkomen aan. De vraag is alleen of dat 'voedsel' ook echt _voedsel_ is. 
 
-Hoe meer we verdienen, hoe meer er beschikbaar is om te besteden aan eten. Toch zullen we een kleiner deel van ons totaal inkomen er aan besteden. Als middenklassers is het leeuwendeel van mijn kennissen niet bereid om `6 EUR` te betalen voor goed brood. We worden niet alleen rijker, maar ook gieriger - en zieker. Dit heeft niet alleen te maken met de bereidwilligheid om een redelijk deel van je inkomen te spenderen aan gezond eten, maar ook met de hoeveelheid tijd die je steekt in de bereiding van dat eten. 
+Hoe meer we verdienen, hoe meer er beschikbaar is om te besteden aan eten. Toch zullen we een kleiner deel van ons totaalinkomen eraan besteden. Als middenklasser is het leeuwendeel van mijn kennissen niet bereid om `6 EUR` te betalen voor goed brood. We worden niet alleen rijker, maar ook gieriger - en zieker. Dit heeft niet alleen te maken met de bereidwilligheid om een redelijk deel van je inkomen te spenderen aan gezond eten, maar ook met de hoeveelheid tijd die je steekt in de bereiding van dat eten. 
 
-Een vragenlijst samengesteld door Pablo Monsivais en anderen geeft aan dat meer tijd spenderen aan de bereiding van voedsel gepaard ging met een verhoogde kwaliteit van je dieet [@monsivais2014time]. Dat werd gebaseerd op inname van groeten en fruit. Minder dan een uur per dag besteden betekende vaak meer bezoekjes brengen aan fastfoodrestaurants. Hun conclusie? 
+Een vragenlijst samengesteld door Pablo Monsivais en anderen geeft aan dat meer tijd spenderen aan de bereiding van voedsel gepaard ging met een verhoogde kwaliteit van je dieet [@monsivais2014time]. Dat is gebaseerd op inname van groenten en fruit. Minder dan een uur per dag besteden betekende vaak meer bezoekjes brengen aan fastfood restaurants. Hun conclusie? 
 
 > _Time might be an essential ingredient in the production of healthier eating habits among adults._
 
@@ -165,25 +165,25 @@ De beste oplossing is dus gewoon om de tijd te nemen je brood zelf te bakken.
 
 * * *
 
-Het meeste brood van De Superette wordt in de verschillende zaken van Kobe Desramaults zelf verwerkt. Dat slim systeem overtuigt klanten van het restaurant gedeelte, die hoe dan ook brood voorgeschoteld krijgen, om na de maaltijd toch nog even te stoppen aan de toonbank van het bakkerij gedeelte. Sarah vertelde me dat de bakkerij waarschijnlijk niet kon overleven zonder het restaurant. Deze twee concepten met succes weten te combineren levert niet alleen lekkere gerechten op, maar zorgt er ook voor dat brood vlot wordt verkocht. 
+Het meeste brood van De Superette wordt in de verschillende zaken van Kobe Desramaults zelf verwerkt. Dat slim systeem overtuigt klanten van het restaurantgedeelte, die hoe dan ook brood krijgen voorgeschoteld, om na de maaltijd toch nog even te stoppen aan de toonbank van het bakkerijgedeelte. Sarah vertelde me dat de bakkerij waarschijnlijk niet kon overleven zonder het restaurant. Deze twee concepten met succes weten te combineren levert niet alleen lekkere gerechten op, maar zorgt er ook voor dat brood vlot wordt verkocht. 
 
-Voor de gemiddelde welvarende burger van West Europa stelt de kostprijs van een brood niet veel meer voor, of het nu over twee of zes euro gaat (het geld effectief _willen_ besteden is een andere zaak). 
+Voor de gemiddelde welvarende burger van West-Europa stelt de kostprijs van een brood niet veel meer voor, of het nu over twee of zes euro gaat (het geld effectief _willen_ besteden is een andere zaak). 
 
-Dat is niet altijd het geval geweest, en zorgde vaak voor nationale crisissen, uitbraken van rellen en zelfs moorden. Er zijn bibliotheken vol boeken geschreven over de broodbakgeschiedenis van gildes in Parijs [@kaplanbakersparis] tot invloed ervan op de Britse economie [@petersen2017bread]. Het veiligstellen van een voldoende aanbod aan brood was tot voor kort een zaak van algemeen belang. De woorden van de Romeinse dichter Juvenalis, _panem et circenses_ of brood en spelen, zijn eeuwenoud maar nog steeds erg actueel. Het gaat niet over vlees, vis, eieren of melk. Het gaat over brood: ons dagelijks brood. We vergeten de dag van vandaag welke implicaties de verandering van technieken in het malen en bakken hebben gehad op de maatschappij.
+Dat is niet altijd het geval geweest, en zorgde vaak voor nationale crisissen, uitbraken van rellen en zelfs moorden. Er zijn bibliotheken volgeschreven over de broodbakgeschiedenis van gildes in Parijs [@kaplanbakersparis] tot invloed ervan op de Britse economie [@petersen2017bread]. Het veiligstellen van een voldoende aanbod aan brood was tot voor kort een zaak van algemeen belang. De woorden van de Romeinse dichter Juvenalis, _panem et circenses_ (brood en spelen), zijn eeuwenoud maar nog steeds erg actueel. Het gaat niet over vlees, vis, eieren of melk. Het gaat over brood: ons dagelijks brood. We vergeten de dag van vandaag welke implicaties de verandering van technieken in het malen en bakken hebben gehad op de maatschappij.
 
 \begin{flushright}
 April 2019
 \end{flushright}
 
-In april 2019 hoorde ik toevallig via een voedselbewuste vriendin van Kristien dat Johan inmiddels in Tongeren  zijn eigen bakkerij opende, genaamd '_Brijosh_'. Dat was voor mij reden genoeg om er Johan opnieuw te bezoeken. Johan renoveerde een aanpalende ruimte van zijn woning om er twee ovens en een koelkast in te kunnen plaatsen zonder te veel verlies van werkoppervlakte. De bakkerij is open van donderdag tot en met zondag, en er wordt uiteraard voornamelijk zuurdesembrood verkocht.
+In april 2019 hoorde ik toevallig via een voedselbewuste vriendin van Kristien dat Johan inmiddels in Tongeren  zijn eigen bakkerij opende, genaamd '_Brijosh_'. Dat was voor mij reden genoeg om Johan opnieuw op te zoeken. Johan renoveerde een aanpalende ruimte aan zijn woning om er twee ovens en een koelkast in te kunnen plaatsen zonder te veel verlies aan werkoppervlakte. De bakkerij is open van donderdag tot en met zondag, en er wordt uiteraard voornamelijk zuurdesembrood verkocht.
 
-'Hey Wouter, kom binnen jong!' Johan stond op het punt om roggebrood uit een van de ovens te toveren. Zijn joviale en uitnodigende persoonlijkheid moedigde aan om me onmiddellijk op mijn gemak te voelen, en we praatten wat. Ik vroeg hem naar de ovens die ik van formaat herkende. Het waren kleine, ronde houtovens met twee horizontaal roteerbare stenen verdiepingen. Onze vroegere overbuur bakte brood in zijn schuur, waar exact dezelfde oven stond. 
+'Hey Wouter, kom binnen jong!' Johan stond op het punt om roggebrood uit een van de ovens te toveren. Zijn joviale en uitnodigende persoonlijkheid moedigde me aan me onmiddellijk op mijn gemak te voelen, en we praatten wat. Ik vroeg hem naar de ovens die ik van formaat herkende. Het waren kleine, ronde houtovens met twee horizontaal roteerbare stenen verdiepingen. Onze vroegere overbuur bakte brood in zijn schuur, waar exact dezelfde oven stond. 
 
 'Moet je de assen eruit halen voordat je kan bakken?' vroeg ik, denkend aan de oude houtoven van Bokrijk. 
 
-'Nee, in de onderste klep steek je het hout. Ik kan het u laten zien hoor, wacht.' Johan opende de klep zodat ik de gloeiende kolen kon zien. Hij gooide er wat hout bij op. Een metertje op de oven gaf iets meer dan `200°C` aan. 
+'Nee, in de onderste klep steek je het hout. Ik kan het u laten zien hoor, wacht.' Johan opende de klep zodat ik de gloeiende houtblokken kon zien. Hij gooide er wat hout bij op. Een metertje op de oven gaf iets meer dan `200°C` aan. 
 
-'Dit hout is echt geweldig. Ik ken een trappenmaker hier in de buurt, die mij overschot aan hoge kwaliteit eikenhout kan leveren. Dat brandt volledig op, geeft het langste en meeste hitte af, en het minste roetdeeltjes.' Hij glimlachte breed. 
+'Dit hout is echt geweldig. Ik ken een trappenmaker hier in de buurt, die mij overschot van hoge kwaliteit eikenhout kan leveren. Dat brandt volledig op, geeft het langste en meeste hitte af, en het minste roetdeeltjes.' Hij glimlachte breed. 
 
 'Andere mensen zouden nogal opkijken, wat ik hier opstook kan in feite nog dienen om meubels mee te maken!' 
 
@@ -207,9 +207,9 @@ In april 2019 hoorde ik toevallig via een voedselbewuste vriendin van Kristien d
 
 'En verkoop je ondertussen genoeg? Is het populair, hier in een deelgemeente van Tongeren?' 
 
-'Weet je, als je eenmaal wat naamsbekendheid hebt opgebouwd, dan volgt de harde kern van vaste klanten wel. Ik ben begonnen als traitteur, en ben ondertussen zeven jaar bezig met bistro Bis. Daar is reclame maken belangrijk. Alles moet _flashy_ zijn om de aandacht te trekken. Dit hier is iets anders, mijn eigen ding. Ik zou het graag willen uitbreiden, met een lange tafel of zo. Dingen serveren voor bij het brood. Daarvoor moeten we eerst nog meer verbouwen.' 
+'Weet je, als je eenmaal wat naamsbekendheid hebt opgebouwd, dan volgt de harde kern van vaste klanten wel. Ik ben begonnen als traiteur, en ben ondertussen zeven jaar bezig met bistro Bis. Daar is reclame maken belangrijk. Alles moet _flashy_ zijn om de aandacht te trekken. Dit hier is iets anders, mijn eigen ding. Ik zou het graag willen uitbreiden, met een lange tafel of zo. Dingen serveren voor bij het brood. Daarvoor moeten we eerst nog meer verbouwen.' 
 
-'Ja, want die combinatie tussen verbruiken en verkopen blijkt goed te gaan hé, zo deden ze het ook in Gent. Je krijgt een gerecht met lekker brood, en denkt, dat moet ik meenemen naar huis!' herinnerde ik mij. 
+'Ja, want die combinatie tussen verbruiken en verkopen blijkt goed te gaan hé, zo deden ze het ook in Gent. Je krijgt een gerecht met lekker brood, en denkt: dat moet ik meenemen naar huis!' herinnerde ik mij. 
 
 'Zeer zeker! Dat wil ik ook nog doen, maar op kleine schaal. We zien wel.' zegt Johan.
 
@@ -219,9 +219,9 @@ In april 2019 hoorde ik toevallig via een voedselbewuste vriendin van Kristien d
 
 'Lukt het ondertussen al beter met de _high hydration_ methode?' vraag ik. 
 
-'Behalve dat spelt hier,' begint Johan, terwijl hij klopt op een erg plat gebakken brood op het koelrek, 'gaat het goed. Weet je, ik sta al veel verder sinds uw vorig bezoek. Toen bakten we echt volgens stricte regeltjes, om te kunnen bijsturen als er iets misloopt. Dan dat, zoveel van dat, _tjak tjak_. Nu doe ik veel meer op mijn gevoel. Ik weet zelfs niet eens exact hoeveel van wat er in gaat.' Ik knik, denkend aan mijn eigen evolutie in de stiel. 
+'Behalve dat spelt hier,' begint Johan, terwijl hij klopt op een erg plat gebakken brood op het koelrek, 'gaat het goed. Weet je, ik sta al veel verder sinds uw vorig bezoek. Toen bakten we echt volgens strikte regeltjes, om te kunnen bijsturen als er iets misloopt. Dan dat, zoveel van dat, _tjak tjak_. Nu doe ik veel meer op mijn gevoel. Ik weet zelfs niet eens exact hoeveel van wat er ingaat.' Ik knik, denkend aan mijn eigen evolutie in de stiel. 
 
-'Behalve dat spelt dus. Vorige zomer, in 2018, was veel te heet. Ik bak nu met die oogst, en heb al van alles geprobeerd. Veel minder water en zo. Maar het is zo rekbaar, en zo snel té ver gegist. Da's te plat hé. _Overfermentatie_ is dat hé.' Ik zie achterin zakken van de Commandeursmolen liggen. Johan knikt. 
+'Behalve dat spelt dus. Vorige zomer was veel te heet. Ik bak nu met die oogst, en heb al vanalles geprobeerd. Veel minder water en zo. Maar het is zo rekbaar, en zo snel té ver gegist. Da's te plat hé. _Overfermentatie_ is dat hé.' Ik zie achterin zakken van de Commandeursmolen liggen. Johan knikt. 
 
 'Ja, nog steeds. Dat meel is echt goed. Maar ik heb nu contact met een lokale boer die spelt teelt. Misschien kunnen we het lokaal malen.' _We zien wel._
 
@@ -231,7 +231,7 @@ Toen ik vroeg naar zijn zuurdesem, was Johan zelfs zo vriendelijk om zijn broodb
 
 'Twee uur? Wow die is snel klaar! Ik laat die thuis twaalf uur staan.' Maar daar is het veel kouder dan in deze warme bakkerij. 
 
-'Is dat volledig volkoren tarwe, of nog steeds half/half?' vraag ik. 
+'Is dat volledig volkorentarwe, of nog steeds half/half?' vraag ik. 
 
 'Dat hangt af van het seizoen, omdat het in de zomer nog sneller werkt. Ik wissel de verhoudingen af tussen `80:20` en `50:50`.' 
 
@@ -243,13 +243,13 @@ Toen ik vroeg naar zijn zuurdesem, was Johan zelfs zo vriendelijk om zijn broodb
 
 [^leavenjoh]: Een van de vele synoniemen van een zuurdesemcultuur, afgeleid van het Franse '_levain_'. 
 
-Johan zijn broden zijn tien uur sneller klaar dan de mijne, vanwege de erg snelle gisting van het voordeeg. Dit proefde ik ook in de broden die ik kocht van hem. De uitgesproken maar aangename zoete smaak van gegiste tarwe overheerst. Geen nasmaak, en geen azijn. Mijn brood is vanwege de extra rijstijd en de gekoelde zuurdesemcultuur heel wat pittiger. Ik denk dat brood van Brijosh beter geschikt is om mensen te leren zuurdesem eten. De veelzijdige smaak is ook geschikter om in gerechten van zijn bistro in Tongeren centrum te worden verwerkt. 
+Johan zijn broden zijn tien uur sneller klaar dan de mijne, vanwege de erg snelle gisting van het voordeeg. Dit proefde ik ook in de broden die ik kocht bij Johan. De uitgesproken maar aangename zoete smaak van gegiste tarwe overheerst. Geen nasmaak, en geen azijn. Mijn brood is vanwege de extra rijstijd en de gekoelde zuurdesemcultuur heel wat pittiger. Ik denk dat het brood van Brijosh beter geschikt is om mensen zuurdesem te leren eten. De veelzijdige smaak is ook geschikter om in gerechten van zijn bistro in Tongeren centrum te worden verwerkt. 
 
 'En jij Wouter, nog veel aan het bakken?' vraagt Johan. Ik vertel over mijn plannen voor het boek, en mijn voorliefde om anderen iets bij te leren. 
 
 'Ken je _The Sourdough School_ van Vanessa Kimbell?' Ik knik, en Johan gaat verder. 
 
-'Zoiets, zo bezig zijn met mensen iets bij te leren, als dat eens uw _core business_ is... Voor mij is een workshop eerder iets vervelends dat ik tussendoor doe. Ik geef soms dingen mee met de instructies het thuis dan maar zelf af te bakken omdat er hier geen tijd voor is. Maar als je van begin tot einde het hele zuurdesem traject kan laten zien, en de tijd neemt om daar een dag aan te spenderen... Dat zou toch geweldig zijn!' 
+'Zoiets, zo bezig zijn met mensen iets bij te leren, als dat eens uw _core business_ is... Voor mij is een workshop eerder iets vervelends dat ik tussendoor doe. Ik geef soms dingen mee met de instructies het thuis dan maar zelf af te bakken omdat er hier geen tijd voor is. Maar als je van begin tot einde het hele zuurdesemtraject kan laten zien, en de tijd neemt om daar een dag aan te spenderen... Dat zou toch geweldig zijn!' 
 
 Dat zou het zeker... 
 
@@ -259,13 +259,13 @@ Dat zou het zeker...
 Januari 2016
 \end{flushright}
 
-Mijn zoektocht naar commercieel inzicht leidde me tot in Bunnik, dicht bij Utrecht. Op het landgoed van Nieuw-Amelisweerd ligt bakkerij en keuken _De Veldkeuken_. Hier bakken René van der Veer en Juliette Borggreve hun biologisch brood. De naam ‘Veldkeuken’ is heel toepasselijk: de zaak ligt in een prachtig gebied omgeven door bossen, velden en wandelpaadjes. 
+Mijn zoektocht naar commercieel inzicht leidde me tot in Bunnik, dichtbij Utrecht. Op het landgoed van Nieuw-Amelisweerd ligt bakkerij en restaurant _De Veldkeuken_. Hier bakken René van der Veer en Juliette Borggreve hun biologisch brood. De naam ‘Veldkeuken’ is heel toepasselijk: de zaak ligt in een prachtig gebied omgeven door bossen, velden en wandelpaadjes. 
 
-Het landgoed is opgedeeld in verschillende gebouwen. De bakkerij staat hier dus echt los van de keuken: beiden liggen op tien minuten wandelen van elkaar. De keuken neemt een stuk van het koetshuis in beslag waar aan de linkerkant een museum in is gevestigd. Het trekt veel hongerige bezoekers aan die tussen het wandelen door even willen uitrusten. 
+Het landgoed is opgedeeld in verschillende gebouwen. De bakkerij staat hier dus echt los van het restaurant: beiden liggen op tien minuten wandelen van elkaar. Het restaurant neemt een stuk van het koetshuis in beslag waarin aan de linkerkant een museum is gevestigd. Het trekt veel hongerige bezoekers aan die tussen het wandelen door even willen uitrusten. 
 
 We werden hartelijk ontvangen door Juliette en bestelden thee om de kou van de gure herfstdag uit onze botten te jagen. Na een blik op het menu zag ik dat de Veldkeuken zich toelegt op brunch, lunch, koffie en taart. 
 
-‘Ik zal even René bellen die aan het werk is in de bakkerij, dan kan je er zo even langs gaan.’ Ik krijg als voorsmaakje een _levain couronne_ toegestopt, zuurdesembrood in de vorm van een kroon. De korst zag er alvast veelbelovend uit: diep bruin gebakken, en mooi opengebloeid in de oven. 
+‘Ik zal even René bellen die aan het werk is in de bakkerij, dan kan je er zo-even langs gaan.’ Ik krijg als voorsmaakje een _levain couronne_ toegestopt, zuurdesembrood in de vorm van een kroon. De korst zag er alvast veelbelovend uit: diep bruin gebakken, en mooi opengebloeid in de oven. 
 
 ‘Kijk schat, mooi hè?’ Ik kon het niet laten om er eens aan te ruiken. Kristien trok een gezicht. 
 
@@ -280,17 +280,17 @@ De Veldkeuken gebruikt 100% biologische grondstoffen._’
 
 Het gebouw, grenzend aan een van de vele wandelpaden, heeft grote ramen die bezoekers zoals ons doen staren naar de zwoegende bakkers. René zag ons staan en wuifde. Zijn handen waren lekker vuil van het plakkerige deeg. Hij schoof het raam open om ons binnen te laten. Er is niet zo veel bewegingsruimte in de huidige bakkerij[^plan]. 
 
-[^plan]: Toen wij De Veldkeuken bezochten in 2016 waren er plannen om aan uitbreiding te doen, eventueel op een andere locatie. 
+[^plan]: Toen wij De Veldkeuken bezochten in 2016 waren er plannen om uit te breiden, eventueel op een andere locatie. 
 
 * * *
 
 Ook René werkt met bloem van de Commandeursmolen die je in indrukwekkende stapels kan zien liggen achterin de ruimte. Er waren nog twee andere bakkers aan het werk. Al fluitend werden er cakes in de oven geschoven en krentenbollen in de rijskast gepropt. Er hing een ontspannen, gezellige sfeer. Ik was onmiddellijk jaloers: de hectische sfeer die ik kende van De Superette was volledig afwezig. Ik neem aan dat dit komt door de strikte scheiding van keuken en bakkerij (minder mensen lopen in de weg), samen met de bekwaamheid van dit goed geolied team. René was zo vriendelijk om ons tussen zijn werk door een korte rondleiding te geven.
 
-Ik vraag René naar de grote kneder met één arm die in een hoek dicht bij de oven staat. 
+Ik vraag René naar de grote kneder met één arm die in een hoek dichtbij de oven staat. 
 
 ‘Oh, die gebruiken wij nauwelijks. Die spiraalkneder daar wordt gebruikt.’ Hij wijst naar een andere hoek links van de oven. 
 
-‘Is dat niet handiger omdat er meer in kan? En omdat het minder ruw werkt dan de snelheid van zo’n spiraalkneder?’ vraag ik. De spiraalkneder die we in de avondles gebruikten gaf gevaarlijk veel warmte af aan het gekneed deeg. 
+‘Is dat niet gemakkelijker omdat er meer inkan? En omdat het minder ruw werkt dan de snelheid van zo’n spiraalkneder?’ vraag ik. De spiraalkneder die we in de avondles gebruikten gaf gevaarlijk veel warmte af aan het gekneed deeg. 
 
 ‘Dat klopt, maar wegens plaatsgebrek is dat voor ons momenteel niet de beste optie. Deze muur staat in de weg en aan de oven hebben wij geen centimeter ruimte meer vrij.’ Altijd zeulen met zoveel deeg is niet leuk. 
 
@@ -308,9 +308,9 @@ Ik vraag René naar de grote kneder met één arm die in een hoek dicht bij de o
 
 De Veldkeuken combineert verschillende ideeën om het brood te verkopen. Om te beginnen is de keuken opnieuw een grote afnemer van hun eigen brood, zoals bij Magis in Tongeren of De Superette in Gent. Ondertussen ben ik ervan overtuigd dat voor deze zaken die bepaalde combinatie de belangrijkste factor is voor hun succes. Ook hier vertrekken veel wandelaars niet alleen met een gevulde maag, maar ook met een broodzak onder de arm. 
 
-Daarnaast wordt het brood verder gedistribueerd door winkels in het centrum van Utrecht. Die bestelwagen met het logo van De Veldkeuken staat niet voor niets op de oprit van het bakkerijgebouw. René en Juliette hielden er trouwens twee vestigingen op na: in het domein te Amelisweerd waar de bakkerij ligt, en in het forthuis van Werk aan het Spoel te Culemborg. De laatste locatie sluit eind 2016 om alle aandacht te kunnen richten op de uitbreidingsplannen van de biologische bakkerij.
+Daarnaast wordt het brood verder gedistribueerd via winkels in het centrum van Utrecht. De bestelwagen met het logo van De Veldkeuken staat niet voor niets op de oprit van het bakkerijgebouw. René en Juliette hielden er trouwens twee vestigingen op na: in het domein te Amelisweerd waar de bakkerij ligt, en in het forthuis van Werk aan het Spoel te Culemborg. De laatste locatie sluit eind 2016 om alle aandacht te kunnen richten op de uitbreidingsplannen van de biologische bakkerij.
 
-Ik ben onder de indruk van de hoeveelheid desems die René en zijn team actief onderhouden. Ze maken een onderscheid tussen _zuurdesem_ en _desem_: een _zuurdesem_ is in hun ogen een natuurlijke gisting van de bloem met melk- en azijnzuren, en een _desem_ is datzelfde zonder de azijnzuren. Dat is opmerkelijk omdat de naam 'desem' in België vaak wordt gebruikt om een droge volkoren tarwedesem aan te duiden die meer azijn- dan melkzuren bevat. 
+Ik ben onder de indruk van de hoeveelheid desems die René en zijn team actief onderhouden. Ze maken een onderscheid tussen _zuurdesem_ en _desem_: een _zuurdesem_ is in hun ogen een natuurlijke gisting van de bloem met melk- en azijnzuren, en een _desem_ is datzelfde zonder de azijnzuren. Dat is opmerkelijk omdat de naam 'desem' in België vaak wordt gebruikt om een droge volkorentarwedesem aan te duiden die meer azijn- dan melkzuren bevat. 
 
 De professionele desem wordt in grote flessen aangekocht en is bijna zo vloeibaar als room. Ik vermoed dat deze desem van een handelaar als Puratos komt. Het ander moederdeeg, de _zuurdesem_, is zelf opgekweekt. 
 
@@ -324,9 +324,9 @@ Net als veel andere bakkers heeft René de kneepjes van het vak in Frankrijk gel
 
 ‘In Duitsland komt zuurdesembrood vaker voor. Maar veel bakkerijen gebruiken industrieel zuurdesempoeder als smaakmaker in combinatie met gewone gist. Soms wordt zelfs azijn toegevoegd om de roggebroden die karakteristieke zure smaak te geven. Dat is niet bakken, dat is bedriegen.’ Consumenten worden constant belazerd, of het nu in de supermarkt is of in de bakkerij.  
 
-De enige oplossing die ik zie is bewust bezig zijn met voeding. Zoveel mogelijk te weten komen over wat er nu precies je maag binnen komt. Kritische vragen stellen als 'Wil ik dit wel eten als ik weet dat het op die manier wordt gemaakt?' of 'Sta ik hier wel achter?'. Het is niet enkel een gezondheidskwestie, maar ook een belangrijke morele keuze. 
+De enige oplossing die ik zie is bewust bezig zijn met voeding. Zoveel mogelijk te weten komen over wat er nu precies in je maag terechtkomt. Kritische vragen stellen als 'Wil ik dit wel eten als ik weet dat het op die manier wordt gemaakt?' of 'Sta ik hier wel achter?'. Het is niet enkel een gezondheidskwestie, maar ook een belangrijke morele keuze. 
 
-Ik eet graag brood, dus ik leerde wat goed brood was en wat niet. Op die manier kan ik beter de keuze maken om iets op te eten of het te laten liggen. Bakkerijen als De Veldkeuken verkopen hun brood duurder, maar als je weet wat hierrachter zit ga je hopelijk wel bereid zijn om een euro meer te betalen. En dan zijn er nog altijd afzetters die hun brood aanprijzen als hét gezondheidsmiddeltje, terwijl het eigenlijk geen haar beter is dan brood van de supermarkt. Ik wapen mij tegen die oplichters met kennis. 
+Ik eet graag brood, dus ik leerde wat goed brood is en wat niet. Op die manier kan ik beter keuzes maken om iets op te eten of om het te laten liggen. Bakkerijen als De Veldkeuken verkopen hun brood duurder, maar als je weet wat erachter zit ga je hopelijk wel bereid zijn om een euro meer te betalen. En dan zijn er nog altijd afzetters die hun brood aanprijzen als hét gezondheidsmiddeltje, terwijl het eigenlijk geen haar beter is dan brood uit de supermarkt. Ik wapen mij tegen die oplichters door middel van kennis. 
 
 Softwareontwikkelaars zeggen vaak ‘_meten is weten_’, om de nadruk te leggen op het onderzoekende aspect voordat actie wordt ondernomen[^standthere]. In context van voedsel kan ik ook zeggen: _weten is eten_. 
 
@@ -335,7 +335,7 @@ Softwareontwikkelaars zeggen vaak ‘_meten is weten_’, om de nadruk te leggen
 De bakkerswereld blijkt trouwens een erg klein wereldje te zijn. René en ik praatten over goede andere bakkerijen en we kwamen tot de conclusie dat onze voorkeur op één lijn ligt. Als het woord ‘Parijs’ valt, komt direct ‘_Du Pain et Des Idées_’ ter sprake. 
 
 ‘We zijn een paar keer in De Superette geweest. We hebben een boek en brood van ons geruild met exemplaren van hun. Dan heb je zeker een goede basis gelegd met je stage daar te doen.’ Daar denken we hetzelfde over. De Veldkeuken is dan misschien een kleine bakkerij en ligt dan misschien op een landgoed in plaats van in een hip stadscentrum, toch komen er regelmatig internationale collega’s over de vloer om kennis uit te wisselen. 
-René vertelt dat hij wel eens met het idee gespeeld heeft om een conventie uit de grond te stampen. 
+René vertelt dat hij weleens met het idee heeft gespeeld om een conventie uit de grond te stampen. 
 
 ‘Maar dat kost erg veel energie. Voorlopig blijft het bij wilde ideeën. Eerst hier uitbreiden.’ Ik vind het geweldig dat er zo’n sympathieke mensen zijn die naast hun veeleisende job ook nog bezig zijn met kennisverspreiding. Dit is verre van de norm in die wereld. Veel bakkers reageren heel defensief wanneer ik vraag om een kijkje te mogen nemen in hun bakkerij. ‘Ik heb ook alles zelf moeten leren, niemand moet mijn kennis komen stelen!’ is de standaard reactie. Daar wordt niemand beter van... 
 
@@ -343,11 +343,11 @@ René vertelt dat hij wel eens met het idee gespeeld heeft om een conventie uit 
 
 Tot nu toe heb ik verschillende strategieën van bakkers gezien om desem meer onder de mensen te brengen. Met behulp van een eetgelegenheid aan de bakkerij zelf, via kleinhandelaars en markten en natuurlijk zelf verkopen. 
 
-Naamsbekendheid speelt zeker en vast ook een rol. Zowel De Superette als De Veldkeuken hebben ondertussen een kookboek uitgebracht waar een groot aantal pagina’s exclusief zijn gereserveerd voor zuurdesembrood. Elke zichzelf respecterende chef-kok verkoopt zijn restaurant in de boekhandel en zorgt op die manier voor een extra toestroming van klanten. 
+Naamsbekendheid speelt vast en zeker ook een rol. Zowel De Superette als De Veldkeuken hebben ondertussen een kookboek uitgebracht waar een groot aantal pagina’s exclusief gereserveerd zijn voor zuurdesembrood. Elke zichzelf respecterende chef-kok verkoopt zijn restaurant in de boekhandel en zorgt op die manier voor een extra toestroming van klanten. 
 
-Bakkers met een duidelijke visie zijn actief bezig met kennisverspreiding. Niet alleen door een boek te schrijven, maar ook door nieuwe concepten uit de grond te stampen, workshops te geven, open te staan voor stages, bakkerijen van collega’s te bezoeken en samen te komen om tips te delen. Er zijn zelfs internationale broodbak conferenties die zowel academici als ervaren bakkers verwelkomen. 
+Bakkers met een duidelijke visie zijn actief bezig met kennisverspreiding. Niet alleen door een boek te schrijven, maar ook door nieuwe concepten uit de grond te stampen, workshops te geven, open te staan voor stages, bakkerijen van collega’s te bezoeken en samen te komen om tips te delen. Er zijn zelfs internationale broodbakconferenties die zowel academici als ervaren bakkers verwelkomen. 
 
-Tot dusver heb ik mijn zoektocht bewust beperkt tot bescheiden biologische bakkerijen. Om écht inzicht te verwerven in het commerciële aspect werd het tijd om me te wenden tot de industrie, waar de zaken worden aangepakt op grotere schaal om meer te kunnen verkopen. Mijn nieuwsgierigheid won het tijdelijk van mijn weigerachtigheid om kennis te maken met enorme ruimtes die hele rekken sandwiches tegelijkertijd bakken.
+Tot dusver heb ik mijn zoektocht bewust beperkt tot bescheiden biologische bakkerijen. Om écht inzicht te verwerven in het commerciële aspect werd het tijd om me te wenden tot de industrie, waar de zaken worden aangepakt op grotere schaal teneinde meer te kunnen verkopen. Mijn nieuwsgierigheid won het tijdelijk van mijn weigerachtigheid om kennis te maken met enorme ruimtes die hele rekken sandwiches tegelijkertijd bakken.
 
 ### Van kleine bakkerij naar grote productiehal
 
@@ -355,19 +355,19 @@ Tot dusver heb ik mijn zoektocht bewust beperkt tot bescheiden biologische bakke
 November 2013
 \end{flushright}
 
-In het industriepark van Sint-Truiden ligt Vangrootloon, een bescheiden bedrijfje dat na honderd jaar uitgroeide tot dé grootste bakkerij van Belgisch Limburg. Het gebouw bestaat uit een gigantische hal, opgedeeld in secties waar men vlaaien, sandwiches, speculaas en brood aan de lopende band (letterlijk en figuurlijk) produceert. Die band loopt van de productiehal tot in de vertrekhal waar het lekkers wordt verdeeld en verpakt om met behulp van tientallen vrachtwagens tot bij de verdeelpunten te worden gebracht. 
+Op het industriepark van Sint-Truiden ligt Vangrootloon, een bescheiden bedrijfje dat na honderd jaar uitgroeide tot dé grootste bakkerij van Belgisch Limburg. Het gebouw bestaat uit een gigantische hal, opgedeeld in secties waar men vlaaien, sandwiches, speculaas en brood aan de lopende band (letterlijk en figuurlijk) produceert. Die band loopt van de productiehal tot in de vertrekhal waar het lekkers wordt verdeeld en verpakt om met behulp van tientallen vrachtwagens tot bij de verdeelpunten te worden gebracht. 
 
-Vangrootloon levert niet alleen aan eigen zaken, maar ook aan supermarkten en andere koude bakkers. Een Vangrootloon winkel is deels een koude bakkerij en deels een tearoom. De scherpe prijzen zorgen voor een constante toestroom van klanten die graag koffie bij hun stukje vlaai (of vlaai bij hun kopje koffie) willen. 
+Vangrootloon levert niet alleen aan eigen zaken, maar ook aan supermarkten en andere koude bakkers. Een Vangrootloon-winkel is deels een koude bakkerij en deels een tearoom. De scherpe prijzen zorgen voor een constante toestroom van klanten die graag koffie bij hun stukje vlaai (of vlaai bij hun kopje koffie) willen. 
 
 De website trakteert ons op slagzinnen als ‘Ruim assortiment van producten: ieder zijn smaak’ en 'Een uitgebreid aanbod aan broden: proef ze allemaal’. En dat is niet gelogen: dit is een traditionele Belgische bakkerij zoals wij Vlamingen ze graag hebben. Veel geluk met het maken van je keuze. De fabriek is best indrukwekkend: bij elke stap van het bakken van taart komt een andere machine kijken, allemaal verbonden met dezelfde band. Het deeg rolt uit de ene machine en wordt keurig uitgestoken door de andere. Een gigantische drukketel kookt de banketbakkersroom en perst de vulling op de bodem. Niet te veel, niet te weinig. De band loopt verder tot aan de oven en hup: weer een vlaai gebakken!
 
-Vangrootloon is een familiebedrijf dat in 1918 gebak verkocht met paard en kar. Ondertussen telt het bedrijf in 2019 meer dan 300 werknemers met 23 vestigingen in Limburg en Vlaams-Brabant. Het woord 'ambachtelijk' betekent voor hun werken met streekgebonden en seizoensgebonden producten. Een aardbeientaart wordt in tegenstelling tot bij veel bakkers enkel tijdens het seizoen verkocht. Het gebak wordt om vijf uur 's morgens in vrachtwagens geladen om diezelfde morgen in vitrines van lokale winkels te pronken. 
+Vangrootloon is een familiebedrijf dat in 1918 gebak verkocht met paard en kar. Ondertussen telt het bedrijf in 2019 meer dan 300 werknemers met 23 vestigingen in Limburg en Vlaams-Brabant. Het woord 'ambachtelijk' betekent voor hun werken met streekgebonden en seizoensgebonden producten. Een aardbeientaart wordt in tegenstelling tot bij veel bakkers enkel tijdens het seizoen verkocht. Het gebak wordt om vijf uur 's ochtends in vrachtwagens geladen om diezelfde morgen in vitrines van lokale winkels te pronken. 
 
 Vanwege de afstand wil Vangrootloon voorlopig niet verder weg leveren dan Leuven. Toch hebben ze klanten over heel België die indien het écht nodig is kunnen worden voorzien van diepgevroren producten, eerder als uitzondering dan als regel. 
 
-Professionele kneedmachines zijn niet nieuw voor mij, maar grote hoeveelheden deeg zien voorbij rollen op een band was dat wel. Zelfs de grote hoeveelheden die Sarah en haar team uit de oven in Gent tovert, stelt weinig voor in vergelijking met wat hier per uur gebeurt.
+Professionele kneedmachines zijn niet nieuw voor mij, maar grote hoeveelheden deeg zien voorbij rollen op een band was dat wel. Zelfs de grote aantallen brood die Sarah en haar team uit de oven in Gent toveren stelt weinig voor in vergelijking met wat hier per uur gebeurt.
 
-De trage bakkershand die sandwiches met een kwastje liefdevol bestrijkt met een eimengsel worden zonder pardon vervangen door op perslucht gebaseerde sproeiers die netjes passen in het automatisch proces. Alles is tot in de puntjes verzorgd en overal is rekening gehouden met hygiëne. De verkoop van grote hoeveelheden maakt het mogelijk voor Vangrootloon om te kiezen voor een lagere prijsklasse. 
+De trage bakkershand die sandwiches met een kwastje liefdevol bestrijkt met een eimengsel worden zonder pardon vervangen door op perslucht gebaseerde sproeiers die netjes passen in het volautomatisch bakproces. Alles is tot in de puntjes verzorgd en overal is rekening gehouden met hygiëne. De verkoop van grote hoeveelheden maakt het voor Vangrootloon mogelijk om te kiezen voor een lagere prijsklasse. 
 
 * * *
 
@@ -377,9 +377,9 @@ In principe kan men ook op grote schaal met enkel water, bloem, gist en zout lek
 
 Inconsistentie is de grootste vijand van de bakker - dat geen kans krijgt door frequente, hetzij minimale, wijzigingen aan het proces. De ene oogst is de andere niet. Handwerk, gevoel en ervaring spelen hier veel beter op in dan een lopende band. In dat geval is het weer de verbeteraar die de dag redt. 
 
-Gelukkig is niet alles volledig geautomatiseerd. Getalenteerde bakkershanden komen aan de pas bij onder andere het maskeren van taarten met _crème au beurre_ in de koude sectie. Bakkers in dienst bij grotere fabrieken zijn specialisten die zich toeleggen op één onderdeel van het proces. Vacatures worden niet uitgeschreven als 'broodbakker gezocht', maar als 'kneed expert gezocht' of 'verdeler gevraagd'. Die industrie trekt ook verdacht veel ingenieurs aan die de verantwoordelijkheid krijgen om het productieproces verder te optimaliseren.
+Gelukkig is niet alles volledig geautomatiseerd. Getalenteerde bakkershanden komen in actie bij onder andere het maskeren van taarten met _crème au beurre_ in de koude sectie. Bakkers in dienst bij grote bedrijven zijn specialisten die zich toeleggen op één onderdeel van het proces. Vacatures worden niet uitgeschreven als 'broodbakker gezocht', maar als 'kneedexpert gezocht' of 'verdeler gevraagd'. Die industrie trekt ook verdacht veel ingenieurs aan die de verantwoordelijkheid krijgen om het productieproces verder te optimaliseren.
 
-Veel geld verdienen kan dus met behulp van automatisatie en opzet van filialen, gegeven een voorafgaande grote investering. Ook al weten de machines een zekere indruk te maken, toch verliest 'ambachtelijk' bakken op zo'n grote schaal een groot stuk van zijn karakteristieke charme. En dit wetende dat de grootste bakkerij van Belgisch Limburg niets voorstelt in vergelijking met volautomatische fabrieken ter grootte van een paar voetbalvelden. 
+Veel geld verdienen kan dus met behulp van automatisatie en opzet van filialen, gegeven een voorafgaande grote investering. Ook al weten de machines een zekere indruk te maken, toch verliest 'ambachtelijk' bakken op zo'n grote schaal een groot stuk van zijn karakteristieke charme, wetende dat de grootste bakkerij van Belgisch Limburg niets voorstelt in vergelijking met volautomatische fabrieken ter grootte van een paar voetbalvelden. 
 
 Er ontbrak één belangrijk ding in de fabriek dat ik wel hoopte te vinden zo'n honderd kilometer meer naar het zuidoosten: _zuurdesem_. 
 
@@ -393,21 +393,21 @@ Februari 2014
 
 Het '_Puratos Center for Bread Flavour_' ligt in Duitstalig België, in een klein heuvelachtig dorpje genaamd Saint-Vith. De naam van het centrum belooft alvast veel. Ik werd er hartelijk ontvangen door Karl De Smedt, de communicatiemanager van de bakkerijafdeling. Karl reist heel de wereld rond op zoek naar nieuwe soorten zuurdesemculturen. Dit zijn mensen die uren kunnen blijven praten over bloem en gist. Ik was aan het juiste adres. 
 
-‘Er zijn veel zuurdesem tradities over heel de wereld. De Grieken fermenteren hun desem met basilicum. In San Francisco werken ze met natte, warme desems. Die cultuur is uniek en bevat de melkzuurbacterie _Lactobacillus Sanfranciscensis_. In Alaska is het erg koud en werd desem vroeger tegen het lichaam gedragen. Lichaamstemperatuur geeft dan weer een andere bacteriecultuur. De omgevingsvariabelen samen met de bloem zorgen voor een unieke smaak’ vertelt Karl. Puratos stuurt mensen zoals Karl op ontdekkingstocht om nieuwe bacteriesoorten mee naar huis te brengen. 
+‘Er zijn veel zuurdesemtradities over heel de wereld. De Grieken fermenteren hun desem met basilicum. In San Francisco werken ze met natte, warme desems. Die cultuur is uniek en bevat de melkzuurbacterie _Lactobacillus Sanfranciscensis_. In Alaska is het erg koud en werd desem vroeger tegen het lichaam gedragen. Lichaamstemperatuur geeft dan weer een andere bacteriecultuur. De omgevingsvariabelen samen met de bloem zorgen voor een unieke smaak’ vertelt Karl. Puratos stuurt mensen zoals Karl op ontdekkingstocht om nieuwe bacteriesoorten mee naar huis te brengen. 
 
-‘Wij werken samen met professor Marco Gobbetti die in zijn laboratorium in Italië alle gisten en bacteriën isoleert. Een rijke cultuur bevat meer dan duizend verschillende soorten. De volgende stap is het combineren van de geïsoleerde organismen van verschillende culturen om zo de ideale nieuwe cultuur op te kweken. Zo ontwikkelen wij onze eigen zuurdesem producten. We beschikken momenteel over meer dan vierhonderd verschillende melkzuurbacteriën.’ 
+‘Wij werken samen met professor Marco Gobbetti die in zijn laboratorium in Italië alle gisten en bacteriën isoleert. Een rijke cultuur bevat meer dan duizend verschillende soorten. De volgende stap is het combineren van de geïsoleerde organismen van verschillende culturen om zo de ideale nieuwe cultuur op te kweken. Zo ontwikkelen wij onze eigen zuurdesemproducten. We beschikken momenteel over meer dan vierhonderd verschillende melkzuurbacteriën.’ 
 
-We komen aan in een bakkerij die als testlab fungeert om te kunnen experimenteren met de gisten in het broodbakproces. Karl laat me verschillende poeder- en vloeibare desems ruiken en proeven. Ik ben verrast van het scala aan kleuren en smaken: van zoet naar zuur, van donkerbruin gekarameliseerd naar lichtgeel. 
+We komen aan in een bakkerij die als testlab fungeert om te kunnen experimenteren met de gisten in het broodbakproces. Karl laat me verschillende poeder- en vloeibare desems ruiken en proeven. Ik ben verrast door het scala aan kleuren en smaken: van zoet naar zuur, van donkerbruin gekarameliseerd naar lichtgeel. 
 
 ‘Sommige producten worden als algemeen rijsmiddel verkocht. Anderen fungeren als specialist: die moeten dienen voor baguettes of voor zachte luxe. Door te spelen met de organismen kunnen we blijven proberen tot we de ideale combinatie hebben ontdekt.’ Mijn verwonderde blik doet Karl glimlachen. 
 
 ‘We hebben hier regelmatig bezoekers over de vloer die onder de indruk zijn. Hier komen bakkers op zoek naar de heilige graal om hun proces te optimaliseren, maar ook Aziatische managers van enorme ketens die smaak en technologie wensen te combineren.’ 
 
-‘Kan ik ook een stuk brood proeven in plaats van de desem zelf? Dat geeft een completer beeld’, zeg ik, wijzend naar de netjes geordende stapel afkoelende broden in het rek. Karl schudt zijn hoofd. 
+‘Kan ik ook een stuk brood proeven? Dat geeft een completer beeld’, zeg ik, wijzend naar de netjes geordende stapel afkoelende broden in het rek. Karl schudt zijn hoofd. 
 
 ‘Sorry, die zijn gereserveerd voor een belangrijke demonstratie. Ik had misschien iets extra moeten laten bakken… Maar hier, pak een zak van onze O-Tentic mee om thuis te proberen!’ Hij overhandigt me een zak van `2 kg` en ik bedank hem uitvoerig. 
 
-Op de zak staat ‘_O-Tentic DURUM - Dosage: `4%`_’. De hoeveelheid geeft aan hoe je dit product dient te gebruiken. Het werkt als een vervanger voor gedroogde gist en voegt tegelijkertijd smaken van verschillende gecombineerde bacteriën toe die ontdekt zijn door de Marco Polo’s van zuurdesem. Ik heb er verschillende keren mee gebakken toen ik terug thuis kwam en moet bekennen dat het op korte tijd toch aardig wat smaak weet te introduceren. Die producten zijn immers gemaakt voor degen die onder de vier uur klaar zijn. 
+Op de zak staat ‘_O-Tentic DURUM - Dosage: `4%`_’. De hoeveelheid geeft aan hoe je dit product dient te gebruiken. Het werkt als een vervanger voor gedroogde gist en voegt tegelijkertijd smaken van verschillende gecombineerde bacteriën toe die ontdekt zijn door de Marco Polo’s van zuurdesem. Ik heb er verschillende keren mee gebakken toen ik terug thuis kwam en moet bekennen dat het op korte tijd toch aardig wat smaak weet te introduceren. Die producten zijn immers gemaakt voor degen die onder de vier uur klaar moeten zijn. 
 
 Er zijn op internet nog andere bronnen om aan wereldculturen te geraken zoals Sourdoughs International[^sdnat]. Via die website is iedereen maar één klik verwijderd van een Finse, Russische of Australische gedroogde zuurdesemcultuur.
 
@@ -415,50 +415,50 @@ Er zijn op internet nog andere bronnen om aan wereldculturen te geraken zoals So
 
 * * *
 
-De gebouwen in Saint-Vith zijn overgenomen van een oude veehouderij. Wanneer Karl me verder leidt naar een van de bijgebouwen waar hun producten geproduceerd worden, vertelt hij: 
+De gebouwen in Saint-Vith zijn overgenomen van een oude veehouderij. Wanneer Karl me verder leidt naar een van de bijgebouwen waar hun producten worden geproduceerd, vertelt hij: 
 
-‘Dit was vroeger een boerderij. De machines die je nu hier ziet werden toen gebruikt om het teveel aan melk te verwerken tot melkpoeder. Dat is ideaal voor ons: wij verwerken het teveel aan zuurdesem ook tot poeder. Klanten kunnen kiezen of ze de desems vloeibaar kopen of niet. Door de grote luchtstroming droogt elk deeltje heel snel uit en bekomen we zo uiteindelijk het poeder.’ Sommige klanten kunnen niet kiezen als het op de wetgeving aankomt: in Frankrijk is er een wet die het gebruik van actieve desems verplicht. Puratos exporteert dan hun vloeibare producten. In Duitsland werken veel bakkers met wat Karl ‘opstartdesem’ noemt: desempoeder dat ook wordt verkocht in Duitse supermarkten. René van bakkerij De Veldkeuken bevestigde dit verhaal. 
+‘Dit was vroeger een boerderij. De machines die je nu hier ziet werden toen gebruikt om het teveel aan melk te verwerken tot melkpoeder. Dat is ideaal voor ons: wij verwerken het teveel aan zuurdesem ook tot poeder. Klanten kunnen kiezen of ze de desems vloeibaar kopen of niet. Door de grote luchtstroming droogt elk deeltje heel snel uit en bekomen we zo uiteindelijk het poeder.’ Sommige klanten kunnen niet kiezen als het op wetgeving aankomt: in Frankrijk is er een wet die het gebruik van actieve desems verplicht. Puratos exporteert dan hun vloeibare producten. In Duitsland werken veel bakkers met wat Karl ‘opstartdesem’ noemt: desempoeder dat ook wordt verkocht in Duitse supermarkten. René van bakkerij De Veldkeuken bevestigde dit verhaal. 
 
-Ik heb moeite om Karl te begrijpen door het lawaai van de machines. Puratos verkoopt geen vastere desems: alles is meer water dan bloem, over de `100%` hydratatie. Vloeibare desem maakt de verpakking en transportatie eenvoudiger. 
+Ik heb moeite om Karl te begrijpen door het lawaai van de machines. Puratos verkoopt geen vaste desems: alles is meer water dan bloem, over de `100%` hydratatie. Vloeibare desem maakt de verpakking en transportatie eenvoudiger. 
 
-‘De meeste bakkers die onze desems kopen maken gebruik van een speciale machine om die op te kweken en op temperatuur te houden. Dat is eigenlijk een grote incubatie kast van inox met een kraan om desem af te tappen die in het brooddeeg wordt gekneed.’ Die machine had ik zien staan in hun testlabo. Het is een groot ding dat door groothandelaars wordt verkocht onder de naam ‘zuurdesem productie machine’. Het inoxen ding schreeuwt industrie. 
+‘De meeste bakkers die onze desems kopen maken gebruik van een speciale machine om die op te kweken en op temperatuur te houden. Dat is eigenlijk een grote incubatiekast van inox met een kraan om desem af te tappen die in het brooddeeg wordt gekneed.’ Die machine had ik zien staan in hun testlabo. Het is een groot ding dat door groothandelaars wordt verkocht onder de naam ‘zuurdesem productiemachine’. Het inoxen ding schreeuwt industrie. 
 
 \begin{wrapfigure}{l}{0.5\textwidth}
     \includegraphics[height=6cm]{img/bw/sdmachine.jpg}
-    \caption{Een zuurdesem productie machine.}
+    \caption{Een zuurdesem productiemachine.}
 \end{wrapfigure}
 
 Vanuit België vertrekken dus liters aan vloeibare desem die naar binnen- en buitenland stromen. 
 
 Hoe kan Puratos wel de versheid van hun producten garanderen? Tijdens het wandelen van machine naar machine, antwoordt Karl: 
 
-‘Goede vraag! Zuurdesems kan je opdelen in verschillende categorieën. Type I[^types] is de typische traditionele desem die door verversen in leven wordt gehouden.’ Dit is het type van desem die ik gebruikte in mijn Desem Doos project. 
+‘Goede vraag! Zuurdesems kan je opdelen in verschillende categorieën. Type I[^types] is de typische traditionele desem die door verversen in leven wordt gehouden.’ Dit is het type van desem dat ik gebruikte in mijn Desem Doos project. 
 
-‘Dan heb je onze vloeibare desems, dat is type II. Een speciale fermentatie stap boven de `30° C` gecombineerd met een langere periode van rust zorgt voor een stabiele samenstelling die beter bewaart. Type II wordt gebruikt als natuurlijke verbeteraar. Je hebt nog altijd gist nodig die wij toevoegen aan het product.’ De stabilisatie van een desem vereist het gebruik van speciale apparatuur zoals grote drukketels. Ik kan thuis niet zomaar type II desem maken, ook al zou ik het willen. Het verlies aan goede rijskracht maakt voor mij deze soort zuurdesem niet erg aantrekkelijk. 
+‘Dan heb je onze vloeibare desems, dat is type II. Een speciale fermentatiestap boven de `30° C` gecombineerd met een langere periode van rust zorgt voor een stabiele samenstelling die beter bewaart. Type II wordt gebruikt als natuurlijke verbeteraar. Je hebt nog altijd gist nodig die wij toevoegen aan het product.’ De stabilisatie van een desem vereist het gebruik van speciale apparatuur zoals grote drukketels. Ik kan thuis niet zomaar type II desem maken, ook al zou ik het willen. Het verlies aan goede rijskracht maakt voor mij deze soort zuurdesem niet erg aantrekkelijk. 
 
 ‘Dan heb je nog type III, dat is de gedroogde versie van type II. De bacterieculturen verschillen wel degelijk door het droogproces.‘ Het product dat ik meekreeg, O-Tentic, bevat ook gedroogde gist. 
 
-[^types]: Lees hier meer over in een verslag over functionele en technologische aspecten van zuurdesem fermentatie [@yazar2012functional]. 
+[^types]: Lees hier meer over in een verslag over functionele en technologische aspecten van zuurdesemfermentatie [@yazar2012functional]. 
 
 * * *
 
-Er hangen verschillende informatieve bordjes in de ruimtes over fermenteren. Een bondige samenvatting in de vorm van een grafiek blijft me bij. De x-as gaat van droog naar nat en de y-as gaat van koud naar warm. Rechtsboven stond ‘LAB+’: meer _Lactic Acid Bacteria_ of melkzuren. Linksonder stond ‘AAB+’: meer _Acetic Acid Bacteria_. Hoe warmer en natter je desem, hoe meer melkzuur. Hoe kouder en harder, hoe meer azijnzuur. 
+In de ruimtes hangen verschillende informatieve bordjes over fermenteren. Een bondige samenvatting in de vorm van een grafiek blijft me bij. De x-as gaat van droog naar nat en de y-as gaat van koud naar warm. Rechtsboven stond ‘LAB+’: meer _Lactic Acid Bacteria_ of melkzuren. Linksonder stond ‘AAB+’: meer _Acetic Acid Bacteria_. Hoe warmer en natter je desem, hoe meer melkzuur. Hoe kouder en harder, hoe meer azijnzuur. 
 
-Zowel René als Sarah van De Superette maken handig gebruik van dit feit door hun desem op een lekker warm plaatsje te laten staan. Thuis heb ik er meer moeite mee omdat ik niet zoals professionele bakkers elke dag gebruik maak van mijn desem. Die leeft door de week in de koelkast op `7° C`. Azijnzuur is het logische gevolg daarvan. Dat los ik op door een dag op voorhand de desem verschillende keren aan te lengen met bloem en water. 
+Zowel René als Sarah maken handig gebruik van dit feit door hun desem op een lekker warm plaatsje te laten staan. Thuis heb ik er meer moeite mee omdat ik niet, zoals professionele bakkers, elke dag gebruik maak van mijn desem. Die leeft door de week in de koelkast op `7° C`. Azijnzuur is het logische gevolg daarvan. Dat los ik op door een dag op voorhand de desem verschillende keren aan te lengen met bloem en water. 
 
 Ik vertel Karl over mijn opleiding en mijn ideaalbeeld om desem terug alledaags te maken. Hoe overtuig ik iemand van zuurdesem? 
 
-‘Daar heb ik wel advies voor, moest je ooit beginnen met een micro bakkerij. Begin zoet. Mensen zijn geen complexe smaakpaletten meer gewoon. Probeer gradueel over te schakelen. Ververs je desem met korte periodes in een warme omgeving. Leer het ze eten!’ Hij neemt het potje met mijn zuurdesemcultuur dat ik had meegebracht nog eens vast en ruikt eraan. Een denkpauze volgt. 
+‘Daar heb ik wel advies voor, moest je ooit beginnen met een microbakkerij. Begin zoet. Mensen zijn geen complex smaakpalet meer gewoon. Probeer gradueel over te schakelen. Ververs je desem met korte periodes in een warme omgeving. Leer het ze eten!’ Hij neemt het potje met mijn zuurdesemcultuur dat ik had meegebracht nog eens vast en ruikt eraan. Een denkpauze volgt. 
 
 ‘Zoals je desem hier. Te veel azijnzuur. Zet hem eens op `24` tot `25°C` en ververs vaker. Ook bij het verkopen van brood hebben mensen nog te veel het idee van een klassieke _boterham_ in hun hoofd. Brood moet voor hen gebakken zijn in een bakvorm en smeerbaar zijn. Geen grote gaten, oh nee, daar valt de chocopasta uit! Bak dan ook zo’n brood, maar dan met desem. Stapje per stapje overschakelen naar een rijke smaak.’ 
 
-‘Bak jij thuis ook zelf brood met zuurdesem?’ vraag ik. Hij knikt bevestigend. 
+‘Bak jij thuis ook brood met zuurdesem?’ vraag ik. Hij knikt bevestigend. 
 
 ‘Maar mijn vrouw heeft graag _sneekes_, zoals veel Vlamingen. Dus bak ik gewoon in een bakvorm. Maar wel met desem!’ Een knipoog. Lepe kerels, die managers. 
 
 * * *
 
-De kers op de taart is natuurlijk de bibliotheek in het Puratos Center. Dit is geen gewone bibliotheek waar je boeken kan lezen, maar een zuurdesem bibliotheek waar unieke desemculturen tentoon gesteld staan. 
+De kers op de taart is natuurlijk de bibliotheek in het Puratos Center. Dit is geen gewone bibliotheek waar je boeken kan lezen, maar een zuurdesembibliotheek waar unieke desemculturen staan tentoon gesteld. 
 
 ‘Ben je er klaar voor?’ vraagt Karl, de klink van de deur vasthoudend. Ik neem aan dat iedereen van Puratos erg trots is op de eerste zuurdesembibliotheek ter wereld. We stappen een donkere ruimte in die piekfijn met hout is afgewerkt. 
 
@@ -479,11 +479,11 @@ Elke koelkast is netjes versierd met een plaatje dat de origine, het soort bloem
 
 ‘Betekent dit dat jullie elke dag deze desems moeten verversen?’ Karl schudt zijn hoofd. 
 
-‘Dat zou ook te veel werk vergen. Om de paar maanden doorlopen we een aantal uitgebreide opkweek fases, waarna ze worden teruggeplaatst hier in de glazen potten.’ Karl gaat aan een bureau zitten en zet de beamer aan. Een projectie over de geschiedenis van de bibliotheek vult de witte muur. 
+‘Dat zou ook te veel werk vergen. Om de paar maanden doorlopen we een aantal uitgebreide opkweekfases, waarna ze worden teruggeplaatst hier in de glazen potten.’ Karl gaat aan een bureau zitten en zet de beamer aan. Een projectie over de geschiedenis van de bibliotheek vult de witte muur. 
 
 ‘Dit is een bibliotheek. Betekent dit dat ik een desem kan uitlenen?’ Opnieuw hoofdschudden. 
 
-‘Het doel van de bibliotheek is om de biodiversiteit van zuurdesem culturen te bewaren. Niet om ze zomaar uit te lenen. We zijn begonnen met 43 verschillende culturen en hebben er ondertussen meer dan 80. Zoals ik al zei zijn we geïnteresseerd in variatie. Elk jaar concentreren we ons op specifieke regio’s. Die culturen worden eerst door professor Gobbetti geanalyseerd.’ Dat klinkt als een win-win situatie: de bakkerij zijn desem is gered van een potentiële ondergang, en Puratos heeft er weer een paar bacteriestammen bij. 
+‘Het doel van de bibliotheek is om de biodiversiteit van zuurdesemculturen te bewaren. Niet om ze zomaar uit te lenen. We zijn begonnen met 43 verschillende culturen en hebben er ondertussen meer dan 80. Zoals ik al zei zijn we geïnteresseerd in variatie. Elk jaar concentreren we ons op specifieke regio’s. Die culturen worden eerst door professor Gobbetti geanalyseerd.’ Dat klinkt als een win-winsituatie: de bakkerij zijn desem is gered van een potentiële ondergang, en Puratos heeft er weer een paar bacteriestammen bij. 
 
 ‘Het is een _non-profit_ initiatief’, verzekert Karl mij, ‘het enige wat wij vragen is een jaarlijkse hoeveelheid bloem om te gebruiken bij het verversen.’
 
@@ -491,15 +491,15 @@ Puratos verkoopt niet alleen desem. Ook conventionele gedroogde gist wordt er ge
 
 En toch doen ze de moeite om hobbyisten zoals mij met plezier te ontvangen en de tijd te nemen om me rond te leiden. Mijn oordeel over de industrie heb ik na mijn bezoek grondig moeten herzien. De aandacht en liefde voor zuurdesem binnen Puratos kan alleen maar betekenen dat, zoals ook mijn wens is, desem terug meer onder de mensen wordt gebracht. Er zijn immers meerdere wegen die leiden naar eenzelfde doel. Zoals Karl zei: 'wij wensen zuurdesem terug op de markt te zetten'. De producten van Puratos doen de bakker kennismaken met zuurdesem, ook al wordt het voornamelijk gebruikt als smaakmaker in combinatie met conventionele gist. 
 
-Misschien werkt het zoals mijn broodbakmachine: een deur die opent naar een  wereld boordevol pittige smaken, nieuwe texturen en oneindig veel mogelijkheden…
+Misschien werkt het zoals mijn voormalige broodbakmachine: een deur die opent naar een  wereld boordevol pittige smaken, nieuwe texturen en oneindig veel mogelijkheden…
 
 \begin{flushright}
 Mei 2019
 \end{flushright}
 
-Vijf jaar later spreken Karl en ik in context van mijn boek opnieuw af in Saint-Vith. Het was een leuk weerzien waaruit bleek dat Puratos niet heeft stilgezeten. De culturen in de bibliotheek zijn uitgebreid tot meer dan 120, er zijn vanzelfsprekend nieuwe producten ontwikkeld en er is zelfs een nieuw gebouw bijgekomen dat de geschiedenis van brood en desem uit de doeken doet in de vorm van een privé museum. 
+Vijf jaar later spreken Karl en ik in context van mijn boek opnieuw af in Saint-Vith. Het was een leuk weerzien waaruit bleek dat Puratos niet heeft stilgezeten. De culturen in de bibliotheek zijn uitgebreid tot meer dan 120, er zijn vanzelfsprekend nieuwe producten ontwikkeld en er is zelfs een nieuw gebouw bijgekomen dat de geschiedenis van brood en desem uit de doeken doet in de vorm van een privémuseum. 
 
-Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een beter beeld krijgen van mogelijke toepassingen van hun zuurdesem producten. Dimitri vergezelde me de eerste dag en keek zijn ogen uit.
+Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een beter beeld krijgen van mogelijke toepassingen van hun zuurdesemproducten. Dimitri vergezelde me de eerste dag en keek zijn ogen uit.
 
 'En, wat willen jullie bakken?' vraagt Karl ons. 
 
@@ -507,21 +507,21 @@ Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een b
 
 'Natuurlijk gaat dat! Jullie zijn hier bij Puratos hé, hier gaat alles. We zullen straks eens kijken of er nog genoeg _in stock_ is. En wat nog?' Ik keek naar Dimitri, die niet onmiddellijk iets kon verzinnen. 
 
-'Wat dacht je van baguettes?' stelde ik voor. 'Ik heb altijd moeite met de juiste vormgeving als er veel water an de pas komt.' 
+'Wat dacht je van baguettes?' stelde ik voor. 'Ik heb altijd moeite met de juiste vormgeving als er veel water aan de pas komt.' 
 
 'Goed, baguettes, kunnen we zeker doen. Wat nog?' 
 
-'Een typisch San Francisco brood zou ook wel leuk zijn, om te kunnen vergelijken met wat wij gebruikelijk thuis doen.' 
+'Een typisch San Franciscobrood zou ook wel leuk zijn, om te kunnen vergelijken met wat wij gebruikelijk thuis doen.' 
 
-'Zeer goed. _Let's get started then!_'. Op naar de test bakkerij. 
+'Zeer goed. _Let's get started then!_'. Op naar de testbakkerij. 
 
 * * *
 
-Na het aantrekken van de nodige witte jassen en haarnetjes betreden we de bakkerij. Precies zoals vorige keer hangt in het hele centrum een aangename, complexe geur van gebakken gist. Heerlijk om zo elke dag op je werk toe te komen. Dat is iets heel anders dan de muffe geur van een slecht verlucht klaslokaal. Campusverantwoordelijken, gelieve hier noties van te nemen.
+Na het aantrekken van de nodige witte jassen en haarnetjes betreden we de bakkerij. Precies zoals vorige keer hangt in het hele centrum een aangename, complexe geur van gebakken gist. Heerlijk om zo elke dag op je werk aan te komen. Dat is iets heel anders dan de muffe geur van een slecht verlucht klaslokaal. Campusverantwoordelijken, gelieve hier notie van te nemen.
 
-Karl laat ons telkens `2 kg` bloem en `40 g` zout afwegen. We beginnen met het iconische Italiaans brood, waar een speciale soort zeer fijngemalen durumtarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
+Karl laat ons telkens `2 kg` bloem en `40 g` zout afwegen. We beginnen met het iconische Italiaanse brood, waar een speciale soort zeer fijngemalen durumtarwe voor wordt gebruikt, genaamd '_semolina rimacinata di grano duro_'. Op de meelzak die ik later van Karl meekreeg staat '_Mininni. Industria Molitoria. Altamura. Solo per panificazione_'. Als rijsmiddel gebruiken we de gedroogde gist met desem, O-Tentic. Daar zitten immers micro-organismen in die afkomstig zijn van een échte zuurdesemcultuur uit Altamura. 
 
-'Dit is gedroogde desem met toegevoegde gist, vitamine C en enzymen. Dat is natuurlijk niet hetzelfde als een vloeibare desem. In het droogproces gaan veel organismen verloren. Dit is een kant-en-klare oplossing voor een bakker die meer smaak wilt toevoegen, zonder van zijn gekend schema te moeten afwijken. Het is kiezen natuurlijk, begrijp je?' Wij knikken en wegen de aanbevolgen dosering van `4%` af. 
+'Dit is gedroogde desem met toegevoegde gist, vitamine C en enzymen. Dat is natuurlijk niet hetzelfde als een vloeibare desem. In het droogproces gaan veel organismen verloren. Dit is een kant-en-klare oplossing voor een bakker die meer smaak wil toevoegen, zonder van zijn gekend schema te moeten afwijken. Het is kiezen natuurlijk, begrijp je?' Wij knikken en wegen de aanbevolen dosering van `4%` af. 
 
 'Hoeveel water gaan we hiervoor gebruiken?' vraag ik, terwijl Karl alles in een spiraalkneder kiepert. 
 
@@ -535,9 +535,9 @@ Na een grondige windowpane test verdelen we het deeg in vier. Het deeg is plakke
 
 [^dop]: Een '_Denominazione di Origine Protetta_' certificaat, ofwel een bescherming van oorsprong, bepaalt dat producten lokaal gekweekt en verpakt worden. IGP, of '_Indicazione Geografica Protetta_', is een ander label dat minder strikt is. Bekende DOP producten zijn Balsamico (di Moderna), San Marzano tomaten, en uiteraard Parmezaanse kaas. 
 
-Daarna volgde het baguette deeg. 
+Daarna volgde het baguettedeeg. 
 
-'Hiervoor gaan we een vloeibare desem gebruiken met rogge.' Karl haalt een grote plastieken container uit de koeling en weegt `15%` af. 
+'Hiervoor gaan we een vloeibare desem gebruiken met rogge.' Karl haalt een grote plastieken doos uit de koeling en weegt `15%` af. 
 
 'Amai, dat is érg vloeibaar! Heeft dat een bepaalde reden?' vraagt Dimitri. 
 
@@ -545,30 +545,30 @@ Daarna volgde het baguette deeg.
 
 'Mijn zuurdesem bewaar ik thuis ook in de koelkast, maar heeft na een dag of drie reeds honger, ook al is het gekoeld. Hoelang kan je dit product bewaren?' 
 
-'Twee maanden. Dat komt door de erg hoge zuurtegraad. Dit is gestabiliseerde zuurdesem, type II. Neem morgen uw cultuur eens mee, dan kunnen we de pH en de totale aciditeit eens meten.' De vloeibare desem ruikt ondanks de zuurtegraad toch nog redelijk zoet. Het roggemeel kleurt het vloeibare mengsel tot een grijsbruine massa, vol met duidelijk zichtbare tikjes zemelen. 
+'Twee maanden. Dat komt door de erg hoge zuurtegraad. Dit is gestabiliseerde zuurdesem, type II. Neem morgen uw cultuur eens mee, dan kunnen we de pH-waarde en de totale aciditeit eens meten.' De vloeibare desem ruikt ondanks de zuurtegraad toch nog redelijk zoet. Het roggemeel kleurt het vloeibare mengsel tot een grijsbruine massa, vol met duidelijk zichtbare tikjes zemelen. 
 
 'We moeten hier wel een beetje verse gist aan toevoegen. Door die verzuring is de rijskracht zo goed als weg. Dat zou misschien gaan als we drie dagen tijd hebben. Het is weer kiezen hé.' In de gedroogde O-Tentic oplossing zit reeds toegevoegde gist, terwijl je met de vloeibare desem zelf de verhoudingen kan bepalen. 
 
 Voor het baguettedeeg gebruikten we '_farine de tradition_', een Franse crèmekleurige bloem met toegevoegde diastatische mout. Dit komt ruwweg overeen met `T65`, waarbij de mout een handje helpt met de kleuring en rijskracht. 
 
-'Dat wordt toegevoegd voordat de zakken bloem vertrekken bij de molen. Veel bakkers weten niet eens wat er nu precies in hun bloem zit, maar ze vervloeken wel onze producten omdat het chemisch of ongezond zou zijn. Ascorbinezuur, enzymen of mout zijn erg frequent gebruikte en natuurlijke additieven die ook wij gebruiken. De O-Tentic is niet meer dan een gedroogde vorm van een van onze vloeibare desems, met die extra's. Daar is niets chemisch of slecht aan. Als een bio bakker stoeft met zijn '100% natuurlijk' label, vergeet hij meestal de toevoegingen van de molenaar. Dat is soms wel frustrerend voor ons' verklaart Karl. 
+'Dat wordt toegevoegd voordat de zakken bloem vertrekken bij de molen. Veel bakkers weten niet eens wat er nu precies in hun bloem zit, maar ze vervloeken wel onze producten omdat het chemisch of ongezond zou zijn. Ascorbinezuur, enzymen of mout zijn erg frequent gebruikte en natuurlijke additieven die ook wij gebruiken. De O-Tentic is niet meer dan een gedroogde vorm van een van onze vloeibare desems, met die extra's. Daar is niets chemisch of slecht aan. Als een biobakker stoeft met zijn '100% natuurlijk'-label, vergeet hij meestal de toevoegingen van de molenaar. Dat is soms wel frustrerend voor ons' verklaart Karl. 
 
 'Het is zelfs zo dat we merken dat consumenten meer bezig zijn met wat er op het etiket staat. Dingen als emulgatoren schrikken af, en worden meer en meer vervangen door enzymen, ook al bereik je daar nooit hetzelfde resultaat mee, zeker niet met vetter deeg als een brioche.' 
 
 'Zijn dat recente trends die jullie ontdekken?' 
 
-'In zekere zin wel, en wij zijn daar erg bewust mee bezig. Toen werd aangetoond dat bromaat kankerverwekkend kon zijn, hebben wij onmiddellijk geslist om daarmee te stoppen. In veel Amerikaanse staten wordt dat nog veelvuldig toegepast om deeg op te blazen. Het is niet alleen een kwestie van de markt te volgen, maar ook om op een verantwoorde manier de voedingsindustrie te kunnen helpen. Zie je, met enzymen kan je fantastische dingen doen.' Ondertussen controleert Karl het baguettedeeg door de kneder stil te leggen en er eens aan te trekken. De tweede snelheid wordt ingezet en nog wat water toegevoegd. 
+'In zekere zin wel, en wij zijn daar erg bewust mee bezig. Toen werd aangetoond dat bromaat kankerverwekkend kon zijn, hebben wij onmiddellijk beslist om daarmee te stoppen. In veel Amerikaanse staten wordt dat nog veelvuldig toegepast om deeg op te blazen. Het is niet alleen een kwestie van de markt te volgen, maar ook om op een verantwoorde manier de voedingsindustrie te kunnen helpen. Zie je, met enzymen kan je fantastische dingen doen.' Ondertussen controleert Karl het baguettedeeg door de kneder stil te leggen en er eens aan te trekken. De tweede snelheid wordt ingezet en nog wat water toegevoegd. 
 
-De uitleg die we van Karl krijgen getuigt van een doordachte filosofie over de toekomst van brood. Het is ons duidelijk dat we op gebied van zuurdesem op dezelfde lijn liggen. 
+De uitleg die we van Karl krijgen getuigt van een doordachte filosofie over de toekomst van brood. Het is ons duidelijk dat we op gebied van zuurdesem op dezelfde lijn zitten. 
 
 * * *
 
-'De kwaliteit van brood is nog nooit zo goed geweest als nu. Dat geldt zelfs het gemiddeld supermarktbrood. Dankzij de moderne technologie begrijpen we nu wat er gebeurt bij elke stap van het broodbakproces. Vroeger deden mensen zomaar iets hé. En de kwaliteit van het graan was erbarmelijk. Nauwelijks gemalen, geen toegang tot tarwe, zand of kalk toegevoegd - dat soort zaken. Dat was geen brood zoals we het nu kennen, maar eerder een baksteen, een afgeleide van granenpap.' Die evolutie van brood kon ik de volgende dag aanschouwen in het aangrenzende gebouw, waar Karl mij door een kleine tentoonstelling van de geschiedenis van brood leidde. 
+'De kwaliteit van brood is nog nooit zo goed geweest als nu. Dat geldt zelfs voor het gemiddeld supermarktbrood. Dankzij de moderne technologie begrijpen we nu wat er gebeurt bij elke stap van het broodbakproces. Vroeger deden mensen zomaar iets hé. En de kwaliteit van het graan was erbarmelijk. Nauwelijks gemalen, geen toegang tot tarwe, zand of kalk toegevoegd - dat soort zaken. Dat was geen brood zoals we het nu kennen, maar eerder een baksteen, een afgeleide van granenpap.' Die evolutie van brood kon ik de volgende dag aanschouwen in het aangrenzende gebouw, waar Karl mij door een kleine tentoonstelling van de geschiedenis van brood leidde. 
 
 'Ik geloof eigenlijk niet in een toekomst van de industriële bakker versus de artisanale, maar in een snelle versus een trage bakker. Als het op een industriële schaal mogelijk is om consumenten te bedienen van betaalbaar brood dat smaak heeft, en dat lang genoeg gerezen heeft om nutriënten eenvoudiger te kunnen opnemen, wat kan je daartegen hebben?' Niets, neem ik aan?
 'Als artisanale bakker kan je je nog genoeg onderscheiden van de grote mannen met een eigen verse desem, met variatie, en met sneller in te spelen op de vraag. Voor een productielijn duurt het immers maanden om iets aan te passen.'
 
-We beginnen aan het derde deeg, het legendarische Amerikaanse brood van de westkust. 
+We beginnen aan het derde deeg, het legendarische brood uit de westkust van de Verenigde Staten. 
 
 'Hier staat '_high gluten flour_' op, hoeveel eiwitten zitten daar dan in, Karl?' vraag ik, terwijl ik opnieuw `2 kg` bloem afweeg. 
 
@@ -580,29 +580,29 @@ We beginnen aan het derde deeg, het legendarische Amerikaanse brood van de westk
 
 'Wauw, zoveel eiwitten in bloem?' vraagt Dimitri verwonderlijk. 'Zou dat ook lukken om lokaal te telen?' Karl schudt zijn hoofd. 
 
-'Onmogelijk. De meeste Belgische bloem is niet bakwaardig en bestemd als veevoeder. Het klimaat laat dat simpelweg niet toe. Die grote hoeveelheid gluten ga je straks en morgen zien werken. Dat ontploft in de oven en de warme rijskast. Drinkt ook erg veel.' Ook Pieter benadrukte al eerder dat goede baktarwe telen in België een uitdaging is. De oorzaak is niet alleen het klimaat, maar ook de voedingsbodem.
+'Onmogelijk. De meeste Belgische bloem is niet bakwaardig en bestemd als veevoeder. Het klimaat laat dat simpelweg niet toe. Die grote hoeveelheid gluten ga je straks en morgen zien werken. Dat ontploft in de oven en de warme rijskast. Drinkt ook erg veel.' Ook Pieter benadrukte eerder al dat goede baktarwe telen in België een uitdaging is. De oorzaak is niet alleen het klimaat, maar ook de voedingsbodem.
 
 Karl neemt een andere vloeibare zuurdesem uit de koeling om hierbij te gebruiken, op basis van tarwe. Deze desem is nog zoeter dan de vorige, en doet denken aan het aroma van groene appels. Ook hier wordt een minimale hoeveelheid verse gist in het deeg verwerkt. 
 
 'Er is natuurlijk ook iets te vinden voor lokaal geteelde tarwe. Ik werk graag met bloem waarvan ik weet dat ze vijf kilometer verder groeide. Daar pas ik mijn methode graag voor aan. Canadese bloem, of die van Altamura, is ook niet zomaar te verkrijgen' leg ik uit. 
 
-'Ik begrijp helemaal wat je bedoelt, Wouter. Ik werk thuis graag met Duitse spelt, en maal dat zelf met een klein molentje. Geweldig, en verslavend om te doen. Maar bakkers moeten volledige controle over het proces hebben, ook als de oogst eens tegen zit. Mariette van op de hoek wilt immers dagelijks hetzelfde brood. Vandaar de toegevoegde enzymen bij de molenaar. Als we in ons deeg hier nog verbeteraar zouden toevoegen, kunnen we met onze ogen toe bakken. Maar ik heb het gevoel dat jullie niet zo'n verbeteraar mannen zijn...' lacht Karl. 
+'Ik begrijp helemaal wat je bedoelt, Wouter. Ik werk thuis graag met Duitse spelt, en maal dat zelf met een klein molentje. Geweldig, en verslavend om te doen. Maar bakkers moeten volledige controle over het proces hebben, ook als de oogst eens tegenzit. Mariette van op de hoek wilt immers dagelijks hetzelfde brood. Vandaar de toegevoegde enzymen bij de molenaar. Als we in ons deeg hier nog verbeteraar zouden toevoegen, kunnen we met onze ogen toe bakken. Maar ik heb het gevoel dat jullie niet zo'n verbeteraar-mannen zijn...' lacht Karl. 
 
-'Ik neem aan dat bakkersidolen als Chad Robertson ook zo'n sterke bloem hanteren?' vraag ik. 
+'Ik neem aan dat idolen zoals Chad Robertson ook zo'n sterke bloem hanteren?' vraag ik. 
 
-'Natuurlijk. Je ziet in zijn boeken en op internet zo'n mooie opengebarsten broden, met enorme hoeveelheden water. Mensen proberen dat ook en krijgen dan soep in de plaats van deeg. Wat ze niet weten, en nergens duidelijk staat uitgelegd, is dat die bloem totaal anders reageert op water, zie je. Dat is erg hip tegenwoordig, _high hydration_. Ik zie het nut er eigenlijk niet van in. Het moet nog steeds werkbaar zijn. In een bakkerij moet alles eenvoudig hanteerbaar zijn. En zo'n groot smaakverschil geeft het niet hoor.' 
+'Natuurlijk. Je ziet in zijn boeken en op internet zo'n mooie opengebarsten broden, met enorme hoeveelheden water. Mensen proberen dat ook en krijgen dan soep in plaats van deeg. Wat ze niet weten, en nergens duidelijk staat uitgelegd, is dat die bloem totaal anders reageert op water, zie je. Dat is erg hip tegenwoordig, _high hydration_. Ik zie het nut er eigenlijk niet van in. Het moet nog steeds werkbaar zijn. In een bakkerij moet alles eenvoudig hanteerbaar zijn. En zo'n groot smaakverschil geeft het niet hoor.' 
 
-In het kader van dezelfde hanteerbaarheid leert Karl ons om natter deeg een beetje te laten verkorsten voordat we verder gaan met het opbollen. Dat principe toepassen, samen met enige behendigheid met een deegsteker, en het probleem is opgelost. 
+In het kader van diezelfde hanteerbaarheid leert Karl ons om natter deeg een beetje te laten verkorsten voordat we verder gaan met het opbollen. Dat principe toepassen, samen met enige behendigheid met een deegsteker, en het probleem is opgelost. 
 
 * * *
 
-De volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo enkele metingen uit te voeren. Karl mengt `10 g` van mijn zuurdesem met `100 g` gedestilleerd water om het pH niveau te meten. Een klein magneetje in een magnetisch veld zorgt voor het mengen, terwijl een sonde de zuurtegraad registreert. De meting stopt op `3.5`. 
+De volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo enkele metingen uit te voeren. Karl mengt `10 g` van mijn zuurdesem met `100 g` gedestilleerd water om het pH-niveau te meten. Een klein magneetje in een magnetisch veld zorgt voor het mengen, terwijl een sonde de zuurtegraad registreert. De meting stopt op `3.5`. 
 
-'Oef. Dat is erg weinig. Hij rook ook erg zuur. Laten we nu eens de TTA meten om te zien hoe zuur dit effectief ervaren wordt.' Ik had op vraag van Karl mijn cultuur ongevoed meegebracht, dus dat laag getal verbaasde me niet. 
+'Oef. Dat is erg weinig. Hij rook ook erg zuur. Laten we nu eens de TTA meten om te zien hoe zuur dit effectief ervaren wordt.' Ik had op vraag van Karl mijn cultuur ongevoed meegebracht, dus dat lage getal verbaasde me niet. 
 
 'TTA?' vraag ik. 
 
-'_Total Titratable Acid_. Daarmee meten we de aanwezige zuren. Dat is niet hetzelfde als pH. Voedsel kan een lage pH hebben, maar toch nog relatief weinig totale zuren bevatten, zodat de sensatie van het zuur in de mond minder hard aankomt. Als je dit hier volledig onder controle hebt, dan kan je in de bakkerij alles. TTA is enorm belangrijk om fermentatie goed te kunnen controleren.' Ondertussen voegt hij druppel per druppel natriumhydroxide toe aan de zuurdesem oplossing, zodat het pH stijgt tot `8.5`. De hoeveelheid toegevoegde hydroxide, `9`, is de TTA eenheid. 
+'_Total Titratable Acid_. Daarmee meten we de aanwezige zuren. Dat is niet hetzelfde als pH. Voedsel kan een lage pH hebben, maar toch nog relatief weinig totale zuren bevatten, zodat de sensatie van het zuur in de mond minder hard aankomt. Als je dit hier volledig onder controle hebt, dan kan je in de bakkerij alles. TTA is enorm belangrijk om fermentatie goed te kunnen controleren.' Ondertussen voegt hij druppel per druppel natriumhydroxide toe aan de zuurdesem-oplossing, zodat het pH stijgt tot `8.5`. De hoeveelheid toegevoegde hydroxide, `9`, is de TTA eenheid. 
 
 'Amai, dat valt goed mee. Ik had veel erger verwacht.' 
 
@@ -616,38 +616,40 @@ De volgende dag hebben we tussen het rijzen en bakken door tijd om in het labo e
 
 'Absoluut, het resultaat is telkens anders, en op die manier kan je het fermentatieproces beter inschatten en controleren.'
 
-We meten daarna dezelfde waardes voor brood dat ik drie dagen geleden bakte met diezelfde zuurdesemcultuur. Dat had een pH van `4.5` en TTA van ongeveer `7`[^ttarye]. Het brood was al wat uitgedroogd, waardoor het zuurder proefde dan de dag waarop het gebakken was. 
+We meten daarna dezelfde waardes voor brood dat ik drie dagen geleden bakte met diezelfde zuurdesemcultuur. Dat had een pH van `4.5` en TTA van ongeveer `7`[^ttarye]. Het brood was al wat uitgedroogd, waardoor het zuurder proefde dan de dag waarop het was gebakken. 
 
-Het pH niveau van mijn zuurdesem ligt op de grens van de aanvaarde normale waardes (tussen `3.57` en `6`), terwijl de TTA wel redelijk oké was (tussen `2` en `12`) [@paramithiotis2005application]. De zuurtegraad stabiliseert terug door tijdens het verversen zo goed als alles weg te gooien en in verhouding veel bloem en water te gebruiken. Dat is nu eenmaal het leven van een cultuur in de koelkast. Ik vraag Karl om enkele tips om verzuring te voorkomen. 
+Het pH-niveau van mijn zuurdesem ligt op de grens van de aanvaarde normale waardes (tussen `3.57` en `6`), terwijl de TTA wel redelijk oké was (tussen `2` en `12`) [@paramithiotis2005application]. De zuurtegraad stabiliseert opnieuw door tijdens het verversen zo goed als alles weg te gooien en in verhouding veel bloem en water te gebruiken[^was]. Dat is nu eenmaal het leven van een cultuur in de koelkast. Ik vraag Karl om enkele tips om verzuring te voorkomen. 
 
-'Wel, ik zou een tijdje een vastere desem maken, en het in water bewaren. Dat neemt de zuren op, zoals bij een Italiaanse panettone desem. Chinezen voegen alkali toe voor hun gestoomde broodjes, die willen absoluut geen zure smaak. Maar gewoon een aantal keer vaker verversen op kortere tijdstippen zal ook al helpen. Om de vier uur bijvoorbeeld. En 's nachts ook opstaan hé!' Dat laatste advies volg ik al door enkele dagen voor het bakken de cultuur terug op te kweken. 
+[^was]: Je zuurdesemcultuur 'wassen', door het te laten weken in water, heeft hetzelfde effect.
 
-[^ttarye]: Het betrof een `80%` tarwebloem, `20%` roggemeel, `5%` boekweit brood met `70%` water en `2.3%` zout. Een typische pH waarde voor roggebrood met `70%` rogge of meer is `4.4`, en `4.7` voor gemengd brood met ongeveer `30%` rogge. Een typische TTA waarde voor roggebrood met `70%` rogge of meer is `8`, en `6.5` voor tarwebrood met minder dan `50%` rogge [@katina2014process]. Dat komt dus keurig overeen.
+'Wel, ik zou een tijdje een vastere desem maken, en het in water bewaren. Dat neemt de zuren op, zoals bij een Italiaanse panettone-desem. Chinezen voegen alkali toe voor hun gestoomde broodjes, die willen absoluut geen zure smaak. Maar gewoon een aantal keer vaker verversen op kortere tijdstippen zal ook al helpen. Om de vier uur bijvoorbeeld. En 's nachts ook opstaan hé!' Dat laatste advies volg ik al door enkele dagen voor het bakken de cultuur terug op te kweken. 
 
-Als afscheidscadeau duikt Karl de opslagruimte in om een zak `25 kg` durum bloem uit Altamura te halen. 
+[^ttarye]: Het betrof een `80%` tarwebloem, `20%` roggemeel, `5%` boekweit brood met `70%` water en `2.3%` zout. Een typische pH-waarde voor roggebrood met `70%` rogge of meer is `4.4`, en `4.7` voor gemengd brood met ongeveer `30%` rogge. Een typische TTA waarde voor roggebrood met `70%` rogge of meer is `8`, en `6.5` voor tarwebrood met minder dan `50%` rogge [@katina2014process]. Dat komt dus keurig overeen.
 
-'Hier, pak dat maar mee, dan kan je nog wat experimenteren voor je boek.' De zak verdwijnt samen met de gebakken producten in de koffer van de wagen en ik bedank Karl uitvoerig. De rit naar huis was een ware kwelling: de onweerstaanbare geur van vers gebakken brood doordringt mijn neusgaten en herinnert me er aan wat voor een stom idee het was om alles buiten handbereik te leggen... 
+Als afscheidscadeau duikt Karl de opslagruimte in om een zak `25 kg` durumbloem uit Altamura te halen. 
 
-De baguettes belegd met een karaktervolle kaas waren simpelweg heerlijk. Zoals verwacht gaf de rogge in de vloeibare desem meer pit dat ik altijd op prijs stel. 
+'Hier, pak dat maar mee, dan kan je nog wat experimenteren voor je boek.' De zak verdwijnt samen met de gebakken producten in de koffer van de wagen en ik bedank Karl uitvoerig. De rit naar huis was een ware kwelling: de onweerstaanbare geur van vers gebakken brood doordringt mijn neusgaten en herinnert me eraan wat voor een stom idee het was om alles buiten handbereik te leggen... 
 
-Het goudgele Altamura-brood had dankzij de durumtarwe een nootachtige, granige smaak die de O-Tentic verder onderstreepte, hetzij iets te weinig naar mijn zin. Het kruim was vast, egaal, en enorm zacht: perfect voor degenen die van sneetjes brood houden. 
+De baguettes belegd met een karaktervolle kaas waren simpelweg heerlijk. Zoals verwacht zorgde rogge in de vloeibare desem voor meer pit dat ik altijd op prijs weet te stellen. 
 
-Van het San Francisco brood was ik het minste enthousiast. Ik vermoed dat de Canadese bloem de taaiheid veroorzaakte en de ingekorte eerste rijstijd het gebrek aan smaak. 
+Het goudgele Altamura-brood had dankzij de durumtarwe een nootachtige, granige smaak die de O-Tentic verder onderstreepte, ook al was het iets te weinig naar mijn zin. Het kruim was vast, egaal, en enorm zacht: perfect voor wie houdt van sneetjes brood. 
+
+Van het San Franciscobrood was ik het minst enthousiast. Ik vermoed dat de Canadese bloem de taaiheid veroorzaakte en de ingekorte eerste rijstijd het gebrek aan smaak. 
 
 \newpage
 
 ### Wat ik heb geleerd
 
-* De professionele kant van brood bakken betekent ook de nodige administratieve werken doorploeteren. 
+* De professionele kant van brood bakken betekent ook de nodige administratieve taken doorploeteren. 
 * Er zijn verschillende manieren om mensen kennis te laten maken met zuurdesem. 
 * Voedselveiligheid is belangrijk, maar kost ook geld. 
 * Lekker brood heeft weinig waarde als het onverkocht in de vitrine blijft liggen. 
-* Slimme combinaties van bijvoorbeeld restaurant en bakkerij, bakkerij en natuurgebied, of bakkerij en aparte verkooppunten zorgen voor een automatische toestroming van klanten. 
+* Slimme combinaties van bijvoorbeeld restaurant en bakkerij, bakkerij en natuurgebied, of bakkerij en aparte verkooppunten zorgen voor een automatische toestroom van klanten. 
 * Chefs met passie voor voedsel kunnen ook bakkers met passie voor brood worden, en omgekeerd. 
-* Consistentie is de grootste uitdaging van een professionele bakker. 
+* Consistentie is de grootste uitdaging voor een professionele bakker. 
 * Wij spenderen de laatste jaren minder en minder aan voedsel, terwijl onze koopkracht stijgt. 
 * Niet iedereen is bereid om duurder brood te kopen.
-* Hoe meer tijd we nemen om goed voedsel te kopen en bereiden, hoe gezonder onze eetgewoontes zullen zijn. 
+* Hoe meer tijd we nemen om goed voedsel te kopen en te bereiden, hoe gezonder onze eetgewoontes zullen zijn. 
 * Niet alle bakkers zijn eerlijk in hun toegevoegde ingrediënten. 
 * Bakken op schaal met verdeling naar verschillende filialen is indrukwekkend, maar moeilijk nog ambachtelijk te noemen. 
 * De industrialisatie van het broodbakproces vereist het gebruik van additieven om de machinale krachten aan te kunnen. 
@@ -668,7 +670,7 @@ Het zijdezacht kruim dat we in Saint-Vith bakten met O-Tentic verkrijg je alleen
 
 | Hoeveelheid | Percentage | Beschrijving                    |
 |------------:|-----------:|:--------------------------------|
-| `1000 g`   | `100%`     | _durum_ tarwebloem, fijngemalen |
+| `1000 g`   | `100%`     | _Durum_ tarwebloem, fijngemalen |
 | `740 g`    | `74%`      | Water                           |
 | `20 g`     | `2%`       | Grijs zeezout                   |
 
@@ -687,13 +689,13 @@ Methode:
 - _Dag 2, 07u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 12u00_: Voordeeg in koeling.
 - _Dag 2, 16u00_: Intensief kneden. Eerste rijs aanvankelijk op `24°C`.
-- _Dag 2, 23u00_: Vorm geven. Tweede rijs in koeling op `6°C`.
+- _Dag 2, 23u00_: Vormgeven. Tweede rijs in koeling op `6°C`.
 - _Dag 3, 08u00_: Bakken.
 - _Dag 3, 08u50_: Afkoelen en proberen wachten met proeven.
 
-De werkwijze wijkt op een aantal vlakkan af van de standaard methode op pagina \ref{bakkenhf}. Om te beginnen hanteer ik frequente voedertijden van telkens vier uur om de starter zo jong mogelijk te houden, voordat een stukje daarvan verdwijnt in het voordeeg. Op die manier verlaagt de aciditeit en stijgt de potentiële rijskracht. Het is niet nodig om een zuurdesemcultuur vanaf nul op te kweken op basis van durumtarwe, je huidige desem omzetten zoals beschreven op pagina \ref{desemswap} werkt net zo goed.
+De werkwijze wijkt op een aantal vlakken af van de standaardmethode op pagina \ref{bakkenhf}. Om te beginnen hanteer ik frequente voedertijden van telkens vier uur om de starter zo jong mogelijk te houden, voordat een stukje daarvan verdwijnt in het voordeeg. Op die manier verlaagt de aciditeit en stijgt de potentiële rijskracht. Het is niet nodig om een zuurdesemcultuur vanaf nul op te kweken op basis van durumtarwe, je huidige desem omzetten, zoals beschreven in hoofdstuk \ref{desemswap}, werkt net zo goed.
 
-Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 g` water en laat het kneedmachine een paar minuten werken voordat je meer water toevoegt. 
+Daarnaast is intensief kneden vereist. Het hogere eiwitgehalte vereist meer kracht om een mooi glutennetwerk op te kunnen bouwen. Kneed dit deeg alleen met de hand als je op zoek bent naar een serieuze uitdaging. Begin met `650 g` water en laat de kneedmachine een paar minuten werken voordat je meer water toevoegt. 
 
 
 

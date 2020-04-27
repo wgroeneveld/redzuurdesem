@@ -7,14 +7,14 @@ url: /whole-rye-wheat-combi/
 featured_image: /wp-content/uploads/2012/12/MG_7598.jpg
 al2fb_facebook_excerpt:
   - |
-    Dit is een variatie van Mr. Hamelman's "volkoren rogge en volkoren tarwe zuurdesem brood". Het bevat 50% volkoren bloem en 50% sterk wit tarwemeel om het te helpen rijzen, met een preferment percentage van 25.
+    Dit is een variatie van Mr. Hamelman's "volkorenrogge en volkorentarwe zuurdesembrood". Het bevat 50% volkoren bloem en 50% sterk wit tarwemeel om het te helpen rijzen, met een preferment percentage van 25.
 al2fb_facebook_text:
   - |
-    Dit brood doet me denken aan een combinatie tussen het 50% volkoren rogge noten brood (zonder de noten dan) en Vermont zuurdesem stijl brood. Het bouwt zelfs naargelang de dagen vorderen meer smaak (en zuurtegraad) op en proeft het lekkerste na 2 dagen bakken, geweldig!
+    Dit brood doet me denken aan een combinatie tussen het 50% volkorenrogge noten brood (zonder de noten dan) en Vermont zuurdesem stijl brood. Het bouwt zelfs naargelang de dagen vorderen meer smaak (en zuurtegraad) op en proeft het lekkerste na 2 dagen bakken, geweldig!
     
     Een leuke truck om te voorkomen dat het brood te snel uitdroogt is om het brood met de gesneden kant naar beneden op een snijplank te plaatsen. Dit zorgt ervoor dat het vocht niet zo snel weggaat en de inhoud mals blijft. Het brood blijft goed tot na 5 dagen bakken!
     
-    Het is milder dan 50% volkoren rogge brood dankzij de toevoeging van tarwe.
+    Het is milder dan 50% volkorenroggebrood dankzij de toevoeging van tarwe.
 al2fb_facebook_image_id:
   - 539
 al2fb_facebook_url_param_name:
@@ -32,7 +32,7 @@ categories:
   - Uncategorized
 
 ---
-Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkoren rogge en volkoren tarwe zuurdesembrood&#8221;. Het bevat 50% volkoren bloem en 50% sterk wit tarwemeel om het te helpen rijzen, met een preferment percentage van 25.<figure style="width: 640px" class="wp-caption aligncenter">
+Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkorenrogge en volkorentarwe zuurdesembrood&#8221;. Het bevat 50% volkoren bloem en 50% sterk wit tarwemeel om het te helpen rijzen, met een preferment percentage van 25.<figure style="width: 640px" class="wp-caption aligncenter">
 
 [<img title="_MG_7598.JPG" src="http://lh4.ggpht.com/-d3ELXzzT7XQ/UMJemN61jlI/AAAAAAAAGtU/DpriVx2f0x0/w640/_MG_7598.JPG" alt="_MG_7598.JPG" width="640" height="428" />][1]<figcaption class="wp-caption-text">Nog altijd tamelijk open voor een 50% volkoren broodje!</figcaption></figure> 
 
@@ -47,7 +47,7 @@ Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkoren rogge en volkoren t
 <span style="font-weight: 600;">Einddeeg</span>
 
   * 500gr sterke witte tarwebloem (12,5-13% proteïne inhoud)
-  * 250gr volkoren tarwe meel (fijngemalen)
+  * 250gr volkorentarwemeel (fijngemalen)
   * 470gr water
   * 15gr zout
 

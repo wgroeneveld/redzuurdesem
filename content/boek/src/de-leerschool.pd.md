@@ -143,13 +143,13 @@ Hieronder volgt ter demonstratie een greep uit de producten die we gedurende onz
 
 De benaming van sommige soorten brood lijkt te zijn ontstaan in een saaie brainstormsessie van een goedkoop reclamebureau. Bakkerijen verkopen een 'lang grijs', een 'volkoren' dat geen volkoren is, 'kramieken', 'boerenbrood', 'hoevebrood', 'granenbrood', 'bakkersbrood', 'molenaarsbrood', ... Deze dichterlijke vrijheid wil echter niet zeggen dat het molenaarsbrood van bakker 1 hetzelfde is als het molenaarsbrood van bakker 2. Het wil in feite helemaal niets zeggen. 
 
-Zelfs het iconische 'San Francisco brood' wordt door Frank Deldaele's bakboek _De smaak van brood_ omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Brood gebakken op industriële schaal dat de naam 'San Francisco brood' draagt betekent nog niet dat het de tijd heeft gekregen om even voedzaam te zijn als puur zuurdesembrood.
+Zelfs het iconische San Franciscobrood wordt door Frank Deldaele's bakboek _De smaak van brood_ omgevormd naar een (inferieure) Belgische variant met vetstof, gist en minder water [@deldaele]. Brood gebakken op industriële schaal dat de naam 'San Franciscobrood' draagt betekent nog niet dat het de tijd heeft gekregen om even voedzaam te zijn als puur zuurdesembrood.
 
 In een onderzoek rond _Lactobacillus sanfranciscensis_, de melkzuurbacterie die voornamelijk aanwezig is in dit type brood, concluderen Yazar en Tavman het volgende [@yazar2012functional]:
 
 > _Despite the numerous advantages, L. sanfranciscensis sourdough fermentation provides, sourdough bread production is a challenging process due to the need for long-time fermentation. However, as it has been stated before that a pasteurized San Francisco sourdough in liquid form is currently available on the market, it is possible to produce breads with the specific full flavour and also to shorten the fermentation time via the addition of more yeast using this liquid sourdough. Thus, a San Francisco bread having most of the characteristics of the traditional product may be produced in less than 3 h._
 
-Het ene San Francisco brood is dus duidelijk het andere niet. Laat je ook niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helft aan volkoren granen in. 
+Het ene San Franciscobrood is dus duidelijk het andere niet. Laat je ook niet vangen door termen als 'grijs' en 'volkoren': dit heeft niets met gezondheid te maken. Een 'woudbrood' bevat bijvoorbeeld gebrande mout die de donkerbruine kleur verraadt. Hier zit nog niet de helft aan volkoren granen in. 
 
 Dan heb je ook nog namen met een auteursrechtelijke  bescherming waar de bakker iets minder creatief mee mag omgaan. Dit zijn kant-en-klare producten, zoals _Puravita_, _Synergie_ en _Waldkorn_ brood. Als dat allemaal geen verwarring voor consumenten veroorzaakt, dan weet ik het ook niet meer. 
 
@@ -196,7 +196,7 @@ In Frankrijk is de bakkersambacht een eeuwenoude traditie waar nog steeds duidel
 
 * * *
 
-Die avond toen we voor de eerste keer sandwiches aan het bakken waren, viel er mij nog iets op. De volgens het recept 15% aan 'boter', was helemaal geen boter zoals ik ze kende. Het zat in een aparte plastieken doos van `20 kg` gelabeld als '_zachte luxe verbeteraar_'. Ik porde Dimitri en wees naar de inhoud. 
+Die avond toen we voor de eerste keer sandwiches aan het bakken waren, viel er mij nog iets op. De volgens het recept 15% aan 'boter', was helemaal geen boter zoals ik ze kende. Het zat in een aparte plastieken doos van `20 kg` gelabeld als '_zachte luxeverbeteraar_'. Ik porde Dimitri en wees naar de inhoud. 
 
 '_How jong_, wat is dat?' Inderdaad: bij het openen van de doos registreerden onze ogen iets knalgeel en onze neus iets chemisch. 
 
@@ -236,7 +236,7 @@ Laat ons eens de individuele componenten van een verbeteraar onder de loep nemen
 
 - _Suikers_: voeding voor de gist en om het brood beter te kleuren. Sommige soorten suikers worden sneller dan anderen omgezet door de gist. Daarom bevatten de meeste bereidingsmiddelen meer dan één soort suiker.[^meerhfx]
 - _Enzymen_: een enzym is een eiwit dat zorgt voor een stofwisseling dat afgescheiden wordt door een micro-organisme. De meeste Westerlingen hebben lactase in hun darmstelsel om lactose om te zetten. Toegevoegde amylasen zetten de suikers sneller om in zetmeel waardoor het brood sneller rijst. Pentosaan-afbrekende enzymen binden het water beter en zorgen voor een soepeler deeg[^meerhfy].
-- _Melk_: melkpoeder of melkeiwitpoeder kleurt het brood en geeft het dat karakteristiek zachte kruim. Dit wordt niet gebruikt in harde luxe verbeteraar. Soja bestanddelen kunnen ook worden gebruikt om meer eiwitten toe te voegen in het brood.
+- _Melk_: melkpoeder of melkeiwitpoeder kleurt het brood en geeft het dat karakteristiek zachte kruim. Dit wordt niet gebruikt in harde luxeverbeteraar. Soja bestanddelen kunnen ook worden gebruikt om meer eiwitten toe te voegen in het brood.
 - _Oxidoredactoren_: onder andere ascorbinezuur of vitamine C versnelt de ontwikkeling van het deeg tijdens het kneden.
 - _Vetstoffen_: geeft een beter kruim en onder andere een langere houdbaarheid. 
 - _Emulgatoren_:  zorgen voor een betere verdeling (‘_emulgeren_’) van vloeistoffen die normaal niet zo makkelijk mengbaar zijn, zoals vetten. Monoglyceriden en lecithine zijn hier voorbeelden van.
@@ -409,7 +409,7 @@ Ik begon meer en meer te denken dat de moderne bakker niet goed presteert onder 
 \begin{figure}
     \centering
     \includegraphics{img/bw/sandwiches.jpg}
-    \caption[Zachte luxe deeg met krenten.]{Zachte luxe deeg met krenten, na het opbollen (links) en na het
+    \caption[Zacht luxedeeg met krenten.]{Zacht luxedeeg met krenten, na het opbollen (links) en na het
     bakken (rechts). Dit deeg verdriedubbeld in grootte.}
 \end{figure}
 

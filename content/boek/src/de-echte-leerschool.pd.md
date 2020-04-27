@@ -266,7 +266,7 @@ Eenmaal thuis duurde het maanden om het avontuur volledig te vatten. Het kostte 
 
 > _'Ge moet het graag doen om het graag te doen.'_
 
-Maar voordat ik daar aan toe was, moest ik Sarahs advies opvolgen, door mijn relaties met boer en molenaar te versterken. Ik wist ondertussen wat ik met bloem kon doen, maar nog niet echt waar het vandaan kwam en hoe het werd gemalen. 
+Maar voordat ik daar aan toe was, moest ik Sarah's advies opvolgen, door mijn relaties met boer en molenaar te versterken. Ik wist ondertussen wat ik met bloem kon doen, maar nog niet echt waar het vandaan kwam en hoe het werd gemalen. 
 
 Het was tijd om uit te zoeken wat vruchtbare grond doet met tarwezaadjes. 
 
@@ -319,7 +319,7 @@ Methode:
 - _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 20u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 10u00_: Kneden. Eerste rijs op `24°C`
-- _Dag 2, 14u00_: Vorm geven. Tweede rijs in koeling op `6°C`.
+- _Dag 2, 14u00_: Vormgeven. Tweede rijs in koeling op `6°C`.
 - _Dag 2, 18u00_: Uit koeling halen en laten rusten.
 - _Dag 2, 19u00_: Beleggen en onmiddellijk bakken.
 

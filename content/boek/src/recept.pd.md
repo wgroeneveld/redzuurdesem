@@ -109,7 +109,7 @@ Methode:
 - _Dag 1, 20u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. 
 - _Dag 2, 10u00_: Autolyse. 
 - _Dag 2, 10u30_: Zout toevoegen. Kneden. Eerste rijs op `24°C`.
-- _Dag 2, 15u00_: Vorm geven. Tweede rijs in koeling op `6°C`.
+- _Dag 2, 15u00_: Vormgeven. Tweede rijs in koeling op `6°C`.
 - _Dag 3, 08u00_: Bakken.
 - _Dag 3, 08u50_: Afkoelen en proberen wachten met proeven.
 
@@ -140,7 +140,7 @@ Laat je niet afschrikken door de grote hoeveelheid water aanwezig in deze formul
 Meestal durf ik tot `75%` hydratatie te gaan, afhankelijk van mijn gemoedstoestand. In dat geval is extra elasticiteit opbouwen met vouwen een vereiste. Als je niet gewend bent om te werken met nat deeg, bouw dit waterpercentage dan geleidelijk op, startend met een veilige `65%`. De meeste Belgische en Nederlandse bakkerijen, inclusief Natuurbakkerij Schoofs & Herteleer uit hoofdstuk \ref{vergeten}, werken met een vaster deeg van `55` tot `60%` water.
 
 
-Dimitri gebruikt graag volkoren tarwe in de plaats van rogge in zijn befaamd olijvenbrood. De umami smaak van `15%` toegevoegde olijven passen erg goed bij dit tarwebrood. Omdat olijven meestal ingelegd zijn in zout is het aan te raden om minder in het deeg te gebruiken. Gebruik in ieder geval nooit in azijn ingelegde olijven die de smaak van het brood verpesten. 
+Dimitri gebruikt graag volkorentarwe in de plaats van rogge in zijn befaamd olijvenbrood. De umami smaak van `15%` toegevoegde olijven passen erg goed bij dit tarwebrood. Omdat olijven meestal ingelegd zijn in zout is het aan te raden om minder in het deeg te gebruiken. Gebruik in ieder geval nooit in azijn ingelegde olijven die de smaak van het brood verpesten. 
 
 Ik voeg nooit vetstoffen toe aan mijn brood, zelfs niet als het om pizza- of focacciadeeg[^focaccia] gaat. Bovenstaande formule kan ook dienen als alternatief voor pizza formule \ref{pizzaformule}.
 
@@ -175,7 +175,7 @@ Methode:
 - _Dag 1, 08u00_: Starter uit koeling. Verversen op kamertemperatuur.
 - _Dag 1, 20u00_: Voordeeg maken op kamertemperatuur. Starter terug in koeling. Een deel van het meel weken in kokend water. 
 - _Dag 2, 10u00_: Kneden. Eerste rijs op `26°C`.
-- _Dag 2, 13u00_: Vorm geven. Tweede rijs op `26°C`.
+- _Dag 2, 13u00_: Vormgeven. Tweede rijs op `26°C`.
 - _Dag 2, 14u30_: Bakken.
 - _Dag 2, 15u25_: Afkoelen en proberen wachten met proeven.
 
