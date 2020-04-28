@@ -132,7 +132,7 @@ gedroogde gist
   </p>
   
   <p>
-    Dat kan, maar dat is nutteloos: zo&#8217;n doek wordt gebruikt om je deeg te ondersteunen tijdens het rijzen, zodat het geen structuur verliest. Denk maar aan fragiele nattere baguette degen. Dat is nodig als je rechtstreeks op steen bakt &#8211; wat in een machine nooit het geval is.<br /> Wat wel mogelijk is, is het deeg laten kneden door je broodbakmachine, het er dan uit te halen en te vormen zoals het hoofdrecept en vanaf dan zelf bakken in de oven.
+    Dat kan, maar dat is nutteloos: zo&#8217;n doek wordt gebruikt om je deeg te ondersteunen tijdens het rijzen, zodat het geen structuur verliest. Denk maar aan fragiele nattere baguettedegen. Dat is nodig als je rechtstreeks op steen bakt &#8211; wat in een machine nooit het geval is.<br /> Wat wel mogelijk is, is het deeg laten kneden door je broodbakmachine, het er dan uit te halen en te vormen zoals het hoofdrecept en vanaf dan zelf bakken in de oven.
   </p>
   
   <p>

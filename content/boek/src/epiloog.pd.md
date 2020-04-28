@@ -60,11 +60,11 @@ Hoe persoonlijk deze zoektocht ook was, het had niet kunnen gebeuren zonder de w
 
 Mijn uitdrukkelijke dank gaat uit naar alle geïnterviewden in dit boek: Peter Schoofs, Willy Herteleer, Pieter \mbox{Coopmans}, Jeroen van Vaerenbergh, Mike Ekelschot, Gert Jordens, Johan Haiverlain, Dimitry Lysens, René van der Veer, Karl De Smedt, Kristel Sniegowski. 
 Ook de twee leraren die mij motiveerden te blijven zoeken zet ik hier graag opnieuw in de verf: Ghislain Theunens en Sarah Lemke, beiden grootmeesters in hun eigen vakgebied.
-Bedankt aan alle cursisten en organisatoren van broodbakworkshops voor jullie gedeelde enthousiasme over dit onderwerp.
+Bedankt aan alle cursisten en organisatoren van broodbakworkshops voor jullie gedeeld enthousiasme over dit onderwerp.
 
 De personen met het nodige geduld om een driehonderd pagina's tellend manuscript na te lezen en te verbeteren: \mbox{Linus} De Meyere, Luk Weyens, Ivan Thoelen, Dirk Haverhals. Mijn vaste _partner in crime_ aangaande broodzaken, Dimitri Meus. Wanneer zijn we nog eens weg?
 
-Mijn vader, Herman Groeneveld, om mij al dan niet bewust aan te steken, zoals zijn vader op zijn beurt de bakmicrobe doorgaaf aan hem. Ik hoop u op mijn beurt ervan te overtuigen dat alleen maar gist gebruiken saai is.
+Mijn vader, Herman Groeneveld, om mij al dan niet bewust aan te steken, zoals zijn vader op zijn beurt de bakmicrobe doorgaf aan hem. Ik hoop u op mijn beurt ervan te overtuigen dat alleen maar gist gebruiken saai is.
 
 Als laatste en belangrijkste, mijn vrouw en persoonlijke eindredacteur, Kristien \mbox{Thoelen}, die telkens gedwee toekijkt hoe ik het hele huis bedek met een fijn bloemlaagje, en de 'stank' van de oven met een grote glimlach verduurt.
 
@@ -72,42 +72,41 @@ Als laatste en belangrijkste, mijn vrouw en persoonlijke eindredacteur, Kristien
 
 > '_Bread-baking is a hard-earned knowledge. So far, I’ve never seen a book that’s able to express it all._' - \mbox{Melissa} Weller
 
-Bakboeken – het begint eerder een pest dan een verlossing te worden. Elke finalist van 'Bake Off' TV series, elke succesvolle professionele bakker, en zelfs beroemde chefs maken er tegenwoordig een spelletje van om jaarlijks iets op papier te zetten. Dat maakt het nog eenvoudiger om met het verkeerde boek thuis te komen. In België en omstreken wordt in de meeste boekenhandels (en bibliotheken) nog te veel plaats gereserveerd voor algemene receptenboeken vol oppervlakkige instructies om cakes, beslagen en taarten te bakken. De beperkte hoofdstukken over brood bakken zijn vaak erg gebrekkig. Gelukkig is het tegenwoordig via het internet eenvoudiger om goede gespecialiseerde broodbakboeken te vinden.
+Bakboeken – het begint eerder een pest dan een verlossing te worden. Elke finalist van 'Bake Off' tv-reeksen, elke succesvolle professionele bakker, en zelfs beroemde chef-koks maken er tegenwoordig een spelletje van om jaarlijks iets op papier te zetten. Dat maakt het nog eenvoudiger om met het verkeerde boek thuis te komen. In België en omstreken wordt in de meeste boekhandels (en bibliotheken) nog te veel plaats gereserveerd voor algemene receptenboeken vol oppervlakkige instructies om cakes, koeken en taarten te bakken. De beperkte hoofdstukken over brood bakken zijn vaak erg gebrekkig. Gelukkig is het tegenwoordig via het internet makkelijker om goede gespecialiseerde broodbakboeken te vinden.
 
-Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eigen stijl, niveau en intenties. Met welk bakboek kan ik mij het beste vinden, welk boek leert basisprincipes aan, en welk boek is eerder voor de _die-hards_? Ik selecteer een aantal bakboeken die persoonlijk zijn getest en goedgekeurd. De volgende boeken vormen een perfect paar samen met het boek dat je nu vasthoudt. Dit is slechts een greep van de verslonden - of doorploeterde - werken. Raadpleeg de referenties voor een complete lijst. 
+Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eigen stijl, niveau en intentie. In welk bakboek kan ik mij het beste vinden? Welk boek leert basisprincipes aan, en welk boek is eerder voor de _die-hards_? Ik selecteer een aantal bakboeken die persoonlijk zijn getest en goedgekeurd. De volgende boeken vormen een perfecte aanvulling op het boek dat je nu vasthoudt. Dit is slechts een greep uit de verslonden - of doorploegde - werken. Raadpleeg de referenties voor een complete lijst. 
 
 ### Voor amateur bakkers
 
 * _The Bread Baker’s Apprentice: mastering the art of extraordinary bread_ door Peter Reinhart [@breadapprentice]. 
     - Leer brood bakken vanaf nul. Eerst met gist, dan met verschillende soorten voordeeg, en uiteindelijk met zuurdesem.
     - Eenvoudig en duidelijk uitgelegd, met omvangrijke recepten.
-    - De zuurdesemstarter hoeveelheden zijn moeilijk om mee te rekenen, en de hoeveelheden zijn Amerikaans. 
+    - De hoeveelheden zuurdesemstarter zijn moeilijk om mee te rekenen, en het meetstelsel is Amerikaans. 
 * _Local Breads: Sourdough and whole-grain recipes from Europe’s best Artisan bakers_ door Daniel Leader [@leaderlocalbreads].
     - Dit is eerder een reisverslag met recepten dan een handboek. Aangenaam om te lezen.
     - Bevat een grote variatie aan streekgebonden broden, maar ook het aanleren van de algemene principes van het brood bakken.
-    - De recepten zijn goed hanteerbaar, maar bevatten veel berekeningsfouten (errata online beschikbaar). Dit boek gaat soms uit van enige voorkennis. 
+    - De recepten zijn goed hanteerbaar, maar bevatten veel rekenfouten (errata online beschikbaar). Dit boek gaat soms uit van enige voorkennis. 
 
 ### Voor professionele bakkers
 
 * _Bread: A Baker’s book of Techniques and recipes_ door \mbox{Jeffrey} Hamelman [@hamelman2004bread].
-    - Een compleet compendium met focus op zuurdesem, ook al zijn er gistbrood recepten meegeleverd. Mooie opdeling tussen tarwe- en rogge gebaseerd deeg.
+    - Een compleet compendium met focus op zuurdesem, ook al zijn er gistbrood recepten meegeleverd. Mooie opdeling tussen tarwe en rogge gebaseerd deeg.
     - Inclusief zeer diepgaande verklaringen (biologie, chemie, temperaturen, …)
-    - Zuurdesem hoeveelheden heel makkelijk te herrekenen. Recepten in Europees en Amerikaans formaat.
+    - De Hoeveelheden zuurdesem zijn heel makkelijk te herrekenen. Recepten in Europees en Amerikaans meetstelsel.
     - Te complex voor beginners, werkt met deegbasis van `10 kg`.
 
 * _Advanced Bread and Pastry_ door Michel Suas [@advancedbread].
     - Een zeer compleet werk met focus op de professionele bakker.
-    - Bevat ook een diepgaand stuk over banket. Recepten in Europees en Amerikaans formaat.
+    - Bevat ook een diepgaand stuk over banket. Recepten in Europees en Amerikaans meetstelsel.
     - Duidelijke uitleg van gebruikte technieken, gegeven enige kennis van vaktermen. 
 
 ### Voor alternatieve bakkers
-
 
 * _Flour Water Salt Yeast: The fundamentals of artisan bread and pizza_ door Ken Forkish [@forkish].
     - Leuke achtergrondverhalen over een ingenieur (weeral?) die beslist om iets totaal anders te gaan doen. Zulke verhalen raken een gevoelige snaar.
     - Ken heeft de recepten van zijn bakkerij aangepast om thuis te kunnen bakken, met eigen visie over stomen en hydratatie.
     - Bevat pizza tips!
-    - Desem hoeveelheden zijn soms moeilijk om mee te werken als je gewend bent aan kleine hoeveelheden.
+    - De hoeveelheden desem zijn soms moeilijk om mee te werken als je gewend bent aan kleine hoeveelheden.
 
 * _Tartine Bread_ door Chad Robertson [@tartine].
     - Een uniek verhaal met achtergrond in plaats van focus op enkel recepten. Inclusief prachtig beeldmateriaal.
@@ -116,7 +115,7 @@ Toch blijft de vraag: wat is goed en wat niet? Elke auteur heeft een unieke eige
 * _Brotbackbuch Nr. 1. Grundlagen und Rezepte für ursprüngliches Brot_ door Lutz Geißler [@lutz1].
     - Een zeer methodische aanpak en stijl om te leren werken met rogge. Oh, en de auteur is een ingenieur...
     - Recepten zijn vrijwel altijd een combinatie van gist en desem dat typisch is voor Duitse broden. 
-    - Recepten die voor een Belg of Nederlander makkelijker in te leven zijn dan iets van Amerikaanse bakkers vanwege minder water en de aanwezigheid van bekende klassiekers als 'melkbrood'.
+    - Recepten die voor een Belg of Nederlander makkelijker te volgen zijn dan iets van Amerikaanse bakkers vanwege minder water en de aanwezigheid van bekende klassiekers als 'melkbrood'.
     - Duitstalig, en dus soms moeilijk te vertalen, zelfs met hulp. Roggebloem (geen meel) is moeilijker verkrijgbaar. 
 
 Hoe graag ik ook een boek vuil maak met mijn bebloemde handen, toch moet ik ook de nodige erkenning geven aan een aantal websites. Het internet vormt voor velen tegenwoordig de eerste en voornaamste bron van informatie. Enthousiaste bakkers vertellen over hun bevindingen op het centrale forum 'The Fresh Loaf'[^freshl]. Daar zijn veel vriendelijke bakkers terug te vinden. Populaire blogs waar ik veel aan heb gehad zijn 'The Perfect Loaf'[^perfl], 'Sourdough.com' en het Nederlandse 'The Weekend Bakery'[^wbnl]. Dankzij de snelheid waarmee websites komen en gaan heeft het weinig zin om hier een uitgebreide lijst van te maken. Als laatste wil ik natuurlijk ook nog reclame maken voor mijn eigen website, 'Red Zuurdesem'[^redz].

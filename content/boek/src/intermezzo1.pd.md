@@ -52,7 +52,7 @@ Druivenvelden zijn in de streek erg duur: de concurrentie aast constant op lapje
 
 Kunnen wij ons dat nog inbeelden? Zo'n grote onkosten maken over generaties heen? Zomaar het onzekere durven omarmen? Vijf jaar wachten om te weten of je product écht goed is? In constante angst leven dat het evengoed middelmatige brol kan worden? Om daarna ook de ballen te hebben om alles gewoon weg te gooien en opnieuw te beginnen? 
 
-Ik alleszins het niet. 
+Ik alleszins niet. 
 
 Het is tegenwoordig voor velen in de bedrijfswereld al een hel om vijf jaar hetzelfde te moeten doen. Het klinkt voor de moderne mens onmogelijk om zo'n lange periode voor hetzelfde te reserveren. Het Dreyfus-model schrijft een decennium voor als de tijd die nodig is om exceptionaliteit te kweken - daarna wordt het tijd voor iets anders. De geïncarneerde Jezus in de film 'The Man from Earth' doet ook elke 10 jaar iets anders - wat moet een mens anders als hij eeuwig leeft? 
 

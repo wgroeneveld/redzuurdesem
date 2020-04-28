@@ -81,7 +81,7 @@ Overschot van desem kan je ook hier strategisch inzetten om die nacht niet allee
 
 Havermout wint tegenwoordig aan populariteit, maar de verschillende soorten in de winkelrekken zorgen eerder voor verwarring dan voor keuzevrijheid. Ga voor de beste kwaliteit en laat de zakjes fijngemalen haver links liggen. De volgende tabel verduidelijkt de gebruikte termen om granen zoals gerst, boekweit en haver op te delen:
 
-| Benaming in NL  | Benaming in EN | Beschrijving |
+| Benaming NL  | Benaming EN | Beschrijving |
 |-------------------------|--------------------|-------------------------------|
 | Gepelde haver           | _Whole oats_ | Gepelde, hele graankorrels. Vereist weken en langdurig koken. |
 | Havergrutten            | _Steel-cut oats_ (US), _Coarse oatmeal_ (UK), _Oat groat_. | Gepeld en gebroken graan. Vereist langdurig koken.     |
@@ -116,7 +116,7 @@ Om de teentjes knoflook gemakkelijk in het medium te kunnen plaatsen, en op hun 
 
 #### Om huiden te looien
 
-Zeg nu nog eens dat die stinkende naar azijn ruikende pot in de koelkast niet veelzijdig kan zijn. Deze manier om overschot te gebruiken ontdekte ik via Susannah Dowds haar thesis over de gebruiken van zuurdesem in Alaska [@dowds2017alaska]. Susannah vond deze ongebruikelijke methode terug in het hoofdstuk '_Hints from Sourdoughs_' van het ondertussen klassieke kookboek _Cooking Alaskan_, origineel gepubliceerd in 1983. Duidelijke instructies vond ik niet terug, buiten deze, uitgegeven door de University of Alaska Fairbanks:
+Zeg nu nog eens dat die naar azijn stinkende pot in de koelkast niet veelzijdig kan zijn. Deze manier om overschot te gebruiken ontdekte ik via Susannah Dowds haar thesis over de gebruiken van zuurdesem in Alaska [@dowds2017alaska]. Susannah vond deze ongebruikelijke methode terug in het hoofdstuk '_Hints from Sourdoughs_' van het ondertussen klassieke kookboek _Cooking Alaskan_, origineel gepubliceerd in 1983. Duidelijke instructies vond ik niet terug, buiten deze, uitgegeven door de University of Alaska Fairbanks:
 
 [^uaf]: [http://cespubs.uaf.edu/index.php/download_file/1036/](http://cespubs.uaf.edu/index.php/download_file/1036/)
 

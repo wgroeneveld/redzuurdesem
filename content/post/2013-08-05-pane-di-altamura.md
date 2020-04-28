@@ -77,7 +77,7 @@ Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een 
   </ol>
   
   <p>
-    Het was ook de eerste keer dat ik grof zeezout (uit West-Frankrijk, met de hand geoogst! Geweldig Slow Food-achtig, toch?) gebruikt heb in brood deeg. Het smaakte heel goed, maar als je de slap & fold techniek wil gebruiken raad ik je toch aan in het vervolg eerst het zout te malen&#8230; De grove korrels sprongen constant uit het deeg! Stretch & fold in de kom is hier veel geschikter voor denk ik (en dus natter deeg, win-win).
+    Het was ook de eerste keer dat ik grof zeezout (uit West-Frankrijk, met de hand geoogst! Geweldig Slow Food-achtig, toch?) gebruikt heb in brooddeeg. Het smaakte heel goed, maar als je de slap & fold techniek wil gebruiken raad ik je toch aan in het vervolg eerst het zout te malen&#8230; De grove korrels sprongen constant uit het deeg! Stretch & fold in de kom is hier veel geschikter voor denk ik (en dus natter deeg, win-win).
   </p>
   
 <a href="http://lh4.ggpht.com/-j2TKkQc1p1w/Uf_pbfML_NI/AAAAAAAAAGc/ic_TjpyrUmk/s1024/_MG_9130.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697894571736274" title="" ><img src="http://lh4.ggpht.com/-j2TKkQc1p1w/Uf_pbfML_NI/AAAAAAAAAGc/ic_TjpyrUmk/w400-o/_MG_9130.JPG" alt="_MG_9130.JPG" title="" class="alignleft pe2-photo"  /></a>

@@ -6,6 +6,8 @@ weight: 666
 
 Raadpleeg het voorblad om te controleren over welke druk je beschikt. 
 
+**Belangrijk**: Deze wijzigingen werden reeds aangepast in de betreffende versies van het boek! Ze staan hier enkel ter vervollediging. 
+
 ### Tweede druk: mei 2020
 
 - p. 295: Formule voor tarwe boerenbrood: Tarwebloem percentage moet `85%` zijn, niet `100%`. De hoeveelheid staat correct op `850 g`.
