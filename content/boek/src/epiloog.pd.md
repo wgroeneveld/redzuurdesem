@@ -9,29 +9,29 @@ Ik kan eindelijk stoppen met zoeken naar dat perfect Spaans brood vanuit mijn ki
 
 Het heeft mij tien jaar gekost om de gebundelde kennis die dit boek vormt op te bouwen. En toch zijn er nog zoveel dingen te ontdekken. Ik heb nog geen graan in mijn eigen moestuin geteeld zoals William Alexander zijn '_52 Loaves_' avontuur begon [@52loaves]. Dimitri en ik hebben nog steeds plannen om stage te lopen in Denemarken. Ik zou nog een kleine molen kunnen kopen om mijn eigen graan te malen. Ik zou nog (veel) meer vergelijkende experimenten kunnen uitvoeren met variëteiten van tarwe. Ik zou nog meer boeken kunnen doorpluizen, of mij kunnen inschrijven in een verdiepende cursus microbiologie of biochemie. Ik heb nog ergens een officiële goedkeuring van Kristien om bij de 'Bread Ahead Bakery School' aan de Borough Market in Londen een workshop over zuurdesem te volgen. Ik zou nog meer buitenlandse bakkerijen kunnen bezoeken in Duitsland en Italië. 
 
-Op een gegeven moment zei een stemmetje in mijn hoofd 'En nu wordt het tijd dat je iets op papier krijgt.' Ik zal nooit stoppen met brood bakken. Ik verlang nog meer dan vroeger naar dat kleine hoekje langs de Salva oven in Gent, naar die constante gloed van de hete oven op mijn gezicht. Dat is het prachtige aan iets simpel als brood bakken. Er komen slechts drie ingrediënten aan bod, hoe ingewikkeld kan het zijn? Hopelijk kan je daar ondertussen zelf op antwoorden. 
+Op een gegeven moment zei een stemmetje in mijn hoofd 'En nu wordt het tijd dat je iets op papier krijgt.' Ik zal nooit stoppen met brood bakken. Ik verlang nog meer dan vroeger naar dat kleine hoekje langs de Salva-oven in Gent, naar die constante gloed van de hete oven op mijn gezicht. Dat is het prachtige aan iets simpel als brood bakken. Er komen slechts drie ingrediënten aan bod, hoe ingewikkeld kan het zijn? Hopelijk kan je daar ondertussen zelf op antwoorden. 
 
-Kennis is _macht_. Macht brengt erg veel geld op in onze moderne maatschappij, en niet alleen in de vorm van een erg duur boek over brood zoals '_Modernist Bread_' (`470 EUR`) [@myhrvold2017modernist]. Kennis delen is echter ook _kracht_. Wat ben je met kennis, als je het niet deelt? Kennis zou altijd en overal voor iedereen beschikbaar moeten zijn. 
+Kennis is _macht_. Macht brengt erg veel geld op in onze moderne maatschappij, en niet alleen in de vorm van een erg duur boek over brood zoals '_Modernist Bread_' (`470 EUR`) [@myhrvold2017modernist]. Kennisdelen is echter ook _kracht_. Wat ben je met kennis, als je het niet deelt? Kennis zou altijd en overal voor iedereen beschikbaar moeten zijn. 
 
 '_De impuls om voor jezelf te houden wat je hebt geleerd is niet alleen beschamend, het is ook destructief,_' zei Annie Dillard ooit. 
 
 '_Alles wat je niet gratis en in grote mate weggeeft, gaat verloren. Je opent een kluis en vindt as._' 
 
-Jammer genoeg ben ik veel bakkers en niet-bakkers tegengekomen die hier anders over denken. Ze hebben blijkbaar schrik dat die met veel zweet en tranen zorgvuldig opgebouwde kennis zonder meer kan worden doorverkocht, en hun geruïneerd achterlaat. Oprechte interesse in de stiel kan niet genoeg worden aangemoedigd. Er kunnen niet genoeg échte zuurdesembakkers mensen gelukkig maken met brood dat smaakt. 
+Jammer genoeg ben ik veel bakkers en niet-bakkers tegengekomen die hier anders over denken. Ze hebben blijkbaar schrik dat de met veel zweet en tranen zorgvuldig opgebouwde kennis zonder meer kan worden doorverkocht, en hun geruïneerd achterlaat. Oprechte interesse in de stiel kan niet genoeg worden aangemoedigd. Er kunnen niet genoeg échte zuurdesembakkers mensen gelukkig maken met brood dat smaakt. 
 
-Kennis in de vorm van kracht schenken geeft enorm veel voldoening. Enthousiasme werkt aanstekelijk en evolueert tot een echte passie voor brood. Ik hoop oprecht in mijn missie geslaagd te zijn. Misschien moet zuurdesem dan helemaal niet meer worden gered.
+Kennis schenken geeft enorm veel voldoening. Enthousiasme werkt aanstekelijk en evolueert tot een echte passie voor brood. Ik hoop oprecht in mijn missie te zijn geslaagd. Misschien moet zuurdesem dan helemaal niet meer worden gered...
 
 * * *
 
 Ik begrijp nu waarom de techneuten uit de inleiding zo graag de mouwen opstropen om hun handen in plakkerig deeg te steken. Brood bakken is niet alleen werken aan iets geurig en tastbaar, maar deel uitmaken van een oeroud proces dat al meer dan zesduizend jaar wordt beoefend door de mens. Die rijke geschiedenis is iets heel anders dan de eerste programmeertaal die werd uitgevonden rond 1950. 
 
-Voor de zoveelste keer hetzelfde brood bakken geeft mij veel meer voldoening dan voor de zoveelste keer een probleem in software op te lossen. Ik ben niet de enige die zo denkt. Zelfs denkbeeldige software ingenieur Lois Clary uit Robin Sloan's roman getiteld '_Sourdough_' is het met mij eens [@sdfictie]. 
+Voor de zoveelste keer hetzelfde brood bakken geeft mij veel meer voldoening dan voor de zoveelste keer een probleem in software op te lossen. Ik ben niet de enige die zo denkt. Zelfs de denkbeeldige software ingenieur Lois Clary uit Robin Sloan's roman getiteld '_Sourdough_' is het met mij eens [@sdfictie]. 
 
-Brood was en is nog steeds een zeer belangrijk symbool in onze samenleving. Denk maar aan verschillende gezegden waar brood wordt gebruikt om iets mee duidelijk te maken: '_dat hebben wij broodnodig_', '_uw broodje is gebakken_', '_proficiat met het brood in de oven_', '_zoete broodjes voor iemand bakken_', enzovoort. Brood eten is niet zomaar een culinaire ervaring, maar ook een culturele en spirituele, die mensen samenbrengt. Brood vormt zelfs al sinds de Egyptenaren een centraal deel van heilige vieringen. 
+Brood was en is nog steeds een zeer belangrijk symbool in onze samenleving. Denk maar aan verschillende gezegden waar brood wordt gebruikt om iets mee duidelijk te maken: '_dat hebben wij broodnodig_', '_uw broodje is gebakken_', '_proficiat met het brood in de oven_', '_zoete broodjes voor iemand bakken_', enzovoort. Brood eten is niet zomaar een culinaire ervaring, maar ook een culturele en spirituele die mensen samenbrengt. Brood speelt zelfs al sinds de tijd van de Egyptenaren een centrale rol bij heilige vieringen. 
 
 En ik wil daar een deel van zijn. Als ik brood bak, voel ik mij een _mens_.
 
-In de afgelopen jaren ben ik van een 'exacte' bakker geëvolueerd naar een 'intuïtieve' bakker. Recepten worden niet meer tot op de letter opgevolgd. In de plaats daarvan gebruik ik mijn ervaring en zintuigen om te oordelen wanneer ik wat moet doen. Je intuïtie gebruiken betekent niet dat wetenschap geen plaats meer kan hebben in de keuken. Om die intuïtie op te bouwen heb ik immers zwaar geleund op de wetenschap van het brood bakken. 
+In de afgelopen jaren ben ik van een 'exacte' bakker geëvolueerd naar een 'intuïtieve' bakker. Recepten worden niet meer tot op de letter gevolgd. In de plaats daarvan gebruik ik mijn ervaring en zintuigen om te oordelen wanneer ik wat moet doen. Je intuïtie gebruiken betekent niet dat wetenschap geen plaats meer kan hebben in de keuken. Om die intuïtie op te bouwen heb ik immers zwaar geleund op de wetenschap van het brood bakken. 
 
 Het is zo'n beetje als spaghetti koken. Als onervaren kok lees je het pakje en kook je de spaghetti tot op de minuut zoals voorgeschreven. Het komt niet in je op om te proeven. Moet je dan elke minuut proeven? Of na een tijdje? Wanneer is dat dan? 
 
@@ -39,7 +39,7 @@ Sommige mensen koken zo heel hun leven. Nieuwsgierige mensen stellen één kriti
 
 Ik heb het geluk gehad om veel experts aan het werk te zien. Ik mocht zelfs, ook al was het maar voor een erg korte periode, in de leer gaan bij een van de beste zuurdesembakkerijen die ons land rijk is. Die ervaringen zal ik nooit vergeten. Als iemand mij tien jaar geleden had verteld dat ik een gepassioneerde bakker zou worden, had ik die persoon waarschijnlijk uitgelachen. 
 
-In feite was het idee in de vorm van een zaadje al lang geleden geplant door mijn vader (bedankt papa). Het enige wat ik gedaan heb is het, soms onbewust en soms bewust, water gegeven. Door actief de juiste mensen op te zoeken waar ik van kan leren, groeide die passie uit tot een obsessie. Ik zou zonder passie nooit in staat geweest zijn om zo lang gefascineerd te blijven over één ding.
+In feite was het idee in de vorm van een zaadje al lang geleden geplant door mijn vader (bedankt papa). Het enige wat ik gedaan heb is het, soms onbewust en soms bewust, water gegeven. Door actief de juiste mensen op te zoeken waar ik van kan leren, groeide die passie uit tot een obsessie. Ik zou zonder passie nooit in staat zijn geweest om zo lang gefascineerd te blijven over één ding.
 
 Die weg naar meesterschap kan geen enkel boek je leren. Helpen om de juiste vragen te stellen wel. Ik heb laten zien welk pad ik heb bewandeld, welke flaters ik heb begaan, en welke dingen ik heb bijgeleerd aan het einde van elk hoofdstuk. Gebruik die inzichten als leidraad in en uit de keuken. Ik besef echter dat dit boek beginnende bakkers onvoldoende begeleidt. Bekijk daarom zeker ook eens de aanbevolen literatuur. 
 
@@ -51,7 +51,7 @@ Meik Wiking, de CEO van het Happiness Research Institute, heeft het in zijn laat
 
 > _'Wil je gelukkig zijn? Bak dan brood.'_
 
-En als je me nu wilt excuseren, moet ik _Meneer Bubbels_ voeren en we hebben geen meel meer...
+En als je me nu wilt excuseren, ik moet _Meneer Bubbels_ gaan voeren en we hebben geen meel meer...
 
 
 ## Dankwoord
@@ -66,7 +66,7 @@ De personen met het nodige geduld om een driehonderd pagina's tellend manuscript
 
 Mijn vader, Herman Groeneveld, om mij al dan niet bewust aan te steken, zoals zijn vader op zijn beurt de bakmicrobe doorgaaf aan hem. Ik hoop u op mijn beurt ervan te overtuigen dat alleen maar gist gebruiken saai is.
 
-Als laatste en belangrijkste, mijn vrouw, Kristien \mbox{Thoelen}, die telkens gedwee toekijkt hoe ik het hele huis bedek met een fijn bloemlaagje, en de 'stank' van de oven met een grote glimlach verduurt.
+Als laatste en belangrijkste, mijn vrouw en persoonlijke eindredacteur, Kristien \mbox{Thoelen}, die telkens gedwee toekijkt hoe ik het hele huis bedek met een fijn bloemlaagje, en de 'stank' van de oven met een grote glimlach verduurt.
 
 ## Aanbevolen literatuur
 

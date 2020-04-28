@@ -18,7 +18,7 @@ categories:
 
 [<img class="size-large wp-image-877" src="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg" alt="sneetjes boekweit brood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">sneetjes boekweit brood</figcaption></figure> 
 
-Het is altijd leuk om &#8220;alternatieve&#8221; _granen_ te gebruiken als toevoeging in een klassiek brooddeeg. Hiermee zet ik expres het woord _granen_ in schuine letters omdat niet alle _granen_ échte granen zijn. Bekijk het volgende lijstje eens:
+Het is altijd leuk om &#8220;alternatieve&#8221; _granen_ te gebruiken als toevoeging in een klassiek brooddeeg. Hiermee zet ik met opzet het woord _granen_ in schuine letters omdat niet alle _granen_ échte granen zijn. Bekijk het volgende lijstje eens:
 
   * boekweit
   * tarwe

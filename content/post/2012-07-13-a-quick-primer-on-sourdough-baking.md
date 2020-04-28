@@ -158,7 +158,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   </h1>
   
   <p>
-    Fermentatie van het finaal deeg gebeurt in twee fasen: fase één heet <strong>&#8220;bulk fermentatie</strong>&#8221; (eerste rijs) en fase twee heet <strong>&#8220;final proofing</strong>&#8221; of &#8220;tweede rijs&#8221; &#8211; gedaan na het vorm geven van het deeg. De eerste stap dient voornamelijk voor de ontwikkeling van de <em>smaak</em>, de tweede stap voor het rijzen naar de gewenste <em>grootte</em>. Deze stap is heel gemakkelijk &#8211; in feite hoef je helemaal niets te doen buiten geduldig wachten! Een typische eerste rijs voor een rustiek brood met zuurdesem duurt veel langer omdat de gistcellen trager zijn en complexer in elkaar zitten dan wanneer commerciële gist gebruikt wordt.
+    Fermentatie van het finaal deeg gebeurt in twee fasen: fase één heet <strong>&#8220;bulk fermentatie</strong>&#8221; (eerste rijs) en fase twee heet <strong>&#8220;final proofing</strong>&#8221; of &#8220;tweede rijs&#8221; &#8211; gedaan na het vormgeven van het deeg. De eerste stap dient voornamelijk voor de ontwikkeling van de <em>smaak</em>, de tweede stap voor het rijzen naar de gewenste <em>grootte</em>. Deze stap is heel gemakkelijk &#8211; in feite hoef je helemaal niets te doen buiten geduldig wachten! Een typische eerste rijs voor een rustiek brood met zuurdesem duurt veel langer omdat de gistcellen trager zijn en complexer in elkaar zitten dan wanneer commerciële gist gebruikt wordt.
   </p>
   
   <p>
@@ -295,7 +295,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
       07:00 PM &#8211; mix <strong>rest van de ingrediënten</strong><strong> </strong>en kneed door <strong>stretch & fold</strong> technieken toe te passen voor max. 5 minuten. Laat 2 uur rusten voor de eerste rijs.
     </li>
     <li>
-      09:00 PM &#8211; vorm geven (3 substappen). Laat 2 uur rusten voor tweede rijs.
+      09:00 PM &#8211; vormgeven (3 substappen). Laat 2 uur rusten voor tweede rijs.
     </li>
     <li>
       11:30 PM &#8211; <strong>inkerven en bakken</strong>. @ 250°C voor min. 45-50 minutes.

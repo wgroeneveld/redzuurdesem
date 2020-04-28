@@ -205,7 +205,7 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
 
 <div>
   <p>
-    Het brood een vorm geven moet in principe in 3 stadia gebeuren:
+    Het brood een vormgeven moet in principe in 3 stadia gebeuren:
   </p>
 </div>
 

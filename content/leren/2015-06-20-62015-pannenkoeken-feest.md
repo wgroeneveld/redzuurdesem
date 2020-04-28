@@ -107,7 +107,7 @@ desem starter
 </h3>
 
 <p>
-  Een standaard West-Europese &#8220;pannenkoek&#8221; bestaat meestal 100% uit witte tarwebloem. Dit is lekker zoet, maar hier stopt het natuurlijk niet. Je kan de typische <strong>boekweit pannenkoeken</strong> maken door een gedeelte van je bloem te wisselen door boekweitmeel te gebruiken. Dit kan gaan van 10 tot 50% van de hoeveelheid.<br /> Daar zal je mee moeten experimenteren &#8211; het heeft weinig nut om hier een voorbeeld van te geven want dat is enorm persoonlijk. Waar je wel op moet letten, is dat boekweit zich heel anders gedraagd dan tarwe: het &#8220;plakt&#8221; meer. Dat betekent dat het moeilijker gaat worden om je pannenkoeken om te draaien in de pan tenzij je voldoende vet gebruikt. Oefening baart kunst&#8230;<br /> Je kan ook proberen om 100% boekweit pannenkoeken te maken, maar dat is af te raden om een aantal redenen:
+  Een standaard West-Europese &#8220;pannenkoek&#8221; bestaat meestal 100% uit witte tarwebloem. Dit is lekker zoet, maar hier stopt het natuurlijk niet. Je kan de typische <strong>boekweit pannenkoeken</strong> maken door een deel van je bloem te wisselen door boekweitmeel te gebruiken. Dit kan gaan van 10 tot 50% van de hoeveelheid.<br /> Daar zal je mee moeten experimenteren &#8211; het heeft weinig nut om hier een voorbeeld van te geven want dat is enorm persoonlijk. Waar je wel op moet letten, is dat boekweit zich heel anders gedraagd dan tarwe: het &#8220;plakt&#8221; meer. Dat betekent dat het moeilijker gaat worden om je pannenkoeken om te draaien in de pan tenzij je voldoende vet gebruikt. Oefening baart kunst&#8230;<br /> Je kan ook proberen om 100% boekweit pannenkoeken te maken, maar dat is af te raden om een aantal redenen:
 </p>
 
 <ul>

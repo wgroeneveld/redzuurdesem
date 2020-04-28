@@ -12,7 +12,7 @@ November 2015
 
 ‘Perfect, meer heb ik niet nodig. Bedankt!’ Ik laat mijn tas vallen en kijk even uit het raam, recht in de slaapkamer van het appartement aan de overkant van de straat. Gordijnen ontbreken aan beide kanten. Een onbehaaglijk gevoel overvalt mij.
 
-‘Oh, als je toevallig een konijn tegenkomt, duw hem dan maar naar onze kamer, dan is hij weer ontsnapt.’ Rose glimlacht. Ze ziet er moe uit. Het is acht uur ‘s avonds en ik bevind me boven het restaurant en bakkerij ‘_De Superette_’, in de Guldenspoorstraat te Gent. De eerste verdieping van het gebouw wordt verhuurd aan stagiairs die overdag (of ‘s nachts, zou ik later beseffen) in de zaak beneden werken. Rose Greene is chef van het restaurant en woont er tijdelijk in samen met haar partner Margaux, die ook werkt in het restaurant als kok. 
+‘Oh, als je toevallig een konijn tegenkomt, duw hem dan maar naar onze kamer, dan is hij weer ontsnapt.’ Rose glimlacht. Ze ziet er moe uit. Het is acht uur ‘s avonds en ik bevind me boven het restaurant en bakkerij ‘_De Superette_’, in de Guldenspoorstraat te Gent. De eerste verdieping van het gebouw wordt verhuurd aan stagiairs die overdag (of ‘s nachts, zou ik later beseffen) in de zaak beneden werken. Rose Greene is chef-kok van het restaurant en woont er tijdelijk in samen met haar partner Margaux, die ook werkt in het restaurant als kok. 
 
 ‘We zijn op zoek naar een betaalbaar huis in de buurt’ vertelt ze. Rose is Iers en was al op jonge leeftijd gefascineerd door lekker en gezond eten. Ze zwaait samen met eigenaar Kobe Desramaults de plak in het restaurant. 
 
@@ -64,7 +64,7 @@ Een gang tussen het fornuis en de oven verbindt de zaal met de eigenlijke werkpl
 
 ‘Dat went wel. Toen ik hier begon had ik minder plaats dan u!’ verzekerde Sophia me. Dat chefs en hulpkoks die werkplaats ook bezetten tijdens de openingsuren van het restaurant, maakt de hele operatie er alleen maar chaotischer op. 
 
-Werken met de Salva oven was puur plezier: hij is heel accuraat. Dat betekent dat iemand zoals mij die maar een korte stage loopt, hem relatief snel onder de knie heeft. Onder- en bovenwarmte instellen werkt goed, hij warmt snel op en de verdiepingen stonden voor mij op de juiste hoogte. 
+Werken met de Salva-oven was puur plezier: hij is heel accuraat. Dat betekent dat iemand zoals mij die maar een korte stage loopt, hem relatief snel onder de knie heeft. Onder- en bovenwarmte instellen werkt goed, hij warmt snel op en de verdiepingen stonden voor mij op de juiste hoogte. 
 
 \begin{figure}
     \centering
@@ -119,11 +119,11 @@ Een tweede lijstje, getiteld '_Things to get done_':
 
 Heb ik al vermeld dat er enkel vrouwen werken in de bakkerij? Het is een beetje vreemd om ‘s morgens achterin te werken, en ze doorheen het hele gebouw te horen roepen hoe hun weekend is geweest, en welke leuke dingen ze gaan plannen in de kerstvakantie. Door de scheiding van de twee werkplaatsen moet je luid genoeg praten als je wil worden begrepen door je collega die waarschijnlijk ook druk bezig is met het hanteren van een mixer of het rammelen van potten. 
 
-Dankzij Eline voelde ik mij de tweede dag wat zelfzekerder, doordat ze constant in de buurt bleef, en ik zo voldoende kon vragen. Sarah is als hoofdbakker altijd met (te) veel dingen tegelijk bezig, wat het voor mij moeilijker maakt om haar lastig te vallen met mijn onwetendheid. 
+Dankzij Eline voelde ik mij de tweede dag wat zelfzekerder, doordat ze constant in de buurt bleef, en ik zo voldoende kon vragen. Sarah is als hoofdbakker altijd met (te) veel dingen tegelijk bezig, wat het voor mij moeilijker maakte om haar lastig te vallen met mijn onwetendheid. 
 
-De tweede dag voelde anders aan dan de voorbereidingsdag, omdat de zaak nu effectief opengaat: de vitrine moet in orde zijn, afgewerkte cakes en ander gebak maakt deel uit van de _mise-en-place_ van de keuken voor de middag- en avondservice, en er is meer personeel aanwezig. 
+De tweede dag voelde anders aan dan de voorbereidingsdag, omdat de zaak effectief openging: de vitrine moest in orde zijn, afgewerkte cakes en ander gebak maakten deel uit van de _mise-en-place_ van de keuken voor de middag- en avondservice, en er was meer personeel aanwezig. 
 
-Vooral dat laatste is eerder vervelend dan leuk. Het is een mes dat langs twee kanten snijdt. Langs de ene kant is het fijn om veel collega’s te hebben en met verschillende mensen te kunnen praten, maar langs de andere kant is er geen tijd om te praten en loopt iedereen zo’n beetje elkaar in de weg. Ik moet mijn oven bewaken als een hond die zijn kostbaarste speelgoedje bewaakt: als dat niet gebeurt steekt hij binnen de kortste keren vol met bloemkolen, paddenstoelen en gevogelte. De strikte deadline voor mijn lijstje komt anders in de problemen. 
+Vooral dat laatste was eerder vervelend dan leuk. Het is een mes dat langs twee kanten snijdt. Langs de ene kant is het fijn om veel collega’s te hebben en met verschillende mensen te kunnen praten, maar langs de andere kant is er geen tijd om te praten en loopt iedereen zo’n beetje elkaar in de weg. Ik moet mijn oven bewaken als een hond die zijn kostbaarste speelgoedje bewaakt: als dat niet gebeurt steekt hij binnen de kortste keren vol met bloemkolen, paddenstoelen en gevogelte. De strikte deadline voor mijn lijstje komt anders in de problemen. 
 
 Gelukkig is iedereen heel begripvol, en vraagt Margaux constant aan mij of het oké is om een plaatsje in de oven te gebruiken. Ik vind het geweldig om te werken in een onderneming waar alles gebaseerd is op wederzijds respect. Het exacte gevoel is moeilijk te omschrijven. Omdat koks en bakkers zo nauw met elkaar samenwerken, leek het mij logisch dat er regelmatig discussies ontstaan. Ik heb er geen enkele meegemaakt. Ik nam ook aan dat ik als nieuweling niet zonder slag of stoot zou worden aanvaard door de groep. Dat had ik ook mis. Ik werd aangenaam verrast door de vriendelijkheid en openheid van iedereen. De enige die terughoudend was, was ikzelf, omdat ik niet goed wist hoe ik moest reageren. 
 
@@ -174,11 +174,11 @@ Het brooddeeg verdelen was een onmogelijke opdracht. De ingrediënten worden zon
     \caption[Ronde rijsmandjes van geperst hout.]{Ronde rijsmandjes van geperst hout waren de norm. Het plakkerige deeg is moeilijker om langwerpig te vormen.}
 \end{figure}
 
-Na het kneden verhuisden we het deeg naar grote emmers om verder te fermenteren als eerste rijsfase. De kneedmachine moet immers worden vrijgemaakt om te kunnen beginnen aan het volgende deeg. De Sinmag snelkneder wordt enkel gebruikt voor patisserie[^suikerneed]. Het deeg rijst in de emmers een uur of drie tot vier op `24° C`, of totdat Sarah beslist dat de fermentatie oké is. Daarna is het aan ons om de emmers om te kieperen op de houten werkbanken voor de houtoven, om het deeg te kunnen verdelen. Dat klinkt eenvoudiger dan het is: de emmers zijn zwaar en het deeg is zeer loperig. 
+Na het kneden verhuisden we het deeg naar grote emmers om verder te fermenteren als eerste rijsfase. De kneedmachine moet immers worden vrijgemaakt om te kunnen beginnen aan het volgende deeg. De Sinmag snelkneder wordt enkel gebruikt voor patisserie[^suikerneed]. Het deeg rijst in de emmers een uur of drie tot vier op `24° C`, of totdat Sarah beslist dat de fermentatie oké is. Daarna is het aan ons om de emmers om te kappen op de houten werkbanken voor de houtoven, om het deeg te kunnen verdelen. Dat klinkt eenvoudiger dan het is: de emmers zijn zwaar en het deeg is zeer loperig. 
 
 Ik zat nog met een bijkomend probleem waar niemand last van leek te hebben: mijn bril. Dankzij een constant gebogen hoofd en veel zweet gleed mijn bril sneller dan gebruikelijk van mijn neus. Daardoor moest ik constant met mijn pols (handen vol met plakkerig deeg) mijn bril terugduwen. Na een tijdje hing dan ook alles vol deeg. Plezant. Eline vond blijkbaar van wel. 
 
-‘Heb je last van je bril?’ vraagt ze opgewekt, terwijl ze met haar deegsteker vlot verder werkt. Nee, die spastische bewegingen van mijn plakkerige handen naar mijn hoofd maak ik om gasten aan de toog wat bezig te houden. Toeschouwers zorgen zeker op zo’n momenten voor extra stress. Ik hoorde pas later van anderen dat iedereen lenzen draagt. Het was me niet eens opgevallen dat niemand anders een bril droeg. Nog een leerrijke les: een bril in een keuken of bakkerij is vragen om ellende. Ik had er in de avondschool nooit echt veel last van, maar daar was het nooit zo drukkend warm, en moest ik nooit zo hard werken. Dit verhaal bevestigde mijn vriend en chef Raf, die daarom koos voor een laserbehandeling. 
+‘Heb je last van je bril?’ vraagt ze opgewekt, terwijl ze met haar deegsteker vlot verder werkt. Nee, die spastische bewegingen van mijn plakkerige handen naar mijn hoofd maak ik om gasten aan de toog wat bezig te houden. Toeschouwers zorgen zeker op zo’n momenten voor extra stress. Ik hoorde pas later van anderen dat iedereen lenzen draagt. Het was me niet eens opgevallen dat niemand anders een bril droeg. Nog een leerrijke les: een bril in een keuken of bakkerij is vragen om ellende. Ik had er in de avondschool nooit echt veel last van, maar daar was het nooit zo drukkend warm, en moest ik nooit zo hard werken. Dit verhaal bevestigde mijn vriend en chef-kok Raf, die daarom koos voor een laserbehandeling. 
 
 [^window]: De _windowpane_ test gaat als volgt: pluk een stukje deeg van de deegbal. Probeer het uit te rekken, totdat het zo dun wordt dat je er de krant door zou kunnen lezen. Lukt dat? Goed, dan heb je genoeg gekneed. Met een trage éénarmige kneder zoals in Gent duurt dit minstens 20 minuten. 
 [^suikerneed]: Suiker en boter worden op snelheid geklopt om luchtzakjes te maken, voor een luchtig gebak. De suikerkristallen helpen hiermee, evenals een hoge klopsnelheid [@campbell1999creation].  
@@ -306,9 +306,9 @@ De volgende formule is samen met het Altamura-brood uit hoofdstuk \ref{altamurab
 | `670 g`    | `67%`      | Water                |
 | `20 g`     | `2%`       | Zout                 |           
 
-Table: Formule voor pizza.\label{pizzaformule}
+Table: Formule voor pizza.
 
-Waarvan voor het voordeeg (`10%` van de bloem):
+Waarvan voor het voordeeg (`10%` van de bloem): 
 
 > `100 g` tarwebloem \newline
 > `100 g` water \newline

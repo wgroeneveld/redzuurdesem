@@ -507,7 +507,7 @@ Deze keer brachten we samen twee dagen al bakkend door. Ik wilde al doende een b
 
 'Natuurlijk gaat dat! Jullie zijn hier bij Puratos hé, hier gaat alles. We zullen straks eens kijken of er nog genoeg _in stock_ is. En wat nog?' Ik keek naar Dimitri, die niet onmiddellijk iets kon verzinnen. 
 
-'Wat dacht je van baguettes?' stelde ik voor. 'Ik heb altijd moeite met de juiste vormgeving als er veel water aan de pas komt.' 
+'Wat dacht je van baguettes?' stelde ik voor. 'Ik heb altijd moeite met de juiste vormgeving als er veel water aan te pas komt.' 
 
 'Goed, baguettes, kunnen we zeker doen. Wat nog?' 
 
@@ -557,7 +557,7 @@ Voor het baguettedeeg gebruikten we '_farine de tradition_', een Franse crèmekl
 
 'Zijn dat recente trends die jullie ontdekken?' 
 
-'In zekere zin wel, en wij zijn daar erg bewust mee bezig. Toen werd aangetoond dat bromaat kankerverwekkend kon zijn, hebben wij onmiddellijk beslist om daarmee te stoppen. In veel Amerikaanse staten wordt dat nog veelvuldig toegepast om deeg op te blazen. Het is niet alleen een kwestie van de markt te volgen, maar ook om op een verantwoorde manier de voedingsindustrie te kunnen helpen. Zie je, met enzymen kan je fantastische dingen doen.' Ondertussen controleert Karl het baguettedeeg door de kneder stil te leggen en er eens aan te trekken. De tweede snelheid wordt ingezet en nog wat water toegevoegd. 
+'In zekere zin wel, en wij zijn daar erg bewust mee bezig. Toen werd aangetoond dat bromaat kankerverwekkend kon zijn, hebben wij onmiddellijk beslist om daarmee te stoppen. In veel Amerikaanse Staten wordt dat nog veelvuldig toegepast om deeg op te blazen. Het is niet alleen een kwestie van de markt te volgen, maar ook om op een verantwoorde manier de voedingsindustrie te kunnen helpen. Zie je, met enzymen kan je fantastische dingen doen.' Ondertussen controleert Karl het baguettedeeg door de kneder stil te leggen en er eens aan te trekken. De tweede snelheid wordt ingezet en nog wat water toegevoegd. 
 
 De uitleg die we van Karl krijgen getuigt van een doordachte filosofie over de toekomst van brood. Het is ons duidelijk dat we op gebied van zuurdesem op dezelfde lijn zitten. 
 
@@ -622,7 +622,7 @@ Het pH-niveau van mijn zuurdesem ligt op de grens van de aanvaarde normale waard
 
 [^was]: Je zuurdesemcultuur 'wassen', door het te laten weken in water, heeft hetzelfde effect.
 
-'Wel, ik zou een tijdje een vastere desem maken, en het in water bewaren. Dat neemt de zuren op, zoals bij een Italiaanse panettone-desem. Chinezen voegen alkali toe voor hun gestoomde broodjes, die willen absoluut geen zure smaak. Maar gewoon een aantal keer vaker verversen op kortere tijdstippen zal ook al helpen. Om de vier uur bijvoorbeeld. En 's nachts ook opstaan hé!' Dat laatste advies volg ik al door enkele dagen voor het bakken de cultuur terug op te kweken. 
+'Wel, ik zou een tijdje een vastere desem maken, en het in water bewaren. Dat neemt de zuren op, zoals bij een Italiaanse panettone-desem. Chinezen voegen alkali toe voor hun gestoomde broodjes, die willen absoluut geen zure smaak. Maar gewoon een paar keer vaker verversen op kortere tijdstippen zal ook al helpen. Om de vier uur bijvoorbeeld. En 's nachts ook opstaan hé!' Dat laatste advies volg ik al door enkele dagen voor het bakken de cultuur terug op te kweken. 
 
 [^ttarye]: Het betrof een `80%` tarwebloem, `20%` roggemeel, `5%` boekweit brood met `70%` water en `2.3%` zout. Een typische pH-waarde voor roggebrood met `70%` rogge of meer is `4.4`, en `4.7` voor gemengd brood met ongeveer `30%` rogge. Een typische TTA waarde voor roggebrood met `70%` rogge of meer is `8`, en `6.5` voor tarwebrood met minder dan `50%` rogge [@katina2014process]. Dat komt dus keurig overeen.
 

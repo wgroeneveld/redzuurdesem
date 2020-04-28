@@ -217,7 +217,7 @@ Het enige wat me nu nog restte was de blijde boodschap verkondigen dat ik de kom
 * Er is veel interesse in de ambacht van het brood bakken, en in zuurdesembrood. Er is ook nog erg weinig algemene kennis over beide zaken. 
 * Een lijn tussen artisanaal en ambachtelijk proberen te trekken schept alleen maar verwarring. 
 * Veel (niet alleen industriële) bakkerijen misbruiken jammer genoeg de \mbox{naïviteit} van hun klanten door termen als 'artisanaal', 'ovenvers' en 'liefde voor de ambacht' te verspreiden. 
-* Kennis delen kan erg bevredigend zijn. 
+* Kennisdelen kan erg bevredigend zijn. 
 * Om kennis te delen moet er eerst nog meer kennis opgebouwd worden.
 
 \newpage

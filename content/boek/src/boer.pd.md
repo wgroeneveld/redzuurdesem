@@ -273,7 +273,7 @@ Ik ontmoette Gert Jordens op een dinsdagavond in zijn testlabo aan het Albertkan
 
 We praatten wat, Gert over bier brouwen en ik over brood bakken. 
 
-'Ik heb thuis een aantal keer Kvass[^kva] gemaakt met zuurdesem, wat je misschien een soort van tafelbier kan noemen. Wat ik mij voornamelijk afvroeg, hoe zit dat met gisten en bacteriën in bier? Heb jij ook melkzuurbacteriën nodig, of alleen maar gisten?' Gert knikte. 
+'Ik heb thuis een paar keer Kvass[^kva] gemaakt met zuurdesem, wat je misschien een soort van tafelbier kan noemen. Wat ik mij voornamelijk afvroeg, hoe zit dat met gisten en bacteriën in bier? Heb jij ook melkzuurbacteriën nodig, of alleen maar gisten?' Gert knikte. 
 
 'Ja, brouwen met zuur, dat vereist een volledig andere installatie. Wij gebruiken hier alleen maar gist. Bacteriën gebruiken, dat is de richting van Geuze uitgaan. Die krijg je nooit meer uit je installatie. Je kan niet zuur bier brouwen, én iets als gistend bier.' 
 
@@ -305,7 +305,7 @@ Ik knik. '_Saccharomyces_, dat dacht ik al. Maar zonder melkzuurbacteriën, welk
 
 'Maar je kweekt geen gisten zelf, vanaf nul, zoals ik met mijn desem doe?' Ik nam een flinke slok van mijn appelsap. Lekker, minder zuur dan ik verwachtte. Misschien geen goed idee in combinatie met de frieten die ook nog aan het fermenteren zijn in mijn maag. 
 
-'Neen, da's zuiver labo werk. Daar hou ik mij niet mee bezig. Er zijn zoveel manieren om nog extra smaak toe te voegen voordat bier kan worden gedronken. Neem nu mout. Hoeveel water wordt gebruikt bij het ontkiemen van de granen, de kiemduur, hoe dit terug wordt gedroogd, noem maar op: alles heeft invloed op de smaak. Of de hop die meegekookt wordt. Die komt van Joris Cambie uit Poperinge, trouwens.' Vloeibare gist. Ik vermoedde dat het hier om een gelijkaardig product ging dat ook verkocht wordt door Puratos, maar dan op maat gemaakt voor brouwers. 
+'Neen, da's zuiver labo werk. Daar hou ik mij niet mee bezig. Er zijn zoveel manieren om nog extra smaak toe te voegen voordat bier kan worden gedronken. Neem nu mout. Hoeveel water wordt gebruikt bij het ontkiemen van de granen, de kiemduur, hoe dit terug wordt gedroogd, noem maar op: alles heeft invloed op de smaak. Of de hop die meegekookt wordt. Die komt van Joris Cambie uit Poperinge, trouwens.' Vloeibare gist. Ik vermoedde dat het hier om een soortgelijk product ging dat ook wordt verkocht door Puratos, maar dan op maat gemaakt voor brouwers. 
 
 [^kva]: Het brouwen van kvass is beschreven in hoofdstuk \ref{kvass}.
 [^brwl]: Een groothandelaar gespecialiseerd in producten voor het brouwen van alcoholhoudende dranken. 
@@ -440,7 +440,7 @@ Niet alle gisten zijn even tolerant voor alcohol en elke zuurdesemcultuur is uni
 
 Het werd mij duidelijk dat bier voornamelijk smaak aanlevert en niet rijskracht, ook al gebruik je bier met hergisting op fles. De evenwicht tussen het aroma van bier en de complexiteit van zuurdesem is erg moeilijk om te handhaven. Mijn methode van brood bakken, verder uitgediept in deel III, voorziet meer dan voldoende smaak, aangebracht door zuurdesem, die snel overweldigend werkt op de verdienstelijke bijdrage van het bier. 
 
-Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten op zichzelf. 
+Drink gewoon je bier bij een goed zuurdesembrood, en geniet van beide fermenten op zich. 
 
 \newpage
 
@@ -507,4 +507,4 @@ De grove granen zorgen voor een iets vastere structuur en een extra voedzaam bro
 
 Stort het deeg na de eerste bulkrijs uit op een werkoppervlak, en rek het voorzichtig uit tot een rechthoek, zonder de lucht eruit te slaan. Verdeel de granen over het deeg en vouw een derde van het deeg naar binnen. Vouw daarna de andere kant van de rechthoek over de dichtgevouwen kant en laat het een uur met rust. Vouw daarna het deeg opnieuw, om het uiteindelijk anderhalf uur te laten rusten. 
 
-Laat het brood zeker lang genoeg bakken. Het vocht moet de tijd krijgen om te verdampen, en het kruim moet voldoende stabiliseren. Wat 'lang genoeg bakken' precies betekent hangt af van je installatie thuis. 
+Laat het brood zeker lang genoeg bakken. Het vocht moet de tijd krijgen om te verdampen, en het kruim moet voldoende stabiliseren. Wat 'lang genoeg bakken' precies betekent hangt af van de installatie die je thuis hebt. 

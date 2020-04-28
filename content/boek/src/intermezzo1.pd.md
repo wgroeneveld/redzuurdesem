@@ -9,7 +9,7 @@
 Juli 2018
 \end{flushright}
 
-Wijnmaker Autréau-Lasnot[^lasnot] bevindt zich in Venteuil, een klein dorpje in de champagnestreek van Frankrijk dat slechts vijfhonderd inwoners telt. Er zijn tientallen grote en kleine champagneboeren in de streek gevestigd - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkasten. 
+Wijnmaker Autréau-Lasnot[^lasnot] bevindt zich in Venteuil, een klein dorpje in de champagnestreek van Frankrijk dat slechts vijfhonderd inwoners telt. In de streek zijn tientallen grote en kleine champagneboeren gevestigd - en overal waar je kijkt zie je wijnstokken vergezeld met vrolijke rozen en gonzende bijenkasten. 
 
 Ik drink geen alcohol, maar dat is geen reden om een uitgebreid bezoek aan deze streek af te slaan. Ik hou van alles wat met fermentatie te maken heeft. Het alcoholische bijproduct is dan voor mij natuurlijk jammer, maar terwijl iedereen zich bezat dankzij de verschillende proeverijen kan ik vrolijk wat rondkijken. 
 
@@ -27,7 +27,7 @@ Wees bereid om een slechte oogst onherroepelijk weg te gooien: het gaat dan om h
 
 '_Time is money_' - het klinkt als een zielloze oneliner zonder context. En dat is het ook. 
 
-In de champagnewereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om voldoende flessen per jaar te produceren om goed van te kunnen leven (onze gids schatte ongeveer `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). 
+In de champagnewereld is tijd een synoniem voor _plaats_. Er zijn enorme kelderruimtes nodig om voldoende flessen per jaar te produceren om er goed van te kunnen leven (onze gids schatte ongeveer `10.000` - dat is een peulschil in vergelijking met industriële champagneboeren). 
 
 \begin{figure}
     \mbox{} \par

@@ -25,7 +25,7 @@ Aangezien dit type deeg zeer goed en evenredig gekneed moet worden, kunnen we da
   
 In ieder geval hoef je je daar geen zorgen over te maken thuis wanneer het deeg in het broodbak machine gekneed wordt.
 
-Afbakken in het machine is niet aangeraden omdat het rijsprogramma helaas te kort is, en het incorporeren van de marsepein en de juiste vorm geven natuurlijk moeilijker gaat. Het is ook niet zo eenvoudig om direct na het bakken het brood in te strijken met boter aangezien het zou moeten afkoelen voordat men het uit het bakblik haalt.
+Afbakken in het machine is niet aangeraden omdat het rijsprogramma helaas te kort is, en het incorporeren van de marsepein en de juiste vormgeven natuurlijk moeilijker gaat. Het is ook niet zo eenvoudig om direct na het bakken het brood in te strijken met boter aangezien het zou moeten afkoelen voordat men het uit het bakblik haalt.
 
 Dat betekent niet dat dit onmogelijk is, maar er wordt aangeraden om **het origineel recept te volgen** en enkel je machine te gebruiken om **te kneden.**
 

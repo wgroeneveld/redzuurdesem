@@ -61,7 +61,7 @@ Hoe maak je zuurdesem pannekoeken? Heel simpel. Gebruik het overschotje aan gefe
   * 1/2 theelepel zout
   * optioneel: 2 theelepels vanille suiker
 
-De basis verhouding is **100gr bloem = 1 ei**.
+De basisverhouding is **100gr bloem = 1 ei**.
   
 Ik hou persoonlijk van de amandelmelk pannekoeken, omdat die melk eigenlijk water is maakt het heel veel gaatjes in de koeken als je een superhete koekepan hebt (verdampt sneller).
 

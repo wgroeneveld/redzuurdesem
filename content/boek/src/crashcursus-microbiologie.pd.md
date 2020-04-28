@@ -10,7 +10,7 @@
 
 ### Verrotting
 
-Voedsel wordt rot. Organisch materiaal vergaat. Wanneer te kiezen voor het woord 'rot' of 'gefermenteerd', hangt af van waar je je ergens op de aardbol bevindt. De dunne lijn tussen deze twee woorden is hoofdzakelijk een culturele lijn. _Hákarl_, gefermenteerde haai, is een nationaal gerecht in Ijsland dat groentjes zou doen kokhalzen. Een potje Zweedse _Surströmming_ (in dit geval durf ik rotte haring te zeggen) openen kan je een boete opleveren, omdat de rotte geur op die plek nog dagen blijft hangen. Niet overgeven vóór de eerste hap is blijkbaar al een kunst. 
+Dingen worden rot. Organisch materiaal vergaat. Wanneer te kiezen voor het woord 'rot' of 'gefermenteerd', hangt af van waar je je ergens op de aardbol bevindt. De dunne lijn tussen deze twee woorden is hoofdzakelijk een culturele lijn. _Hákarl_, gefermenteerde haai, is een nationaal gerecht in Ijsland dat groentjes zou doen kokhalzen. Een potje Zweedse _Surströmming_ (in dit geval durf ik rotte haring te zeggen) openen kan je een boete opleveren, omdat de rotte geur op die plek nog dagen blijft hangen. Niet overgeven vóór de eerste hap is blijkbaar al een kunst. 
 
 Chinese 'duizendjarige' eendeneieren worden een paar weken tot een paar maanden ingelegd in een mengsel van klei, as, zout, thee en rijstkaf. De lange fermentatietijd zet bestanddelen van het rauwe ei om in zwavelzuur. En dat is geen plezante geur bij het pellen van het ei... Enkel doorgewinterde gistingsfreaks zoals Sandor Katz (of Chinezen) zijn hiervoor te vinden. Sandor beschrijft in zijn bijbel '_The Art of Fermentation_' elke mogelijke vorm van rot [@katz]. 
 
@@ -22,7 +22,7 @@ Wist je echter dat de volgende producten ook gefermenteerd waren:
 
 > Olijven[^olijf], chocolade[^cocolade], azijn, ketchup, tabascosaus, worcestersaus, \mbox{koffie}, pu'er thee[^thee], salami, amazake[^amazake], katsuobushi
 
-Commerciële varianten worden op een andere manier geproduceerd. Een blik groenten op de schappen van je lokale supermarkt wordt ingelegd met azijn. De erg zure omgeving is niet leefbaar voor organismen. Dat is iets heel anders dan groenten inleggen in water (en eventueel zout). 
+Commerciële varianten worden op een andere manier geproduceerd. Groenten in blik op de schappen van je lokale supermarkt zijn ingelegd met azijn. De erg zure omgeving is niet leefbaar voor organismen. Dat is iets heel anders dan groenten inleggen in water (en eventueel zout). 
 
 [^olijf]: Rauwe olijven zijn oneetbaar door de aanwezigheid van bittere stoffen.
 [^cocolade]: Verse cacaobonen uit de peul zijn slijmerig en paars, zoals lychees. Na het fermenteren verliezen ze vocht, en krijgen ze die typische bruine kleur, klaar om verder te worden geroosterd. Hetzelfde principe geldt voor koffiebonen, waar fermentatie wordt gebruikt om het vruchtvlees van het zaadje te scheiden. 
@@ -59,7 +59,7 @@ Zowel gist als bacterie teren op energie in de vorm van suiker. Dat betekent een
 
 [^milj]: Een theelepel zuurdesem bevat ongeveer 50 miljoen gisten en 5 miljard melkzuurbacteriën. Een theelepel moderne gedroogde gist bevat 60 miljard gistcellen, die onder de juiste condities om de honderd minuten verdubbelen [@gobbetti2012handbook]. 
 
-We hebben dus twee soorten organismen nodig in brooddeeg, niet één. Bacteriën komen vanzelf, als je maar lang genoeg wacht. Een professionele bakker heeft echter geen tijd: hoe meer broden op korte tijd gebakken kunnen worden, hoe meer geld op de bankrekening. Deze kortzichtige visie levert middelmatige producten op, en nauwelijks bacteriën. Dat is de reden waarom je in drie uur onmogelijk smaak op een natuurlijke manier krijgt toegevoegd aan brood. 
+We hebben dus twee soorten organismen nodig in brooddeeg, niet één. Bacteriën komen vanzelf, als je maar lang genoeg wacht. Een professionele bakker heeft echter geen tijd: hoe meer broden op korte tijd gebakken kunnen worden, hoe meer geld op de bankrekening. Deze kortzichtige visie levert middelmatige producten op, en nauwelijks bacteriën. Dat is de reden waarom je in drie uur tijd onmogelijk smaak op een natuurlijke manier krijgt toegevoegd aan brood. 
 
 Een industriële bakker lost dit probleem op met smaakstoffen en verbeteraars. Een bakker die begaan is met wat hij verkoopt, zet de deur open voor bacteriën door het rijsproces te verlengen. 
 
@@ -245,7 +245,7 @@ Nu we iets meer weten over suikers kunnen we het bakproces beter controleren, do
 
 Een ander belangrijk voordeel van zuurdesem is _houdbaarheid_. Door het langere fermentatieproces wordt de levensduur van voedsel verlengd [@saikia2014effect]. Zuurdesembrood blijft een week goed. Het gistbrood dat je gisteren kocht bij de bakker zal veel sneller beschimmelen. 'Schimmel' is een algemene term die we gebruiken om aan te geven dat iets niet meer eetbaar is. 
 
-We weten nu ook dat schimmels helpen om lekker brood te maken. Schimmels en gisten zijn immers beiden deel van het _Fungi_-rijk. Gist is ééncellig, schimmel is meercellig. De geur én de kleur geven aan wanneer dat sneetje brood aan de kippen te geven. Verschillende kleuren duiden verschillende soorten van schimmel aan[^kleursch], die elk hun eigen voorkeur voor warmte, energiebron (type suiker) en vochtigheid hebben. Beschimmeld brood komt zo vaak voor dat de voornaamste veroorzaker, de _Rhizopus_-stam, door wetenschappers werd bekroond met de titel 'broodschimmel' [@wilkins2009bread].
+We weten nu ook dat schimmels helpen om lekker brood te maken. Schimmels en gisten zijn immers beiden deel van het _Fungi_-rijk. Gist is ééncellig, schimmel is meercellig. De geur én de kleur geven aan wanneer je dat sneetje brood aan de kippen moet geven. Verschillende kleuren duiden verschillende soorten van schimmel aan[^kleursch], die elk hun eigen voorkeur voor warmte, energiebron (type suiker) en vochtigheid hebben. Beschimmeld brood komt zo vaak voor dat de voornaamste veroorzaker, de _Rhizopus_-stam, door wetenschappers werd bekroond met de titel 'broodschimmel' [@wilkins2009bread].
 
 [^kleursch]: Dat is niet de enige reden: sporen van schimmels hebben vaak een andere kleur. 
 
@@ -313,7 +313,7 @@ Het heeft weinig nut om de cultuur actief te houden als er niet elke dag wordt g
 
 Er zijn veel snellere manieren om deeg te doen rijzen. Een traditioneel Iers sodabrood bevat - zoals de naam verraadt - baksoda. Dit fungeert voor de Ieren als rijsmiddel in de plaats van gist of desem. Bakpoeder en baksoda zijn chemische manieren om het rijsproces te versnellen, met elk hun eigen samenstelling. 
 
-_Baksoda_ is natriumbicarbonaat. Bicarbonaat heeft een zuur nodig om mee te reageren, waar koolstofdioxide uitkomt. In recepten zie je verdoken 'zuren' staan zoals botermelk, yoghurt, bruine suiker, citroensap, cacaopoeder of honing. Baksoda is sterk spul: het reageert vier keer zo sterk als bakpoeder. Met mate gebruiken dus. Als de verhouding baksoda/zuur niet in balans is, kan er nog residu overblijven in het brood, wat een zeepsmaak oplevert. Dat is ook smaak, maar niet bepaald eentje die een glimlach op de mond tovert. Een chemisch proces start zodra soda in aanraking komt met zuur. Het heeft geen hitte nodig om te werken. Te lang treuzelen is dan geen goed idee. In sommige boeken staat bij een recept voor cake de waarschuwing 'laat het beslag niet te lang staan' - daarom dus.
+_Baksoda_ is natriumbicarbonaat. Bicarbonaat heeft een zuur nodig om mee te reageren, waar koolstofdioxide uitkomt. In recepten zie je verdoken 'zuren' staan zoals botermelk, yoghurt, bruine suiker, citroensap, cacaopoeder of honing. Baksoda is sterk spul: het reageert vier keer zo sterk als bakpoeder. Met mate gebruiken dus. Als de verhouding baksoda/zuur niet in balans is, kan er nog residu overblijven in het brood, wat een zeepsmaak oplevert. Dat is ook smaak, maar niet bepaald eentje die een glimlach op de mond tovert. Een chemische reactie start zodra soda in aanraking komt met zuur. Het heeft geen hitte nodig om te werken. Te lang treuzelen is dan geen goed idee. In sommige boeken staat bij een recept voor cake de waarschuwing 'laat het beslag niet te lang staan' - daarom dus.
 
 
 
@@ -329,7 +329,7 @@ De snelle bakker die gebruik maakt van deze chemische rijsmiddelen heeft hopelij
 
 Zuurdesemculturen worden ingedeeld in drie verschillende categorieën. Type `I` is de levende cultuur die regelmatig onderhouden moet worden. Type `II` is de industriële gestabiliseerde versie met toegevoegde commerciële gist. Type `III` is de gedroogde variant. Deze zuurdesempoeders komen meer en meer voor in supermarkten, en worden door bakkers voornamelijk gebruikt als smaakversterker in plaats van rijsmiddel [@decock2005bread]. 
 
-Het droogproces beïnvloedt de aanwezigheid van verschillende organismen. Enkel droogresistente melkzuurbacteriën zoals _Lactobacillus Plantarum_ houden het uit tot die fase. Dat verklaart waarom gedroogde desem niet voldoende is om brood dezelfde kracht en smaak te geven als een levende cultuur. Het gebruik van gedroogde desems in bakkerijen gaat altijd gepaard met klassieke gist. Vraag dus altijd of er een echte zuurdesemcultuur aan de pas is gekomen! Deze types zijn elk totaal andere producten, en onmogelijk door elkaar te gebruiken zonder extra aanpassingen aan het recept. 
+Het droogproces beïnvloedt de aanwezigheid van verschillende organismen. Enkel droogresistente melkzuurbacteriën zoals _Lactobacillus Plantarum_ houden het uit tot die fase. Dat verklaart waarom gedroogde desem niet voldoende is om brood dezelfde kracht en smaak te geven als een levende cultuur. Het gebruik van gedroogde desems in bakkerijen gaat altijd gepaard met klassieke gist. Vraag dus altijd of er een echte zuurdesemcultuur aan te pas is gekomen! Deze types zijn elk totaal andere producten, en onmogelijk door elkaar te gebruiken zonder extra aanpassingen aan het recept. 
 
 Een bakker is een slaaf van zijn zuurdesemcultuur. Dat was voor de komst van koeltechnieken nog veel erger. Ondertussen heeft technologie de bakker weten losmaken van één van zijn ketenen. Vergis u niet: we hangen nog steeds vast. Professionele bakkers zijn niet zomaar op zoek naar smaak. Het moet _consistent_ zijn. Brood dat wordt verkocht kweekt bepaalde verwachtingen bij klanten. De cultuur vergeten bij te voeden, of de momenten van voeden of de voeding zelf veranderen: het zijn allemaal factoren die deze consistentie in gedrang brengen. Dat betekent niet dat bakkerijen moeten worden omgevormd tot steriele laboratoria. Het gaat erom een voorspelbaar legertje van micro-organismen te kweken. Heb je boogschutters in je leger, geef ze dan ook altijd op hetzelfde tijdstip pijlen. Heb je cavalerie weten te rekruteren, voorzie dan de paarden op hetzelfde tijdstip van haver. Dat is de enige weg naar de overwinning. 
 
@@ -357,7 +357,7 @@ Na een korte rondleiding praatten we over een van de bachelorproeven van de stud
 
 'Dit schaaltje bevat hopelijk een gist die we aan het isoleren zijn.' Kristel haalt een petrischaal uit een grote incubator en wijst naar de nauwelijks waarneembare vlekjes. 'Zie je die puntjes? Dat zijn kolonies van gisten. We hebben die vastgelegd in een _medium_ van agar, voedingsstoffen, en antibiotica. We zijn niet geïnteresseerd in bacteriën deze keer, vandaar. We willen de groei van bacteriën in het algemeen afremmen om de zoektocht te vereenvoudigen.' 
 
-Elke cel kan dankzij de juiste voedingsstoffen en -bodem delen tot ze met zoveel zijn dat je de kolonie met het blote oog kan waarnemen als een bolletje in het schaaltje. Agar is een niet-verteerbare polysacharide dat als geleermiddel het ter plaatse delen en vormen van kolonies mogelijk maakt. Ik kende agar als _agar-agar_, het vegetarisch alternatief voor gelatine, gewonnen uit rode algen. De derde bachelorstudenten gingen op verschillende plaatsen in Antwerpen gisten vangen in de hoop gist te vinden waar ze een authentiek biertje mee konden brouwen. Voor de opkomst van commercieel beschikbare biergist beschikte elke brouwerij over een unieke gist die de smaak van het bier mee bepaalde. Ook grote brouwerijen willen tegenwoordig graag terug diversifiëren. 
+Elke cel kan dankzij de juiste voedingsstoffen en -bodem delen tot ze met zoveel zijn dat je de kolonie met het blote oog kan waarnemen als een bolletje in het schaaltje. Agar is een niet-verteerbare polysacharide dat als geleermiddel het ter plaatse delen en vormen van kolonies mogelijk maakt. Ik kende agar als _agar-agar_, het vegetarisch alternatief voor gelatine, gewonnen uit rode algen. De derde bachelorstudenten gingen op verschillende plaatsen in Antwerpen gisten vangen in de hoop gist te vinden waar ze een authentiek biertje mee konden brouwen. Voor de opkomst van commercieel beschikbare biergist beschikte elke brouwerij over een unieke gist die de smaak van het bier meebepaalde. Ook grote brouwerijen willen tegenwoordig graag terug diversifiëren. 
 
 'Als deze schaaltjes open worden gelegd, kunnen er verschillende organismen zich in nestelen.' Kristel plaatst de schaal terug in de incubator. 
 
@@ -377,34 +377,34 @@ Ik vertel over mijn zuurdesemcultuur die ik meebracht. 'Als ik nu zou willen wet
 
 'Daarvoor moeten we inspelen op de karakteristieken van de gist die we willen isoleren. Verteert het bijvoorbeeld lactose, dan gaat dat in het groeimedium. De omgeving zo ideaal mogelijk maken voor die ene soort gist, terwijl de groei van de andere types afremt.' Fysiek waarneembaar gedrag in het agarmedium kan al veel zeggen over het soort organisme. Bepaalde groeipatronen voorspellen de aanwezigheid van bepaalde gisten. Dit zijn fenotypische testen: identificaties gebaseerd op waarneembaar gedrag.
 
-Om gisten te isoleren is er dus een stappenplan nodig dat de onderzoeker in staat stelt gebaseerd op unieke eigenschappen een organisme te isoleren. 
+Om micro-organismen te isoleren is er dus een stappenplan nodig waarbij de onderzoeker op basis van unieke eigenschappen van dat organisme deze kan isoleren. 
 
 'Heb je enig idee welke micro-organismen er in je zuurdesem kunnen zitten? Misschien kunnen we hier een leuke oefening voor de studenten van maken. Momenteel moeten ze uit putwater bepaalde bacteriën identificeren om de microbiologische kwaliteit van het water te controleren.' Kristel inspecteert het potje met zuurdesem dat ik voor haar meebracht. 
 
 'Ik had gehoopt dat jij me dat zou kunnen vertellen...' begin ik. 
 
-'Voor de huidige oefening gokken we dat bijvoorbeeld een groep bacteriën genaamd _Enterobacteraceae_ aanwezig zou zijn in het water. Dan prepareren we het medium voor die groep, terwijl we de groei van de rest tegen houden. Als je een lijst kan aanleveren met mogelijke gisten en bacteriën, kan ik de studenten aan het werk zetten om alle mogelijkheden af te gaan. Wat identificatie betreft baseren we ons op standaard kits die ook door geneeskundigen worden gebruikt om pathogene gisten als _Candida_ te ontdekken. Kom, ik zal je in het ander labo een voorbeeld laten zien.'
+'Voor de huidige oefening gokken we dat bijvoorbeeld een groep bacteriën genaamd _Enterobacteraceae_ aanwezig is in het water. Dan prepareren we het medium voor die groep, terwijl we de groei van de rest tegenhouden. Als je een lijst kan aanleveren met mogelijke gisten en bacteriën, kan ik de studenten aan het werk zetten om alle mogelijkheden af te gaan. Wat identificatie betreft baseren we ons op standaard kits die ook door geneeskundigen worden gebruikt om pathogene gisten zoals _Candida_ te ontdekken. Kom, ik zal je in het ander labo een voorbeeld laten zien.'
 
 De posters in de gang vatten verschillende biochemisch-getinte experimenten samen. 
 
-'Kijk,' wijst Kristel. Een poster over het aroma van brood beschrijft in verschillende chemische formules de karakteristieken van vluchtige geuren. Mijn oog valt op het woord _sourdough_. Bingo. Er staat '_LAB:Yeast 100:1_'. 
+'Kijk' wijst Kristel. Een poster over het aroma van brood beschrijft in verschillende chemische formules de karakteristieken van vluchtige geuren. Mijn oog valt op het woord _sourdough_. Bingo. Er staat '_LAB:Yeast 100:1_'. 
 
 'Voor elke gist zijn er honderden bacteriën? Dat wist ik niet.'[^honderd1] Ik had nooit gedacht ooit zoveel interesse te tonen in iets dat tegen de muur van het departement chemie hangt. 
 
-'Ik ook niet, maar dat is volgens mij wel logisch. Bacteriën groeien over het algemeen sneller dan gisten, wat een competetief voordeel is. Het is me trouwens nooit opgevallen dat hier ook iets over zuurdesem staat. Ik kende het niet echt.' In het ander lokaal opent ze een doos om mij het test kit te laten zien. 
+'Ik ook niet, maar dat is volgens mij wel logisch. Bacteriën groeien over het algemeen sneller dan gisten, wat een concurrentievoordeel is. Het is me trouwens nooit opgevallen dat hier ook iets over zuurdesem staat. Ik kende het niet echt.' In het ander lokaal opent ze een doos om mij het testkit te laten zien. 
 
 'Deze kit hebben we gebruikt om de gevangen Antwerpse gist te identificeren.' De doos puilt uit met verschillende papiertjes en handleidingen.
 
-'Deze methode is eigenlijk te eenvoudig. De vloeistof verdeelt zich over deze kleine testjes, en de uiteinden kleuren rood, groen, of geel. Op basis van dit papiertje geef je aan welke test welke kleur heeft, en voilà.' Het ziet er uit als een test om de zuurtegraad of het chloorgehalte van water te identificeren. 
+'Deze methode is eigenlijk te eenvoudig. De vloeistof verdeelt zich over deze kleine testjes, en de uiteinden kleuren rood, groen of geel. Op basis van dit papiertje zie je welke test welke kleur heeft, en voilà.' Het ziet eruit als een test om de zuurtegraad of het chloorgehalte van water te identificeren. 
 
 'Dus een simpele ziel die niets van microbiologie of chemie kent, zoals ik, kan dat ook?' Kristel lacht.
 
 
- 'Ja, ja, inderdaad! Wij veranderen de moeilijkheidsgraad afhankelijk van de cursus. Maar een voorwaarde voor identificatie is isolatie, zonder dat is er geen identificatie mogelijk. Dan kleurt van alles zonder te weten waardoor.' Ik kan mij moeilijk inbeelden dat professionele laboratoria dezelfde moeizame procedure doorlopen. 
+ 'Ja, ja, inderdaad! Wij veranderen de moeilijkheidsgraad afhankelijk van de cursus. Maar een voorwaarde voor identificatie is isolatie, Daarzonder is er geen identificatie mogelijk. Dan kleurt vanalles zonder te weten waardoor.' Ik kan mij moeilijk inbeelden dat professionele laboratoria dezelfde moeizame procedure doorlopen. 
 
 'Meestal wordt er gekozen voor DNA- of eiwitanalyse, maar beide technieken vereisen dure apparatuur en soms voorkennis over het organisme.' 
 
-[^honderd1]: Deze ratio hangt van cultuur tot cultuur af, en varieert van `100:1` tot `10:1`, waarbij bacteriën altijd in de meerderheid zijn. Hoe groter het eerste getal, hoe zuurder, en hoe minder snel het brood zal rijzen. 
+[^honderd1]: Deze ratio hangt af van cultuur tot cultuur, en varieert van `100:1` tot `10:1`, waarbij bacteriën altijd in de meerderheid zijn. Hoe groter het eerste getal, hoe zuurder, en hoe minder snel het brood zal rijzen. 
 
 
 
@@ -412,7 +412,7 @@ De posters in de gang vatten verschillende biochemisch-getinte experimenten same
 
 
 
-Kristel en ik wisselden bedankjes uit, zij voor het roggebrood dat ik meebracht, en ik voor de rondleiding en hulp. Terug thuis ontdekte ik verschillende bestudeerde studies later dat er inderdaad veel minder variatie van gisten in zuurdesem zit ten opzichte van melkzuurbacteriën [@de2005sourdough;@yazar2012functional]. Ongeveer `80%` van alle zuurdesemculturen bevat hoofdzakelijk één gistsoort. Als er een tweede of derde soort aanwezig is, dan is dat slechts met kleine hoeveelheden. De meest voorkomende gisten zijn _Saccharomyces cerevisiae_, _Candida milleri_ en _Candida humilis_. 
+Kristel en ik wisselden bedankjes uit, zij voor het roggebrood dat ik meebracht, en ik voor de rondleiding en hulp. Terug thuis ontdekte ik verschillende bestudeerde papers later dat er inderdaad veel minder variatie van gisten in zuurdesem zit ten opzichte van melkzuurbacteriën [@de2005sourdough;@yazar2012functional]. Ongeveer `80%` van alle zuurdesemculturen bevat hoofdzakelijk één gistsoort. Als er een tweede of derde soort aanwezig is, dan is dat slechts met kleine hoeveelheden. De meest voorkomende gisten zijn _Saccharomyces cerevisiae_, _Candida milleri_ en _Candida humilis_. 
 
 Op gebied van melkzuurbacteriën varieert een typische cultuur veel meer. Het geslacht _Lactobacillus_ komt het meeste voor, en is ook verantwoordelijk voor de breedste waaier aan soorten. De _Leuconostoc_, _Pediococcus_ en _Weissella_ families worden ook vaak geïdentificeerd in zuurdesem. Op basis van die informatie bezorgde ik Kristel een lijst met mogelijk aanwezige organismen die ze gaat omvormen tot een concrete opdracht voor de studenten, verspreid over verschillende semesters. Ik weet nu nog niet welke stammen er exact in mijn desem zitten, maar we zijn al een stap dichter bij de waarheid. 
 
@@ -420,7 +420,7 @@ Er moet in ieder geval geen saai putwater meer onderzocht worden.
 
 * * *
 
-Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met het blote oog niet waarneembare oorlog in mijn keuken. Door te spelen met principes als vocht- en zoutgehalte, zuurtegraad, temperatuur en tijd bepaal ik als bakker hoe mijn brood smaakt. Er is echter nog een probleem. Het oog wil namelijk ook wel wat. Hoe krijg ik genoeg volume in mijn deeg, zonder dat het plat valt als het uit het rijsmandje komt? Niet te kort of te lang laten rijzen is één ding, maar geen structuur betekent geen vorm. En geen vorm vermindert ook smaak: niemand eet alleen maar met de mond [@delwiche2012you]. 
+Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met het blote oog niet waarneembare oorlog in mijn keuken. Door te spelen met principes zoals vocht- en zoutgehalte, zuurtegraad, temperatuur en tijd bepaal ik als bakker hoe mijn brood smaakt. Er is echter nog een probleem. Het oog wil namelijk ook wel wat. Hoe krijg ik genoeg volume in mijn deeg, zonder dat het plat valt als het deeg uit het rijsmandje komt? Niet te kort of te lang laten rijzen is één ding, maar geen structuur betekent geen vorm. En geen vorm vermindert ook smaak: niemand eet alleen maar met de mond [@delwiche2012you]. 
 
 \newpage
 
@@ -428,19 +428,20 @@ Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met 
 
 * Fermenteren en rijzen: twee woorden voor hetzelfde idee.
 * (Ongeveer) hetzelfde proces dat wij gebruiken om ons voedsel te verteren wordt ook gebruikt om brood mee te maken. 
-* Een bakker is eigenlijk een god, die het lot bepaalt over duizenden organismen. 
+* Een bakker is eigenlijk een god, die het lot bepaalt van duizenden organismen. 
 * Die organismen zijn te beïnvloeden door te spelen met vochtigheid, zuurtegraad, zoutgehalte, temperatuur en tijd. 
 * Smaak komt niet van één giststam, maar van veel melkzuurbacteriën. 
-* Elke zuurdesemcultuur is uniek en permanent verbonden aan de regio.
-* De ideale temperatuur van brood is `24°C` - in de meeste gevallen. Verscheur alle bakboeken waar in staat dat brood op _een warme plaats_ moet rijzen. 
-* Chocolade is ook een gefermenteerd product, dus dan moet het wel gezond zijn... 
+* Zuurdesemculturen uit verschillende regio's zijn uniek.
+* De ideale temperatuur van brood is `24°C` - in de meeste gevallen. Verscheur alle bakboeken waarin staat dat brood op _een warme plaats_ moet rijzen. 
+* Chocolade is ook een gefermenteerd product. Een ideaal excuus om er veel van te eten. 
 * De ene suiker is de andere niet. 
 * Bacteriën groeien niet lineair, maar exponentieel. 
 * Open nooit een blik gefermenteerde haring op een openbare plaats - en misschien best ook niet in een gesloten ruimte. 
 * Zuurdesembrood houdt langer dan gistbrood.
 * Staat er een waterlaagje op je starter, of ruikt hij erg naar azijn? 90% weggooien en minstens twee keer bijvoeden. 
-* Staat er gekleurde schimmellaag op je starter? Pech gehad, alles weggooien! 
+* Staat er een gekleurde schimmellaag op je starter? Pech gehad, alles weggooien! 
 * Gedroogde zuurdesem is niet hetzelfde als actieve zuurdesem.
 * Bakpoeder haalt tijd uit de vergelijking, en dat zal je voelen aan je maag. 
-* Wees consistent.
+* Wees consistent met het bakproces.
 * Ingenieurs zijn lui. 
+vo
