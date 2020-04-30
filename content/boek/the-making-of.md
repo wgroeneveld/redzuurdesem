@@ -2,7 +2,6 @@
 title: "Het boek: the making of..."
 date: 2020-04-26
 weight: 2
-draft: true
 ---
 
 <style>
