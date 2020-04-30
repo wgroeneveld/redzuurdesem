@@ -8,6 +8,10 @@ weight: 2
 #body img {
     border: 1px solid grey;
 }
+
+#top-bar-sticky-wrapper {
+    display: none;
+}
 </style>
 
 Een boek schrijven doe je niet in één dag, week of maand. In mijn geval fermenteerde het idee al jaren voordat ik durfde om een woord op het figuurlijk papier te plaatsen. Ik wil jullie hier graag meenemen in het proces dat uiteindelijk leidde tot het fysieke boek: van idee tot eindresultaat.  

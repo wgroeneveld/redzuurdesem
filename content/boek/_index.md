@@ -6,6 +6,13 @@ date: 2020-04-26
 pre: "<i class='fas fa-book-open'></i> "
 ---
 
+<style>
+#top-bar-sticky-wrapper {
+    display: none;
+}
+</style>
+
+
 <div class="boek-row" style="padding-top: 30px;">
     <div class="boek-col-left">
         <h1>Red Zuurdesem<br/> Het Boek</h1>

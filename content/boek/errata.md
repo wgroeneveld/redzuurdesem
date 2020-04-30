@@ -4,6 +4,12 @@ date: 2020-04-26
 weight: 666
 ---
 
+<style>
+#top-bar-sticky-wrapper {
+    display: none;
+}
+</style>
+
 Raadpleeg het voorblad om te controleren over welke druk je beschikt. 
 
 **Belangrijk**: Deze wijzigingen werden reeds aangepast in de betreffende versies van het boek! Ze staan hier enkel ter vervollediging. 
