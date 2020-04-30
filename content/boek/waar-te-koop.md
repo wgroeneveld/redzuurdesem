@@ -13,6 +13,7 @@ Het boek is verkrijgbaar via de volgende kanalen:
 - [De Slegte (België)](https://www.deslegte.be/red-zuurdesem-2399122/)
 - [Boekenhandel Boek & Koek (Nederland)](https://www.boekenkoek.net/boeken/gezin-gezondheid/9789464052725-red-zuurdesem/)
 - [Boekenbestellen.nl (Nederland)](https://www.boekenbestellen.nl/boek/red-zuurdesem/9789464052725)
+- [Boekenwereld.com (Nederland)](https://www.boekenwereld.com/wouter-groeneveld-red-zuurdesem)
 
 ### In de boekhandel
 
