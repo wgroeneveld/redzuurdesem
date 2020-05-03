@@ -32,7 +32,7 @@ Buiten de schriften die ik zelf vulde, zijn onderstaande boeken ook van groot be
 
 Eind 2017 had ik het idee om een bundeling van mijn ervaring te maken, en begon ik enkele ruwe hoofdstukken te schrijven. Dit gebeurde toen in Google Docs, maar frustreerde meer dan dat het een plezier was om mee te werken. Om te beginnen heb ik liever zulke dingen in eigen beheer dan op een HDD van Google. Daarnaast bood Google Docs te weinig mogelijkheden om me af te schermen van afleiding: het bood net té veel toeters en bellen aan. Ik schreef toen een honderdtal pagina's, die later grondig werden herzien, maar wel de basis vormden voor de eerste drie hoofdstukken in het boek. Dat was tijdens een met verlof aangelengde kerstvakantie.
 
-Bijna een jaar gebeurde er niets.
+Bijna een jaar lang gebeurde er niets.
 
 Toen 2018 er bijna op zat, haalde ik het document terug boven. Er was veel niet goed, maar het basisidee sprak me nog steeds aan. Ik liet me niet ontmoedigen en begon opnieuw, deze keer in mijn favoriete teksteditor: [Sublime Text 3](https://www.sublimetext.com/3). 
 
@@ -52,7 +52,7 @@ LaTeX brengt dan wel totale controle met zich mee, dat betekent ook dat je je in
 
 Ik deed onderzoek naar layout en omslag van andere gelijkaardige non-fictie boeken en probeerde het juiste lettertype (Palatino) en de juiste lettergrootte (11pt) te bepalen. Ik maakte een lijstje van de uitgevers die gelijkaardige boeken uitgaven, zowel in Nederland als in België. Veel grote uitgeverijen weigeren nieuwe manuscripten wegens een overaanbod: zij 'recruiten' nieuwe auteurs op basis van faam. 
 
-Ik schreef 6 uitgeverijen aan: Kosmos, Atlas Contact, Lannoo, Standaard Uitgeverij, Karakter Uitgevers en Borgerhoff Lamberigts. Na drie maanden liet Standaard Uitgeverij weten dat het boek niet in hun portefuille past. Na meer dan tien maanden wachten (!!) liet Atlas Contact weten dat er misschien interesse was. Het manuscript werd nagelezen door een tweede redacteur. Daarna volgde complete radiostilte. 
+Ik schreef 6 uitgeverijen aan: Kosmos, Atlas Contact, Lannoo, Standaard Uitgeverij, Karakter Uitgevers en Borgerhoff Lamberigts. Na drie maanden liet Standaard Uitgeverij weten dat het boek niet in hun "standaard" (ha!) portefuille past. Na meer dan tien maanden wachten (!!) liet Atlas Contact weten dat er misschien interesse was. Het manuscript werd nagelezen door een tweede redacteur. Daarna volgde complete radiostilte. 
 
 Het grootste deel van 2019 werd verprutst door hoopvol wachten op een bericht van een uitgeverij, tot mijn grote ergernis. Een minimale vorm van beleefdheid is toch wel simpelweg antwoorden - ook al is het na enige maanden - dat de interesse niet wederzijds is? Van slechts `33%` van de uitgeverijen enig bericht terug ontvangen vind ik beneden alle peil. 
 
@@ -76,6 +76,6 @@ Het voordeel van een print-on-demand systeem zoals ik via Brave New Books handha
 
 ![](/images/makingof-verbeterwerk.jpg)
 
-Dankzij het kritisch werk van een lezer en mijn vrouw haar markeerstift - die zo grondig tewerk ging dat de pagina's uit het boek vielen - kan ik tijdig een tweede versie publiceren. Uiteraard zou deze stap niet na puntje 4 moeten komen, maar er net vóór. Tegen zowat alle adviezen van [de Taaltelefoon](https://www.taaltelefoon.be/hij-hij-of-zij) werd gezondigd, tot mijn grote schaamte. Hopelijk maakt de tweede versie veel goed. Voor vroege kopers is het natuurlijk al te laat. Die krijgen een e-book van de laatste versie. Als dat onvoldoende blijkt te zijn, is er nog altijd de 'gratis retourneren' optie bij Bol en andere winkels. 
+Dankzij het kritisch werk van een lezer en mijn vrouw haar markeerstift - die zo grondig tewerk ging dat de pagina's uit het boek vielen - kon ik tijdig een tweede versie publiceren. Uiteraard zou deze stap niet na puntje 4 moeten komen, maar er net vóór. Tegen zowat alle adviezen van [de Taaltelefoon](https://www.taaltelefoon.be/hij-hij-of-zij) werd gezondigd, tot mijn grote schaamte. Hopelijk maakt de tweede versie veel goed. Voor vroege kopers is het natuurlijk al te laat. Die krijgen een e-book van de laatste versie. Als dat onvoldoende blijkt te zijn, is er nog altijd de 'gratis retourneren' optie bij Bol en andere winkels. 
 
 Nu volgt de grootste uitdaging: reclame maken. 
