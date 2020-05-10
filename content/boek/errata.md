@@ -2,13 +2,8 @@
 title: "Errata"
 date: 2020-04-26
 weight: 666
+image: /images/boekcover.jpg
 ---
-
-<style>
-#top-bar-sticky-wrapper {
-    display: none;
-}
-</style>
 
 Raadpleeg het voorblad om te controleren over welke druk je beschikt. 
 
@@ -27,3 +22,4 @@ Raadpleeg het voorblad om te controleren over welke druk je beschikt.
 ### Eerste druk: april 2020
 
 - Eerste editie. 
+

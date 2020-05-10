@@ -3,8 +3,8 @@
 
 https://www.maxvandaag.nl/programmas/tv/brood/zweden/POW_03876924/
 
-[ ] Waar te koop? pagina updaten na 2de druk links?
-[ ] Is het een probleem dat alles op een public Github repo staat?
+[X] Waar te koop? pagina updaten na 2de druk links?
+[X] Is het een probleem dat alles op een public Github repo staat?
 [X] percentages formules nakijken + toevoegen op errata (die ene opm Stien)
 [ ] hyphenation einde elke regel opnieuw reap nakijken
 

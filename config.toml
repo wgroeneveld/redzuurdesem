@@ -1,23 +1,18 @@
 baseURL = "https://redzuurdesem.be"
 title = "Red Zuurdesem"
 publishDir = "docs"
-languageCode = "nl-BE"
+languageCode = "nl"
+DefaultContentLanguage = "nl"
+
+PaginatePath = "pagina"
 
 googleAnalytics = "UA-117973708-1"
 
 ignorefiles = [ "content/boek/src/.*" ]
-
-##### 
-# theme config
-# see https://learn.netlify.com/en/basics/installation/
-theme = "hugo-theme-learn"
-
-[Author]
-  name = "Wouter Groeneveld"
-  email = "wouter.groeneveld@gmail.com"
+theme = "desem-swift-theme"
 
 [params]
-themeVariant = "green"
+logo = "/images/desemdoos.png"
 
 # For search functionnality
 [outputs]
@@ -30,16 +25,4 @@ home = [ "HTML", "RSS", "JSON"]
 [blackfriday]
   extensionsmask = ["fencedCode"]
   fractions = false
-
-[[menu.shortcuts]]
-name = "<i class='fab fa-facebook-square'></i> Facebook"
-identifier = "fb"
-url = "https://facebook.com/redzuurdesem"
-weight = 11
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-link'></i> Broodbak Vrienden"
-identifier = "links"
-url = "/vrienden"
-weight = 12
 

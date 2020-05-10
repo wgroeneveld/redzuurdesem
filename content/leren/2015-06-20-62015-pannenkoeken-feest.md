@@ -10,13 +10,13 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+image: /wp-content/uploads/2015/06/MG_0770-1024x683.jpg
+tags:
+  - zoet
 ---
 Wie houdt er nu niet van pannenkoeken? Of je ze nu graag met confituur of stroop of suiker besmeert, of je ze nu graag hartig met zachte kaas en zalm of zoet met chocolade hebt, iedereen kan zich wel vinden met een pannenkoek op het juiste moment. Pannenkoeken zijn ook super eenvoudig te maken: maak een heel nat &#8220;deeg&#8221; (in verhouding meer vocht dan bloem), voeg al dan niet extra&#8217;s toe zoals een ei en kruiden, en voeg al dan niet een rijsmiddel toe zoals bicarbonaat (chemisch) of gist (natuurlijk). Mengen, bakken, klaar!
 
-Waarom wordt er een pannenkoeken recept gepubliceerd als het recept zo eenvoudig is? Omdat er heel wat variabelen zijn waar je mee kan spelen, en ik graag voor jou alle mogelijkheden even op een rijtje zet. Een ei toevoegen bijvoorbeeld hoeft helemaal niet, net zoals de gist, of het suiker, of de melk. In het ene geval zal je meer een (tarwe-)tortilla maken, in het andere geval eerder iets wat ze in Frankrijk serveren als een crêpe. Alles hangt van je gemoedstoestand af en het is niet moeilijk om op het laatste moment te veranderen van voorkeur.<figure id="attachment_882" style="width: 660px" class="wp-caption aligncenter">
+Waarom wordt er een pannenkoeken recept gepubliceerd als het recept zo eenvoudig is? Omdat er heel wat variabelen zijn waar je mee kan spelen, en ik graag voor jou alle mogelijkheden even op een rijtje zet. Een ei toevoegen bijvoorbeeld hoeft helemaal niet, net zoals de gist, of het suiker, of de melk. In het ene geval zal je meer een (tarwe-)tortilla maken, in het andere geval eerder iets wat ze in Frankrijk serveren als een crêpe. Alles hangt van je gemoedstoestand af en het is niet moeilijk om op het laatste moment te veranderen van voorkeur.
 
 [<img class="size-large wp-image-882" src="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0776-1024x683.jpg" alt="beslag met verse kruiden" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0776.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0776-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">beslag met verse kruiden</figcaption></figure> 
 
@@ -30,70 +30,55 @@ Het gewicht hieronder is voor ongeveer 4 personen, iets meer dan 20 pannenkoeken
 <th class=' ' >
 ingrediënt
 </th>
-
 <th class=' ' >
 percentage
 </th>
-
 <th class=' ' >
 gewicht
 </th>
 </tr>
-
 <tr>
 <td >
 tarwebloem
 </td>
-
 <td >
 100%
 </td>
-
 <td >
 200gr
 </td>
 </tr>
-
 <tr>
 <td >
 water
 </td>
-
 <td >
 225%
 </td>
-
 <td >
 450gr
 </td>
 </tr>
-
 <tr>
 <td >
 desem starter
 </td>
-
 <td >
 25%
 </td>
-
 <td >
 50gr
 </td>
 </tr>
-
 <tr>
 <td >
 <span style="line-height: 1.6471;">zout</td> 
-
 <td >
 0.5%
 </td>
-
 <td >
 1gr
 </td></tr> 
-
 <tr>
 <td >
 </span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
@@ -207,9 +192,7 @@ desem starter
   Allemaal vragen waar geen éénduidig antwoord op is. Uitproberen is de boodschap! Ik bak het liefste in een lage pan zonder aanbaklaag met een drupje olie per pannenkoek, en roteer dan de pan zodra het beslag in de hete pan valt, zodat het goed verdeeld is. De pan mag redelijk heet staan (over de helft van het vuur). Na enkele minuten omdraaien.<br /> Het lukt ook in een pan met anti-aanbaklaag maar je structuur is anders, en mijn experimenten wijzen uit dat je pannenkoek iets taaier wordt.
 </p>
 
-<p>
-  <iframe width="1160" height="653" src="https://www.youtube.com/embed/_L9S5o-YGWE?feature=oembed&#038;wmode=opaque" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</p>
+{{< youtube _L9S5o-YGWE >}}
 
 <p>
   Fruit of andere zaken toevoegen in de pan zelf betekent dat je meer beslag zal moeten gebruiken om alles te overgieten. Dat heeft een langere baktijd en moeilijker omdraaien van de pannenkoek tot gevolg &#8211; maar het is wel super lekker. Toevoegingen die smaken (in een zoete koek dan) zijn onder andere:
@@ -229,7 +212,7 @@ desem starter
 
 <p>
   Zeker bij kersen moet je je pannenkoek dik genoeg maken &#8211; en het vuur <strong>lager zetten</strong>! Probeer aan de kant te oordelen of je je pannenkoek moet draaien en gebruik een deksel of een bord om breken te vermijden.
-</p><figure id="attachment_900" style="width: 800px" class="wp-caption aligncenter">
+</p>
 
 <a href="https://redzuurdesem.be/wp-content/uploads/2015/06/2015-06-27-13.37.26.jpg"><img class="size-full wp-image-900" src="https://redzuurdesem.be/wp-content/uploads/2015/06/2015-06-27-13.37.26.jpg" alt="Dikke pannenkoek met bananen vulling" width="800" height="600" srcset="https://redzuurdesem.be/wp-content/uploads/2015/06/2015-06-27-13.37.26.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/06/2015-06-27-13.37.26-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">Dikke pannenkoek met bananen vulling</figcaption></figure> 
 
@@ -245,9 +228,8 @@ desem starter
   Hier volgt een videootje waar het proces gedemonstreerd wordt in een klassieke pan zonder anti-aanbak laag:
 </p>
 
-<p>
-  <iframe width="1160" height="653" src="https://www.youtube.com/embed/XVjPJ-p0tNg?feature=oembed&#038;wmode=opaque" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</p>
+{{< youtube XVjPJ-p0tNg >}}
+
 
 <p>
   <strong>Smakelijk!</strong>

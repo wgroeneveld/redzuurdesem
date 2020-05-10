@@ -1,5 +1,5 @@
 ---
-title: 1/2015 – alternatief rogge recept
+title: 1/2015 – Havermout fermenteren
 author: Wouter
 type: post
 date: 2015-01-29T19:43:24+00:00
@@ -10,15 +10,15 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+tags:
+    - haver
+    - zaadjes
+image: /wp-content/uploads/2015/01/MG_0509-1024x683.jpg
 ---
-Basisrecept: [1/2015 &#8211; rogge zaden brood][1]
 
 ## Geen zin in zaadjes?
 
-Het hoofdrecept (zie link bovenaan) kan uiteraard ook gebruikt worden om een licht roggebrood te bakken, zonder de zaden en de haver. Misschien ben je allergisch aan lijnzaad, of je heb gewoon geen zin in zoveel zaden, of wil je verschillende recepten proberen. In ieder geval heeft dit brood minstens even veel smaak en rijpt het effectief met de tijd mee: het brood is op zijn best **2 dagen na het bakken**.
+[Het hoofdrecept][1] kan uiteraard ook gebruikt worden om een licht roggebrood te bakken, zonder de zaden en de haver. Misschien ben je allergisch aan lijnzaad, of je heb gewoon geen zin in zoveel zaden, of wil je verschillende recepten proberen. In ieder geval heeft dit brood minstens even veel smaak en rijpt het effectief met de tijd mee: het brood is op zijn best **2 dagen na het bakken**.
 
 ### Recept
 
@@ -28,78 +28,61 @@ Het hoofdrecept (zie link bovenaan) kan uiteraard ook gebruikt worden om een lic
 <th class=' ' >
 ingrediënt
 </th>
-
 <th class=' ' >
 percentage
 </th>
-
 <th class=' ' >
 gewicht voor 2 broden
 </th>
 </tr>
-
 <tr>
 <td >
 witte tarwebloem
 </td>
-
 <td >
 70%
 </td>
-
 <td >
 700gr
 </td>
 </tr>
-
 <tr>
 <td >
 volkoren roggemeel
 </td>
-
 <td >
 30%
 </td>
-
 <td >
 300gr
 </td>
 </tr>
-
 <tr>
 <td >
 water
 </td>
-
 <td >
 68%
 </td>
-
 <td >
 680gr
 </td>
 </tr>
-
 <tr>
 <td >
 <span style="line-height: 1.6471;">zout</td> 
-
 <td >
 1.8%
 </td>
-
 <td >
 18gr
 </td></tr> 
-
 <tr>
 <td >
 </span><span style="line-height: 1.6471;">voordeeg met desem</td> 
-
 <td >
 30% @ 100% hydratatie
 </td>
-
 <td >
 600gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
 

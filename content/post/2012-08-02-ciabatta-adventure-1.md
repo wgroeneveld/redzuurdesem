@@ -5,15 +5,14 @@ type: post
 date: 2012-08-02T19:51:41+00:00
 url: /ciabatta-adventure-1/
 featured_image: /wp-content/uploads/2012/08/MG_6704.jpg
-categories:
-  - learning
-
+tags:
+  - pizza
 ---
 # The challenge
 
 The first recipe I&#8217;ve tried in the &#8220;BREAD&#8221; book by Jeffrey Hamelman was baguettes with poolish. It might nog have been a good idea, since the recipe calls for a **very wet dough**. There were some restrictions involved: **no mixer**! This means a lot of stretch & folding and french folding have to be involved.
   
-I&#8217;ve been asked to bake a focaccia which uses the ciabatta dough. Last time the wet dough experiments were quite a &#8220;failure&#8221; so I was a little anxious to try this one out. This is the result:<figure id="attachment_365" style="width: 800px" class="wp-caption aligncenter">
+I&#8217;ve been asked to bake a focaccia which uses the ciabatta dough. Last time the wet dough experiments were quite a &#8220;failure&#8221; so I was a little anxious to try this one out. This is the result:
 
 [<img class=" wp-image-365" title="_MG_6704" src="https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6704.jpg" alt="" width="800" height="600" />][1]<figcaption class="wp-caption-text">The &#8220;holey&#8221; ciabatta looks good but hurts your teeth!</figcaption></figure> 
 

@@ -8,13 +8,13 @@ al2fb_facebook_link_id:
   - 291826997604992_671176313003390
 al2fb_facebook_link_time:
   - 2014-10-15T18:50:11+00:00
+image: wp-content/uploads/2014/10/MG_0022.jpg
 al2fb_facebook_link_picture:
-  - post=http://www.savesourdough.com/wp-content/uploads/2014/10/MG_0022-300x200.jpg
+  - post=/wp-content/uploads/2014/10/MG_0022-300x200.jpg
 comment_images_toggle:
   - enable
-categories:
-  - learning
-
+tags:
+  - vakantie
 ---
 Enkele maanden geleden zijn wij op vakantie geweest in Frankrijk. Heerlijk toch, omgeven worden door veel kwalitatief betere bakkerijen, zou je denken? Dat is niet altijd het geval, kwam ik te weten. Het hangt heel erg van regio tot regio af; in meer bevolkte gebieden zijn er zelfs slechtere stokbroden te vinden dan de lokale bakker in een &#8220;boerengat&#8221; die de stiel misschien nog geleerd heeft van zijn grootvader. Het is ook moeilijk om als toerist te oordelen over de kwaliteit van een hele bakkerij door er bijvoorbeeld maar één brood van te kopen. En natuurlijk koop je geen hopen, zeker niet op vakantie, want dan eindigt dat schandalig genoeg in de vuilbak &#8211; er zijn immers zoveel bakkerijen om te proberen, en er is zo weinig tijd. (Wij rentenieren helaas nog niet, dus de vakantie was eerder beperkt&#8230;)
 

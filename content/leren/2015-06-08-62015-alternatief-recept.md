@@ -1,5 +1,5 @@
 ---
-title: 6/2015 – alternatief recept
+title: 6/2015 – alternatief boekweitbrood
 author: Wouter
 type: post
 date: 2015-06-08T18:51:48+00:00
@@ -10,15 +10,12 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+tags:
+    - boekweit
+image: /wp-content/uploads/2015/06/MG_0956-1024x683.jpg
 ---
-### Het alternatief: boekweit brood<figure id="attachment_877" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-877" src="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg" alt="sneetjes boekweit brood" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0956-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">sneetjes boekweit brood</figcaption></figure> 
-
-Het is altijd leuk om &#8220;alternatieve&#8221; _granen_ te gebruiken als toevoeging in een klassiek brooddeeg. Hiermee zet ik met opzet het woord _granen_ in schuine letters omdat niet alle _granen_ échte granen zijn. Bekijk het volgende lijstje eens:
+Het is altijd leuk om "alternatieve" granen te gebruiken als toevoeging in een klassiek brooddeeg. Hiermee zet ik met opzet het woord granen in schuine letters omdat niet alle granen échte granen zijn. Bekijk het volgende lijstje eens:
 
   * boekweit
   * tarwe

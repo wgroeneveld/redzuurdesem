@@ -14,9 +14,9 @@ al2fb_facebook_link_picture:
   - post=https://redzuurdesem.be/wp-content/uploads/2015/01/MG_5807-1024x683.jpg
 comment_images_toggle:
   - enable
-categories:
-  - learning
-
+tags:
+  - broodbakmachine
+image: /wp-content/uploads/2015/01/MG_0710-1024x784.jpg
 ---
 Van plan om te bakken met een broodbakmachine? Leer werken met desem in een broodbakmachine via een thuiscursus van de <a title="De Desem doos: een thuiscursus voor de brood bakker" href="http://desemdoos.be/" target="_blank">Desem Doos</a>!
 
@@ -68,7 +68,7 @@ Hieronder een aantal nuttige tips die het artikel samenvatten:
 
 Zelf reeds experimenten uitgevoerd met je machine?
   
-Laat hier je bevindingen achter!
+Laat je bevindingen achter op de [Facebook](https://facebook.com/redzuurdesem) pagina!
 
  [1]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_5807.jpg
  [2]: https://redzuurdesem.be/wp-content/uploads/2015/01/MG_0710.jpg

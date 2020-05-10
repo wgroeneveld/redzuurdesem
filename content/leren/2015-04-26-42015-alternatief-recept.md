@@ -1,5 +1,5 @@
 ---
-title: 4/2015 – alternatief recept
+title: 4/2015 – super licht & zoet-zuur
 author: Wouter
 type: post
 date: 2015-04-26T20:17:52+00:00
@@ -10,15 +10,13 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+tags:
+    - uitgesteld bakken
+    - tarwe
+image: /wp-content/uploads/2015/04/MG_0780-1024x704.jpg
 ---
-### Het alternatief: super licht & zoet-zuur<figure id="attachment_871" style="width: 660px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-871" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-1024x704.jpg" alt="Doorsnede van het gebakken brood" width="660" height="454" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-1024x704.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780-300x206.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0780.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" />][1]<figcaption class="wp-caption-text">Doorsnede van het gebakken brood</figcaption></figure> 
-
-**Zeer belangrijk**: bestudeer eerst het &#8220;[hoofdrecept artikel][2]&#8221; voor uitgesteld bakken!
+Bestudeer eerst het &#8220;[hoofdrecept artikel][2]&#8221; voor uitgesteld bakken!
 
 Wat als je een lichter brood wil bakken dan halfvolkoren, en toch nog de principes van uitgesteld bakken wenst toe te passen? Geen probleem, in dat geval kan je het recept lichtjes aanpassen en een zeer licht en smakelijk brood maken dat veel te snel weggewerkt zal worden vanwege de geweldige smaak.
   

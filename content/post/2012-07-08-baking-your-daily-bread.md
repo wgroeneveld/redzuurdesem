@@ -5,13 +5,12 @@ type: post
 date: 2012-07-08T11:08:34+00:00
 url: /baking-your-daily-bread/
 featured_image: /wp-content/uploads/2012/07/dailybread_midden_24h.jpg
-categories:
-  - learning
-
+tags:
+  - tarwe
 ---
-The possibilities with bread baking are _endless_. If you&#8217;re starting with baking or you&#8217;d like to  experment with it for a while, like I do, it&#8217;s usually a good idea to **stick with one basic formula** and extend from there. That way, you can more easily compare the results and you get to learn one way of bread baking _very well_. This one formula you&#8217;ll be baking regulary is called &#8220;**your daily bread**&#8220;.
+The possibilities with bread baking are _endless_. If you&#8217;re starting with baking or you&#8217;d like to experiment with it for a while, like I do, it&#8217;s usually a good idea to **stick with one basic formula** and extend from there. That way, you can more easily compare the results and you get to learn one way of bread baking _very well_. This one formula you&#8217;ll be baking regulary is called &#8220;**your daily bread**&#8220;.
 
-After baking for a few months and trying out different recipes from various books, I settled with my daily bread as a morphed version of Mr. Hamelman&#8217;s &#8220;_Pain au levain with wholewheat_&#8221; recipe. Why? Because it&#8217;s one of the simpler sourdough no-fail breads I&#8217;d like to master. I did obviously tweak it to my taste.<figure id="attachment_194" style="width: 1024px" class="wp-caption aligncenter">
+After baking for a few months and trying out different recipes from various books, I settled with my daily bread as a morphed version of Mr. Hamelman&#8217;s &#8220;_Pain au levain with wholewheat_&#8221; recipe. Why? Because it&#8217;s one of the simpler sourdough no-fail breads I&#8217;d like to master. I did obviously tweak it to my taste.
 
 [<img class="size-full wp-image-194" title="dailybread_midden_24h" src="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg" alt="" width="1024" height="632" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-300x185.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-332x205.jpg 332w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-268x164.jpg 268w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h-700x432.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]<figcaption class="wp-caption-text">A section view of my daily bread</figcaption></figure> 
 
@@ -35,7 +34,7 @@ The original recipe called for a white flour preferment, but I like the wholewhe
   * 590gr water
   * the preferment
 
-What did I change in the original recipe? As you might have noticed, completely replaced the bread flour with wholewheat in the preferment and upped the water amount by a bit. (As you might know, wholewheat flour soaks up more water, and I like holes in the bread, which is caused by a high hydratation percentage)<figure id="attachment_196" style="width: 1024px" class="wp-caption aligncenter">
+What did I change in the original recipe? As you might have noticed, completely replaced the bread flour with wholewheat in the preferment and upped the water amount by a bit. (As you might know, wholewheat flour soaks up more water, and I like holes in the bread, which is caused by a high hydratation percentage)
 
 [<img class=" wp-image-196" title="dailybread_slice_24h" src="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg" alt="" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][2]<figcaption class="wp-caption-text">Some slices of my 65% wholewheat daily bread</figcaption></figure> 
 
@@ -59,7 +58,7 @@ The most helpful video on **french fold **style kneading would be this one:
 
 Knead max. 5 minutes (might take longer the first try! Don&#8217;t worry, as soon as you can see your dough \*developing\*, you&#8217;re fine) and cover the mixing bowl to let the dough bulk ferment.
 
-<span style="text-decoration: underline;">7:15 PM</span> &#8211; do your first &#8220;**stretch & fold**&#8220;: take the dough out of the container, stretch it a bit (without degassing it too much) and fold it like a letter over itself in 2/3th. Turn it 90° and do the same. We&#8217;ll do this twice within the 2 hour bulk ferment to strenghten the dough as high hydratation dough is quite slack and otherwise it&#8217;ll lose it&#8217;s shape when proofing.
+<span style="text-decoration: underline;">7:15 PM</span> &#8211; do your first &#8220;**stretch & fold**&#8220;: take the dough out of the container, stretch it a bit (without degassing it too much) and fold it like a letter over itself in 2/3th. Turn it 90° and do the same. We&#8217;ll do this twice within the 2 hour bulk ferment to strengthen the dough as high hydratation dough is quite slack and otherwise it&#8217;ll lose it&#8217;s shape when proofing.
 
 <span style="text-decoration: underline;">8:00 PM</span> &#8211; next stretch & fold.
 
@@ -81,7 +80,7 @@ Knead max. 5 minutes (might take longer the first try! Don&#8217;t worry, as soo
 
 The taste was not very sour at all, very mild, and the texture, as you can see, was amazing. I love the open structure of the crumb! The slices of bread are still a bit sticky, because the bread is at **71% hydratation **and has **65% wholewheat flour** in it.
 
-To get a more sour taste, I&#8217;m trying out more experiments which I will post under the learning category. My first experiment was retarding longer in order to get a more pronounced flavor.<figure id="attachment_199" style="width: 1024px" class="wp-caption aligncenter">
+To get a more sour taste, I&#8217;m trying out more experiments which I will post under the learning category. My first experiment was retarding longer in order to get a more pronounced flavor.
 
 [<img class=" wp-image-199" title="dailybread_slice_40h" src="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg" alt="" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][4]<figcaption class="wp-caption-text">The bread after retarding for 40 hours in the fridge</figcaption></figure> 
 

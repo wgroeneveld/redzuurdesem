@@ -27,14 +27,11 @@ al2fb_facebook_link_time:
   - 2013-04-01T18:56:14+00:00
 al2fb_facebook_link_picture:
   - meta=http://www.savesourdough.com/wp-content/uploads/2013/04/MG_8561-300x200.jpg
-categories:
-  - recipes
+tags:
+  - verrijkt
 
 ---
-## Vrolijk pasen met dit verrijkt paasbrood!<figure id="attachment_610" style="width: 300px" class="wp-caption aligncenter">
-
-
-<figure id="attachment_610" style="width: 300px" class="wp-caption aligncenter"><a href="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561.jpg"><img class="size-medium wp-image-610" alt="_MG_8561" src="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Happy easter!</figcaption></figure>
+### Vrolijk pasen met dit verrijkt paasbrood!
 
 Onze collega&#8217;s bij [The Weekend Bakery][2] hebben een leuk ogend kerststol recept gepost dat ik vergeten ben tijdens de drukke kerst- en nieuwjaarsperiode. Maar niet getreurd, in onze regio hebben we ook een speciaal [fruitig paasbrood][3] voor de paas dagen. Het bevat een hoop gedroogde vruchten en is &#8220;fruity&#8221; door de aanwezigheid van citrusschillen.
 
@@ -72,6 +69,9 @@ Bestrijk de korst met gesmolten boter zodra het brood uit de oven komt. Geen eie
   </ol>
   
   <p class="clear">
+
+<figure id="attachment_610" style="width: 300px" class="wp-caption aligncenter"><a href="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561.jpg"><img class="size-medium wp-image-610" alt="_MG_8561" src="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Happy easter!</figcaption></figure>
+
 
  [1]: https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561.jpg
  [2]: http://www.weekendbakery.com/posts/our-perfect-christmas-stollen/

@@ -23,13 +23,11 @@ al2fb_facebook_link_time:
   - 2013-08-05T18:44:27+00:00
 al2fb_facebook_link_picture:
   - meta=http://www.savesourdough.com/wp-content/uploads/2013/08/MG_9126-300x220.jpg
-categories:
-  - recipes
-
+tags:
+  - durum
 ---
-<figure id="attachment_660" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-660" title="helder en zonnig met durumtarwe" alt="helder en zonnig met durumtarwe" src="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg" width="300" height="220" srcset="https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-700x515.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">helder en zonnig met durumtarwe</figcaption></figure> 
 
-# Italiaanse zonneschijn: durm tarwe gebruiken
+### Italiaanse zonneschijn: durm tarwe gebruiken
 
 [Pane di Altamura][2] is een van die speciale broden die regio gebonden is &#8211; het heeft een speciale status verdiend binnen (en buiten) Italië. Volgens Wikipedia (EN):
 

@@ -10,9 +10,10 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+tags:
+    - broodbakmachine
+    - boekweit
+image: /wp-content/uploads/2015/07/MG_1040.jpg
 ---
 Lees **eerst** het uitgebreid artikel over [alternatief recept met boekweit zonder het broodbakmachine][1], de technieken zijn hetzelfde.
   
@@ -30,66 +31,52 @@ Gebaseerd op [het alternatief recept][1].
 <th class=' ' >
 ingrediënt
 </th>
-
 <th class=' ' >
 percentage
 </th>
-
 <th class=' ' >
 gewicht voor 1 brood
 </th>
 </tr>
-
 <tr>
 <td >
 witte tarwebloem
 </td>
-
 <td >
 80%
 </td>
-
 <td >
 400gr
 </td>
 </tr>
-
 <tr>
 <td >
 water
 </td>
-
 <td >
 65%
 </td>
-
 <td >
 225gr
 </td>
 </tr>
-
 <tr>
 <td >
 <span style="line-height: 1.6471;">zout</td> 
-
 <td >
 2%
 </td>
-
 <td >
 10gr
 </td></tr> 
-
 <tr>
 <td >
 </span><span style="line-height: 1.6471;">voordeeg met <strong>boekweit</strong>desem</td> 
-
 <td >
 20% @ 100% hydratatie
 </td>
-
 <td >
-200gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> <figure id="attachment_907" style="width: 800px" class="wp-caption aligncenter"><a href="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg"><img class="size-full wp-image-907" src="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg" alt="boekweit desem" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">boekweit desem</figcaption></figure> 
+200gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> <a href="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg"><img class="size-full wp-image-907" src="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg" alt="boekweit desem" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1038-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">boekweit desem</figcaption></figure> 
 
 <p>
   <strong>Wat is een boekweit desem?</strong>
@@ -128,7 +115,7 @@ water
 
 <p>
   Je kan dus op twee manieren bakken: &#8220;<a href="https://redzuurdesem.be/42015-uitgesteld-bakken-met-het-broodbakmachine/">uitgesteld</a>&#8221; of via het standaard programma. De foto&#8217;s zijn gemaakt door de bakvorm na het kneden één nacht in de koelkast te plaatsen (10h op 6°C), en dan daarna het bakprogramma zelf te starten.
-</p><figure id="attachment_908" style="width: 800px" class="wp-caption aligncenter">
+</p>
 
 <a href="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg"><img class="size-full wp-image-908" src="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg" alt="Gerezen desem in bakblik" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1040-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">Gerezen desem in bakblik</figcaption></figure> 
 
@@ -157,7 +144,7 @@ water
   <li>
     Laat het broodbakmachine je gerezen deeg bakken.<br /> Stel indien mogelijk dit <strong>zo lang mogelijk </strong>in, bij de Panasonic die ik probeerde kan je op &#8220;enkel bakken&#8221; een tijdsspanne ingeven. Ik stelde het op exact 45min in en dat was <em>te weinig</em> &#8211; kijk maar naar de onderstaande foto. Langer = beter!<br /> 1h is een betere optie.
   </li>
-</ol><figure id="attachment_909" style="width: 800px" class="wp-caption aligncenter">
+</ol>
 
 <a href="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg"><img class="size-full wp-image-909" src="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg" alt="bakken na 45min - te kort!" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/07/MG_1042-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption class="wp-caption-text">bakken na 45min &#8211; te kort!</figcaption></figure> 
 

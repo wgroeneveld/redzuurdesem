@@ -5,11 +5,9 @@ type: post
 date: 2012-09-28T17:55:59+00:00
 url: /flax-seed-levain-with-spelt/
 featured_image: /wp-content/uploads/2012/09/MG_7213-001.jpg
-categories:
-  - recipes
-
+tags:
+  - zaadjes
 ---
-<figure id="attachment_436" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-436" title="_MG_7213-001" src="https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001-700x467.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/09/MG_7213-001.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Batards proofing on the couche.</figcaption></figure> 
 
 This is a slightly altered version from Mr. Leader&#8217;s &#8220;[Local Breads][2]&#8221; recipe called &#8220;**pain au levain**&#8221; but with flax seeds. Coincidence or not, after preparing the preferment, I saw I was out of plain bread flour or high gluten flour! So I had to adapt the formula (or I could of course put the fermented piece back into the fridge but hey, what&#8217;s baking bread without a little bit of experimenting?)
 

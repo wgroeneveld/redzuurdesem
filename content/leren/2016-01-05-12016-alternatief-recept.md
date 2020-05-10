@@ -1,5 +1,5 @@
 ---
-title: 1/2016 – Alternatief recept
+title: 1/2016 – Alternatief verrijkt recept
 author: Wouter
 type: post
 date: 2016-01-05T20:33:24+00:00
@@ -13,9 +13,9 @@ comment_images_toggle:
   - enable
 categories:
   - Desem doos recepten
-
+tags:
+    - verrijkt
 ---
-### Alternatief recept
 
 Gelieve eerst **[het origineel recept][1]** zeer aandachtig te bestuderen.
 
@@ -29,4 +29,4 @@ Bij het vormen van het deeg, na de eerste rijs, weeg je 60gr per deegbolletje af
 
 Bakken kan op dezelfde temperatuur als het origineel recept (220°C) maar moet veel **korter** gebakken worden: 10 minuten ongeveer, gezien de grootte van de broodjes. Je kan controleren of de sandwiches klaar zijn door op de **onderkant** te letten en alles zo ven mogelijk te bakken. Instrijkinstructies zijn ook hetzelfde als het origineel recept.
 
- [1]: https://redzuurdesem.be/12016-verrijkt-deeg/
+ [1]: /12016-verrijkt-deeg/

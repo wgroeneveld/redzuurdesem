@@ -1,17 +1,56 @@
 ## Reclame TODO
 
-[ ] Ann Lummen? 
-[ ] https://www.goodreads.com/book/show/53267590-red-zuurdesem recommend 
-[ ] HBVL zelf contacteren
-[ ] Pieter Facebook
-[ ] Debbie Facebook
-[ ] Vanuit Stad Hasselt iets forceren?
+* - = busy
+* X = done
+* / = won't do
+
+https://www.goodreads.com/book/show/53267590-red-zuurdesem doorgeven?
+
+[ ] Leo Babauta: un-copyright te bekijken
+
+### Via-via persoonlijk
+
+[X] Ann Lummen
+[-] Pieter Facebook (bericht gestuurd)
+[-] Debbie Facebook (bericht gestuurd)
+[ ] Bake Off Vlaanderen bake-along groep? https://www.facebook.com/groups/1559392017451480
+
+### Recensies vragen
+
+[-] Christophe Courtin recensie
+[-] via Facebook gevraagd voor recensies
+[-] Weekend Bakery. vragen voor recensie?
+[ ] in juni Karl vragen recensie te schrijven
+
+### Bibliotheken
+
 [ ] Bib Kuringen
 [ ] Bib Hasselt https://bibliotheek.hasselt.be/aankoopsuggestie_FORM bibliotheek@hasselt.be
 [ ] Bib Leuven https://leuven.bibliotheek.be/formulier/aankoopsuggestie vragen aan Linus lidkaartnr?
+[ ] Bibliotheken Nederland: centraal https://www.hetboekenschap.nl/boek-aanbieden-bibliotheek/
 
-### Post-Corona
+### Doorverkoop
 
-[ ] x boeken zelf bestellen, Jo ed
+[ ] Verkopen via winkeltje Schoofs in Genk?
 [ ] Samenwerking Grimm?
-[ ] Sanemwerking Standaard Boekhandel Hasselt?
+[ ] Sanemwerking Standaard Boekhandel Hasselt? (na lokaal artikel pers?)
+
+### Pers
+
+Inspelend op actualiteit!
+
+[-] HBVL zelf contacteren, 2de email via Veerle (gestuurd 05/05)
+[-] HLN via Dimitri (gestuurd 3/05)
+[-] EVA VWZ (gestuurd 04/05)
+[-] Vanuit Stad Hasselt; via Marleen (gestuurd 3/05)
+[ ] De Nieuwe Hasselaar proberen? communicatie@hasselt.be
+
+
+## Tips Veerle e.d.
+
+- Via bekende aanbevelers. 20 POD exemplaren uitsturen naar die mensen
+- Multimediaal: e-book met extra's publiceren
+- newsletters, email address collectors, ...
+- Testemonials op sales pagina
+- Verzamel zo veel mogelijk recensies! Bol.com, goodreads, ... (Geef gratis boeken weg in ruil hiervoor indien nodig bij familie en vrienden)
+

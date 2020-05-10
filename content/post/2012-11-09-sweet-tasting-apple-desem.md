@@ -1,15 +1,13 @@
 ---
-title: Zoet appel desem brood
+title: Zoet appeldesem brood
 author: Wouter
 type: post
 date: 2012-11-09T20:03:06+00:00
 url: /sweet-tasting-apple-desem/
 featured_image: /wp-content/uploads/2012/11/MG_7287.jpg
-categories:
-  - recipes
-
+tags:
+  - gistwater
 ---
-<figure id="attachment_465" style="width: 1024px" class="wp-caption aligncenter">[<img class="size-full wp-image-465" title="Veel gaatjes en appel stukken" src="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg" alt="Veel gaatjes en appel stukken" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]<figcaption class="wp-caption-text">Veel gaatjes en appel stukken</figcaption></figure> 
 
 Doesn&#8217;t this look amazing? I&#8217;ve read great things about using &#8220;**yeast water**&#8221; at [The Fresh Loaf][2] which is basically _anything_ fermented with water. You can even use certain vegetables. Or tea. According to Wikipedia, tea combined with honey is a popular fermentation tool &#8211; something like Kefir and the like. You do know that yogurt is also made by slowly fermenting milk, right? The longer you ferment things, the more tasty they get (or the more &#8220;tang&#8221; they have, which might not appeal to everyone).
 
@@ -42,6 +40,8 @@ It turned out to be extremely good. The yeast is as vigorous as classic sourdou
 What surprised me the most was the sweetness of the bread, or the complete absence of the regular &#8220;tang&#8221; I love about sourdough. So this bread might appeal to people who don&#8217;t like rye sour or sour in general. Of course the cinnamon also helps to sweeten everything, but even without it, I still think you would get a different taste. The apples in the yeast did not affect the flavor &#8211; the apples in the bread did: it also kept it more moist!
 
 I now have three starters in my fridge: a stiff white one, a liquid rye one and this apple yeast container. Great!
+
+[<img class="size-full wp-image-465" title="Veel gaatjes en appel stukken" src="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg" alt="Veel gaatjes en appel stukken" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]<figcaption class="wp-caption-text">Veel gaatjes en appel stukken</figcaption></figure> 
 
  [1]: https://redzuurdesem.be/wp-content/uploads/2012/11/MG_7287.jpg
  [2]: http://www.thefreshloaf.com/node/30536/rose-hip-levain-made-jam

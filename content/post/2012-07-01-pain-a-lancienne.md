@@ -5,13 +5,11 @@ type: post
 date: 2012-07-01T18:28:14+00:00
 url: /pain-a-lancienne/
 featured_image: /wp-content/uploads/2012/07/MG_6325.jpg
-categories:
-  - Uncategorized
-
+tags:
+  - baguettes
 ---
-# Pain à l&#8217;ancienne
 
-It&#8217;s summer and we&#8217;re organising a small party &#8211; what&#8217;s the obvious choice for food? Right, BBQ. What&#8217;s the obvious choice for bread accompanied by a nice BBQ? Right! Baguettes! But this wouldn&#8217;t be save<span style="text-decoration: underline;">sourdough</span> without sourdough, so instead of baking the classic baguettes, I created my own formula based on Mr. Hamleman&#8217;s &#8220;Pain au levain with whole wheat&#8221;.<figure id="attachment_156" style="width: 819px" class="wp-caption aligncenter">
+It&#8217;s summer and we&#8217;re organising a small party &#8211; what&#8217;s the obvious choice for food? Right, BBQ. What&#8217;s the obvious choice for bread accompanied by a nice BBQ? Right! Baguettes! But this wouldn&#8217;t be save<span style="text-decoration: underline;">sourdough</span> without sourdough, so instead of baking the classic baguettes, I created my own formula based on Mr. Hamleman&#8217;s &#8220;Pain au levain with whole wheat&#8221;.
 
 [<img class=" wp-image-156" title="_MG_6326" src="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6326.jpg" alt="" width="819" height="546" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6326.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6326-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6326-700x466.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" />][1]<figcaption class="wp-caption-text">A crumb shot of the sliced (misformed) &#8220;baguettes&#8221;</figcaption></figure> 
 
@@ -22,8 +20,6 @@ As you can see, the result is quite lovely, it has a beautiful texture inside (a
 The sourdough has been prepared 12 hours before mixing in the final ingredients. I used a stiff 100% wholewheat starter with a bit rye. The final ingredients contained 600gr of bread flour and more rye. The total hydratation level was 65%.
 
 Scoring didn&#8217;t went that well, but the baguettes now contribute to the &#8220;ancienne&#8221; look and feel. I should have simply stretched some dough balls, that would have been more than sufficient.
-
-&nbsp;<figure id="attachment_155" style="width: 819px" class="wp-caption aligncenter">
 
 [<img class=" wp-image-155" title="_MG_6325" src="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6325.jpg" alt="" width="819" height="546" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6325.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6325-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6325-700x466.jpg 700w" sizes="(max-width: 819px) 100vw, 819px" />][2]<figcaption class="wp-caption-text">Pieces of the bread were very popular at the BBQ!</figcaption></figure> 
 

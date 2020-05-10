@@ -1,5 +1,5 @@
 ---
-title: 10/2015 – alternatief recept
+title: 10/2015 – hybride baguettes
 author: Wouter
 type: post
 date: 2015-10-24T14:46:36+00:00
@@ -12,13 +12,15 @@ comment_images_toggle:
   - enable
 categories:
   - Desem doos recepten
-
+image: /wp-content/uploads/2012/06/baguettes1.jpg
+tags:
+    - hybride
+    - baguette
 ---
-### Alternatief recept
 
 Gelieve **eerst [het origineel recept][1] **zeer aandachtig te bestuderen.
 
-In plaats van een combinatie van zuurdesem en bakkersgist te gebruiken, kunnen we ook een voordeeg maken met enkel gist. Deze manier van werken wordt heel veel gebruikt om _baguettes_ te maken in Frankrijk: een voordeeg geeft veel smaak maar houdt de korst toch licht en knapperig, en het kruim luchtig en fluffy. Baguettes met zuurdesem zijn minstens even smakelijk maar geven een ander mondgevoel.<figure id="attachment_103" style="width: 1024px" class="wp-caption aligncenter">
+In plaats van een combinatie van zuurdesem en bakkersgist te gebruiken, kunnen we ook een voordeeg maken met enkel gist. Deze manier van werken wordt heel veel gebruikt om _baguettes_ te maken in Frankrijk: een voordeeg geeft veel smaak maar houdt de korst toch licht en knapperig, en het kruim luchtig en fluffy. Baguettes met zuurdesem zijn minstens even smakelijk maar geven een ander mondgevoel.
 
 [<img class="size-full wp-image-103" src="https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg" alt="baguettes in rijsdoek" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/baguettes1-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][2]<figcaption class="wp-caption-text">baguettes in rijsdoek</figcaption></figure> 
 
@@ -231,7 +233,7 @@ actie
 
 <p>
   Volg vanaf hier de instructies van het <a href="https://redzuurdesem.be/102015-hybride-degen/">hoofdrecept</a>.
-</p><figure id="attachment_272" style="width: 1024px" class="wp-caption aligncenter">
+</p>
 
 <a href="https://redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg"><img class="size-full wp-image-272" src="https://redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg" alt="Een closeup van een rijzend broodje" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/scored.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-caption-text">Een closeup van een rijzend broodje</figcaption></figure>
 

@@ -5,11 +5,9 @@ type: post
 date: 2012-07-21T19:57:00+00:00
 url: /pain-au-levain/
 featured_image: /wp-content/uploads/2012/07/2012-07-21-13.24.59.jpg
-categories:
-  - recipes
-
+tags:
+  - tarwe
 ---
-<figure id="attachment_330" style="width: 584px" class="wp-caption aligncenter">[<img class=" wp-image-330" title="2012-07-21 13.24.59" src="https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-1024x682.jpg" alt="" width="584" height="388" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-1024x682.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/2012-07-21-13.24.59.jpg 1600w" sizes="(max-width: 584px) 100vw, 584px" />][1]<figcaption class="wp-caption-text">A &#8220;bâtard en levain&#8221;, with an exceptional crust.</figcaption></figure> 
 
 What could possibly be a better introduction than a closeup of a bâtard with a nice &#8220;_ear_&#8220;, inviting you to tear up and feast upon? French country bread is so rewarding and so easy to make, it&#8217;s a shame I did not try something like this before! Although [my daily bread][2] is inspired by _Vermont Sourdough_ and _Pain au Levain_ recipes from Mr. Hamelman, this recipe comes from Mr. Leader&#8217;s &#8220;**local breads**&#8221; book. There are slight differences noticeable but the core remains the same.
 

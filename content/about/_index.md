@@ -1,10 +1,6 @@
 ---
-title: Over Red Zuurdesem
-author: Wouter
-type: page
-pre: "<i class='fa fa-info'></i> "
+title: Over
 date: 2012-12-06T16:29:31+00:00
-
 ---
 
 ## Hallo daar!

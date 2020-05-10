@@ -21,11 +21,10 @@ al2fb_facebook_excerpt:
   - 'Wat is er lekkerder dan een croissant met wat aardbeien confituur op een late zondar voormiddag? Ik moet het nog ontdekken. Natuurlijk moeten deze lekkerheden zelf worden gemaakt (en hiermee bedoelen we niet een croissant afbakken!). Aangezien we bij Save <strong>Sourdough</strong> het altijd over zuurdesem hebben, waarom proberen we dan niet eens zuurdesem bladerdeeg te maken? Het is zeker een uitdaging dus als je niet zo geduldig bent, zoek dan iemand die het bakken in uw plaats kan doen, want het is wel de moeite waard'
 al2fb_facebook_text:
   - 'Wat is er lekkerder dan een croissant met wat aardbeien confituur op een late zondar voormiddag? Ik moet het nog ontdekken. Natuurlijk moeten deze lekkerheden zelf worden gemaakt (en hiermee bedoelen we niet een croissant afbakken!). Aangezien we bij Save <strong>Sourdough</strong> het altijd over zuurdesem hebben, waarom proberen we dan niet eens zuurdesem bladerdeeg te maken? Het is zeker een uitdaging dus als je niet zo geduldig bent, zoek dan iemand die het bakken in uw plaats kan doen, want het is wel de moeite waard'
-categories:
-  - recipes
+tags:
+  - croissant
 
 ---
-<figure id="attachment_558" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-558" title="_MG_7175" src="https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Vers gebakken, goed vettig, jummy!</figcaption></figure> 
 
 Wat is er lekkerder dan een croissant met wat aardbeien confituur op een late zondar voormiddag? Ik moet het nog ontdekken. Natuurlijk moeten deze lekkerheden zelf worden gemaakt (en hiermee bedoelen we niet een croissant afbakken!). Aangezien we bij Save **Sourdough** het altijd over zuurdesem hebben, waarom proberen we dan niet eens zuurdesem bladerdeeg te maken? Het is zeker een uitdaging dus als je niet zo geduldig bent, zoek dan iemand die het bakken in uw plaats kan doen, want het is wel de moeite waard!
 

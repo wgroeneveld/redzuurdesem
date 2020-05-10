@@ -5,9 +5,9 @@ type: post
 date: 2012-08-12T21:18:49+00:00
 url: /caraway-rye/
 featured_image: /wp-content/uploads/2012/08/MG_6726.jpg
-categories:
-  - recipes
-
+tags:
+  - rogge
+  - zaadjes
 ---
 I needed a recipe to try my round cane **banneton** on and this month&#8217;s [Mellow Bakers][1] challenge introduced a nice sourdough recipe: **40% rye sourdough** with **caraway** seeds. According to Mr. Hamelman, the bread &#8220;contains just enough rye to be a serious rye sourdoubh bread&#8221;.<figure id="attachment_378" style="width: 300px" class="wp-caption aligncenter">
 

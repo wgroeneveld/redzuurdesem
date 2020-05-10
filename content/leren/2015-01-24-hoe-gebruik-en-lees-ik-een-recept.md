@@ -4,6 +4,7 @@ author: Wouter
 type: post
 date: 2015-01-24T13:32:59+00:00
 url: /hoe-gebruik-en-lees-ik-een-recept/
+image: /images/makingof-inspiratie.jpg
 al2fb_facebook_excerpt:
   - |
     Even wat uitleg over bakkers percentages. Wat is dat precies? 50% tarwebloem
@@ -20,10 +21,10 @@ al2fb_facebook_text:
     70% water
     Deze typische structuur om hoeveelheden uit te drukken zal je overal terug vinden wanneer je zoekt naar bakrecepten in de professionele wereld. Dit noemt men ook wel "bakkers percentages".
     Wat bekekenen deze percentages nu precies, hoe reken je een recept uit?
-categories:
-  - learning
-
+tags:
+  - studeren
 ---
+
 Even wat uitleg over bakkers **percentages**. Wat is dat precies? Een voorbeeld:
 
   * 50% tarwebloem
@@ -33,7 +34,7 @@ Even wat uitleg over bakkers **percentages**. Wat is dat precies? Een voorbeeld:
 
 Deze typische structuur om hoeveelheden uit te drukken zal je overal terug vinden wanneer je zoekt naar bakrecepten in de professionele wereld. Dit noemt men ook wel &#8220;<a title="Baker percentage" href="http://en.wikipedia.org/wiki/Baker_percentage" target="_blank">bakkers percentages</a>&#8220;.
   
-Wat bekekenen deze percentages nu precies, hoe reken je een recept uit?
+Wat betekenen deze percentages nu precies, hoe reken je een recept uit?
 
 ### Bloem
 
@@ -81,7 +82,7 @@ Goed opletten met het water dat in het voordeeg gebruikt wordt, of je eindigt me
 
 Bak je 2 broden, wat typisch het maximum is om in een standaard oven tegelijkertijd te bakken op hetzelfde niveau (met één bakplaat)?
   
-Komt dat even goed uit. Je basisgewicht voor de totale bloem is 1kg (de 100%). Dus percentages uitrekenen is een kwestie van de komma juist te plaaten:
+Komt dat even goed uit. Je basisgewicht voor de totale bloem is 1kg (de 100%). Dus percentages uitrekenen is een kwestie van de komma juist te plaatsen:
 
 60% water = 600gr.
 
@@ -89,4 +90,4 @@ Bak je 1 brood? Halveer alles.
   
 Voor andere hoeveelheden is het wat meer rekenen geblazen, en schrijf je best alles even op voorhand op. Dit is heel belangrijk, want fouten met gewichten en hoeveelheden worden snel gemaakt (neem dat maar van mij aan), en kunnen alles verknoeien.
 
- [1]: https://redzuurdesem.be/sourdough-sweets-waffles-and-pancakes/ "Zuurdesem zoetigheden: wafels en pannekoeken"
+ [1]: https://redzuurdesem.be/sourdough-sweets-waffles-and-pancakes/ "Zuurdesem zoetigheden: wafels en pannenkoeken"

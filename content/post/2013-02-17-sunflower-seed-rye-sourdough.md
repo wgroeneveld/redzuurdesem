@@ -21,9 +21,9 @@ al2fb_facebook_link_time:
   - 2013-02-17T21:12:00+00:00
 al2fb_facebook_link_picture:
   - meta=http://www.savesourdough.com/wp-content/uploads/2013/02/MG_8191-300x200.jpg
-categories:
-  - recipes
-
+tags:
+  - rogge
+  - zaadjes
 ---
 Het is nog altijd koud hier in België, en de vogeltjes zijn hun buikjes nog altijd aan het vol eten aan de oneindige hoeveelheid zaadjes die wij hun voeren. Toen ik ze voerde vroeg ik me af waarom we eigenlijk deze lekkere zaadjes weggeven en die vogels lui laten worden? Waarom kunnen we dit zelf niet opeten? Niet enkel getoost op salades maar ook verwerkt in een goed zuurdesembrood deeg. Dankzij Mr. Hamelman&#8217;s boek vond ik een formule die ik een beetje gewijzigd heb naar mijn eigen zin.<figure id="attachment_587" style="width: 500px" class="wp-caption aligncenter">
 

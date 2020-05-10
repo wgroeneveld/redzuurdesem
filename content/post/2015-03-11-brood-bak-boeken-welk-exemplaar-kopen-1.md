@@ -4,6 +4,7 @@ author: Wouter
 type: post
 date: 2015-03-11T19:27:36+00:00
 url: /brood-bak-boeken-welk-exemplaar-kopen-1/
+image: /images/makingof-inspiratie.jpg
 al2fb_facebook_excerpt:
   - |
     Bakboeken - er zijn ondertussen talloze vormen en exemplaren beschikbaar. Vroeger vond je veel algemene bakboeken waar enkele hoofdstukken over brood geschreven werd, maar eigenlijk het merendeel van het boek gespendeerd werd aan cakes, beslagen en taarten. Dat is echter verleden tijd; als je een beetje zoekt op websites zoals amazon.com of goodreads.com kan je een hele hoop gespecialiseerde broodbakboeken vinden, zowel van bekende (meestal Amerikaanse) bakkers als van minder bekende auteurs.
@@ -20,9 +21,8 @@ al2fb_facebook_link_picture:
   - post=https://redzuurdesem.be/wp-content/uploads/2015/03/feature3.jpg
 comment_images_toggle:
   - enable
-categories:
-  - learning
-
+tags:
+  - studeren
 ---
 Bakboeken &#8211; er zijn ondertussen talloze vormen en exemplaren beschikbaar. Vroeger vond je veel algemene bakboeken waar enkele hoofdstukken over brood geschreven werd, maar eigenlijk het merendeel van het boek gespendeerd werd aan cakes, beslagen en taarten. Dat is echter verleden tijd; als je een beetje zoekt op websites zoals <a title="amazon" href="http://www.amazon.com" target="_blank">amazon.com</a> of <a title="goodreads" href="http://www.goodreads.com" target="_blank">goodreads.com</a> kan je een hele hoop gespecialiseerde broodbakboeken vinden, zowel van bekende (meestal Amerikaanse) bakkers als van minder bekende auteurs.
   

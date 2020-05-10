@@ -5,11 +5,9 @@ type: post
 date: 2012-07-21T12:22:32+00:00
 url: /80-wholerye-with-soaker/
 featured_image: /wp-content/uploads/2012/07/MG_6545.jpg
-categories:
-  - recipes
-
+tags:
+  - rogge
 ---
-<figure id="attachment_310" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-310" title="chew away!" src="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-300x167.jpg" alt="" width="300" height="167" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-300x167.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545-700x393.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/MG_6545.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Chew away!</figcaption></figure> 
 
 My 70% wholerye attempt did not turn out to be very disappointing for the first try &#8211; read more about it [here][2]. Mr. Hamelman provides a second healthy and earthy rye recipe in his book, but this time with 20% high gluten flour and a soaker of boiling rye flour instead of chopped rye flakes. The previous loaf had to be baked in a tin, this one could be (barely) shaped into a loose _boule_.
 

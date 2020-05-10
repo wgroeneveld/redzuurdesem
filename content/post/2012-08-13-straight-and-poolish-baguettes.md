@@ -5,10 +5,8 @@ type: post
 date: 2012-08-13T10:35:50+00:00
 url: /straight-and-poolish-baguettes/
 featured_image: /wp-content/uploads/2012/08/MG_6742.jpg
-categories:
-  - learning
-  - recipes
-
+tags:
+  - baguettes
 ---
 Most baguettes nowadays are made with a &#8220;_straight dough_&#8221; which indicates the dough has risen for about 4 hours in total, without an additional preferment (sourdough or not). There&#8217;s a clear difference in taste (and as you will see, also in structure) between both methods, and I wanted to bake both side by side to be able to compare them well.<figure id="attachment_382" style="width: 300px" class="wp-caption aligncenter">
 

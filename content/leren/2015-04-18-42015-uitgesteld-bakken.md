@@ -10,11 +10,12 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+tags:
+    - uitgesteld bakken
+    - tarwe
+image: /wp-content/uploads/2015/04/MG_0760-1024x683.jpg
 ---
-### Thema
+
 
 Een typisch &#8220;Frans&#8221; boerenbrood is meestal een mengeling van tarwebloem een een beetje tarwemeel of roggemeel, afhankelijk van bakker tot bakker. Het idee is dat vroeger op het veld bij het oogsten soms rogge samen met tarwe gewonnen werd en er zo een lichte mengeling ontstaat. Tegenwoordig mengt iedere bakker zijn eigen variant en is het héél moeilijk om een Frans brood te vergelijken met een ander brood. De namen zijn meer fantasiën van bakkers geworden, dan een zekerheid van bepaalde ingrediënten.
   
@@ -526,7 +527,7 @@ bakken
 
 <ol>
   <li>
-    De minimum rijstijden om een gebalanceerd desem brood te bakken.
+    De minimum rijstijden om een gebalanceerd desembrood te bakken.
   </li>
   <li>
     Hier gebruiken we géén uitgesteld bakken, dus dat kan nog, in combinatie met de bovenstaande schema&#8217;s.

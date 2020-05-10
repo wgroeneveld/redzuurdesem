@@ -25,19 +25,15 @@ al2fb_facebook_link_time:
   - 2013-07-08T20:24:32+00:00
 al2fb_facebook_link_picture:
   - meta=http://www.savesourdough.com/wp-content/uploads/2013/07/MG_8816-300x200.jpg
-categories:
-  - recipes
-
+tags:
+  - broodjes
 ---
-<figure id="attachment_649" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-649" title="Warm pita brood gevuld met groenten" alt="Warm pita brood gevuld met groenten" src="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Warm pita brood gevuld met groenten</figcaption></figure> 
 
-<h2 style="text-align: left;">
-  Het gemakkelijkste ooit: maak voordeeg. KLAAR.
-</h2>
+###  Het gemakkelijkste ooit: maak voordeeg. _Klaar_.
 
-Soms zijn we een beetje lui. We houden van op voorhand te plannen, maar we zijn nog altijd lui. Dit recept is voor die persoon: je moet nog altijd 24 uur op voorhand plannen, maar daarna is het heel simpel: oven voorverwarmen, stukjes deeg van het voordeeg plukken en in pannekoeken vormpjes duwen en in de oven smijten. Wat valt hier nog aan toe te voegen?
+Soms zijn we een beetje lui. We houden van op voorhand te plannen, maar we zijn nog altijd lui. Dit recept is voor die persoon: je moet nog altijd 24 uur op voorhand plannen, maar daarna is het heel simpel: oven voorverwarmen, stukjes deeg van het voordeeg plukken en in pannenkoeken vormpjes duwen en in de oven smijten. Wat valt hier nog aan toe te voegen?
 
-Als uw zuurdesem moeder starter zijn werk gedaan heeft zou de pannekoek heel snel moeten &#8220;ploffen&#8221; in de oven. De enige vereisten hiervoor is: **hoe heter de oven, hoe beter**. Dit is zoals pizza bakken: het duurt slechts enkele minuutjes. Als je een baksteen hebt, des te beter.
+Als uw zuurdesem moeder starter zijn werk gedaan heeft zou de pannenkoek heel snel moeten &#8220;ploffen&#8221; in de oven. De enige vereisten hiervoor is: **hoe heter de oven, hoe beter**. Dit is zoals pizza bakken: het duurt slechts enkele minuutjes. Als je een baksteen hebt, des te beter.
 
 ## Recept
 

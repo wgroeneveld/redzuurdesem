@@ -1,11 +1,8 @@
 +++
-chapter = true
+title = "Broodbak Vrienden"
 date = 2020-03-31
+image = "/images/vrienden.jpg"
 +++
-
-# Broodbak Vrienden
-
-### Hulp van vrienden
 
 Hoe graag ik ook een boek vuil maak met mijn bebloemde handen, toch moet ik ook de nodige erkenning geven aan een aantal websites. Het internet vormt voor velen tegenwoordig de eerste en voornaamste bron van informatie. Hieronder volgt een korte lijst van brood bak vrienden die mij op weg hielpen, en hopelijk ook jullie.
 

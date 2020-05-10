@@ -1,21 +1,22 @@
 ---
-title: Making your own sourdough starter
+title: Maak je eigen zuurdesemstarter
 author: Wouter
 type: post
 date: 2012-06-21T19:40:45+00:00
-draft: true
-url: /?p=109
-categories:
-  - recipes
-
+image: http://4.bp.blogspot.com/-e_3T5EJsuLc/T2YKXeUQBOI/AAAAAAAAGJw/fVf4BLoxBGU/s400/IMG_5935.jpg
+aliases:
+  - /post/2012-06-21-making-your-own-sourdough-starter/
+  - /making-your-own-sourdough-starter/
+tags:
+  - starter
 ---
 [<img class="aligncenter size-full wp-image-110" title="starter_maken" src="http://localhost/savesourdough/wp-content/uploads/2012/06/starter_maken.jpg" alt="" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
 &nbsp;
 
-With my enthousiasm I&#8217;ve been able to convince a few amount of people to try and make some bread themselves, with or without sourdough. It&#8217;ts not as complicated as it sounds, and I&#8217;d like to summarize everything down here in one big post, as it might be the reference guide to how to start and maintain your own sourdough (mother) starter.
+Met mijn enthousiasme heb ik een aantal mensen kunnen overtuigen om te proberen zelf brood te maken, met of zonder zuurdesem. Het is niet zo ingewikkeld als het klinkt, en ik zou alles hier in één grote post willen samenvatten, omdat het misschien de referentiegids is voor het starten en onderhouden van je eigen zuurdesem (moeder)starter.
 
-Exact recipes won&#8217;t be placed here. I can only recommend the book  &#8220;[Bread: A Baker&#8217;s Book of Techniques and Recipes][2]&#8221; of **Jeffrey Hamelman**. Everything you need is explained in great detail in there. The only downside from learning from a book is lack of an example while for example shaping the dough. Mr. Hamelman does provide a bunch of pictures explaining every very step.
+Exacte recepten zal ik niet hier plaatsen - ik raad daarvoor ten zeerste het boek [Bread: A Baker&#8217;s Book of Techniques and Recipes][2]&#8221; van **Jeffrey Hamelman** aan. Alles wat je nodig hebt, wordt daarin tot in detail uitgelegd. Het enige nadeel van leren uit een boek is het ontbreken van een voorbeeld terwijl je bijvoorbeeld het deeg vormt. Meneer Hamelman geeft een aantal foto's die elke stap uitleggen.
 
 > **The purpose: to make superior tasting bread** (and hopefully it&#8217;ll also look good!)
 
@@ -23,35 +24,36 @@ Exact recipes won&#8217;t be placed here. I can only recommend the book  &#822
 
 &nbsp;
 
-<h1 style="padding-left: 30px;">
-  Step 0: choosing the right flour
-</h1>
+<h3 style="padding-left: 30px;">
+  Stap 0: De juiste bloemsoort kiezen
+</h3>
 
 <div>
   <p>
-    Good bread only contains three things: water, flour and salt. Since flour is the main ingredient, it&#8217;ll better be of decent quality! Let&#8217;s take a quick look at the different kinds of flour.
+    Goed brood bevat maar drie dingen: water, bloem en zout. Omdat bloem het hoofdingrediënt is, is het beter van goede kwaliteit! Laten we snel kijken naar de verschillende soorten bloem.
   </p>
 </div>
 
 <div>
   <p>
-    <strong>wheat </strong>contains <em>a lot</em> of gluten which allows bread to become all fluffy and to be able to rise. When you leave a doughball with wheat for a while, you&#8217;ll be able to pull and tug the dough without tearing it. It&#8217;s because of those gluten.<br /> White flour contains only <a href="http://en.wikipedia.org/wiki/Endosperm">endosperm</a> with the fibres sifted out twice. This means white bread will rise very well but it also means it has the highest carb (sugar) count.
+    <strong>tarwe</strong>bevat <em>veel</em> gluten waardoor brood luchtig wordt en kan rijzen. Als je een deegbal een tijdje met tarwe laat, kun je het deeg trekken en trekken zonder het te scheuren. Het komt door die gluten. Witte bloem bevat alleen endosperm waarvan de vezels tweemaal zijn uitgezeefd. Dit betekent dat wit brood heel goed zal rijzen, maar het betekent ook dat het het hoogste aantal koolhydraten (suiker) heeft.
   </p>
 </div>
 
 <div>
   <p>
-     <strong>Rye</strong> acts completely different &#8211; it doesn&#8217;t contain any gluten at all, you can try to let it rise all day but it won&#8217;t do anything except produce bacteria (if you&#8217;re maintaining a sourdough starter, this is a good thing!) 100% rye dough is usually baked in a &#8220;pullman&#8221; pan as it&#8217;s nearly impossible to maintain a nice loaf form (the gluten strains make the bread rise upwards instead of outwards, which is what a blob of pure rye dough would do).<br /> Another problem with rye bread is called &#8220;<em>starch attack</em>&#8220;: during baking, a chemical reaction takes place (see the Bread book) and the bread will collapse easier than wheat breads. The natural sourness and bacteria of sourdough prevents this process, that&#8217;s why in countries like Germany rye bread is almost always sourdough bread.
+     <strong>Rogge</strong> werkt heel anders - het bevat helemaal geen gluten, je kunt proberen het de hele dag te laten rijzen, maar het doet niets behalve bacteriën produceren (als je een zuurdesemstarter aanhoudt, is dit een goede zaak!) 100% roggedeeg wordt meestal gebakken in een “pullman” -pan omdat het bijna onmogelijk is om een mooie broodvorm te behouden (door de glutenstammen rijst het brood naar boven in plaats van naar buiten, wat een klodder puur roggedeeg zou doen).<br/>
+Een ander probleem met roggebrood wordt "zetmeelaanval" genoemd: tijdens het bakken vindt er een chemische reactie plaats (zie het Broodboek) en zal het brood gemakkelijker instorten dan tarwebrood. De natuurlijke zuurheid en bacteriën van zuurdesem voorkomen dit proces, daarom is roggebrood in landen als Duitsland bijna altijd zuurdesembrood.
   </p>
 </div>
 
 <div>
   <p>
-    <strong>Spelt</strong> is the predecessor of wheat and contains a bit more fibre and a bit less carbs than wheat. It doesn&#8217;t hold together as well as pure wheat bread because of that. The texture of spelt bread is a bit more &#8220;crumbly&#8221; but it has been said to contain a lot more nutrients. I don&#8217;t want to claim this has been proven but some people have an easier time digesting spelt bread. If you are having trouble with eating &#8220;normal&#8221; bread, you might give this a try.
+    <strong>Spelt</strong> is de voorloper van tarwe en bevat iets meer vezels en iets minder koolhydraten dan tarwe. Het houdt daarom niet zo goed stand als puur tarwebrood. De textuur van speltbrood is iets "kruimeliger", maar er wordt gezegd dat het veel meer voedingsstoffen bevat. Ik wil niet beweren dat dit is bewezen, maar sommige mensen kunnen speltbrood gemakkelijker verteren. Als je problemen hebt met het eten van 'normaal' brood, kun je dit proberen.
   </p>
 </div>
 
-# Step 1: &#8220;poolish&#8221;
+### Stap 1: &#8220;poolish&#8221;
 
 <div>
   <p>
@@ -99,11 +101,6 @@ Exact recipes won&#8217;t be placed here. I can only recommend the book  &#822
   </p>
 </div>
 
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
 
 <div>
   <p>
@@ -117,19 +114,8 @@ Exact recipes won&#8217;t be placed here. I can only recommend the book  &#822
   </p>
 </div>
 
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
 
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-## Stap 2: brooddeeg en eerste fermentatie
+### Stap 2: brooddeeg en eerste fermentatie
 
 <div>
   <p>
@@ -145,19 +131,7 @@ Exact recipes won&#8217;t be placed here. I can only recommend the book  &#822
 
 <div>
   <p>
-    &nbsp;
-  </p>
-</div>
-
-<div>
-  <p>
     Kneden kan gemakkelijk &#8220;te veel&#8221; gedaan worden, zeker met een voordeeg of met zuurdesem.
-  </p>
-</div>
-
-<div>
-  <p>
-    &nbsp;
   </p>
 </div>
 
@@ -167,23 +141,6 @@ Exact recipes won&#8217;t be placed here. I can only recommend the book  &#822
   </p>
 </div>
 
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-<div>
-  <p>
-    Dat doe je zo:
-  </p>
-</div>
-
-&nbsp;
-
-<img id="BLOGGER_object_0" src="http://img2.blogblog.com/img/video_object.png" alt="" data-original-id="BLOGGER_object_0" />
-
-&nbsp;
 
 **Hoe lang moet ik mijn deeg laten rijzen?**
 
@@ -193,15 +150,7 @@ Meeste % tarwe, &#8220;standaard&#8221; rustiek deeg: 2-2.5h.
 
 Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
 
-&nbsp;
-
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-## Stap 3: (pre-)shaping en bench resting
+### Stap 3: (pre-)shaping en bench resting
 
 <div>
   <p>
@@ -209,11 +158,6 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
   </p>
 </div>
 
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
 
 <div>
   <ol>
@@ -228,34 +172,10 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
     </li>
   </ol>
   
-  <div>
-    <p>
-      Nog een handige video:
-    </p>
-  </div>
 </div>
 
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
 
-<img id="BLOGGER_object_1" src="http://img2.blogblog.com/img/video_object.png" alt="" data-original-id="BLOGGER_object_1" />
-
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-## Stap 4: final proofing en scoring
+### Stap 4: final proofing en scoring
 
 <div>
   <p>
@@ -275,29 +195,6 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
   </p>
 </div>
 
-<div>
-  <p>
-    Moeilijk uit te leggen, kijk hier een keer of 4 naar en proberen maar:
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    <img id="BLOGGER_object_2" src="http://img2.blogblog.com/img/video_object.png" alt="" data-original-id="BLOGGER_object_2" />
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
 
 <div>
   <p>
@@ -313,52 +210,17 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
 
 <div>
   <p>
-    &nbsp;
+    Daarna kan je net voor het bakken <a href="/correctly-scoring-your-loaf/">het brood inkerven</a>.
   </p>
 </div>
 
-<div>
-  <p>
-    Daarna kan je net voor het bakken het brood inkerven:
-  </p>
-</div>
 
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
 
-<img id="BLOGGER_object_3" src="http://img2.blogblog.com/img/video_object.png" alt="" data-original-id="BLOGGER_object_3" />
-
-<div>
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-<div>
-</div>
-
-## Stap 5: bakken en afkoelen
+### Stap 5: bakken en afkoelen
 
 <div>
   <p>
     Rustiek brood bak je best op een pizzasteen in de oven, die goed voorverwarmd is (minstens 45min). Als dat niet gaat op een hete bakplaat. De oven zo hoog mogelijk zetten (250°C) en wanneer de korst bruint de temperatuur verlagen tot 210-200°C.
-  </p>
-</div>
-
-<div>
-  <p>
-    &nbsp;
   </p>
 </div>
 
@@ -370,27 +232,7 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
 
 <div>
   <p>
-    &nbsp;
-  </p>
-</div>
-
-<img id="BLOGGER_object_4" src="http://img2.blogblog.com/img/video_object.png" alt="" data-original-id="BLOGGER_object_4" />
-
-<div>
-  <p>
-    &nbsp;
-  </p>
-</div>
-
-<div>
-  <p>
     40 minuten later ben je de eigenaar van prachtig brood!
-  </p>
-</div>
-
-<div>
-  <p>
-    &nbsp;
   </p>
 </div>
 
@@ -413,13 +255,9 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
 </div>
 
 <div>
-  <p>
-    &nbsp;
-  </p>
-  
-  <h2>
+  <h3>
     Stap X: Zuurdesem maken
-  </h2>
+  </h3>
   
   <table cellspacing="0" cellpadding="0" align="center">
     <tr>
@@ -434,10 +272,6 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
       </td>
     </tr>
   </table>
-  
-  <p>
-    <strong><br /> </strong>
-  </p>
   
   <p>
     <strong>Waarom moet ik zuurdesem gebruiken?</strong>
@@ -481,14 +315,6 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
       Nu begint het leuke. Je kan kiezen voor de eenvoudige, de superluie of de uitdagende versie.
     </p>
     
-    <p>
-      &nbsp;
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
     <ol>
       <li>
         De <em>eenvoudige</em> versie: vraag een beetje zuurdesemstarter van iemand die al een goede cultuur opgezet heeft. Sommige bakkers hebben reeds honderden jaren éénzelfde desem dat 2x per dag &#8220;ververst&#8221; wordt.
@@ -510,15 +336,7 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
     </p>
     
     <p>
-      &nbsp;
-    </p>
-    
-    <p>
       Voor het &#8220;eten geven&#8221; van de starter volg ik een <strong>S:W:F</strong> <em>ratio</em> (starter:water:flour) van <strong>1:2:2</strong>. Zo heeft het desem genoeg &#8220;eten&#8221; (suikers in het bloem) om de dag door te komen. Toen het nog maar enkele dagen oud was, waren de gistcellen nog niet in staat om zoveel bloem tegelijk te &#8220;verweken&#8221; en was de ratio 2:1:1 en daarna 1:1:1.
-    </p>
-    
-    <p>
-      &nbsp;
     </p>
     
     <p>
@@ -527,22 +345,6 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
     
     <p>
       Als het minstens verdubbelt in volume en belletjes produceert en lichtjes zurig (maar aangenaam) ruikt.
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p>
-      <img id="BLOGGER_object_5" src="http://img2.blogblog.com/img/video_object.png" alt="" data-original-id="BLOGGER_object_5" />
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p>
-      &nbsp;
     </p>
     
     <p>
@@ -557,13 +359,9 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
       <em>Je kan iemand anders aansporen om ook te bakken en een deel van uw desem afstaan natuurlijk</em>! Zeker aan te raden, hoe meer bekeerden hoe meer euhm vreugde?
     </p>
     
-    <p>
-      &nbsp;
-    </p>
-    
-    <h2>
+    <h3>
       Referenties
-    </h2>
+    </h3>
     
     <div>
       <p>
@@ -571,25 +369,25 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
       </p>
     </div>
     
-    <div>
-      <ul>
-        <li>
-          <a href="http://www.weekendbakery.com/">http://www.weekendbakery.com/</a>
-        </li>
-        <li>
-          <a href="http://uitdekeukenvanarden.blogspot.com/">http://uitdekeukenvanarden.blogspot.com/</a>
-        </li>
-        <li>
-          <a href="http://yumarama.com/">http://yumarama.com/</a>
-        </li>
-        <li>
-          <a href="http://mellowbakers.com/">http://mellowbakers.com/</a>
-        </li>
-        <li>
-          <a href="http://www.thefreshloaf.com/">http://www.thefreshloaf.com/</a>
-        </li>
-      </ul>
-    </div>
+  <div>
+    <ul>
+      <li>
+        <a href="http://www.weekendbakery.com/">http://www.weekendbakery.com/</a>
+      </li>
+      <li>
+        <a href="http://uitdekeukenvanarden.blogspot.com/">http://uitdekeukenvanarden.blogspot.com/</a>
+      </li>
+      <li>
+        <a href="http://yumarama.com/">http://yumarama.com/</a>
+      </li>
+      <li>
+        <a href="http://mellowbakers.com/">http://mellowbakers.com/</a>
+      </li>
+      <li>
+        <a href="http://www.thefreshloaf.com/">http://www.thefreshloaf.com/</a>
+      </li>
+    </ul>
+  </div>
   </div>
 </div>
 

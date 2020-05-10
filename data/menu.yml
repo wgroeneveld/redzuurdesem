@@ -1,0 +1,8 @@
+- item: Het Boek
+  url: boek/
+- item: Blog
+  url: post/
+- item: Leren bakken
+  url: leren/
+- item: Over
+  url: about/

@@ -13,9 +13,8 @@ al2fb_facebook_link_picture:
   - post=http://www.savesourdough.com/wp-content/uploads/2015/01/MG_8571-1024x683.jpg
 comment_images_toggle:
   - enable
-categories:
-  - learning
-
+tags:
+  - starter
 ---
 ### Ik heb een desem starter&#8230; En nu?
 
@@ -25,7 +24,7 @@ Proficiat met je nieuwe zoon of dochter! Draag er goed zorg voor, en je brood za
 
 Een zuurdesemstarter <span style="text-decoration: underline;">moet</span> je altijd <span style="text-decoration: underline;">voordat</span> je gaat bakken &#8220;verversen&#8221;. Dit betekent in essentie de desem mengen met bloem & water zodat er nieuwe suikers beschikbaar zijn voor de bacteriën. Vergeet niet dat je met levende materie werkt &#8211; de cellen zullen anders CO2 blijven produceren en het zal zo&#8217;n zure omgeving worden dat ze zelf dood gaan. Wanneer je te lang wacht, zijn er te weinig gisten en bacteriën over om je brood te doen rijzen.
 
-Stel: je wilt zaterdagmorgen beginnen met bakken van een desem brood. Dat wil zeggen dat je je voordeeg ten laatste vrijdagavond zal moeten maken. En daarvoor heb je desem nodig die in goede conditie is. Dus je ververst je desem vrijdag<span style="text-decoration: underline;">morgen</span> voor die avond te gebruiken in het voordeeg.
+Stel: je wilt zaterdagmorgen beginnen met bakken van een desembrood. Dat wil zeggen dat je je voordeeg ten laatste vrijdagavond zal moeten maken. En daarvoor heb je desem nodig die in goede conditie is. Dus je ververst je desem vrijdag<span style="text-decoration: underline;">morgen</span> voor die avond te gebruiken in het voordeeg.
 
   1. dag 1 &#8211; 08.00 AM: ververs desem
   2. dag 1 &#8211; 22.00 PM: maak voordeeg.
@@ -71,7 +70,7 @@ Het is zelfs perfect mogelijk om je desem &#8220;moeder&#8221;/&#8221;starter&#8
 
 Converteren kan je leren!
   
-Meng bij het verversen simpelweg minder water bij je desem. Je zal meer moeten kneden dan in plaats van mengen tot een soort van pannekoekenbeslag.
+Meng bij het verversen simpelweg minder water bij je desem. Je zal meer moeten kneden dan in plaats van mengen tot een soort van pannenkoekenbeslag.
 
 Je kan indien gewenst twee desems bewaren &#8211; een &#8220;vaste&#8221; en een &#8220;loperige&#8221;.
 

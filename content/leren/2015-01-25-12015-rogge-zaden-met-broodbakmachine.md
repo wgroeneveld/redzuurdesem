@@ -11,10 +11,12 @@ al2fb_facebook_exclude_video:
 comment_images_toggle:
   - enable
 categories:
-  - Desem doos recepten
-
+tags:
+    - broodbakmachine
+    - rogge
+    - zaadjes
+image: /wp-content/uploads/2015/01/MG_0710-1024x784.jpg
 ---
-### Met het broodbakmachine
 
 In tegenstelling tot het [hoofdrecept zonder broodbakmachine][1], kunnen we niet zoveel water gebruiken. Dit komt omdat een broodbakmachine [ontworpen is om binnen een bepaalde tijdsspanne een gebakken brood af te kunnen leveren][2]. En die tijdsspanne is helaas veel te kort om een redelijk &#8220;nat&#8221; deeg goed te kunnen doorbakken.
 
@@ -30,78 +32,61 @@ Een andere mogelijkheid is natuurlijk het deeg laten kneden door de machine, en 
 <th class=' ' >
 ingrediënt
 </th>
-
 <th class=' ' >
 percentage
 </th>
-
 <th class=' ' >
 gewicht voor 1 brood
 </th>
 </tr>
-
 <tr>
 <td >
 witte tarwebloem
 </td>
-
 <td >
 70%
 </td>
-
 <td >
 350gr
 </td>
 </tr>
-
 <tr>
 <td >
 volkoren roggemeel
 </td>
-
 <td >
 30%
 </td>
-
 <td >
 150gr
 </td>
 </tr>
-
 <tr>
 <td >
 water
 </td>
-
 <td >
 63%
 </td>
-
 <td >
 315gr
 </td>
 </tr>
-
 <tr>
 <td >
 <span style="line-height: 1.6471;">zout</td> 
-
 <td >
 1.5%
 </td>
-
 <td >
 7.5gr
 </td></tr> 
-
 <tr>
 <td >
 </span><span style="line-height: 1.6471;">voordeeg met desem</td> 
-
 <td >
 40% @ 100% hydratatie
 </td>
-
 <td >
 400gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
 

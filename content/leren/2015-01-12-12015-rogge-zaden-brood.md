@@ -10,11 +10,11 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+tags:
+    - rogge
+    - zaadjes
+image: /wp-content/uploads/2015/01/MG_0512-1024x717.jpg
 ---
-### Thema
 
 Laten we een zadenbrood bakken. Een rogge-zadenbrood om precies te zijn &#8211; twee dingen die zoals we zullen zien een uitdaging zijn voor de zwaartekracht van een brood. De meegeleverde rogge is volkoren rogge, dat wil zeggen dat er niets is gezeefd na het maalproces: alle essentiële voedingswaarden zitten nog in het meel.Dat wil ook zeggen dat het veel water opneemt, net als de zaadjes.
 

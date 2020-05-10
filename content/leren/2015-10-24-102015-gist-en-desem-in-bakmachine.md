@@ -10,11 +10,12 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
+image: /wp-content/uploads/2015/04/MG_0769-1024x683.jpg
 categories:
   - Desem doos recepten
-
+tags:
+    - broodbakmachine
 ---
-### In je broodbakmachine&#8230;
 
 De manier van werken voor deze Desem Doos is ideaal voor je broodbakmachine. Je kan werken op dezelfde manier als je altijd al werkt met je machine &#8211; je voegt enkel als leuk extraatje het desem voordeeg toe net voor het kneedproces begint en klaar is kees! [Het hoofdrecept][1] vereist geen enkele aanpassing, lees dit dus eerst zorgvuldig na.
   
@@ -28,92 +29,72 @@ Voor de volledigheid is hier het recept nog eens:
 <th class=' ' >
 ingrediënt
 </th>
-
 <th class=' ' >
 percentage
 </th>
-
 <th class=' ' >
 gewicht voor 3 bâtards
 </th>
 </tr>
-
 <tr>
 <td >
 tarwebloem
 </td>
-
 <td >
 100%
 </td>
-
 <td >
 350gr
 </td>
 </tr>
-
 <tr>
 <td >
 volkorentarwemeel
 </td>
-
 <td >
 20%
 </td>
-
 <td >
 100gr
 </td>
 </tr>
-
 <tr>
 <td >
 water
 </td>
-
 <td >
 54%
 </td>
-
 <td >
 270gr
 </td>
 </tr>
-
 <tr>
 <td >
 <span style="line-height: 1.6471;">zout</td> 
-
 <td >
 2%
 </td>
-
 <td >
 10gr
 </td></tr> 
-
 <tr>
 <td >
 gedroogde gist
 </td>
-
 <td >
 0.5%
 </td>
-
 <td >
 2.5gr (+/1 1 theelepel)
 </td>
 </tr>
-
 <tr>
 <td >
 </span><span style="line-height: 1.6471;">voordeeg</td> 
-
 <td >
   20% @ 100% hydratatie
 </td>
-
 <td >
   100gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
   

@@ -27,10 +27,9 @@ al2fb_facebook_link_time:
   - 2012-12-07T22:01:55+00:00
 al2fb_facebook_link_picture:
   - meta=http://www.savesourdough.com/wp-content/uploads/2012/12/MG_7598-300x200.jpg
-categories:
-  - recipes
-  - Uncategorized
-
+tags:
+  - tarwe
+  - rogge
 ---
 Dit is een variatie van Mr. Hamelman&#8217;s &#8220;volkorenrogge en volkorentarwe zuurdesembrood&#8221;. Het bevat 50% volkoren bloem en 50% sterk wit tarwemeel om het te helpen rijzen, met een preferment percentage van 25.<figure style="width: 640px" class="wp-caption aligncenter">
 
@@ -72,4 +71,4 @@ Het is milder dan 50% volkoren rogge brood dankzij de toevoeging van tarwe.
 
  [1]: http://lh4.ggpht.com/-d3ELXzzT7XQ/UMJemN61jlI/AAAAAAAAGtU/DpriVx2f0x0/s1024/_MG_7598.JPG "_MG_7598.JPG"
  [2]: http://lh4.ggpht.com/-WDLPW5-ErOg/UMJekh3H4fI/AAAAAAAAGtM/ilK6t4FnLPI/s1024/_MG_7597.JPG "_MG_7597.JPG"
- [3]: https://redzuurdesem.be/nl/vermont-style-sourdough/ "Vermont Style Sourdough"
+ [3]: /vermont-style-sourdough/ "Vermont Style Sourdough"

@@ -12,9 +12,9 @@ al2fb_facebook_link_picture:
   - post=http://www.savesourdough.com/wp-content/uploads/2014/10/MG_0394-300x200.jpg
 comment_images_toggle:
   - enable
-categories:
-  - learning
-
+tags:
+  - starter
+image: /wp-content/uploads/2014/10/MG_0275.jpg
 ---
 Blijkbaar wordt gedroogde desem veel in Duitse bakkerijen gebruikt om smaak toe te voegen in brood, omdat veel bakkers te lui geworden zijn om het hele zuurdesem proces door te lopen &#8211; _time is money_, uiteraard. Je kan tegenwoordig van die gedroogde desems kopen in potjes of zakjes in supermarkten &#8211; ik heb het zelfs al te koop gezien bij maalderijen in Limburg. Zodra ik het woord &#8220;desem&#8221; in de beschrijving van eender welk product lees, is mijn interesse gewekt, dus kocht ik er en paar om ze vergelijken in een bakexperimentje.
   

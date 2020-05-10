@@ -5,10 +5,9 @@ type: post
 date: 2012-07-26T19:45:11+00:00
 url: /miche-epeautre/
 featured_image: /wp-content/uploads/2012/07/MG_6626.jpg
-categories:
-  - learning
-  - recipes
-
+tags:
+  - miche
+  - spelt
 ---
 This must be my most successful [miche][1] to date. There are so many recipes inspired by a _pain poilâne_ it&#8217;s hard to keep track of. Jeffrey Hamelman has one in his book BREAD, Peter Reinhart has one in his book Bread Baker&#8217;s Apprentice and in my most recent book I&#8217;ve seen a version from Daniel Leader in &#8220;[local breads][2]&#8220;. I wasn&#8217;t really looking for another miche style French _levain_ bread but wanted to try out different techniques I&#8217;ve found at The Fresh Loaf on **how to get moure sour** out of your sourdough.<figure id="attachment_345" style="width: 500px" class="wp-caption alignleft">
 
@@ -39,7 +38,7 @@ So while I was at it, why not try something new? This is an _adapted_ version f
 <div>
 </div><figure style="width: 150px" class="wp-caption alignleft">
 
-[<img title="_MG_6629.JPG" src="http://lh5.ggpht.com/-arvEocdkjhI/UBGX2W_yMjI/AAAAAAAAGaY/oHYs069juVE/s150-c/_MG_6629.JPG" alt="_MG_6629.JPG" width="150" height="150" />][4]<figcaption class="wp-caption-text">Stretch & folding helps to build structure</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_6614.JPG" src="http://lh3.ggpht.com/-uq4ZJEu32sw/UBGX0TGYbHI/AAAAAAAAGaI/P0RP-DkOI8E/s150-c/_MG_6614.JPG" alt="_MG_6614.JPG" width="150" height="150" />][5]<figcaption class="wp-caption-text">The stiff starter looks a bit more wet now</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_6662.JPG" src="http://lh3.ggpht.com/-TV-7M5uiExI/UBGX3bxs3kI/AAAAAAAAGag/XYKP81A8H38/s150-c/_MG_6662.JPG" alt="_MG_6662.JPG" width="150" height="150" />][6]<figcaption class="wp-caption-text">After Folding the dough</figcaption></figure> 
+<a href="http://lh5.ggpht.com/-arvEocdkjhI/UBGX2W_yMjI/AAAAAAAAGaY/oHYs069juVE/s1024/_MG_6629.JPG"><img title="_MG_6629.JPG" src="http://lh5.ggpht.com/-arvEocdkjhI/UBGX2W_yMjI/AAAAAAAAGaY/oHYs069juVE/s150-c/_MG_6629.JPG" alt="_MG_6629.JPG" width="150" height="150" /></a><figcaption class="wp-caption-text">Stretch & folding helps to build structure</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a href="http://lh3.ggpht.com/-uq4ZJEu32sw/UBGX0TGYbHI/AAAAAAAAGaI/P0RP-DkOI8E/s1024/_MG_6614.JPG"><img title="_MG_6614.JPG" src="http://lh3.ggpht.com/-uq4ZJEu32sw/UBGX0TGYbHI/AAAAAAAAGaI/P0RP-DkOI8E/s150-c/_MG_6614.JPG" alt="_MG_6614.JPG" width="150" height="150" /></a><figcaption class="wp-caption-text">The stiff starter looks a bit more wet now</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a href="http://lh3.ggpht.com/-TV-7M5uiExI/UBGX3bxs3kI/AAAAAAAAGag/XYKP81A8H38/s1024/_MG_6662.JPG"><img title="_MG_6662.JPG" src="http://lh3.ggpht.com/-TV-7M5uiExI/UBGX3bxs3kI/AAAAAAAAGag/XYKP81A8H38/s150-c/_MG_6662.JPG" alt="_MG_6662.JPG" width="150" height="150" /></a><figcaption class="wp-caption-text">After Folding the dough</figcaption></figure> 
 
 <div style="clear: both;">
   <strong>Final dough</strong>

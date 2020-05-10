@@ -10,9 +10,10 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+tags:
+    - broodbakmachine
+    - uitgesteld bakken
+image: /wp-content/uploads/2015/04/MG_0765-1024x683.jpg
 ---
 Lees **eerst** het uitgebreid artikel over [uitgesteld bakken zonder het broodbakmachine][1], de technieken zijn hetzelfde.
   
@@ -30,78 +31,61 @@ Identiek aan [het hoofdrecept][1].
 <th class=' ' >
 ingrediënt
 </th>
-
 <th class=' ' >
 percentage
 </th>
-
 <th class=' ' >
 gewicht voor 1 brood
 </th>
 </tr>
-
 <tr>
 <td >
 witte tarwebloem
 </td>
-
 <td >
 50%
 </td>
-
 <td >
 250gr
 </td>
 </tr>
-
 <tr>
 <td >
 volkorentarwemeel
 </td>
-
 <td >
 50%
 </td>
-
 <td >
 250gr
 </td>
 </tr>
-
 <tr>
 <td >
 water
 </td>
-
 <td >
 72%
 </td>
-
 <td >
 360gr
 </td>
 </tr>
-
 <tr>
 <td >
 <span style="line-height: 1.6471;">zout</td> 
-
 <td >
 2%
 </td>
-
 <td >
 10gr
 </td></tr> 
-
 <tr>
 <td >
 </span><span style="line-height: 1.6471;">voordeeg met desem</td> 
-
 <td >
 20% @ 100% hydratatie
 </td>
-
 <td >
 200gr</span><span style="line-height: 1.6471;"></td> </tr> </tbody></table></div></span></p> 
 
@@ -173,7 +157,7 @@ water
   <li>
     Laat het broodbakmachine je gerezen deeg bakken.<br /> Stel indien mogelijk dit <strong>zo lang mogelijk </strong>in, bij de Panasonic die ik probeerde kan je op &#8220;enkel bakken&#8221; een tijdsspanne ingeven. Ik stelde het op exact 1h in en dat was nét voldoende. Langer = beter!
   </li>
-</ol><figure id="attachment_863" style="width: 660px" class="wp-caption aligncenter">
+</ol>
 
 <a href="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765.jpg"><img class="size-large wp-image-863" src="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-1024x683.jpg" alt="gerezen deeg in het bakblik" width="660" height="440" srcset="https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-1024x683.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2015/04/MG_0765.jpg 1200w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption class="wp-caption-text">gerezen deeg in het bakblik</figcaption></figure> 
 

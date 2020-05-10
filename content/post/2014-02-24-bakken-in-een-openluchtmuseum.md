@@ -3,7 +3,9 @@ title: Bakken in een openluchtmuseum
 author: Wouter
 type: post
 date: 2014-02-24T19:16:06+00:00
-url: /baking-in-an-open-air-museum/
+aliases:
+  - / bakken-in-een-openluchtmuseun/
+  - /baking-in-an-open-air-museum/
 featured_image: /wp-content/uploads/2014/02/2013-07-28-17.46.54.jpg
 al2fb_facebook_image_id:
   - 683
@@ -33,7 +35,6 @@ tags:
   - wood oven
 
 ---
-<figure id="attachment_683" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-683" alt="Demonstraties zuurdesem bakken!" src="https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg" width="300" height="225" srcset="https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-700x525.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">Demonstraties zuurdesem bakken!</figcaption></figure> 
 
 Vorig jaar in de zomer heb ik de kans gehad om in een openluchtmuseum enkele dagen zuurdesem brood te bakken &#8211; bij <a href="http://www.bokrijk.be/" title="bokrijk" target="_blank"></a>. Het merendeel van de bouwwerken dateren van de 17e tot eind 19e eeuw, maar het bakhuis is ouder. Ik had daarvoor nog nooit met een houtoven gewerkt dus ik was erg nieuwschierig en kon niet wachten om te beginnen. Die dagen werden er in Bokrijk een hoop speciale evenementen georganiseerd, inclusief die waar ik deel van uitmaakte &#8211; een heuse demonstratie zuurdesem brood bakken. 
 
@@ -78,9 +79,8 @@ Wanneer het vuur gedoofd is, worden de assen naar achteren in de oven verplaatst
     Doordat ik voldoende voordeeg op voorhand gemaakt had (in een semi verborgen plastieken container&#8230;), kon ik indien nodig met mijn op voorhand uitgedokterde formule spelen en zo nodig het preferment ratio verhogen of verlagen. De eerste dag werkte dit niet zoals verwacht &#8211; het deeg weigerde voldoende te rijzen binnen het te strakke tijdsschema. Bloem en water werd &#8211; op goed geluk en met gevoel, exacte weegschalen had ik niet ter beschikking &#8211; in een echte deeg trog gemengd en gekneed, zoals Nicolas Supiot nog steeds doet:
   </p>
   
-  <p>
-    <iframe width="1160" height="870" src="https://www.youtube.com/embed/zmL1FhkdqUw?feature=oembed&#038;wmode=opaque" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p>
+{{< youtube zmL1FhkdqUw >}}
+
   
   <p>
     Ik schatte 5 kg bloem te gebruiken, dat veel te veel bleek te zijn, aangezien ik &#8211; tot grote frustratie van de toeschouwers &#8211; geen enkel brood mocht weggeven of verkopen, wegens hygiëne. Bokrijk heeft binnen het bakhuisje een toog waar men gebakken brood van <a href="http://www.dewroeter-dagcentrum.be/bestellen/producten-en-diensten/bakkerijproducten" title="De Wroeter"></a> verkoopt &#8211; Bokrijk is dus een &#8220;<a href="http://bakkersvlaanderen.be/faq/wat-is-het-verschil-tussen-een-warme-en-een-koude-bakker" title="koude bakker"></a>&#8220;. Dat verklaart waaorm plaatselijk gebakken brood enkel ter demonstratie dient, spijtig genoeg.

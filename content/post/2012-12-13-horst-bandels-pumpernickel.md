@@ -21,12 +21,10 @@ al2fb_facebook_link_time:
   - 2012-12-13T20:13:58+00:00
 al2fb_facebook_link_picture:
   - meta=http://www.savesourdough.com/wp-content/uploads/2012/12/MG_7825-300x213.jpg
-categories:
-  - recipes
-  - Uncategorized
-
+tags:
+  - rogge
+  - zaadjes
 ---
-<figure id="attachment_546" style="width: 717px" class="wp-caption aligncenter">[<img class=" wp-image-546 " title="_MG_7825" src="https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg" alt="" width="717" height="510" srcset="https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825-300x213.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825-700x498.jpg 700w" sizes="(max-width: 717px) 100vw, 717px" />][1]<figcaption class="wp-caption-text">grof volkoren roggebrood met belegen Brugse kaas</figcaption></figure> 
 
 Als enorm lang een broodje bakken op je verlanglijstje stond maar je tot nu toe geen recept hiervoor vond, zoek niet verder, die _moet je_ eens geprobeerd hebben. Gegeven de bereidheid tot de juiste tijd en liefde hierin te steken natuurlijk! En hiermee bedoel ik niet enkel het bakken zelf. [Pumpernickel brood][2] is een zeer zwaar zwart volkoren rogge brood gebakken in een rechthoekige vorm, of &#8220;pullman pan&#8221;, met een **gesloten deksel**. Dit geeft u die karakteristieke vierkante look bij de sneetjes van het brood.
 

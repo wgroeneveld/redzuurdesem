@@ -5,9 +5,8 @@ type: post
 date: 2012-08-18T20:56:42+00:00
 url: /ciabatta-adventures-2-focaccia/
 featured_image: /wp-content/uploads/2012/08/MG_6716.jpg
-categories:
-  - learning
-
+tags:
+  - pizza
 ---
 After [the first try][1], I wanted to increase the bulk ferment and final proofing times to see what the ciabatta dough would look like if I used this for focaccia, as Mr. Hamelman suggests in his &#8220;BREAD&#8221; book. The result can be seen here.<figure id="attachment_394" style="width: 300px" class="wp-caption aligncenter">
 
@@ -54,8 +53,8 @@ Bulk fermentation time: **three hours**. Final proofing: **one hour**. Since t
   </p>
 </div>
 
- [1]: https://redzuurdesem.be/ciabatta-adventure-1/ "Ciabatta adventure 1"
- [2]: https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6716.jpg
- [3]: https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6717.jpg
- [4]: https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6719.jpg
- [5]: https://redzuurdesem.be/wp-content/uploads/2012/08/MG_6722.jpg
+ [1]: /ciabatta-adventure-1/ "Ciabatta adventure 1"
+ [2]: /wp-content/uploads/2012/08/MG_6716.jpg
+ [3]: /wp-content/uploads/2012/08/MG_6717.jpg
+ [4]: /wp-content/uploads/2012/08/MG_6719.jpg
+ [5]: /wp-content/uploads/2012/08/MG_6722.jpg

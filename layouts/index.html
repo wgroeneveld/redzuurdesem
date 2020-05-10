@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+{{- $bg := ( .Params.image | absLangURL) }}
+<section class='index-title post_header' style = 'height: 75vh; background-image:url({{ $bg }});'>
+	<h1>
+		<a href="/boek">
+			Red<br/>
+			Zuur<br>
+			Desem
+		</a>
+	</h1>
+</section>
+
+<div class='post'>
+<article class='post_content'>
+	<h3>Nu beschikbaar:</h3>
+	<h1><a href="/het-boek">Red Zuurdesem, het boek</a>!</h1>
+	<h2>10 jaar kennis gebundeld in 370 pagina's</h2>
+</article>
+	<blockquote>
+	<p>Red Zuurdesem is een met liefde gebakken boek waarin traag gefermenteerde ideeën uit zowel de praktische als de theoretische wereld met succes worden gecombineerd tot één geurig geheel, rijkelijk belegd met tips en formules om zelf aan de slag te gaan.</p>
+	</blockquote>
+
+	<div style="margin: 0 auto; text-align: center;">
+		<a href="/het-boek#koop"><button>Koop nu!</button></a>
+		<a href="/het-boek#meer"><button>Lees meer</button></a>
+	</div>
+</article>
+</div>
+
+<hr/>
+<div class = 'post post_content'>
+	<h1>
+		<a href="/post">Laatste blogposts</a> &raquo;
+	</h1>
+</div>
+<ul class='posts wrap' id = 'posts'>
+	{{- range first 4 (where .Site.RegularPages "Section" "==" "post") }}
+	  {{ partial "excerpt" . }}
+	{{- end }}
+</ul>
+<div class = 'post post_content'>
+	<h4>
+		<a href="/post">Bekijk alle blogposts</a> &raquo;
+	</h4>
+</div>
+<hr/>
+
+
+<div class = 'post'>
+  <article class='post_content'>
+    {{- .Content }}
+  </article>
+</div>
+<hr/>
+
+
+{{ end }}

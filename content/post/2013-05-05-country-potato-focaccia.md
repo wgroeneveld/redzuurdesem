@@ -23,11 +23,9 @@ al2fb_facebook_link_time:
   - 2013-05-05T19:13:51+00:00
 al2fb_facebook_link_picture:
   - meta=http://www.savesourdough.com/wp-content/uploads/2013/05/MG_8804-300x200.jpg
-categories:
-  - recipes
-
+tags:
+  - pizza
 ---
-<figure id="attachment_627" style="width: 300px" class="wp-caption aligncenter">[<img class="size-medium wp-image-627" title="potato focaccia" alt="potato focaccia" src="https://redzuurdesem.be/wp-content/uploads/2013/05/MG_8804-300x200.jpg" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2013/05/MG_8804-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2013/05/MG_8804-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2013/05/MG_8804.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption class="wp-caption-text">een paar stukken aardappel focaccia</figcaption></figure> 
 
 Hoe veelzijdig kan een brood recept zijn? Volgens Chad Robertson&#8217;s &#8220;Tartine Bread&#8221; boek, _heel_ veelzijdig. Goed brooddeeg kan in geen tijd omgetoverd worden tot een pizza, een focaccia, of zelfs een croissant (met minimale aanpassingen ook een baguette). Hoe meer ik Tartine&#8217;s &#8220;basic country sourdough&#8221; recept probeer, hoe meer ik verliefd word op het hoge hydratatie niveau (nat, zacht deeg) en de lange fermenteer tijd (supervolle smaak). Het moet wel een van de beste broden zijn die ik de afgelopen maanden gebakt heb, misschien zelfs van het hele jaar.
 

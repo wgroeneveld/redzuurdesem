@@ -3,11 +3,12 @@ title: 'Bakken met zuurdesem: een samenvatting'
 author: Wouter
 type: post
 date: 2012-07-13T07:12:14+00:00
-url: /a-quick-primer-on-sourdough-baking/
+aliases:
+  - /a-quick-primer-on-sourdough-baking/
+  - /post/2012-07-13-a-quick-primer-on-sourdough-baking/
 featured_image: /wp-content/uploads/2012/07/scored1.jpg
-categories:
-  - learning
-
+tags:
+  - studeren
 ---
 <div style="display: none;">
   <a href="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg"><img class="aligncenter size-medium wp-image-275" title="scored" src="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -17,7 +18,7 @@ categories:
 
 Los van dat zijn er enkele basisstappen waar elk brood door gaat, onafhankelijk van het recept of van uw bloem type. Ik wil bij deze graag een snelle samenvatting geven rond bakken met zuurdesem. Eens je bekent bent met deze basisprincipes kan je makkelijk je eigen recept creëren en er een eigen stijl aan geven.
 
-# _[ 07:00 AM ] _Stap 1: maak uw voordeeg****
+### [ 07:00 AM ] Stap 1: maak uw voordeeg
 
 Wat is een &#8220;voordeeg&#8221;?
 
@@ -37,7 +38,7 @@ Waarom hebben we maar een beetje van die zuurdesem nodig? Omdat bacteriën tijde
 
 Je kan een **stijf voordeeg** maken of een **vloeibaar voordeeg**. Het enige verschil is de verhouding tussen het water en het bloem in het voordeeg. Een stijf voordeeg is meestal 60% water op bloem ratio of lager, en een vloeibaar deeg wil eenvoudigweg zeggen evenveel water als bloem toevoegen (=100%). Sommige bakkers gebruiken zelfs 125 of 130% Vergeet niet dat volkoren meel meer water opslorpt dan wit bloem &#8211; zo krijg je bij volkoren brood een &#8220;stijver&#8221; deeg, ook al zit er even veel water in dan je gebruikelijke hoeveelheid.
 
-# _[ 07:00 PM ] _Stap 2: meer combineren: het einddeeg maken.
+### [ 07:00 PM ] Stap 2: meer combineren: het einddeeg maken.
 
 Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot het dubbel van de originele grootte). Als je een vloeibaar voordeeg gebruikt is dit makkelijker zichtbaar. Wanneer het voordeeg terug begint te slinken, wil dat zeggen dat de bacteriën zijn uitgewerkt en voeg je best minder van je zuurdesemstarter toe de volgende keer. Anders hebben de bacteriën geen eten meer (= het bloem) en gaat je brood instorten! Dit kan dus enkele oorzaken hebben:<figure style="width: 150px" class="wp-caption alignleft">
 
@@ -49,17 +50,17 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
 <li style="text-align: justify;">
   Omgevingstemperatuur is te hoog: is het zomer misschien??
 </li>
-  1. <span style="text-align: left;">Te lang laten fermenteren</span>
+  1. <span style="text-align: justify;">Te lang laten fermenteren</span>
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
   In ieder geval, hoe langer dat je het laat fermenteren, hoe zuurder het zal worden. Je zal leren hoe je het beste je eigen zuurdesemstarter onder controle kan houden, maar de enige manier is natuurlijk om zoveel mogelijk te bakken, opnieuw en opnieuw!!
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
   Oké, laten we alles combineren in de mengkom. Dit betekent, de volgende dingen combineren:
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
   <ol>
     <li>
       Uw voordeeg
@@ -86,9 +87,9 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
     Simpel. De meeste <strong>rustieke broden</strong> zijn heel nat (en moelijk om mee te werken, dus probeer deze te vermijden als je past begint met brood bakken!) maar de natte degen maken juist heel veel gaatjes als structuur en maken het heel lekker en zacht. Traditionele broden die je meestal bij de bakker koopt, en die gebakken zijn in een rechthoekige tinnen bakvorm, hebben meestal een <strong>50 tot 60%</strong> hydratatie niveau. De foto&#8217;s van het volkoren brood in deze post van mijn &#8220;<a title="Baking your daily bread" href="https://redzuurdesem.be/baking-your-daily-bread/">daily bread</a>&#8221; recept heeft <strong>71%</strong> hydratatie, daarom ziet het er zo plakkerig en nat uit!
   </p>
   
-  <h1>
+  <h3>
     <em>[ 07:01 PM ] </em>Stap 3: kneden. of net niet.
-  </h1>
+  </h3>
   
   <p>
     <a href="http://lh4.ggpht.com/-GRndFj2VHBE/T_suGpiy77I/AAAAAAAAGVQ/tvSOqqNrP7c/s1024/_MG_6431.jpg"><img class="alignleft" title="_MG_6431.jpg" src="http://lh4.ggpht.com/-GRndFj2VHBE/T_suGpiy77I/AAAAAAAAGVQ/tvSOqqNrP7c/s150-c/_MG_6431.jpg" alt="_MG_6431.jpg" width="150" height="150" /></a><a href="http://lh5.ggpht.com/-fvuddElaRvY/T_suHf2cvdI/AAAAAAAAGVU/UMdq75iQpS4/s1024/_MG_6433.jpg"><img class="alignleft" title="_MG_6433.jpg" src="http://lh5.ggpht.com/-fvuddElaRvY/T_suHf2cvdI/AAAAAAAAGVU/UMdq75iQpS4/s150-c/_MG_6433.jpg" alt="_MG_6433.jpg" width="150" height="150" /></a><a title="_MG_6438.jpg" href="http://lh4.ggpht.com/-NCFPmZIaJII/T_suIDEQnsI/AAAAAAAAGVg/wEcEf-9tG50/s1024/_MG_6438.jpg"><img class="alignleft" title="_MG_6438.jpg" src="http://lh4.ggpht.com/-NCFPmZIaJII/T_suIDEQnsI/AAAAAAAAGVg/wEcEf-9tG50/s150-c/_MG_6438.jpg" alt="_MG_6438.jpg" width="150" height="150" /></a> <a title="_MG_6441.jpg" href="http://lh3.ggpht.com/-fdTS0uS8vz8/T_suIwEAI_I/AAAAAAAAGVo/pVTqCvWwmPE/s1024/_MG_6441.jpg"><img class="alignleft" title="_MG_6441.jpg" src="http://lh3.ggpht.com/-fdTS0uS8vz8/T_suIwEAI_I/AAAAAAAAGVo/pVTqCvWwmPE/s150-c/_MG_6441.jpg" alt="_MG_6441.jpg" width="150" height="150" /></a> <a title="_MG_6443.jpg" href="http://lh3.ggpht.com/-qQ_H9cq8yAU/T_suJuyFB-I/AAAAAAAAGVw/_q-5fW1ZfPs/s1024/_MG_6443.jpg"><img class="alignleft" title="_MG_6443.jpg" src="http://lh3.ggpht.com/-qQ_H9cq8yAU/T_suJuyFB-I/AAAAAAAAGVw/_q-5fW1ZfPs/s150-c/_MG_6443.jpg" alt="_MG_6443.jpg" width="150" height="150" /></a>
@@ -127,9 +128,8 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
     Deze video demonstreet de &#8220;stretch & fold&#8221; techniek voor natte degen.
   </div>
   
-  <p>
-    <iframe width="1160" height="870" src="https://www.youtube.com/embed/9oyg8K6J8QM?feature=oembed&#038;wmode=opaque" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p><figure style="width: 150px" class="wp-caption alignright">
+{{< youtube 9oyg8K6J8QM >}}
+
   
   <a title="_MG_6464.jpg" href="http://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s1024/_MG_6464.jpg"><img title="_MG_6464.jpg" src="http://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s150-c/_MG_6464.jpg" alt="_MG_6464.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Stretch & folded het deeg na french folden.</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a title="_MG_6446.jpg" href="http://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s1024/_MG_6446.jpg"><img title="_MG_6446.jpg" src="http://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s150-c/_MG_6446.jpg" alt="_MG_6446.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Na 5 minuten french folden ziet het deeg er mooier uit!</figcaption></figure> 
   
@@ -153,9 +153,9 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
     Na deze stap doen we het deeg in een container (met deksel om korstvorming tegen te gaan) en laten we het de eerste rijs door gaan, &#8220;bulk fermentatie&#8221;.
   </p>
   
-  <h1>
+  <h3>
     <em>[ 07:06 PM ] </em>Stap 4: eerste rijs
-  </h1>
+  </h3>
   
   <p>
     Fermentatie van het finaal deeg gebeurt in twee fasen: fase één heet <strong>&#8220;bulk fermentatie</strong>&#8221; (eerste rijs) en fase twee heet <strong>&#8220;final proofing</strong>&#8221; of &#8220;tweede rijs&#8221; &#8211; gedaan na het vormgeven van het deeg. De eerste stap dient voornamelijk voor de ontwikkeling van de <em>smaak</em>, de tweede stap voor het rijzen naar de gewenste <em>grootte</em>. Deze stap is heel gemakkelijk &#8211; in feite hoef je helemaal niets te doen buiten geduldig wachten! Een typische eerste rijs voor een rustiek brood met zuurdesem duurt veel langer omdat de gistcellen trager zijn en complexer in elkaar zitten dan wanneer commerciële gist gebruikt wordt.
@@ -165,9 +165,9 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
     Dit duurt meestal 2 tot 3 uur op kamertemperatuur. Herinner u dat hoe langer het duurt, hoe meer smaak het brood heeft. Een handig trucje dat je kan toepassen is het deeg in de frigo steken! Hierdoor kan je het proces verlengen tot 24 uur of langer. Het hangt af van de omgevingstemperatuur, het type bloem en het hydratatie niveau. Opnieuw, wanneer er geen gluten gevormd dient te worden (rogge brood), kan deze stap ook verkort worden &#8211; laten we zeggen, maximum 2 uur.
   </p>
   
-  <h1>
+  <h3>
     <em>[ 09:00 PM ] </em>Stap 5: vormen
-  </h1><figure style="width: 150px" class="wp-caption alignleft">
+  </h3><figure style="width: 150px" class="wp-caption alignleft">
   
   <a title="_MG_6446.jpg" href="http://lh6.ggpht.com/-wwljMCiI8cs/T_suOr9IFwI/AAAAAAAAGWI/Dz2Ub-7QnGg/s1024/_MG_6465.jpg"><img title="_MG_6465.jpg" src="http://lh6.ggpht.com/-wwljMCiI8cs/T_suOr9IFwI/AAAAAAAAGWI/Dz2Ub-7QnGg/s150-c/_MG_6465.jpg" alt="_MG_6465.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">voorgevormd in batârds</figcaption></figure> 
   
@@ -201,13 +201,12 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
     Het is heel moeilijk om uit te leggen hoe je precies een stukje deeg nu het best een vorm geeft &#8211; zeker omdat dit de grootste uitdaging is in brood bakken en jaren ervaring vraagt. Daarom is het misschien makkelijk om even naar een video te kijken en op die manier wat bij te leren:
   </p>
   
-  <p>
-    <iframe width="1160" height="653" src="https://www.youtube.com/embed/pmTPL2J8OZk?feature=oembed&#038;wmode=opaque" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p>
+{{< youtube pmTPL2J8OZk >}}
+
   
-  <h1>
+  <h3>
     <em>[ 09:30 PM ] </em>Stap 6: tweede rijs
-  </h1>
+  </h3>
   
   <p>
     Dit is een andere &#8220;wacht en wacht en wacht&#8230;&#8221; stap. Wanneer je je broden op de juiste manier vorm gegeven hebt, zullen ze mooi naar boven rijzen. Let op dat je het niet te lang laat rijzen! Dit wordt ook wel &#8220;<em>overproofing</em>&#8221; genoemd. Dit kan zijn doordat het te warm is, of doordat het te lang duurde voordat het brood in de oven ging. In dat geval zal het &#8220;plat&#8221; vallen in de oven en niet goed meer rijzen.
@@ -223,9 +222,9 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
     Het &#8220;proofen&#8221; (tweede rijs) kan bijvoorbeeld met een kamertemperatuur van 20°C 1.5 tot 2 uur lang zijn. Dit kan gereduceerd worden door het in een half voorverwarmde oven te laten staan (30-40°C bijvoorbeeld). Dit is meestal <em>geen goed idee</em> &#8211; herinner u: hoe langer het gehele proces, hoe meer smaak! Je kan ook de tweede rijs opnieuw laten doorgaan in de frigo &#8211; ik heb hier wat experimenten rond gedaan (klik hier: <a title="Baking your daily bread" href="https://redzuurdesem.be/baking-your-daily-bread/">experiment with them as I did</a> )
   </p>
   
-  <h1>
+  <h3>
     <em>[ 11:30 PM ] </em>Stap 7: inkerven en bakken
-  </h1>
+  </h3>
   
   <p>
     Wow het is laat! Misschien zouden we eerder moeten beginnen de volgende keer&#8230;
@@ -255,9 +254,8 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
     Een video kan dit misschien ook beter uitleggen:
   </p>
   
-  <p>
-    <iframe width="1160" height="870" src="https://www.youtube.com/embed/iYl5mCqY_L8?feature=oembed&#038;wmode=opaque" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p><figure style="width: 150px" class="wp-caption alignleft">
+{{< youtube iYl5mCqY_L8 >}}
+
   
   <a title="_MG_6478.jpg" href="http://lh3.ggpht.com/-AAIykhweU50/T_suSALjt-I/AAAAAAAAGWo/nOwyGd3T3fY/s1024/_MG_6478.jpg"><img title="_MG_6478.jpg" src="http://lh3.ggpht.com/-AAIykhweU50/T_suSALjt-I/AAAAAAAAGWo/nOwyGd3T3fY/s150-c/_MG_6478.jpg" alt="_MG_6478.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Na het inkerven. Te diep en niet schuin genoeg!</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a title="_MG_6480.jpg" href="http://lh6.ggpht.com/-dxNemr_nKrA/T_suS_Y7NKI/AAAAAAAAGWw/FwD4CRhttnI/s1024/_MG_6480.jpg"><img title="_MG_6480.jpg" src="http://lh6.ggpht.com/-dxNemr_nKrA/T_suS_Y7NKI/AAAAAAAAGWw/FwD4CRhttnI/s150-c/_MG_6480.jpg" alt="_MG_6480.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Een closeup van de gaatjes veroorzaakt door het fermenteren van de zuurdesem.</figcaption></figure> 
   

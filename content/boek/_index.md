@@ -1,30 +1,20 @@
 ---
-menuTitle: "Red Zuurdesem: het boek"
 chapter: true
-title: "Red Zuurdesem: het boek"
+title: "Het Boek"
 date: 2020-04-26
-pre: "<i class='fas fa-book-open'></i> "
+image: /images/boekcover.jpg
 ---
 
-<style>
-#top-bar-sticky-wrapper {
-    display: none;
-}
-</style>
+# [Red Zuurdesem: Het Boek](/het-boek)
 
+## 10 jaar kennis gebundeld in 370 pagina's
 
-<div class="boek-row" style="padding-top: 30px;">
-    <div class="boek-col-left">
-        <h1>Red Zuurdesem<br/> Het Boek</h1>
-        <h3>10 jaar kennis gebundeld in 370 pagina's</h3>
-        
-        <a href="/het-boek">
-            <button>Ontdek het boek &nbsp;&nbsp;<i class="far fa-arrow-alt-circle-right"></i></button>
-        </a>
-    </div>
-    <div class="boek-col-right">
-        <a href="/het-boek">
-            <img src="/het-boek/assets/img/efebdc275ac3846de132613bafc09033.png" />
-        </a>
-    </div>
-</div>
+> Red Zuurdesem is een met liefde gebakken boek waarin traag gefermenteerde ideeën uit zowel de praktische als de theoretische wereld met succes worden gecombineerd tot één geurig geheel, rijkelijk belegd met tips en formules om zelf aan de slag te gaan.
+
+<center>
+<a href="/het-boek">
+    <img src="/het-boek/assets/img/efebdc275ac3846de132613bafc09033.png" style="-webkit-box-shadow: 6px 6px 3px 0px rgba(0,0,0,.75); -moz-box-shadow: 6px 6px 3px 0px rgba(0,0,0,.75); box-shadow: 6px 6px 3px 0px rgba(0,0,0,.75);" /><br/>
+Ontdek het boek &raquo;
+</a>
+
+</center>

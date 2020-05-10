@@ -1,5 +1,5 @@
 ---
-title: 8/2015 – alternatief recept
+title: 8/2015 – rogge met Detmolder methode
 author: Wouter
 type: post
 date: 2015-08-30T09:17:42+00:00
@@ -10,9 +10,9 @@ al2fb_facebook_exclude_video:
   - 1
 comment_images_toggle:
   - enable
-categories:
-  - Desem doos recepten
-
+image: /wp-content/uploads/2015/08/MG_6545.jpg
+tags:
+    - rogge
 ---
 ### Het een beetje complexer maken&#8230;
 
@@ -118,8 +118,6 @@ Wat men oogt te bereiken is een redelijk simpel proces om zo veel mogelijk smaak
   </table>
 </div>
 
-&nbsp;<figure id="attachment_927" style="width: 800px" class="wp-caption aligncenter">
-
 [<img class="size-full wp-image-927" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg" alt="Donker aromatisch roggebrood" width="800" height="447" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][4]<figcaption class="wp-caption-text">Donker aromatisch roggebrood</figcaption></figure> 
 
 Deze indeling vereist wat toelichting:
@@ -158,7 +156,7 @@ Voor 100gr:
   
 50gr meel, 100gr water &#8211; dit is 150% hydratatie dan.
   
-Voeg je 70gr ververste desem van fase 2 toe.<figure id="attachment_926" style="width: 800px" class="wp-caption aligncenter">
+Voeg je 70gr ververste desem van fase 2 toe.
 
 [<img class="size-full wp-image-926" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg" alt="Plakkerig roggedeeg" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6518.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6518-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][6]<figcaption class="wp-caption-text">Plakkerig roggedeeg</figcaption></figure> 
 
@@ -174,7 +172,7 @@ Je zou op dit punt over 170gr zeer aromatisch deeg moeten beschikken dat hopelij
 
 Dat zou dan op 100% hydratatie moeten uitkomen, aangezien we 130gr water van de voorgaande fases hebben gebruikt en 100gr meel.
 
-Na deze fase kan je na slechts een uur het natte beslag in de vorm te laten rijzen het brood reeds bakken omdat je voordeeg zo aromatisch en actief is. Meng simpelweg alle ingrediënten samen en stort dit uit in de bijgeleverde cakevorm.<figure id="attachment_925" style="width: 800px" class="wp-caption aligncenter">
+Na deze fase kan je na slechts een uur het natte beslag in de vorm te laten rijzen het brood reeds bakken omdat je voordeeg zo aromatisch en actief is. Meng simpelweg alle ingrediënten samen en stort dit uit in de bijgeleverde cakevorm.
 
 [<img class="size-full wp-image-925" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg" alt="roggedeeg mengen" width="800" height="534" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6514.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6514-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][7]<figcaption class="wp-caption-text">roggedeeg mengen</figcaption></figure> 
 

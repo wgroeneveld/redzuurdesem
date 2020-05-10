@@ -1,13 +1,14 @@
 ---
-title: Gedroogd desem terug activeren
+title: Gedroogde desem opnieuw activeren
 author: Wouter
 type: post
 date: 2012-11-29T18:49:28+00:00
-url: /reactivating-a-dried-starter/
+aliases:
+    - /reactivating-a-dried-starter/
+    - /post/2012-11-29-reactivating-a-dried-starter/
 featured_image: /wp-content/uploads/2012/11/activeren_gedroogd_desem.odt.jpg
-categories:
-  - learning
-
+tags:
+  - starter
 ---
 Proficiat, je bent nu trotse eigenaar van enkele miljoenen diep slapende bacteriëren! **Hoe** kunnen we nu dit gedroogd desem terug **wakker maken**? Zuurdesem bestaat uit bloem & water dat dagen lang gefermenteerd werd. Hierdoor kwamen de gistcellen die op de granen zitten tot leven en eten ze door de koolhydraten die in het bloem zitten.<figure id="attachment_497" style="width: 640px" class="wp-caption aligncenter">
 
