@@ -1,0 +1,40 @@
+
+{{- if isset .Params "image" }}
+  {{- $bg := ( .Params.image | absLangURL) }}
+  <section class = 'post_header' style = 'background-image:url({{ $bg }});'>
+  </section>
+{{- else }}
+  <section style='padding: 2rem'></section>
+{{- end}}
+
+{{ if eq .Paginator.PageNumber 1 }}
+<div class = 'post'>
+  <article class='post_content'>
+    {{- .Content }}
+  </article>
+</div>
+<hr/>
+{{ end }}
+
+{{ if eq .Paginator.TotalPages 0 }}
+  <section style='padding: 2rem'></section>
+{{ else }}
+  <div class = 'post'>
+    <h1>
+      {{- if isset .Params "posttitle" }}
+        {{ .Params.posttitle }}
+      {{- else }}
+        {{ i18n "moreFrom" .Site.Title }}
+      {{- end }}
+      <span class='pages'>({{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }})</span> &raquo;
+    </h1>
+  </div>
+  <ul class='posts wrap' id = 'posts'>
+    {{- range (.Paginate .Pages).Pages }}
+      {{ partial "excerpt" . }}
+    {{- end }}
+  </ul>
+{{ end }}
+
+{{- template "_internal/pagination.html" . }}
+

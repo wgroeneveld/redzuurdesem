@@ -1,0 +1,66 @@
+[designed_by]
+  other = "Ontworpen door  <a href = '{{ .url }}' title = 'Linkedin Profile'>{{ .name }}</a>"
+[share_story]
+  other = "Deel artikel"
+[link_copied]
+  other = "Link gekopieerd!"
+[written_by]
+  other = "Geschreven door"
+[btnReset]
+  other = "Reset"
+[btnSubmit]
+  other = "Verzend"
+[btnSubmitted]
+  other = "Verzonden"
+[comment]
+  other = "Commentaar"
+[noComment]
+  other = "Geen commentaar"
+[email]
+  other = "Email"
+[name]
+  other = "Naam"
+[typeInComment]
+  other = "Schrijf hier je commentaar..."
+[moreDay]
+  other = "DAGEN"
+[moreHr]
+  other = "UREN"
+[moreMin]
+  other = "MINS"
+[moreMonth]
+  other = "MAANDEN"
+[moreWk]
+  other = "WEKEN"
+[moreYr]
+  other = "JAREN"
+[oneDay]
+  other = "DAG"
+[oneHr]
+  other = "UUR"
+[oneMin]
+  other = "MIN"
+[oneMonth]
+  other = "MAAND"
+[oneWk]
+  other = "WEEK"
+[oneYr]
+  other = "JAAR"
+[timeAgoStr]
+  other = "${timeAgo}&nbsp;${timeTag} GELEDEN"
+[close]
+  other = "Sluiten"
+[successTitle]
+  other = "Review submitted"
+[successMsg]
+  other = "Thanks for your review! It will be shown on the site once it has been approved."
+[errTitle]
+  other = "Error"
+[errMsg]
+  other = "Sorry, there was an error with the submission!"
+[moreFrom]
+  other = "Meer lezen:"
+[discard]
+  other = "discard"
+[discardComment]
+  other = "Discard Comment"

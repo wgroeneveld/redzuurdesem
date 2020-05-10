@@ -1,0 +1,217 @@
+.post_metadata
+
+  h1, h3
+    text-align: center !important
+
+  h3
+    color: gray
+    font-size: 1.2rem
+    width: 100%
+
+  svg
+    width: 1rem
+    height: 1rem
+    fill: var(--theme)
+
+  hr
+    width: 100%
+    background-color: var(--theme)
+
+.post
+  @extend %narrow
+  padding: 1rem 1.5rem
+  margin-top: 1.5rem
+  h1,h2,h3,h4,h5,h6
+    margin: 1rem auto
+    text-align: left
+    text-transform: initial
+    padding: 0.25rem 0 0 0
+  
+  p
+    padding-bottom: 0.5rem
+    padding-top: 0.5rem
+    font-size: 1.05rem
+  
+  &s
+    display: flex
+    justify-content: space-between
+    flex-flow: row wrap
+    width: 100%
+    align-items: stretch
+  
+  &s:not(.aside) 
+    padding: 0 30px
+  
+  &_content
+    h4
+      margin: 5px 0
+      text-align: left
+    p
+      line-height: 1.65
+      &:first-child
+        margin-top: 0
+        padding-top: 0
+    a:not(.link)
+      border-bottom: 2px solid var(--theme)
+      &:hover
+        opacity: 0.7
+
+    ol, ul 
+      padding: 0.5rem 0 0.5rem 1.2rem
+      // list-style-type: initial
+    li 
+      padding: 0.33rem 0
+  &_header
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+    
+    background-attachment: fixed;
+
+    position: relative
+    height: 48vh
+    min-height: 360px
+    margin-top: 60px
+    padding: 30px
+    
+  &_copy 
+    opacity: 0
+    transition: opacity 0.3s ease-out
+  
+  &_item
+    @include shadow
+    margin: 1.25rem 0
+    border-radius: 10px
+    overflow: hidden
+    width: 100%
+    @media screen and (min-width:667px) 
+      width: 47%
+
+  &_item:hover &_copy
+    opacity: 1
+  
+  &_link
+    padding: 2.5px 0
+    font-size: 1.25em
+    margin: 2.5px 0
+    text-align: left
+  
+  &_meta 
+    overflow: hidden
+    opacity: 0.8
+    font-size: 0.84rem
+    font-weight: 500
+    display: inline-grid
+    grid-template-columns: auto 1fr
+    background-color: var(--light)
+    padding: 0
+    align-items: center
+    border-radius: 0.3rem
+    color: var(--dark)
+    text-transform: capitalize
+    a 
+      &:hover 
+        color: var(--theme)
+        text-decoration: underline
+        opacity: 0.9
+
+  &_extra 
+    display: flex
+    justify-content: flex-end
+  
+  &_tag 
+    font-size: 0.75rem !important
+    font-weight: 500
+    background: var(--theme)
+    color: var(--light)
+    padding: 0.25rem 0.67rem !important
+    text-transform: uppercase
+    display: inline-flex
+    border-radius: 5px
+  
+  &_title
+    text-align: center
+    font-size: 2.5rem
+    @extend %narrow
+  
+  &_author 
+    padding: 0.2rem 0.75rem
+    a 
+      color: var(--theme)
+      text-decoration: underline
+    
+  &_time 
+    background: var(--theme)
+    display: inline-grid
+    padding: 0.2rem 0.75rem
+    color: var(--light)
+  
+  &_card 
+    display: block
+    position: relative
+    background-color: var(--dark)
+    border-radius: 0.5rem 0.5rem 0 0
+    background-size: cover
+    background-position: center
+    overflow: hidden
+    height: 10rem
+    &::after 
+      content: ''
+      position: absolute
+      left: 0
+      right: 0
+      bottom: 0
+      top: 0
+      z-index: 1
+
+    &:hover::after 
+      background-color:rgba(0,0,0,0.3)
+    
+  &_thumbnail 
+    width: 100%
+    margin: 0
+
+.pager 
+  display: flex
+  justify-content: center
+  align-content: center
+  margin: 30px auto 0 auto
+  padding: 0 1.5rem
+  overflow: scroll
+  &, &_link 
+    justify-content: center
+    align-items: center
+  
+  &_link
+    display: flex
+    background-color: var(--theme)
+    color: var(--light)
+    &:hover 
+      opacity: 0.5
+  &_item, &_link
+    height: 36px
+    width: 36px
+    border-radius: 50%
+  &_item
+    margin-left: 5px
+    margin-right: 5px
+    margin-bottom: 30px
+    // overflow: hidden
+    &:first-child, &:last-child
+      display: none
+      
+    &.active, &.disabled
+      opacity: 0.5
+  
+.excerpt
+  padding: 0 10px 1.5rem 10px
+  position: relative
+  z-index: 1
+  &_meta 
+    display: flex
+    justify-content: space-between
+    align-items: center
+    transform: translateY(-2.5rem)
+    position: relative
+    z-index: 5
+  

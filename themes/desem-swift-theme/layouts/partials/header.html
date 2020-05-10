@@ -1,0 +1,19 @@
+<header class = 'nav' >
+<a href='{{ absURL "" }}'>
+	<img src="{{ .Site.Params.logo }}" id="logo" />
+</a>
+  <nav class = 'nav-menu'>
+    <a href='{{ absURL "" }}' class = 'nav-brand nav_item'>
+    	{{ .Site.Title }}
+    </a>
+
+    {{- range .Site.Data.menu }}
+      <a href = '{{ absURL .url }}' class = 'nav_main_item nav_item'>{{ .item }}</a>
+    {{- end }}
+
+
+    <div class = 'nav_bar-wrap'>
+      <div class = 'nav_bar'></div>
+    </div>
+  </nav>
+</header>

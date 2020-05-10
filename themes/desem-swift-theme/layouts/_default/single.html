@@ -1,0 +1,45 @@
+{{- define "main" }}
+{{- $scratch := newScratch }}
+{{- if isset .Params "image" }}
+  {{- $scratch.Set "image" .Params.image }}
+{{- else }}
+  {{- if isset .Params "featured_image" }}
+    {{- $scratch.Set "image" .Params.featured_image }}
+  {{- else }}
+    {{ $scratch.Set "image" "thumbnail.svg" }}
+  {{- end }}
+{{- end }}
+{{- $image := $scratch.Get "image" }}
+{{- $bg := ( $image | absLangURL) }}
+<section class = 'post_header' style = 'background-image:url({{ $bg }});'>
+</section>
+<div class = 'post'>
+  <div class='post_metadata'>
+    <hr/>
+    <h1 class='post_title'>{{ .Title }}</h1>
+    <h3>
+      <svg>
+        <use xlink:href="#calendar"></use>
+      </svg>  
+      {{ .Lastmod.Format (.Site.Params.dateFormat | default "2 January 2006") }}
+    </h3>
+    <hr/>
+  </div>
+  <article class='post_content'>
+    {{- .Content }}
+    <div class = 'post_extra'>
+      {{- partial "copy" . }}
+    </div>
+    {{- partial "author" . }}
+  </article>
+  {{- if .Site.Params.Staticman }}
+    {{- partial "comments" . }}
+  {{- end }}
+  <aside>
+    {{- partial "aside" . }}
+  </aside>
+</div>
+<script src = '{{ absURL "js/autosize.min.js" }}'></script>
+{{- $timeagoScr := resources.Get "js/timeago.js" | resources.ExecuteAsTemplate "js/timeago.js" . }}
+<script src = '{{ $timeagoScr.Permalink }}'></script>
+{{- end }}

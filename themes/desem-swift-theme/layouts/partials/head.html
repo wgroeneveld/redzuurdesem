@@ -1,0 +1,35 @@
+<head>
+  <title>{{ with .Title }}{{ humanize . }} | {{ end }}{{ .Site.Title }}</title>
+  <meta charset='utf-8'>
+  {{ hugo.Generator }}
+  {{- with .Site.Params.ga_verify }}
+  <meta name="google-site-verification" content="{{ . }}" />
+  {{- end }}
+  <meta name = 'viewport' content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>
+  <meta http-equiv = 'X-UA-Compatible' content = 'IE=edge'>
+  {{- if (ne hugo.Environment "development") }}
+  {{ partial "google-analytics-anonymous.html" . }}
+  {{- end }}
+
+  {{- partial "opengraph" . }}
+  {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "post") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+
+  {{ if $related }}
+    {{ range $related }}
+      <meta property="og:see_also" content="{{ .Permalink }}" />
+    {{ end }}
+  {{ end }}
+  <meta property="article:published_time" content="{{ .PublishDate }}" />
+  <meta property="article:modified_time" content="{{ .Date }}" />
+  <meta property="article:section" content="{{ .Section }}" />
+  {{ with .Params.tags }}{{ range first 6 . }}
+    <meta property="article:tag" content="{{ . }}" />
+  {{ end }}{{ end }}
+
+  <link rel="icon" href="/images/favicon.png" type="image/png">
+  <link rel='canonical' href='{{ .Permalink }}'>
+  {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
+  {{- $styles := resources.Get "sass/main.sass" | resources.ExecuteAsTemplate "main.sass" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
+  <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}'>
+  <link href="https://fonts.googleapis.com/css2?family=Signika:wght@700&display=swap" rel="stylesheet">  
+</head>
