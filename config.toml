@@ -27,3 +27,12 @@ home = [ "HTML", "RSS" ]
   extensionsmask = ["fencedCode"]
   fractions = false
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

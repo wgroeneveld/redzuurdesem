@@ -50,7 +50,7 @@ Laat de desem gedurende de nacht rijzen (de keukentempreatuur hier is 19°C &#82
 Bestrijk de korst met gesmolten boter zodra het brood uit de oven komt. Geen eieren zijn geklutst tijdens deze stage!
 
 
-<p><a href="http://lh4.ggpht.com/-MZ9MqqnWZY4/UVnQ4nusNfI/AAAAAAAAGzE/k4-C7LuUwVE/s1024/_MG_8556.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5861946061155481074" title="" ><img src="http://lh4.ggpht.com/-MZ9MqqnWZY4/UVnQ4nusNfI/AAAAAAAAGzE/k4-C7LuUwVE/w400-o/_MG_8556.JPG" alt="_MG_8556.JPG" title="" class="alignleft pe2-photo"  /></a> <a href="http://lh6.ggpht.com/-M9WippI_wpU/UVnQ5cRHZcI/AAAAAAAAGzM/hf7IuAqWHnM/s1024/_MG_8559.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5861946075258512834" title="" ><img src="http://lh6.ggpht.com/-M9WippI_wpU/UVnQ5cRHZcI/AAAAAAAAGzM/hf7IuAqWHnM/w400-o/_MG_8559.JPG" alt="_MG_8559.JPG" title="" class="alignleft pe2-photo"  /></a></p>
+<p><a href="http://lh4.ggpht.com/-MZ9MqqnWZY4/UVnQ4nusNfI/AAAAAAAAGzE/k4-C7LuUwVE/s1024/_MG_8556.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5861946061155481074" title="" ><img src="https://lh4.ggpht.com/-MZ9MqqnWZY4/UVnQ4nusNfI/AAAAAAAAGzE/k4-C7LuUwVE/w400-o/_MG_8556.JPG" alt="_MG_8556.JPG" title="" class="alignleft pe2-photo"  /></a> <a href="http://lh6.ggpht.com/-M9WippI_wpU/UVnQ5cRHZcI/AAAAAAAAGzM/hf7IuAqWHnM/s1024/_MG_8559.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5861946075258512834" title="" ><img src="https://lh6.ggpht.com/-M9WippI_wpU/UVnQ5cRHZcI/AAAAAAAAGzM/hf7IuAqWHnM/w400-o/_MG_8559.JPG" alt="_MG_8559.JPG" title="" class="alignleft pe2-photo"  /></a></p>
   
 <h3>
     Variaties

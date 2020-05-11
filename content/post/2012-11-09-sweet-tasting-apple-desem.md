@@ -11,7 +11,7 @@ tags:
 
 Doesn&#8217;t this look amazing? I&#8217;ve read great things about using &#8220;**yeast water**&#8221; at [The Fresh Loaf][2] which is basically _anything_ fermented with water. You can even use certain vegetables. Or tea. According to Wikipedia, tea combined with honey is a popular fermentation tool &#8211; something like Kefir and the like. You do know that yogurt is also made by slowly fermenting milk, right? The longer you ferment things, the more tasty they get (or the more &#8220;tang&#8221; they have, which might not appeal to everyone).
 
-[<img class="alignleft" title="_MG_7286.JPG" src="http://lh3.ggpht.com/-JhdiB3xraZU/UJ1Z01-6hUI/AAAAAAAAGpE/FwjZmwwg4oE/s150-c/_MG_7286.JPG" alt="_MG_7286.JPG" width="150" height="150" />][3]My girlfriends uncle has an apple orchard. They are &#8220;organic&#8221; meaning no insecticides are used (and no pruning either, they&#8217;re full-grown trees). I simply cut up one apple, added some water and left it for a few days. Some bubbles start appearing and after a while, the apples start releasing a purgent smell. This indicates that the fermentation process has been started. You can &#8220;refresh&#8221; your water yeast by simply replacing some old apple pieces with new ones.
+[<img class="alignleft" title="_MG_7286.JPG" src="https://lh3.ggpht.com/-JhdiB3xraZU/UJ1Z01-6hUI/AAAAAAAAGpE/FwjZmwwg4oE/s150-c/_MG_7286.JPG" alt="_MG_7286.JPG" width="150" height="150" />][3]My girlfriends uncle has an apple orchard. They are &#8220;organic&#8221; meaning no insecticides are used (and no pruning either, they&#8217;re full-grown trees). I simply cut up one apple, added some water and left it for a few days. Some bubbles start appearing and after a while, the apples start releasing a purgent smell. This indicates that the fermentation process has been started. You can &#8220;refresh&#8221; your water yeast by simply replacing some old apple pieces with new ones.
 
 I had no idea when this yeast would be ready to fully leaven a bread. And how long it would take &#8211; meaning the (bulk) fermentation time, I&#8217;m used to while using classic rye or wheat sourdough. So I came up with a recipe to try it out after some small successes (trying to combine some yeast water with flour and seeing what happens).
 
@@ -24,7 +24,7 @@ I had no idea when this yeast would be ready to fully leaven a bread. And how lo
 
 **final dough**<figure style="width: 300px" class="wp-caption alignright">
 
-[<img title="apple yeast" src="http://lh5.ggpht.com/-B3lxGGZaqDM/UJ1Z22agSkI/AAAAAAAAGpU/lYk5L4o7ghM/s300-c/_MG_7290.JPG" alt="apple yeast" width="300" height="300" />][4]<figcaption class="wp-caption-text">apple yeast</figcaption></figure> 
+[<img title="apple yeast" src="https://lh5.ggpht.com/-B3lxGGZaqDM/UJ1Z22agSkI/AAAAAAAAGpU/lYk5L4o7ghM/s300-c/_MG_7290.JPG" alt="apple yeast" width="300" height="300" />][4]<figcaption class="wp-caption-text">apple yeast</figcaption></figure> 
 
   * 300gr spelt flour
   * 100gr wholerye flour

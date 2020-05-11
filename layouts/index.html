@@ -63,36 +63,10 @@
 	</h1>
 </div>
 <ul class='posts wrap' id = 'fbposts'>
+	<li><div class="lds-facebook"><div></div><div></div><div></div></div> Bezig met laden... </li>
 </ul>
 <script>
-	window.fbAsyncInit = function() {
-		var fbposts = document.querySelector('#fbposts');
-		function whoops(error) {
-			console.log(error);
-			fbposts.innerHTML = "<li>Er is iets misgelopen bij het ophalen van Facebook posts.</li>";
-		}
-		function parseFeed(response) {
-			if(response && !response.error) {
-				var html = "";
-
-				response.data.forEach(function(elem) {
-					var id = elem.id.substring(elem.id.indexOf('_') + 1, elem.id.length);
-					html += "<li class = 'post_item'><div class='fb-post' data-href='https://www.facebook.com/redzuurdesem/posts/" + id + "'></div></li>";
-				});
-
-				fbposts.innerHTML = html;
-				FB.XFBML.parse(fbposts);
-			} else {
-				whoops(response.error);
-			}
-		}
-
-		try {
-			FB.api("/redzuurdesem/feed?limit=4&access_token={{ .Site.Params.fbtoken }}", parseFeed);
-		} catch(e) {
-			whoops(e);
-		}
-	}
+window.fbtoken = "{{ .Site.Params.fbtoken }}";
 </script>
 
 <div class = 'post post_content'>

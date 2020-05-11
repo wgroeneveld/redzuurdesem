@@ -9,5 +9,6 @@
 {{- $mainScriptPath := "js/index.js" }}
 {{- $scripts := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
 <script src = '{{ $scripts.Permalink }}'></script>
+<script src = '/js/redzuurdesem.js'></script>
 <div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/nl_BE/sdk.js#xfbml=1&version=v3.2"></script>

@@ -40,7 +40,7 @@ tags:
 Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een heel hoofdstuk aan het speciale brood en zijn afkomst gewijd heeft. Alleen is er een probleempje: het is niet zo gemakkelijk om aan durumtarwe bloem te geraken. Griesmeel, geen probleem &#8211; wij eten allemaal graag pap, net als onze Noorderburen. Maar durumtarwe is fijngemalen griesmeel en wordt veel voor pasta&#8217;s (en ook broden in fijnere vorm) gebruikt.
 
 
-<p><a href="http://lh4.ggpht.com/-Jraz-DIR0eM/Uf_pZAQI2tI/AAAAAAAAAGM/n6KEBgUyCRQ/s1024/_MG_9127.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697851907070674" title="" ><img src="http://lh4.ggpht.com/-Jraz-DIR0eM/Uf_pZAQI2tI/AAAAAAAAAGM/n6KEBgUyCRQ/w400-o/_MG_9127.JPG" alt="_MG_9127.JPG" title="" class="alignleft pe2-photo"  /></a> <a href="http://lh3.ggpht.com/-RoSYy83owIo/Uf_paCZzzPI/AAAAAAAAAGU/jrU-rq3uY20/s1024/_MG_9128.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697869664374002" title="" ><img src="http://lh3.ggpht.com/-RoSYy83owIo/Uf_paCZzzPI/AAAAAAAAAGU/jrU-rq3uY20/w400-o/_MG_9128.JPG" alt="_MG_9128.JPG" title="" class="alignleft pe2-photo"  /></a></p>
+<p><a href="http://lh4.ggpht.com/-Jraz-DIR0eM/Uf_pZAQI2tI/AAAAAAAAAGM/n6KEBgUyCRQ/s1024/_MG_9127.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697851907070674" title="" ><img src="https://lh4.ggpht.com/-Jraz-DIR0eM/Uf_pZAQI2tI/AAAAAAAAAGM/n6KEBgUyCRQ/w400-o/_MG_9127.JPG" alt="_MG_9127.JPG" title="" class="alignleft pe2-photo"  /></a> <a href="http://lh3.ggpht.com/-RoSYy83owIo/Uf_paCZzzPI/AAAAAAAAAGU/jrU-rq3uY20/s1024/_MG_9128.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697869664374002" title="" ><img src="https://lh3.ggpht.com/-RoSYy83owIo/Uf_paCZzzPI/AAAAAAAAAGU/jrU-rq3uY20/w400-o/_MG_9128.JPG" alt="_MG_9128.JPG" title="" class="alignleft pe2-photo"  /></a></p>
 
 <p class="clear">
   <p>
@@ -78,7 +78,7 @@ Ik had nog een recept liggen uit &#8220;Local Breads&#8221; waar Mr. Leader een 
     Het was ook de eerste keer dat ik grof zeezout (uit West-Frankrijk, met de hand geoogst! Geweldig Slow Food-achtig, toch?) gebruikt heb in brooddeeg. Het smaakte heel goed, maar als je de slap & fold techniek wil gebruiken raad ik je toch aan in het vervolg eerst het zout te malen&#8230; De grove korrels sprongen constant uit het deeg! Stretch & fold in de kom is hier veel geschikter voor denk ik (en dus natter deeg, win-win).
   </p>
   
-<a href="http://lh4.ggpht.com/-j2TKkQc1p1w/Uf_pbfML_NI/AAAAAAAAAGc/ic_TjpyrUmk/s1024/_MG_9130.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697894571736274" title="" ><img src="http://lh4.ggpht.com/-j2TKkQc1p1w/Uf_pbfML_NI/AAAAAAAAAGc/ic_TjpyrUmk/w400-o/_MG_9130.JPG" alt="_MG_9130.JPG" title="" class="alignleft pe2-photo"  /></a>
+<a href="http://lh4.ggpht.com/-j2TKkQc1p1w/Uf_pbfML_NI/AAAAAAAAAGc/ic_TjpyrUmk/s1024/_MG_9130.JPG" link="https://picasaweb.google.com/112210681491304618203/SaveSourdough#5908697894571736274" title="" ><img src="https://lh4.ggpht.com/-j2TKkQc1p1w/Uf_pbfML_NI/AAAAAAAAAGc/ic_TjpyrUmk/w400-o/_MG_9130.JPG" alt="_MG_9130.JPG" title="" class="alignleft pe2-photo"  /></a>
   
 <p class="clear">
 <p>

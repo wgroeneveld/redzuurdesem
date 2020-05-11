@@ -51,7 +51,7 @@ Het recept komt weeral van Mr. Hamelman&#8217;s [&#8220;BREAD&#8221; boek][3] &
 </div>
 
 <div>
-  <a title="_MG_7707.JPG" href="http://lh3.ggpht.com/--jjX0M2PlF4/UMjsv4yTguI/AAAAAAAAGts/ATi0KyfkL7U/s1024/_MG_7707.JPG"><img title="_MG_7707.JPG" src="http://lh3.ggpht.com/--jjX0M2PlF4/UMjsv4yTguI/AAAAAAAAGts/ATi0KyfkL7U/s500-c/_MG_7707.JPG" alt="Special ingredients used in this dough" width="500" height="500" /></a>
+  <a title="_MG_7707.JPG" href="http://lh3.ggpht.com/--jjX0M2PlF4/UMjsv4yTguI/AAAAAAAAGts/ATi0KyfkL7U/s1024/_MG_7707.JPG"><img title="_MG_7707.JPG" src="https://lh3.ggpht.com/--jjX0M2PlF4/UMjsv4yTguI/AAAAAAAAGts/ATi0KyfkL7U/s500-c/_MG_7707.JPG" alt="Special ingredients used in this dough" width="500" height="500" /></a>
 </div>
 
 <div>
@@ -97,7 +97,7 @@ Dit is heel simpel: hak de roggebesjes gewoonweg zelf, in zo klein mogelijke stu
 <div>
 </div><figure style="width: 500px" class="wp-caption aligncenter">
 
-[<img title="_MG_7709.JPG" src="http://lh4.ggpht.com/-xUCUdDNIDYA/UMjsxNFPLlI/AAAAAAAAGt0/fnLr7BzzJXQ/s500-c/_MG_7709.JPG" alt="Het einddeeg na de tweede rijs." width="500" height="500" />][4]<figcaption class="wp-caption-text">Het einddeeg, na de tweede rijs.</figcaption></figure> 
+[<img title="_MG_7709.JPG" src="https://lh4.ggpht.com/-xUCUdDNIDYA/UMjsxNFPLlI/AAAAAAAAGt0/fnLr7BzzJXQ/s500-c/_MG_7709.JPG" alt="Het einddeeg na de tweede rijs." width="500" height="500" />][4]<figcaption class="wp-caption-text">Het einddeeg, na de tweede rijs.</figcaption></figure> 
 
 ##  Het brood bakken
 
@@ -107,7 +107,7 @@ Ik heb geen pullman pan, dus heb ik simpelweg aluminium folie gebruikt om de bov
 
 Laat het brood volledig afkoelen na het uit de oven te nemen (door het uit de pan te halen natuurlijk). Wacht tenminste 24 uur voor er sneetjes van af te snijden, om de interne structuur te stabiliseren.<figure style="width: 500px" class="wp-caption aligncenter">
 
-[<img title="_MG_7819.JPG" src="http://lh4.ggpht.com/-k_EwvKzv9eE/UMjsyEt7IPI/AAAAAAAAGt8/n8RhZ5i2834/s500-c/_MG_7819.JPG" alt="De heerlijk grove structuur." width="500" height="500" />][6]<figcaption class="wp-caption-text">De heerlijk grove structuur.</figcaption></figure> 
+[<img title="_MG_7819.JPG" src="https://lh4.ggpht.com/-k_EwvKzv9eE/UMjsyEt7IPI/AAAAAAAAGt8/n8RhZ5i2834/s500-c/_MG_7819.JPG" alt="De heerlijk grove structuur." width="500" height="500" />][6]<figcaption class="wp-caption-text">De heerlijk grove structuur.</figcaption></figure> 
 
 Smakelijk!
 

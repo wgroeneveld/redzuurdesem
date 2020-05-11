@@ -48,7 +48,7 @@ Wat is er lekkerder dan een croissant met wat aardbeien confituur op een late zo
   * Je zal ook **200gr** ongezouten boter in blokvorm nodig hebben voor het bladerdeeg proces en 
   * 1 ei voor 2x het bestrijken van de croissants<figure style="width: 300px" class="wp-caption aligncenter">
 
-[<img title="_MG_7017.JPG" src="http://lh4.ggpht.com/-hv3jR1oo5Is/UOVwpwlHbPI/AAAAAAAAGvs/allVFHXmeEw/s300-c/_MG_7017.JPG" alt="_MG_7017.JPG" width="300" height="300" />][2]<figcaption class="wp-caption-text">De boter vorm geven</figcaption></figure> 
+[<img title="_MG_7017.JPG" src="https://lh4.ggpht.com/-hv3jR1oo5Is/UOVwpwlHbPI/AAAAAAAAGvs/allVFHXmeEw/s300-c/_MG_7017.JPG" alt="_MG_7017.JPG" width="300" height="300" />][2]<figcaption class="wp-caption-text">De boter vorm geven</figcaption></figure> 
 
 ## Het proces
 
@@ -64,7 +64,7 @@ Berg het deeg op in de frigo voor minstens 2 uur. Het zal niet zo veel rijzen.
 
 We willen een vierkant blokje boter maken uit die 200gr &#8211; dit doen we door ze plat te kloppen met een deegrol tussen twee blaadjes van bakpapier. Plezant hé? Probeer zo precies mogelijk te zijn en vorm een blok van 13x13cm. Doe dit terug in de frigo om het terug wat vaster te maken.<figure style="width: 300px" class="wp-caption aligncenter">
 
-[<img title="_MG_7020.JPG" src="http://lh5.ggpht.com/-gEEzu6l3jgk/UOVwq91UAbI/AAAAAAAAGv0/z3BYWFZhV7Y/s300-c/_MG_7020.JPG" alt="_MG_7020.JPG" width="300" height="300" />][3]<figcaption class="wp-caption-text">Vouwen nadat de boter is toegevoegd</figcaption></figure> 
+[<img title="_MG_7020.JPG" src="https://lh5.ggpht.com/-gEEzu6l3jgk/UOVwq91UAbI/AAAAAAAAGv0/z3BYWFZhV7Y/s300-c/_MG_7020.JPG" alt="_MG_7020.JPG" width="300" height="300" />][3]<figcaption class="wp-caption-text">Vouwen nadat de boter is toegevoegd</figcaption></figure> 
 
 ### Boter in het deeg vouwen voor de eerste keer
 
@@ -74,7 +74,7 @@ Nog een waarschuwing: afhankelijk van je keukentemperatuur zal je zelf kunnen er
 
 Als de rechthoek goed werd uitgerold, kan je dit nu voor de eerste keer vouwen zoals een brief: 1/3de vouwen, dan 2/3de over dat eerste 1/3de. Als je niet zeker bent hoe, kijk even naar dit: [the weekend bakery video][4]. Uw eerste &#8220;toer&#8221; is compleet! Doe alles terug in de frigo voor 12 tot 24 uur. <figure style="width: 300px" class="wp-caption aligncenter">
 
-[<img title="_MG_7023.JPG" src="http://lh3.ggpht.com/-nf571HivVow/UOVwsFnxfVI/AAAAAAAAGv8/b7NWGgS8ofo/s300-c/_MG_7023.JPG" alt="_MG_7023.JPG" width="300" height="300" />][5]<figcaption class="wp-caption-text">Driehoekjes uitgesneden van het bladerdeeg.</figcaption></figure> 
+[<img title="_MG_7023.JPG" src="https://lh3.ggpht.com/-nf571HivVow/UOVwsFnxfVI/AAAAAAAAGv8/b7NWGgS8ofo/s300-c/_MG_7023.JPG" alt="_MG_7023.JPG" width="300" height="300" />][5]<figcaption class="wp-caption-text">Driehoekjes uitgesneden van het bladerdeeg.</figcaption></figure> 
 
 <h3 style="text-align: left;">
   Nog twee toeren (2x vouwen)
@@ -92,13 +92,13 @@ Snij mooie even driehoekjes uit van het bladerdeeg (niet zo lelijk als ik in de 
   
 Croissants zullen minstens **3 uur** moeten rijzen op 20°C. Het is bijna onmogelijk om croissants te lang te laten rijzen dankzij de hoge concentratie aan vet dat aanwezig is in het deeg. Daarom is de extra gedroogde gist ook nodig om het te laten rijzen en zal het desem alleen moeilijk volstaan. Een andere manier is natuurlijk minder boter te gebruiken&#8230; <figure style="width: 300px" class="wp-caption aligncenter">
 
-[<img title="_MG_7172.JPG" src="http://lh3.ggpht.com/-mer_dh1DYsw/UOVwtauUZeI/AAAAAAAAGwE/aTRW3faYBzw/s300-c/_MG_7172.JPG" alt="_MG_7172.JPG" width="300" height="300" />][6]<figcaption class="wp-caption-text">Uit de oven. Ruikt heerlijk!</figcaption></figure> 
+[<img title="_MG_7172.JPG" src="https://lh3.ggpht.com/-mer_dh1DYsw/UOVwtauUZeI/AAAAAAAAGwE/aTRW3faYBzw/s300-c/_MG_7172.JPG" alt="_MG_7172.JPG" width="300" height="300" />][6]<figcaption class="wp-caption-text">Uit de oven. Ruikt heerlijk!</figcaption></figure> 
 
 ### Eindelijk tijd om croissants te bakken!
 
 Voordat we ze in de oven steken bestrijk je de croissants nog een laatste keer met ei. Bak ze op **200°C **voor 30 tot 35 minuten &#8211; en let er goed op dat ze genoeg bruinen in de oven. Croissants kunnen snel verbranden dus blijf best even bij de oven staan. Proficiat, je hebt net je eigen croissants vanaf 0 gemaakt! Smakelijk!<figure style="width: 300px" class="wp-caption aligncenter">
 
-[<img title="_MG_7178.JPG" src="http://lh6.ggpht.com/-AHjaLb4cQSQ/UOVwxHMEVbI/AAAAAAAAGwU/ixtDNvyAHlE/s300-c/_MG_7178.JPG" alt="_MG_7178.JPG" width="300" height="300" />][7]<figcaption class="wp-caption-text">De binnenkant van mijn croissant</figcaption></figure> 
+[<img title="_MG_7178.JPG" src="https://lh6.ggpht.com/-AHjaLb4cQSQ/UOVwxHMEVbI/AAAAAAAAGwU/ixtDNvyAHlE/s300-c/_MG_7178.JPG" alt="_MG_7178.JPG" width="300" height="300" />][7]<figcaption class="wp-caption-text">De binnenkant van mijn croissant</figcaption></figure> 
 
 <p style="text-align: left;">
   Ook opgestuurd via <a href="http://www.wildyeastblog.com/category/yeastspotting/">Yeast Spotting</a>.

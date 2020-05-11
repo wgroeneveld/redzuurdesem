@@ -60,7 +60,7 @@ ALs je vlokken gebruikt dit niet heel zacht zijn kan je altijd kokend water gebr
 ## Opmerkingen
 
 
-<a href="http://lh6.ggpht.com/-Slx2aiFymSk/USE8x1hxBcI/AAAAAAAAGxE/yak_MTRs7AY/s1024/_MG_8194.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5846020618183574978" title="_MG_8194.JPG" ><img src="http://lh6.ggpht.com/-Slx2aiFymSk/USE8x1hxBcI/AAAAAAAAGxE/yak_MTRs7AY/w400-o/_MG_8194.JPG" alt="_MG_8194.JPG" title="_MG_8194.JPG" class="alignleft pe2-photo"  /></a>
+<a href="http://lh6.ggpht.com/-Slx2aiFymSk/USE8x1hxBcI/AAAAAAAAGxE/yak_MTRs7AY/s1024/_MG_8194.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5846020618183574978" title="_MG_8194.JPG" ><img src="https://lh6.ggpht.com/-Slx2aiFymSk/USE8x1hxBcI/AAAAAAAAGxE/yak_MTRs7AY/w400-o/_MG_8194.JPG" alt="_MG_8194.JPG" title="_MG_8194.JPG" class="alignleft pe2-photo"  /></a>
 
 **Wat zijn de aangenomen rijstijden??**
 
@@ -73,7 +73,7 @@ Ongeveer hetzelfde als ik aanhoud voor [mijn dagelijks brood][3]. Ik heb deze ke
 Het brood is heel goed gerezen in de oven dankzij de relatief hoge aanwezigheid van bloem maar ook dankzij de juiste hoeveelheid desem en de gewijzigde rijstijd. Zeker iets om meer mee te experimenteren de volgende keren!
 
 
-<a href="http://lh6.ggpht.com/-PM_tdPh7DAo/USE8wQs797I/AAAAAAAAGw8/7zs2Sw5ueAY/s1024/_MG_8190.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5846020591118448562" title="_MG_8190.JPG" ><img src="http://lh6.ggpht.com/-PM_tdPh7DAo/USE8wQs797I/AAAAAAAAGw8/7zs2Sw5ueAY/w400-o/_MG_8190.JPG" alt="_MG_8190.JPG" title="_MG_8190.JPG" class="alignleft pe2-photo"  /></a>
+<a href="http://lh6.ggpht.com/-PM_tdPh7DAo/USE8wQs797I/AAAAAAAAGw8/7zs2Sw5ueAY/s1024/_MG_8190.JPG" link="https://picasaweb.google.com/108809100421188137955/Savesourdough#5846020591118448562" title="_MG_8190.JPG" ><img src="https://lh6.ggpht.com/-PM_tdPh7DAo/USE8wQs797I/AAAAAAAAGw8/7zs2Sw5ueAY/w400-o/_MG_8190.JPG" alt="_MG_8190.JPG" title="_MG_8190.JPG" class="alignleft pe2-photo"  /></a>
 
 Ook gepubliceerd op [YeastSpotting][4].
 

@@ -22,7 +22,7 @@ Make this 12 hours before you plan on mixing the final dough. I used more wholew
 
 **seed soaker**<figure style="width: 150px" class="wp-caption alignright">
 
-[<img title="_MG_7214.JPG" src="http://lh3.ggpht.com/-5u-Kg_igtfk/UGXhkE2l39I/AAAAAAAAGl8/sGC5JquShDw/s150-c/_MG_7214.JPG" alt="_MG_7214.JPG" width="150" height="150" />][3]<figcaption class="wp-caption-text">Make sure you create smaller points at the end of the bâtard!</figcaption></figure> 
+[<img title="_MG_7214.JPG" src="https://lh3.ggpht.com/-5u-Kg_igtfk/UGXhkE2l39I/AAAAAAAAGl8/sGC5JquShDw/s150-c/_MG_7214.JPG" alt="_MG_7214.JPG" width="150" height="150" />][3]<figcaption class="wp-caption-text">Make sure you create smaller points at the end of the bâtard!</figcaption></figure> 
 
   1. 100gr flax seeds
   2. 227gr water
@@ -41,7 +41,7 @@ Make the same time as you mix the preferment. The seeds will stick and absorb ev
   6. 10gr salt
   7. all of the soaked flax seeds<figure style="width: 150px" class="wp-caption alignleft">
 
-[<img title="_MG_7217.JPG" src="http://lh4.ggpht.com/-0e2UqfWxjwg/UGXhl7cjzlI/AAAAAAAAGmE/6VMHFQgXZug/s150-c/_MG_7217.JPG" alt="_MG_7217.JPG" width="150" height="150" />][4]<figcaption class="wp-caption-text">Out of the oven. I love those &#8220;ears&#8221;!</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_7223.JPG" src="http://lh6.ggpht.com/-IaM7VSS-vdc/UGXhpNA84bI/AAAAAAAAGmU/3PJoCaQ_qxM/s150-c/_MG_7223.JPG" alt="_MG_7223.JPG" width="150" height="150" />][5]<figcaption class="wp-caption-text">Big holes, so spelt flour can also expand quickly&#8230;</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_7218.JPG" src="http://lh3.ggpht.com/-q6W39aek9ls/UGXhnp4PdPI/AAAAAAAAGmM/YSJKpxGce0M/s150-c/_MG_7218.JPG" alt="_MG_7218.JPG" width="150" height="150" />][6]<figcaption class="wp-caption-text">Slicing at a shallow angle nets nice results.</figcaption></figure> 
+[<img title="_MG_7217.JPG" src="https://lh4.ggpht.com/-0e2UqfWxjwg/UGXhl7cjzlI/AAAAAAAAGmE/6VMHFQgXZug/s150-c/_MG_7217.JPG" alt="_MG_7217.JPG" width="150" height="150" />][4]<figcaption class="wp-caption-text">Out of the oven. I love those &#8220;ears&#8221;!</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_7223.JPG" src="https://lh6.ggpht.com/-IaM7VSS-vdc/UGXhpNA84bI/AAAAAAAAGmU/3PJoCaQ_qxM/s150-c/_MG_7223.JPG" alt="_MG_7223.JPG" width="150" height="150" />][5]<figcaption class="wp-caption-text">Big holes, so spelt flour can also expand quickly&#8230;</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_7218.JPG" src="https://lh3.ggpht.com/-q6W39aek9ls/UGXhnp4PdPI/AAAAAAAAGmM/YSJKpxGce0M/s150-c/_MG_7218.JPG" alt="_MG_7218.JPG" width="150" height="150" />][6]<figcaption class="wp-caption-text">Slicing at a shallow angle nets nice results.</figcaption></figure> 
 
 <p style="clear: both;">
   I did not divert from the baking instructions much &#8211; autolyse for about 30 minutes, kneaded using the french fold technique for a minute or 5-6 and folded once after 1 hour of bulk fermenting. The total fermentation time took up to 3 hours because the kitchen temperature was only 20°C and I wanted to make sure they were well risen. After shaping them into bâtards, proofed on the couche for 1,5 hour and baked at 250°C with steam (reduced the heat to 230°C after 10 minutes).

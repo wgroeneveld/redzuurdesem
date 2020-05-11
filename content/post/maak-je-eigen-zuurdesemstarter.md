@@ -3,7 +3,7 @@ title: Maak je eigen zuurdesemstarter
 author: Wouter
 type: post
 date: 2012-06-21T19:40:45+00:00
-image: http://4.bp.blogspot.com/-e_3T5EJsuLc/T2YKXeUQBOI/AAAAAAAAGJw/fVf4BLoxBGU/s400/IMG_5935.jpg
+image: https://4.bp.blogspot.com/-e_3T5EJsuLc/T2YKXeUQBOI/AAAAAAAAGJw/fVf4BLoxBGU/s400/IMG_5935.jpg
 aliases:
   - /post/2012-06-21-making-your-own-sourdough-starter/
   - /making-your-own-sourdough-starter/
@@ -21,7 +21,7 @@ Exacte recepten zal ik niet hier plaatsen - ik raad daarvoor ten zeerste het boe
 
 > **The purpose: to make superior tasting bread** (and hopefully it&#8217;ll also look good!)
 
-[<img src="http://1.bp.blogspot.com/-JCymKOddse8/T29qdXqIV2I/AAAAAAAAGKc/o41vRIRnFlI/s640/_MG_5961.jpg" alt="" width="640" height="426" border="0" />][3]
+[<img src="https://1.bp.blogspot.com/-JCymKOddse8/T29qdXqIV2I/AAAAAAAAGKc/o41vRIRnFlI/s640/_MG_5961.jpg" alt="" width="640" height="426" border="0" />][3]
 
 &nbsp;
 
@@ -71,7 +71,7 @@ Een ander probleem met roggebrood wordt "zetmeelaanval" genoemd: tijdens het bak
 <table cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td>
-      <a href="http://1.bp.blogspot.com/-yvBs6d4aZz8/T0pB29ZHTmI/AAAAAAAAGFU/uJBAl1L6Ljk/s1600/_MG_5829.jpg"><img src="http://1.bp.blogspot.com/-yvBs6d4aZz8/T0pB29ZHTmI/AAAAAAAAGFU/uJBAl1L6Ljk/s400/_MG_5829.jpg" alt="" width="400" height="266" border="0" /></a>
+      <a href="http://1.bp.blogspot.com/-yvBs6d4aZz8/T0pB29ZHTmI/AAAAAAAAGFU/uJBAl1L6Ljk/s1600/_MG_5829.jpg"><img src="https://1.bp.blogspot.com/-yvBs6d4aZz8/T0pB29ZHTmI/AAAAAAAAGFU/uJBAl1L6Ljk/s400/_MG_5829.jpg" alt="" width="400" height="266" border="0" /></a>
     </td>
   </tr>
 </table>
@@ -263,7 +263,7 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
   <table cellspacing="0" cellpadding="0" align="center">
     <tr>
       <td>
-        <a href="http://4.bp.blogspot.com/-e_3T5EJsuLc/T2YKXeUQBOI/AAAAAAAAGJw/fVf4BLoxBGU/s1600/IMG_5935.jpg"><img src="http://4.bp.blogspot.com/-e_3T5EJsuLc/T2YKXeUQBOI/AAAAAAAAGJw/fVf4BLoxBGU/s400/IMG_5935.jpg" alt="" width="400" height="266" border="0" /></a>
+        <a href="http://4.bp.blogspot.com/-e_3T5EJsuLc/T2YKXeUQBOI/AAAAAAAAGJw/fVf4BLoxBGU/s1600/IMG_5935.jpg"><img src="https://4.bp.blogspot.com/-e_3T5EJsuLc/T2YKXeUQBOI/AAAAAAAAGJw/fVf4BLoxBGU/s400/IMG_5935.jpg" alt="" width="400" height="266" border="0" /></a>
       </td>
     </tr>
     

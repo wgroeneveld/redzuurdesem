@@ -96,15 +96,9 @@ The loaves were proofed in a basket and shaped in the same way, but the latter o
 
 Time for more experiments!
 
-**Also on: _Bake your own Bread &#8211;_**
-
-<a href="http://www.girlichef.com/p/byob-bake-your-own-bread.html" target="_blank"><img class="aligncenter" style="border: 1px solid black;" src="http://farm8.staticflickr.com/7103/7346181244_48bfb32925_o.jpg" alt="BYOB 125 x 125" width="125" height="125" /></a>
-
-**Also on: **[**_The Fresh Loaf_**][6]
 
  [1]: https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_midden_24h.jpg
  [2]: https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_24h.jpg
  [3]: http://www.youtube.com/watch?v=nmRt5O4rd8o&feature=related
  [4]: https://redzuurdesem.be/wp-content/uploads/2012/07/dailybread_slice_40h.jpg
  [5]: http://www.thefreshloaf.com/searchresults?cx=partner-pub-5060446827351852%3A9bvu1n-clx1&cof=FORID%3A9&ie=ISO-8859-1&cow=more+sour&sa=Search
- [6]: http://www.thefreshloaf.com/node/29337/my-daily-bread-65-ww-sourdough

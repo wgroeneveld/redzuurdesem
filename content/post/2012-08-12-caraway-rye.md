@@ -19,7 +19,7 @@ You might notice in the pictures below that the bread is still quite grey, for &
 
 I **did not add yeast** in the final dough. I don&#8217;t know why almost all rye sourdough breads call for additional commercial yeast, I find it quite unneeded as the bulk fermentation time could be simply slightly increased (as I did). The crumb is not very dense at all and contains evenly placed little holes. I folded the dough once (or twice? Can&#8217;t remember).<figure style="width: 150px" class="wp-caption alignleft">
 
-[<img title="_MG_6731.JPG" src="http://lh4.ggpht.com/-ycDseCNLe2s/UCgaOIxjjZI/AAAAAAAAGcQ/xxO6Twt99O8/s150-c/_MG_6731.JPG" alt="_MG_6731.JPG" width="150" height="150" />][3]<figcaption class="wp-caption-text">Some slices of the bread</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_6730.JPG" src="http://lh4.ggpht.com/-culzWekWCBw/UCgaO70ES2I/AAAAAAAAGcY/R9YIJ928gUM/s150-c/_MG_6730.JPG" alt="_MG_6730.JPG" width="150" height="150" />][4]<figcaption class="wp-caption-text">A good look at the crumb</figcaption></figure> 
+[<img title="_MG_6731.JPG" src="https://lh4.ggpht.com/-ycDseCNLe2s/UCgaOIxjjZI/AAAAAAAAGcQ/xxO6Twt99O8/s150-c/_MG_6731.JPG" alt="_MG_6731.JPG" width="150" height="150" />][3]<figcaption class="wp-caption-text">Some slices of the bread</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft">[<img title="_MG_6730.JPG" src="https://lh4.ggpht.com/-culzWekWCBw/UCgaO70ES2I/AAAAAAAAGcY/R9YIJ928gUM/s150-c/_MG_6730.JPG" alt="_MG_6730.JPG" width="150" height="150" />][4]<figcaption class="wp-caption-text">A good look at the crumb</figcaption></figure> 
 
 <h2 style="clear: both;">
   Lessons learned:
