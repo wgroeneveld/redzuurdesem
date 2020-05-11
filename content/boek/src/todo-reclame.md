@@ -8,6 +8,13 @@ https://www.goodreads.com/book/show/53267590-red-zuurdesem doorgeven?
 
 [ ] Leo Babauta: un-copyright te bekijken
 
+### Site rework todo's
+
+[X] Facebook posts auto-grab IDs op een of andere manier? https://developers.facebook.com/docs/graph-api/reference/v7.0/page/feed reeds included 
+[ ] fucking token die maar 2 maand houdbaar is - in kalender zetten? met api calls auto-refreshen op een of andere manier
+[ ] search functionaliteit. zie config.toml, JSON output
+[ ] Korte policy pagina? Koekske banner? (cookies weg indien niet ingelogd)
+
 ### Via-via persoonlijk
 
 [X] Ann Lummen

@@ -88,7 +88,7 @@
 		}
 
 		try {
-			FB.api("/redzuurdesem/feed?limit=6&access_token=EAAn5J1FBPssBAEklcMbCU4PrCZB3aMyLuD3XqYGTaif8gKbx24PH5ZA6WrsQwiSGJzLIuVdHn4s2EymVDXTdrWaKLJqkDACiY5SLreXbeLuXTKirw7bncJM68dKTV7Y7Sp9rroU9IGqSUsJrhIzFvjlZAKBCQwUesut1p03oLPxkVTpNSg2", parseFeed);
+			FB.api("/redzuurdesem/feed?limit=4&access_token={{ .Site.Params.fbtoken }}", parseFeed);
 		} catch(e) {
 			whoops(e);
 		}

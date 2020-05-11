@@ -13,10 +13,11 @@ theme = "desem-swift-theme"
 
 [params]
 logo = "/images/desemdoos.png"
+fbtoken = "EAAn5J1FBPssBAEklcMbCU4PrCZB3aMyLuD3XqYGTaif8gKbx24PH5ZA6WrsQwiSGJzLIuVdHn4s2EymVDXTdrWaKLJqkDACiY5SLreXbeLuXTKirw7bncJM68dKTV7Y7Sp9rroU9IGqSUsJrhIzFvjlZAKBCQwUesut1p03oLPxkVTpNSg2"
 
 # For search functionnality
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = [ "HTML", "RSS" ]
 
 # https://gohugo.io/getting-started/configuration-markup (ofwel de oude unsafe togglen?) - is nodig, Wordpress export bevat veel HTML!
 [markup]
