@@ -24,7 +24,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-07-08T20:24:32+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/07/MG_8816-300x200.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/07/MG_8816-300x200.jpg
 tags:
   - broodjes
 ---

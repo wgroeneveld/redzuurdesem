@@ -28,7 +28,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-03-22T21:29:30+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/03/MG_8474-300x200.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/03/MG_8474-300x200.jpg
 tags:
   - studeren
 ---

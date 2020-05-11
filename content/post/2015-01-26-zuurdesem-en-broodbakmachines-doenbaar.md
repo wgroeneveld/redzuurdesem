@@ -18,7 +18,10 @@ tags:
   - broodbakmachine
 image: /wp-content/uploads/2015/01/MG_0710-1024x784.jpg
 ---
-Van plan om te bakken met een broodbakmachine? Leer werken met desem in een broodbakmachine via een thuiscursus van de <a title="De Desem doos: een thuiscursus voor de brood bakker" href="http://desemdoos.be/" target="_blank">Desem Doos</a>!
+
+Van plan om te bakken met een broodbakmachine? Lees in ['Red Zuurdesem': het boek](/het-boek) hoe ik dankzij een gekregen broodbakmachine de wondere wereld van het brood bakken ontdekte en op zoek ging naar meer. Inclusief praktische tips en formules om zuurdesem te combineren met een broodbakmachine, en zo te genieten van het beste van twee werelden. 
+
+---
 
 ### Hoe werkt een broodbakmachine?
 

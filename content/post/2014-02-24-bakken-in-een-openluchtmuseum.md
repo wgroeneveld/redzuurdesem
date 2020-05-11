@@ -28,7 +28,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2014-02-24T19:16:14+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg
 categories:
   - learning
 tags:

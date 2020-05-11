@@ -24,6 +24,12 @@ comment_images_toggle:
 tags:
   - studeren
 ---
+**Update, mei 2020**: onderstaande blogpost bespreekt voornamelijk specifieke boeken over brood bakken met een praktische insteek. Sinds kort verscheen [mijn eigen boek](/het-boek) waarin ik de lezer meeneem op persoonlijke zoektocht naar de smaak en wetenschap van brood. Het is een alles behalve typisch bakboek, maar eerder een persoonlijk relaas stevig verankerd in de wetenschap van zuurdesem. 
+
+[Een inkijkexemplaar](/het-boek) is beschikbaar, dus neem zeker een kijkje!
+
+---
+
 Bakboeken &#8211; er zijn ondertussen talloze vormen en exemplaren beschikbaar. Vroeger vond je veel algemene bakboeken waar enkele hoofdstukken over brood geschreven werd, maar eigenlijk het merendeel van het boek gespendeerd werd aan cakes, beslagen en taarten. Dat is echter verleden tijd; als je een beetje zoekt op websites zoals <a title="amazon" href="http://www.amazon.com" target="_blank">amazon.com</a> of <a title="goodreads" href="http://www.goodreads.com" target="_blank">goodreads.com</a> kan je een hele hoop gespecialiseerde broodbakboeken vinden, zowel van bekende (meestal Amerikaanse) bakkers als van minder bekende auteurs.
   
 De vraag blijft natuurlijk: **wat is goed en wat niet**? En meer nog, sinds elke bakker zijn eigen stijl van bakken heeft, met welk bakboek kan ik mij het beste vinden, welk boek leert basisprincipes aan en welk boek is eerder voor de _die-hards_? We spreken hier natuurlijk uitsluitend over bakken met zuurdesem, al een niche onderwerp op zich.

@@ -22,7 +22,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-08-05T18:44:27+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/08/MG_9126-300x220.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/08/MG_9126-300x220.jpg
 tags:
   - durum
 ---

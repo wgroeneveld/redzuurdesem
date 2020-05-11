@@ -26,7 +26,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-04-01T18:56:14+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/04/MG_8561-300x200.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8561-300x200.jpg
 tags:
   - verrijkt
 

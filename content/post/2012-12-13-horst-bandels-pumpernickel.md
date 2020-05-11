@@ -20,7 +20,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-12-13T20:13:58+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2012/12/MG_7825-300x213.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2012/12/MG_7825-300x213.jpg
 tags:
   - rogge
   - zaadjes

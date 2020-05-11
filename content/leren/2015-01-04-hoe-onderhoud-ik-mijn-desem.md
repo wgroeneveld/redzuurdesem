@@ -10,7 +10,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2015-01-04T16:12:09+00:00
 al2fb_facebook_link_picture:
-  - post=http://www.savesourdough.com/wp-content/uploads/2015/01/MG_8571-1024x683.jpg
+  - post=http://redzuurdesem.be/wp-content/uploads/2015/01/MG_8571-1024x683.jpg
 comment_images_toggle:
   - enable
 tags:

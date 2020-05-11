@@ -70,5 +70,5 @@ Succes!
  [2]: https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1098.jpg
  [3]: https://redzuurdesem.be/wp-content/uploads/2015/08/MG_1099.jpg
  [4]: https://redzuurdesem.be/wp-content/uploads/2015/08/IMG_1095.jpg
- [5]: http://desemdoos.be/recept/12015-rogge-zaden-met-broodbakmachine/
+ [5]: https://redzuurdesem.be/12015-rogge-zaden-met-broodbakmachine/
  [6]: https://redzuurdesem.be/zuurdesem-en-broodbakmachines-doenbaar/

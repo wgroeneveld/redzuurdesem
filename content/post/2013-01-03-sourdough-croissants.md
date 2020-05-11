@@ -16,7 +16,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-01-03T12:32:38+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/01/MG_7175-300x200.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/01/MG_7175-300x200.jpg
 al2fb_facebook_excerpt:
   - 'Wat is er lekkerder dan een croissant met wat aardbeien confituur op een late zondar voormiddag? Ik moet het nog ontdekken. Natuurlijk moeten deze lekkerheden zelf worden gemaakt (en hiermee bedoelen we niet een croissant afbakken!). Aangezien we bij Save <strong>Sourdough</strong> het altijd over zuurdesem hebben, waarom proberen we dan niet eens zuurdesem bladerdeeg te maken? Het is zeker een uitdaging dus als je niet zo geduldig bent, zoek dan iemand die het bakken in uw plaats kan doen, want het is wel de moeite waard'
 al2fb_facebook_text:

@@ -10,7 +10,8 @@ aliases:
 tags:
   - starter
 ---
-[<img class="aligncenter size-full wp-image-110" title="starter_maken" src="http://localhost/savesourdough/wp-content/uploads/2012/06/starter_maken.jpg" alt="" width="1024" height="683" srcset="https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken.jpg 1024w, https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/06/starter_maken-700x466.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+
+![ingredienten verzamelen](/wp-content/uploads/2012/06/starter_maken.jpg)
 
 &nbsp;
 
@@ -391,6 +392,5 @@ Hoe meer % rogge, hoe minder dit nodig is &#8211; er zitten toch geen gluten in.
   </div>
 </div>
 
- [1]: http://localhost/savesourdough/wp-content/uploads/2012/06/starter_maken.jpg
  [2]: http://www.amazon.co.uk/Bread-Bakers-Book-Techniques-Recipes/dp/0471168572/ref=sr_1_1?ie=UTF8&qid=1332872652&sr=8-1
  [3]: http://1.bp.blogspot.com/-JCymKOddse8/T29qdXqIV2I/AAAAAAAAGKc/o41vRIRnFlI/s1600/_MG_5961.jpg

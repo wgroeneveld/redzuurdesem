@@ -26,7 +26,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-04-11T20:04:19+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/04/MG_8619-300x200.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/04/MG_8619-300x200.jpg
 tags:
   - croissant
 

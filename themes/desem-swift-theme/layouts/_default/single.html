@@ -12,6 +12,18 @@
 {{- $image := $scratch.Get "image" }}
 {{- $bg := ( $image | absLangURL) }}
 <section class = 'post_header' style = 'background-image:url({{ $bg }});'>
+  <div class='post_header_tags'>
+    <div class = 'excerpt_meta'>
+    {{- with .Params.tags -}}
+      {{- range first 10 . }}
+      {{- $tag := . | urlize }}
+      <a href = '{{ absURL (printf "tags/%s" $tag) }}' class = 'post_tag'>
+        {{- . }}
+      </a>
+      {{- end }}
+    {{- end }}
+    </div>
+  </div>
 </section>
 <div class = 'post'>
   <div class='post_metadata'>

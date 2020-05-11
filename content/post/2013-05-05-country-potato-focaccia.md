@@ -22,7 +22,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-05-05T19:13:51+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/05/MG_8804-300x200.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/05/MG_8804-300x200.jpg
 tags:
   - pizza
 ---

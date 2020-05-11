@@ -20,7 +20,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-01-27T19:12:48+00:00
 al2fb_facebook_link_picture:
-  - meta=http://www.savesourdough.com/wp-content/uploads/2013/01/MG_8129-300x221.jpg
+  - meta=https://redzuurdesem.be/wp-content/uploads/2013/01/MG_8129-300x221.jpg
 tags:
   - zaadjes
 ---

@@ -51,10 +51,10 @@ Een voordeeg maken is heel eenvoudig. Neem een beetje van je moeder starter (mee
 
 **Maar hoe bak ik er nu mee?**
 
-De beste hulp die we hiervoor kunnen bieden staat al op _savesourdough_:
+De beste hulp die we hiervoor kunnen bieden staat al op _Red Zuurdesem_:
 
-  * [A quick primer on sourdough baking][4]
-  * [Baking your daily bread][5]
+* [A quick primer on sourdough baking][4]
+* [Baking your daily bread][5]
 
 ## Stap 5: hoe bewaar ik mijn starter?
 
