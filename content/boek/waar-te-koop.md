@@ -2,7 +2,7 @@
 title: "Waar is het te koop?"
 date: 2020-04-26
 weight: 1
-image: "/het-boek/assets/img/4cdc92bc5329a6c6575885fedcc3cb30.jpg"
+image: "/images/boekcover2.jpg"
 ---
 
 Het boek is verkrijgbaar via de volgende kanalen:

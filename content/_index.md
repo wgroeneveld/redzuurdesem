@@ -4,7 +4,7 @@ date = 2018-04-20
 image = "/images/boekcover2.jpg"
 +++
 
-# Mijn missie: <br/>zuurdesembrood herpopulariseren
+# Mijn missie: <br/>zuurdesembrood opnieuw populariseren
 
 
 Brood. Het is iets eenvoudig, maar tegelijkertijd iets complex. Vandaag de dag denken maar weinig mensen na over de textuur en smaak van brood terwijl stukken gedachteloos worden opgegeten. Dit komt deels doordat de mens een gewoontedier is en niet genoeg tijd neemt om dankbaar te zijn voor eten, maar ook deels door de industrialisatie van het broodbakproces.
@@ -15,7 +15,7 @@ Sinds commerciële gist aan populariteit won, verloor het &#8220;klassieke&#8221
     ![Korst](/images/korst.jpg)
 </center>
 
-Mijn missie is simpel: **zuurdesembrood bakken herpopulariseren**. Daarom werd Red Zuurdesem als [broodbak blog](/blog) opgericht in 2012. Daarom eindigde de persoonlijke zoektocht naar de smaak en wetenschap van brood in 2020 in een [allesomvattend boek](/boek).
+Mijn missie is simpel: **zuurdesembrood bakken opnieuw populariseren**. Daarom werd Red Zuurdesem als [broodbak blog](/blog) opgericht in 2012. Daarom eindigde de persoonlijke zoektocht naar de smaak en wetenschap van brood in 2020 in een [allesomvattend boek](/boek).
 
 
 ### Hoe **jij kan helpen**
@@ -24,7 +24,6 @@ Met het grote aanbod aan technische en persoonlijke artikels hoop ik mijn passie
 
 De [actieve Facebook community](https://facebook.com/redzuurdesem) helpt iedereen uit de nood. Zit je vast of heb je vragen over een formule of artikel? Heeft je zuurdesemstarter het opgegeven? Geen nood, wij helpen je graag verder!
 
-_Bedankt voor het bezoek!_ Ik hoop van harte dat een van de artikels je op het juiste spoor kan brengen. Laat zeker een berichtje achter op de Facebook pagina als iets niet - of juist wel - lukt.
 
 Bak ze!
 
