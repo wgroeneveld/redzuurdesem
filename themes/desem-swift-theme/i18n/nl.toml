@@ -59,7 +59,7 @@
 [errMsg]
   other = "Sorry, there was an error with the submission!"
 [moreFrom]
-  other = "Meer lezen:"
+  other = "Meer lezen"
 [discard]
   other = "discard"
 [discardComment]

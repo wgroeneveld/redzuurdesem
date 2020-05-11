@@ -11,6 +11,7 @@
 	</h1>
 </section>
 
+<!-- BLOCK: boek reclame -->
 <div class='post'>
 <article class='post_content'>
 	<h3>Nu beschikbaar:</h3>
@@ -27,8 +28,9 @@
 	</div>
 </article>
 </div>
-
 <hr/>
+
+<!-- BLOCK: blogposts -->
 <div class = 'post post_content'>
 	<h1>
 		<a href="/post">Laatste blogposts</a> &raquo;
@@ -46,7 +48,7 @@
 </div>
 <hr/>
 
-
+<!-- BLOCK: content -->
 <div class = 'post'>
   <article class='post_content'>
     {{- .Content }}
@@ -54,5 +56,31 @@
 </div>
 <hr/>
 
+<!-- BLOCK: facebook posts -->
+<div class='post post_content'>
+	<h1>
+		<a href="https://facebook.com/redzuurdesem">Facebook posts</a> &raquo;
+	</h1>
+</div>
+<ul class='posts wrap' id = 'posts'>
+	<li class = 'post_item'>
+		<div class="fb-post" data-href="https://www.facebook.com/redzuurdesem/posts/3067948703326127"></div>
+	</li>
+	<li class = 'post_item'>
+		<div class="fb-post" data-href="https://www.facebook.com/redzuurdesem/posts/3063110147143316"></div>
+	</li>
+</ul>
+<div class = 'post post_content'>
+	<h4>
+		<a href="https://facebook.com/redzuurdesem">Bekijk alle Facebook posts</a> &raquo;
+	</h4>
+</div>
+<hr/>
+
+<div class="post post_content">
+	<span class="smaller">
+	Deze website gebruikt <a href="https://support.google.com/analytics/answer/2763052?hl=en" target="_blank">anonieme IP</a>-gegevens in de vorm van Google Analytics om websiteverkeer beter op te kunnen volgen. 
+	</span>
+</div>
 
 {{ end }}

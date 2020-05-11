@@ -30,10 +30,6 @@ Bak ze!
 
 [Wouter](/about).
 
-<span class="smaller">
-Deze website gebruikt [anonieme IP](https://support.google.com/analytics/answer/2763052?hl=en)-gegevens in de vorm van Google Analytics om websiteverkeer beter op te kunnen volgen. 
-</span>
-
  [1]: https://redzuurdesem.be/wp-content/uploads/2012/06/693ef7d02022750cb1a7dae6eb7d1cf5_large.jpg
  [2]: https://redzuurdesem.be/wp-content/uploads/2012/06/photo-full.jpg
  [3]: https://redzuurdesem.be/wp-content/uploads/2012/06/16118a75dafdc72174fc6ca3a2d545b1_large.jpg

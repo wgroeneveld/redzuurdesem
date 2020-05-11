@@ -24,7 +24,7 @@
       {{- if isset .Params "posttitle" }}
         {{ .Params.posttitle }}
       {{- else }}
-        {{ i18n "moreFrom" .Site.Title }}
+        {{ i18n "moreFrom" .Site.Title }} &raquo;
       {{- end }}
       <span class='pages'>({{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }})</span> &raquo;
     </h1>
