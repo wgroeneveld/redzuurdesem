@@ -1,4 +1,5 @@
 .DS_Store
+package-lock.json
 
 docs/
 
@@ -6,6 +7,7 @@ docs/
 **/*.sublime-workspace
 
 resources/_gen/
+node_modules/
 
 content/boek/src/boek.tex
 content/boek/src/boek.pdf

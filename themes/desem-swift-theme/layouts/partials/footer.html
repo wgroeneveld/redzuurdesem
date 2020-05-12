@@ -7,7 +7,12 @@
   </div>
 </footer>
 {{- $mainScriptPath := "js/redzuurdesem.js" }}
-{{- $scripts := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
+{{- $scripts := "" }}
+{{- if (ne hugo.Environment "development") }}
+	{{- $scripts = resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . | babel | resources.Minify | resources.Fingerprint "sha512" }}
+{{- else }}
+	{{- $scripts = resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath .  }}
+{{- end }}
 <script src = '{{ $scripts.Permalink }}'></script>
 <div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/nl_BE/sdk.js#xfbml=1&version=v3.2"></script>

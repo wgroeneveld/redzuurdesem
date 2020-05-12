@@ -2,7 +2,7 @@
 
  function modifyClass(el, targetClass) {
     if (isObj(el) && targetClass) {
-      elClass = el.classList;
+      const elClass = el.classList;
       elClass.contains(targetClass) ? elClass.remove(targetClass) : elClass.add(targetClass);
     }
   }
@@ -29,7 +29,7 @@
 
  function pushClass(el, targetClass) {
     if (isObj(el) && targetClass) {
-      elClass = el.classList;
+      const elClass = el.classList;
       elClass.contains(targetClass) ? false : elClass.add(targetClass);
     }
   }
