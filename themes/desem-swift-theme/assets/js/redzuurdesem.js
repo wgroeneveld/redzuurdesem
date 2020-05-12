@@ -27,6 +27,12 @@
     return elems.length ? elems : false;
   }
 
+ function pushClass(el, targetClass) {
+    if (isObj(el) && targetClass) {
+      elClass = el.classList;
+      elClass.contains(targetClass) ? false : elClass.add(targetClass);
+    }
+  }
 	// from swift theme: sandwich
 	// ******
 	 (function() {
@@ -64,6 +70,26 @@
 	    });
 
 	  })();	
+
+
+  (function postsPager(){
+    const pager = elem('.pagination');
+    if (pager) {
+      pushClass(pager, 'pager');
+      const pagerItems = elems('li', pager);
+      const pagerLinks = Array.from(pagerItems).map(function(item){
+        return item.firstElementChild;
+      });
+      
+      pagerLinks.forEach(function(link){
+        pushClass(link, 'pager_link')
+      });
+
+      pagerItems.forEach(function(item){
+        pushClass(item, 'pager_item')
+      });
+    }
+  })();
 
 	var fbposts = document.querySelector('#fbposts');
 	function whoops(error) {
