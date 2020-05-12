@@ -6,25 +6,31 @@
   {{- if isset .Params "featured_image" }}
     {{- $scratch.Set "image" .Params.featured_image }}
   {{- else }}
-    {{ $scratch.Set "image" "thumbnail.svg" }}
+    {{- $scratch.Set "image" "nop" }}  
   {{- end }}
 {{- end }}
 {{- $image := $scratch.Get "image" }}
-{{- $bg := ( $image | absLangURL) }}
-<section class = 'post_header' style = 'background-image:url({{ $bg }});'>
-  <div class='post_header_tags'>
-    <div class = 'excerpt_meta'>
-    {{- with .Params.tags -}}
-      {{- range first 10 . }}
-      {{- $tag := . | urlize }}
-      <a href = '{{ absURL (printf "tags/%s" $tag) }}' class = 'post_tag'>
-        {{- . }}
-      </a>
+
+{{ if eq $image "nop" }}
+  <section style='margin-top: 5em'>
+  </section>
+{{ else }}
+  {{- $bg := ( $image | absLangURL) }}
+  <section class = 'post_header' style = 'background-image:url({{ $bg }});'>
+    <div class='post_header_tags'>
+      <div class = 'excerpt_meta'>
+      {{- with .Params.tags -}}
+        {{- range first 10 . }}
+        {{- $tag := . | urlize }}
+        <a href = '{{ absURL (printf "tags/%s" $tag) }}' class = 'post_tag'>
+          {{- . }}
+        </a>
+        {{- end }}
       {{- end }}
-    {{- end }}
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+{{ end }}
 <div class = 'post'>
   <div class='post_metadata'>
     <hr/>
@@ -50,46 +56,19 @@
     {{- partial "aside" . }}
   </aside>
 </div>
+
+{{ if not (isset .Params "disablefb") }}
 <div class='post'>
   <article class='post_content' style="text-align: center;">
-    <h3>
-      <script>
-        (function() {
-          var list = [
-            "Starter dood? Facebook to the rescue",
-            "Hulp nodig? Laat een berichtje achter",
-            "Brood mislukt? Laat ons helpen",
-            "Ongerezen brood? Schakel hulp in",
-            "Smaakmakers nodig? Brainstorm hier mee",
-            "moeilijkheden met je deeg? Zo opgelost",
-            "Desem te zuur? Vraag om tips",
-            "Eerste experiment gelukt? Deel de vreugde",
-            "Mooi brood gebakken? Deel de vreugde",
-            "Lekker brood gebakken? Deel je trots",
-            "Zuurdesemstarter gemaakt? Deel je trots",
-            "Prachtige 'brood-foto' gemaakt? Deel je vreugde",
-            "Trots op je zelfgemaakt brood? Deel je vreugde"
-             ];
-          var index = Math.floor(Math.random() * list.length);
-          document.write(list[index]);
-        })()
-      </script>
-     &raquo;</h3>
+    <h3 id="fb-community-header">Facebook community &raquo;</h3>
 
      <p>Klik op '<em>Berichten</em>' en laat iets van je horen!</p>
 
-    <script>
-      (function() {
-        // https://developers.facebook.com/docs/plugins/page-plugin/ - max is 600
-        var width = 600;
-        var vw = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-        if(vw < 600) width = vw - 10;
-        document.write('<div class="fb-page" data-width="' + vw + '" data-href="https://www.facebook.com/redzuurdesem" data-hide-cover="false" data-tabs="timeline,messages" data-show-facepile="false"></div>');
-      })()
-    </script>
+     <div id='fb-community-container'>
+       <div class="lds-facebook"><div></div><div></div><div></div></div> Bezig met laden...
+     </div>
   </article>
 </div>
-<script src = '{{ absURL "js/autosize.min.js" }}'></script>
-{{- $timeagoScr := resources.Get "js/timeago.js" | resources.ExecuteAsTemplate "js/timeago.js" . }}
-<script src = '{{ $timeagoScr.Permalink }}'></script>
+{{ end }}
+
 {{- end }}

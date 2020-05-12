@@ -11,10 +11,6 @@ Brood. Het is iets eenvoudig, maar tegelijkertijd iets complex. Vandaag de dag d
 
 Sinds commerciële gist aan populariteit won, verloor het &#8220;klassieke&#8221; zuurdesem boerenbrood alle aandacht. De gedachtegang is simpel: gedroogde gist betekent van nul tot afgewerkt brood binnen de 2 uur. Dat is simpelweg onmogelijk is met behulp van enkel zuurdesem omdat rijzen met zuurdesem de hulp van natuurlijke fermentatiemiddelen inroepen betekent: het _desem_. En dat desem bevat enkel bloem, water, en heel veel van dat gouden ingrediënt: _geduld_.
 
-<center>
-    ![Korst](/images/korst.jpg)
-</center>
-
 Mijn missie is simpel: **zuurdesembrood bakken opnieuw populariseren**. Daarom werd Red Zuurdesem als [broodbak blog](/blog) opgericht in 2012. Daarom eindigde de persoonlijke zoektocht naar de smaak en wetenschap van brood in 2020 in een [allesomvattend boek](/boek).
 
 

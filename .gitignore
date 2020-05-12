@@ -5,6 +5,8 @@ docs/
 *.log
 **/*.sublime-workspace
 
+resources/_gen/
+
 content/boek/src/boek.tex
 content/boek/src/boek.pdf
 content/boek/src/synopsis.pdf
