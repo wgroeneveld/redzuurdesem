@@ -13,7 +13,7 @@
     "@babel/preset-env": "^7.9.6"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "/usr/local/bin/hugo"
   },
   "repository": {
     "type": "git",
