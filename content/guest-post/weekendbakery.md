@@ -8,17 +8,17 @@ disablefb: true
 
 Het begon allemaal met een kabouter. Een kabouter in de vorm van een broodbakmachine, die voor mij 's nachts opstaat, wat blokken hout in de oven gooit om vervolgens zijn handen vuil te maken. Dagelijks brood met een druk op de knop. In 2010 wist ik niet beter. Het duurde nog twee jaar voordat ik interesse begon te tonen in het broodbakproces en uiteindelijk de kabouter met pensioen stuurde. Dankzij broodbak blogs zoals '[Weekend Bakery](https://www.weekendbakery.com/)' en '[The Fresh Loaf](https://thefreshloaf.com)' ontdekte ik de wondere wereld van '_zuurdesem_', een ontdekking die de rest van mijn leven zou veranderen. 
 
-Sindsdien begon de persoonlijke zoektocht naar de smaak en wetenschap van brood. Als software ingenieur stel ik vaak vervelende vragen, zoals 'waarom werkt dit eigenlijk zo?' Maurizio Leo, de softwareontwikkelaar achter de populaire blog '[The Perfect Loaf](https://theperfectloaf.com)', noemt dit ook wel het _debuggen_ van het broodbak-_algoritme_. Zo ver zou zelfs ik niet durven gaan. Brood bakken begon langzaam maar zeker te evolueren van een noodzaak  naar een uit de hand gelopen obsessie. 
+Sindsdien begon de persoonlijke zoektocht naar de smaak en wetenschap van brood. Als software ingenieur stel ik vaak vervelende vragen, zoals 'waarom werkt dit eigenlijk zo?' Het _debuggen_ van het broodbak-_algoritme_. Brood bakken begon langzaam maar zeker te evolueren van een noodzaak  naar een uit de hand gelopen obsessie. 
 
 [![mijn rogge starter](/images/guest-post/roggestarter.jpg)](/images/guest-post/roggestarter.jpg)
 
-Op zoek naar dat ene stukje perfect brood, dat ik tijdens mijn kinderjaren had geproefd op vakantie in Spanje, zette ik mijn zoektocht voort. Ik schreef me in voor avondlessen en werd na drie jaar zweten voor de oven een gediplomeerde Belgische brood- en banketbakker. Ontevreden met de lessen over brood tijdens de opleiding zocht ik een stageplek, die ik vond bij De Superette in Gent, waar ze écht brood bakken - met zuurdesem natuurlijk. 
+Op zoek naar dat ene stukje perfect brood, dat ik tijdens mijn kinderjaren had geproefd op vakantie in Spanje, zette ik mijn zoektocht voort. Ik schreef me in voor avondlessen en werd na drie jaar zweten voor de oven een gediplomeerde brood- en banketbakker. Ontevreden met de lessen over brood tijdens de opleiding zocht ik naar een stageplek, die ik vond bij De Superette in Gent, waar ze écht brood bakken - met zuurdesem natuurlijk. 
 
 Mijn tweede grote passie, naast brood bakken, is kennis delen. Die twee passies bleken perfect combineerbaar. Er werden workshops gevolgd en gegeven, een eigen website '[Red Zuurdesem](https://redzuurdesem.be)' opgezet, met nationale en internationale bakkers gesproken en lang nagedacht over gisten en melkzuurbacteriën. 
 
-In 2017 ontstond het idee om alles wat ik weet over zuurdesem neer te schrijven in de vorm van een boek. Ik wilde niet alleen mijn persoonlijke zoektocht delen met iedereen, maar ook een educatieve meerwaarde kunnen bieden: een stevige theoretische basis aanbieden. Hoe zit dat eigenlijk met de microbiologie van het fermenteren? Dankzij erg behulpzame en even gepassioneerde mensen kreeg dat idee vorm, om uiteindelijk in 2020 te worden uitgegeven als '[Red Zuurdesem: Een persoonlijke zoektocht naar de smaak en wetenschap van brood](https://redzuurdesem.be/het-boek)'. 
+In 2017 ontstond het idee om alles wat ik weet over zuurdesem neer te schrijven in de vorm van een boek. Ik wilde niet alleen mijn persoonlijke zoektocht delen, maar ook een educatieve meerwaarde kunnen bieden met een stevige theoretische basis. Hoe zit dat bijvoorbeeld met de microbiologie van het fermenteren? Dankzij erg behulpzame en even gepassioneerde mensen kreeg het idee vorm, om uiteindelijk in 2020 te worden uitgegeven als '[Red Zuurdesem: Een persoonlijke zoektocht naar de smaak en wetenschap van brood](https://redzuurdesem.be/het-boek)'. 
 
-Na tien jaar bakken ben ik nog steeds niet uitgepraat. Er zijn nog zoveel dingen om te ontdekken: een klein molentje kopen en zelf malen, meer internationale stages volgen, de baguettevorm ooit goed onder controle krijgen, enzovoort. Het is zo leuk om deel uit te maken van een bakkende gemeenschap!
+Na tien jaar bakken ben ik nog steeds niet uitgepraat. Er zijn nog zoveel dingen te ontdekken: een klein molentje kopen en zelf malen, meer internationale stages volgen, de baguettevorm ooit goed onder controle krijgen, enzovoort. Het is zo leuk om deel uit te maken van een bakkende gemeenschap!
 
 ### Tarwe boerenbrood
 
@@ -52,6 +52,6 @@ Methode:
 
 [![tarwe boerenbrood kruim](/images/guest-post/kruim.jpg)](/images/guest-post/kruim.jpg)
 
-Dit neemt vanaf het voordeeg in totaal minstens _30 uur_ in beslag. Dat lijkt aanzienlijk, maar is het niet: rijstijden vereisen immers geen actie buiten geduld hebben. Het roggemeel gaat volledig op in het voordeeg dat ik 12 uur op voorhand meng. Mijn (rogge)starter bevat evenveel bloem als water, net zoals het voordeeg van deze formule. De lange gekoelde tweede rijs vereist wat meer zout, maar het resultaat is een smaakbom!
+Dit neemt vanaf het voordeeg in totaal minstens _30 uur_ in beslag. Dat lijkt aanzienlijk, maar is het niet: rijstijden vereisen immers geen actie buiten geduld hebben. Mijn (rogge)starter bevat evenveel bloem als water, net zoals het voordeeg van deze formule. De lange gekoelde tweede rijs vereist wat meer zout, maar het resultaat is een smaakbom!
 
 
