@@ -43,6 +43,27 @@
     padding: 0 30px
   
   &_content
+    table
+      width: 100%
+      padding-top: 1rem
+      padding-bottom: 1rem
+
+      th
+        border-bottom: 1px solid var(--theme)
+
+      tbody tr:nth-child(odd)
+        background-color: var(--bg)
+
+      tbody tr:nth-child(even)
+        background-color: var(--accent)
+
+      td
+        padding-left: 0.4em
+        padding-right: 0.4em
+
+    img
+      border-radius: 10px
+
     h4
       margin: 5px 0
       text-align: left
@@ -61,6 +82,7 @@
       // list-style-type: initial
     li 
       padding: 0.33rem 0
+      
   &_header
     background-size: cover
     background-repeat: no-repeat
