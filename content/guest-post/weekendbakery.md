@@ -6,11 +6,11 @@ disablefb: true
 
 ### Een persoonlijke zoektocht
 
-Het begon allemaal met een kabouter. Een kabouter in de vorm van een broodbakmachine, die voor mij 's nachts opstaat, wat blokken hout in de oven gooit om vervolgens zijn handen vuil te maken. Dagelijks brood met een druk op de knop. In 2010 wist ik niet beter. Het duurde nog twee jaar voordat ik interesse begon te tonen in het broodbakproces en uiteindelijk de kabouter met pensioen stuurde. Dankzij broodbak blogs zoals deze (en '[The Fresh Loaf](https://thefreshloaf.com)' natuurlijk) ontdekte ik de wondere wereld van '_zuurdesem_', een ontdekking die de rest van mijn leven zou veranderen. 
-
-[![mijn rogge starter](/images/guest-post/roggestarter.jpg)](/images/guest-post/roggestarter.jpg)
+Het begon allemaal met een kabouter. Een kabouter in de vorm van een broodbakmachine, die voor mij 's nachts opstaat, wat blokken hout in de oven gooit om vervolgens zijn handen vuil te maken. Dagelijks brood met een druk op de knop. In 2010 wist ik niet beter. Het duurde nog twee jaar voordat ik interesse begon te tonen in het broodbakproces en uiteindelijk de kabouter met pensioen stuurde. Dankzij broodbak blogs zoals '[Weekend Bakery](https://www.weekendbakery.com/)' en '[The Fresh Loaf](https://thefreshloaf.com)' ontdekte ik de wondere wereld van '_zuurdesem_', een ontdekking die de rest van mijn leven zou veranderen. 
 
 Sindsdien begon de persoonlijke zoektocht naar de smaak en wetenschap van brood. Als software ingenieur stel ik vaak vervelende vragen, zoals 'waarom werkt dit eigenlijk zo?' Maurizio Leo, de softwareontwikkelaar achter de populaire blog '[The Perfect Loaf](https://theperfectloaf.com)', noemt dit ook wel het _debuggen_ van het broodbak-_algoritme_. Zo ver zou zelfs ik niet durven gaan. Brood bakken begon langzaam maar zeker te evolueren van een noodzaak  naar een uit de hand gelopen obsessie. 
+
+[![mijn rogge starter](/images/guest-post/roggestarter.jpg)](/images/guest-post/roggestarter.jpg)
 
 Op zoek naar dat ene stukje perfect brood, dat ik tijdens mijn kinderjaren had geproefd op vakantie in Spanje, zette ik mijn zoektocht voort. Ik schreef me in voor avondlessen en werd na drie jaar zweten voor de oven een gediplomeerde Belgische brood- en banketbakker. Ontevreden met de lessen over brood tijdens de opleiding zocht ik een stageplek, die ik vond bij De Superette in Gent, waar ze écht brood bakken - met zuurdesem natuurlijk. 
 

@@ -1,0 +1,27 @@
+<form method="get" action="">
+  <input id="zoekentxt" placeholder="zuurdesembrood" name="q" type="text" style="width: 50%" />
+  <button type="submit" class="button">Zoeken</button>
+  <a href="/zoeken">Leegmaken</a>
+</form>
+
+<div id="resultaten">
+  <hr/>
+  <h1>
+      Zoekresultaten
+      <span class="pages"></span> &raquo;
+  </h1>
+  <div id="searchapp"></div>
+</div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<!-- Generate a list of posts so we can display them -->
+{{ $p := slice }}
+{{ range .Site.RegularPages }}
+  {{ $post := dict "link" .RelPermalink "title" .Title "content" (substr .Plain 0 200) -}}
+  {{ $p = $p | append $post -}}
+{{ end }}
+<script>
+window.searchposts = JSON.parse(
+  {{ $p | jsonify }}
+);
+</script>

@@ -1,5 +1,7 @@
 ---
 title: Over
+aliases:
+    - /about/
 date: 2012-12-06T16:29:31+00:00
 ---
 

@@ -6,7 +6,7 @@ docs/
 *.log
 **/*.sublime-workspace
 
-resources/_gen/
+resources/
 node_modules/
 
 content/boek/src/boek.tex

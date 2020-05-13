@@ -4,5 +4,7 @@
   url: post/
 - item: Leren bakken
   url: leren/
+- item: Zoeken
+  url: zoeken/
 - item: Over
-  url: about/
+  url: over/
