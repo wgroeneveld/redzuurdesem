@@ -10,8 +10,8 @@ al2fb_facebook_link_picture:
   - post=https://redzuurdesem.be/wp-content/uploads/2015/06/MG_0963-683x1024.jpg
 comment_images_toggle:
   - enable
-categories:
-  - learning
+tags:
+  - fermenteren
 image: /wp-content/uploads/2015/06/MG_0966-1024x683.jpg
 ---
 Zoals je ondertussen in andere artikels op deze website al gelezen hebt, rijst brood met zuurdesem optimaal rond de 24°C. Deze temperatuur is moelijk om constant te houden in een gewone keuken &#8211; je kan de temperatuur van bloem en water initiëel wel exact bepalen maar het gaat onherroepelijk afkoelen. Hoe groter de massa, hoe trager, en de meeste mensen bakken maar één of twee broden tegelijk.

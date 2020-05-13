@@ -29,10 +29,9 @@ al2fb_facebook_link_time:
   - 2014-02-24T19:16:14+00:00
 al2fb_facebook_link_picture:
   - meta=https://redzuurdesem.be/wp-content/uploads/2014/02/2013-07-28-17.46.54-300x225.jpg
-categories:
-  - learning
 tags:
-  - wood oven
+  - houtoven
+  - cursus
 
 ---
 
@@ -63,7 +62,7 @@ De taak die ik mijzelf oplegde bestond uit nieuwschierige bezoekers informatie v
   
   <p class="clear">
     <p>
-      We gebruikten &#8220;<a href="http://books.google.be/books?id=Sfi3JomB2HsC&#038;pg=PA1646&#038;lpg=PA1646&#038;dq=mutsaard+oven&#038;source=bl&#038;ots=NKj1lAsUB7&#038;sig=HlvHjsT9jqLHo4EL6_Hwmcs_oRc&#038;hl=en&#038;sa=X&#038;ei=h5ILU9GoE6OK7Abu2IHICg&#038;ved=0CCwQ6AEwAA#v=onepage&#038;q=mutsaard%20oven&#038;f=false" title="mutsaarden"></a>&#8221; om de oven heet te stoken &#8211; dit zijn op voorhand samengestelde bussels hout. Er werden 45 minuten voor de geplande baktijd 4 tot 5 mutsaarden in de oven gesjouwd, samen met wat papier om het vuur op gang te brengen.<br /> Het resultaat is immens. Na 10 minuten geeft de vlammenzee zo een intense hitte af dat de broden in de rijskast (op minder dan één meter van de mond van de oven, die open moest blijven om lucht te kunnen happen om het vuur te voeden&#8230;) véél te snel rezen op een te korte tijd. Daar gaat mijn schema&#8230;
+      We gebruikten &#8220;<a href="http://books.google.be/books?id=Sfi3JomB2HsC&#038;pg=PA1646&#038;lpg=PA1646&#038;dq=mutsaard+oven&#038;source=bl&#038;ots=NKj1lAsUB7&#038;sig=HlvHjsT9jqLHo4EL6_Hwmcs_oRc&#038;hl=en&#038;sa=X&#038;ei=h5ILU9GoE6OK7Abu2IHICg&#038;ved=0CCwQ6AEwAA#v=onepage&#038;q=mutsaard%20oven&#038;f=false" title="mutsaarden">mutsaarden</a>&#8221; om de oven heet te stoken &#8211; dit zijn op voorhand samengestelde bussels hout. Er werden 45 minuten voor de geplande baktijd 4 tot 5 mutsaarden in de oven gesjouwd, samen met wat papier om het vuur op gang te brengen.<br /> Het resultaat is immens. Na 10 minuten geeft de vlammenzee zo een intense hitte af dat de broden in de rijskast (op minder dan één meter van de mond van de oven, die open moest blijven om lucht te kunnen happen om het vuur te voeden&#8230;) véél te snel rezen op een te korte tijd. Daar gaat mijn schema&#8230;
     </p>
     
 <p>

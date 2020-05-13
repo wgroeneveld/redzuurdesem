@@ -6,8 +6,7 @@ date: 2018-01-26T09:48:27+00:00
 url: /soms-zit-het-ook-al-eens-tegen/
 featured_image: /wp-content/uploads/2018/01/2018-01-19-14.12.26.jpg
 categories:
-  - learning
-
+  - rijstijden
 ---
 Er zijn al eens van die momenten die erg kunnen tegen zitten.
 

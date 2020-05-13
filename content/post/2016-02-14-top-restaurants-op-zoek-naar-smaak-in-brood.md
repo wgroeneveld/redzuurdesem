@@ -13,9 +13,8 @@ al2fb_facebook_link_picture:
   - post=https://redzuurdesem.be/wp-content/uploads/2016/02/2016-02-12-15.13.44-768x1024.jpg
 comment_images_toggle:
   - enable
-categories:
-  - learning
-
+tags:
+  - bakkers
 ---
 Bij te veel restaurants wordt al eens een &#8220;broodje&#8221;, stuk stokbrood of snee boerenbrood geserveerd, waarvan het zicht en de smaak een beetje afbreuk doet aan het eigenlijk gerecht. Wie wil er nu een afgebakken diepvries baguette bij zijn pasta eten, of een plat te zacht hamburger broodje voorgeschoteld krijgen, in de duurdere restaurants waar ook wat verwachtingen aan gekoppeld zijn? Dan kan je evengoed zelf koken, toch?
 

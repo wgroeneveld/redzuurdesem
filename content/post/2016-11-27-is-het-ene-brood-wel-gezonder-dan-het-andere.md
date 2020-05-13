@@ -11,9 +11,8 @@ al2fb_facebook_error_time:
   - 2016-11-27T10:31:25+00:00
 al2fb_facebook_link_picture:
   - post=https://redzuurdesem.be/?al2fb_image=1
-categories:
-  - learning
-
+tags:
+  - wetenschap
 ---
 Populaire gezondheidscoaches durven al eens beweren dat het eten van brood niet altijd even gezond is. De kans is groot dat ze gelijk hebben. Maar die uitspraak wordt nooit echt genuanceerd en brood wordt snel afgeschreven als een dikmaker of een darmklachten veroorzaker. Veel hangt af van het type brood en van de secundaire ingrediënten zoals vetten, gist en verbeteraars.
 

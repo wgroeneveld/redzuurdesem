@@ -14,7 +14,8 @@ al2fb_facebook_link_picture:
 comment_images_toggle:
   - enable
 tags:
-  - vakantie
+  - buitenland
+  - frankrijk
 ---
 Enkele maanden geleden zijn wij op vakantie geweest in Frankrijk. Heerlijk toch, omgeven worden door veel kwalitatief betere bakkerijen, zou je denken? Dat is niet altijd het geval, kwam ik te weten. Het hangt heel erg van regio tot regio af; in meer bevolkte gebieden zijn er zelfs slechtere stokbroden te vinden dan de lokale bakker in een &#8220;boerengat&#8221; die de stiel misschien nog geleerd heeft van zijn grootvader. Het is ook moeilijk om als toerist te oordelen over de kwaliteit van een hele bakkerij door er bijvoorbeeld maar één brood van te kopen. En natuurlijk koop je geen hopen, zeker niet op vakantie, want dan eindigt dat schandalig genoeg in de vuilbak &#8211; er zijn immers zoveel bakkerijen om te proberen, en er is zo weinig tijd. (Wij rentenieren helaas nog niet, dus de vakantie was eerder beperkt&#8230;)
 
