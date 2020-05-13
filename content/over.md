@@ -1,11 +1,9 @@
 ---
-title: Over
+title: Hallo daar!
 aliases:
     - /about/
-date: 2012-12-06T16:29:31+00:00
+disablefb: true
 ---
-
-## Hallo daar!
 
 Mijn naam is [Wouter Groeneveld][1] en mijn missie is zuurdesembrood bakken opnieuw populair maken. 
 

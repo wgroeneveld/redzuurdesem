@@ -35,12 +35,14 @@
   <div class='post_metadata'>
     <hr/>
     <h1 class='post_title'>{{ .Title }}</h1>
+    {{ if isset .Params "date" }}
     <h3>
       <svg>
         <use xlink:href="#calendar"></use>
       </svg>  
       {{ .Lastmod.Format (.Site.Params.dateFormat | default "2 January 2006") }}
     </h3>
+    {{ end }}
     <hr/>
   </div>
   <article class='post_content'>

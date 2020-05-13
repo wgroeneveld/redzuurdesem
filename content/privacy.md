@@ -1,5 +1,6 @@
 ---
 title: Pricacy/cookie policy
+disablefb: true
 ---
 
 ## Privacy en cookie policy

@@ -14,9 +14,8 @@
 </div>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
-<!-- Generate a list of posts so we can display them -->
 {{ $p := slice }}
-{{ range .Site.RegularPages }}
+{{ range (where .Site.RegularPages "Section" "!=" "") }}
   {{ $post := dict "link" .RelPermalink "title" .Title "content" (substr .Plain 0 200) -}}
   {{ $p = $p | append $post -}}
 {{ end }}
