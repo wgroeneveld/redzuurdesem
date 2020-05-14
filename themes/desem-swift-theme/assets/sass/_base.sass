@@ -30,33 +30,53 @@ a
   text-decoration: none
   color: inherit
 
+.post_content
+  blockquote
+    p
+      line-height: 1.2em
+
 blockquote 
+  @media (min-width: 960px)
+    width: calc(100% - -220px + 0px)
+    margin-left: -90px
+
+  @media (min-width: 1120px)
+    width: calc(100% - -260px + 0px)
+    margin-left: -130px
+
   opacity: 0.8
-  padding: 1rem
   position: relative
   quotes: '\201C''\201D''\2018''\2019'
   margin: 1.2rem 0
   display: flex
   flex-flow: row wrap
-  background-repeat: no-repeat
-  background-size: 5rem
-  background-position: 50% 50%
   position: relative
   &::before 
-    content: ""
-    padding: 1px
+    content: url('/images/icons/quote-left-solid.svg')
+    display: block
     position: absolute
-    top: 0
-    bottom: 0
-    left: 0
-    background: var(--theme)
+    width: 32px
+    margin-left: -40px
   
   p
+    @media (min-width: 960px)
+      font-size: 1.8rem !important
+    @media (min-width: 1120px)
+      font-size: 2rem !important
+
     padding-left: 0.5rem 0 !important
-    font-size: 1.1rem !important
+    font-size: 1.5rem !important
+    letter-spacing: -0.1rem
     width: 100%
     font-weight: 300
     font-style: italic
+
+    span
+      opacity: 0.6
+      font-size: 1.3rem
+      white-space: pre
+      &::before
+        content: '\A';
 
 h1,h2,h3,h4,h5
   font-family: inherit

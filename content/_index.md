@@ -4,14 +4,17 @@ date = 2018-04-20
 image = "/images/boekcover2.jpg"
 +++
 
-# Mijn missie: <br/>zuurdesembrood opnieuw populariseren
+# Mijn missie:
+## Zuurdesembrood redden
 
 
 Brood. Het is iets eenvoudig, maar tegelijkertijd iets complex. Vandaag de dag denken maar weinig mensen na over de textuur en smaak van brood terwijl stukken gedachteloos worden opgegeten. Dit komt deels doordat de mens een gewoontedier is en niet genoeg tijd neemt om dankbaar te zijn voor eten, maar ook deels door de industrialisatie van het broodbakproces.
 
 Sinds commerciële gist aan populariteit won, verloor het &#8220;klassieke&#8221; zuurdesem boerenbrood alle aandacht. De gedachtegang is simpel: gedroogde gist betekent van nul tot afgewerkt brood binnen de 2 uur. Dat is simpelweg onmogelijk is met behulp van enkel zuurdesem omdat rijzen met zuurdesem de hulp van natuurlijke fermentatiemiddelen inroepen betekent: het _desem_. En dat desem bevat enkel bloem, water, en heel veel van dat gouden ingrediënt: _geduld_.
 
-Mijn missie is simpel: **zuurdesembrood bakken opnieuw populariseren**. Daarom werd Red Zuurdesem als [broodbak blog](/blog) opgericht in 2012. Daarom eindigde de persoonlijke zoektocht naar de smaak en wetenschap van brood in 2020 in een [allesomvattend boek](/boek).
+> Mijn missie is simpel: zuurdesembrood bakken opnieuw populariseren.
+
+Daarom werd Red Zuurdesem als [broodbak blog](/blog) opgericht in 2012. Daarom eindigde de persoonlijke zoektocht naar de smaak en wetenschap van brood in 2020 in een [allesomvattend boek](/boek).
 
 
 ### Hoe **jij kan helpen**

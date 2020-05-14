@@ -9,7 +9,7 @@ image: /images/boekcover.jpg
 
 ## 10 jaar kennis gebundeld in 370 pagina's
 
-> Red Zuurdesem is een met liefde gebakken boek waarin traag gefermenteerde ideeën uit zowel de praktische als de theoretische wereld met succes worden gecombineerd tot één geurig geheel, rijkelijk belegd met tips en formules om zelf aan de slag te gaan.
+Red Zuurdesem is een met liefde gebakken boek waarin traag gefermenteerde ideeën uit zowel de praktische als de theoretische wereld met succes worden gecombineerd tot één geurig geheel, rijkelijk belegd met tips en formules om zelf aan de slag te gaan.
 
 <center>
 <a href="/het-boek">

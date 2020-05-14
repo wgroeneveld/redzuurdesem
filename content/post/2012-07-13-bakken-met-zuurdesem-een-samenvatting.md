@@ -14,9 +14,9 @@ tags:
   <a href="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg"><img class="aligncenter size-medium wp-image-275" title="scored" src="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </div>
 
-> Brood bakken is niet moeilijk. Het vereist enkel basis ingrediënten (water, bloem, zout) en geduld. Dat laatste is het meest uitdagende aspect.
-
 Los van dat zijn er enkele basisstappen waar elk brood door gaat, onafhankelijk van het recept of van uw bloem type. Ik wil bij deze graag een snelle samenvatting geven rond bakken met zuurdesem. Eens je bekent bent met deze basisprincipes kan je makkelijk je eigen recept creëren en er een eigen stijl aan geven.
+
+> Brood bakken is niet moeilijk. Het vereist enkel basis ingrediënten (water, bloem, zout) en geduld. Dat laatste is het meest uitdagende aspect.
 
 Een gedetailleerde uitleg, inclusief een stevige theoretische basis, is terug te vinden in ['Red Zuurdesem: het boek'](/het-boek).
 
@@ -24,9 +24,9 @@ Een gedetailleerde uitleg, inclusief een stevige theoretische basis, is terug te
 
 Wat is een &#8220;voordeeg&#8221;?
 
-> Een preferment &#8211; of een **voordeeg** &#8211; is een deel van het deeg dat al een tijdje &#8220;gefermenteerd&#8221; werd. (Rijzen met een vorm van gist) &#8211; dit zonder de rest van het deeg te vermengen.<figure style="width: 150px" class="wp-caption alignright">
+Een preferment &#8211; of een **voordeeg** &#8211; is een deel van het deeg dat al een tijdje &#8220;gefermenteerd&#8221; werd. (Rijzen met een vorm van gist) &#8211; dit zonder de rest van het deeg te vermengen.<figure class="wp-caption alignright">
 
-<a style="font-style: normal; line-height: 24px; text-decoration: underline;" title="_MG_6406.jpg" href="http://lh5.ggpht.com/-kJVeoj9MTUQ/T_suD1SqWzI/AAAAAAAAGU4/0SGxme9wcw0/s1024/_MG_6406.jpg"><img class=" " style="margin-top: 0.4em;" title="This is a 15% preferment of wholewheat, after 12 hours of resting." src="https://lh5.ggpht.com/-kJVeoj9MTUQ/T_suD1SqWzI/AAAAAAAAGU4/0SGxme9wcw0/s150-c/_MG_6406.jpg" alt="This is a 15% preferment of wholewheat, after 12 hours of resting." /></a><figcaption class="wp-caption-text">Dit is een 15% preferment met voltarwe, na 12 uren van rusten.</figcaption></figure> 
+<a style="font-style: normal; line-height: 24px; text-decoration: underline;" title="_MG_6406.jpg" href="https://lh5.ggpht.com/-kJVeoj9MTUQ/T_suD1SqWzI/AAAAAAAAGU4/0SGxme9wcw0/s1024/_MG_6406.jpg"><img class=" " style="margin-top: 0.4em;" title="This is a 15% preferment of wholewheat, after 12 hours of resting." src="https://lh5.ggpht.com/-kJVeoj9MTUQ/T_suD1SqWzI/AAAAAAAAGU4/0SGxme9wcw0/s1024/_MG_6406.jpg" alt="This is a 15% preferment of wholewheat, after 12 hours of resting." /></a><figcaption class="wp-caption-text">Dit is een 15% preferment met voltarwe, na 12 uren van rusten.</figcaption></figure> 
 
 Brood kan gebakken worden met of zonder voordeeg. Zonder bakken heet meestal een &#8220;rechttoe rechtaan brood&#8221; of een _straight_ _bread_. Dit kan enkel gedaan worden met hulp van commerciële gist, omdat dit zeer snel kan rijzen. **Minder tijd om te rijzen** betekent **minder smaak**! Het voordeeg wordt meestal 12 uur op voorhand gemaakt zodat het op kamertemperatuur kan rusten. Dit voordeeg is meestal 10 tot 35% van het totale brooddeeg.
 
@@ -42,9 +42,9 @@ Je kan een **stijf voordeeg** maken of een **vloeibaar voordeeg**. Het enige ve
 
 ### [ 07:00 PM ] Stap 2: meer combineren: het einddeeg maken.
 
-Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot het dubbel van de originele grootte). Als je een vloeibaar voordeeg gebruikt is dit makkelijker zichtbaar. Wanneer het voordeeg terug begint te slinken, wil dat zeggen dat de bacteriën zijn uitgewerkt en voeg je best minder van je zuurdesemstarter toe de volgende keer. Anders hebben de bacteriën geen eten meer (= het bloem) en gaat je brood instorten! Dit kan dus enkele oorzaken hebben:<figure style="width: 150px" class="wp-caption alignleft">
+Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot het dubbel van de originele grootte). Als je een vloeibaar voordeeg gebruikt is dit makkelijker zichtbaar. Wanneer het voordeeg terug begint te slinken, wil dat zeggen dat de bacteriën zijn uitgewerkt en voeg je best minder van je zuurdesemstarter toe de volgende keer. Anders hebben de bacteriën geen eten meer (= het bloem) en gaat je brood instorten! Dit kan dus enkele oorzaken hebben:<figure class="wp-caption alignleft">
 
-[<img title="_MG_6408.jpg" src="https://lh6.ggpht.com/-6fIkLP09_wc/T_suE3I7EFI/AAAAAAAAGVA/PESIuwwteO4/s150-c/_MG_6408.jpg" alt="_MG_6408.jpg" width="150" height="150" />][1]<figcaption class="wp-caption-text">Alles gecombineerd in een mengkom..</figcaption></figure> <figure style="width: 150px" class="wp-caption alignright">[<img title="_MG_6410.jpg" src="https://lh6.ggpht.com/-hd0MPkSitVU/T_suF7OX1TI/AAAAAAAAGVI/3Ve_LYV-E_k/s150-c/_MG_6410.jpg" alt="_MG_6410.jpg" width="150" height="150" />][2]<figcaption class="wp-caption-text">Het deeg op het keukentablet gedumpt.</figcaption></figure> 
+[<img title="_MG_6408.jpg" src="https://lh6.ggpht.com/-6fIkLP09_wc/T_suE3I7EFI/AAAAAAAAGVA/PESIuwwteO4/s1024/_MG_6408.jpg" alt="_MG_6408.jpg" />][1]<figcaption class="wp-caption-text">Alles gecombineerd in een mengkom..</figcaption></figure> <figure class="wp-caption alignright">[<img title="_MG_6410.jpg" src="https://lh6.ggpht.com/-hd0MPkSitVU/T_suF7OX1TI/AAAAAAAAGVI/3Ve_LYV-E_k/s1024/_MG_6410.jpg" alt="_MG_6410.jpg" />][2]<figcaption class="wp-caption-text">Het deeg op het keukentablet gedumpt.</figcaption></figure> 
 
 <li style="text-align: justify;">
   Te weinig bloem in verhouding tot de zuurdesemstarter
@@ -94,7 +94,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   </h3>
   
   <p>
-    <a href="http://lh4.ggpht.com/-GRndFj2VHBE/T_suGpiy77I/AAAAAAAAGVQ/tvSOqqNrP7c/s1024/_MG_6431.jpg"><img class="alignleft" title="_MG_6431.jpg" src="https://lh4.ggpht.com/-GRndFj2VHBE/T_suGpiy77I/AAAAAAAAGVQ/tvSOqqNrP7c/s150-c/_MG_6431.jpg" alt="_MG_6431.jpg" width="150" height="150" /></a><a href="http://lh5.ggpht.com/-fvuddElaRvY/T_suHf2cvdI/AAAAAAAAGVU/UMdq75iQpS4/s1024/_MG_6433.jpg"><img class="alignleft" title="_MG_6433.jpg" src="https://lh5.ggpht.com/-fvuddElaRvY/T_suHf2cvdI/AAAAAAAAGVU/UMdq75iQpS4/s150-c/_MG_6433.jpg" alt="_MG_6433.jpg" width="150" height="150" /></a><a title="_MG_6438.jpg" href="http://lh4.ggpht.com/-NCFPmZIaJII/T_suIDEQnsI/AAAAAAAAGVg/wEcEf-9tG50/s1024/_MG_6438.jpg"><img class="alignleft" title="_MG_6438.jpg" src="https://lh4.ggpht.com/-NCFPmZIaJII/T_suIDEQnsI/AAAAAAAAGVg/wEcEf-9tG50/s150-c/_MG_6438.jpg" alt="_MG_6438.jpg" width="150" height="150" /></a> <a title="_MG_6441.jpg" href="http://lh3.ggpht.com/-fdTS0uS8vz8/T_suIwEAI_I/AAAAAAAAGVo/pVTqCvWwmPE/s1024/_MG_6441.jpg"><img class="alignleft" title="_MG_6441.jpg" src="https://lh3.ggpht.com/-fdTS0uS8vz8/T_suIwEAI_I/AAAAAAAAGVo/pVTqCvWwmPE/s150-c/_MG_6441.jpg" alt="_MG_6441.jpg" width="150" height="150" /></a> <a title="_MG_6443.jpg" href="http://lh3.ggpht.com/-qQ_H9cq8yAU/T_suJuyFB-I/AAAAAAAAGVw/_q-5fW1ZfPs/s1024/_MG_6443.jpg"><img class="alignleft" title="_MG_6443.jpg" src="https://lh3.ggpht.com/-qQ_H9cq8yAU/T_suJuyFB-I/AAAAAAAAGVw/_q-5fW1ZfPs/s150-c/_MG_6443.jpg" alt="_MG_6443.jpg" width="150" height="150" /></a>
+    <a href="https://lh4.ggpht.com/-GRndFj2VHBE/T_suGpiy77I/AAAAAAAAGVQ/tvSOqqNrP7c/s1024/_MG_6431.jpg"><img class="alignleft" title="_MG_6431.jpg" src="https://lh4.ggpht.com/-GRndFj2VHBE/T_suGpiy77I/AAAAAAAAGVQ/tvSOqqNrP7c/s150-c/_MG_6431.jpg" alt="_MG_6431.jpg" width="150" height="150" /></a><a href="https://lh5.ggpht.com/-fvuddElaRvY/T_suHf2cvdI/AAAAAAAAGVU/UMdq75iQpS4/s1024/_MG_6433.jpg"><img class="alignleft" title="_MG_6433.jpg" src="https://lh5.ggpht.com/-fvuddElaRvY/T_suHf2cvdI/AAAAAAAAGVU/UMdq75iQpS4/s150-c/_MG_6433.jpg" alt="_MG_6433.jpg" width="150" height="150" /></a><a title="_MG_6438.jpg" href="https://lh4.ggpht.com/-NCFPmZIaJII/T_suIDEQnsI/AAAAAAAAGVg/wEcEf-9tG50/s1024/_MG_6438.jpg"><img class="alignleft" title="_MG_6438.jpg" src="https://lh4.ggpht.com/-NCFPmZIaJII/T_suIDEQnsI/AAAAAAAAGVg/wEcEf-9tG50/s150-c/_MG_6438.jpg" alt="_MG_6438.jpg" width="150" height="150" /></a> <a title="_MG_6441.jpg" href="https://lh3.ggpht.com/-fdTS0uS8vz8/T_suIwEAI_I/AAAAAAAAGVo/pVTqCvWwmPE/s1024/_MG_6441.jpg"><img class="alignleft" title="_MG_6441.jpg" src="https://lh3.ggpht.com/-fdTS0uS8vz8/T_suIwEAI_I/AAAAAAAAGVo/pVTqCvWwmPE/s150-c/_MG_6441.jpg" alt="_MG_6441.jpg" width="150" height="150" /></a> <a title="_MG_6443.jpg" href="https://lh3.ggpht.com/-qQ_H9cq8yAU/T_suJuyFB-I/AAAAAAAAGVw/_q-5fW1ZfPs/s1024/_MG_6443.jpg"><img class="alignleft" title="_MG_6443.jpg" src="https://lh3.ggpht.com/-qQ_H9cq8yAU/T_suJuyFB-I/AAAAAAAAGVw/_q-5fW1ZfPs/s150-c/_MG_6443.jpg" alt="_MG_6443.jpg" width="150" height="150" /></a>
   </p>
   
   <p style="clear: both;">
@@ -103,12 +103,12 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   
   <blockquote>
     <p style="clear: both;">
-      We kneden brood om gluten te vormen en het deeg te versterken. Als een tarwe-gebaseerd voordeeg gebruikt wordt, zullen de gluten veel sneller vormen omdat door het lang rusten dit al gedeeltelijk automatisch gebeurd is. Hoe langer dat je het deeg laat resten, hoe meer het water en het bloem samen zullen smelten en gluten vormen.
+      We kneden brood om gluten te vormen en het deeg te versterken. Als een tarwe-gebaseerd voordeeg gebruikt wordt, zullen de gluten veel sneller vormen.
     </p>
   </blockquote>
   
   <p style="clear: both;">
-    Natuurlijk betekent dit niet dat je helemaal niets hoeft te doen. Het eenvoudigste is meestal het beste, dit is ook zo wanneer we aan het bakken zijn: pas een techniek toe die &#8220;<strong>frans vouwen&#8221;</strong> (of <em>french folding</em>) heet. De bovenstaande afbeeldingen illustreren dit::
+     Dat komt omdat door het lang rusten dit al gedeeltelijk automatisch gebeurd is. Hoe langer dat je het deeg laat resten, hoe meer het water en het bloem samen zullen smelten en gluten vormen. Natuurlijk betekent dit niet dat je helemaal niets hoeft te doen. Het eenvoudigste is meestal het beste, dit is ook zo wanneer we aan het bakken zijn: pas een techniek toe die &#8220;<strong>frans vouwen&#8221;</strong> (of <em>french folding</em>) heet. De bovenstaande afbeeldingen illustreren dit::
   </p>
   
   <ul>
@@ -133,7 +133,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
 {{< youtube 9oyg8K6J8QM >}}
 
   
-  <a title="_MG_6464.jpg" href="http://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s1024/_MG_6464.jpg"><img title="_MG_6464.jpg" src="https://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s150-c/_MG_6464.jpg" alt="_MG_6464.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Stretch & folded het deeg na french folden.</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a title="_MG_6446.jpg" href="http://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s1024/_MG_6446.jpg"><img title="_MG_6446.jpg" src="https://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s150-c/_MG_6446.jpg" alt="_MG_6446.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Na 5 minuten french folden ziet het deeg er mooier uit!</figcaption></figure> 
+  <a title="_MG_6464.jpg" href="https://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s1024/_MG_6464.jpg"><img title="_MG_6464.jpg" src="http://lh5.ggpht.com/-W89LhmDwke0/T_suMwzOzcI/AAAAAAAAGWA/PjiF9W9OeDU/s1024/_MG_6464.jpg" alt="_MG_6464.jpg" /></a><figcaption class="wp-caption-text">Stretch & folded het deeg na french folden.</figcaption></figure> <figure class="wp-caption alignleft"><a title="_MG_6446.jpg" href="https://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s1024/_MG_6446.jpg"><img title="_MG_6446.jpg" src="http://lh3.ggpht.com/-vQEFK6Vf8j8/T_suKgUlqsI/AAAAAAAAGV4/RmguPWMDI_E/s1024/_MG_6446.jpg" alt="_MG_6446.jpg" /></a><figcaption class="wp-caption-text">Na 5 minuten french folden ziet het deeg er mooier uit!</figcaption></figure> 
   
   <p>
     Het meest belangrijkste aspect hier is het <strong>vouwen</strong>. Een youtube video demonstreert dit, zie het  &#8220;<a title="Baking your daily bread" href="https://redzuurdesem.be/baking-your-daily-bread/">my daily bread</a>&#8221; artikel. In plaats van als een zot het deeg te bewerken kan simpelweg het deeg uitrekken en over elkaar vouwen zoals een brief even zeer de gluten versterken! Dit heet &#8220;stretch & folding&#8221;.
@@ -169,9 +169,9 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   
   <h3>
     <em>[ 09:00 PM ] </em>Stap 5: vormen
-  </h3><figure style="width: 150px" class="wp-caption alignleft">
+  </h3><figure class="wp-caption alignleft">
   
-  <a title="_MG_6446.jpg" href="http://lh6.ggpht.com/-wwljMCiI8cs/T_suOr9IFwI/AAAAAAAAGWI/Dz2Ub-7QnGg/s1024/_MG_6465.jpg"><img title="_MG_6465.jpg" src="https://lh6.ggpht.com/-wwljMCiI8cs/T_suOr9IFwI/AAAAAAAAGWI/Dz2Ub-7QnGg/s150-c/_MG_6465.jpg" alt="_MG_6465.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">voorgevormd in batârds</figcaption></figure> 
+  <a title="_MG_6446.jpg" href="http://lh6.ggpht.com/-wwljMCiI8cs/T_suOr9IFwI/AAAAAAAAGWI/Dz2Ub-7QnGg/s1024/_MG_6465.jpg"><img title="_MG_6465.jpg" src="http://lh6.ggpht.com/-wwljMCiI8cs/T_suOr9IFwI/AAAAAAAAGWI/Dz2Ub-7QnGg/s1024/_MG_6465.jpg" alt="_MG_6465.jpg" /></a><figcaption class="wp-caption-text">voorgevormd in batârds</figcaption></figure> 
   
   <p>
     Het deeg in evenredig verdeelde stukjes opdelen en dan vormen zoals een <em>boule</em> (rond) of een <em>batârd</em> (ovaal). Of wil je liever <em>baguettes maken</em>? Laat u gaan! Dit wordt meestal gedaan in drie verschillende substappen: pre-vormen, rusten en finale vormgeving;
@@ -195,11 +195,12 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   
   <blockquote>
     <p>
-      Wanneer we brood vorm geven, is het van groot belang om het <strong>oppervlakte strak te maken</strong> om het brood wat weerstand te geven. Op deze manier kan het deeg naar BOVEN rijzen in plaats van langs de zijkanten als het te &#8220;zwak&#8221; aanvoelt, tijdens de laatste stap.
+      Wanneer we brood vormgeven, is het van groot belang om het oppervlakte aan te spannen. 
     </p>
   </blockquote>
   
   <p>
+    Aanspannen doen we om het brood wat weerstand te geven. Op deze manier kan het deeg naar BOVEN rijzen in plaats van langs de zijkanten als het te &#8220;zwak&#8221; aanvoelt, tijdens de laatste stap.
     Het is heel moeilijk om uit te leggen hoe je precies een stukje deeg nu het best een vorm geeft &#8211; zeker omdat dit de grootste uitdaging is in brood bakken en jaren ervaring vraagt. Daarom is het misschien makkelijk om even naar een video te kijken en op die manier wat bij te leren:
   </p>
   
@@ -212,9 +213,9 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   
   <p>
     Dit is een andere &#8220;wacht en wacht en wacht&#8230;&#8221; stap. Wanneer je je broden op de juiste manier vorm gegeven hebt, zullen ze mooi naar boven rijzen. Let op dat je het niet te lang laat rijzen! Dit wordt ook wel &#8220;<em>overproofing</em>&#8221; genoemd. Dit kan zijn doordat het te warm is, of doordat het te lang duurde voordat het brood in de oven ging. In dat geval zal het &#8220;plat&#8221; vallen in de oven en niet goed meer rijzen.
-  </p><figure style="width: 150px" class="wp-caption alignleft">
+  </p><figure class="wp-caption alignleft">
   
-  <a title="_MG_6471.jpg" href="http://lh5.ggpht.com/-ay7ticokfGQ/T_suQRLkb4I/AAAAAAAAGWY/zoj-ZalWK18/s1024/_MG_6471.jpg"><img title="_MG_6471.jpg" src="https://lh5.ggpht.com/-ay7ticokfGQ/T_suQRLkb4I/AAAAAAAAGWY/zoj-ZalWK18/s150-c/_MG_6471.jpg" alt="_MG_6471.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Mijn broden hebben gerezen in een rijsmandje.</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a title="_MG_6474.jpg" href="http://lh5.ggpht.com/-Weowh4GUFjY/T_suRJ29ycI/AAAAAAAAGWg/6gDabrXMLDc/s1024/_MG_6474.jpg"><img title="_MG_6474.jpg" src="https://lh5.ggpht.com/-Weowh4GUFjY/T_suRJ29ycI/AAAAAAAAGWg/6gDabrXMLDc/s150-c/_MG_6474.jpg" alt="_MG_6474.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Dit brood is nogal gerezen!</figcaption></figure> 
+  <a title="_MG_6471.jpg" href="http://lh5.ggpht.com/-ay7ticokfGQ/T_suQRLkb4I/AAAAAAAAGWY/zoj-ZalWK18/s1024/_MG_6471.jpg"><img title="_MG_6471.jpg" src="http://lh5.ggpht.com/-ay7ticokfGQ/T_suQRLkb4I/AAAAAAAAGWY/zoj-ZalWK18/s1024/_MG_6471.jpg" alt="_MG_6471.jpg" /></a><figcaption class="wp-caption-text">Mijn broden hebben gerezen in een rijsmandje.</figcaption></figure> <figure class="wp-caption alignleft"><a title="_MG_6474.jpg" href="https://lh5.ggpht.com/-Weowh4GUFjY/T_suRJ29ycI/AAAAAAAAGWg/6gDabrXMLDc/s1024/_MG_6474.jpg"><img title="_MG_6474.jpg" src="http://lh5.ggpht.com/-Weowh4GUFjY/T_suRJ29ycI/AAAAAAAAGWg/6gDabrXMLDc/s1024/_MG_6474.jpg" alt="_MG_6474.jpg" /></a><figcaption class="wp-caption-text">Dit brood is prachtig gerezen!</figcaption></figure> 
   
   <p style="clear: both;">
     Vergeet niet om de broden te <strong>bedekken</strong> met wat plastic om korstvorming te voorkomen!
@@ -234,9 +235,9 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   
   <p>
     Wanneer je denkt dat je broden klaar zijn om te baken <strong>ben je te laat!</strong> De oven zou altijd al voorverwarmd moeten zijn, zelfs die 15 minuten kunnen veel uitmaken doordat het brood te lang rijst en dan inzakt. Dus denk een beetje op voorhand na! Je kan &#8220;<a href="http://www.thefreshloaf.com/node/21628/finger-poke-test-problem">the poke test</a>&#8221; uitvoeren om te bepalen of het brood klaar is om gebakken te worden of niet. Wanneer je twijfelt kan je het beter bakken &#8211; beter minder lang dan te lang laten rijzen!
-  </p><figure style="width: 150px" class="wp-caption alignright">
+  </p><figure class="wp-caption alignright">
   
-  <a title="_MG_6469.jpg" href="http://lh3.ggpht.com/-VJF9j_LXmzc/T_suPuqphmI/AAAAAAAAGWQ/9i_X2_jJiDI/s1024/_MG_6469.jpg"><img title="_MG_6469.jpg" src="https://lh3.ggpht.com/-VJF9j_LXmzc/T_suPuqphmI/AAAAAAAAGWQ/9i_X2_jJiDI/s150-c/_MG_6469.jpg" alt="_MG_6469.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Mijn &#8220;kerfstok&#8221; is een licht gebogen scheermesje!</figcaption></figure> 
+  <a title="_MG_6469.jpg" href="https://lh3.ggpht.com/-VJF9j_LXmzc/T_suPuqphmI/AAAAAAAAGWQ/9i_X2_jJiDI/s1024/_MG_6469.jpg"><img title="_MG_6469.jpg" src="https://lh3.ggpht.com/-VJF9j_LXmzc/T_suPuqphmI/AAAAAAAAGWQ/9i_X2_jJiDI/s1024/_MG_6469.jpg" alt="_MG_6469.jpg" /></a><figcaption class="wp-caption-text">Mijn &#8220;kerfstok&#8221; is een licht gebogen scheermesje!</figcaption></figure> 
   
   <p>
     Juist voordat je de broden in de oven steekt zou je de broden moeten <em>inkerven</em>. Wat betekent dit?
@@ -244,12 +245,12 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
   
   <blockquote>
     <p>
-      Brood inkerven maakt enkele zwakke plekken aan in het brood door een scherp mes te gebruiken. Dit wordt gedaan om te controleren hoe het brood zal uitzetten door de hitte in de oven &#8211; en om natuurlijk een mooi effect te creëren.
+      Brood inkerven maakt enkele zwakke plekken aan in het brood door een scherp mes te gebruiken. Dit wordt gedaan om te controleren hoe het brood zal uitzetten door de hitte in de oven.
     </p>
   </blockquote>
   
   <p>
-    Dit klinkt misschien gek, maar ik ben er zeker van dat je het principe al kent: denk maar aan <em>baguettes</em>. De &#8220;oren&#8221; die gemaakt worden wanneer het deeg open barst in de oven zijn te wijten aan de kleine slipjes in het deeg &#8211; het &#8220;inkerven&#8221;.Dit maakt een visueel aantrekkelijk brood waar je je fantasie de vrije loop kan laten gaan.
+     En natuurlijk ook om een mooi effect te creëren. Dit klinkt misschien gek, maar ik ben er zeker van dat je het principe al kent: denk maar aan <em>baguettes</em>. De &#8220;oren&#8221; die gemaakt worden wanneer het deeg open barst in de oven zijn te wijten aan de kleine slipjes in het deeg &#8211; het &#8220;inkerven&#8221;.Dit maakt een visueel aantrekkelijk brood waar je je fantasie de vrije loop kan laten gaan.
   </p>
   
   <p style="clear: both;">
@@ -259,7 +260,7 @@ Deze stap is heel gemakkelijk. Je voordeeg zou goed moeten gerezen hebben (tot h
 {{< youtube iYl5mCqY_L8 >}}
 
   
-  <a title="_MG_6478.jpg" href="http://lh3.ggpht.com/-AAIykhweU50/T_suSALjt-I/AAAAAAAAGWo/nOwyGd3T3fY/s1024/_MG_6478.jpg"><img title="_MG_6478.jpg" src="https://lh3.ggpht.com/-AAIykhweU50/T_suSALjt-I/AAAAAAAAGWo/nOwyGd3T3fY/s150-c/_MG_6478.jpg" alt="_MG_6478.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Na het inkerven. Te diep en niet schuin genoeg!</figcaption></figure> <figure style="width: 150px" class="wp-caption alignleft"><a title="_MG_6480.jpg" href="http://lh6.ggpht.com/-dxNemr_nKrA/T_suS_Y7NKI/AAAAAAAAGWw/FwD4CRhttnI/s1024/_MG_6480.jpg"><img title="_MG_6480.jpg" src="https://lh6.ggpht.com/-dxNemr_nKrA/T_suS_Y7NKI/AAAAAAAAGWw/FwD4CRhttnI/s150-c/_MG_6480.jpg" alt="_MG_6480.jpg" width="150" height="150" /></a><figcaption class="wp-caption-text">Een closeup van de gaatjes veroorzaakt door het fermenteren van de zuurdesem.</figcaption></figure> 
+  <a title="_MG_6478.jpg" href="https://lh3.ggpht.com/-AAIykhweU50/T_suSALjt-I/AAAAAAAAGWo/nOwyGd3T3fY/s1024/_MG_6478.jpg"><img title="_MG_6478.jpg" src="https://lh3.ggpht.com/-AAIykhweU50/T_suSALjt-I/AAAAAAAAGWo/nOwyGd3T3fY/s1024/_MG_6478.jpg" alt="_MG_6478.jpg" /></a><figcaption class="wp-caption-text">Na het inkerven. Te diep en niet schuin genoeg!</figcaption></figure> <figure class="wp-caption alignleft"><a title="_MG_6480.jpg" href="https://lh6.ggpht.com/-dxNemr_nKrA/T_suS_Y7NKI/AAAAAAAAGWw/FwD4CRhttnI/s1024/_MG_6480.jpg"><img title="_MG_6480.jpg" src="http://lh6.ggpht.com/-dxNemr_nKrA/T_suS_Y7NKI/AAAAAAAAGWw/FwD4CRhttnI/s1024/_MG_6480.jpg" alt="_MG_6480.jpg" /></a><figcaption class="wp-caption-text">Een closeup van de gaatjes veroorzaakt door het fermenteren van de zuurdesem.</figcaption></figure> 
   
   <p style="clear: both;">
     Eindelijk, we zijn <strong>klaar om te bakken</strong>! Ik bak altijd alle zuurdesembroden op de zo hoog mogelijke instelling van mijn oven &#8211; dit is 250°C. Na een kwartier of 20 minuten, wanneer het brood enorm gerezen is in de oven (de &#8220;oven spring&#8221;, de laatste zucht van de gistcellen die CO2 maken voor ze sterven door de hitte) kan je het reduceren tot een 230-tal graden. Hoelang moet dit ongeveer bakken? 40 tot 50 minuten, afhankelijk van de grootte van het brood. Je bakt het beter wat langer dan niet lang genoeg, omdat anders de korst te zacht wordt nadat het brood is afgekoeld.

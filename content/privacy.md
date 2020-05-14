@@ -25,3 +25,12 @@ https://policies.google.com/technologies/cookies?hl=nl-BE
 Sommige pagina's maken gebruik van Facebook diensten om posts weer te geven. Deze componenten bevatten cookies enkel als je bent ingelogd op Facebook zelf. Deze website maakt geen enkel gebruik van deze informatie, buiten om posts weer te geven van de Red Zuurdesem Facebook-pagina.
 
 Meer informatie over het gebruik van cookies door Facebook: https://nl-nl.facebook.com/policies/cookies/
+
+## Toeschrijving
+
+Deze website werd tot stand gebracht mede door:
+
+- [Hugo](https://gohugo.io) als static website generator
+- [Swift Theme](https://github.com/onweru/hugo-swift-theme) als basis voor het thema
+- [Font Awesome](fontawesome.com/) voor icons.
+

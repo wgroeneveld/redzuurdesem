@@ -14,7 +14,7 @@ Mijn grootste passies zijn brood bakken en kennis delen. De vruchtbare combinati
 Waarom brood bakken met zuurdesem in plaats van commerciële gist? Omdat men _meer bewust moet zijn van wat men eet_ - brood is immers de belangrijkste voedingsbron voor de mens doorheen de geschiedenis. We eten het dagelijks en toch weten velen niet waar het uit bestaat.
 
 
-> Het lot van een natie hangt af van de manier waarop ze zich voedt. (Anthelme Brillat Savarin)
+> Het lot van een natie hangt helemaal af van de manier waarop deze zich voedt. <span>Anthelme Brillat Savarin</span>
 
 Zuurdesembrood is makkelijker verteerbaar, heeft een superieure smaak door de aanwezigheid van onder andere melkzuurbacteriën, en heeft een unieke structuur. Minder kneden en langer fermenteren is de boodschap. 
 

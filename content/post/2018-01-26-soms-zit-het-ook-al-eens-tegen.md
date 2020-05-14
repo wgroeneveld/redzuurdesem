@@ -14,6 +14,8 @@ Je kent dat wel, moeilijk uit bed kunnen en tegen een stroom van onverwachte of 
   
 Een baaldag kan toeslaan bij iedereen en op eender welk moment, ook bij bakkers. Het brood rijst maar niet, terwijl je al jaren hetzelfde recept gebruikt, of het zakt in, nét voordat je het in de oven wilt schuiven. Of nog beter: een onverwachte stroompanne. Vorige week maakten we dit effectief mee in een broodbak workshop. Gelukkig was de onderbreking maar van erg tijdelijke duur, dankzij de conciërge. De oven was nog niet op temperatuur en 15 personen moeten teleurstellen is niet leuk. Het is bij een baalmoment gebleven in plaats van een hele dag.
 
+> Ik moest ter voorbereiding van een workshop een hybride deeg samenstellen en had verse gist gekocht omdat mijn gedroogde gist weinig reactie toonde de laatste keer dat ik die gebruikte.
+
 Toen ik vorige week nog wat experimentjes wou doorvoeren sloeg het noodlot echter weer toe. Ik moest ter voorbereiding van een workshop een hybride deeg samenstellen en had verse gist gekocht omdat mijn gedroogde gist weinig reactie toonde de laatste keer dat ik die gebruikte. Omdat ik lange rijstijden gewoon ben, was ik tussen de rijstijden door even gaan winkelen. Met dit als gevolg:
 
 <img class="aligncenter size-large wp-image-999" src="https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-768x1024.jpg" alt="" width="768" height="1024" srcset="https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-768x1024.jpg 768w, https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-225x300.jpg 225w, https://redzuurdesem.be/wp-content/uploads/2018/01/2018-01-19-14.12.26-820x1093.jpg 820w" sizes="(max-width: 768px) 100vw, 768px" />

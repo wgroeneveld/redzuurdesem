@@ -8,6 +8,8 @@ disablefb: true
 
 Het begon allemaal met een kabouter. Een kabouter in de vorm van een broodbakmachine, die voor mij 's nachts opstaat, wat blokken hout in de oven gooit om vervolgens zijn handen vuil te maken. Dagelijks brood met een druk op de knop. In 2010 wist ik niet beter. Het duurde nog twee jaar voordat ik interesse begon te tonen in het broodbakproces en uiteindelijk de kabouter met pensioen stuurde. Dankzij broodbak blogs zoals '[Weekend Bakery](https://www.weekendbakery.com/)' en '[The Fresh Loaf](https://thefreshloaf.com)' ontdekte ik de wondere wereld van '_zuurdesem_', een ontdekking die de rest van mijn leven zou veranderen. 
 
+> Als software ingenieur stel ik vaak vervelende vragen, zoals 'waarom werkt dit eigenlijk zo?' Het _debuggen_ van het broodbak-_algoritme_.
+
 Sindsdien begon de persoonlijke zoektocht naar de smaak en wetenschap van brood. Als software ingenieur stel ik vaak vervelende vragen, zoals 'waarom werkt dit eigenlijk zo?' Het _debuggen_ van het broodbak-_algoritme_. Brood bakken begon langzaam maar zeker te evolueren van een noodzaak  naar een uit de hand gelopen obsessie. 
 
 [![mijn rogge starter](/images/guest-post/roggestarter.jpg)](/images/guest-post/roggestarter.jpg)
@@ -35,10 +37,11 @@ Ik deel hier graag met jullie mijn 'tarwe boerenbrood'-formule uit het boek - ee
 
 Het brood is `15%` volkoren en bevat `70%` water. Dat laatste zal je moeten bijstellen afhankelijk van jouw lokale bloem - dat is net het prachtige aan brood bakken: het is telkens weer _voelen_! Ik hou het voordeeg graag simpel: dat is gewoon `10%` van de totale bloem en evenveel water. Als het even kan fermenteer ik altijd het volkoren gedeelte: hoe pittiger, hoe prettiger. Meng dus 12 uur op voorhand:
 
-> `100 g` roggemeel, volkoren <br/>
-> `100 g` water<br/>
-> `1 el` zuurdesemstarter 
+- `100 g` roggemeel, volkoren
+- `100 g` water
+- `1 el` zuurdesemstarter 
 
+> De lange gekoelde tweede rijs vereist wat meer zout, maar het resultaat is een smaakbom!
 
 Methode:
 
