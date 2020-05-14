@@ -53,7 +53,7 @@ Inspelend op actualiteit!
 [-] EVA VWZ (gestuurd 04/05)
 [-] Vanuit Stad Hasselt; via Marleen (gestuurd 3/05)
 [ ] De Nieuwe Hasselaar proberen? communicatie@hasselt.be
-[ ] Delicious magazine?
+[-] Delicious magazine? delicious@newskoolmedia.nl (gestuurd 13/05)
 
 
 ## Tips Veerle e.d.

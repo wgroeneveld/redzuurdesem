@@ -18,7 +18,7 @@ Mijn missie is simpel: **zuurdesembrood bakken opnieuw populariseren**. Daarom 
 
 Met het grote aanbod aan technische en persoonlijke artikels hoop ik mijn passie voor zuurdesem over te brengen op anderen. Mijn wens voor jullie als bezoekers van deze website is **één succeservaring** te kunnen boeken in het bakken met desem. Een positieve ervaring zet aan tot meer.
 
-De [actieve Facebook community](https://facebook.com/redzuurdesem) helpt iedereen uit de nood. Zit je vast of heb je vragen over een formule of artikel? Heeft je zuurdesemstarter het opgegeven? Geen nood, wij helpen je graag verder!
+De [actieve Facebook-groep](https://facebook.com/redzuurdesem) helpt iedereen uit de nood. Zit je vast of heb je vragen over een formule of artikel? Heeft je zuurdesemstarter het opgegeven? Geen nood, wij helpen je graag verder!
 
 
 Bak ze!
