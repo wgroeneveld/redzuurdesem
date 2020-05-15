@@ -165,7 +165,7 @@
 		});
 	})()
 
-	function fromFixedToScrollForSafari() {
+	const fromFixedToScrollForSafari = () => {
 		const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 		const header = document.querySelector('.post_header');
 		if(isSafari) {
@@ -173,7 +173,7 @@
 		}
 	}
 
-	function fbCommunityHeaderify() {
+	const fbCommunityHeaderify = () => {
 		var elem = document.querySelector('#fb-community-header');
 		if(!elem) return;
 
@@ -197,7 +197,7 @@
 		  elem.innerHTML = list[index] + ' &raquo;';
 	}
 
-	function fbCommunityContainer() {
+	const fbCommunityContainer = () => {
 		var elem = document.querySelector('#fb-community-container');
 		if(!elem) return;
 
@@ -208,7 +208,19 @@
         elem.innerHTML = '<div class="fb-page" data-width="' + vw + '" data-href="https://www.facebook.com/redzuurdesem" data-hide-cover="false" data-tabs="timeline,messages" data-show-facepile="false"></div>';
 	}
 
+	const lightbox = () => {
+		[...document.querySelectorAll('article img')].forEach(el => {
+			if(el.parentNode.nodeName !== 'A') {
+				el.parentNode.innerHTML =  `<a href="${el.src}" class="lbox">${el.outerHTML}</a>`; 
+			} else {
+				el.parentNode.setAttribute('class', 'lbox');				
+			}
+		})
+		const box = new SimpleLightbox('.lbox', { /* options */ });
+	};
+
 	fbCommunityHeaderify();
 	fbCommunityContainer();
 	fromFixedToScrollForSafari();
+	lightbox();
 })()
