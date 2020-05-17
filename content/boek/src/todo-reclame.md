@@ -8,6 +8,24 @@ https://www.goodreads.com/book/show/53267590-red-zuurdesem doorgeven?
 
 [ ] Leo Babauta: un-copyright te bekijken
 
+### Google Trends, SEO Keywords: artikels
+
+[ ] 'zuurdesem maken' - maak je eigen zuurdesemstarter herschrijven - woorden als 'voeden' en 'starter' ook bij betrekken
+[ ] 'desembrood bakken' - oven e.d. tips met bakproces zelf?
+[ ] 'zuurdesem kopen' - apart artikel over schrijven? links naar gedroogde experiment, zelf maken ed
+
+Artikels herschrijven:
+
+- Correctly scoring your loaf
+- My Daily Bread
+- Maak je eigen zuurdesem starter
+
+Hoe?
+
+- https://www.wordtracker.com/search?query=zuurdesem
+- https://trends.google.com/
+- https://search.google.com/u/0/search-console/performance/
+
 ### Site rework todo's
 
 [X] Facebook posts auto-grab IDs op een of andere manier? https://developers.facebook.com/docs/graph-api/reference/v7.0/page/feed reeds included 

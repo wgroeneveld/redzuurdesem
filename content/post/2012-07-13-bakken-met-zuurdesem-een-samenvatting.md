@@ -10,11 +10,10 @@ featured_image: /wp-content/uploads/2012/07/scored1.jpg
 tags:
   - studeren
 ---
-<div style="display: none;">
-  <a href="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg"><img class="aligncenter size-medium wp-image-275" title="scored" src="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg" alt="" width="300" height="200" srcset="https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-300x200.jpg 300w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1-700x466.jpg 700w, https://redzuurdesem.be/wp-content/uploads/2012/07/scored1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</div>
 
-Los van dat zijn er enkele basisstappen waar elk brood door gaat, onafhankelijk van het recept of van uw bloem type. Ik wil bij deze graag een snelle samenvatting geven rond bakken met zuurdesem. Eens je bekent bent met deze basisprincipes kan je makkelijk je eigen recept creëren en er een eigen stijl aan geven.
+Er zijn enkele basisstappen waar elk desembrood dat je wil bakken door gaat, onafhankelijk van het recept of van het type bloem. Ik wil bij deze graag een korte samenvatting geven rond bakken met zuurdesem of desem. Eens je bekent bent met deze basisprincipes kan je makkelijk je eigen recept creëren en er een eigen stijl aan geven.
+
+Zuurdesem is een kwestie van plannen. Eens je je planning op punt hebt, is het niet meer nodig om naar de winkel te hollen om een zuurdesembrood te kopen, maar kan je het gewoon zelf maken! 
 
 > Brood bakken is niet moeilijk. Het vereist enkel basis ingrediënten (water, bloem, zout) en geduld. Dat laatste is het meest uitdagende aspect.
 
