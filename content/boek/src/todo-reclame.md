@@ -10,7 +10,7 @@ https://www.goodreads.com/book/show/53267590-red-zuurdesem doorgeven?
 
 ### Google Trends, SEO Keywords: artikels
 
-[ ] 'zuurdesem maken' - maak je eigen zuurdesemstarter herschrijven - woorden als 'voeden' en 'starter' ook bij betrekken
+[X] 'zuurdesem maken' - maak je eigen zuurdesemstarter herschrijven - woorden als 'voeden' en 'starter' ook bij betrekken
 [ ] 'desembrood bakken' - oven e.d. tips met bakproces zelf?
 [ ] 'zuurdesem kopen' - apart artikel over schrijven? links naar gedroogde experiment, zelf maken ed
 

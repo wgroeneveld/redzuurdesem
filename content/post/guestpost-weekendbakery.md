@@ -1,7 +1,16 @@
 ---
-title: Weekend Bakery
+title: 'Gastenpost: Weekend Bakery'
 date: 2020-05-12
-disablefb: true
+image: /images/boekcover.jpg
+aliases:
+    - /guest-post/weekendbakery/
+    - /guest-post/weekendbakery.en/
+tags: 
+    - Gastenpost
+---
+
+_Red Zuurdesem werd met onderstaande post geëerd bij onze gepassioneerde Nederlandse bakvrienden Weekend Bakery. De [Engelstalige](https://www.weekendbakery.com/posts/guest-posting-wouter-groeneveld-save-the-sourdough/) en [Nederlandstalige](https://www.weekendbakery.com/posts/guest-posting-wouter-groeneveld-red-zuurdesem/) artikels kan je via deze links terugvinden._
+
 ---
 
 ### Een persoonlijke zoektocht
