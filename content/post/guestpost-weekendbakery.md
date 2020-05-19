@@ -7,6 +7,7 @@ aliases:
     - /guest-post/weekendbakery.en/
 tags: 
     - Gastenpost
+    - tarwe
 ---
 
 _Red Zuurdesem werd met onderstaande post geëerd bij onze gepassioneerde Nederlandse bakvrienden Weekend Bakery. De [Engelstalige](https://www.weekendbakery.com/posts/guest-posting-wouter-groeneveld-save-the-sourdough/) en [Nederlandstalige](https://www.weekendbakery.com/posts/guest-posting-wouter-groeneveld-red-zuurdesem/) artikels kan je via deze links terugvinden._

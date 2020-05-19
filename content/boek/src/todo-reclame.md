@@ -16,9 +16,9 @@ https://www.goodreads.com/book/show/53267590-red-zuurdesem doorgeven?
 
 Artikels herschrijven:
 
-- Correctly scoring your loaf
-- My Daily Bread
-- Maak je eigen zuurdesem starter
+[ ] Correctly scoring your loaf
+[ ] My Daily Bread
+[X] Maak je eigen zuurdesem starter
 
 Hoe?
 
@@ -27,6 +27,9 @@ Hoe?
 - https://search.google.com/u/0/search-console/performance/
 
 ### Site rework todo's
+
+fb post boost - status 17/05:
+51 likes, 23 opm, 9x gedeeld, 642 likes, 689 volgen.
 
 [X] Facebook posts auto-grab IDs op een of andere manier? https://developers.facebook.com/docs/graph-api/reference/v7.0/page/feed reeds included 
 [ ] fucking token die maar 2 maand houdbaar is - in kalender zetten? met api calls auto-refreshen op een of andere manier
