@@ -1,5 +1,4 @@
 ---
-chapter: true
 title: "Het Boek"
 date: 2020-04-26
 image: /images/boekcover.jpg

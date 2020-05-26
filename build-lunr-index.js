@@ -38,8 +38,9 @@ function makeIndex(posts) {
 
 async function run() {
   const posts = await loadPostsWithFrontMatter(`${__dirname}/content/post`);
+  const fbposts = await loadPostsWithFrontMatter(`${__dirname}/content/fb`);
   const leren = await loadPostsWithFrontMatter(`${__dirname}/content/leren`);
-  const index = makeIndex(posts.concat(leren));
+  const index = makeIndex(posts.concat(leren).concat(fbposts));
   console.log(JSON.stringify(index));
 }
 

@@ -1,0 +1,29 @@
+{{- $scratch := newScratch }}
+{{- if isset .Params "image" }}
+  {{- $scratch.Set "image" .Params.image }}
+{{- else }}
+  {{- if isset .Params "featured_image" }}
+    {{- $scratch.Set "image" .Params.featured_image }}
+  {{- else }}
+    {{ $scratch.Set "image" "thumbnail.svg" }}
+  {{- end }}
+{{- end }}
+{{- $image := $scratch.Get "image" }}
+{{- $bg := ( $image | absLangURL) }}
+<li class = 'fbpost_item post_item' data-link="{{ .Params.link }}">
+  <div class = 'excerpt'>
+    <a href='{{ .Params.link }}' target="_blank">
+      <img src="/images/badge.png" alt="logo" class="fbpost_item_badge" />
+      <h3 class = 'post_link fbpost_item_link'>
+          Red Zuurdesem
+      </h3>
+      <h4 class='fbpost_item_date'>
+        Op {{ .Date.Format (.Site.Params.dateFormat | default "2 January 2006") }}
+      </h4>
+      <svg>
+        <use xlink:href="#facebook"></use>
+      </svg> 
+    </a>
+    <p class = 'pale'>{{ .Content }}</p>
+  </div>
+</li>

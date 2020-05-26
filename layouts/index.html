@@ -64,8 +64,10 @@
 		<a href="https://facebook.com/redzuurdesem">Laatste Facebook posts</a> &raquo;
 	</h1>
 </div>
-<ul class='posts wrap' id = 'fbposts'>
-	<li><div class="lds-facebook"><div></div><div></div><div></div></div> Bezig met laden... </li>
+<ul class='posts wrap'>
+	{{- range first 4 (where .Site.RegularPages "Section" "==" "fb") }}
+	  {{ partial "excerptfb" . }}
+	{{- end }}	
 </ul>
 <script>
 window.fbtoken = "{{ .Site.Params.fbtoken }}";

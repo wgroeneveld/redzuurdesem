@@ -90,6 +90,18 @@
     });
   })();
 
+	[...document.querySelectorAll('.fbpost_item')].forEach((el) => {
+		const link = el.getAttribute('data-link');
+		[...el.querySelectorAll('p img')].forEach((img) => {
+			img.addEventListener('click', () => {
+				let a = document.createElement('a')
+				a.target= '_blank'
+				a.href= link
+				a.click()
+			})
+		})
+	});
+
 	(function() {
 		let bar = 'nav_bar-wrap';
 		let navBar = elem(`.${bar}`);
@@ -147,40 +159,6 @@
 	// ******
 
 	(function() {
-		var fbposts = document.querySelector('#fbposts');
-		function whoops(error) {
-			console.log(error);
-			fbposts.innerHTML = "<li>Er is iets misgelopen bij het ophalen van Facebook posts.</li>";
-		}
-		function parseFeed(response) {
-			if(response && !response.error) {
-				var html = "";
-
-				response.data.forEach(function(elem) {
-					var id = elem.id.substring(elem.id.indexOf('_') + 1, elem.id.length);
-					html += "<li class = 'post_item'><div class='fb-post' data-href='https://www.facebook.com/redzuurdesem/posts/" + id + "'></div></li>";
-				});
-
-				fbposts.innerHTML = html;
-				FB.XFBML.parse(fbposts);
-			} else {
-				whoops(response.error);
-			}
-		}
-
-		function getRedZuurdesemFacebookFeed() {
-			try {
-				FB.api("/redzuurdesem/feed?limit=4&access_token=" + window.fbtoken, parseFeed);
-			} catch(e) {
-				whoops(e);
-			}
-		}
-		if(fbposts && window.fbtoken) {
-			window.fbAsyncInit = getRedZuurdesemFacebookFeed;
-		}
-	})();
-
-	(function() {
 		const $target = document.querySelector('#searchapp');
 		const $pages = document.querySelector('#resultaten .pages');
 		if(!($target && window.searchposts)) return;
@@ -226,6 +204,7 @@
 			header.style.backgroundAttachment = 'scroll';
 		}
 	}
+	fromFixedToScrollForSafari();
 
 	const fbCommunityHeaderify = () => {
 		var elem = document.querySelector('#fb-community-header');
@@ -250,17 +229,7 @@
 		var index = Math.floor(Math.random() * list.length);
 		  elem.innerHTML = list[index] + ' &raquo;';
 	}
-
-	const fbCommunityContainer = () => {
-		var elem = document.querySelector('#fb-community-container');
-		if(!elem) return;
-
-        // https://developers.facebook.com/docs/plugins/page-plugin/ - max is 600
-        var width = 600;
-        var vw = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-        if(vw < width) width = vw - 10;
-        elem.innerHTML = '<div class="fb-page" data-width="' + vw + '" data-href="https://www.facebook.com/redzuurdesem" data-hide-cover="false" data-tabs="timeline,messages" data-show-facepile="false"></div>';
-	}
+	fbCommunityHeaderify();
 
 	const lightbox = () => {
 		[...document.querySelectorAll('article img')].forEach(el => {
@@ -272,9 +241,5 @@
 		})
 		const box = new SimpleLightbox('.lbox', { /* options */ });
 	};
-
-	fbCommunityHeaderify();
-	fbCommunityContainer();
-	fromFixedToScrollForSafari();
 	lightbox();
 })()

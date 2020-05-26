@@ -13,7 +13,7 @@
   <div id="searchapp"></div>
 </div>
 
-<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="/js/lunr.min.js"></script>
 {{ $p := slice }}
 {{ range (where .Site.RegularPages "Section" "!=" "") }}
   {{ $post := dict "link" .RelPermalink "title" .Title "content" (substr .Plain 0 200) -}}
