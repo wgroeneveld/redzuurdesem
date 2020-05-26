@@ -6,13 +6,12 @@ DefaultContentLanguage = "nl"
 
 PaginatePath = "pagina"
 
-googleAnalytics = "UA-117973708-1"
-
 ignorefiles = [ "content/boek/src/.*" ]
 theme = "desem-swift-theme"
 
 [params]
 logo = "/images/badge.png"
+fathomid = "BUDSM"
 fbtoken = "EAAn5J1FBPssBAEklcMbCU4PrCZB3aMyLuD3XqYGTaif8gKbx24PH5ZA6WrsQwiSGJzLIuVdHn4s2EymVDXTdrWaKLJqkDACiY5SLreXbeLuXTKirw7bncJM68dKTV7Y7Sp9rroU9IGqSUsJrhIzFvjlZAKBCQwUesut1p03oLPxkVTpNSg2"
 
 # For search functionnality

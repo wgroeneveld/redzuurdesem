@@ -18,6 +18,7 @@ Artikels herschrijven:
 
 [ ] Correctly scoring your loaf
 [ ] My Daily Bread
+[ ] het belang van brood insnijden
 [X] Maak je eigen zuurdesem starter
 
 Hoe?
@@ -30,6 +31,10 @@ Hoe?
 
 fb post boost - status 17/05:
 51 likes, 23 opm, 9x gedeeld, 642 likes, 689 volgen.
+
+fb post boost - status 20/05 (16u):
+154 likes, 29 opm, 31x gedeeld, 661 likes, 705 volgen.
+
 
 [X] Facebook posts auto-grab IDs op een of andere manier? https://developers.facebook.com/docs/graph-api/reference/v7.0/page/feed reeds included 
 [ ] fucking token die maar 2 maand houdbaar is - in kalender zetten? met api calls auto-refreshen op een of andere manier
