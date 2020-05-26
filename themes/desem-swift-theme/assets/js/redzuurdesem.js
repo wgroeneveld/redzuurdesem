@@ -1,4 +1,5 @@
 (function() {
+  const doc = document.documentElement;
 
 	// from swift theme: sandwich
 	// ******
@@ -14,6 +15,10 @@
 		  return el.classList.contains(targetClass) ? true : false;
 		}
 	}
+
+	function createEl(element = 'div') {
+		return document.createElement(element);
+	}	
 
 	function isObj(obj) {
 		return (obj && typeof obj === 'object' && obj !== null) ? true : false;
@@ -35,6 +40,55 @@
 		  elClass.contains(targetClass) ? false : elClass.add(targetClass);
 		}
 	}
+
+  const copyToClipboard = str => {
+    let copy, selection, selected;
+    copy = createEl('textarea');
+    copy.value = str;
+    copy.setAttribute('readonly', '');
+    copy.style.position = 'absolute';
+    copy.style.left = '-9999px';
+    selection = document.getSelection();
+    doc.appendChild(copy);
+    // check if there is any selected content
+    selected = selection.rangeCount > 0 ? selection.getRangeAt(0) : false;
+    copy.select();
+    document.execCommand('copy');
+    doc.removeChild(copy);
+    if (selected) { // if a selection existed before copying
+      selection.removeAllRanges(); // unselect existing selection
+      selection.addRange(selected); // restore the original selection
+    }
+  }
+
+ (function copyLinkToShare() {
+    let  copy, copied, excerpt, isCopyIcon, isInExcerpt, link, postCopy, postLink, target;
+    copy = 'copy';
+    copied = 'copy_done';
+    excerpt = 'excerpt';
+    postCopy = 'post_copy';
+    postLink = 'post_card';
+
+    doc.addEventListener('click', function(event) {
+      target = event.target;
+      isCopyIcon = containsClass(target, copy);
+      let isWithinCopyIcon = target.closest(`.${copy}`);
+      if (isCopyIcon || isWithinCopyIcon) {
+        let icon = isCopyIcon ? isCopyIcon : isWithinCopyIcon;
+        isInExcerpt =  containsClass(icon, postCopy);
+        if (isInExcerpt) {
+          link = target.closest(`.${excerpt}`).previousElementSibling;
+          link = containsClass(link, postLink)? elemAttribute(link, 'href') : false;
+        } else {
+          link = window.location.href;
+        }
+        if(link) {
+          copyToClipboard(link);
+          pushClass(icon, copied);
+        }
+      }
+    });
+  })();
 
 	(function() {
 		let bar = 'nav_bar-wrap';

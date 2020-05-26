@@ -7,11 +7,11 @@ disablefb: true
 
 Deze website maakt gebruik van de volgende externe componenten, waar mogelijks cookies aan zijn verbonden:
 
-#### Google Analytics
+#### Website statistieken
 
-Deze website gebruikt anonieme IP-gegevens in de vorm van Google Analytics om websiteverkeer beter op te kunnen volgen. Er worden geen enkele persoons- of locatiegebonden gegevens mee opgenomen. 
+Deze website gebruikt anonieme IP-gegevens om websiteverkeer beter op te kunnen volgen. Er worden geen enkele persoons- of locatiegebonden gegevens mee opgenomen. Hiervoor wordt Fathom gebruikt, en niet Google Analytics, en de data wordt niet verstuurd naar derden.
 
-Meer informatie over het gebruik van anonieme IP-gegevens door Google: https://support.google.com/analytics/answer/2763052?hl=nl
+Meer informatie over het gebruik van cookies door Fathom: https://usefathom.com/privacy
 
 #### YouTube
 

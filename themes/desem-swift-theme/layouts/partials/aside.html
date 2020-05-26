@@ -1,19 +1,19 @@
 {{- $kin := (where .Site.RegularPages ".Params.tags" "intersect" .Params.tags) }}
 
 {{ if (ne (len $kin) 0) }}
-<h3>{{ i18n "moreFrom" .Site.Title }} &raquo;</h3>
-<ul class='posts aside'>
-  {{- $siblings := (where $kin ".Title" "!=" .Title) }}
-  {{- with $siblings }}
-    {{- range first 2 . }}
-      {{- partial "excerpt" . }}
-    {{- end }}
-  {{- else }}
-    {{- $kin := (where .Site.RegularPages "Section" .Section) }}
+  <h3>{{ i18n "moreFrom" .Site.Title }} &raquo;</h3>
+  <ul class='posts aside'>
     {{- $siblings := (where $kin ".Title" "!=" .Title) }}
-    {{- range first 2 $siblings }}
-      {{- partial "excerpt" . }}
+    {{- with $siblings }}
+      {{- range first 2 . }}
+        {{- partial "excerpt" . }}
+      {{- end }}
+    {{- else }}
+      {{- $kin := (where .Site.RegularPages "Section" .Section) }}
+      {{- $siblings := (where $kin ".Title" "!=" .Title) }}
+      {{- range first 2 $siblings }}
+        {{- partial "excerpt" . }}
+      {{- end }}
     {{- end }}
-  {{- end }}
-</ul>
+  </ul>
 {{ end }}

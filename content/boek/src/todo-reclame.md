@@ -35,6 +35,10 @@ fb post boost - status 17/05:
 fb post boost - status 20/05 (16u):
 154 likes, 29 opm, 31x gedeeld, 661 likes, 705 volgen.
 
+fb post boost - status 23/05 (16u): 
+eindstats: bereik 6.012, betrokkenheid 479, klikken op links 180
+237 likes, 34 opm, 38x gedeeld, 674 likes, 720 volgen.
+
 
 [X] Facebook posts auto-grab IDs op een of andere manier? https://developers.facebook.com/docs/graph-api/reference/v7.0/page/feed reeds included 
 [ ] fucking token die maar 2 maand houdbaar is - in kalender zetten? met api calls auto-refreshen op een of andere manier
@@ -49,6 +53,7 @@ fb post boost - status 20/05 (16u):
 [-] Pieter Facebook (bericht gestuurd)
 [-] Debbie Facebook (bericht gestuurd)
 [ ] Bake Off Vlaanderen bake-along groep? https://www.facebook.com/groups/1559392017451480
+[-] FB peep hulp Radio I (onderweg)
 
 ### Recensies vragen
 
@@ -67,7 +72,7 @@ fb post boost - status 20/05 (16u):
 ### Doorverkoop
 
 [ ] Verkopen via winkeltje Schoofs in Genk?
-[ ] Samenwerking Grimm?
+[-] Samenwerking Grim? (gemaild, 23/05)
 [ ] Sanemwerking Standaard Boekhandel Hasselt? (na lokaal artikel pers?)
 
 ### Pers
