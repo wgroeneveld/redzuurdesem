@@ -15,11 +15,11 @@ Meer informatie over het gebruik van cookies door Fathom: https://usefathom.com/
 
 #### YouTube
 
-Sommige pagina's bevatten YouTube videos. Deze componenten maken expliciet _geen_ het interne cookie systemen van YouTube, maar verwijzen in de plaats daarvan naar `youtube-nocookie.com`, om te vermijden dat YouTube, en Google, cookies en trackers inzet op deze website.
+Sommige pagina's bevatten YouTube videos. Deze componenten maken expliciet _geen_ gebruik van interne cookie systemen van YouTube, maar verwijzen in de plaats daarvan naar `youtube-nocookie.com`, om te vermijden dat YouTube, en Google, cookies en trackers inzet op deze website.
 
 #### Facebook
 
-Alle Facebook posts zijn statische posts die zelf worden gehost om te vermijden dat Facebook cookies en trackers worden ingezet op deze website. Er worden geen enkele cookies en trackers gebruikt van Facebook. 
+Alle Facebook posts zijn statische posts die zelf worden gehost om te vermijden dat Facebook cookies en trackers inzet op deze website. Er worden geen enkele cookies en trackers gebruikt van Facebook. 
 
 ## Toeschrijving
 
