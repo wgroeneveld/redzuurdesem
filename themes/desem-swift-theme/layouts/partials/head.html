@@ -26,6 +26,7 @@
   {{- end }}
 
   {{- partial "opengraph" . }}
+  {{- partial "ldjson-schema" . }}
   {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "post") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
 
   {{ if $related }}

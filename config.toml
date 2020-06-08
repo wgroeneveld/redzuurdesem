@@ -10,8 +10,13 @@ ignorefiles = [ "content/boek/src/.*" ]
 theme = "desem-swift-theme"
 
 [params]
-logo = "/images/badge.png"
-fathomid = "BUDSM"
+  logo = "/images/badge.png"
+  fathomid = "BUDSM"
+  copyright = "Copyright 2020 Red Zuurdesem"
+  description = "Red Zuurdesem: Zuurdesembrood bakken opnieuw populair maken."
+
+[Author]
+  name = "Wouter Groeneveld"
 
 # For search functionnality
 [outputs]

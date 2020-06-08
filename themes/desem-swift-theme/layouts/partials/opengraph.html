@@ -31,37 +31,4 @@
 <meta name = 'twitter:title' content = '{{ .Title }}' />
 <meta property = 'twitter:description'  content = '{{ $summary }}'/>
 <meta name = 'twitter:image' content = '{{ $image }}' />
-{{- if eq .Section "blog" -}}
-  {{- $date := ( .Date.Format "2006-02-01") -}}
-  {{- $date := (time .Date) }}
-  {{- $lastMod := (time .Lastmod) }}
-  <script type = "application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "BlogPosting",
-      "mainEntityOfPage":"{{ $permalink }}",
-      "name": "{{ $site }}",
-      "headline": {{ $title }},
-      "description": {{ $summary }},
-      "url": "{{ $permalink }}",
-      "datePublished": {{ $date  }},
-      "dateModified": {{ $lastMod }},
-      "author": {
-        "@type": "Person",
-        "name": "{{ $author }}"
-      },
-      "image":{
-        "@type":"ImageObject",
-        "url": "{{ $image }}"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "logo": {
-          "@type":"ImageObject",
-          "url": "{{ $logo }}"
-        },
-        "name": "{{ $site }}"
-      }
-    }
-  </script>
-{{- end }}
+
