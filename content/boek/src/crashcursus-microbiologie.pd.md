@@ -444,4 +444,3 @@ Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met 
 * Bakpoeder haalt tijd uit de vergelijking, en dat zal je voelen aan je maag. 
 * Wees consistent met het bakproces.
 * Ingenieurs zijn lui. 
-vo

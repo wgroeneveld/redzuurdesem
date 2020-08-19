@@ -359,21 +359,21 @@ De enige temperatuur die ik kan beïnvloeden is de temperatuur van het water. Om
 
 | Factor       | Temp. in Fahrenheit | Temp. in Celsius |
 |:-------------|:-------------------:|:-----------------:|
-| Kamer        | `69.5 °F`           | `20.8°C`          |
-| Bloem        | `65.3 °F`           | `18.5°C`          |
-| Voordeeg     | `66.8 °F`           | `19.3°C`          |
-| Wrijving     | `20.0 °F`           | /                 |    
+| Kamer        | `69.5 F`           | `20.8°C`          |
+| Bloem        | `65.3 F`           | `18.5°C`          |
+| Voordeeg     | `66.8 F`           | `19.3°C`          |
+| Wrijving     | `20.0 F`           | /                 |    
 | Water        | ?                   | ?                 |
 
 Table: Waargenomen factoren die de temperatuur van brooddeeg beïnvloeden. \label{temptable}
 
-De gewenste deegtemperatuur (`24°C`) maal vier is `304 °F`, vermindert met de temperaturen uit de tabel is `82.4 °F` of ongeveer `28°C`. Kneden doet de temperatuur van het deeg ook stijgen door middel van kinetische energie die mee in rekening moet worden gebracht[^rekeningbr]. Dit verschil is te klein om in Celsius te kunnen berekenen. Ik vergat echter dat dit effect helemaal niet zo groot is als voorzien wanneer je met de hand kneedt. 
+De gewenste deegtemperatuur (`24°C`) maal vier is `304 F`, verminderd met de temperaturen uit de tabel is `82.4 F` of ongeveer `28°C`. Kneden doet de temperatuur van het deeg ook stijgen door middel van kinetische energie die mee in rekening moet worden gebracht[^rekeningbr]. Dit verschil is te klein om in Celsius te kunnen berekenen. Ik vergat echter dat dit effect helemaal niet zo groot is als voorzien wanneer je met de hand kneedt. 
 
 Een tweede probleem is het kneedoppervlak: de koude marmeren steen van mijn keuken[^mijnsteen] steelt energie tijdens het kneden. Na exact zes minuten intensief handwerk voor elk deeg heb ik nog iets meer dan `22°C` gemeten - dat is twee volle graden ernaast. Al een geluk dat dit probleem zich bij alle degen stelde. De incubatieruimte werd ingesteld tussen `24.5` en `25.5°C`.
 
 [^mijnsteen]: Om professioneel brood te kneden moet het kneedoppervlak volgens de Belgische wetgeving beukenhout zijn. De vorige eigenaar van onze woning was hier duidelijk niet vanop de hoogte.
 
-[^rekeningbr]: De `20 °F` komt uit een referentietabel en gaat uit van het gebruik van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn handen nooit kunnen voortbrengen. 
+[^rekeningbr]: De `20 F` komt uit een referentietabel en gaat uit van het gebruik van een spiraalkneder in stand 2. Hoe hevig ik ook kneed, zoveel energie ga ik met enkel mijn handen nooit kunnen voortbrengen. 
 
 | Type deeg   | Eerste rijstijd | Tweede rijstijd | Bakken |
 |:------------|:----------------|:----------------|:-------|

@@ -64,7 +64,7 @@ Een gang tussen het fornuis en de oven verbindt de zaal met de eigenlijke werkpl
 
 ‘Dat went wel. Toen ik hier begon had ik minder plaats dan u!’ verzekerde Sophia me. Dat chefs en hulpkoks die werkplaats ook bezetten tijdens de openingsuren van het restaurant, maakt de hele operatie er alleen maar chaotischer op. 
 
-Werken met de Salva-oven was puur plezier: hij is heel accuraat. Dat betekent dat iemand zoals mij die maar een korte stage loopt, hem relatief snel onder de knie heeft. Onder- en bovenwarmte instellen werkt goed, hij warmt snel op en de verdiepingen stonden voor mij op de juiste hoogte. 
+Werken met de Salva-oven was puur plezier: hij is heel accuraat. Dat betekent dat iemand zoals ik die maar een korte stage loopt, hem relatief snel onder de knie heeft. Onder- en bovenwarmte instellen werkt goed, hij warmt snel op en de verdiepingen stonden voor mij op de juiste hoogte. 
 
 \begin{figure}
     \centering

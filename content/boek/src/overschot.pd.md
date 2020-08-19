@@ -98,7 +98,7 @@ Overschot aan zuurdesem bevat nog steeds een groot aantal actieve micro-organism
 
 Ik maak mijn yoghurt zelf door een eetlepel of twee yoghurt in melk op te lossen. Als dat niet voorhanden is, is een potje gekochte (natuur)yoghurt ook goed, zolang er maar 'actieve' bestanddelen inzitten[^actievebest]. De volgende keer dat je zuurkool, miso, kimchi of andere ingelegde groenten wil maken, kick-start dan het fermentatieproces met een beetje desem dat anders toch wordt weggegooid. 
 
-Dit principe geldt ook omgekeerd. Als je geen zin hebt om een zuurdesemcultuur vanaf nul op te kweken, gebruik dan gewoon een beetje levende organismen van een andere cultuur, zoals bovenstaande miso[^misoadd], yoghurt, kefir of zuurkoolvocht. Meng dit met bloem en water, en na 12 uur fermenteren op kamertemperatuur is het toegestaan om '_It's alive!_' te roepen, vergezeld met een gepast dansje.
+Dit principe geldt ook omgekeerd. Als je geen zin hebt om een zuurdesemcultuur vanaf nul op te kweken, gebruik dan gewoon een beetje levende organismen van een andere cultuur, zoals bovenstaande miso[^misoadd], yoghurt, kefir of zuurkoolvocht. Meng dit met bloem en water, en na 12 uur fermenteren op kamertemperatuur is het toegestaan om '_It's alive!_' te roepen, vergezeld van een gepast dansje.
 
 [^actievebest]: Yoghurt wordt verkocht als probiotica, maar zelfs daar boek ik met het ene merk meer succes dan het andere om zelf yoghurt te maken. Het pasteurisatieproces doodt alle organismen in voedsel. Koop daarom nooit zuurkool in de supermarkt, tenzij er 'ongepasteuriseerd' op staat. 
 

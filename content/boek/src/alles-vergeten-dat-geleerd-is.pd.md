@@ -99,7 +99,7 @@ Ik hoop dat mijn eigen vrouw dit nooit leest...
 
 Aan de natuurbakkerij is ook een winkeltje verbonden waar biologische producten worden verkocht zoals sinaasappel olijfolie uit Italië en verschillende soorten granen, thee en andere natuurlijke producten. 
 
-‘Ik heb die olie zelf gekozen en ben naar de pers geweest in Italië om hem te proeven. Geweldige boel, proef zelf maar eens!’ Hij brak een aantal pistolets en deed er wat olie op om ons zelf te laten oordelen. De olie was intens en de smaak van sinaasappel blijft lang hangen. Zoiets past goed bij een pistolet die zelf eerder de drager dan de smaakmaker is. Schoofs is in veel opzichten een typisch Vlaamse bakkerij: je kan er sandwiches, pistolets en enorm veel soorten brood krijgen maar ook wafels, taartjes en seizoensgebak. Het grootste verschil zit hem in de ingrediënten, of het gebrek daarvan. 
+‘Ik heb die olie zelf gekozen en ben naar de pers geweest in Italië om hem te proeven. Geweldige boel, proef zelf maar eens!’ Hij brak een aantal pistolets en deed er wat olie op om ons zelf te laten oordelen. De olie was intens en de smaak van sinaasappel bleef lang hangen. Zoiets past goed bij een pistolet die zelf eerder de drager dan de smaakmaker is. Schoofs is in veel opzichten een typisch Vlaamse bakkerij: je kan er sandwiches, pistolets en enorm veel soorten brood krijgen maar ook wafels, taartjes en seizoensgebak. Het grootste verschil zit hem in de ingrediënten, of het gebrek daarvan. 
 
 Peter maalt ook zijn eigen bloem, die vers wordt verwerkt in zijn producten. 
 
