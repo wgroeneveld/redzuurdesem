@@ -82,7 +82,7 @@ Ik had geen inspraak in de bloem. Het was wel wat jammer dat zo’n industriële
 
 * * *
 
-Na het kneden had ik even ademruimte om iedereen die interesse toonde te voorzien van uitleg over het hele bakproces. Er hingen ook verschillende soorten gedroogde granen op in het bakkershuisje om het verschil te kunnen laten zien tussen rogge-, tarwe-, gerst- en haverhalmen. Tijdnes dergelijke demonstratiedagen wordt geduld echt op de proef gesteld. Iedereen wil natuurlijk een bakker aan het werk zien: het harde werk tijdens het kneden en het gezweet voor de oven. In werkelijkheid zie je niet zoveel van die actie omdat het rijzen veel langer duurt. 
+Na het kneden had ik even ademruimte om iedereen die interesse toonde te voorzien van uitleg over het hele bakproces. Er hingen ook verschillende soorten gedroogde granen op in het bakkershuisje om het verschil te kunnen laten zien tussen rogge-, tarwe-, gerst- en haverhalmen. Tijdens dergelijke demonstratiedagen wordt geduld echt op de proef gesteld. Iedereen wil natuurlijk een bakker aan het werk zien: het harde werk tijdens het kneden en het gezweet voor de oven. In werkelijkheid zie je niet zoveel van die actie omdat het rijzen veel langer duurt. 
 
 Een echte bakker pakt dit veel slimmer aan door ondertussen andere taken op te nemen zoals taartjes maken, een tweede deeg kneden en andere spullen afwerken. Die dingen waren om praktische redenen op dat moment niet mogelijk. Ik werd het snel beu om dezelfde uitleg elke minuut opnieuw te geven vanwege de constante toestroom van nieuwe bezoekers. Soms toonden mensen oprechte interesse. Meestal kwamen ze alleen maar kijken of er iets gratis te proeven viel. Om iedereen die kans te geven had ik een dag op voorhand verschillende broden gebakken. 
 
@@ -247,5 +247,5 @@ In vergelijking met het boerenbrood uit hoofdstuk \ref{bakkenhf} bevat deze form
 
 Ook tijdens de demonstratiedagen had ik geen zin om het mezelf moeilijker te maken. Er was geen werkoppervlak aanwezig, alles moest gebeuren vanuit de trog, en de druk van de constante stroom aan toeschouwers maakte het er niet eenvoudiger op. 
 
-Deze hybride aanpak wordt verder uigewerkt in hoofdstuk \ref{valsspelen}. 
+Deze hybride aanpak wordt verder uitgewerkt in hoofdstuk \ref{valsspelen}. 
 

@@ -39,7 +39,7 @@ De bakkerij van Schoofs is uitstekend uitgerust met twee grote ovens, verschille
 
 ‘Ik bak `400` tot `500` broden op één nacht. Daarvoor heb ik alle ovenruimte nodig die ik kan krijgen.’ Peter laat ons een kijkje nemen in de ovens. 
 
-‘Dit exemplaar is een variant van een rotatieoven’. Tijdens het bakken roteert een rupsband de bakvormenen in de oven om een gelijkmatig bakproces te kunnen garanderen. Het heeft ook verschillende verdiepingen, net zoals zijn tweede oven waar op steen wordt gebakken. 
+‘Dit exemplaar is een variant van een rotatieoven’. Tijdens het bakken roteert een rupsband de bakvormen in de oven om een gelijkmatig bakproces te kunnen garanderen. Het heeft ook verschillende verdiepingen, net zoals zijn tweede oven waar op steen wordt gebakken. 
 
 ‘Stoom je hierin?’ vraagt Dimitri die wijst naar de steenoven. 
 

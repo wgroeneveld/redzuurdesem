@@ -269,7 +269,7 @@ Ik ontmoette Gert Jordens op een dinsdagavond in zijn testlabo aan het Albertkan
 
 'Oh, hier komen alle soorten mensen over de vloer hoor.' En daarmee was het ijs gebroken. 
 
-'Die mensen brengen meestal iemand anders mee die wel graag iets drinkt. En zo is iedereen tevreden.' We zetten ons aan een hoge tafel waarvan de onderkant van het doorzichtig tafelblad bezaaid is met krantenartikels over Jessenhofke, de biologische brouwerij van Gert. De tafel straalde een zekere autoriteit uit, en ik was er best van onder de indruk, behalve dat ze ook plakte. Juist ja, bier. 
+'Die mensen brengen meestal iemand anders mee die wel graag iets drinkt. En zo is iedereen tevreden.' We zetten ons aan een hoge tafel waarvan de onderkant van het doorzichtig tafelblad bezaaid was met krantenartikels over Jessenhofke, de biologische brouwerij van Gert. De tafel straalde een zekere autoriteit uit, en ik was er best van onder de indruk, behalve dat ze ook plakte. Juist ja, bier. 
 
 We praatten wat, Gert over bier brouwen en ik over brood bakken. 
 

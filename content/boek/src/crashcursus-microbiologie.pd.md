@@ -400,9 +400,9 @@ De posters in de gang vatten verschillende biochemisch-getinte experimenten same
 'Dus een simpele ziel die niets van microbiologie of chemie kent, zoals ik, kan dat ook?' Kristel lacht.
 
 
- 'Ja, ja, inderdaad! Wij veranderen de moeilijkheidsgraad afhankelijk van de cursus. Maar een voorwaarde voor identificatie is isolatie, Daarzonder is er geen identificatie mogelijk. Dan kleurt vanalles zonder te weten waardoor.' Ik kan mij moeilijk inbeelden dat professionele laboratoria dezelfde moeizame procedure doorlopen. 
+ 'Ja, ja, inderdaad! Wij veranderen de moeilijkheidsgraad afhankelijk van de cursus. Maar een voorwaarde voor identificatie is isolatie. Daarzonder is er geen identificatie mogelijk. Dan kleurt vanalles zonder te weten waardoor.' Ik kan mij moeilijk inbeelden dat professionele laboratoria dezelfde moeizame procedure doorlopen. 
 
-'Meestal wordt er gekozen voor DNA- of eiwitanalyse, maar beide technieken vereisen dure apparatuur en soms voorkennis over het organisme.' 
+'Meestal wordt er gekozen voor DNA- of eiwitanalyse, maar beide technieken vereisen dure apparatuur en soms voorkennis van het organisme.' 
 
 [^honderd1]: Deze ratio hangt af van cultuur tot cultuur, en varieert van `100:1` tot `10:1`, waarbij bacteriën altijd in de meerderheid zijn. Hoe groter het eerste getal, hoe zuurder, en hoe minder snel het brood zal rijzen. 
 
@@ -432,7 +432,7 @@ Gewapend met mijn nieuwe kennis van microbiologie ontketen ik elke week een met 
 * Die organismen zijn te beïnvloeden door te spelen met vochtigheid, zuurtegraad, zoutgehalte, temperatuur en tijd. 
 * Smaak komt niet van één giststam, maar van veel melkzuurbacteriën. 
 * Zuurdesemculturen uit verschillende regio's zijn uniek.
-* De ideale temperatuur van brood is `24°C` - in de meeste gevallen. Verscheur alle bakboeken waarin staat dat brood op _een warme plaats_ moet rijzen. 
+* De ideale temperatuur van brooddeeg is `24°C` - in de meeste gevallen. Verscheur alle bakboeken waarin staat dat deeg op _een warme plaats_ moet rijzen. 
 * Chocolade is ook een gefermenteerd product. Een ideaal excuus om er veel van te eten. 
 * De ene suiker is de andere niet. 
 * Bacteriën groeien niet lineair, maar exponentieel. 

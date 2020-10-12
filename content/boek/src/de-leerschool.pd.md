@@ -543,7 +543,7 @@ Methode:
 - _Dag 2, 09u50_: 1,5u. Narijs op `24°C`.
 - _Dag 2, 11u20_: 10min. Bakken op `250°C`.
 
-De melkpoeder is vervangen door (lokaal geproduceerde) volle melk, de hoeveelheid verse gist is gezakt van `10` naar `2%`, de verbeteraar is vervangen door boter, het zoutgehalte is verhoogd van `1.4%` naar `1.6%`, en er is uiteraard een voordeeg op basis van zuurdesem toegevoegd. 
+De melkpoeder is vervangen door (lokaal geproduceerde) volle melk, de hoeveelheid verse gist is gezakt van `10` naar `1%`, de verbeteraar is vervangen door boter, het zoutgehalte is verhoogd§ van `1.4%` naar `1.6%`, en er is uiteraard een voordeeg op basis van zuurdesem toegevoegd. 
 
 Sandwiches worden gekenmerkt door luchtigheid en zoetheid. Die twee karakteristieke eigenschappen heb ik geprobeerd aan te houden door het voordeeg niet te lang te fermenteren en nog steeds wat extra gist toe te voegen.
 
