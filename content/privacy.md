@@ -9,9 +9,9 @@ Deze website maakt gebruik van de volgende externe componenten, waar mogelijks c
 
 #### Website statistieken
 
-Deze website gebruikt anonieme IP-gegevens om websiteverkeer beter op te kunnen volgen. Er worden geen enkele persoons- of locatiegebonden gegevens mee opgenomen. Hiervoor wordt een intern systeem genaamd Fathom gebruikt, en niet Google Analytics, zodat data niet wordt verstuurd naar derden.
+Deze website gebruikt anonieme IP-gegevens om websiteverkeer beter op te kunnen volgen. Er worden geen enkele persoons- of locatiegebonden gegevens mee opgenomen. Hiervoor wordt een intern systeem genaamd GoatCounter gebruikt, en niet Google Analytics, zodat data niet wordt verstuurd naar derden. Er worden _geen_ cookies gebruikt.
 
-Meer informatie over het gebruik van cookies door Fathom: https://usefathom.com/privacy
+Meer informatie over het gebruik van cookies door GoatCounter: https://www.goatcounter.com/privacy
 
 #### YouTube
 
