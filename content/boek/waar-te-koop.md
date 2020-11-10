@@ -9,6 +9,7 @@ Het boek is verkrijgbaar via de volgende kanalen:
 
 ### Webshops
 
+- [Amazon.nl (België/Nederland)](https://www.amazon.nl/Red-Zuurdesem-persoonlijke-zoektocht-wetenschap/dp/9464052724/ref=sr_1_1)
 - [Standaard Boekhandel (België)](https://www.standaardboekhandel.be/p/red-zuurdesem-9789464052725)
 - [De Slegte (België)](https://www.deslegte.be/red-zuurdesem-2399122/)
 - [Boekenhandel Boek & Koek (Nederland)](https://www.boekenkoek.net/boeken/gezin-gezondheid/9789464052725-red-zuurdesem/)
