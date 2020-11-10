@@ -8,7 +8,7 @@ tags:
   - temperatuur
 ---
 
-Een aantal weken geleden contacteerde lezer Dirk Scholliers mij in verband met [mijn boek over zuurdesem](/het-boek) het activeren van zuurdesem. Er zijn verschillende manieren om je moeder starter op temperatuur te houden, zoals de [eerder beschreven](/hoe-onderhoud-ik-mijn-desem/) "slaapstand" in de koeling. Dirk vertelde over een erg inventieve manier om de temperatuur (zo goed als) constant te houden: een _Thermos container_! Met zijn toestemming publiceer ik hier zijn methode.
+Een aantal weken geleden contacteerde lezer Dirk Scholliers mij in verband met [mijn boek](/het-boek)en het activeren van zuurdesem. Er zijn verschillende manieren om je moeder starter op temperatuur te houden, zoals de [eerder beschreven](/hoe-onderhoud-ik-mijn-desem/) "slaapstand" in de koeling. Dirk beschreef een erg inventieve manier om de temperatuur (zo goed als) constant te houden: met behulp van een _Thermos container_! Met zijn toestemming publiceer ik hier zijn methode.
 
 ---
 
