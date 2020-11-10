@@ -11,6 +11,10 @@ tags:
   - starter
 ---
 
+Dit artikel is een samenvatting van enkele hoofdstukken uit **het boek** "Red Zuurdesem". Meer verhalen en details zijn terug te vinden [in het boek](/het-boek)!
+
+---
+
 Brood bakken met gist is eenvoudig: combineer alle ingrediënten, wacht een uurtje (of misschien twee), gooi het deeg in de oven en klaar. De gist - of het nu gedroogde of verse is - zorgt er wel voor dat het deeg snel en goed rijst. Maar die gist maak je natuurlijk niet zelf: dat koop je gewoon in de supermarkt.
 
 Toch?

@@ -22,4 +22,4 @@ Het boek is ook opgenomen in de database van het [Centraal Boekhuis](https://www
 
 Geef bij het bestellen titel en auteur op (`Red Zuurdesem`, `Wouter Groeneveld`), of bestel simpelweg op basis van ISBN nummer (`9789464052725`).
 
-Vraag altijd of het over de **tweede druk** van mei 2020 gaat!
+Vraag altijd of het over de **derde druk** van oktober 2020 gaat!

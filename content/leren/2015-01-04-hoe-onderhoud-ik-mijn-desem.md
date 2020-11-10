@@ -16,6 +16,11 @@ comment_images_toggle:
 tags:
   - starter
 ---
+
+Dit artikel uit 2015 is een samenvatting van enkele hoofdstukken uit **het boek** "Red Zuurdesem". Meer informatie en een _vernieuwde formule_ uit 2020 is terug te vinden [in het boek](/het-boek)!
+
+---
+
 ### Ik heb een desem starter&#8230; En nu?
 
 Proficiat met je nieuwe zoon of dochter! Draag er goed zorg voor, en je brood zal super goed rijzen in de oven en enorm lekker smaken. Maar verwaarloos het niet, of je brood zal plat blijven, zo vast als een baksteen, en helemaal zonder smaak&#8230; Het vereist dus wel wat discipline, maar eens je de routine gevonden hebt om je desem te onderhouden, valt dit heel goed mee.

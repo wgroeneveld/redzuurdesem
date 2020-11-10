@@ -9,6 +9,14 @@ Raadpleeg het voorblad om te controleren over welke druk je beschikt.
 
 **Belangrijk**: Deze wijzigingen werden reeds aangepast in de betreffende versies van het boek! Ze staan hier enkel ter vervollediging. 
 
+### Derde druk: oktober 2020
+
+- Toevoeging KBR `D/2020/Wouter Groeneveld, uitgever.`
+- Toevoeging NUR `440`.
+- Wederom een aantal spel- en typfouten verbeterd.
+- Copyright strategie gewijzigd onder het motto _sharing is caring_. Kopies nemen van bladen en delen is nu expliciet toegestaan. 
+- Hoofdstuk de leerschool: verse gist percentage gezakt van 10 naar `1%` en niet `2%`.
+
 ### Tweede druk: mei 2020
 
 - p. 295: Formule voor tarwe boerenbrood: Tarwebloem percentage moet `85%` zijn, niet `100%`. De hoeveelheid staat correct op `850 g`.
