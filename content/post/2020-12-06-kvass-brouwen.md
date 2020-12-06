@@ -9,7 +9,7 @@ tags:
   - desem
 ---
 
-Kvass brouwen, hoe doe je dat? En vooral: wat heeft dit te maken met zuurdesem of zuurdesembrood? Goede vragen, die we stap voor stap zullen beantwoorden in dit artikel. Een verfrissende koolzuurhoudende drank in de zomer, en een hartverwarmende volle drank in de winter - het perfecte drankje om zelf te maken in de Kerstperiode!
+Kvass brouwen, hoe doe je dat? En vooral: wat heeft dit te maken met zuurdesem of zuurdesembrood? Goede vragen, die we stap voor stap zullen beantwoorden in dit artikel. Een verfrissende koolzuurhoudende drank in de zomer, en een hartverwarmende volle drank in de winter - het perfecte drankje om zelf te maken in de Kerstperiode en je overschot aan brood te verwerken! (Tip: _In [het boek](/het-boek) staan nog meer ideetjes over het gebruik van restjes zuurdesembrood_.)
 
 ## Wat is kvass?
 
@@ -66,6 +66,7 @@ De praktijk leert me dat na één week de kvass het lekkerste is: licht zuur, _f
 - Te zuur? Verkort het proces of verminder de toegevoegde zuurdesem. 
 - Te weinig schuim? Voeg commerciële gist toe. 
 - Hoe meer kokend water ten opzichte van brood, hoe minder geconcentreerd de suikers, en hoe minder intens de smaak. 
+- In [mijn boek](/het-boek) staan nog meer tips over het gebruik van restjes zuurdesembrood. 
 
 ![](/images/post/kvass4.jpg "Schol, een schuimende dagscho- euh, glas Kvas!")
 
