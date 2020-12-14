@@ -41,16 +41,16 @@
         Post op {{ .Lastmod.Format (.Site.Params.dateFormat | default "2 January 2006") }}
       {{- end }}
       {{- if isset .Params "link" }}
-        (<a href="{{ .Params.link }}" target="_blank" style="text-decoration: underline;">link</a>)
+        (<a href="{{ .Params.link }}" target="_blank" rel="noopener" style="text-decoration: underline;">link</a>)
       {{- end }}
     </h1>
     {{ if isset .Params "date" }}
-    <h3>
+    <div class="titlemeta">
       <svg>
         <use xlink:href="#calendar"></use>
       </svg>  
       {{ .Lastmod.Format (.Site.Params.dateFormat | default "2 January 2006") }}
-    </h3>
+    </div>
     {{ end }}
     <hr/>
   </div>
@@ -76,7 +76,7 @@
      <p>Klik op '<em>Berichten</em>' en laat iets van je horen!</p>
 
      <p>
-      <a href="https://facebook.com/redzuurdesem/" target="_blank">
+      <a href="https://facebook.com/redzuurdesem/" target="_blank" rel="noopener">
         <img src="/fb/fbwidget.jpg" id="fbwidget" alt="Facebook Widget Screenshot" />
       </a>
      </p>

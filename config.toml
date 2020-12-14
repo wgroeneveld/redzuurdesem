@@ -21,14 +21,15 @@ theme = "desem-swift-theme"
 [outputs]
 home = [ "HTML", "RSS" ]
 
-# https://gohugo.io/getting-started/configuration-markup (ofwel de oude unsafe togglen?) - is nodig, Wordpress export bevat veel HTML!
 [markup]
-	defaultMarkdownHandler = "blackfriday"
+  defaultMarkdownHandler = "goldmark"
+  
+  [markup.goldmark.renderer]
+    unsafe= true
 
-[blackfriday]
-  extensionsmask = ["fencedCode"]
-  fractions = false
-
+  [markup.highlight]
+    codeFences = true
+    
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true

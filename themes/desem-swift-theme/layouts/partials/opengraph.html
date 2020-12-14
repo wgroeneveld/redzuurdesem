@@ -22,8 +22,8 @@
 <meta property="og:type" content="article">
 {{- end }}
 <meta property = 'og:title' content = '{{ $title }}' />
-<meta name="description" content="{{ $summary }}">
-<meta property = 'og:description' content = '{{ $summary }}'>
+<meta name="description" content="{{ $title}} {{ $summary }}">
+<meta property = 'og:description' content = '{{ $title }} {{ $summary }}'>
 <meta property = 'og:url' content = '{{ $permalink }}' />
 <meta property = 'og:image' content = '{{ $image }}'/>
 <meta name = 'twitter:card' content = 'summary_large_image' />
