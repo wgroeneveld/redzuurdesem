@@ -234,7 +234,7 @@ De grote hoeveelheid ongemalen volle granen doen me terugdenken aan het _pottenb
 | `200 g`    | `20%`      | Tarwebloem, `T110`           | 
 | `600 g`    | `60%`      | Tarwemeel, volkoren          |
 | `200 g`    | `20%`      | Roggemeel, volkoren          |
-| `750 g`    | `75%`      | Water                        |
+| `950 g`    | `95%`      | Water                        |
 | `50 g`     | `5%`       | Zilvervliesrijst, ongemalen  |
 | `50 g`     | `5%`       | Speltgranen, ongemalen       |
 | `100 g`    | `10%`      | Lijnzaad, ongebroken         |
