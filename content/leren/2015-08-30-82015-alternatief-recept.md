@@ -31,91 +31,91 @@ Wat men oogt te bereiken is een redelijk simpel proces om zo veel mogelijk smaak
 ### Tijdstabel
 
 <div class="table-responsive">
-  <table  style="width:100%; "  class="easy-table easy-table-default tablesorter  table table-striped" border="0">
-    <tr>
-      <th class=' ' >
-        dag
-      </th>
-      
-      <th class=' ' >
-        tijd
-      </th>
-      
-      <th class=' ' >
-        actie
-      </th>
-    </tr>
-    
-    <tr>
-      <td >
-        1
-      </td>
-      
-      <td >
-        8h
-      </td>
-      
-      <td >
-        <a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a> (fase 1)
-      </td>
-    </tr>
-    
-    <tr>
-      <td >
-        1
-      </td>
-      
-      <td >
-        17h
-      </td>
-      
-      <td >
-        maak een stijf deeg (fase 2)
-      </td>
-    </tr>
-    
-    <tr>
-      <td >
-        2
-      </td>
-      
-      <td >
-        8h
-      </td>
-      
-      <td >
-        maak een nat deeg (fase 3)
-      </td>
-    </tr>
-    
-    <tr>
-      <td >
-        2
-      </td>
-      
-      <td >
-        17h
-      </td>
-      
-      <td >
-        maak je einddeeg (fase 4)
-      </td>
-    </tr>
-    
-    <tr>
-      <td >
-        2
-      </td>
-      
-      <td >
-        18h
-      </td>
-      
-      <td >
-        bakken
-      </td>
-    </tr>
-  </table>
+<table  style="width:100%; "  class="easy-table easy-table-default tablesorter  table table-striped" border="0">
+<tr>
+<th class=' ' >
+dag
+</th>
+
+<th class=' ' >
+tijd
+</th>
+
+<th class=' ' >
+actie
+</th>
+</tr>
+
+<tr>
+<td >
+1
+</td>
+
+<td >
+8h
+</td>
+
+<td >
+<a title="Hoe onderhoud ik mijn desem" href="https://redzuurdesem.be/hoe-onderhoud-ik-mijn-desem/">ververs je desem</a> (fase 1)
+</td>
+</tr>
+
+<tr>
+<td >
+1
+</td>
+
+<td >
+17h
+</td>
+
+<td >
+maak een stijf deeg (fase 2)
+</td>
+</tr>
+
+<tr>
+<td >
+2
+</td>
+
+<td >
+8h
+</td>
+
+<td >
+maak een nat deeg (fase 3)
+</td>
+</tr>
+
+<tr>
+<td >
+2
+</td>
+
+<td >
+17h
+</td>
+
+<td >
+maak je einddeeg (fase 4)
+</td>
+</tr>
+
+<tr>
+<td >
+2
+</td>
+
+<td >
+18h
+</td>
+
+<td >
+bakken
+</td>
+</tr>
+</table>
 </div>
 
 [<img class="size-full wp-image-927" src="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg" alt="Donker aromatisch roggebrood" width="800" height="447" srcset="https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545.jpg 800w, https://redzuurdesem.be/wp-content/uploads/2015/08/MG_6545-300x168.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][4]<figcaption class="wp-caption-text">Donker aromatisch roggebrood</figcaption></figure> 
