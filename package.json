@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "/usr/local/bin/hugo",
-    "index": "node build-lunr-index.js > static/js/redzuurdesem-post.json"
+    "install": "node build-lunr-index.js > static/js/redzuurdesem-post.json"
   },
   "repository": {
     "type": "git",

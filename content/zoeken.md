@@ -5,6 +5,8 @@ aliases:
 disablefb: true
 ---
 
-Niet gevonden wat je zocht? Probeer hier je geluk:
+Niet gevonden wat je zocht? Probeer hier je geluk.
+
+Gebruik het sterretje (`*`) om een deel van een woord te zoeken.
 
 {{< searchresults >}}
