@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/wgroeneveld/redzuurdesem#readme",
   "dependencies": {
-    "jam-my-stack": "^1.0.3"
+    "jam-my-stack": "^1.0.4"
   }
 }
