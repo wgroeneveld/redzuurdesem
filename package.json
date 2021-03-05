@@ -6,17 +6,13 @@
   "directories": {
     "doc": "docs"
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "lunr": "^2.3.6",
-    "parser-front-matter": "^1.6.4"
+    "@babel/preset-env": "^7.9.6"
   },
   "scripts": {
-    "build": "/usr/local/bin/hugo",
-    "install": "node build-lunr-index.js > static/js/redzuurdesem-post.json"
+    "jamstack": "node jamstack-init.js"
   },
   "repository": {
     "type": "git",
@@ -27,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/wgroeneveld/redzuurdesem/issues"
   },
-  "homepage": "https://github.com/wgroeneveld/redzuurdesem#readme"
+  "homepage": "https://github.com/wgroeneveld/redzuurdesem#readme",
+  "dependencies": {
+    "jam-my-stack": "^1.0.3"
+  }
 }

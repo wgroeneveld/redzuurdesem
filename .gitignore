@@ -22,3 +22,10 @@ content/boek/src/synopsis.pdf
 *.idx
 *.ind
 *.toc
+
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
