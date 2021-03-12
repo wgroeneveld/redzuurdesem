@@ -11,7 +11,8 @@
 {{- $image := $scratch.Get "image" }}
 {{- $bg := ( $image | absLangURL) }}
 <li class = 'post_item'>
-  <a class = 'post_card' href='{{ .RelPermalink }}' title = '{{ .Title }}' style = 'background-image: url({{ $bg }});'>
+  <a class = 'post_card' href='{{ .RelPermalink }}' title = '{{ .Title }}'>
+    <img loading="lazy" src="{{ $bg }}" alt="Thumbnail {{ .Title }}">
   </a>
   <div class = 'excerpt'>
     <div class = 'excerpt_meta'>

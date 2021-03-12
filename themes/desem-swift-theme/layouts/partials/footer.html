@@ -14,5 +14,4 @@
 	{{- $scripts = resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath .  }}
 {{- end }}
 <script src = '/js/simple-lightbox.min.js'></script>
-<script src="/js/lazysizes.min.js" async></script>
 <script src = '{{ $scripts.Permalink }}'></script>
